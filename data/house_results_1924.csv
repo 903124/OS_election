@@ -1,0 +1,870 @@
+year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
+1924,house,Alabama,AL,1,John McDuffie,Democratic,86.1,True,True,False
+1924,house,Alabama,AL,1,Frank J. Thompson,Republican,13.9,False,False,False
+1924,house,Alabama,AL,2,J. Lister Hill,Democratic,100.0,True,True,False
+1924,house,Alabama,AL,3,Henry B. Steagall,Democratic,87.7,True,True,False
+1924,house,Alabama,AL,3,Carlos E. Roberts,Republican,12.3,False,False,False
+1924,house,Alabama,AL,4,Lamar Jeffers,Democratic,75.6,True,True,False
+1924,house,Alabama,AL,4,J. C. Middleton,Republican,24.4,False,False,False
+1924,house,Alabama,AL,5,William B. Bowling,Democratic,78.2,True,True,False
+1924,house,Alabama,AL,5,John C. Walker,Republican,21.8,False,False,False
+1924,house,Alabama,AL,6,William B. Oliver,Democratic,100.0,True,True,False
+1924,house,Alabama,AL,7,Miles C. Allgood,Democratic,57.1,True,True,False
+1924,house,Alabama,AL,7,B. S. Cooley,Republican,42.9,False,False,False
+1924,house,Alabama,AL,8,Edward B. Almon,Democratic,81.5,True,True,False
+1924,house,Alabama,AL,8,G. H. Huckaba,Republican,18.5,False,False,False
+1924,house,Alabama,AL,9,George Huddleston,Democratic,99.9,True,True,False
+1924,house,Alabama,AL,9,James Weatherly,Republican,0.1,False,False,False
+1924,house,Alabama,AL,10,William B. Bankhead,Democratic,59.7,True,True,False
+1924,house,Alabama,AL,10,W. A. McMurray,Republican,40.3,False,False,False
+1924,house,Arizona,AZ,AL,Carl Hayden,Democratic,82.3,True,True,False
+1924,house,Arizona,AZ,AL,W. J. Galbraith,Republican,17.6,False,False,False
+1924,house,Arizona,AZ,AL,George Maxwell,Independent,0.1,False,False,False
+1924,house,Arkansas,AR,1,William J. Driver,Democratic,77.2,True,True,False
+1924,house,Arkansas,AR,1,Virgil R. Greene,Republican,22.8,False,False,False
+1924,house,Arkansas,AR,2,William A. Oldfield,Democratic,73.7,True,True,False
+1924,house,Arkansas,AR,2,M. D. Bowers,Republican,26.3,False,False,False
+1924,house,Arkansas,AR,3,John N. Tillman,Democratic,60.0,True,True,False
+1924,house,Arkansas,AR,3,J. S. Thompson,Republican,40.0,False,False,False
+1924,house,Arkansas,AR,4,Otis Wingo,Democratic,72.4,True,True,False
+1924,house,Arkansas,AR,4,Charles A. Darling,Republican,27.6,False,False,False
+1924,house,Arkansas,AR,5,Heartsill Ragon,Democratic,76.9,True,True,False
+1924,house,Arkansas,AR,5,Powell Clayton,Republican,23.1,False,False,False
+1924,house,Arkansas,AR,6,James B. Reed,Democratic,77.0,True,True,False
+1924,house,Arkansas,AR,6,Martin A. Eisele,Republican,23.0,False,False,False
+1924,house,Arkansas,AR,7,Tilman B. Parks,Democratic,76.6,True,True,False
+1924,house,Arkansas,AR,7,J. K. Prescott,Republican,23.4,False,False,False
+1924,house,California,CA,1,Clarence F. Lea,Democratic,100.0,True,True,False
+1924,house,California,CA,2,John E. Raker,Democratic,100.0,True,True,False
+1924,house,California,CA,3,Charles F. Curry,Republican,80.7,True,True,False
+1924,house,California,CA,4,Julius Kahn,Republican,81.0,True,True,False
+1924,house,California,CA,5,Lawrence J. Flaherty,Republican,76.2,True,False,True
+1924,house,California,CA,6,Albert E. Carter,Republican,57.5,True,False,False
+1924,house,California,CA,6,John L. Davie,Democratic,35.9,False,False,False
+1924,house,California,CA,6,Herbert L. Coggins,Socialist,6.6,False,False,False
+1924,house,California,CA,7,Henry E. Barbour,Republican,100.0,True,True,False
+1924,house,California,CA,8,Arthur M. Free,Republican,97.9,True,True,False
+1924,house,California,CA,9,Walter F. Lineberger,Republican,63.9,True,True,False
+1924,house,California,CA,9,Charles H. Randall,Democratic,36.1,False,False,False
+1924,house,California,CA,10,John D. Fredericks,Republican,62.3,True,True,False
+1924,house,California,CA,10,Robert W. Richardson,Democratic,37.7,False,False,False
+1924,house,California,CA,11,Phil Swing,Republican,100.0,True,True,False
+1924,house,Colorado,CO,1,William N. Vaile,Republican,54.2,True,True,False
+1924,house,Colorado,CO,1,James G. Edgeworth,Democratic,42.0,False,False,False
+1924,house,Colorado,CO,1,Thomas O. Spacey,Independent,3.1,False,False,False
+1924,house,Colorado,CO,1,Louis A. Zeitlin,Independent,0.8,False,False,False
+1924,house,Colorado,CO,2,Charles B. Timberlake,Republican,56.9,True,True,False
+1924,house,Colorado,CO,2,James M. Taylor,Democratic,35.0,False,False,False
+1924,house,Colorado,CO,2,James A. Owenby,Independent,7.4,False,False,False
+1924,house,Colorado,CO,2,Nelson Dewey,Independent,0.7,False,False,False
+1924,house,Colorado,CO,3,Guy U. Hardy,Republican,58.7,True,True,False
+1924,house,Colorado,CO,3,Charles B. Hughes,Democratic,41.3,False,False,False
+1924,house,Colorado,CO,4,Edward T. Taylor,Democratic,65.5,True,True,False
+1924,house,Colorado,CO,4,Webster S. Whinnery,Republican,34.5,False,False,False
+1924,house,Connecticut,CT,1,E. Hart Fenn,Republican,66.8,True,True,False
+1924,house,Connecticut,CT,1,Johnstone Vance,Democratic,31.9,False,False,False
+1924,house,Connecticut,CT,2,Richard P. Freeman,Republican,65.0,True,True,False
+1924,house,Connecticut,CT,2,Frank P. Fenton,Democratic,34.3,False,False,False
+1924,house,Connecticut,CT,3,John Q. Tilson,Republican,67.9,True,True,False
+1924,house,Connecticut,CT,3,William T. Hoyt,Democratic,30.3,False,False,False
+1924,house,Connecticut,CT,4,Schuyler Merritt,Republican,71.1,True,True,False
+1924,house,Connecticut,CT,4,William E. Walling,Democratic,27.0,False,False,False
+1924,house,Connecticut,CT,5,James P. Glynn,Republican,55.0,True,False,False
+1924,house,Connecticut,CT,5,Patrick B. O'Sullivan,Democratic,39.4,False,True,False
+1924,house,Delaware,DE,AL,Robert G. Houston,Republican,58.6,True,False,False
+1924,house,Delaware,DE,AL,William H. Boyce,Democratic,40.8,False,True,False
+1924,house,Delaware,DE,AL,Florence Garvin,Independent,0.6,False,False,False
+1924,house,Florida,FL,1,Herbert J. Drane,Democratic,80.0,True,True,False
+1924,house,Florida,FL,1,A. W. Gage,Republican,20.0,False,False,False
+1924,house,Florida,FL,2,Robert A. Green,Democratic,90.6,True,False,False
+1924,house,Florida,FL,2,H. O. Brown,Republican,9.4,False,False,False
+1924,house,Florida,FL,3,John H. Smithwick,Democratic,84.1,True,True,False
+1924,house,Florida,FL,3,J. H. Drummond,Republican,15.9,False,False,False
+1924,house,Florida,FL,4,William J. Sears,Democratic,62.5,True,True,False
+1924,house,Florida,FL,4,G. W. Bingham,Republican,30.1,False,False,False
+1924,house,Georgia,GA,1,Charles G. Edwards,Democratic,93.2,True,False,False
+1924,house,Georgia,GA,1,A. G. Aaron,Independent,4.0,False,False,False
+1924,house,Georgia,GA,1,Don H. Clarke,Republican,2.8,False,False,False
+1924,house,Georgia,GA,2,Edward E. Cox,Democratic,100.0,True,False,False
+1924,house,Georgia,GA,3,Charles R. Crisp,Democratic,100.0,True,True,False
+1924,house,Georgia,GA,4,William C. Wright,Democratic,100.0,True,True,False
+1924,house,Georgia,GA,5,William D. Upshaw,Democratic,100.0,True,True,False
+1924,house,Georgia,GA,6,Samuel Rutherford,Democratic,100.0,True,False,True
+1924,house,Georgia,GA,7,Gordon Lee,Democratic,99.9,True,True,False
+1924,house,Georgia,GA,7,A. T. Atwater,Independent,0.1,False,False,False
+1924,house,Georgia,GA,8,Charles H. Brand,Democratic,100.0,True,True,False
+1924,house,Georgia,GA,9,Thomas M. Bell,Democratic,87.7,True,True,False
+1924,house,Georgia,GA,9,J. M. Johnson,Republican,12.3,False,False,False
+1924,house,Georgia,GA,10,Carl Vinson,Democratic,100.0,True,True,False
+1924,house,Georgia,GA,11,William C. Lankford,Democratic,100.0,True,True,False
+1924,house,Georgia,GA,12,William W. Larsen,Democratic,100.0,True,True,False
+1924,house,Idaho,ID,1,Burton L. French,Republican,61.8,True,True,False
+1924,house,Idaho,ID,1,Perry Mitchell,Democratic,37.5,False,False,False
+1924,house,Idaho,ID,2,Addison T. Smith,Republican,54.5,True,True,False
+1924,house,Idaho,ID,2,William A. Shuldberg,Progressive,28.7,False,False,False
+1924,house,Idaho,ID,2,Asher B. Wilson,Democratic,16.6,False,False,False
+1924,house,Illinois,IL,1,Martin B. Madden,Republican,73.1,True,True,False
+1924,house,Illinois,IL,1,James F. Doyle,Democratic,22.8,False,False,False
+1924,house,Illinois,IL,1,Samuel A. T. Watkins,Independent,3.7,False,False,False
+1924,house,Illinois,IL,2,Morton D. Hull,Republican,74.5,True,True,False
+1924,house,Illinois,IL,2,Frank A. Wright,Democratic,24.6,False,False,False
+1924,house,Illinois,IL,3,Elliott W. Sproul,Republican,67.0,True,True,False
+1924,house,Illinois,IL,3,Joseph F. Timmis,Democratic,32.3,False,False,False
+1924,house,Illinois,IL,4,Thomas A. Doyle,Democratic,56.0,True,True,False
+1924,house,Illinois,IL,4,Stanley Jankowski,Republican,43.3,False,False,False
+1924,house,Illinois,IL,5,Adolph J. Sabath,Democratic,57.8,True,True,False
+1924,house,Illinois,IL,5,Bernard A. Weaver,Republican,41.4,False,False,False
+1924,house,Illinois,IL,6,John J. Gorman,Republican,67.8,True,False,False
+1924,house,Illinois,IL,6,James R. Buckley,Democratic,31.2,False,True,False
+1924,house,Illinois,IL,7,M. Alfred Michaelson,Republican,67.7,True,True,False
+1924,house,Illinois,IL,7,Hynek M. Howell,Democratic,23.4,False,False,False
+1924,house,Illinois,IL,7,Edward A. Russell,Independent,6.6,False,False,False
+1924,house,Illinois,IL,8,Stanley H. Kunz,Democratic,53.1,True,True,False
+1924,house,Illinois,IL,8,Ernest D. Potts,Republican,41.3,False,False,False
+1924,house,Illinois,IL,8,Gerard Kasmarek,Independent,5.0,False,False,False
+1924,house,Illinois,IL,9,Frederick A. Britten,Republican,76.6,True,True,False
+1924,house,Illinois,IL,9,Urban A. Lavery,Democratic,22.4,False,False,False
+1924,house,Illinois,IL,10,Carl R. Chindblom,Republican,80.0,True,True,False
+1924,house,Illinois,IL,10,John P. Reed,Democratic,19.3,False,False,False
+1924,house,Illinois,IL,11,Frank R. Reid,Republican,84.1,True,True,False
+1924,house,Illinois,IL,11,Charles L. Schwartz,Democratic,15.3,False,False,False
+1924,house,Illinois,IL,12,Charles Eugene Fuller,Republican,84.5,True,True,False
+1924,house,Illinois,IL,12,Marvin C. Parsons,Democratic,14.9,False,False,False
+1924,house,Illinois,IL,13,William Richard Johnson,Republican,77.8,True,False,True
+1924,house,Illinois,IL,13,William G. Curtiss,Democratic,21.7,False,False,True
+1924,house,Illinois,IL,14,John Clayton Allen,Republican,64.7,True,False,True
+1924,house,Illinois,IL,14,William A. Schaeffer,Democratic,35.3,False,False,True
+1924,house,Illinois,IL,15,Edward John King,Republican,69.2,True,True,False
+1924,house,Illinois,IL,15,Henry E. Schmiedeskamp,Democratic,30.0,False,False,False
+1924,house,Illinois,IL,16,William E. Hull,Republican,55.4,True,True,False
+1924,house,Illinois,IL,16,Charles C. Hatcher,Democratic,43.9,False,False,False
+1924,house,Illinois,IL,17,Frank H. Funk,Republican,60.1,True,True,False
+1924,house,Illinois,IL,17,Frank Gillespie,Democratic,39.6,False,False,False
+1924,house,Illinois,IL,18,William P. Holaday,Republican,64.4,True,True,False
+1924,house,Illinois,IL,18,Andrew B. Dennis,Democratic,35.3,False,False,False
+1924,house,Illinois,IL,19,Charles Adkins,Republican,56.5,True,False,True
+1924,house,Illinois,IL,19,Edward F. Poorman,Democratic,43.1,False,False,True
+1924,house,Illinois,IL,20,Henry T. Rainey,Democratic,53.0,True,True,False
+1924,house,Illinois,IL,20,Guy L. Shaw,Republican,47.0,False,False,False
+1924,house,Illinois,IL,21,Loren E. Wheeler,Republican,50.0,True,False,False
+1924,house,Illinois,IL,21,J. Earl Major,Democratic,48.7,False,True,False
+1924,house,Illinois,IL,22,Edward M. Irwin,Republican,57.7,True,False,True
+1924,house,Illinois,IL,22,Edward E. Campbell,Democratic,41.5,False,False,True
+1924,house,Illinois,IL,23,William W. Arnold,Democratic,53.9,True,True,False
+1924,house,Illinois,IL,23,Charles J. Metzger,Republican,45.7,False,False,False
+1924,house,Illinois,IL,24,Thomas Sutler Williams,Republican,54.1,True,True,False
+1924,house,Illinois,IL,24,H. Robert Fowler,Democratic,45.9,False,False,False
+1924,house,Illinois,IL,25,Edward E. Denison,Republican,58.1,True,True,False
+1924,house,Illinois,IL,25,Philip N. Lewis,Democratic,41.5,False,False,False
+1924,house,Illinois,IL,AL,Richard Yates Jr.,Republican,34.5,True,True,False
+1924,house,Illinois,IL,AL,Henry R. Rathbone,Republican,34.4,True,False,False
+1924,house,Illinois,IL,AL,Mary Ward Hart,Democratic,15.2,False,False,False
+1924,house,Illinois,IL,AL,Allen D. Albert,Democratic,14.9,False,False,False
+1924,house,Indiana,IN,1,Harry E. Rowbottom,Republican,52.1,True,False,False
+1924,house,Indiana,IN,1,William E. Wilson,Democratic,47.9,False,True,False
+1924,house,Indiana,IN,2,Arthur H. Greenwood,Democratic,50.4,True,True,False
+1924,house,Indiana,IN,2,John E. Sedwick,Republican,49.6,False,False,False
+1924,house,Indiana,IN,3,Frank Gardner,Democratic,52.9,True,True,False
+1924,house,Indiana,IN,3,Lindley Barlow,Republican,47.1,False,False,False
+1924,house,Indiana,IN,4,Harry C. Canfield,Democratic,58.2,True,True,False
+1924,house,Indiana,IN,4,James W. Hill,Republican,41.8,False,False,False
+1924,house,Indiana,IN,5,Noble J. Johnson,Republican,61.8,True,False,True
+1924,house,Indiana,IN,5,J. R. Shannon,Democratic,38.2,False,False,True
+1924,house,Indiana,IN,6,Richard N. Elliott,Republican,55.3,True,True,False
+1924,house,Indiana,IN,6,Laurence A. Handley,Democratic,44.7,False,False,False
+1924,house,Indiana,IN,7,Ralph E. Updike,Republican,60.3,True,False,False
+1924,house,Indiana,IN,7,Joseph P. Turk,Democratic,39.7,False,False,False
+1924,house,Indiana,IN,8,Albert H. Vestal,Republican,55.8,True,True,False
+1924,house,Indiana,IN,8,John A. M. Adair,Democratic,44.2,False,False,False
+1924,house,Indiana,IN,9,Fred S. Purnell,Republican,55.0,True,True,False
+1924,house,Indiana,IN,9,James P. Davis,Democratic,45.0,False,False,False
+1924,house,Indiana,IN,10,William R. Wood,Republican,66.8,True,True,False
+1924,house,Indiana,IN,10,Harry O. Rhoades,Democratic,33.2,False,False,False
+1924,house,Indiana,IN,11,Albert R. Hall,Republican,54.5,True,False,False
+1924,house,Indiana,IN,11,Samuel E. Cook,Democratic,45.5,False,True,False
+1924,house,Indiana,IN,12,David Hogg,Republican,58.4,True,False,False
+1924,house,Indiana,IN,12,Charles W. Branstrator,Democratic,41.6,False,False,False
+1924,house,Indiana,IN,13,Andrew J. Hickey,Republican,61.7,True,True,False
+1924,house,Indiana,IN,13,James L. Harman,Democratic,38.3,False,False,False
+1924,house,Iowa,IA,1,William F. Kopp,Republican,71.4,True,True,False
+1924,house,Iowa,IA,1,James M. Bell,Democratic,28.6,False,False,False
+1924,house,Iowa,IA,2,F. Dickinson Letts,Republican,59.7,True,False,False
+1924,house,Iowa,IA,2,Ralph U. Thompson,Democratic,39.9,False,False,False
+1924,house,Iowa,IA,2,Lester Myers,Independent,0.4,False,False,False
+1924,house,Iowa,IA,3,Thomas J. B. Robinson,Republican,68.5,True,True,False
+1924,house,Iowa,IA,3,Willis N. Birdsall,Democratic,31.5,False,False,False
+1924,house,Iowa,IA,4,Gilbert N. Haugen,Republican,71.1,True,True,False
+1924,house,Iowa,IA,4,J. M. Berry,Democratic,28.9,False,False,False
+1924,house,Iowa,IA,5,Cyrenus Cole,Republican,70.2,True,True,False
+1924,house,Iowa,IA,5,W. N. Townsend,Democratic,29.8,False,False,False
+1924,house,Iowa,IA,6,C. William Ramseyer,Republican,69.1,True,True,False
+1924,house,Iowa,IA,6,James V. Curran,Democratic,30.7,False,False,False
+1924,house,Iowa,IA,6,Carrie I. Engle,Independent,0.2,False,False,False
+1924,house,Iowa,IA,7,Cassius C. Dowell,Republican,78.3,True,True,False
+1924,house,Iowa,IA,7,William M. Wade,Democratic,21.7,False,False,False
+1924,house,Iowa,IA,8,Lloyd Thurston,Republican,62.5,True,False,True
+1924,house,Iowa,IA,8,Le Roy Munyon,Democratic,37.5,False,False,True
+1924,house,Iowa,IA,9,William R. Green,Republican,68.0,True,True,False
+1924,house,Iowa,IA,9,Charles F. Paschell,Democratic,31.5,False,False,False
+1924,house,Iowa,IA,9,Mads Madson,Independent,0.5,False,False,False
+1924,house,Iowa,IA,10,L. J. Dickinson,Republican,75.4,True,True,False
+1924,house,Iowa,IA,10,Richard F. Mitchell,Democratic,24.6,False,False,False
+1924,house,Iowa,IA,11,William D. Boies,Republican,61.5,True,True,False
+1924,house,Iowa,IA,11,A. Sykes,Democratic,38.5,False,False,False
+1924,house,Kansas,KS,1,Daniel R. Anthony Jr.,Republican,70.8,True,True,False
+1924,house,Kansas,KS,1,Lee Eppinger,Democratic,29.2,False,False,False
+1924,house,Kansas,KS,2,Chauncey B. Little,Democratic,48.8,True,False,True
+1924,house,Kansas,KS,2,Russell Dyer,Republican,44.6,False,False,True
+1924,house,Kansas,KS,2,Arthur L. McKenney,Independent,6.6,False,False,True
+1924,house,Kansas,KS,3,William H. Sproul,Republican,57.3,True,True,False
+1924,house,Kansas,KS,3,Charles Stephens,Democratic,42.7,False,False,False
+1924,house,Kansas,KS,4,Homer Hoch,Republican,65.0,True,True,False
+1924,house,Kansas,KS,4,R. W. Woodside,Democratic,35.0,False,False,False
+1924,house,Kansas,KS,5,James G. Strong,Republican,60.0,True,True,False
+1924,house,Kansas,KS,5,Clarence E. Hatfield,Democratic,40.0,False,False,False
+1924,house,Kansas,KS,6,Hays B. White,Republican,52.5,True,True,False
+1924,house,Kansas,KS,6,John R. Connelly,Democratic,47.5,False,False,False
+1924,house,Kansas,KS,7,Jasper N. Tincher,Republican,54.6,True,True,False
+1924,house,Kansas,KS,7,Nellie Cline,Democratic,45.4,False,False,False
+1924,house,Kansas,KS,8,William A. Ayres,Democratic,60.6,True,True,False
+1924,house,Kansas,KS,8,Chester I. Long,Republican,39.4,False,False,False
+1924,house,Kentucky,KY,1,Alben W. Barkley,Democratic,66.9,True,True,False
+1924,house,Kentucky,KY,1,Robert L. Myre,Republican,33.1,False,False,False
+1924,house,Kentucky,KY,2,David Hayes Kincheloe,Democratic,100.0,True,True,False
+1924,house,Kentucky,KY,3,Robert Y. Thomas Jr.,Democratic,52.7,True,True,False
+1924,house,Kentucky,KY,3,George Baker,Republican,47.3,False,False,False
+1924,house,Kentucky,KY,4,Ben Johnson,Democratic,53.5,True,True,False
+1924,house,Kentucky,KY,4,Z. T. Proctor,Republican,45.7,False,False,False
+1924,house,Kentucky,KY,4,R. H. McMullin,Independent,0.7,False,False,False
+1924,house,Kentucky,KY,5,Maurice Thatcher,Republican,54.5,True,True,False
+1924,house,Kentucky,KY,5,Sam H. McMeekin,Democratic,45.5,False,False,False
+1924,house,Kentucky,KY,6,Arthur B. Rouse,Democratic,49.5,True,True,False
+1924,house,Kentucky,KY,6,Benedict S. Landram,Republican,29.8,False,False,False
+1924,house,Kentucky,KY,7,Virgil Chapman,Democratic,100.0,True,False,True
+1924,house,Kentucky,KY,8,Ralph W. E. Gilbert,Democratic,100.0,True,True,False
+1924,house,Kentucky,KY,9,Fred M. Vinson,Democratic,54.5,True,True,False
+1924,house,Kentucky,KY,9,George Osborne,Republican,45.5,False,False,False
+1924,house,Kentucky,KY,10,John W. Langley,Republican,59.7,True,True,False
+1924,house,Kentucky,KY,10,Alex L. Ratliff,Democratic,39.6,False,False,False
+1924,house,Kentucky,KY,10,John S. Layne,Independent,0.7,False,False,False
+1924,house,Kentucky,KY,11,John M. Robsion,Republican,74.4,True,True,False
+1924,house,Kentucky,KY,11,Nat B. Sewell,Democratic,25.6,False,False,False
+1924,house,Louisiana,LA,1,James O'Connor,Democratic,100.0,True,True,False
+1924,house,Louisiana,LA,2,James Z. Spearing,Democratic,100.0,True,True,False
+1924,house,Louisiana,LA,3,Whitmell P. Martin,Democratic,100.0,True,True,False
+1924,house,Louisiana,LA,4,John N. Sandlin,Democratic,100.0,True,True,False
+1924,house,Louisiana,LA,5,Riley J. Wilson,Democratic,100.0,True,True,False
+1924,house,Louisiana,LA,6,Bolivar E. Kemp,Democratic,100.0,True,False,False
+1924,house,Louisiana,LA,7,Ladislas Lazaro,Democratic,100.0,True,True,False
+1924,house,Louisiana,LA,8,James Benjamin Aswell,Democratic,100.0,True,True,False
+1924,house,Maine,ME,1,Carroll L. Beedy,Republican,59.2,True,True,False
+1924,house,Maine,ME,1,William M. Ingraham,Democratic,40.8,False,False,False
+1924,house,Maine,ME,2,Wallace H. White,Republican,57.8,True,True,False
+1924,house,Maine,ME,2,Bertrand G. McIntire,Democratic,42.2,False,False,False
+1924,house,Maine,ME,3,John E. Nelson,Republican,62.1,True,True,False
+1924,house,Maine,ME,3,Leon O. Tebbetts,Democratic,37.9,False,False,False
+1924,house,Maine,ME,4,Ira G. Hersey,Republican,62.0,True,True,False
+1924,house,Maine,ME,4,Clinton G. Stevens,Democratic,38.0,False,False,False
+1924,house,Maryland,MD,1,T. Alan Goldsborough,Democratic,57.0,True,True,False
+1924,house,Maryland,MD,1,Harry T. Phoebus,Republican,43.0,False,False,False
+1924,house,Maryland,MD,2,Millard Tydings,Democratic,53.2,True,True,False
+1924,house,Maryland,MD,2,Edward R. Simpson,Republican,44.7,False,False,False
+1924,house,Maryland,MD,3,John P. Hill,Republican,61.5,True,True,False
+1924,house,Maryland,MD,3,George Heller,Democratic,36.8,False,False,False
+1924,house,Maryland,MD,4,J. Charles Linthicum,Democratic,59.9,True,True,False
+1924,house,Maryland,MD,4,John R. M. Staum,Republican,38.0,False,False,False
+1924,house,Maryland,MD,5,Stephen W. Gambrill,Democratic,51.6,True,False,True
+1924,house,Maryland,MD,5,Thomas B. R. Mudd,Republican,48.4,False,False,True
+1924,house,Maryland,MD,6,Frederick N. Zihlman,Republican,53.8,True,True,False
+1924,house,Maryland,MD,6,David C. Winebrenner III,Democratic,44.6,False,False,False
+1924,house,Massachusetts,MA,1,Allen T. Treadway,Republican,58.5,True,True,False
+1924,house,Massachusetts,MA,1,Thomas F. Cassidy,Democratic,41.5,False,False,False
+1924,house,Massachusetts,MA,2,George B. Churchill,Republican,57.3,True,False,True
+1924,house,Massachusetts,MA,2,Joseph E. Kerigan,Democratic,42.7,False,False,True
+1924,house,Massachusetts,MA,3,Frank H. Foss,Republican,64.4,True,False,True
+1924,house,Massachusetts,MA,3,Wilfred J. Lamoureux,Democratic,35.6,False,False,True
+1924,house,Massachusetts,MA,4,George R. Stobbs,Republican,57.3,True,False,True
+1924,house,Massachusetts,MA,4,William H. Dyer,Democratic,41.2,False,False,True
+1924,house,Massachusetts,MA,5,John Jacob Rogers,Republican,67.4,True,True,False
+1924,house,Massachusetts,MA,5,Humphrey O'Sullivan,Democratic,32.6,False,False,False
+1924,house,Massachusetts,MA,6,A. Piatt Andrew,Republican,100.0,True,True,False
+1924,house,Massachusetts,MA,7,William P. Connery Jr.,Democratic,55.7,True,True,False
+1924,house,Massachusetts,MA,7,Charles A. Littlefield,Republican,44.3,False,False,False
+1924,house,Massachusetts,MA,8,Harry Irving Thayer,Republican,62.0,True,False,True
+1924,house,Massachusetts,MA,8,Daniel P. Leahy,Democratic,38.0,False,False,True
+1924,house,Massachusetts,MA,9,Charles L. Underhill,Republican,58.9,True,True,False
+1924,house,Massachusetts,MA,9,Arthur D. Healey,Democratic,41.1,False,False,False
+1924,house,Massachusetts,MA,10,John J. Douglass,Democratic,58.9,True,False,False
+1924,house,Massachusetts,MA,10,Peter Francis Tague,Independent,26.2,False,True,False
+1924,house,Massachusetts,MA,10,James E. Maguire,Republican,12.6,False,False,False
+1924,house,Massachusetts,MA,11,George H. Tinkham,Republican,66.0,True,True,False
+1924,house,Massachusetts,MA,11,Timothy J. Driscoll,Democratic,34.0,False,False,False
+1924,house,Massachusetts,MA,12,James A. Gallivan,Democratic,73.3,True,True,False
+1924,house,Massachusetts,MA,12,Howard A. Morton,Republican,26.7,False,False,False
+1924,house,Massachusetts,MA,13,Robert Luce,Republican,69.3,True,True,False
+1924,house,Massachusetts,MA,13,Edwin F. Tutle,Democratic,30.7,False,False,False
+1924,house,Massachusetts,MA,14,Louis A. Frothingham,Republican,69.1,True,True,False
+1924,house,Massachusetts,MA,14,David W. Murray,Democratic,30.9,False,False,False
+1924,house,Massachusetts,MA,15,Joseph W. Martin Jr.,Republican,58.4,True,False,True
+1924,house,Massachusetts,MA,15,Arthur J. B. Cartier,Democratic,41.6,False,False,True
+1924,house,Massachusetts,MA,16,Charles L. Gifford,Republican,69.5,True,True,False
+1924,house,Massachusetts,MA,16,James P. Doran,Democratic,25.8,False,False,False
+1924,house,Michigan,MI,1,John B. Sosnowski,Republican,67.5,True,False,False
+1924,house,Michigan,MI,1,Robert H. Clancy,Democratic,32.2,False,True,False
+1924,house,Michigan,MI,2,Earl C. Michener,Republican,73.8,True,True,False
+1924,house,Michigan,MI,2,James W. Helme,Democratic,26.2,False,False,False
+1924,house,Michigan,MI,3,Arthur B. Williams,Republican,65.1,True,True,False
+1924,house,Michigan,MI,3,Claude S. Carney,Democratic,34.9,False,False,False
+1924,house,Michigan,MI,4,John C. Ketcham,Republican,70.3,True,True,False
+1924,house,Michigan,MI,4,Fremont Evans,Democratic,29.6,False,False,False
+1924,house,Michigan,MI,5,Carl E. Mapes,Republican,81.3,True,True,False
+1924,house,Michigan,MI,5,Harry C. White,Democratic,18.7,False,False,False
+1924,house,Michigan,MI,6,Grant M. Hudson,Republican,85.6,True,True,False
+1924,house,Michigan,MI,6,Willis M. Brewer,Democratic,14.4,False,False,False
+1924,house,Michigan,MI,7,Louis C. Cramton,Republican,80.8,True,True,False
+1924,house,Michigan,MI,7,Varnum J. Bowers,Democratic,19.1,False,False,False
+1924,house,Michigan,MI,8,Bird J. Vincent,Republican,77.5,True,True,False
+1924,house,Michigan,MI,8,William A. Seegmiller,Democratic,22.5,False,False,False
+1924,house,Michigan,MI,9,James C. McLaughlin,Republican,84.1,True,True,False
+1924,house,Michigan,MI,9,Charles M. Black,Democratic,15.6,False,False,False
+1924,house,Michigan,MI,10,Roy O. Woodruff,Republican,81.3,True,True,False
+1924,house,Michigan,MI,10,Judson E. Richardson,Democratic,18.7,False,False,False
+1924,house,Michigan,MI,11,Frank D. Scott,Republican,73.3,True,True,False
+1924,house,Michigan,MI,11,Prentiss M. Brown,Democratic,26.7,False,False,False
+1924,house,Michigan,MI,12,W. Frank James,Republican,100.0,True,True,False
+1924,house,Michigan,MI,13,Clarence J. McLeod,Republican,88.4,True,True,False
+1924,house,Michigan,MI,13,Joel L. Moore,Democratic,11.6,False,False,False
+1924,house,Minnesota,MN,1,Allen J. Furlow,Republican,53.4,True,False,True
+1924,house,Minnesota,MN,1,Lindley B. Hanna,Democratic,9.9,False,False,True
+1924,house,Minnesota,MN,2,Frank Clague,Republican,60.5,True,True,False
+1924,house,Minnesota,MN,3,August H. Andresen,Republican,57.3,True,False,False
+1924,house,Minnesota,MN,4,Oscar Keller,Republican,47.7,True,True,False
+1924,house,Minnesota,MN,4,Daniel W. Lawler,Democratic,36.8,False,False,False
+1924,house,Minnesota,MN,5,Walter Newton,Republican,58.9,True,True,False
+1924,house,Minnesota,MN,5,John S. Crosby,Democratic,9.4,False,False,False
+1924,house,Minnesota,MN,6,Harold Knutson,Republican,54.1,True,True,False
+1924,house,Minnesota,MN,7,Ole J. Kvale,Farmer–Labor,58.5,True,True,False
+1924,house,Minnesota,MN,7,Gunnar B. Bjornson,Republican,41.5,False,False,False
+1924,house,Minnesota,MN,8,William L. Carss,Farmer–Labor,54.3,True,False,True
+1924,house,Minnesota,MN,8,Victor L. Power,Republican,45.7,False,False,True
+1924,house,Minnesota,MN,9,Knud Wefald,Farmer–Labor,56.8,True,True,False
+1924,house,Minnesota,MN,9,Frank H. Peterson,Republican,43.2,False,False,False
+1924,house,Minnesota,MN,10,Godfrey G. Goodwin,Republican,53.8,True,False,True
+1924,house,Minnesota,MN,10,Frank Hicks,Democratic,5.1,False,False,True
+1924,house,Mississippi,MS,1,John E. Rankin,Democratic,100.0,True,True,False
+1924,house,Mississippi,MS,2,Bill G. Lowrey,Democratic,100.0,True,True,False
+1924,house,Mississippi,MS,3,William Madison Whittington,Democratic,100.0,True,False,True
+1924,house,Mississippi,MS,4,T. Jeff Busby,Democratic,95.7,True,True,False
+1924,house,Mississippi,MS,4,R. H. DeKay,Republican,4.3,False,False,False
+1924,house,Mississippi,MS,5,Ross A. Collins,Democratic,100.0,True,True,False
+1924,house,Mississippi,MS,6,T. Webber Wilson,Democratic,100.0,True,True,False
+1924,house,Mississippi,MS,7,Percy Quin,Democratic,100.0,True,True,False
+1924,house,Mississippi,MS,8,James W. Collier,Democratic,100.0,True,True,False
+1924,house,Missouri,MO,1,Milton A. Romjue,Democratic,57.3,True,True,False
+1924,house,Missouri,MO,1,Frank C. Millspaugh,Republican,42.7,False,False,False
+1924,house,Missouri,MO,2,Ralph F. Lozier,Democratic,62.8,True,True,False
+1924,house,Missouri,MO,2,W. R. Sweeney,Republican,36.5,False,False,False
+1924,house,Missouri,MO,3,Jacob L. Milligan,Democratic,52.8,True,True,False
+1924,house,Missouri,MO,3,Henry F. Lawrence,Republican,47.2,False,False,False
+1924,house,Missouri,MO,4,Charles L. Faust,Republican,51.3,True,True,False
+1924,house,Missouri,MO,4,John McDaniel,Democratic,48.7,False,False,False
+1924,house,Missouri,MO,5,Edgar C. Ellis,Republican,49.8,True,False,True
+1924,house,Missouri,MO,5,George H. Combs Jr.,Democratic,48.9,False,False,True
+1924,house,Missouri,MO,6,Clement C. Dickinson,Democratic,53.8,True,True,False
+1924,house,Missouri,MO,6,William O. Atkeson,Republican,46.2,False,False,False
+1924,house,Missouri,MO,7,Samuel C. Major,Democratic,52.0,True,True,False
+1924,house,Missouri,MO,7,O. B. Whitaker,Republican,48.0,False,False,False
+1924,house,Missouri,MO,8,William L. Nelson,Democratic,50.8,True,False,False
+1924,house,Missouri,MO,8,Sidney C. Roach,Republican,49.2,False,True,False
+1924,house,Missouri,MO,9,Clarence Cannon,Democratic,56.1,True,True,False
+1924,house,Missouri,MO,9,George E. Hackmann,Republican,43.3,False,False,False
+1924,house,Missouri,MO,10,Cleveland A. Newton,Republican,61.2,True,True,False
+1924,house,Missouri,MO,10,Henry J. Schleper,Democratic,35.3,False,False,False
+1924,house,Missouri,MO,11,Harry B. Hawes,Democratic,50.6,True,True,False
+1924,house,Missouri,MO,11,Michael J. Hart,Republican,47.5,False,False,False
+1924,house,Missouri,MO,12,Leonidas C. Dyer,Republican,63.2,True,True,False
+1924,house,Missouri,MO,12,Jerome F. Duggan,Democratic,34.4,False,False,False
+1924,house,Missouri,MO,13,Charles E. Kiefner,Republican,53.0,True,False,False
+1924,house,Missouri,MO,13,J. Scott Wolff,Democratic,47.0,False,True,False
+1924,house,Missouri,MO,14,Ralph E. Bailey,Republican,50.3,True,False,False
+1924,house,Missouri,MO,14,James F. Fulbright,Democratic,49.7,False,True,False
+1924,house,Missouri,MO,15,Joe J. Manlove,Republican,56.4,True,True,False
+1924,house,Missouri,MO,15,William G. Warner,Democratic,43.3,False,False,False
+1924,house,Missouri,MO,16,Thomas L. Rubey,Democratic,55.8,True,True,False
+1924,house,Missouri,MO,16,William P. Elmer,Republican,44.2,False,False,False
+1924,house,Montana,MT,1,John M. Evans,Democratic,63.9,True,True,False
+1924,house,Montana,MT,1,John O. Daveis,Republican,34.8,False,False,False
+1924,house,Montana,MT,2,Scott Leavitt,Republican,61.4,True,True,False
+1924,house,Montana,MT,2,Joseph Kirschwing,Democratic,32.0,False,False,False
+1924,house,Montana,MT,2,Charles E. Taylor,Farmer–Labor,6.6,False,False,False
+1924,house,Nebraska,NE,1,John H. Morehead,Democratic,51.8,True,True,False
+1924,house,Nebraska,NE,1,Roy H. Thorpe,Republican,45.9,False,False,False
+1924,house,Nebraska,NE,2,Willis G. Sears,Republican,55.5,True,True,False
+1924,house,Nebraska,NE,2,William N. Jamieson,Democratic,35.8,False,False,False
+1924,house,Nebraska,NE,3,Edgar Howard,Democratic,57.4,True,True,False
+1924,house,Nebraska,NE,3,E. C. Houston,Republican,42.6,False,False,False
+1924,house,Nebraska,NE,4,Melvin O. McLaughlin,Republican,49.0,True,True,False
+1924,house,Nebraska,NE,4,E. E. Placek,Democratic,44.0,False,False,False
+1924,house,Nebraska,NE,5,Ashton C. Shallenberger,Democratic,55.8,True,True,False
+1924,house,Nebraska,NE,5,William E. Andrews,Republican,44.2,False,False,False
+1924,house,Nebraska,NE,6,Robert G. Simmons,Republican,59.9,True,True,False
+1924,house,Nebraska,NE,6,Charles W. Beal,Democratic,34.2,False,False,False
+1924,house,Nevada,NV,AL,Samuel S. Arentz,Republican,50.4,True,False,False
+1924,house,Nevada,NV,AL,Charles L. Richards,Democratic,49.6,False,True,False
+1924,house,New Hampshire,NH,1,Fletcher Hale,Republican,55.2,True,False,False
+1924,house,New Hampshire,NH,1,William N. Rogers,Democratic,44.8,False,True,False
+1924,house,New Hampshire,NH,2,Edward Hills Wason,Republican,61.4,True,True,False
+1924,house,New Hampshire,NH,2,William H. Barry,Democratic,38.6,False,False,False
+1924,house,New Jersey,NJ,1,Francis F. Patterson Jr.,Republican,69.1,True,True,False
+1924,house,New Jersey,NJ,1,Robert A. Irving,Democratic,27.0,False,False,False
+1924,house,New Jersey,NJ,2,Isaac Bacharach,Republican,76.2,True,True,False
+1924,house,New Jersey,NJ,2,Charles S. Stevens,Democratic,23.8,False,False,False
+1924,house,New Jersey,NJ,3,T. Frank Appleby,Republican,60.3,True,False,False
+1924,house,New Jersey,NJ,3,Elmer H. Geran,Democratic,39.7,False,True,False
+1924,house,New Jersey,NJ,4,Charles A. Eaton,Republican,53.8,True,False,False
+1924,house,New Jersey,NJ,4,Charles Browne,Democratic,46.2,False,True,False
+1924,house,New Jersey,NJ,5,Ernest R. Ackerman,Republican,72.3,True,True,False
+1924,house,New Jersey,NJ,5,Monell Sayre,Democratic,27.7,False,False,False
+1924,house,New Jersey,NJ,6,Randolph Perkins,Republican,66.3,True,True,False
+1924,house,New Jersey,NJ,6,Alfred T. Holley,Democratic,30.8,False,False,False
+1924,house,New Jersey,NJ,6,Frederick Krafft,Progressive,2.8,False,False,False
+1924,house,New Jersey,NJ,7,George N. Seger,Republican,73.0,True,True,False
+1924,house,New Jersey,NJ,7,Andrew J. Callahan,Democratic,21.8,False,False,False
+1924,house,New Jersey,NJ,8,Herbert W. Taylor,Republican,57.0,True,False,False
+1924,house,New Jersey,NJ,8,Frank J. McNulty,Democratic,43.0,False,True,False
+1924,house,New Jersey,NJ,9,Franklin W. Fort,Republican,59.3,True,False,False
+1924,house,New Jersey,NJ,9,Daniel F. Minahan,Democratic,36.7,False,True,False
+1924,house,New Jersey,NJ,10,Frederick R. Lehlbach,Republican,70.1,True,True,False
+1924,house,New Jersey,NJ,10,Moses Greenwood,Democratic,25.6,False,False,False
+1924,house,New Jersey,NJ,11,Oscar L. Auf der Heide,Democratic,60.5,True,False,False
+1924,house,New Jersey,NJ,11,John F. Gardner,Republican,35.3,False,False,False
+1924,house,New Jersey,NJ,12,Mary Teresa Norton,Democratic,61.7,True,False,True
+1924,house,New Jersey,NJ,12,Douglas D. T. Story,Republican,36.3,False,False,True
+1924,house,New Mexico,NM,AL,John Morrow,Democratic,51.8,True,True,False
+1924,house,New Mexico,NM,AL,J. Felipe Hubbell,Republican,48.2,False,False,False
+1924,house,New York,NY,1,Robert L. Bacon,Republican,67.1,True,True,False
+1924,house,New York,NY,1,Ira L. Terry,Democratic,30.5,False,False,False
+1924,house,New York,NY,2,John J. Kindred,Democratic,62.6,True,True,False
+1924,house,New York,NY,2,Frank E. Hopkins,Republican,34.4,False,False,False
+1924,house,New York,NY,2,Barnet Wolff,Socialist,3.0,False,False,False
+1924,house,New York,NY,3,George W. Lindsay,Democratic,64.8,True,True,False
+1924,house,New York,NY,3,Herman E. Sprigade,Republican,28.1,False,False,False
+1924,house,New York,NY,3,Joseph A. Weil,Socialist,7.1,False,False,False
+1924,house,New York,NY,4,Thomas H. Cullen,Democratic,73.9,True,True,False
+1924,house,New York,NY,4,Joseph Rosenbaum,Republican,24.0,False,False,False
+1924,house,New York,NY,5,Loring M. Black Jr.,Democratic,51.1,True,True,False
+1924,house,New York,NY,5,William T. Simpson,Republican,46.6,False,False,False
+1924,house,New York,NY,6,Andrew Lawrence Somers,Democratic,47.8,True,False,True
+1924,house,New York,NY,6,Warren I. Lee,Republican,45.8,False,False,True
+1924,house,New York,NY,7,John F. Quayle,Democratic,56.7,True,True,False
+1924,house,New York,NY,7,Otis S. Carroll,Republican,34.5,False,False,False
+1924,house,New York,NY,8,William E. Cleary,Democratic,51.3,True,True,False
+1924,house,New York,NY,8,Max Perlman,Republican,40.1,False,False,False
+1924,house,New York,NY,8,William M. Feigenbaum,Socialist,8.6,False,False,False
+1924,house,New York,NY,9,David J. O'Connell,Democratic,50.2,True,True,False
+1924,house,New York,NY,9,Andrew Petersen,Republican,44.5,False,False,False
+1924,house,New York,NY,10,Emanuel Celler,Democratic,50.0,True,True,False
+1924,house,New York,NY,10,James N. Little,Republican,38.5,False,False,False
+1924,house,New York,NY,10,Joseph A. Whitehorn,Socialist,10.8,False,False,False
+1924,house,New York,NY,10,Alex Trachtenberg,Communist,0.6,False,False,False
+1924,house,New York,NY,11,Anning S. Prall,Democratic,68.6,True,True,False
+1924,house,New York,NY,11,Frederick W. Lahr,Republican,30.0,False,False,False
+1924,house,New York,NY,12,Samuel Dickstein,Democratic,75.8,True,True,False
+1924,house,New York,NY,12,Harry Schlissel,Republican,12.5,False,False,False
+1924,house,New York,NY,12,Harry Winitsky,Communist,0.8,False,False,False
+1924,house,New York,NY,13,Christopher D. Sullivan,Democratic,71.1,True,True,False
+1924,house,New York,NY,13,Murray Firstman,Republican,20.6,False,False,False
+1924,house,New York,NY,14,Nathan D. Perlman,Republican,44.0,True,True,False
+1924,house,New York,NY,14,William Irving Sirovich,Democratic,43.6,False,False,False
+1924,house,New York,NY,14,Ludwig Lore,Communist,0.8,False,False,False
+1924,house,New York,NY,15,John J. Boylan,Democratic,77.0,True,True,False
+1924,house,New York,NY,15,Warren Bigelow,Republican,21.2,False,False,False
+1924,house,New York,NY,16,John J. O'Connor,Democratic,72.3,True,True,False
+1924,house,New York,NY,16,L. Wilfred Nidt,Republican,24.4,False,False,False
+1924,house,New York,NY,17,Ogden L. Mills,Republican,57.0,True,True,False
+1924,house,New York,NY,17,Charles E. Gehring,Democratic,40.7,False,False,False
+1924,house,New York,NY,17,Jessie Wallace Hughan,Socialist,2.2,False,False,False
+1924,house,New York,NY,18,John F. Carew,Democratic,66.1,True,True,False
+1924,house,New York,NY,18,Charles W. Ferry,Republican,27.4,False,False,False
+1924,house,New York,NY,18,Samuel E. Beardsley,Socialist,6.4,False,False,False
+1924,house,New York,NY,19,Sol Bloom,Democratic,54.5,True,True,False
+1924,house,New York,NY,19,Walter M. Chandler,Republican,42.5,False,False,False
+1924,house,New York,NY,19,Lucille E. Randolph,Socialist,3.0,False,False,False
+1924,house,New York,NY,20,Fiorello La Guardia,Socialist,42.7,True,True,False
+1924,house,New York,NY,20,Henry Frank,Democratic,28.4,False,False,False
+1924,house,New York,NY,20,Isaac Siegel,Republican,28.2,False,False,False
+1924,house,New York,NY,20,Juliet Stuart Poyntz,Communist,0.8,False,False,False
+1924,house,New York,NY,21,Royal H. Weller,Democratic,52.5,True,True,False
+1924,house,New York,NY,21,Charles H. Roberts,Republican,43.0,False,False,False
+1924,house,New York,NY,21,A. Philip Randolph,Socialist,2.8,False,False,False
+1924,house,New York,NY,22,Anthony J. Griffin,Democratic,69.7,True,True,False
+1924,house,New York,NY,22,William E. Devlin,Republican,23.3,False,False,False
+1924,house,New York,NY,23,Frank Oliver,Democratic,56.3,True,True,False
+1924,house,New York,NY,23,Albert B. Rossdale,Republican,29.7,False,False,False
+1924,house,New York,NY,23,August Claessens,Socialist,13.1,False,False,False
+1924,house,New York,NY,23,H. M. Wicks,Communist,0.9,False,False,False
+1924,house,New York,NY,24,Benjamin L. Fairchild,Republican,45.5,True,True,False
+1924,house,New York,NY,24,John J. Kinney,Democratic,44.7,False,False,False
+1924,house,New York,NY,25,J. Mayhew Wainwright,Republican,64.8,True,True,False
+1924,house,New York,NY,25,A. Outram Sherman,Democratic,30.3,False,False,False
+1924,house,New York,NY,26,Hamilton Fish Jr.,Republican,69.7,True,True,False
+1924,house,New York,NY,26,Rosslyn M. Cox,Democratic,27.2,False,False,False
+1924,house,New York,NY,27,Harcourt J. Pratt,Republican,58.6,True,False,True
+1924,house,New York,NY,27,William C. DeWitt,Democratic,39.4,False,False,True
+1924,house,New York,NY,28,Parker Corning,Democratic,52.7,True,True,False
+1924,house,New York,NY,28,Charles H. Johnson,Republican,46.2,False,False,False
+1924,house,New York,NY,29,James S. Parker,Republican,67.2,True,True,False
+1924,house,New York,NY,29,James E. Dwyer,Democratic,31.1,False,False,False
+1924,house,New York,NY,30,Frank Crowther,Republican,62.9,True,True,False
+1924,house,New York,NY,30,James P. Boyle,Democratic,33.2,False,False,False
+1924,house,New York,NY,31,Bertrand Snell,Republican,70.5,True,True,False
+1924,house,New York,NY,31,John M. Cantwell,Democratic,29.5,False,False,False
+1924,house,New York,NY,32,Thaddeus C. Sweet,Republican,68.9,True,True,False
+1924,house,New York,NY,32,Charles R. Lee,Democratic,31.1,False,False,False
+1924,house,New York,NY,33,Frederick M. Davenport,Republican,58.1,True,False,True
+1924,house,New York,NY,33,Albert R. Kessinger,Democratic,39.5,False,False,True
+1924,house,New York,NY,34,Harold S. Tolley,Republican,69.7,True,False,False
+1924,house,New York,NY,34,Charles R. Seymour,Democratic,28.1,False,False,False
+1924,house,New York,NY,35,Walter W. Magee,Republican,64.7,True,True,False
+1924,house,New York,NY,35,John J. Kesel,Democratic,32.2,False,False,False
+1924,house,New York,NY,36,John Taber,Republican,71.7,True,True,False
+1924,house,New York,NY,36,Michael J. Maney,Democratic,28.3,False,False,False
+1924,house,New York,NY,37,Gale H. Stalker,Republican,66.9,True,True,False
+1924,house,New York,NY,37,Charles L. Durham,Democratic,31.2,False,False,False
+1924,house,New York,NY,38,Meyer Jacobstein,Democratic,65.4,True,True,False
+1924,house,New York,NY,38,John J. McInerney,Republican,34.6,False,False,False
+1924,house,New York,NY,39,Archie D. Sanders,Republican,67.9,True,True,False
+1924,house,New York,NY,39,Michael L. Coleman,Democratic,27.7,False,False,False
+1924,house,New York,NY,40,S. Wallace Dempsey,Republican,67.8,True,True,False
+1924,house,New York,NY,40,Thurman W. Stoner,Democratic,26.7,False,False,False
+1924,house,New York,NY,41,Clarence MacGregor,Republican,68.1,True,True,False
+1924,house,New York,NY,41,Edward C. Dethloff,Democratic,23.1,False,False,False
+1924,house,New York,NY,42,James M. Mead,Democratic,50.1,True,True,False
+1924,house,New York,NY,42,Richard S. Parsons,Republican,44.9,False,False,False
+1924,house,New York,NY,42,Amy R. Juengling,Socialist,4.9,False,False,False
+1924,house,New York,NY,43,Daniel A. Reed,Republican,91.0,True,True,False
+1924,house,New York,NY,43,J. Samuel Fowler,Progressive,9.0,False,False,False
+1924,house,North Carolina,NC,1,Lindsay C. Warren,Democratic,78.5,True,False,True
+1924,house,North Carolina,NC,1,Peter D. Burgess,Republican,21.5,False,False,True
+1924,house,North Carolina,NC,2,John H. Kerr,Democratic,93.3,True,True,False
+1924,house,North Carolina,NC,2,M. R. Vick,Republican,6.7,False,False,False
+1924,house,North Carolina,NC,3,Charles L. Abernethy,Democratic,67.7,True,True,False
+1924,house,North Carolina,NC,3,William H. Fisher,Republican,32.3,False,False,False
+1924,house,North Carolina,NC,4,Edward W. Pou,Democratic,69.6,True,True,False
+1924,house,North Carolina,NC,4,Y. Z. Parker,Republican,30.4,False,False,False
+1924,house,North Carolina,NC,5,Charles Manly Stedman,Democratic,59.3,True,True,False
+1924,house,North Carolina,NC,5,Thomas C. Carter,Republican,40.7,False,False,False
+1924,house,North Carolina,NC,6,Homer L. Lyon,Democratic,72.7,True,True,False
+1924,house,North Carolina,NC,6,William J. McDonald,Republican,27.3,False,False,False
+1924,house,North Carolina,NC,7,William C. Hammer,Democratic,55.2,True,True,False
+1924,house,North Carolina,NC,7,S. Carter Williams,Republican,44.8,False,False,False
+1924,house,North Carolina,NC,8,Robert L. Doughton,Democratic,56.5,True,True,False
+1924,house,North Carolina,NC,8,James D. Dorsett,Republican,43.5,False,False,False
+1924,house,North Carolina,NC,9,Alfred L. Bulwinkle,Democratic,57.7,True,True,False
+1924,house,North Carolina,NC,9,John A. Hendricks,Republican,42.3,False,False,False
+1924,house,North Carolina,NC,10,Zebulon Weaver,Democratic,55.5,True,True,False
+1924,house,North Carolina,NC,10,Lewis P. Hamlin,Republican,44.5,False,False,False
+1924,house,North Dakota,ND,1,Olger B. Burtness,Republican,75.5,True,True,False
+1924,house,North Dakota,ND,1,Walter Welford,Democratic,24.5,False,False,False
+1924,house,North Dakota,ND,2,Thomas Hall,Republican,42.3,True,False,True
+1924,house,North Dakota,ND,2,Gerald Nye,Democratic,38.0,False,False,True
+1924,house,North Dakota,ND,3,James H. Sinclair,Republican,73.4,True,True,False
+1924,house,North Dakota,ND,3,R. A. Johnson,Democratic,26.6,False,False,False
+1924,house,Ohio,OH,1,Nicholas Longworth,Republican,61.7,True,True,False
+1924,house,Ohio,OH,1,Thomas B. Paxton,Democratic,38.3,False,False,False
+1924,house,Ohio,OH,2,Ambrose E. B. Stephens,Republican,58.1,True,True,False
+1924,house,Ohio,OH,2,Robert J. O'Donnell,Democratic,41.9,False,False,False
+1924,house,Ohio,OH,3,Roy G. Fitzgerald,Republican,62.3,True,True,False
+1924,house,Ohio,OH,3,John P. Rogers,Democratic,36.8,False,False,False
+1924,house,Ohio,OH,4,William T. Fitzgerald,Republican,50.8,True,False,True
+1924,house,Ohio,OH,4,Hugh T. Mathers,Democratic,49.2,False,False,True
+1924,house,Ohio,OH,5,Charles J. Thompson,Republican,51.5,True,True,False
+1924,house,Ohio,OH,5,Frank C. Kniffin,Democratic,48.5,False,False,False
+1924,house,Ohio,OH,6,Charles C. Kearns,Republican,53.0,True,True,False
+1924,house,Ohio,OH,6,Edward N. Kennedy,Democratic,47.0,False,False,False
+1924,house,Ohio,OH,7,Charles Brand,Republican,63.9,True,True,False
+1924,house,Ohio,OH,7,C. K. Wolf,Democratic,36.1,False,False,False
+1924,house,Ohio,OH,8,Thomas B. Fletcher,Democratic,53.2,True,False,False
+1924,house,Ohio,OH,8,R. Clint Cole,Republican,46.0,False,True,False
+1924,house,Ohio,OH,8,Charles E. Lukens,Independent,0.8,False,False,False
+1924,house,Ohio,OH,9,William W. Chalmers,Republican,51.6,True,False,False
+1924,house,Ohio,OH,9,Isaac R. Sherwood,Democratic,45.7,False,True,False
+1924,house,Ohio,OH,10,Thomas A. Jenkins,Republican,64.5,True,False,False
+1924,house,Ohio,OH,10,W. F. Rutherford,Democratic,35.5,False,False,False
+1924,house,Ohio,OH,11,Mell G. Underwood,Democratic,59.5,True,True,False
+1924,house,Ohio,OH,11,Edwin D. Ricketts,Republican,40.5,False,False,False
+1924,house,Ohio,OH,12,John C. Speaks,Republican,58.7,True,True,False
+1924,house,Ohio,OH,12,Lowry F. Sater,Democratic,41.3,False,False,False
+1924,house,Ohio,OH,13,James T. Begg,Republican,62.1,True,True,False
+1924,house,Ohio,OH,13,John Dreitzler,Democratic,37.9,False,False,False
+1924,house,Ohio,OH,14,Martin L. Davey,Democratic,50.8,True,True,False
+1924,house,Ohio,OH,14,Arthur W. Doyle,Republican,49.2,False,False,False
+1924,house,Ohio,OH,15,C. Ellis Moore,Republican,56.1,True,True,False
+1924,house,Ohio,OH,15,James R. Alexander,Democratic,43.9,False,False,False
+1924,house,Ohio,OH,16,John McSweeney,Democratic,51.5,True,True,False
+1924,house,Ohio,OH,16,Thomas C. Hunsicker,Republican,45.6,False,False,False
+1924,house,Ohio,OH,16,Jacob S. Coxey Sr.,Independent,2.9,False,False,False
+1924,house,Ohio,OH,17,William M. Morgan,Republican,57.9,True,True,False
+1924,house,Ohio,OH,17,J. Freer Bittinger,Democratic,42.1,False,False,False
+1924,house,Ohio,OH,18,B. Frank Murphy,Republican,66.3,True,True,False
+1924,house,Ohio,OH,18,James M. Barton,Democratic,31.4,False,False,False
+1924,house,Ohio,OH,18,Charles Coleman,Independent,2.3,False,False,False
+1924,house,Ohio,OH,19,John G. Cooper,Republican,75.5,True,True,False
+1924,house,Ohio,OH,19,Phebe T. Sutliff,Democratic,24.5,False,False,False
+1924,house,Ohio,OH,20,Charles A. Mooney,Democratic,59.7,True,True,False
+1924,house,Ohio,OH,20,Harvey Drucker,Republican,39.3,False,False,False
+1924,house,Ohio,OH,20,C. E. Ruthenberg,Communist,1.0,False,False,False
+1924,house,Ohio,OH,21,Robert Crosser,Democratic,53.2,True,True,False
+1924,house,Ohio,OH,21,Harry C. Gahn,Republican,46.2,False,False,False
+1924,house,Ohio,OH,22,Theodore E. Burton,Republican,61.8,True,True,False
+1924,house,Ohio,OH,22,Sam B. Fitzsimmons,Democratic,21.4,False,False,False
+1924,house,Ohio,OH,22,Alfred F. Coyle,Independent,16.6,False,False,False
+1924,house,Oklahoma,OK,1,Samuel J. Montgomery,Republican,49.3,True,False,True
+1924,house,Oklahoma,OK,1,Wayne W. Bayless,Democratic,49.2,False,False,True
+1924,house,Oklahoma,OK,2,William W. Hastings,Democratic,54.9,True,True,False
+1924,house,Oklahoma,OK,2,P. E. Reed,Republican,44.2,False,False,False
+1924,house,Oklahoma,OK,3,Charles D. Carter,Democratic,83.1,True,True,False
+1924,house,Oklahoma,OK,3,Don Welch,Republican,14.5,False,False,False
+1924,house,Oklahoma,OK,4,Tom D. McKeown,Democratic,58.8,True,True,False
+1924,house,Oklahoma,OK,4,Charles E. Wells,Republican,37.6,False,False,False
+1924,house,Oklahoma,OK,5,Fletcher B. Swank,Democratic,59.2,True,True,False
+1924,house,Oklahoma,OK,5,John Golobie,Republican,38.2,False,False,False
+1924,house,Oklahoma,OK,6,Elmer Thomas,Democratic,54.8,True,True,False
+1924,house,Oklahoma,OK,6,L. M. Gensman,Republican,41.1,False,False,False
+1924,house,Oklahoma,OK,7,James V. McClintic,Democratic,65.7,True,True,False
+1924,house,Oklahoma,OK,7,Walter S. Mills,Republican,26.5,False,False,False
+1924,house,Oklahoma,OK,7,Michael Shadid,Farmer–Labor,7.8,False,False,False
+1924,house,Oklahoma,OK,8,Milton C. Garber,Republican,51.2,True,True,False
+1924,house,Oklahoma,OK,8,V. P. Crowe,Democratic,44.3,False,False,False
+1924,house,Oregon,OR,1,Willis C. Hawley,Republican,63.5,True,True,False
+1924,house,Oregon,OR,1,Harvey L. Clark,Democratic,22.0,False,False,False
+1924,house,Oregon,OR,1,W. J. Butler,Independent,11.8,False,False,False
+1924,house,Oregon,OR,2,Nicholas J. Sinnott,Republican,61.6,True,True,False
+1924,house,Oregon,OR,2,James H. Graham,Democratic,38.4,False,False,False
+1924,house,Oregon,OR,3,Maurice E. Crumpacker,Republican,54.7,True,False,False
+1924,house,Oregon,OR,3,Elton Watkins,Democratic,42.7,False,True,False
+1924,house,Pennsylvania,PA,1,William S. Vare,Republican,84.4,True,True,False
+1924,house,Pennsylvania,PA,1,Joseph A. Robbins,Democratic,10.4,False,False,False
+1924,house,Pennsylvania,PA,2,George S. Graham,Republican,82.7,True,True,False
+1924,house,Pennsylvania,PA,2,Jessie L. Collet,Democratic,14.0,False,False,False
+1924,house,Pennsylvania,PA,3,Harry C. Ransley,Republican,83.9,True,True,False
+1924,house,Pennsylvania,PA,3,Edward P. Carroll,Democratic,8.8,False,False,False
+1924,house,Pennsylvania,PA,4,Benjamin M. Golder,Republican,77.8,True,False,False
+1924,house,Pennsylvania,PA,4,Adolph Class,Democratic,16.0,False,False,False
+1924,house,Pennsylvania,PA,5,James J. Connolly,Republican,81.0,True,True,False
+1924,house,Pennsylvania,PA,5,Daniel J. O'Donnell,Democratic,13.0,False,False,False
+1924,house,Pennsylvania,PA,6,George A. Welsh,Republican,74.6,True,True,False
+1924,house,Pennsylvania,PA,6,Francis I. J. Coyle,Democratic,19.6,False,False,False
+1924,house,Pennsylvania,PA,7,George P. Darrow,Republican,80.7,True,True,False
+1924,house,Pennsylvania,PA,7,Thomas A. O'Hara,Democratic,14.4,False,False,False
+1924,house,Pennsylvania,PA,8,Thomas S. Butler,Republican,80.7,True,True,False
+1924,house,Pennsylvania,PA,8,Gordon H. Cilley,Democratic,16.3,False,False,False
+1924,house,Pennsylvania,PA,9,Henry Winfield Watson,Republican,72.5,True,True,False
+1924,house,Pennsylvania,PA,9,C. William Freed,Democratic,22.7,False,False,False
+1924,house,Pennsylvania,PA,10,William W. Griest,Republican,60.4,True,True,False
+1924,house,Pennsylvania,PA,10,Frank C. Musser,Democratic,38.6,False,False,False
+1924,house,Pennsylvania,PA,11,Laurence H. Watres,Republican,56.7,True,True,False
+1924,house,Pennsylvania,PA,11,David Fowler,Democratic,40.7,False,False,False
+1924,house,Pennsylvania,PA,12,Edmund N. Carpenter,Republican,55.6,True,False,False
+1924,house,Pennsylvania,PA,12,John J. Casey,Democratic,44.4,False,True,False
+1924,house,Pennsylvania,PA,13,George F. Brumm,Republican,69.5,True,True,False
+1924,house,Pennsylvania,PA,13,Thomas J. Butler,Democratic,28.4,False,False,False
+1924,house,Pennsylvania,PA,14,Charles J. Esterly,Republican,50.5,True,False,False
+1924,house,Pennsylvania,PA,14,William M. Croll,Democratic,42.6,False,True,False
+1924,house,Pennsylvania,PA,15,Louis T. McFadden,Republican,68.8,True,True,False
+1924,house,Pennsylvania,PA,15,Charles M. Driggs,Democratic,29.6,False,False,False
+1924,house,Pennsylvania,PA,16,Edgar R. Kiess,Republican,55.5,True,True,False
+1924,house,Pennsylvania,PA,16,Thomas Wood,Democratic,37.7,False,False,False
+1924,house,Pennsylvania,PA,17,Frederick W. Magrady,Republican,53.5,True,False,False
+1924,house,Pennsylvania,PA,17,Herbert W. Cummings,Democratic,46.5,False,True,False
+1924,house,Pennsylvania,PA,18,Edward M. Beers,Republican,66.2,True,True,False
+1924,house,Pennsylvania,PA,18,Meredith Meyers,Democratic,33.8,False,False,False
+1924,house,Pennsylvania,PA,19,Joshua W. Swartz,Republican,53.8,True,False,False
+1924,house,Pennsylvania,PA,19,Frank C. Sites,Democratic,45.3,False,True,False
+1924,house,Pennsylvania,PA,20,Anderson H. Walters,Republican,100.0,True,False,False
+1924,house,Pennsylvania,PA,21,J. Banks Kurtz,Republican,69.4,True,True,False
+1924,house,Pennsylvania,PA,21,Harry K. Filler,Democratic,18.5,False,False,False
+1924,house,Pennsylvania,PA,22,Franklin Menges,Republican,53.4,True,False,False
+1924,house,Pennsylvania,PA,22,Samuel F. Glatfelter,Democratic,45.2,False,True,False
+1924,house,Pennsylvania,PA,23,William I. Swoope,Republican,64.7,True,True,False
+1924,house,Pennsylvania,PA,23,Edward W. Benson,Democratic,35.3,False,False,False
+1924,house,Pennsylvania,PA,24,Samuel A. Kendall,Republican,68.5,True,True,False
+1924,house,Pennsylvania,PA,24,Harrison N. Boyd,Democratic,25.7,False,False,False
+1924,house,Pennsylvania,PA,25,Henry W. Temple,Republican,62.5,True,True,False
+1924,house,Pennsylvania,PA,25,Grant Furlong,Democratic,36.0,False,False,False
+1924,house,Pennsylvania,PA,26,Thomas W. Phillips Jr.,Republican,68.8,True,True,False
+1924,house,Pennsylvania,PA,26,John G. Cobler,Democratic,27.2,False,False,False
+1924,house,Pennsylvania,PA,27,Nathan L. Strong,Republican,58.9,True,True,False
+1924,house,Pennsylvania,PA,27,Harry W. Fee,Democratic,17.9,False,False,False
+1924,house,Pennsylvania,PA,28,Harris J. Bixler,Republican,79.1,True,True,False
+1924,house,Pennsylvania,PA,28,William G. Barker,Democratic,20.9,False,False,False
+1924,house,Pennsylvania,PA,29,Milton W. Shreve,Republican,57.7,True,True,False
+1924,house,Pennsylvania,PA,29,Edward M. Murphy,Democratic,21.6,False,False,False
+1924,house,Pennsylvania,PA,30,William R. Coyle,Republican,50.9,True,False,False
+1924,house,Pennsylvania,PA,30,Everett Kent,Democratic,47.1,False,True,False
+1924,house,Pennsylvania,PA,31,Adam Wyant,Republican,60.4,True,True,False
+1924,house,Pennsylvania,PA,31,Chester D. Sensenich,Democratic,39.6,False,False,False
+1924,house,Pennsylvania,PA,32,Stephen G. Porter,Republican,79.5,True,True,False
+1924,house,Pennsylvania,PA,32,P. M. O'Donnell,Democratic,12.9,False,False,False
+1924,house,Pennsylvania,PA,33,M. Clyde Kelly,Republican,81.1,True,True,False
+1924,house,Pennsylvania,PA,33,Gilbert F. Myer,Democratic,13.1,False,False,False
+1924,house,Pennsylvania,PA,34,John M. Morin,Republican,82.5,True,True,False
+1924,house,Pennsylvania,PA,34,William N. McNair,Democratic,12.0,False,False,False
+1924,house,Pennsylvania,PA,35,James M. Magee,Republican,59.9,True,True,False
+1924,house,Pennsylvania,PA,35,John W. Slayton,Socialist Labor,19.1,False,False,False
+1924,house,Pennsylvania,PA,35,John Murphy,Democratic,12.1,False,False,False
+1924,house,Pennsylvania,PA,35,Thomas P. Moran,Independent,5.4,False,False,False
+1924,house,Pennsylvania,PA,36,Guy E. Campbell,Republican,87.2,True,True,False
+1924,house,Rhode Island,RI,1,Clark Burdick,Republican,65.2,True,True,False
+1924,house,Rhode Island,RI,1,Alfred H. Jones,Democratic,34.8,False,False,False
+1924,house,Rhode Island,RI,2,Richard S. Aldrich,Republican,63.9,True,True,False
+1924,house,Rhode Island,RI,2,Charles M. Hall,Democratic,36.1,False,False,False
+1924,house,Rhode Island,RI,3,Jeremiah E. O'Connell,Democratic,51.7,True,True,False
+1924,house,Rhode Island,RI,3,Louis Monast,Republican,48.3,False,False,False
+1924,house,South Carolina,SC,1,Thomas S. McMillan,Democratic,100.0,True,False,False
+1924,house,South Carolina,SC,2,Butler B. Hare,Democratic,100.0,True,False,True
+1924,house,South Carolina,SC,3,Frederick H. Dominick,Democratic,100.0,True,True,False
+1924,house,South Carolina,SC,4,John J. McSwain,Democratic,100.0,True,True,False
+1924,house,South Carolina,SC,5,William Francis Stevenson,Democratic,100.0,True,True,False
+1924,house,South Carolina,SC,6,Allard H. Gasque,Democratic,100.0,True,True,False
+1924,house,South Carolina,SC,7,Hampton P. Fulmer,Democratic,100.0,True,True,False
+1924,house,South Dakota,SD,1,Charles A. Christopherson,Republican,53.5,True,True,False
+1924,house,South Dakota,SD,1,Warren E. Beck,Democratic,27.2,False,False,False
+1924,house,South Dakota,SD,1,William Bartling,Independent,9.9,False,False,False
+1924,house,South Dakota,SD,1,William T. Jones,Independent,9.4,False,False,False
+1924,house,South Dakota,SD,2,Royal C. Johnson,Republican,60.2,True,True,False
+1924,house,South Dakota,SD,2,Walter P. Wohlheter,Independent,15.4,False,False,False
+1924,house,South Dakota,SD,2,Fred H. Hildebrandt,Independent,13.5,False,False,False
+1924,house,South Dakota,SD,2,Jack P. Reinhord,Democratic,10.8,False,False,False
+1924,house,South Dakota,SD,3,William Williamson,Republican,58.3,True,True,False
+1924,house,South Dakota,SD,3,John R. Russell,Democratic,20.8,False,False,False
+1924,house,South Dakota,SD,3,Arthur H. Atwood,Independent,14.4,False,False,False
+1924,house,South Dakota,SD,3,George H. Randall,Independent,3.3,False,False,False
+1924,house,South Dakota,SD,3,Charles Ash Bates,Independent,3.2,False,False,False
+1924,house,Tennessee,TN,1,B. Carroll Reece,Republican,62.6,True,True,False
+1924,house,Tennessee,TN,1,R. M. Barry,Democratic,30.3,False,False,False
+1924,house,Tennessee,TN,1,T. F. Robinson,Independent,5.3,False,False,False
+1924,house,Tennessee,TN,1,W. I. Giles,Independent,1.9,False,False,False
+1924,house,Tennessee,TN,2,J. Will Taylor,Republican,96.3,True,True,False
+1924,house,Tennessee,TN,2,Mitchell Long,Democratic,3.7,False,False,False
+1924,house,Tennessee,TN,3,Sam D. McReynolds,Democratic,56.8,True,True,False
+1924,house,Tennessee,TN,3,May Giles Howard,Republican,43.2,False,False,False
+1924,house,Tennessee,TN,4,Cordell Hull,Democratic,100.0,True,True,False
+1924,house,Tennessee,TN,5,Ewin L. Davis,Democratic,81.7,True,True,False
+1924,house,Tennessee,TN,5,Abe Davidson,Republican,18.3,False,False,False
+1924,house,Tennessee,TN,6,Jo Byrns,Democratic,100.0,True,True,False
+1924,house,Tennessee,TN,7,Edward E. Eslick,Democratic,100.0,True,False,True
+1924,house,Tennessee,TN,8,Gordon Browning,Democratic,100.0,True,True,False
+1924,house,Tennessee,TN,9,Finis J. Garrett,Democratic,100.0,True,True,False
+1924,house,Tennessee,TN,10,Hubert Fisher,Democratic,74.0,True,True,False
+1924,house,Tennessee,TN,10,George H. Poole,Independent,13.3,False,False,False
+1924,house,Tennessee,TN,10,Harry Spears,Republican,12.7,False,False,False
+1924,house,Texas,TX,1,Eugene Black,Democratic,90.9,True,True,False
+1924,house,Texas,TX,1,R. B. Johnson,Republican,9.1,False,False,False
+1924,house,Texas,TX,2,John C. Box,Democratic,89.9,True,True,False
+1924,house,Texas,TX,2,A. E. Sweatland,Republican,10.1,False,False,False
+1924,house,Texas,TX,3,Morgan G. Sanders,Democratic,100.0,True,True,False
+1924,house,Texas,TX,4,Sam Rayburn,Democratic,91.1,True,True,False
+1924,house,Texas,TX,4,C. A. Gray,Republican,8.9,False,False,False
+1924,house,Texas,TX,5,Hatton W. Sumners,Democratic,87.6,True,True,False
+1924,house,Texas,TX,5,George S. Atkinson,Republican,12.4,False,False,False
+1924,house,Texas,TX,6,Luther A. Johnson,Democratic,93.1,True,True,False
+1924,house,Texas,TX,6,Tyler Haswell,Republican,6.9,False,False,False
+1924,house,Texas,TX,7,Clay Stone Briggs,Democratic,89.1,True,True,False
+1924,house,Texas,TX,7,John T. Wheeler,Republican,10.9,False,False,False
+1924,house,Texas,TX,8,Daniel E. Garrett,Democratic,86.0,True,True,False
+1924,house,Texas,TX,8,Clarence A. Miller,Republican,14.0,False,False,False
+1924,house,Texas,TX,9,Joseph J. Mansfield,Democratic,82.3,True,True,False
+1924,house,Texas,TX,9,Edward Franz,Republican,17.7,False,False,False
+1924,house,Texas,TX,10,James P. Buchanan,Democratic,90.5,True,True,False
+1924,house,Texas,TX,10,Otto Stolley,Republican,9.5,False,False,False
+1924,house,Texas,TX,11,Tom Connally,Democratic,88.2,True,True,False
+1924,house,Texas,TX,11,C. C. Baker,Republican,11.8,False,False,False
+1924,house,Texas,TX,12,Fritz G. Lanham,Democratic,100.0,True,True,False
+1924,house,Texas,TX,13,Guinn Williams,Democratic,88.6,True,True,False
+1924,house,Texas,TX,13,C. W. Johnson Jr.,Republican,11.4,False,False,False
+1924,house,Texas,TX,14,Harry M. Wurzbach,Republican,62.4,True,True,False
+1924,house,Texas,TX,14,D. S. Davenport,Democratic,37.6,False,False,False
+1924,house,Texas,TX,15,John Nance Garner,Democratic,100.0,True,True,False
+1924,house,Texas,TX,16,Claude B. Hudspeth,Democratic,84.1,True,True,False
+1924,house,Texas,TX,16,Vernon L. Sullivan,Republican,15.9,False,False,False
+1924,house,Texas,TX,17,Thomas L. Blanton,Democratic,100.0,True,True,False
+1924,house,Texas,TX,18,John Marvin Jones,Democratic,89.7,True,True,False
+1924,house,Texas,TX,18,A. B. Spencer,Republican,10.3,False,False,False
+1924,house,Utah,UT,1,Don B. Colton,Republican,54.9,True,True,False
+1924,house,Utah,UT,1,Frank Francis,Democratic,45.1,False,False,False
+1924,house,Utah,UT,2,Elmer O. Leatherwood,Republican,56.7,True,True,False
+1924,house,Utah,UT,2,James H. Waters,Democratic,43.3,False,False,False
+1924,house,Vermont,VT,1,Elbert S. Brigham,Republican,52.1,True,False,True
+1924,house,Vermont,VT,1,Allan T. Calhoun,Democratic,47.9,False,False,True
+1924,house,Vermont,VT,2,Ernest W. Gibson,Republican,78.4,True,True,False
+1924,house,Vermont,VT,2,Harry C. Shurtleff,Democratic,21.6,False,False,False
+1924,house,Virginia,VA,1,S. Otis Bland,Democratic,100.0,True,True,False
+1924,house,Virginia,VA,2,Joseph T. Deal,Democratic,65.7,True,True,False
+1924,house,Virginia,VA,2,Menalcus Lankford,Republican,34.3,False,False,False
+1924,house,Virginia,VA,3,Jack Montague,Democratic,100.0,True,True,False
+1924,house,Virginia,VA,3,C. B. Jones,Republican,0.0,False,False,False
+1924,house,Virginia,VA,4,Patrick H. Drewry,Democratic,100.0,True,True,False
+1924,house,Virginia,VA,5,Joseph Whitehead,Democratic,76.0,True,False,True
+1924,house,Virginia,VA,5,G. A. De Hart,Republican,24.0,False,False,True
+1924,house,Virginia,VA,6,Clifton A. Woodrum,Democratic,69.0,True,True,False
+1924,house,Virginia,VA,6,F. W. McWane,Republican,31.0,False,False,False
+1924,house,Virginia,VA,7,Thomas W. Harrison,Democratic,59.2,True,True,False
+1924,house,Virginia,VA,7,J. H. Ruebush,Republican,33.2,False,False,False
+1924,house,Virginia,VA,7,Dabney C. Harrison,Independent,7.7,False,False,False
+1924,house,Virginia,VA,8,R. Walton Moore,Democratic,79.9,True,True,False
+1924,house,Virginia,VA,8,John G. Dudley,Republican,20.1,False,False,False
+1924,house,Virginia,VA,9,George C. Peery,Democratic,52.6,True,True,False
+1924,house,Virginia,VA,9,C. Henry Harman,Republican,47.4,False,False,False
+1924,house,Virginia,VA,10,Henry St. George Tucker III,Democratic,69.7,True,True,False
+1924,house,Virginia,VA,10,Henry S. Reid,Republican,30.3,False,False,False
+1924,house,Washington,WA,1,John Franklin Miller,Republican,78.8,True,True,False
+1924,house,Washington,WA,1,David J. Williams,Democratic,20.6,False,False,False
+1924,house,Washington,WA,2,Lindley H. Hadley,Republican,57.4,True,True,False
+1924,house,Washington,WA,2,Lloyd L. Black,Democratic,41.4,False,False,False
+1924,house,Washington,WA,2,August Toellner,Independent,1.1,False,False,False
+1924,house,Washington,WA,3,Albert Johnson,Republican,70.5,True,True,False
+1924,house,Washington,WA,3,Hattie B. Cleveland,Democratic,0.2,False,False,False
+1924,house,Washington,WA,4,John W. Summers,Republican,65.3,True,True,False
+1924,house,Washington,WA,4,H. C. Bohlke,Democratic,21.6,False,False,False
+1924,house,Washington,WA,4,Knute Hill,Farmer–Labor,13.0,False,False,False
+1924,house,Washington,WA,5,Samuel B. Hill,Democratic,50.7,True,True,False
+1924,house,Washington,WA,5,J. E. Ferguson,Republican,49.3,False,False,False
+1924,house,West Virginia,WV,1,Carl G. Bachmann,Republican,55.2,True,False,True
+1924,house,West Virginia,WV,1,George W. Oldham,Democratic,44.8,False,False,True
+1924,house,West Virginia,WV,2,Frank L. Bowman,Republican,50.1,True,False,False
+1924,house,West Virginia,WV,2,Robert E. Lee Allen,Democratic,48.5,False,True,False
+1924,house,West Virginia,WV,3,John M. Wolverton,Republican,51.9,True,False,True
+1924,house,West Virginia,WV,3,Robert H. Kidd,Democratic,48.1,False,False,True
+1924,house,West Virginia,WV,4,Harry C. Woodyard,Republican,51.2,True,False,False
+1924,house,West Virginia,WV,4,George W. Johnson,Democratic,48.8,False,True,False
+1924,house,West Virginia,WV,5,James F. Strother,Republican,51.5,True,False,False
+1924,house,West Virginia,WV,5,Thomas Jefferson Lilly,Democratic,48.5,False,True,False
+1924,house,West Virginia,WV,6,J. Alfred Taylor,Democratic,49.8,True,True,False
+1924,house,West Virginia,WV,6,Leonard S. Echols,Republican,48.5,False,False,False
+1924,house,Wisconsin,WI,1,Henry A. Cooper,Republican,72.0,True,True,False
+1924,house,Wisconsin,WI,1,Calvin Stewart,Democratic,28.0,False,False,False
+1924,house,Wisconsin,WI,2,Edward Voigt,Republican,70.5,True,True,False
+1924,house,Wisconsin,WI,2,Ernst C. Wrucke,Democratic,29.5,False,False,False
+1924,house,Wisconsin,WI,3,John M. Nelson,Republican,77.0,True,True,False
+1924,house,Wisconsin,WI,3,William Victoria,Democratic,23.0,False,False,False
+1924,house,Wisconsin,WI,4,John C. Schafer,Republican,60.9,True,True,False
+1924,house,Wisconsin,WI,4,Leo Krzycki,Socialist,39.1,False,False,False
+1924,house,Wisconsin,WI,5,Victor L. Berger,Socialist,50.4,True,True,False
+1924,house,Wisconsin,WI,5,Ernst A. Braun,Republican,49.6,False,False,False
+1924,house,Wisconsin,WI,6,Florian Lampert,Republican,70.6,True,True,False
+1924,house,Wisconsin,WI,6,M. K. Reilly,Democratic,29.4,False,False,False
+1924,house,Wisconsin,WI,7,Joseph D. Beck,Republican,82.2,True,True,False
+1924,house,Wisconsin,WI,7,W. D. Martin,Democratic,17.8,False,False,False
+1924,house,Wisconsin,WI,8,Edward E. Browne,Republican,100.0,True,True,False
+1924,house,Wisconsin,WI,8,R. J. Walsh,Independent,0.0,False,False,False
+1924,house,Wisconsin,WI,9,George J. Schneider,Republican,71.0,True,True,False
+1924,house,Wisconsin,WI,9,T. J. Reinert,Democratic,29.0,False,False,False
+1924,house,Wisconsin,WI,10,James A. Frear,Republican,81.6,True,True,False
+1924,house,Wisconsin,WI,10,Thomas A. Ryan,Democratic,18.4,False,False,False
+1924,house,Wisconsin,WI,11,Hubert H. Peavey,Republican,78.2,True,True,False
+1924,house,Wisconsin,WI,11,John A. Cadigan,Democratic,21.8,False,False,False
+1924,house,Wyoming,WY,AL,Charles E. Winter,Republican,58.7,True,True,False
+1924,house,Wyoming,WY,AL,Theodore Wanerus,Democratic,38.9,False,False,False
+1924,house,Wyoming,WY,AL,D. A. Hastings,Independent,2.4,False,False,False
+1924,house,Alaska,AK,AL,Daniel Sutherland,Republican,100.0,True,True,False
