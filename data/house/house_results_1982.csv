@@ -1,0 +1,987 @@
+year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
+1982,house,Alabama,AL,1,Jack Edwards,Republican,61.0,True,True,False
+1982,house,Alabama,AL,1,Steve Gudac,Democratic,37.7,False,False,False
+1982,house,Alabama,AL,1,William Springer,Libertarian,1.3,False,False,False
+1982,house,Alabama,AL,2,William Louis Dickinson,Republican,50.4,True,True,False
+1982,house,Alabama,AL,2,Billy Joe Camp,Democratic,49.6,False,False,False
+1982,house,Alabama,AL,3,William Flynt Nichols,Democratic,96.3,True,True,False
+1982,house,Alabama,AL,3,Richard David Landers,Libertarian,3.7,False,False,False
+1982,house,Alabama,AL,4,Tom Bevill,Democratic,100.0,True,True,False
+1982,house,Alabama,AL,5,Ronnie Flippo,Democratic,80.7,True,True,False
+1982,house,Alabama,AL,5,Leo Yambrek,Republican,18.2,False,False,False
+1982,house,Alabama,AL,5,Kenneth Ament,Libertarian,1.1,False,False,False
+1982,house,Alabama,AL,6,Ben Erdreich,Democratic,53.2,True,False,False
+1982,house,Alabama,AL,6,Albert L. Smith Jr.,Republican,46.4,False,True,False
+1982,house,Alabama,AL,6,Charles Ewing,Libertarian,0.4,False,False,False
+1982,house,Alabama,AL,7,Richard Shelby,Democratic,96.8,True,True,False
+1982,house,Alabama,AL,7,James Jones,Libertarian,3.2,False,False,False
+1982,house,Alaska,AK,AL,Don Young,Republican,70.8,True,True,False
+1982,house,Alaska,AK,AL,Dave Carlson,Democratic,28.7,False,False,False
+1982,house,Arizona,AZ,1,John McCain,Republican,65.9,True,False,True
+1982,house,Arizona,AZ,1,Bill Hegarty,Democratic,30.5,False,False,True
+1982,house,Arizona,AZ,1,Richard K. Dodge,Libertarian,3.6,False,False,True
+1982,house,Arizona,AZ,2,Mo Udall,Democratic,70.9,True,True,False
+1982,house,Arizona,AZ,2,Roy B. Laos,Republican,27.4,False,False,False
+1982,house,Arizona,AZ,3,Bob Stump,Republican,63.3,True,True,False
+1982,house,Arizona,AZ,3,Pat Bosch,Democratic,36.7,False,False,False
+1982,house,Arizona,AZ,4,Eldon Rudd,Republican,65.7,True,True,False
+1982,house,Arizona,AZ,4,Wayne O. Earley,Democratic,30.4,False,False,False
+1982,house,Arizona,AZ,4,Dick Stauffer,Libertarian,3.9,False,False,False
+1982,house,Arizona,AZ,5,Jim McNulty,Democratic,49.7,True,False,True
+1982,house,Arizona,AZ,5,Jim Kolbe,Republican,48.3,False,False,True
+1982,house,Arizona,AZ,5,Richard D. Auster,Libertarian,2.0,False,False,True
+1982,house,Arkansas,AR,1,Bill Alexander,Democratic,64.8,True,True,False
+1982,house,Arkansas,AR,1,Chuck Banks,Republican,35.2,False,False,False
+1982,house,Arkansas,AR,2,Ed Bethune,Republican,53.9,True,True,False
+1982,house,Arkansas,AR,2,Charles L. George,Democratic,46.1,False,False,False
+1982,house,Arkansas,AR,3,John Paul Hammerschmidt,Republican,66.0,True,True,False
+1982,house,Arkansas,AR,3,Jim McDougal,Democratic,34.0,False,False,False
+1982,house,Arkansas,AR,4,Beryl Anthony Jr.,Democratic,65.6,True,True,False
+1982,house,Arkansas,AR,4,Bob Leslie,Republican,34.4,False,False,False
+1982,house,California,CA,1,Douglas H. Bosco,Democratic,49.8,True,False,False
+1982,house,California,CA,1,Donald H. Clausen,Republican,47.2,False,False,False
+1982,house,California,CA,1,David Redick,Libertarian,2.9,False,False,False
+1982,house,California,CA,2,Eugene A. Chappie,Republican,57.9,True,False,False
+1982,house,California,CA,2,John Newmeyer,Democratic,40.5,False,False,False
+1982,house,California,CA,3,Bob Matsui,Democratic,89.6,True,True,False
+1982,house,California,CA,3,Bruce A. Daniel,Libertarian,7.5,False,False,False
+1982,house,California,CA,4,Vic Fazio,Democratic,63.9,True,True,False
+1982,house,California,CA,4,Roger B. Canfield,Republican,36.1,False,False,False
+1982,house,California,CA,5,Phillip Burton,Democratic,57.9,True,False,False
+1982,house,California,CA,5,Milton Marks,Republican,40.5,False,False,False
+1982,house,California,CA,5,Justin Raimondo,Libertarian,1.6,False,False,False
+1982,house,California,CA,6,Barbara Boxer,Democratic,52.4,True,False,True
+1982,house,California,CA,6,Dennis McQuaid,Republican,44.6,False,False,True
+1982,house,California,CA,6,Howard C. Creighton,Libertarian,1.7,False,False,True
+1982,house,California,CA,7,George Miller,Democratic,67.2,True,True,False
+1982,house,California,CA,7,Paul E. Vallely,Republican,30.2,False,False,False
+1982,house,California,CA,7,Rich Newell,Libertarian,1.5,False,False,False
+1982,house,California,CA,8,Ron Dellums,Democratic,55.9,True,True,False
+1982,house,California,CA,8,Claude B. Hutchison Jr.,Republican,44.1,False,False,False
+1982,house,California,CA,9,Pete Stark,Democratic,60.7,True,True,False
+1982,house,California,CA,9,Bill Kennedy,Republican,39.3,False,False,False
+1982,house,California,CA,10,Don Edwards,Democratic,62.7,True,True,False
+1982,house,California,CA,10,Bob Herriott,Republican,33.7,False,False,False
+1982,house,California,CA,10,Dale Burrow,Libertarian,1.9,False,False,False
+1982,house,California,CA,11,Tom Lantos,Democratic,57.1,True,True,False
+1982,house,California,CA,11,William Royer,Republican,39.7,False,False,False
+1982,house,California,CA,11,Chuck Olson,Libertarian,1.5,False,False,False
+1982,house,California,CA,12,Ed Zschau,Republican,63.0,True,False,True
+1982,house,California,CA,12,Emmett Lynch,Democratic,33.5,False,False,True
+1982,house,California,CA,12,Bill White,Libertarian,3.5,False,False,True
+1982,house,California,CA,13,Norman Mineta,Democratic,65.9,True,True,False
+1982,house,California,CA,13,Tom Kelly,Republican,31.4,False,False,False
+1982,house,California,CA,13,Al Hinkle,Libertarian,2.7,False,False,False
+1982,house,California,CA,14,Norman D. Shumway,Republican,63.4,True,True,False
+1982,house,California,CA,14,Baron Reed,Democratic,36.6,False,False,False
+1982,house,California,CA,15,Tony Coelho,Democratic,63.7,True,True,False
+1982,house,California,CA,15,Ed Bates,Republican,34.0,False,False,False
+1982,house,California,CA,15,Stephen L. Gerringer,Libertarian,2.3,False,False,False
+1982,house,California,CA,16,Leon Panetta,Democratic,85.5,True,True,False
+1982,house,California,CA,16,G. Richard Arnold,Republican,14.3,False,False,False
+1982,house,California,CA,17,Chip Pashayan,Republican,54.0,True,True,False
+1982,house,California,CA,17,Gene Tackett,Democratic,46.0,False,False,False
+1982,house,California,CA,18,Richard H. Lehman,Democratic,59.5,True,False,True
+1982,house,California,CA,18,Adrian C. Fondse,Republican,38.3,False,False,True
+1982,house,California,CA,18,Marshall William Fritz,Libertarian,2.2,False,False,True
+1982,house,California,CA,19,Bob Lagomarsino,Republican,61.1,True,True,False
+1982,house,California,CA,19,Frank Frost,Democratic,35.8,False,False,False
+1982,house,California,CA,19,R. C. Gordon-McCutchan,Libertarian,2.3,False,False,False
+1982,house,California,CA,20,Bill Thomas,Republican,68.1,True,False,False
+1982,house,California,CA,20,Robert J. Bethea,Democratic,31.9,False,False,False
+1982,house,California,CA,21,Bobbi Fiedler,Republican,71.8,True,True,True
+1982,house,California,CA,21,George Henry Margolis,Democratic,24.1,False,False,True
+1982,house,California,CA,21,Daniel Wiener,Libertarian,4.1,False,False,True
+1982,house,California,CA,22,Carlos Moorhead,Republican,73.6,True,True,False
+1982,house,California,CA,22,Harvey L. Goldhammer,Democratic,23.5,False,False,False
+1982,house,California,CA,22,Robert T. Gerringer,Libertarian,3.0,False,False,False
+1982,house,California,CA,23,Anthony Beilenson,Democratic,59.6,True,True,False
+1982,house,California,CA,23,David Armor,Republican,40.4,False,False,False
+1982,house,California,CA,24,Henry Waxman,Democratic,65.1,True,True,False
+1982,house,California,CA,24,Jerry Zerg,Republican,31.0,False,False,False
+1982,house,California,CA,24,Jeff Mandel,Libertarian,4.0,False,False,False
+1982,house,California,CA,25,Edward R. Roybal,Democratic,85.5,True,True,False
+1982,house,California,CA,25,Daniel John Gorham,Libertarian,14.5,False,False,False
+1982,house,California,CA,26,Howard Berman,Democratic,59.6,True,False,True
+1982,house,California,CA,26,Hal Phillips,Republican,40.4,False,False,True
+1982,house,California,CA,27,Mel Levine,Democratic,59.5,True,False,True
+1982,house,California,CA,27,Bart W. Christensen,Republican,37.0,False,False,True
+1982,house,California,CA,27,Zack Richardson,Libertarian,3.5,False,False,True
+1982,house,California,CA,28,Julian Dixon,Democratic,78.9,True,True,False
+1982,house,California,CA,28,David Goerz,Republican,18.7,False,False,False
+1982,house,California,CA,28,David W. Meleney,Libertarian,2.4,False,False,False
+1982,house,California,CA,29,Augustus Hawkins,Democratic,79.8,True,True,False
+1982,house,California,CA,29,Milton R. Mackaig,Republican,20.2,False,False,False
+1982,house,California,CA,30,Matthew G. Martínez,Democratic,53.9,True,True,False
+1982,house,California,CA,30,John H. Rousselot,Republican,46.1,False,False,False
+1982,house,California,CA,31,Mervyn Dymally,Democratic,72.4,True,True,False
+1982,house,California,CA,31,Henry C. Minturn,Republican,27.6,False,False,False
+1982,house,California,CA,32,Glenn M. Anderson,Democratic,58.0,True,True,False
+1982,house,California,CA,32,Brian Lungren,Republican,39.6,False,False,False
+1982,house,California,CA,33,David Dreier,Republican,65.2,True,False,False
+1982,house,California,CA,33,Paul Servelle,Democratic,32.2,False,False,False
+1982,house,California,CA,33,Phillips B. Franklin,Libertarian,1.3,False,False,False
+1982,house,California,CA,34,Esteban Torres,Democratic,57.2,True,False,True
+1982,house,California,CA,34,Paul R. Jackson,Republican,42.8,False,False,True
+1982,house,California,CA,35,Jerry Lewis,Republican,68.3,True,False,False
+1982,house,California,CA,35,Robert E. Erwin,Democratic,31.7,False,False,False
+1982,house,California,CA,36,George Brown Jr.,Democratic,54.3,True,True,True
+1982,house,California,CA,36,John Paul Stark,Republican,45.7,False,False,True
+1982,house,California,CA,37,Al McCandless,Republican,59.1,True,False,True
+1982,house,California,CA,37,Sam Cross,Democratic,38.5,False,False,True
+1982,house,California,CA,37,Marc R. Wruble,Libertarian,2.4,False,False,True
+1982,house,California,CA,38,Jerry M. Patterson,Democratic,52.4,True,True,False
+1982,house,California,CA,38,Bill Dohr,Republican,43.4,False,False,False
+1982,house,California,CA,38,Anita K. Barr,Libertarian,4.2,False,False,False
+1982,house,California,CA,39,Bill Dannemeyer,Republican,72.2,True,True,False
+1982,house,California,CA,39,Frank G. Verges,Democratic,26.0,False,False,False
+1982,house,California,CA,40,Robert Badham,Republican,71.5,True,True,False
+1982,house,California,CA,40,Paul Haseman,Democratic,26.1,False,False,False
+1982,house,California,CA,41,Bill Lowery,Republican,68.9,True,True,False
+1982,house,California,CA,41,Tony Brandenburg,Democratic,28.8,False,False,False
+1982,house,California,CA,41,Everett Hale,Libertarian,2.3,False,False,False
+1982,house,California,CA,42,Dan Lungren,Republican,69.0,True,False,False
+1982,house,California,CA,42,James P. Spellman,Democratic,28.3,False,False,False
+1982,house,California,CA,43,Ron Packard,Republican,36.8,True,False,True
+1982,house,California,CA,43,Pat Archer,Democratic,32.1,False,False,True
+1982,house,California,CA,43,Johnnie R. Crean,Republican,31.1,False,False,True
+1982,house,California,CA,44,Jim Bates,Democratic,64.9,True,False,True
+1982,house,California,CA,44,Shirley M. Gissendanner,Republican,31.8,False,False,True
+1982,house,California,CA,44,Jim Conole,Libertarian,3.2,False,False,True
+1982,house,California,CA,45,Duncan L. Hunter,Republican,68.6,True,False,False
+1982,house,California,CA,45,Richard Hill,Democratic,29.2,False,False,False
+1982,house,California,CA,45,Jack R. Sanders,Republican,2.2,False,False,False
+1982,house,Colorado,CO,1,Pat Schroeder,Democratic,60.3,True,True,False
+1982,house,Colorado,CO,1,Arch Decker,Republican,37.4,False,False,False
+1982,house,Colorado,CO,1,Robin White,Libertarian,2.3,False,False,False
+1982,house,Colorado,CO,2,Tim Wirth,Democratic,61.8,True,True,False
+1982,house,Colorado,CO,2,John C. Buechner,Republican,36.4,False,False,False
+1982,house,Colorado,CO,2,Charles Jackson,Libertarian,1.7,False,False,False
+1982,house,Colorado,CO,3,Ray Kogovsek,Democratic,53.4,True,True,False
+1982,house,Colorado,CO,3,Tom Wiens,Republican,44.8,False,False,False
+1982,house,Colorado,CO,3,Stormy Mohn,Libertarian,1.4,False,False,False
+1982,house,Colorado,CO,3,Henry John Olshaw,Independent,0.4,False,False,False
+1982,house,Colorado,CO,4,Hank Brown,Republican,69.8,True,True,False
+1982,house,Colorado,CO,4,Bud Bishopp,Democratic,30.2,False,False,False
+1982,house,Colorado,CO,5,Ken Kramer,Republican,59.5,True,True,False
+1982,house,Colorado,CO,5,Tom Cronin,Democratic,40.5,False,False,False
+1982,house,Colorado,CO,6,Jack Swigert,Republican,62.2,True,False,True
+1982,house,Colorado,CO,6,Steve Hogan,Democratic,35.6,False,False,True
+1982,house,Colorado,CO,6,J. Craig Green,Libertarian,2.3,False,False,True
+1982,house,Connecticut,CT,1,Barbara B. Kennelly,Democratic,68.1,True,True,False
+1982,house,Connecticut,CT,1,Herschel A. Klein,Republican,31.2,False,False,False
+1982,house,Connecticut,CT,1,Daniel M. Landerfin,Libertarian,0.7,False,False,False
+1982,house,Connecticut,CT,2,Sam Gejdenson,Democratic,55.8,True,True,False
+1982,house,Connecticut,CT,2,Tony Guglielmo,Republican,43.5,False,False,False
+1982,house,Connecticut,CT,2,Donald W. Wood,Libertarian,0.7,False,False,False
+1982,house,Connecticut,CT,3,Bruce A. Morrison,Democratic,50.0,True,False,False
+1982,house,Connecticut,CT,3,Larry DeNardis,Republican,49.0,False,True,False
+1982,house,Connecticut,CT,4,Stewart McKinney,Republican,56.5,True,True,False
+1982,house,Connecticut,CT,4,John A. Phillips,Democratic,42.9,False,False,False
+1982,house,Connecticut,CT,4,Lothar Frank,Libertarian,0.7,False,False,False
+1982,house,Connecticut,CT,5,William R. Ratchford,Democratic,58.5,True,True,False
+1982,house,Connecticut,CT,5,Neal B. Hanlon,Republican,40.8,False,False,False
+1982,house,Connecticut,CT,5,Jerry Brennan,Libertarian,0.7,False,False,False
+1982,house,Connecticut,CT,6,Nancy Johnson,Republican,51.7,True,False,True
+1982,house,Connecticut,CT,6,William E. Curry Jr.,Democratic,47.8,False,False,True
+1982,house,Connecticut,CT,6,Monte Dunn,Libertarian,0.6,False,False,True
+1982,house,Delaware,DE,AL,Tom Carper,Democratic,52.4,True,False,False
+1982,house,Delaware,DE,AL,Tom Evans,Republican,46.3,False,True,False
+1982,house,Florida,FL,1,Earl Hutto,Democratic,74.4,True,True,False
+1982,house,Florida,FL,1,J. Terryl Bechtol,Republican,25.6,False,False,False
+1982,house,Florida,FL,2,Don Fuqua,Democratic,61.7,True,True,False
+1982,house,Florida,FL,2,Ron McNeil,Republican,38.3,False,False,False
+1982,house,Florida,FL,3,Charles E. Bennett,Democratic,84.1,True,True,False
+1982,house,Florida,FL,3,George Grimsley,Republican,15.9,False,False,False
+1982,house,Florida,FL,4,Bill Chappell,Democratic,66.9,True,True,False
+1982,house,Florida,FL,4,Larry Gaudet,Republican,33.1,False,False,False
+1982,house,Florida,FL,5,Bill McCollum,Republican,58.8,True,True,False
+1982,house,Florida,FL,5,Dick Batchelor,Democratic,41.2,False,False,False
+1982,house,Florida,FL,6,Buddy MacKay,Democratic,61.4,True,False,True
+1982,house,Florida,FL,6,Ed Havill,Republican,38.6,False,False,True
+1982,house,Florida,FL,7,Sam Gibbons,Democratic,74.2,True,True,False
+1982,house,Florida,FL,7,Ken Ayers,Republican,25.8,False,False,False
+1982,house,Florida,FL,8,Bill Young,Republican,100.0,True,False,False
+1982,house,Florida,FL,9,Michael Bilirakis,Republican,51.2,True,False,True
+1982,house,Florida,FL,9,George H. Sheldon,Democratic,48.8,False,False,True
+1982,house,Florida,FL,10,Andy Ireland,Democratic,100.0,True,False,False
+1982,house,Florida,FL,11,Bill Nelson,Democratic,70.6,True,False,False
+1982,house,Florida,FL,11,Joel Robinson,Republican,29.4,False,False,False
+1982,house,Florida,FL,12,Tom Lewis,Republican,52.6,True,False,True
+1982,house,Florida,FL,12,Brad Culverhouse,Democratic,47.4,False,False,True
+1982,house,Florida,FL,13,Connie Mack III,Republican,65.1,True,False,True
+1982,house,Florida,FL,13,Dana N. Stevens,Democratic,34.9,False,False,True
+1982,house,Florida,FL,14,Dan Mica,Democratic,73.0,True,False,False
+1982,house,Florida,FL,14,Steve Mitchell,Republican,27.0,False,False,False
+1982,house,Florida,FL,15,Clay Shaw,Republican,57.1,True,False,False
+1982,house,Florida,FL,15,Ed Stack,Democratic,42.9,False,False,False
+1982,house,Florida,FL,16,Larry Smith,Democratic,67.9,True,False,True
+1982,house,Florida,FL,16,Maurice Berkowitz,Republican,32.1,False,False,True
+1982,house,Florida,FL,17,William Lehman,Democratic,100.0,True,False,False
+1982,house,Florida,FL,18,Claude Pepper,Democratic,71.2,True,False,False
+1982,house,Florida,FL,18,Ricardo Nunez,Republican,28.8,False,False,False
+1982,house,Florida,FL,19,Dante Fascell,Democratic,58.8,True,False,False
+1982,house,Florida,FL,19,Glenn Rinker,Republican,41.2,False,False,False
+1982,house,Georgia,GA,1,Lindsay Thomas,Democratic,64.1,True,False,True
+1982,house,Georgia,GA,1,Herb Jones,Republican,35.9,False,False,True
+1982,house,Georgia,GA,2,Charles Hatcher,Democratic,100.0,True,True,False
+1982,house,Georgia,GA,3,Richard Ray,Democratic,71.0,True,False,True
+1982,house,Georgia,GA,3,Tyron Elliott,Republican,29.0,False,False,True
+1982,house,Georgia,GA,4,Elliott H. Levitas,Democratic,65.5,True,True,False
+1982,house,Georgia,GA,4,Dick Winder,Republican,34.5,False,False,False
+1982,house,Georgia,GA,5,Wyche Fowler,Democratic,80.8,True,True,False
+1982,house,Georgia,GA,5,Billy McKinney,Independent,13.7,False,False,False
+1982,house,Georgia,GA,5,Paul Jones,Republican,5.5,False,False,False
+1982,house,Georgia,GA,6,Newt Gingrich,Republican,55.3,True,True,False
+1982,house,Georgia,GA,6,Jim Wood,Democratic,44.7,False,False,False
+1982,house,Georgia,GA,7,Larry McDonald,Democratic,61.1,True,True,False
+1982,house,Georgia,GA,7,Dave Sellers,Republican,38.9,False,False,False
+1982,house,Georgia,GA,8,J. Roy Rowland,Democratic,100.0,True,False,False
+1982,house,Georgia,GA,9,Ed Jenkins,Democratic,77.0,True,True,False
+1982,house,Georgia,GA,9,Charles Sherwood,Republican,23.0,False,False,False
+1982,house,Georgia,GA,10,Doug Barnard Jr.,Democratic,100.0,True,True,False
+1982,house,Hawaii,HI,1,Cecil Heftel,Democratic,89.9,True,True,False
+1982,house,Hawaii,HI,1,Rockne H. Johnson,Libertarian,10.1,False,False,False
+1982,house,Hawaii,HI,2,Daniel Akaka,Democratic,89.2,True,True,False
+1982,house,Hawaii,HI,2,Gregory B. Mills,Independent,6.1,False,False,False
+1982,house,Hawaii,HI,2,Amelia Lew Fritts,Libertarian,4.6,False,False,False
+1982,house,Idaho,ID,1,Larry Craig,Republican,53.7,True,True,False
+1982,house,Idaho,ID,1,Larry LaRocco,Democratic,46.3,False,False,False
+1982,house,Idaho,ID,2,George V. Hansen,Republican,52.3,True,True,True
+1982,house,Idaho,ID,2,Richard H. Stallings,Democratic,47.7,False,False,True
+1982,house,Illinois,IL,1,Harold Washington,Democratic,97.3,True,True,False
+1982,house,Illinois,IL,1,Charles Allen Taliaferro,Republican,2.7,False,False,False
+1982,house,Illinois,IL,2,Gus Savage,Democratic,87.2,True,True,False
+1982,house,Illinois,IL,2,Kevin Walker Sparks,Republican,12.8,False,False,False
+1982,house,Illinois,IL,3,Marty Russo,Democratic,74.0,True,True,False
+1982,house,Illinois,IL,3,Richard D. Murphy,Republican,26.0,False,False,False
+1982,house,Illinois,IL,4,George M. O'Brien,Republican,54.6,True,False,False
+1982,house,Illinois,IL,4,Michael A. Murer,Democratic,45.4,False,False,False
+1982,house,Illinois,IL,5,Bill Lipinski,Democratic,75.4,True,False,False
+1982,house,Illinois,IL,5,Daniel J. Partyka,Republican,24.6,False,False,False
+1982,house,Illinois,IL,6,Henry Hyde,Republican,68.4,True,True,False
+1982,house,Illinois,IL,6,LeRoy E. Kennel,Democratic,31.6,False,False,False
+1982,house,Illinois,IL,7,Cardiss Collins,Democratic,86.5,True,True,False
+1982,house,Illinois,IL,7,Dan Cheeks,Republican,13.5,False,False,False
+1982,house,Illinois,IL,8,Dan Rostenkowski,Democratic,83.4,True,True,False
+1982,house,Illinois,IL,8,Bonnie Hickey,Republican,16.6,False,False,False
+1982,house,Illinois,IL,9,Sidney R. Yates,Democratic,66.5,True,True,True
+1982,house,Illinois,IL,9,Catherine Bertini,Republican,32.0,False,False,True
+1982,house,Illinois,IL,10,John Porter,Republican,59.0,True,True,True
+1982,house,Illinois,IL,10,Eugenia S. Chapman,Democratic,41.0,False,False,True
+1982,house,Illinois,IL,11,Frank Annunzio,Democratic,72.6,True,True,False
+1982,house,Illinois,IL,11,James F. Moynihan,Republican,27.4,False,False,False
+1982,house,Illinois,IL,12,Phil Crane,Republican,66.2,True,True,False
+1982,house,Illinois,IL,12,Daniel G. DeFosse,Democratic,30.7,False,False,False
+1982,house,Illinois,IL,12,Joan T. Jarosz,Libertarian,3.1,False,False,False
+1982,house,Illinois,IL,13,John N. Erlenborn,Republican,69.8,True,False,False
+1982,house,Illinois,IL,13,Bob Bily,Democratic,30.2,False,False,False
+1982,house,Illinois,IL,14,Tom Corcoran,Republican,64.6,True,False,False
+1982,house,Illinois,IL,14,Dan McGrath,Democratic,35.4,False,False,False
+1982,house,Illinois,IL,15,Ed Madigan,Republican,66.3,True,False,False
+1982,house,Illinois,IL,15,Tim L. Hall,Democratic,33.7,False,False,False
+1982,house,Illinois,IL,16,Lynn M. Martin,Republican,57.2,True,True,False
+1982,house,Illinois,IL,16,Skip Schwerdtfeger,Democratic,42.8,False,False,False
+1982,house,Illinois,IL,17,Lane Evans,Democratic,52.8,True,False,False
+1982,house,Illinois,IL,17,Kenneth G. McMillan,Republican,47.2,False,False,False
+1982,house,Illinois,IL,18,Robert H. Michel,Republican,51.6,True,True,False
+1982,house,Illinois,IL,18,G. Douglas Stephens,Democratic,48.4,False,False,False
+1982,house,Illinois,IL,19,Dan Crane,Republican,52.1,True,False,False
+1982,house,Illinois,IL,19,John Gwinn,Democratic,47.9,False,False,False
+1982,house,Illinois,IL,20,Dick Durbin,Democratic,50.4,True,False,False
+1982,house,Illinois,IL,20,Paul Findley,Republican,49.6,False,True,False
+1982,house,Illinois,IL,21,Melvin Price,Democratic,63.7,True,False,False
+1982,house,Illinois,IL,21,Robert H. Gaffner,Republican,33.3,False,False,False
+1982,house,Illinois,IL,22,Paul Simon,Democratic,66.2,True,False,False
+1982,house,Illinois,IL,22,Peter G. Prineas,Republican,33.8,False,False,False
+1982,house,Indiana,IN,1,Katie Hall,Democratic,56.3,True,False,True
+1982,house,Indiana,IN,1,Thomas H. Krieger,Republican,43.1,False,False,True
+1982,house,Indiana,IN,2,Philip R. Sharp,Democratic,56.2,True,False,False
+1982,house,Indiana,IN,2,Ralph VanNatta,Republican,43.8,False,False,False
+1982,house,Indiana,IN,3,John P. Hiler,Republican,51.2,True,True,False
+1982,house,Indiana,IN,3,Richard Clay Bodine,Democratic,48.8,False,False,False
+1982,house,Indiana,IN,4,Dan Coats,Republican,64.3,True,True,False
+1982,house,Indiana,IN,4,Roger M. Miller,Democratic,35.1,False,False,False
+1982,house,Indiana,IN,5,Elwood Hillis,Republican,61.1,True,True,False
+1982,house,Indiana,IN,5,Allen B. Maxwell,Democratic,38.9,False,False,False
+1982,house,Indiana,IN,6,Dan Burton,Republican,64.9,True,False,True
+1982,house,Indiana,IN,6,George Grabianowski,Democratic,35.1,False,False,True
+1982,house,Indiana,IN,7,John T. Myers,Republican,62.3,True,True,True
+1982,house,Indiana,IN,7,Stephen S. Bonney,Democratic,37.7,False,False,True
+1982,house,Indiana,IN,8,Frank McCloskey,Democratic,51.4,True,False,False
+1982,house,Indiana,IN,8,H. Joel Deckard,Republican,48.1,False,True,False
+1982,house,Indiana,IN,9,Lee Hamilton,Democratic,67.1,True,True,False
+1982,house,Indiana,IN,9,Floyd Coates,Republican,32.4,False,False,False
+1982,house,Indiana,IN,10,Andrew Jacobs Jr.,Democratic,66.7,True,False,False
+1982,house,Indiana,IN,10,Michael A. Carroll,Republican,33.2,False,False,False
+1982,house,Iowa,IA,1,Jim Leach,Republican,59.2,True,True,False
+1982,house,Iowa,IA,1,William E. Gluba,Democratic,40.8,False,False,False
+1982,house,Iowa,IA,2,Tom Tauke,Republican,58.9,True,True,False
+1982,house,Iowa,IA,2,Brent Appel,Democratic,41.1,False,False,False
+1982,house,Iowa,IA,3,T. Cooper Evans,Republican,55.5,True,True,False
+1982,house,Iowa,IA,3,Lynn G. Cutler,Democratic,44.5,False,False,False
+1982,house,Iowa,IA,4,Neal Smith,Democratic,66.0,True,True,False
+1982,house,Iowa,IA,4,Dave Readinger,Republican,33.6,False,False,False
+1982,house,Iowa,IA,5,Tom Harkin,Democratic,58.9,True,True,False
+1982,house,Iowa,IA,5,Arlyn E. Danker,Republican,41.1,False,False,False
+1982,house,Iowa,IA,6,Berkley Bedell,Democratic,64.3,True,True,False
+1982,house,Iowa,IA,6,Al Bremer,Republican,35.7,False,False,False
+1982,house,Kansas,KS,1,Pat Roberts,Republican,68.4,True,True,False
+1982,house,Kansas,KS,1,Kent Roth,Democratic,30.2,False,False,False
+1982,house,Kansas,KS,1,Kent Earnest,Libertarian,1.4,False,False,False
+1982,house,Kansas,KS,2,Jim Slattery,Democratic,57.4,True,False,True
+1982,house,Kansas,KS,2,Morris Kay,Republican,42.6,False,False,True
+1982,house,Kansas,KS,3,Larry Winn,Republican,59.2,True,True,False
+1982,house,Kansas,KS,3,William L. Kostar,Democratic,38.3,False,False,False
+1982,house,Kansas,KS,3,Gene R. Blair,Libertarian,2.5,False,False,False
+1982,house,Kansas,KS,4,Dan Glickman,Democratic,73.9,True,True,False
+1982,house,Kansas,KS,4,Jerry Caywood,Republican,24.4,False,False,False
+1982,house,Kansas,KS,4,Karl Peterjohn,Libertarian,1.6,False,False,False
+1982,house,Kansas,KS,5,Bob Whittaker,Republican,67.6,True,True,False
+1982,house,Kansas,KS,5,Lee Rowe,Democratic,31.1,False,False,False
+1982,house,Kansas,KS,5,John L. Conger,Libertarian,1.2,False,False,False
+1982,house,Kentucky,KY,1,Carroll Hubbard,Democratic,100.0,True,True,False
+1982,house,Kentucky,KY,2,William Natcher,Democratic,73.8,True,True,False
+1982,house,Kentucky,KY,2,Mark Watson,Republican,26.2,False,False,False
+1982,house,Kentucky,KY,3,Romano Mazzoli,Democratic,65.1,True,True,False
+1982,house,Kentucky,KY,3,Carl Brown,Republican,32.2,False,False,False
+1982,house,Kentucky,KY,3,Norbert D. Leveronne,Independent,2.0,False,False,False
+1982,house,Kentucky,KY,4,Gene Snyder,Republican,54.2,True,True,False
+1982,house,Kentucky,KY,4,Terry L. Mann,Democratic,45.3,False,False,False
+1982,house,Kentucky,KY,4,Paul Thiel,Libertarian,0.5,False,False,False
+1982,house,Kentucky,KY,5,Hal Rogers,Republican,65.2,True,True,False
+1982,house,Kentucky,KY,5,Doye Davenport,Democratic,34.8,False,False,False
+1982,house,Kentucky,KY,6,Larry J. Hopkins,Republican,56.8,True,True,False
+1982,house,Kentucky,KY,6,Don Mills,Democratic,41.4,False,False,False
+1982,house,Kentucky,KY,7,Carl D. Perkins,Democratic,79.4,True,True,False
+1982,house,Kentucky,KY,7,Tom Hamby,Republican,20.6,False,False,False
+1982,house,Louisiana,LA,1,Bob Livingston,Republican,85.8,True,True,False
+1982,house,Louisiana,LA,1,Murphy O. Greene,Independent,7.5,False,False,False
+1982,house,Louisiana,LA,1,Suzanne Weiss,Independent,6.7,False,False,False
+1982,house,Louisiana,LA,2,Lindy Boggs,Democratic,77.0,True,True,False
+1982,house,Louisiana,LA,2,Roger C. Johnson,Democratic,23.0,False,False,False
+1982,house,Louisiana,LA,3,Billy Tauzin,Democratic,100.0,True,True,False
+1982,house,Louisiana,LA,4,Buddy Roemer,Democratic,100.0,True,True,False
+1982,house,Louisiana,LA,5,Jerry Huckaby,Democratic,83.7,True,True,False
+1982,house,Louisiana,LA,5,Donald M. Greene,Democratic,7.1,False,False,False
+1982,house,Louisiana,LA,5,L. D. Knox,Independent,5.6,False,False,False
+1982,house,Louisiana,LA,5,Ronnie King,Democratic,3.6,False,False,False
+1982,house,Louisiana,LA,6,Henson Moore,Republican,77.1,True,True,False
+1982,house,Louisiana,LA,6,James D. Agnew,Independent,22.9,False,False,False
+1982,house,Louisiana,LA,7,John Breaux,Democratic,79.0,True,True,False
+1982,house,Louisiana,LA,7,Johnny Myers,Democratic,21.0,False,False,False
+1982,house,Louisiana,LA,8,Gillis William Long,Democratic,59.6,True,True,False
+1982,house,Louisiana,LA,8,Ned Randolph,Democratic,39.1,False,False,False
+1982,house,Louisiana,LA,8,Rosemary Rummler,Independent,1.2,False,False,False
+1982,house,Maine,ME,1,Jock McKernan,Republican,50.4,True,False,True
+1982,house,Maine,ME,1,John M. Kerry,Democratic,47.9,False,False,True
+1982,house,Maine,ME,1,Gregory J. Fleming,Libertarian,1.7,False,False,True
+1982,house,Maine,ME,2,Olympia Snowe,Republican,66.7,True,True,False
+1982,house,Maine,ME,2,James P. Dunleavy,Democratic,33.3,False,False,False
+1982,house,Maryland,MD,1,Roy Dyson,Democratic,69.3,True,True,False
+1982,house,Maryland,MD,1,C. A. Porter Hopkins,Republican,30.7,False,False,False
+1982,house,Maryland,MD,2,Clarence Long,Democratic,52.6,True,True,False
+1982,house,Maryland,MD,2,Helen Delich Bentley,Republican,47.4,False,False,False
+1982,house,Maryland,MD,3,Barbara Mikulski,Democratic,74.2,True,True,False
+1982,house,Maryland,MD,3,H. Robert Scherr,Republican,25.8,False,False,False
+1982,house,Maryland,MD,4,Marjorie Holt,Republican,61.2,True,True,False
+1982,house,Maryland,MD,4,Patricia O'Brien Aiken,Democratic,38.8,False,False,False
+1982,house,Maryland,MD,5,Steny Hoyer,Democratic,79.6,True,True,False
+1982,house,Maryland,MD,5,William P. Guthrie,Republican,20.4,False,False,False
+1982,house,Maryland,MD,6,Beverly Byron,Democratic,74.4,True,True,False
+1982,house,Maryland,MD,6,Roscoe Bartlett,Republican,25.6,False,False,False
+1982,house,Maryland,MD,7,Parren Mitchell,Democratic,87.9,True,True,False
+1982,house,Maryland,MD,7,M. Leonora Jones,Republican,12.1,False,False,False
+1982,house,Maryland,MD,8,Michael D. Barnes,Democratic,71.3,True,True,False
+1982,house,Maryland,MD,8,Elizabeth W. Spencer,Republican,28.7,False,False,False
+1982,house,Massachusetts,MA,1,Silvio O. Conte,Republican,99.5,True,True,False
+1982,house,Massachusetts,MA,2,Edward Boland,Democratic,72.6,True,True,False
+1982,house,Massachusetts,MA,2,Thomas P. Swank,Republican,27.4,False,False,False
+1982,house,Massachusetts,MA,3,Joseph D. Early,Democratic,99.9,True,True,False
+1982,house,Massachusetts,MA,4,Barney Frank,Democratic,59.5,True,True,False
+1982,house,Massachusetts,MA,4,Margaret Heckler,Republican,40.5,False,False,False
+1982,house,Massachusetts,MA,5,James Shannon,Democratic,84.7,True,True,False
+1982,house,Massachusetts,MA,5,Angelo Louis Laudani,Republican,15.3,False,False,False
+1982,house,Massachusetts,MA,6,Nicholas Mavroules,Democratic,57.8,True,True,False
+1982,house,Massachusetts,MA,6,Thomas Trimarco,Republican,42.2,False,False,False
+1982,house,Massachusetts,MA,7,Ed Markey,Democratic,77.8,True,True,False
+1982,house,Massachusetts,MA,7,David M. Basile,Republican,22.2,False,False,False
+1982,house,Massachusetts,MA,8,Tip O'Neill,Democratic,74.9,True,True,False
+1982,house,Massachusetts,MA,8,Frank L. McNamara Jr.,Republican,25.1,False,False,False
+1982,house,Massachusetts,MA,9,Joe Moakley,Democratic,64.1,True,True,False
+1982,house,Massachusetts,MA,9,Deborah R. Cochran,Republican,34.3,False,False,False
+1982,house,Massachusetts,MA,10,Gerry Studds,Democratic,68.7,True,False,False
+1982,house,Massachusetts,MA,10,John E. Conway,Republican,31.3,False,False,False
+1982,house,Massachusetts,MA,11,Brian J. Donnelly,Democratic,100.0,True,True,False
+1982,house,Michigan,MI,1,John Conyers,Democratic,96.7,True,True,False
+1982,house,Michigan,MI,1,William B. Krebaum,Libertarian,2.5,False,False,False
+1982,house,Michigan,MI,2,Carl Pursell,Republican,65.5,True,True,False
+1982,house,Michigan,MI,2,George Wahl Sallade,Democratic,32.5,False,False,False
+1982,house,Michigan,MI,2,Barbara J. McKenna,Libertarian,2.1,False,False,False
+1982,house,Michigan,MI,3,Howard Wolpe,Democratic,56.3,True,True,False
+1982,house,Michigan,MI,3,Richard L. Milliman,Republican,42.6,False,False,False
+1982,house,Michigan,MI,4,Mark D. Siljander,Republican,59.7,True,True,False
+1982,house,Michigan,MI,4,David A. Masiokas,Democratic,38.8,False,False,False
+1982,house,Michigan,MI,4,Robert Wagner,Libertarian,1.1,False,False,False
+1982,house,Michigan,MI,5,Harold S. Sawyer,Republican,53.1,True,True,False
+1982,house,Michigan,MI,5,Stephen V. Monsma,Democratic,46.9,False,False,False
+1982,house,Michigan,MI,6,Bob Carr,Democratic,51.4,True,False,False
+1982,house,Michigan,MI,6,Jim Dunn,Republican,47.5,False,False,False
+1982,house,Michigan,MI,6,James E. Hurrell,Libertarian,1.1,False,False,False
+1982,house,Michigan,MI,7,Dale Kildee,Democratic,75.4,True,True,False
+1982,house,Michigan,MI,7,George R. Darrah,Republican,23.1,False,False,False
+1982,house,Michigan,MI,7,Dennis L. Berry,Libertarian,1.2,False,False,False
+1982,house,Michigan,MI,8,J. Bob Traxler,Democratic,91.0,True,True,False
+1982,house,Michigan,MI,8,Sheila M. Hart,Libertarian,9.0,False,False,False
+1982,house,Michigan,MI,9,Guy Vander Jagt,Republican,64.9,True,True,False
+1982,house,Michigan,MI,9,Gerald D. Warner,Democratic,35.1,False,False,False
+1982,house,Michigan,MI,10,Don Albosta,Democratic,60.1,True,False,False
+1982,house,Michigan,MI,10,Lawrence W. Reed,Republican,38.9,False,False,False
+1982,house,Michigan,MI,10,William Spiers,Libertarian,0.9,False,False,False
+1982,house,Michigan,MI,11,Robert William Davis,Republican,60.5,True,True,False
+1982,house,Michigan,MI,11,Kent Bourland,Democratic,39.5,False,False,False
+1982,house,Michigan,MI,12,David Bonior,Democratic,65.9,True,True,False
+1982,house,Michigan,MI,12,Ray Contesti,Republican,33.2,False,False,False
+1982,house,Michigan,MI,12,Keith P. Edwards,Libertarian,1.0,False,False,False
+1982,house,Michigan,MI,13,George Crockett Jr.,Democratic,88.0,True,True,False
+1982,house,Michigan,MI,13,Letty Gupta,Republican,11.1,False,False,False
+1982,house,Michigan,MI,14,Dennis Hertel,Democratic,95.0,True,True,False
+1982,house,Michigan,MI,14,Harold H. Dunn,Libertarian,5.0,False,False,False
+1982,house,Michigan,MI,15,William D. Ford,Democratic,72.8,True,True,False
+1982,house,Michigan,MI,15,Mitchell Moran,Republican,26.0,False,False,False
+1982,house,Michigan,MI,16,John Dingell,Democratic,73.7,True,True,False
+1982,house,Michigan,MI,16,David K. Haskins,Republican,25.3,False,False,False
+1982,house,Michigan,MI,17,Sander Levin,Democratic,66.6,True,False,True
+1982,house,Michigan,MI,17,Gerald E. Rosen,Republican,31.7,False,False,True
+1982,house,Michigan,MI,17,Virginia L. Cropsey,Libertarian,1.7,False,False,True
+1982,house,Michigan,MI,18,William Broomfield,Republican,73.3,True,False,False
+1982,house,Michigan,MI,18,Allen J. SIpher,Democratic,25.7,False,False,False
+1982,house,Michigan,MI,18,Joseph Cote,Libertarian,1.0,False,False,False
+1982,house,Minnesota,MN,1,Tim Penny,DFL,51.2,True,False,False
+1982,house,Minnesota,MN,1,Tom Hagedorn,Republican,47.9,False,False,False
+1982,house,Minnesota,MN,1,Clare H. Jarvis,Libertarian,0.9,False,False,False
+1982,house,Minnesota,MN,2,Vin Weber,Republican,54.5,True,False,False
+1982,house,Minnesota,MN,2,Jim Nichols,DFL,45.5,False,False,False
+1982,house,Minnesota,MN,3,Bill Frenzel,Republican,72.2,True,True,False
+1982,house,Minnesota,MN,3,Joel A. Saliterman,DFL,26.4,False,False,False
+1982,house,Minnesota,MN,4,Bruce Vento,DFL,73.2,True,True,False
+1982,house,Minnesota,MN,5,Martin Olav Sabo,DFL,65.5,True,True,False
+1982,house,Minnesota,MN,5,Thomas Wicklund,Libertarian,1.2,False,False,False
+1982,house,Minnesota,MN,6,Gerry Sikorski,DFL,50.8,True,False,False
+1982,house,Minnesota,MN,6,Arlen Erdahl,Republican,49.2,False,False,False
+1982,house,Minnesota,MN,7,Arlan Stangeland,Republican,50.3,True,True,False
+1982,house,Minnesota,MN,7,Gene R. Wenstrom,DFL,49.7,False,False,False
+1982,house,Minnesota,MN,8,Jim Oberstar,DFL,76.7,True,True,False
+1982,house,Mississippi,MS,1,Jamie Whitten,Democratic,70.9,True,True,False
+1982,house,Mississippi,MS,1,Fran Fawcett,Republican,29.1,False,False,False
+1982,house,Mississippi,MS,2,Webb Franklin,Republican,50.3,True,False,True
+1982,house,Mississippi,MS,2,Robert G. Clark Jr.,Democratic,48.4,False,False,True
+1982,house,Mississippi,MS,2,William V. Harris,Independent,1.3,False,False,True
+1982,house,Mississippi,MS,3,Sonny Montgomery,Democratic,93.1,True,True,False
+1982,house,Mississippi,MS,3,James Bradshaw,Independent,6.9,False,False,False
+1982,house,Mississippi,MS,4,Wayne Dowdy,Democratic,52.5,True,True,False
+1982,house,Mississippi,MS,4,Liles Williams,Republican,45.6,False,False,False
+1982,house,Mississippi,MS,4,Eddie L. McBride,Independent,1.8,False,False,False
+1982,house,Mississippi,MS,5,Trent Lott,Republican,78.5,True,True,False
+1982,house,Mississippi,MS,5,Blackie Coate,Democratic,21.5,False,False,False
+1982,house,Missouri,MO,1,Bill Clay,Democratic,66.1,True,True,False
+1982,house,Missouri,MO,1,Bill White,Republican,33.9,False,False,False
+1982,house,Missouri,MO,2,Robert A. Young,Democratic,56.5,True,True,False
+1982,house,Missouri,MO,2,Harold L. Dielmann,Republican,43.5,False,False,False
+1982,house,Missouri,MO,3,Dick Gephardt,Democratic,77.9,True,True,False
+1982,house,Missouri,MO,3,Richard Foristel,Republican,22.1,False,False,False
+1982,house,Missouri,MO,4,Ike Skelton,Democratic,54.8,True,True,False
+1982,house,Missouri,MO,4,Wendell Bailey,Republican,45.2,False,False,False
+1982,house,Missouri,MO,5,Alan Wheat,Democratic,57.9,True,False,True
+1982,house,Missouri,MO,5,John A. Sharp,Republican,40.2,False,False,True
+1982,house,Missouri,MO,5,Alan H. Deright,Independent,1.3,False,False,True
+1982,house,Missouri,MO,6,Tom Coleman,Republican,55.3,True,True,False
+1982,house,Missouri,MO,6,Jim Russell,Democratic,44.7,False,False,False
+1982,house,Missouri,MO,7,Gene Taylor,Republican,50.5,True,True,False
+1982,house,Missouri,MO,7,David A. Geisler,Democratic,49.5,False,False,False
+1982,house,Missouri,MO,8,Bill Emerson,Republican,53.1,True,False,False
+1982,house,Missouri,MO,8,Jerry Ford,Democratic,46.9,False,False,False
+1982,house,Missouri,MO,9,Harold Volkmer,Democratic,60.8,True,True,False
+1982,house,Missouri,MO,9,Larry E. Mead,Republican,39.2,False,False,False
+1982,house,Montana,MT,1,Pat Williams,Democratic,59.7,True,True,False
+1982,house,Montana,MT,1,Bob Davies,Republican,37.2,False,False,False
+1982,house,Montana,MT,1,Don Doig,Libertarian,3.1,False,False,False
+1982,house,Montana,MT,2,Ron Marlenee,Republican,53.7,True,True,False
+1982,house,Montana,MT,2,Howard F. Lyman,Democratic,44.2,False,False,False
+1982,house,Montana,MT,2,Westley F. Deitchler,Libertarian,2.1,False,False,False
+1982,house,Nebraska,NE,1,Doug Bereuter,Republican,75.1,True,True,False
+1982,house,Nebraska,NE,1,Curt Donaldson,Democratic,24.9,False,False,False
+1982,house,Nebraska,NE,2,Hal Daub,Republican,56.8,True,True,False
+1982,house,Nebraska,NE,2,Richard Fellman,Democratic,43.2,False,False,False
+1982,house,Nebraska,NE,3,Virginia Smith,Republican,99.7,True,True,False
+1982,house,Nevada,NV,1,Harry Reid,Democratic,57.5,True,False,True
+1982,house,Nevada,NV,1,Peggy Cavnar,Republican,42.5,False,False,True
+1982,house,Nevada,NV,2,Barbara Vucanovich,Republican,55.5,True,False,True
+1982,house,Nevada,NV,2,Mary Gojack,Democratic,41.3,False,False,True
+1982,house,Nevada,NV,2,Teresa Vuceta,Libertarian,3.2,False,False,True
+1982,house,New Hampshire,NH,1,Norman D'Amours,Democratic,54.9,True,True,False
+1982,house,New Hampshire,NH,1,Bob Smith,Republican,44.5,False,False,False
+1982,house,New Hampshire,NH,1,William C. Mackenzie,Independent,0.5,False,False,False
+1982,house,New Hampshire,NH,2,Judd Gregg,Republican,70.8,True,True,False
+1982,house,New Hampshire,NH,2,Robert L. Dupay,Democratic,29.2,False,False,False
+1982,house,New Jersey,NJ,1,James Florio,Democratic,73.3,True,True,False
+1982,house,New Jersey,NJ,1,John A. Dramesi,Republican,26.2,False,False,False
+1982,house,New Jersey,NJ,2,William J. Hughes,Democratic,68.0,True,True,False
+1982,house,New Jersey,NJ,2,John J. Mahoney,Republican,31.1,False,False,False
+1982,house,New Jersey,NJ,2,Bruce Powers,Libertarian,0.8,False,False,False
+1982,house,New Jersey,NJ,3,James J. Howard,Democratic,62.3,True,True,False
+1982,house,New Jersey,NJ,3,Marie Sheehan Muhler,Republican,36.2,False,False,False
+1982,house,New Jersey,NJ,4,Chris Smith,Republican,52.7,True,True,False
+1982,house,New Jersey,NJ,4,Joseph P. Merlino,Democratic,46.5,False,False,False
+1982,house,New Jersey,NJ,5,Marge Roukema,Republican,65.3,True,False,False
+1982,house,New Jersey,NJ,5,Fritz Cammerzell,Democratic,33.5,False,False,False
+1982,house,New Jersey,NJ,5,William J. Zelko Jr.,Libertarian,1.2,False,False,False
+1982,house,New Jersey,NJ,6,Bernard J. Dwyer,Democratic,68.1,True,False,False
+1982,house,New Jersey,NJ,6,Bertram L. Buckler,Republican,31.3,False,False,False
+1982,house,New Jersey,NJ,6,Charles M. Hart,Libertarian,0.6,False,False,False
+1982,house,New Jersey,NJ,7,Matt Rinaldo,Republican,56.0,True,False,False
+1982,house,New Jersey,NJ,7,Adam K. Levin,Democratic,43.3,False,False,False
+1982,house,New Jersey,NJ,7,Donald B. Siano,Libertarian,0.8,False,False,False
+1982,house,New Jersey,NJ,8,Robert A. Roe,Democratic,70.7,True,True,False
+1982,house,New Jersey,NJ,8,Norm Robertson,Republican,28.5,False,False,False
+1982,house,New Jersey,NJ,8,Sidney J. Pope,Libertarian,0.8,False,False,False
+1982,house,New Jersey,NJ,9,Robert Torricelli,Democratic,53.0,True,False,False
+1982,house,New Jersey,NJ,9,Harold C. Hollenbeck,Republican,46.0,False,True,False
+1982,house,New Jersey,NJ,9,Robert Shapiro,Libertarian,0.9,False,False,False
+1982,house,New Jersey,NJ,10,Peter W. Rodino,Democratic,82.6,True,True,False
+1982,house,New Jersey,NJ,10,Timothy Lee Jr.,Republican,15.7,False,False,False
+1982,house,New Jersey,NJ,11,Joseph Minish,Democratic,64.3,True,True,False
+1982,house,New Jersey,NJ,11,Rey Redington,Republican,34.8,False,False,False
+1982,house,New Jersey,NJ,11,Richard S. Roth,Libertarian,0.9,False,False,False
+1982,house,New Jersey,NJ,12,Jim Courter,Republican,66.8,True,False,True
+1982,house,New Jersey,NJ,12,Jeff Connor,Democratic,32.3,False,False,True
+1982,house,New Jersey,NJ,12,Harold F. Leiendecker,Libertarian,0.9,False,False,True
+1982,house,New Jersey,NJ,13,Edwin B. Forsythe,Republican,59.5,True,False,False
+1982,house,New Jersey,NJ,13,George S. Callas,Democratic,39.1,False,False,False
+1982,house,New Jersey,NJ,14,Frank Joseph Guarini,Democratic,74.3,True,True,False
+1982,house,New Jersey,NJ,14,Charles J. Catrillo,Republican,22.3,False,False,False
+1982,house,New Jersey,NJ,14,Jack Murphy,Independent,1.3,False,False,False
+1982,house,New Mexico,NM,1,Manuel Lujan Jr.,Republican,52.4,True,True,False
+1982,house,New Mexico,NM,1,Jan A. Hartke,Democratic,47.6,False,False,False
+1982,house,New Mexico,NM,2,Joe Skeen,Republican,58.4,True,True,False
+1982,house,New Mexico,NM,2,Caleb J. Chandler,Democratic,41.6,False,False,False
+1982,house,New Mexico,NM,3,Bill Richardson,Democratic,64.5,True,False,True
+1982,house,New Mexico,NM,3,Marjorie Bell Chambers,Republican,35.4,False,False,True
+1982,house,New York,NY,1,William Carney,Conservative Party (New York),63.9,True,True,False
+1982,house,New York,NY,1,Ethan C. Eldon,Democratic,36.1,False,False,False
+1982,house,New York,NY,2,Thomas Downey,Democratic,63.9,True,True,False
+1982,house,New York,NY,2,Paul G. Costello,Republican,33.8,False,False,False
+1982,house,New York,NY,3,Robert J. Mrazek,Democratic,51.8,True,False,True
+1982,house,New York,NY,3,John LeBoutillier,Republican,46.0,False,False,True
+1982,house,New York,NY,4,Norman F. Lent,Republican,60.4,True,True,False
+1982,house,New York,NY,4,Robert P. Zimmerman,Democratic,36.4,False,False,False
+1982,house,New York,NY,5,Ray McGrath,Republican,58.1,True,True,False
+1982,house,New York,NY,5,Arnold J. Miller,Democratic,38.8,False,False,False
+1982,house,New York,NY,5,Richard Horan,Libertarian,0.3,False,False,False
+1982,house,New York,NY,6,Joseph P. Addabbo,Democratic,95.9,True,False,False
+1982,house,New York,NY,7,Benjamin S. Rosenthal,Democratic,77.2,True,False,False
+1982,house,New York,NY,7,Albert Lemishow,Republican,22.8,False,False,False
+1982,house,New York,NY,8,James H. Scheuer,Democratic,89.5,True,False,False
+1982,house,New York,NY,9,Geraldine Ferraro,Democratic,73.2,True,True,False
+1982,house,New York,NY,9,John J. Weigandt,Republican,19.8,False,False,False
+1982,house,New York,NY,10,Chuck Schumer,Democratic,79.2,True,False,False
+1982,house,New York,NY,10,Stephen Marks,Republican,19.2,False,False,False
+1982,house,New York,NY,11,Edolphus Towns,Democratic,83.7,True,False,True
+1982,house,New York,NY,11,James W. Smith,Republican,9.5,False,False,True
+1982,house,New York,NY,12,Major Owens,Democratic,90.5,True,False,True
+1982,house,New York,NY,12,David Katan Sr.,Republican,6.5,False,False,True
+1982,house,New York,NY,13,Stephen Solarz,Democratic,80.5,True,True,False
+1982,house,New York,NY,13,Leon F. Nadrowski,Republican,16.7,False,False,False
+1982,house,New York,NY,14,Guy Molinari,Republican,56.1,True,False,False
+1982,house,New York,NY,14,Leo C. Zeferetti,Democratic,42.9,False,False,False
+1982,house,New York,NY,15,Bill Green,Republican,53.6,True,False,False
+1982,house,New York,NY,15,Betty G. Lall,Democratic,44.9,False,False,False
+1982,house,New York,NY,16,Charles Rangel,Democratic,97.5,True,False,False
+1982,house,New York,NY,17,Ted Weiss,Democratic,85.0,True,False,True
+1982,house,New York,NY,17,Louis S. Antonelli,Republican,15.0,False,False,True
+1982,house,New York,NY,18,Robert Garcia,Democratic,98.9,True,False,False
+1982,house,New York,NY,19,Mario Biaggi,Democratic,93.7,True,False,False
+1982,house,New York,NY,20,Richard Ottinger,Democratic,56.5,True,False,True
+1982,house,New York,NY,20,Jon S. Fossel,Republican,41.3,False,False,True
+1982,house,New York,NY,21,Hamilton Fish IV,Republican,75.2,True,False,False
+1982,house,New York,NY,21,J. Morgan Strong,Democratic,24.8,False,False,False
+1982,house,New York,NY,22,Benjamin Gilman,Republican,52.9,True,False,True
+1982,house,New York,NY,22,Peter A. Peyser,Democratic,42.0,False,False,True
+1982,house,New York,NY,23,Samuel S. Stratton,Democratic,76.1,True,False,False
+1982,house,New York,NY,23,Frank Wicks,Republican,19.2,False,False,False
+1982,house,New York,NY,23,John G. Dow,Liberal Party (New York),3.9,False,False,False
+1982,house,New York,NY,24,Gerald Solomon,Republican,73.9,True,False,False
+1982,house,New York,NY,24,Roy Esiason,Democratic,26.1,False,False,False
+1982,house,New York,NY,25,Sherwood Boehlert,Republican,55.8,True,False,True
+1982,house,New York,NY,25,Anita Maxwell,Democratic,42.4,False,False,True
+1982,house,New York,NY,26,David O'Brien Martin,Republican,71.6,True,False,False
+1982,house,New York,NY,26,David P. Landy,Democratic,28.4,False,False,False
+1982,house,New York,NY,27,George C. Wortley,Republican,53.2,True,False,False
+1982,house,New York,NY,27,Elaine Lytel,Democratic,44.2,False,False,False
+1982,house,New York,NY,28,Matt McHugh,Democratic,56.3,True,False,False
+1982,house,New York,NY,28,David F. Crowley,Republican,42.5,False,False,False
+1982,house,New York,NY,29,Frank Horton,Republican,66.4,True,False,False
+1982,house,New York,NY,29,William C. Larsen,Democratic,30.2,False,False,False
+1982,house,New York,NY,30,Barber Conable,Republican,68.2,True,False,False
+1982,house,New York,NY,30,Bill Benet,Democratic,27.9,False,False,False
+1982,house,New York,NY,31,Jack Kemp,Republican,75.3,True,False,False
+1982,house,New York,NY,31,James A. Martin,Democratic,24.7,False,False,False
+1982,house,New York,NY,32,John LaFalce,Democratic,91.4,True,False,False
+1982,house,New York,NY,33,Henry J. Nowak,Democratic,84.1,True,False,False
+1982,house,New York,NY,33,Walter J. Pillich,Republican,13.2,False,False,False
+1982,house,New York,NY,34,Stan Lundine,Democratic,60.2,True,False,False
+1982,house,New York,NY,34,James J. Snyder,Republican,38.7,False,False,False
+1982,house,North Carolina,NC,1,Walter B. Jones Sr.,Democratic,81.3,True,True,False
+1982,house,North Carolina,NC,1,James F. McIntyre III,Republican,17.8,False,False,False
+1982,house,North Carolina,NC,1,Bobby Yates Emory,Libertarian,0.9,False,False,False
+1982,house,North Carolina,NC,2,Tim Valentine,Democratic,53.6,True,False,True
+1982,house,North Carolina,NC,2,John W. Marin,Republican,30.8,False,False,True
+1982,house,North Carolina,NC,2,Sue Lamm,Libertarian,1.3,False,False,True
+1982,house,North Carolina,NC,3,Charles Orville Whitley,Democratic,63.6,True,True,False
+1982,house,North Carolina,NC,3,Eugene McDaniel,Republican,36.0,False,False,False
+1982,house,North Carolina,NC,3,Marshall Sprague,Libertarian,0.5,False,False,False
+1982,house,North Carolina,NC,4,Ike Franklin Andrews,Democratic,51.3,True,True,False
+1982,house,North Carolina,NC,4,Bill Cobey,Republican,47.4,False,False,False
+1982,house,North Carolina,NC,4,Fritz Prochnow,Libertarian,1.3,False,False,False
+1982,house,North Carolina,NC,5,Stephen L. Neal,Democratic,60.3,True,True,False
+1982,house,North Carolina,NC,5,Anne Bagnal,Republican,39.2,False,False,False
+1982,house,North Carolina,NC,6,Charles Robin Britt,Democratic,53.8,True,False,False
+1982,house,North Carolina,NC,6,Gene Johnston,Republican,45.6,False,True,False
+1982,house,North Carolina,NC,6,J. Erik Christensen,Libertarian,0.5,False,False,False
+1982,house,North Carolina,NC,7,Charlie Rose,Democratic,71.0,True,True,False
+1982,house,North Carolina,NC,7,Edward Johnson,Republican,28.0,False,False,False
+1982,house,North Carolina,NC,7,Richard Hollembeak,Libertarian,1.0,False,False,False
+1982,house,North Carolina,NC,8,Bill Hefner,Democratic,57.4,True,True,False
+1982,house,North Carolina,NC,8,Harris D. Blake,Republican,42.0,False,False,False
+1982,house,North Carolina,NC,8,Don Scoggins,Libertarian,0.7,False,False,False
+1982,house,North Carolina,NC,9,James G. Martin,Republican,57.0,True,True,False
+1982,house,North Carolina,NC,9,Preston Cornelius,Democratic,41.9,False,False,False
+1982,house,North Carolina,NC,9,Dave Braatz,Libertarian,1.1,False,False,False
+1982,house,North Carolina,NC,10,Jim Broyhill,Republican,92.7,True,True,False
+1982,house,North Carolina,NC,10,John Rankin,Libertarian,7.3,False,False,False
+1982,house,North Carolina,NC,11,James M. Clarke,Democratic,49.9,True,False,False
+1982,house,North Carolina,NC,11,Bill Hendon,Republican,49.2,False,True,False
+1982,house,North Carolina,NC,11,Linda Janca,Libertarian,0.9,False,False,False
+1982,house,North Dakota,ND,AL,Byron Dorgan,Democratic-NPL,71.6,True,True,False
+1982,house,North Dakota,ND,AL,Kent Jones,Republican,27.7,False,False,False
+1982,house,Ohio,OH,1,Tom Luken,Democratic,63.5,True,False,False
+1982,house,Ohio,OH,1,John E. Held,Republican,33.7,False,False,False
+1982,house,Ohio,OH,1,James A. Berns,Libertarian,2.8,False,False,False
+1982,house,Ohio,OH,2,Bill Gradison,Republican,62.7,True,False,False
+1982,house,Ohio,OH,2,William J. Luttmer,Democratic,34.2,False,False,False
+1982,house,Ohio,OH,2,Charles K. Shrout Jr.,Libertarian,1.9,False,False,False
+1982,house,Ohio,OH,2,Joseph I. Lombardo,Independent,1.2,False,False,False
+1982,house,Ohio,OH,3,Tony P. Hall,Democratic,87.7,True,True,False
+1982,house,Ohio,OH,3,Kathryn E. Brown,Libertarian,12.3,False,False,False
+1982,house,Ohio,OH,4,Mike Oxley,Republican,64.6,True,True,False
+1982,house,Ohio,OH,4,Bob Moon,Democratic,35.4,False,False,False
+1982,house,Ohio,OH,5,Del Latta,Republican,55.2,True,True,False
+1982,house,Ohio,OH,5,James R. Sherck,Democratic,44.8,False,False,False
+1982,house,Ohio,OH,6,Bob McEwen,Republican,59.2,True,True,False
+1982,house,Ohio,OH,6,Lynn Alan Grimshaw,Democratic,40.8,False,False,False
+1982,house,Ohio,OH,7,Mike DeWine,Republican,56.3,True,False,True
+1982,house,Ohio,OH,7,Roger D. Tackett,Democratic,42.0,False,False,True
+1982,house,Ohio,OH,7,John B. Winer,Libertarian,1.8,False,False,True
+1982,house,Ohio,OH,8,Tom Kindness,Republican,66.4,True,True,False
+1982,house,Ohio,OH,8,John W. Griffin,Democratic,33.6,False,False,False
+1982,house,Ohio,OH,9,Marcy Kaptur,Democratic,57.9,True,False,False
+1982,house,Ohio,OH,9,Ed Weber,Republican,39.3,False,True,False
+1982,house,Ohio,OH,9,Susan A. Skinner,Independent,1.1,False,False,False
+1982,house,Ohio,OH,10,Clarence E. Miller,Republican,63.3,True,True,True
+1982,house,Ohio,OH,10,John M. Buchanan,Democratic,36.7,False,False,True
+1982,house,Ohio,OH,11,Dennis E. Eckart,Democratic,60.9,True,False,True
+1982,house,Ohio,OH,11,Glen W. Warner,Republican,36.9,False,False,True
+1982,house,Ohio,OH,11,Jim Russell,Libertarian,2.2,False,False,True
+1982,house,Ohio,OH,12,John Kasich,Republican,50.5,True,False,False
+1982,house,Ohio,OH,12,Bob Shamansky,Democratic,47.3,False,True,False
+1982,house,Ohio,OH,12,Russell A. Lewis,Libertarian,2.3,False,False,False
+1982,house,Ohio,OH,13,Don Pease,Democratic,61.2,True,True,False
+1982,house,Ohio,OH,13,Timothy Paul Martin,Republican,35.4,False,False,False
+1982,house,Ohio,OH,13,James S. Patton,Independent,3.4,False,False,False
+1982,house,Ohio,OH,14,John F. Seiberling,Democratic,70.5,True,True,False
+1982,house,Ohio,OH,14,Louis A. Mangels,Republican,29.5,False,False,False
+1982,house,Ohio,OH,15,Chalmers Wylie,Republican,66.3,True,True,False
+1982,house,Ohio,OH,15,Greg Kostelac,Democratic,29.8,False,False,False
+1982,house,Ohio,OH,15,Steve Kender,Libertarian,3.9,False,False,False
+1982,house,Ohio,OH,16,Ralph Regula,Republican,65.8,True,True,False
+1982,house,Ohio,OH,16,Jeffrey R. Orenstein,Democratic,34.2,False,False,False
+1982,house,Ohio,OH,17,Lyle Williams,Republican,55.1,True,False,False
+1982,house,Ohio,OH,17,George D. Tablack,Democratic,44.9,False,False,False
+1982,house,Ohio,OH,18,Douglas Applegate,Democratic,100.0,True,True,False
+1982,house,Ohio,OH,19,Ed Feighan,Democratic,58.8,True,False,False
+1982,house,Ohio,OH,19,Richard G. Anter II,Republican,38.3,False,False,False
+1982,house,Ohio,OH,19,Thomas Pekarek,Libertarian,1.6,False,False,False
+1982,house,Ohio,OH,19,Kevin G. Killeeen,Independent,1.2,False,False,False
+1982,house,Ohio,OH,20,Mary Rose Oakar,Democratic,85.6,True,True,False
+1982,house,Ohio,OH,20,Paris T. LeJeune,Republican,11.3,False,False,False
+1982,house,Ohio,OH,20,Milton R. Norris,Libertarian,1.8,False,False,False
+1982,house,Ohio,OH,20,Louise Haberbush,Independent,1.2,False,False,False
+1982,house,Ohio,OH,21,Louis Stokes,Democratic,86.1,True,True,False
+1982,house,Ohio,OH,21,Alan G. Shatteen,Republican,13.9,False,False,False
+1982,house,Oklahoma,OK,1,James R. Jones,Democratic,54.1,True,True,False
+1982,house,Oklahoma,OK,1,Dick Freeman,Republican,45.9,False,False,False
+1982,house,Oklahoma,OK,2,Mike Synar,Democratic,72.6,True,True,False
+1982,house,Oklahoma,OK,2,Lou Striegel,Republican,27.4,False,False,False
+1982,house,Oklahoma,OK,3,Wes Watkins,Democratic,82.2,True,True,False
+1982,house,Oklahoma,OK,3,Patrick K. Miller,Republican,17.8,False,False,False
+1982,house,Oklahoma,OK,4,Dave McCurdy,Democratic,65.0,True,True,False
+1982,house,Oklahoma,OK,4,Howard Rutledge,Republican,34.2,False,False,False
+1982,house,Oklahoma,OK,5,Mickey Edwards,Republican,67.2,True,True,False
+1982,house,Oklahoma,OK,5,Dan Lane,Democratic,28.8,False,False,False
+1982,house,Oklahoma,OK,5,Paul E. Trent,Independent,3.9,False,False,False
+1982,house,Oklahoma,OK,6,Glenn English,Democratic,75.4,True,True,False
+1982,house,Oklahoma,OK,6,Ed Moore,Republican,24.6,False,False,False
+1982,house,Oregon,OR,1,Les AuCoin,Democratic,53.8,True,True,False
+1982,house,Oregon,OR,1,Bill Moshofsky,Republican,46.2,False,False,False
+1982,house,Oregon,OR,2,Bob Smith,Republican,55.6,True,False,True
+1982,house,Oregon,OR,2,Larryann Willis,Democratic,44.4,False,False,True
+1982,house,Oregon,OR,3,Ron Wyden,Democratic,78.3,True,True,False
+1982,house,Oregon,OR,3,Thomas H. Phelan,Republican,21.7,False,False,False
+1982,house,Oregon,OR,4,Jim Weaver,Democratic,59.1,True,True,False
+1982,house,Oregon,OR,4,Ross Anthony,Republican,40.9,False,False,False
+1982,house,Oregon,OR,5,Denny Smith,Republican,51.2,True,False,False
+1982,house,Oregon,OR,5,Ruth McFarland,Democratic,48.8,False,False,False
+1982,house,Pennsylvania,PA,1,Thomas M. Foglietta,Democratic,72.3,True,True,False
+1982,house,Pennsylvania,PA,1,Michael Marino,Republican,26.6,False,False,False
+1982,house,Pennsylvania,PA,2,William H. Gray III,Democratic,76.1,True,True,False
+1982,house,Pennsylvania,PA,2,Milton Street,Independent,22.2,False,False,False
+1982,house,Pennsylvania,PA,2,William C. Saunders,Libertarian,1.7,False,False,False
+1982,house,Pennsylvania,PA,3,Robert Borski,Democratic,50.1,True,False,False
+1982,house,Pennsylvania,PA,3,Charles F. Dougherty,Republican,48.7,False,False,False
+1982,house,Pennsylvania,PA,4,Joe Kolter,Democratic,60.1,True,False,False
+1982,house,Pennsylvania,PA,4,Eugene Atkinson,Republican,38.6,False,False,False
+1982,house,Pennsylvania,PA,5,Dick Schulze,Republican,67.2,True,True,False
+1982,house,Pennsylvania,PA,5,Bob Burger,Democratic,32.8,False,False,False
+1982,house,Pennsylvania,PA,6,Gus Yatron,Democratic,72.0,True,True,False
+1982,house,Pennsylvania,PA,6,Harry B. Martin,Republican,28.0,False,False,False
+1982,house,Pennsylvania,PA,7,Bob Edgar,Democratic,55.4,True,True,False
+1982,house,Pennsylvania,PA,7,Steve Joachim,Republican,44.6,False,False,False
+1982,house,Pennsylvania,PA,8,Peter H. Kostmayer,Democratic,50.3,True,False,False
+1982,house,Pennsylvania,PA,8,James K. Coyne III,Republican,48.9,False,True,False
+1982,house,Pennsylvania,PA,9,Bud Shuster,Republican,65.1,True,True,False
+1982,house,Pennsylvania,PA,9,Eugene J. Duncan,Democratic,34.9,False,False,False
+1982,house,Pennsylvania,PA,10,Joseph M. McDade,Republican,67.5,True,True,False
+1982,house,Pennsylvania,PA,10,Robert J. Rafalko,Democratic,32.5,False,False,False
+1982,house,Pennsylvania,PA,11,Frank Harrison,Democratic,53.5,True,False,False
+1982,house,Pennsylvania,PA,11,Jim Nelligan,Republican,46.5,False,True,False
+1982,house,Pennsylvania,PA,12,John Murtha,Democratic,61.1,True,True,False
+1982,house,Pennsylvania,PA,12,William N. Tuscano,Republican,34.4,False,False,False
+1982,house,Pennsylvania,PA,12,Joseph E. Krill,Independent,4.5,False,False,False
+1982,house,Pennsylvania,PA,13,Lawrence Coughlin,Republican,64.3,True,True,False
+1982,house,Pennsylvania,PA,13,Martin J. Cunningham,Democratic,35.2,False,False,False
+1982,house,Pennsylvania,PA,13,Nicholas Kydonieus,Libertarian,0.5,False,False,False
+1982,house,Pennsylvania,PA,14,William J. Coyne,Democratic,74.9,True,True,False
+1982,house,Pennsylvania,PA,14,John Robert Clark,Republican,20.3,False,False,False
+1982,house,Pennsylvania,PA,14,Richard Edward Caligiuri,Libertarian,3.4,False,False,False
+1982,house,Pennsylvania,PA,15,Don Ritter,Republican,57.8,True,True,False
+1982,house,Pennsylvania,PA,15,Richard J. Orloski,Democratic,42.2,False,False,False
+1982,house,Pennsylvania,PA,16,Bob Walker,Republican,71.3,True,True,False
+1982,house,Pennsylvania,PA,16,Jean D. Mowery,Democratic,28.7,False,False,False
+1982,house,Pennsylvania,PA,17,George Gekas,Republican,57.6,True,False,True
+1982,house,Pennsylvania,PA,17,Larry Hochendoner,Democratic,42.4,False,False,True
+1982,house,Pennsylvania,PA,18,Doug Walgren,Democratic,54.2,True,True,False
+1982,house,Pennsylvania,PA,18,Ted Jacob,Republican,45.0,False,False,False
+1982,house,Pennsylvania,PA,18,William A. Lewis Jr.,Libertarian,0.8,False,False,False
+1982,house,Pennsylvania,PA,19,Bill Goodling,Republican,70.8,True,True,False
+1982,house,Pennsylvania,PA,19,Larry Becker,Democratic,29.2,False,False,False
+1982,house,Pennsylvania,PA,20,Joseph M. Gaydos,Democratic,76.0,True,True,False
+1982,house,Pennsylvania,PA,20,Terry T. Ray,Republican,22.8,False,False,False
+1982,house,Pennsylvania,PA,20,David L. Travis,Libertarian,1.2,False,False,False
+1982,house,Pennsylvania,PA,21,Tom Ridge,Republican,50.2,True,False,True
+1982,house,Pennsylvania,PA,21,Anthony Andrezeski,Democratic,49.8,False,False,True
+1982,house,Pennsylvania,PA,22,Austin Murphy,Democratic,78.7,True,True,False
+1982,house,Pennsylvania,PA,22,Frank J. Paterra,Republican,20.5,False,False,False
+1982,house,Pennsylvania,PA,23,William Clinger,Republican,65.2,True,True,False
+1982,house,Pennsylvania,PA,23,Joseph J. Calla Jr.,Democratic,34.8,False,False,False
+1982,house,Rhode Island,RI,1,Fernand St Germain,Democratic,60.7,True,True,False
+1982,house,Rhode Island,RI,1,Burton Stallwood,Republican,38.3,False,False,False
+1982,house,Rhode Island,RI,1,Gertrude M. Jayne Fowler,Independent,1.0,False,False,False
+1982,house,Rhode Island,RI,2,Claudine Schneider,Republican,55.6,True,True,False
+1982,house,Rhode Island,RI,2,James V. Aukerman,Democratic,44.4,False,False,False
+1982,house,South Carolina,SC,1,Tommy Hartnett,Republican,54.3,True,True,False
+1982,house,South Carolina,SC,1,W. Mullins McLeod,Democratic,44.9,False,False,False
+1982,house,South Carolina,SC,1,Walter E. Smith,Libertarian,0.8,False,False,False
+1982,house,South Carolina,SC,2,Floyd Spence,Republican,58.5,True,True,False
+1982,house,South Carolina,SC,2,Ken Mosely,Democratic,41.5,False,False,False
+1982,house,South Carolina,SC,3,Butler Derrick,Democratic,90.4,True,True,False
+1982,house,South Carolina,SC,3,Gordon T. Davis,Libertarian,9.6,False,False,False
+1982,house,South Carolina,SC,4,Carroll A. Campbell Jr.,Republican,63.3,True,True,False
+1982,house,South Carolina,SC,4,Marion E. Tyus,Democratic,36.7,False,False,False
+1982,house,South Carolina,SC,5,John Spratt,Democratic,67.6,True,False,True
+1982,house,South Carolina,SC,5,John S. Wilkerson,Republican,32.4,False,False,True
+1982,house,South Carolina,SC,6,Robin Tallon,Democratic,52.5,True,False,False
+1982,house,South Carolina,SC,6,John Light Napier,Republican,47.5,False,True,False
+1982,house,South Dakota,SD,AL,Tom Daschle,Democratic,51.6,True,False,False
+1982,house,South Dakota,SD,AL,Clint Roberts,Republican,48.4,False,False,False
+1982,house,Tennessee,TN,1,Jimmy Quillen,Republican,74.1,True,True,False
+1982,house,Tennessee,TN,1,Jessie J. Cable,Democratic,22.8,False,False,False
+1982,house,Tennessee,TN,1,James B. Fields,Independent,3.1,False,False,False
+1982,house,Tennessee,TN,2,John Duncan Sr.,Republican,100.0,True,True,False
+1982,house,Tennessee,TN,3,Marilyn Lloyd,Democratic,61.8,True,True,False
+1982,house,Tennessee,TN,3,Glen Byers,Republican,36.3,False,False,False
+1982,house,Tennessee,TN,3,Henry Ford Brock,Independent,1.9,False,False,False
+1982,house,Tennessee,TN,4,Jim Cooper,Democratic,66.1,True,False,True
+1982,house,Tennessee,TN,4,Cissy Baker,Republican,33.9,False,False,True
+1982,house,Tennessee,TN,5,Bill Boner,Democratic,80.2,True,True,False
+1982,house,Tennessee,TN,5,Laurel Steinhice,Republican,19.8,False,False,False
+1982,house,Tennessee,TN,6,Al Gore,Democratic,100.0,True,False,False
+1982,house,Tennessee,TN,7,Don Sundquist,Republican,50.5,True,False,True
+1982,house,Tennessee,TN,7,Bob Clement,Democratic,49.5,False,False,True
+1982,house,Tennessee,TN,8,Ed Jones,Democratic,74.9,True,False,False
+1982,house,Tennessee,TN,8,Bruce Benson,Republican,25.1,False,False,False
+1982,house,Tennessee,TN,9,Harold Ford Sr.,Democratic,72.4,True,False,False
+1982,house,Tennessee,TN,9,Joe Crawford,Republican,26.4,False,False,False
+1982,house,Tennessee,TN,9,Isaac Richmond,Independent,1.2,False,False,False
+1982,house,Texas,TX,1,Sam B. Hall Jr.,Democratic,97.5,True,True,False
+1982,house,Texas,TX,1,John Traylor,Libertarian,2.5,False,False,False
+1982,house,Texas,TX,2,Charlie Wilson,Democratic,94.3,True,True,False
+1982,house,Texas,TX,2,Ed Richbourg,Libertarian,5.7,False,False,False
+1982,house,Texas,TX,3,Steve Bartlett,Republican,77.1,True,False,True
+1982,house,Texas,TX,3,Jim McNees,Democratic,21.8,False,False,True
+1982,house,Texas,TX,3,Jerry R. Williamson,Libertarian,1.1,False,False,True
+1982,house,Texas,TX,4,Ralph Hall,Democratic,73.8,True,True,False
+1982,house,Texas,TX,4,Pete Collumb,Republican,25.3,False,False,False
+1982,house,Texas,TX,4,Bruce Iiams,Libertarian,0.9,False,False,False
+1982,house,Texas,TX,5,John Bryant,Democratic,64.8,True,False,True
+1982,house,Texas,TX,5,Joe Devany,Republican,33.7,False,False,True
+1982,house,Texas,TX,6,Phil Gramm,Democratic,94.5,True,True,False
+1982,house,Texas,TX,6,Ron Hard,Libertarian,5.5,False,False,False
+1982,house,Texas,TX,7,Bill Archer,Republican,85.0,True,True,False
+1982,house,Texas,TX,7,Dennis G. Scoggins,Democratic,14.0,False,False,False
+1982,house,Texas,TX,7,Bill Ware,Libertarian,1.0,False,False,False
+1982,house,Texas,TX,8,Jack Fields,Republican,56.7,True,True,False
+1982,house,Texas,TX,8,Henry E. Allee,Democratic,42.6,False,False,False
+1982,house,Texas,TX,8,Mike Angwin,Libertarian,0.6,False,False,False
+1982,house,Texas,TX,9,Jack Brooks,Democratic,67.6,True,True,False
+1982,house,Texas,TX,9,John W. Lewis,Republican,30.3,False,False,False
+1982,house,Texas,TX,9,Dean Allen,Libertarian,2.1,False,False,False
+1982,house,Texas,TX,10,J. J. Pickle,Democratic,90.1,True,True,False
+1982,house,Texas,TX,10,William G. Kelsey,Libertarian,6.5,False,False,False
+1982,house,Texas,TX,11,Marvin Leath,Democratic,96.4,True,True,False
+1982,house,Texas,TX,11,Thomas B. Kilbride,Libertarian,3.6,False,False,False
+1982,house,Texas,TX,12,Jim Wright,Democratic,68.9,True,True,False
+1982,house,Texas,TX,12,Jim Ryan,Republican,30.5,False,False,False
+1982,house,Texas,TX,12,Edward Olson,Libertarian,0.6,False,False,False
+1982,house,Texas,TX,13,Jack Hightower,Democratic,63.6,True,True,False
+1982,house,Texas,TX,13,Ron Slover,Republican,35.3,False,False,False
+1982,house,Texas,TX,13,Rod Collier,Libertarian,1.2,False,False,False
+1982,house,Texas,TX,14,Bill Patman,Democratic,60.7,True,True,False
+1982,house,Texas,TX,14,Joe Wyatt Jr.,Republican,38.6,False,False,False
+1982,house,Texas,TX,14,Glenn Rasmussen,Libertarian,0.7,False,False,False
+1982,house,Texas,TX,15,Kika de la Garza,Democratic,95.7,True,True,False
+1982,house,Texas,TX,15,Frank L. Jones III,Libertarian,4.3,False,False,False
+1982,house,Texas,TX,16,Ron Coleman,Democratic,53.9,True,False,True
+1982,house,Texas,TX,16,Pat Haggerty,Republican,44.2,False,False,True
+1982,house,Texas,TX,16,Catherine A. McDivitt,Libertarian,1.9,False,False,True
+1982,house,Texas,TX,17,Charles Stenholm,Democratic,97.1,True,True,False
+1982,house,Texas,TX,17,James A. Cooley II,Libertarian,2.9,False,False,False
+1982,house,Texas,TX,18,Mickey Leland,Democratic,82.6,True,True,False
+1982,house,Texas,TX,18,C. Leon Pickett,Republican,14.7,False,False,False
+1982,house,Texas,TX,18,Thomas P. Bernhardt,Libertarian,2.7,False,False,False
+1982,house,Texas,TX,19,Kent Hance,Democratic,81.6,True,True,False
+1982,house,Texas,TX,19,E. L. Hicks,Republican,17.3,False,False,False
+1982,house,Texas,TX,19,Mike Read,Libertarian,1.1,False,False,False
+1982,house,Texas,TX,20,Henry B. González,Democratic,91.5,True,True,False
+1982,house,Texas,TX,20,Roger V. Gary,Libertarian,5.6,False,False,False
+1982,house,Texas,TX,20,Benedict D. LaRosa,Independent,3.0,False,False,False
+1982,house,Texas,TX,21,Tom Loeffler,Republican,74.6,True,True,False
+1982,house,Texas,TX,21,Charles S. Stough,Democratic,24.6,False,False,False
+1982,house,Texas,TX,21,Jeffrey J. Brown,Libertarian,0.9,False,False,False
+1982,house,Texas,TX,22,Ron Paul,Republican,98.6,True,True,False
+1982,house,Texas,TX,23,Chick Kazen,Democratic,55.3,True,True,False
+1982,house,Texas,TX,23,Jeff Wentworth,Republican,44.2,False,False,False
+1982,house,Texas,TX,23,Parker Abell,Libertarian,0.5,False,False,False
+1982,house,Texas,TX,24,Martin Frost,Democratic,72.9,True,True,False
+1982,house,Texas,TX,24,Lucy Patterson,Republican,26.0,False,False,False
+1982,house,Texas,TX,24,David Guier,Libertarian,1.1,False,False,False
+1982,house,Texas,TX,25,Michael A. Andrews,Democratic,60.4,True,False,True
+1982,house,Texas,TX,25,Mike Faubion,Republican,37.9,False,False,True
+1982,house,Texas,TX,26,Tom Vandergriff,Democratic,50.1,True,False,True
+1982,house,Texas,TX,26,Jim Bradshaw,Republican,49.9,False,False,True
+1982,house,Texas,TX,27,Solomon Ortiz,Democratic,64.0,True,False,True
+1982,house,Texas,TX,27,Jason Luby,Republican,33.8,False,False,True
+1982,house,Texas,TX,27,Steven R. Roberts,Libertarian,2.1,False,False,True
+1982,house,Utah,UT,1,Jim Hansen,Republican,62.8,True,True,False
+1982,house,Utah,UT,1,A. Stephen Dirks,Democratic,37.2,False,False,False
+1982,house,Utah,UT,2,David Daniel Marriott,Republican,53.8,True,True,False
+1982,house,Utah,UT,2,Frances Farley,Democratic,46.2,False,False,False
+1982,house,Utah,UT,3,Howard C. Nielson,Republican,76.9,True,False,True
+1982,house,Utah,UT,3,Henry A. Huish,Independent,23.1,False,False,True
+1982,house,Vermont,VT,AL,Jim Jeffords,Republican,69.3,True,True,False
+1982,house,Vermont,VT,AL,Mark A. Kaplan,Democratic,23.2,False,False,False
+1982,house,Vermont,VT,AL,Peter Diamondstone,Liberty Union,1.7,False,False,False
+1982,house,Vermont,VT,AL,Morris Earle,Independent,1.1,False,False,False
+1982,house,Vermont,VT,AL,George E. Trask,Libertarian,0.9,False,False,False
+1982,house,Virginia,VA,1,Herbert H. Bateman,Republican,55.2,True,False,True
+1982,house,Virginia,VA,1,John McGlennon,Democratic,44.8,False,False,True
+1982,house,Virginia,VA,2,G. William Whitehurst,Republican,99.9,True,True,False
+1982,house,Virginia,VA,3,Thomas J. Bliley Jr.,Republican,59.2,True,True,False
+1982,house,Virginia,VA,3,John A. Waldrop Jr.,Democratic,40.8,False,False,False
+1982,house,Virginia,VA,4,Norman Sisisky,Democratic,54.4,True,False,False
+1982,house,Virginia,VA,4,Robert Daniel,Republican,45.6,False,True,False
+1982,house,Virginia,VA,5,Dan Daniel,Democratic,100.0,True,True,False
+1982,house,Virginia,VA,6,Jim Olin,Democratic,49.7,True,False,True
+1982,house,Virginia,VA,6,Kevin G. Miller,Republican,48.5,False,False,True
+1982,house,Virginia,VA,6,Robert L. Fariss,Independent,1.7,False,False,True
+1982,house,Virginia,VA,7,J. Kenneth Robinson,Republican,59.9,True,True,False
+1982,house,Virginia,VA,7,Lindsay G. Dorrier Jr.,Democratic,36.3,False,False,False
+1982,house,Virginia,VA,7,David J. Toscano,Independent,3.9,False,False,False
+1982,house,Virginia,VA,8,Stanford Parris,Republican,49.7,True,True,False
+1982,house,Virginia,VA,8,Herbert Harris,Democratic,48.6,False,False,False
+1982,house,Virginia,VA,8,Austin W. Morrill Jr.,Independent,1.7,False,False,False
+1982,house,Virginia,VA,9,Rick Boucher,Democratic,50.4,True,False,False
+1982,house,Virginia,VA,9,William C. Wampler,Republican,49.6,False,True,False
+1982,house,Virginia,VA,10,Frank Wolf,Republican,52.7,True,True,False
+1982,house,Virginia,VA,10,Ira M. Lechner,Democratic,45.9,False,False,False
+1982,house,Virginia,VA,10,Scott R. Bowden,Independent,1.3,False,False,False
+1982,house,Washington,WA,1,Joel Pritchard,Republican,67.6,True,True,False
+1982,house,Washington,WA,1,Brian Long,Democratic,32.4,False,False,False
+1982,house,Washington,WA,2,Al Swift,Democratic,59.6,True,True,False
+1982,house,Washington,WA,2,Joan Houchen,Republican,40.4,False,False,False
+1982,house,Washington,WA,3,Don Bonker,Democratic,60.1,True,True,False
+1982,house,Washington,WA,3,J. T. Quigg,Republican,36.8,False,False,False
+1982,house,Washington,WA,3,O'Dean Williamson,Independent,3.1,False,False,False
+1982,house,Washington,WA,4,Sid Morrison,Republican,69.8,True,True,False
+1982,house,Washington,WA,4,Charles D. Kilbury,Democratic,28.6,False,False,False
+1982,house,Washington,WA,4,Michael Leroy Burns,Independent,1.6,False,False,False
+1982,house,Washington,WA,5,Tom Foley,Democratic,64.3,True,True,False
+1982,house,Washington,WA,5,John Sonneland,Republican,35.7,False,False,False
+1982,house,Washington,WA,6,Norm Dicks,Democratic,62.5,True,True,False
+1982,house,Washington,WA,6,Ted Haley,Republican,33.2,False,False,False
+1982,house,Washington,WA,6,Jayne H. Anderson,Independent,4.3,False,False,False
+1982,house,Washington,WA,7,Mike Lowry,Democratic,70.9,True,True,False
+1982,house,Washington,WA,7,Bob Dorse,Republican,29.1,False,False,False
+1982,house,Washington,WA,8,Rod Chandler,Republican,57.0,True,False,True
+1982,house,Washington,WA,8,Beth Bland,Democratic,43.0,False,False,True
+1982,house,West Virginia,WV,1,Alan Mollohan,Democratic,53.2,True,False,True
+1982,house,West Virginia,WV,1,John F. McCuskey,Republican,46.8,False,False,True
+1982,house,West Virginia,WV,2,Buckey Staggers,Democratic,64.0,True,False,True
+1982,house,West Virginia,WV,2,J. D. Hinkle Jr.,Republican,36.0,False,False,True
+1982,house,West Virginia,WV,3,Bob Wise,Democratic,57.9,True,False,False
+1982,house,West Virginia,WV,3,Mick Staton,Republican,41.6,False,True,False
+1982,house,West Virginia,WV,4,Nick Rahall,Democratic,80.5,True,True,False
+1982,house,West Virginia,WV,4,Homer L. Harris,Republican,19.5,False,False,False
+1982,house,Wisconsin,WI,1,Les Aspin,Democratic,61.0,True,True,False
+1982,house,Wisconsin,WI,1,Peter Jansson,Republican,38.1,False,False,False
+1982,house,Wisconsin,WI,1,Arthur Jackson,Libertarian,0.9,False,False,False
+1982,house,Wisconsin,WI,2,Robert Kastenmeier,Democratic,60.6,True,True,False
+1982,house,Wisconsin,WI,2,Jim Johnson,Republican,38.7,False,False,False
+1982,house,Wisconsin,WI,2,David Beito,Libertarian,0.7,False,False,False
+1982,house,Wisconsin,WI,3,Steve Gunderson,Republican,56.6,True,True,False
+1982,house,Wisconsin,WI,3,Paul Offner,Democratic,42.8,False,False,False
+1982,house,Wisconsin,WI,3,Kenneth Van Doren,Libertarian,0.6,False,False,False
+1982,house,Wisconsin,WI,4,Clement J. Zablocki,Democratic,94.6,True,True,False
+1982,house,Wisconsin,WI,4,Nicholas P. Youngers,Libertarian,3.0,False,False,False
+1982,house,Wisconsin,WI,4,John F. Baumgartner,Independent,1.8,False,False,False
+1982,house,Wisconsin,WI,5,Jim Moody,Democratic,63.5,True,False,True
+1982,house,Wisconsin,WI,5,Rod Johnston,Republican,34.9,False,False,True
+1982,house,Wisconsin,WI,6,Tom Petri,Republican,65.0,True,True,False
+1982,house,Wisconsin,WI,6,Gordon Loehr,Democratic,35.0,False,False,False
+1982,house,Wisconsin,WI,7,Dave Obey,Democratic,68.0,True,True,False
+1982,house,Wisconsin,WI,7,Bernard Zimmermann,Republican,32.0,False,False,False
+1982,house,Wisconsin,WI,8,Toby Roth,Republican,57.2,True,True,False
+1982,house,Wisconsin,WI,8,Ruth Clusen,Democratic,42.0,False,False,False
+1982,house,Wisconsin,WI,8,Anthony Theisen,Libertarian,0.8,False,False,False
+1982,house,Wisconsin,WI,9,Jim Sensenbrenner,Republican,99.9,True,True,False
+1982,house,Wyoming,WY,AL,Dick Cheney,Republican,71.1,True,True,False
+1982,house,Wyoming,WY,AL,Ted Hommel,Democratic,28.9,False,False,False
