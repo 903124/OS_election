@@ -1,0 +1,108 @@
+name: Update election data
+
+# Fetches U.S. election data from the Wikipedia API (rate-limited) and commits
+# the refreshed CSVs back to this repository's data/ directory.
+#
+# The pipeline is API-based — no dump downloads — so a standard hosted runner
+# is sufficient (no self-hosted runner or 22 GB cache required).
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "Which pipelines to run"
+        type: choice
+        options:
+          - all
+          - senate
+          - house
+        default: all
+      start_year:
+        description: "First election year to process (inclusive)"
+        required: false
+        default: "2018"
+      end_year:
+        description: "Last election year to process (inclusive)"
+        required: false
+        default: "2024"
+      request_delay:
+        description: "Minimum seconds between Wikipedia API requests"
+        required: false
+        default: "1.0"
+
+  schedule:
+    # 04:00 UTC on the 1st day of every month
+    - cron: "0 4 1 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          # Wikimedia requires a descriptive, contact-bearing User-Agent.
+          # Set this repository secret to something like:
+          #   wiki-elections-pipeline/1.0 (https://github.com/you/you-repo; you@example.com)
+          WIKI_USER_AGENT: >-
+            ${{ secrets.WIKI_USER_AGENT || 'wiki-elections-pipeline/2.0 (GitHub Actions; contact via repo issues)' }}
+        run: |
+          SCOPE="${{ github.event.inputs.scope || 'all' }}"
+          DELAY="${{ github.event.inputs.request_delay || '1.0' }}"
+          START_YEAR="${{ github.event.inputs.start_year || '2018' }}"
+          END_YEAR="${{ github.event.inputs.end_year || '2024' }}"
+
+          ARGS=(--output data --delay "$DELAY" --start-year "$START_YEAR" --end-year "$END_YEAR" --log-level INFO)
+
+          case "$SCOPE" in
+            senate)
+              python cli.py senate "${ARGS[@]}"
+              ;;
+            house)
+              python cli.py house "${ARGS[@]}"
+              ;;
+            *)
+              python cli.py all "${ARGS[@]}"
+              ;;
+          esac
+
+      - name: Commit and push new data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "data: automated Wikipedia update $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+            git push
+          fi
+
+      - name: Upload data artifact (convenience copy)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: election-data
+          path: data/*.csv
+          if-no-files-found: ignore
+          retention-days: 14
