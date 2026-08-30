@@ -40,7 +40,8 @@ def build_parser() -> argparse.ArgumentParser:
     common = argparse.ArgumentParser(add_help=False)
     common.add_argument(
         "--output", "-o", default="data",
-        help="Output directory for CSV/JSON files (default: data)",
+        help="Base output directory; CSVs land in <dir>/senate/ and <dir>/house/ "
+             "(default: data)",
     )
     common.add_argument(
         "--start-year", type=int, default=2018,
@@ -139,7 +140,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             client=client,
         )
 
-    logger.info("All requested pipelines finished. Output: %s/", args.output)
+    logger.info("All requested pipelines finished. Output: %s/{senate,house}/", args.output)
     return 0
 
 

@@ -1,7 +1,8 @@
 name: Update election data
 
 # Fetches U.S. election data from the Wikipedia API (rate-limited) and commits
-# the refreshed CSVs back to this repository's data/ directory.
+# the refreshed CSVs back to this repository's data/ directory (data/senate/
+# and data/house/).
 #
 # The pipeline is API-based — no dump downloads — so a standard hosted runner
 # is sufficient (no self-hosted runner or 22 GB cache required).
@@ -90,7 +91,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/senate/ data/house/
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
@@ -103,6 +104,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: election-data
-          path: data/*.csv
+          path: data/*/*.csv
           if-no-files-found: ignore
           retention-days: 14

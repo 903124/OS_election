@@ -33,6 +33,8 @@ States House of Representatives elections"` overview article.
 ├── requirements.txt     # pandas, requests
 ├── .gitignore
 └── data/                # Committed pipeline outputs (CSVs + metadata JSON)
+    ├── senate/          #   senate_*.csv + senate_metadata_<ts>.json
+    └── house/           #   house_results_*.csv
 ```
 
 ## Rate-limit compliance
@@ -80,20 +82,23 @@ only** — odd bounds are clamped inward (`2019–2023` → `2020, 2022`).
 Or run modules directly: `python senate_elections.py`, `python house_elections.py`
 (both default to 2018–2024).
 
-### Outputs (`data/`)
+### Outputs (`data/senate/` + `data/house/`)
 
-All Senate files carry a `Year` column; each is written per year plus a
-combined `_all` file across the requested range.
+Files are grouped by chamber: Senate outputs go to `data/senate/`, House
+outputs to `data/house/` (create the folders automatically if needed; pass
+`--output <dir>` to use a different base directory). All Senate files carry a
+`Year` column; each is written per year plus a combined `_all` file across the
+requested range.
 
-| File | Contents |
+| File (relative to `data/`) | Contents |
 |---|---|
-| `senate_primary_polling_{year}.csv` / `senate_primary_polling_all.csv` | Long format: one row per poll × candidate (Year, State, Poll_Source, Date, Sample, MoE, Candidate, Party, Pct, Incumbent) |
-| `senate_general_polling_{year}.csv` / `..._all.csv` | Same schema, general election polls |
-| `senate_primary_results_{year}.csv` / `..._all.csv` | Election-box results (Winning / Candidate / Write-in / Total rows) |
-| `senate_general_results_{year}.csv` / `..._all.csv` | Same schema, general election |
-| `senate_metadata_<ts>.json` | Run metadata + discovered races per year + per-race counts/errors |
-| `house_results_<year>.csv` | House results: year, state, state_code, district, candidate, party, percentage, winner, incumbent, open_seat |
-| `house_results_all.csv` | All requested years combined |
+| `senate/senate_primary_polling_{year}.csv` / `senate/senate_primary_polling_all.csv` | Long format: one row per poll × candidate (Year, State, Poll_Source, Date, Sample, MoE, Candidate, Party, Pct, Incumbent) |
+| `senate/senate_general_polling_{year}.csv` / `..._all.csv` | Same schema, general election polls |
+| `senate/senate_primary_results_{year}.csv` / `..._all.csv` | Election-box results (Winning / Candidate / Write-in / Total rows) |
+| `senate/senate_general_results_{year}.csv` / `..._all.csv` | Same schema, general election |
+| `senate/senate_metadata_<ts>.json` | Run metadata + discovered races per year + per-race counts/errors |
+| `house/house_results_<year>.csv` | House results: year, state, state_code, district, candidate, party, percentage, winner, incumbent, open_seat |
+| `house/house_results_all.csv` | All requested years combined |
 
 ### Historical House years (validated 1920–2024)
 
@@ -120,8 +125,8 @@ and 2018–2024 reproduce the official party compositions (e.g. 1920: R 301 / D
 ## GitHub Actions automation
 
 `.github/workflows/update-data.yml` runs the pipeline and **commits refreshed
-CSVs back to `data/`** (bot commit marked `[skip ci]` to avoid loops), plus
-uploads a convenience artifact.
+CSVs back to `data/senate/` and `data/house/`** (bot commit marked `[skip ci]`
+to avoid loops), plus uploads a convenience artifact.
 
 - **Triggers:** manual `workflow_dispatch` (scope / start year / end year /
 delay inputs) and a monthly cron (`0 4 1 * *`, 04:00 UTC on the 1st).

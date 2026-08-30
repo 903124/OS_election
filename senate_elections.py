@@ -9,7 +9,8 @@ links are followed to discover every race article — regular *and* special
 elections — so no state list is hardcoded. Wikitext is then retrieved in
 rate-limited batches of <= 50 titles (see wiki_utils).
 
-Outputs (written to *output_dir*, default ``data/``; all carry a Year column):
+Outputs (written under *output_dir*, default ``data/senate/``; all carry a
+Year column):
     senate_primary_polling_{year}.csv   long format, one row per poll x candidate
     senate_general_polling_{year}.csv
     senate_primary_results_{year}.csv
@@ -827,26 +828,27 @@ def process_senate_cycles(
 
 
 def save_results(results: Dict, output_dir: str = "data") -> str:
-    """Write per-year and combined CSVs + metadata JSON into *output_dir*."""
+    """Write per-year and combined CSVs + metadata JSON under *output_dir*/senate."""
     import os
 
-    os.makedirs(output_dir, exist_ok=True)
+    senate_dir = os.path.join(output_dir, "senate")
+    os.makedirs(senate_dir, exist_ok=True)
     by_year: Dict[str, Dict[int, pd.DataFrame]] = results.get("by_year", {})
 
     for key in RESULT_KEYS:
         for year, df_year in sorted(by_year.get(key, {}).items()):
             if len(df_year):
-                path = f"{output_dir}/senate_{key}_{year}.csv"
+                path = os.path.join(senate_dir, f"senate_{key}_{year}.csv")
                 df_year.to_csv(path, index=False)
                 logger.info("Saved: %s", path)
         combined = results.get(key)
         if combined is not None and len(combined):
-            path = f"{output_dir}/senate_{key}_all.csv"
+            path = os.path.join(senate_dir, f"senate_{key}_all.csv")
             combined.to_csv(path, index=False)
             logger.info("Saved: %s", path)
 
     timestamp = time.strftime("%Y%m%d_%H%M%S")
-    metadata_path = f"{output_dir}/senate_metadata_{timestamp}.json"
+    metadata_path = os.path.join(senate_dir, f"senate_metadata_{timestamp}.json")
     with open(metadata_path, "w", encoding="utf-8") as fh:
         json.dump(
             {
@@ -872,7 +874,7 @@ def run(
     save_results(results, output_dir)
     meta = results["metadata"]
     logger.info(
-        "Senate done: %d races processed, %d ok, %d failed -> %s",
+        "Senate done: %d races processed, %d ok, %d failed -> %s/senate",
         meta["total_processed"], meta["successful"], meta["failed"], output_dir,
     )
     return results

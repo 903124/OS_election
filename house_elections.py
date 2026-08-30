@@ -18,7 +18,7 @@ Output columns (standardised):
     year, level, state, state_code, district, candidate, party,
     percentage, winner, incumbent, open_seat
 
-Outputs (written to *out_dir*, default ``data/``):
+Outputs (written under *out_dir*, default ``data/house/``):
     house_results_{year}.csv   per year
     house_results_all.csv      combined
 
@@ -473,7 +473,8 @@ def run(
         logger.info("Odd bounds clamped to even years: %d–%d", years[0], years[-1])
     logger.info("House cycles to process: %s", years)
 
-    os.makedirs(out_dir, exist_ok=True)
+    house_dir = os.path.join(out_dir, "house")
+    os.makedirs(house_dir, exist_ok=True)
 
     titles = {y: article_title(y) for y in years}
     logger.info("Fetching %d House articles via the MediaWiki API ...", len(titles))
@@ -496,14 +497,14 @@ def run(
         logger.info("     %s candidate rows", f"{len(df):,}")
 
         if not df.empty:
-            fname = os.path.join(out_dir, f"{out_prefix}_results_{year}.csv")
+            fname = os.path.join(house_dir, f"{out_prefix}_results_{year}.csv")
             df.to_csv(fname, index=False)
             logger.info("     saved -> %s", fname)
             all_frames.append(df)
 
     if all_frames:
         combined = pd.concat(all_frames, ignore_index=True)
-        combined_path = os.path.join(out_dir, f"{out_prefix}_results_all.csv")
+        combined_path = os.path.join(house_dir, f"{out_prefix}_results_all.csv")
         combined.to_csv(combined_path, index=False)
         logger.info("Combined -> %s (%s rows)", combined_path, f"{len(combined):,}")
         return combined
