@@ -1,0 +1,810 @@
+year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
+1952,house,Alabama,AL,1,Frank W. Boykin,Democratic,100.0,True,True,False
+1952,house,Alabama,AL,2,George M. Grant,Democratic,100.0,True,True,False
+1952,house,Alabama,AL,3,George W. Andrews,Democratic,100.0,True,True,False
+1952,house,Alabama,AL,4,Kenneth A. Roberts,Democratic,100.0,True,True,False
+1952,house,Alabama,AL,5,Albert Rains,Democratic,100.0,True,True,False
+1952,house,Alabama,AL,6,Armistead Selden,Democratic,100.0,True,False,False
+1952,house,Alabama,AL,7,Carl Elliott,Democratic,72.5,True,True,False
+1952,house,Alabama,AL,7,Cyrus Kitchens,Republican,27.5,False,False,False
+1952,house,Alabama,AL,8,Robert E. Jones Jr.,Democratic,87.3,True,True,False
+1952,house,Alabama,AL,8,H. G. Williams,Republican,12.7,False,False,False
+1952,house,Alabama,AL,9,Laurie C. Battle,Democratic,100.0,True,True,False
+1952,house,Arizona,AZ,1,John Jacob Rhodes,Republican,54.0,True,False,False
+1952,house,Arizona,AZ,1,John R. Murdock,Democratic,46.0,False,True,False
+1952,house,Arizona,AZ,2,Harold Patten,Democratic,56.9,True,True,False
+1952,house,Arizona,AZ,2,William C. Frey,Republican,43.1,False,False,False
+1952,house,Arkansas,AR,1,Ezekiel C. Gathings,Democratic,100.0,True,True,False
+1952,house,Arkansas,AR,2,Wilbur Mills,Democratic,100.0,True,True,False
+1952,house,Arkansas,AR,3,James William Trimble,Democratic,56.0,True,True,False
+1952,house,Arkansas,AR,3,Jack Joyce,Republican,44.0,False,False,False
+1952,house,Arkansas,AR,4,Oren Harris,Democratic,100.0,True,False,True
+1952,house,Arkansas,AR,5,Brooks Hays,Democratic,78.8,True,True,False
+1952,house,Arkansas,AR,5,Alonzo A. Ross,Republican,19.5,False,False,False
+1952,house,Arkansas,AR,5,Ed Schultz,Independent,1.8,False,False,False
+1952,house,Arkansas,AR,6,William F. Norrell,Democratic,100.0,True,True,False
+1952,house,California,CA,1,Hubert B. Scudder,Republican,86.4,True,True,False
+1952,house,California,CA,2,Clair Engle,Democratic,100.0,True,True,False
+1952,house,California,CA,3,John E. Moss,Democratic,50.8,True,False,True
+1952,house,California,CA,3,Leslie E. Wood,Republican,47.8,False,False,True
+1952,house,California,CA,4,William S. Mailliard,Republican,55.0,True,False,False
+1952,house,California,CA,4,Franck R. Havenner,Democratic,45.0,False,True,False
+1952,house,California,CA,5,John F. Shelley,Democratic,100.0,True,True,False
+1952,house,California,CA,6,Robert Condon,Democratic,50.6,True,False,True
+1952,house,California,CA,6,John F. Baldwin Jr.,Republican,49.4,False,False,True
+1952,house,California,CA,7,John J. Allen Jr.,Republican,84.3,True,True,False
+1952,house,California,CA,8,George P. Miller,Democratic,100.0,True,False,False
+1952,house,California,CA,9,J. Arthur Younger,Republican,53.1,True,False,True
+1952,house,California,CA,9,Harold F. Taggart,Democratic,45.3,False,False,True
+1952,house,California,CA,10,Charles Gubser,Republican,59.2,True,False,True
+1952,house,California,CA,10,Arthur L. Johnson,Democratic,39.1,False,False,True
+1952,house,California,CA,11,J. Leroy Johnson,Republican,87.1,True,False,False
+1952,house,California,CA,11,Leslie B. Schlingheyde,Democratic,12.9,False,False,False
+1952,house,California,CA,12,Allan O. Hunter,Republican,100.0,True,False,False
+1952,house,California,CA,13,Ernest K. Bramblett,Republican,51.0,True,False,False
+1952,house,California,CA,13,Will Hays,Democratic,49.0,False,False,False
+1952,house,California,CA,14,Harlan Hagen,Democratic,51.0,True,False,False
+1952,house,California,CA,14,Thomas H. Werdel,Republican,49.0,False,False,False
+1952,house,California,CA,15,Gordon L. McDonough,Republican,100.0,True,True,False
+1952,house,California,CA,16,Donald L. Jackson,Republican,59.7,True,True,False
+1952,house,California,CA,16,Jerry K. Harter,Democratic,40.3,False,False,False
+1952,house,California,CA,17,Cecil R. King,Democratic,54.6,True,True,False
+1952,house,California,CA,17,Robert H. Finch,Republican,44.1,False,False,False
+1952,house,California,CA,18,Craig Hosmer,Republican,55.5,True,False,True
+1952,house,California,CA,18,Joseph M. Kennick,Democratic,44.5,False,False,True
+1952,house,California,CA,19,Chet Holifield,Democratic,87.1,True,True,False
+1952,house,California,CA,19,Milton Snipper,Independent,3.4,False,False,False
+1952,house,California,CA,20,John Carl Hinshaw,Republican,100.0,True,True,False
+1952,house,California,CA,21,Edgar W. Hiestand,Republican,53.6,True,False,True
+1952,house,California,CA,21,Everett G. Burkhalter,Democratic,46.4,False,False,True
+1952,house,California,CA,22,Joseph F. Holt,Republican,60.5,True,False,True
+1952,house,California,CA,22,Dean McHenry,Democratic,39.5,False,False,True
+1952,house,California,CA,23,Clyde Doyle,Democratic,87.5,True,False,False
+1952,house,California,CA,24,Norris Poulson,Republican,87.4,True,False,False
+1952,house,California,CA,25,Patrick J. Hillings,Republican,64.3,True,False,False
+1952,house,California,CA,25,Woodrow Wilson Sayre,Democratic,35.7,False,False,False
+1952,house,California,CA,26,Sam Yorty,Democratic,88.0,True,False,False
+1952,house,California,CA,27,Harry R. Sheppard,Democratic,55.0,True,False,False
+1952,house,California,CA,27,Carl B. Hilliard,Republican,45.0,False,False,False
+1952,house,California,CA,28,James B. Utt,Republican,63.0,True,False,True
+1952,house,California,CA,28,Lionel Van Deerlin,Democratic,37.0,False,False,True
+1952,house,California,CA,29,John Phillips,Republican,100.0,True,False,False
+1952,house,California,CA,30,Bob Wilson,Republican,59.6,True,False,True
+1952,house,California,CA,30,De Graff Austin,Democratic,40.4,False,False,True
+1952,house,Colorado,CO,1,Byron G. Rogers,Democratic,50.8,True,True,False
+1952,house,Colorado,CO,1,Mason K. Knuckles,Republican,48.6,False,False,False
+1952,house,Colorado,CO,2,William S. Hill,Republican,63.1,True,True,False
+1952,house,Colorado,CO,2,Ralph L. Williams,Democratic,36.9,False,False,False
+1952,house,Colorado,CO,3,John Chenoweth,Republican,57.7,True,True,False
+1952,house,Colorado,CO,3,John H. Marsalis,Democratic,42.3,False,False,False
+1952,house,Colorado,CO,4,Wayne N. Aspinall,Democratic,50.0,True,True,False
+1952,house,Colorado,CO,4,Howard M. Shults,Republican,50.0,False,False,False
+1952,house,Connecticut,CT,1,Thomas J. Dodd,Democratic,54.0,True,False,True
+1952,house,Connecticut,CT,1,John Ashmead,Republican,46.0,False,False,True
+1952,house,Connecticut,CT,2,Horace Seely-Brown Jr.,Republican,55.5,True,True,False
+1952,house,Connecticut,CT,2,William M. Citron,Democratic,44.5,False,False,False
+1952,house,Connecticut,CT,3,Albert W. Cretella,Republican,52.8,True,False,False
+1952,house,Connecticut,CT,3,John A. McGuire,Democratic,47.2,False,True,False
+1952,house,Connecticut,CT,4,Albert P. Morano,Republican,60.1,True,True,False
+1952,house,Connecticut,CT,4,Joseph P. Lyford,Democratic,39.3,False,False,False
+1952,house,Connecticut,CT,5,James T. Patterson,Republican,56.7,True,True,False
+1952,house,Connecticut,CT,5,John A. Speziale,Democratic,43.3,False,False,False
+1952,house,Connecticut,CT,AL,Antoni Sadlak,Republican,55.0,True,True,False
+1952,house,Connecticut,CT,AL,Stanley J. Pribyson,Democratic,44.8,False,False,False
+1952,house,Delaware,DE,AL,Herbert Warburton,Republican,51.9,True,False,True
+1952,house,Delaware,DE,AL,Joseph S. Scannell,Democratic,48.1,False,False,True
+1952,house,Florida,FL,1,Courtney W. Campbell,Democratic,50.7,True,False,True
+1952,house,Florida,FL,1,William C. Cramer,Republican,49.3,False,False,True
+1952,house,Florida,FL,2,Charles E. Bennett,Democratic,100.0,True,True,False
+1952,house,Florida,FL,3,Bob Sikes,Democratic,100.0,True,True,True
+1952,house,Florida,FL,4,Bill Lantaff,Democratic,66.0,True,True,False
+1952,house,Florida,FL,4,Dorothea Vermorel,Republican,34.0,False,False,False
+1952,house,Florida,FL,5,Syd Herlong,Democratic,100.0,True,True,False
+1952,house,Florida,FL,6,Dwight L. Rogers,Democratic,60.8,True,True,False
+1952,house,Florida,FL,6,Janet H. Fitzgerald,Republican,39.2,False,False,False
+1952,house,Florida,FL,7,James A. Haley,Democratic,56.3,True,False,True
+1952,house,Florida,FL,7,Kent McKinley,Republican,43.7,False,False,True
+1952,house,Florida,FL,8,Donald Ray Matthews,Democratic,100.0,True,False,True
+1952,house,Georgia,GA,1,Prince Preston,Democratic,100.0,True,True,False
+1952,house,Georgia,GA,2,E. Eugene Cox,Democratic,100.0,True,True,False
+1952,house,Georgia,GA,3,Tic Forrester,Democratic,100.0,True,True,False
+1952,house,Georgia,GA,4,Albert Sidney Camp,Democratic,100.0,True,True,False
+1952,house,Georgia,GA,4,Enoch Calloway,Write-in,0.02,False,False,False
+1952,house,Georgia,GA,5,James C. Davis,Democratic,100.0,True,True,False
+1952,house,Georgia,GA,6,Carl Vinson,Democratic,100.0,True,True,False
+1952,house,Georgia,GA,7,Henderson Lovelace Lanham,Democratic,99.9,True,True,False
+1952,house,Georgia,GA,7,Frank Gleason,Write-in,0.1,False,False,False
+1952,house,Georgia,GA,8,William M. Wheeler,Democratic,99.9,True,True,False
+1952,house,Georgia,GA,8,J. M. Kent,Write-in,0.1,False,False,False
+1952,house,Georgia,GA,9,Phil Landrum,Democratic,100.0,True,False,True
+1952,house,Georgia,GA,10,Paul Brown,Democratic,100.0,True,True,False
+1952,house,Idaho,ID,1,Gracie Pfost,Democratic,50.3,True,False,False
+1952,house,Idaho,ID,1,John Travers Wood,Republican,49.7,False,True,False
+1952,house,Idaho,ID,2,Hamer H. Budge,Republican,66.2,True,True,False
+1952,house,Idaho,ID,2,W. H. Jensen,Democratic,33.8,False,False,False
+1952,house,Illinois,IL,1,William L. Dawson,Democratic,73.5,True,True,False
+1952,house,Illinois,IL,1,Edgar G. Brown,Republican,26.5,False,False,False
+1952,house,Illinois,IL,2,Barratt O'Hara,Democratic,51.4,True,False,False
+1952,house,Illinois,IL,2,Richard B. Vail,Republican,48.6,False,True,False
+1952,house,Illinois,IL,3,Fred E. Busbey,Republican,54.5,True,True,False
+1952,house,Illinois,IL,3,Neil J. Linehan,Democratic,45.5,False,False,False
+1952,house,Illinois,IL,4,William E. McVey,Republican,56.6,True,True,False
+1952,house,Illinois,IL,4,Arthur E. Dillner,Democratic,43.4,False,False,False
+1952,house,Illinois,IL,5,John C. Kluczynski,Democratic,64.5,True,True,False
+1952,house,Illinois,IL,5,Ernest L. Kaysen,Republican,35.5,False,False,False
+1952,house,Illinois,IL,6,Thomas J. O'Brien,Democratic,63.1,True,True,False
+1952,house,Illinois,IL,6,John L. Roach,Republican,36.9,False,False,False
+1952,house,Illinois,IL,7,Adolph J. Sabath,Democratic,70.0,True,True,False
+1952,house,Illinois,IL,7,Louis F. Capuzi,Republican,30.0,False,False,False
+1952,house,Illinois,IL,8,Thomas S. Gordon,Democratic,59.0,True,True,False
+1952,house,Illinois,IL,8,William F. Cooper,Republican,41.0,False,False,False
+1952,house,Illinois,IL,9,Sidney R. Yates,Democratic,52.4,True,True,False
+1952,house,Illinois,IL,9,Robert R. Siegrist,Republican,47.6,False,False,False
+1952,house,Illinois,IL,10,Richard W. Hoffman,Republican,65.0,True,True,False
+1952,house,Illinois,IL,10,John Schaffenegger,Democratic,35.0,False,False,False
+1952,house,Illinois,IL,11,Timothy P. Sheehan,Republican,59.4,True,True,False
+1952,house,Illinois,IL,11,Stanley W. Morten,Democratic,40.6,False,False,False
+1952,house,Illinois,IL,12,Edgar A. Jonas,Republican,55.7,True,True,False
+1952,house,Illinois,IL,12,Philip A. Fleischman,Democratic,44.3,False,False,False
+1952,house,Illinois,IL,13,Marguerite S. Church,Republican,70.6,True,True,False
+1952,house,Illinois,IL,13,Lawrence J. Hayes,Democratic,29.4,False,False,False
+1952,house,Illinois,IL,14,Chauncey W. Reed,Republican,71.5,True,True,False
+1952,house,Illinois,IL,14,William E. Hartnett,Democratic,28.5,False,False,False
+1952,house,Illinois,IL,15,Noah M. Mason,Republican,63.6,True,True,False
+1952,house,Illinois,IL,15,Stanley Hubbs,Democratic,36.4,False,False,False
+1952,house,Illinois,IL,16,Leo E. Allen,Republican,66.5,True,True,False
+1952,house,Illinois,IL,16,John P. Barton,Democratic,33.5,False,False,False
+1952,house,Illinois,IL,17,Leslie C. Arends,Republican,63.6,True,True,False
+1952,house,Illinois,IL,17,John A. Kinneman,Democratic,36.4,False,False,False
+1952,house,Illinois,IL,18,Harold H. Velde,Republican,55.2,True,True,False
+1952,house,Illinois,IL,18,John T. McNaughton,Democratic,44.8,False,False,False
+1952,house,Illinois,IL,19,Robert B. Chiperfield,Republican,60.8,True,True,False
+1952,house,Illinois,IL,19,Ray Simkins,Democratic,39.2,False,False,False
+1952,house,Illinois,IL,20,Sid Simpson,Republican,61.8,True,True,False
+1952,house,Illinois,IL,20,John R. Roy,Democratic,38.2,False,False,False
+1952,house,Illinois,IL,21,Peter F. Mack Jr.,Democratic,52.4,True,True,False
+1952,house,Illinois,IL,21,Edward H. Jenison,Republican,47.6,False,False,False
+1952,house,Illinois,IL,22,William L. Springer,Republican,63.0,True,True,False
+1952,house,Illinois,IL,22,David W. Beggs Jr.,Democratic,37.0,False,False,False
+1952,house,Illinois,IL,23,Charles W. Vursell,Republican,57.7,True,False,False
+1952,house,Illinois,IL,23,W. Carl Johnston,Democratic,42.3,False,False,False
+1952,house,Illinois,IL,24,Melvin Price,Democratic,64.8,True,False,False
+1952,house,Illinois,IL,24,Phyllis Schlafly,Republican,35.2,False,False,False
+1952,house,Illinois,IL,25,C. W. Bishop,Republican,56.2,True,False,False
+1952,house,Illinois,IL,25,C. Edwin Hair,Democratic,43.8,False,False,False
+1952,house,Indiana,IN,1,Ray Madden,Democratic,56.4,True,True,False
+1952,house,Indiana,IN,1,Elliott Belshaw,Republican,43.3,False,False,False
+1952,house,Indiana,IN,2,Charles A. Halleck,Republican,63.3,True,True,False
+1952,house,Indiana,IN,2,L. Dewey Burham,Democratic,36.1,False,False,False
+1952,house,Indiana,IN,3,Shepard Crumpacker,Republican,54.5,True,True,False
+1952,house,Indiana,IN,3,Charles C. Price,Democratic,44.9,False,False,False
+1952,house,Indiana,IN,4,E. Ross Adair,Republican,63.7,True,True,False
+1952,house,Indiana,IN,4,Howard L. Morrison,Democratic,35.4,False,False,False
+1952,house,Indiana,IN,5,John V. Beamer,Republican,56.9,True,True,False
+1952,house,Indiana,IN,5,Philip Chase Dermond,Democratic,42.3,False,False,False
+1952,house,Indiana,IN,6,Cecil M. Harden,Republican,55.7,True,True,False
+1952,house,Indiana,IN,6,Jack H. Mankin,Democratic,44.0,False,False,False
+1952,house,Indiana,IN,7,William G. Bray,Republican,56.1,True,True,False
+1952,house,Indiana,IN,7,Thomas J. Courtney,Democratic,43.4,False,False,False
+1952,house,Indiana,IN,8,D. Bailey Merrill,Republican,52.6,True,False,False
+1952,house,Indiana,IN,8,Winfield K. Denton,Democratic,47.0,False,True,False
+1952,house,Indiana,IN,9,Earl Wilson,Republican,56.4,True,True,False
+1952,house,Indiana,IN,9,Edward Lewis,Democratic,43.2,False,False,False
+1952,house,Indiana,IN,10,Ralph Harvey,Republican,59.9,True,True,False
+1952,house,Indiana,IN,10,Fred V. Culp,Democratic,39.1,False,False,False
+1952,house,Indiana,IN,11,Charles B. Brownson,Republican,59.3,True,True,False
+1952,house,Indiana,IN,11,John C. Carvey,Democratic,40.3,False,False,False
+1952,house,Iowa,IA,1,Thomas E. Martin,Republican,62.8,True,True,False
+1952,house,Iowa,IA,1,Clair A. Williams,Democratic,36.9,False,False,False
+1952,house,Iowa,IA,2,Henry O. Talle,Republican,62.2,True,True,False
+1952,house,Iowa,IA,2,T. W. Mullaney,Democratic,37.7,False,False,False
+1952,house,Iowa,IA,2,Roy Corliss,Prohibition,0.1,False,False,False
+1952,house,Iowa,IA,3,H. R. Gross,Republican,65.8,True,True,False
+1952,house,Iowa,IA,3,George R. Laub,Democratic,34.0,False,False,False
+1952,house,Iowa,IA,4,Karl M. LeCompte,Republican,61.9,True,True,False
+1952,house,Iowa,IA,4,Earl E. Glassburner,Democratic,37.9,False,False,False
+1952,house,Iowa,IA,5,Paul Cunningham,Republican,58.8,True,True,False
+1952,house,Iowa,IA,5,Alvin P. Meyer,Democratic,41.0,False,False,False
+1952,house,Iowa,IA,6,James I. Dolliver,Republican,68.7,True,True,False
+1952,house,Iowa,IA,6,Francis G. Cutler,Democratic,31.1,False,False,False
+1952,house,Iowa,IA,7,Ben F. Jensen,Republican,67.3,True,True,False
+1952,house,Iowa,IA,7,Thomas J. Keleher,Democratic,32.6,False,False,False
+1952,house,Iowa,IA,8,Charles B. Hoeven,Republican,99.7,True,True,False
+1952,house,Iowa,IA,8,Milo Price,Democratic,0.01,False,False,False
+1952,house,Kansas,KS,1,Howard Shultz Miller,Democratic,51.5,True,False,False
+1952,house,Kansas,KS,1,Albert M. Cole,Republican,48.5,False,True,False
+1952,house,Kansas,KS,2,Errett P. Scrivner,Republican,57.3,True,True,False
+1952,house,Kansas,KS,2,Claude L. Rice,Democratic,42.7,False,False,False
+1952,house,Kansas,KS,3,Myron V. George,Republican,59.5,True,True,False
+1952,house,Kansas,KS,3,Fred L. Hedges,Democratic,40.5,False,False,False
+1952,house,Kansas,KS,4,Edward Herbert Rees,Republican,59.4,True,True,False
+1952,house,Kansas,KS,4,Bill Porter,Democratic,40.6,False,False,False
+1952,house,Kansas,KS,5,Clifford R. Hope,Republican,70.9,True,True,False
+1952,house,Kansas,KS,5,Art McAnarney,Democratic,29.1,False,False,False
+1952,house,Kansas,KS,6,Wint Smith,Republican,62.5,True,True,False
+1952,house,Kansas,KS,6,Horace A. Santry,Democratic,37.5,False,False,False
+1952,house,Kentucky,KY,1,Noble Jones Gregory,Democratic,65.8,True,True,False
+1952,house,Kentucky,KY,1,W. Mallam Lake,Republican,34.2,False,False,False
+1952,house,Kentucky,KY,2,Garrett Withers,Democratic,54.4,True,True,False
+1952,house,Kentucky,KY,2,David C. Brodie,Republican,45.6,False,False,False
+1952,house,Kentucky,KY,3,John M. Robsion Jr.,Republican,54.0,True,False,True
+1952,house,Kentucky,KY,3,Boman L. Shamburger,Democratic,45.7,False,False,True
+1952,house,Kentucky,KY,3,H. A. I. Rosenberg,Independent,0.3,False,False,True
+1952,house,Kentucky,KY,4,Frank Chelf,Democratic,55.9,True,True,False
+1952,house,Kentucky,KY,4,Bobby Hutchison Jr.,Republican,44.1,False,False,False
+1952,house,Kentucky,KY,5,Brent Spence,Democratic,55.4,True,True,False
+1952,house,Kentucky,KY,5,William D. Cochran,Republican,44.6,False,False,False
+1952,house,Kentucky,KY,6,John C. Watts,Democratic,56.3,True,True,False
+1952,house,Kentucky,KY,6,Leslie A. Henderson,Republican,43.7,False,False,False
+1952,house,Kentucky,KY,7,Carl D. Perkins,Democratic,58.2,True,True,False
+1952,house,Kentucky,KY,7,Curtis Clark,Republican,41.8,False,False,False
+1952,house,Kentucky,KY,8,James S. Golden,Republican,68.8,True,False,False
+1952,house,Kentucky,KY,8,Bill Scalf,Democratic,31.2,False,False,False
+1952,house,Louisiana,LA,1,F. Edward Hébert,Democratic,66.4,True,True,False
+1952,house,Louisiana,LA,1,George W. Reese Jr.,Republican,33.6,False,False,False
+1952,house,Louisiana,LA,2,Hale Boggs,Democratic,100.0,True,True,False
+1952,house,Louisiana,LA,3,Edwin E. Willis,Democratic,100.0,True,True,False
+1952,house,Louisiana,LA,4,Overton Brooks,Democratic,100.0,True,True,False
+1952,house,Louisiana,LA,5,Otto Passman,Democratic,100.0,True,True,False
+1952,house,Louisiana,LA,6,James H. Morrison,Democratic,100.0,True,True,False
+1952,house,Louisiana,LA,7,T. Ashton Thompson,Democratic,100.0,True,False,True
+1952,house,Louisiana,LA,8,George S. Long,Democratic,100.0,True,False,True
+1952,house,Maine,ME,1,Robert Hale,Republican,61.6,True,True,False
+1952,house,Maine,ME,1,James A. McVicar,Democratic,38.4,False,False,False
+1952,house,Maine,ME,2,Charles P. Nelson,Republican,66.3,True,True,False
+1952,house,Maine,ME,2,Leland B. Currier,Democratic,32.9,False,False,False
+1952,house,Maine,ME,3,Clifford McIntire,Republican,76.2,True,True,False
+1952,house,Maine,ME,3,Philip R. Sharpe,Democratic,23.8,False,False,False
+1952,house,Maryland,MD,1,Edward T. Miller,Republican,61.1,True,True,False
+1952,house,Maryland,MD,1,Dudley Roe,Democratic,38.9,False,False,False
+1952,house,Maryland,MD,2,James Devereux,Republican,61.4,True,True,False
+1952,house,Maryland,MD,2,A. Gordon Boone,Democratic,38.6,False,False,False
+1952,house,Maryland,MD,3,Edward Garmatz,Democratic,70.9,True,True,False
+1952,house,Maryland,MD,3,Jerry Toula,Republican,29.1,False,False,False
+1952,house,Maryland,MD,4,George Hyde Fallon,Democratic,54.7,True,True,False
+1952,house,Maryland,MD,4,Samuel Hopkins,Republican,45.3,False,False,False
+1952,house,Maryland,MD,5,Frank Small Jr.,Republican,50.4,True,False,True
+1952,house,Maryland,MD,5,Richard Lankford,Democratic,49.6,False,False,True
+1952,house,Maryland,MD,6,DeWitt Hyde,Republican,57.8,True,False,True
+1952,house,Maryland,MD,6,Stella B. Werner,Democratic,42.2,False,False,True
+1952,house,Maryland,MD,7,Samuel Friedel,Democratic,51.4,True,False,True
+1952,house,Maryland,MD,7,William F. Laukaitis,Republican,48.6,False,False,True
+1952,house,Massachusetts,MA,1,John W. Heselton,Republican,67.1,True,True,False
+1952,house,Massachusetts,MA,1,William H. Burns,Democratic,32.7,False,False,False
+1952,house,Massachusetts,MA,2,Edward Boland,Democratic,51.8,True,False,True
+1952,house,Massachusetts,MA,2,Troy T. Murray,Republican,47.9,False,False,True
+1952,house,Massachusetts,MA,3,Philip J. Philbin,Democratic,67.3,True,True,False
+1952,house,Massachusetts,MA,3,Frank D. Walker,Republican,32.4,False,False,False
+1952,house,Massachusetts,MA,4,Harold Donohue,Democratic,54.4,True,True,False
+1952,house,Massachusetts,MA,4,Carl A. Sheridan,Republican,45.1,False,False,False
+1952,house,Massachusetts,MA,5,Edith Nourse Rogers,Republican,75.9,True,True,False
+1952,house,Massachusetts,MA,5,Helen M. Fitzgerald Cullen,Democratic,23.7,False,False,False
+1952,house,Massachusetts,MA,5,Miriam S. Hall,Democratic,0.4,False,False,False
+1952,house,Massachusetts,MA,6,William H. Bates,Republican,95.1,True,True,False
+1952,house,Massachusetts,MA,7,Thomas J. Lane,Democratic,74.7,True,True,False
+1952,house,Massachusetts,MA,7,John L. Southwick Jr.,Republican,24.5,False,False,False
+1952,house,Massachusetts,MA,8,Angier Goodwin,Republican,50.9,True,True,False
+1952,house,Massachusetts,MA,8,John C. Carr Jr.,Democratic,48.7,False,False,False
+1952,house,Massachusetts,MA,9,Donald W. Nicholson,Republican,59.1,True,True,False
+1952,house,Massachusetts,MA,9,James F. O'Neill,Democratic,40.6,False,False,False
+1952,house,Massachusetts,MA,10,Laurence Curtis,Republican,54.3,True,False,True
+1952,house,Massachusetts,MA,10,Frederick C. Hailer Jr.,Democratic,45.1,False,False,True
+1952,house,Massachusetts,MA,11,Tip O'Neill,Democratic,69.3,True,False,True
+1952,house,Massachusetts,MA,11,Jesse A. Rogers,Republican,30.3,False,False,True
+1952,house,Massachusetts,MA,12,John W. McCormack,Democratic,82.2,True,True,False
+1952,house,Massachusetts,MA,12,James S. Tremblay,Republican,17.8,False,False,False
+1952,house,Massachusetts,MA,13,Richard B. Wigglesworth,Republican,60.6,True,True,False
+1952,house,Massachusetts,MA,13,David J. Crowley,Democratic,39.4,False,False,False
+1952,house,Massachusetts,MA,14,Joseph W. Martin Jr.,Republican,63.2,True,True,False
+1952,house,Massachusetts,MA,14,Edward F. Doolan,Democratic,36.5,False,False,False
+1952,house,Michigan,MI,1,Thaddeus M. Machrowicz,Democratic,84.2,True,True,False
+1952,house,Michigan,MI,1,Ralph G. Tenerowicz,Republican,15.2,False,False,False
+1952,house,Michigan,MI,2,George Meader,Republican,63.4,True,True,False
+1952,house,Michigan,MI,2,John P. Dawson,Democratic,36.3,False,False,False
+1952,house,Michigan,MI,3,Paul W. Shafer,Republican,62.0,True,True,False
+1952,house,Michigan,MI,3,Kenneth G. Brown,Democratic,37.6,False,False,False
+1952,house,Michigan,MI,4,Clare Hoffman,Republican,66.6,True,True,False
+1952,house,Michigan,MI,4,Murle E. Gorton,Democratic,33.0,False,False,False
+1952,house,Michigan,MI,5,Gerald Ford,Republican,66.3,True,True,False
+1952,house,Michigan,MI,5,Vincent E. O,Democratic,33.3,False,False,False
+1952,house,Michigan,MI,6,Kit Clardy,Republican,52.6,True,False,True
+1952,house,Michigan,MI,6,Donald Hayworth,Democratic,47.0,False,False,True
+1952,house,Michigan,MI,7,Jesse P. Wolcott,Republican,60.3,True,True,False
+1952,house,Michigan,MI,7,Ira D. McCoy,Democratic,39.5,False,False,False
+1952,house,Michigan,MI,8,Alvin Morell Bentley,Republican,66.6,True,False,False
+1952,house,Michigan,MI,8,Clarence V. Smazel,Democratic,33.0,False,False,False
+1952,house,Michigan,MI,9,Ruth Thompson,Republican,59.5,True,True,False
+1952,house,Michigan,MI,9,John H. Piercey,Democratic,40.1,False,False,False
+1952,house,Michigan,MI,10,Elford Albin Cederberg,Republican,67.5,True,False,True
+1952,house,Michigan,MI,10,William J. Kelly,Democratic,32.5,False,False,True
+1952,house,Michigan,MI,11,Victor A. Knox,Republican,59.3,True,False,True
+1952,house,Michigan,MI,11,Prentiss M. Brown Jr.,Democratic,40.7,False,False,True
+1952,house,Michigan,MI,12,John B. Bennett,Republican,58.2,True,True,False
+1952,house,Michigan,MI,12,E. Burr Sherwood,Democratic,41.8,False,False,False
+1952,house,Michigan,MI,13,George D. O'Brien,Democratic,64.8,True,True,False
+1952,house,Michigan,MI,13,Clarence J. McLeod,Republican,35.1,False,False,False
+1952,house,Michigan,MI,14,Louis C. Rabaut,Democratic,53.0,True,True,False
+1952,house,Michigan,MI,14,Richard Durant,Republican,46.9,False,False,False
+1952,house,Michigan,MI,15,John Dingell Sr.,Democratic,66.7,True,True,False
+1952,house,Michigan,MI,15,Gregory M. Pillon,Republican,33.2,False,False,False
+1952,house,Michigan,MI,16,John Lesinski Jr.,Democratic,60.7,True,True,False
+1952,house,Michigan,MI,16,Harold J. Smith,Republican,38.8,False,False,False
+1952,house,Michigan,MI,17,Charles G. Oakman,Republican,52.9,True,False,True
+1952,house,Michigan,MI,17,Martha Griffiths,Democratic,47.0,False,False,True
+1952,house,Michigan,MI,18,George A. Dondero,Republican,56.2,True,False,False
+1952,house,Michigan,MI,18,Arthur J. Law,Democratic,43.6,False,False,False
+1952,house,Minnesota,MN,1,August H. Andresen,Republican,69.4,True,True,False
+1952,house,Minnesota,MN,1,George Alfson,Democratic Party (Minnesota),30.6,False,False,False
+1952,house,Minnesota,MN,2,Joseph P. O'Hara,Republican,67.7,True,True,False
+1952,house,Minnesota,MN,2,Richard T. Malone,Democratic Party (Minnesota),32.3,False,False,False
+1952,house,Minnesota,MN,3,Roy Wier,Democratic Party (Minnesota),52.2,True,True,False
+1952,house,Minnesota,MN,3,Ed Willow,Republican,47.8,False,False,False
+1952,house,Minnesota,MN,4,Eugene McCarthy,Democratic Party (Minnesota),61.7,True,True,False
+1952,house,Minnesota,MN,4,Roger G. Kennedy,Republican,38.3,False,False,False
+1952,house,Minnesota,MN,5,Walter Judd,Republican,59.2,True,True,False
+1952,house,Minnesota,MN,5,Karl Rolvaag,Democratic Party (Minnesota),40.8,False,False,False
+1952,house,Minnesota,MN,6,Fred Marshall,Democratic Party (Minnesota),52.6,True,True,False
+1952,house,Minnesota,MN,6,J. Arthur Bensen,Republican,47.4,False,False,False
+1952,house,Minnesota,MN,7,H. Carl Andersen,Republican,62.6,True,True,False
+1952,house,Minnesota,MN,7,James M. Youngdale,Democratic Party (Minnesota),37.4,False,False,False
+1952,house,Minnesota,MN,8,John Blatnik,Democratic Party (Minnesota),62.6,True,True,False
+1952,house,Minnesota,MN,8,Ernest R. Orchard,Republican,37.4,False,False,False
+1952,house,Minnesota,MN,9,Harold Hagen,Republican,60.5,True,True,False
+1952,house,Minnesota,MN,9,Curtiss Olson,Democratic Party (Minnesota),39.5,False,False,False
+1952,house,Mississippi,MS,1,Thomas Abernethy,Democratic,100.0,True,False,False
+1952,house,Mississippi,MS,2,Jamie Whitten,Democratic,100.0,True,True,False
+1952,house,Mississippi,MS,3,Frank E. Smith,Democratic,87.2,True,True,False
+1952,house,Mississippi,MS,3,Paul Clark,Republican,12.8,False,False,False
+1952,house,Mississippi,MS,4,John Bell Williams,Democratic,100.0,True,False,False
+1952,house,Mississippi,MS,5,W. Arthur Winstead,Democratic,94.1,True,True,False
+1952,house,Mississippi,MS,5,Henry J. Maddox,Republican,5.9,False,False,False
+1952,house,Mississippi,MS,6,William M. Colmer,Democratic,100.0,True,True,False
+1952,house,Missouri,MO,1,Frank M. Karsten,Democratic,64.2,True,False,False
+1952,house,Missouri,MO,1,Eugene A. Miller,Republican,35.8,False,False,False
+1952,house,Missouri,MO,2,Thomas B. Curtis,Republican,56.9,True,False,False
+1952,house,Missouri,MO,2,Donald McClanahan,Democratic,43.1,False,False,False
+1952,house,Missouri,MO,3,Leonor Sullivan,Democratic,64.8,True,False,False
+1952,house,Missouri,MO,3,Claude I. Bakewell,Republican,35.2,False,False,False
+1952,house,Missouri,MO,4,Jeffrey P. Hillelson,Republican,53.3,True,False,False
+1952,house,Missouri,MO,4,Leonard Irving,Democratic,46.7,False,True,False
+1952,house,Missouri,MO,5,Richard Bolling,Democratic,56.0,True,True,False
+1952,house,Missouri,MO,5,Frank C. Rayburn,Republican,44.0,False,False,False
+1952,house,Missouri,MO,6,William C. Cole,Republican,52.4,True,False,True
+1952,house,Missouri,MO,6,Robert O. Richardson,Democratic,47.6,False,False,True
+1952,house,Missouri,MO,7,Dewey Short,Republican,61.7,True,True,True
+1952,house,Missouri,MO,7,John Hosmer,Democratic,38.3,False,False,True
+1952,house,Missouri,MO,8,A. S. J. Carnahan,Democratic,52.8,True,True,False
+1952,house,Missouri,MO,8,Francis E. Howard,Republican,47.2,False,False,False
+1952,house,Missouri,MO,9,Clarence Cannon,Democratic,54.7,True,True,True
+1952,house,Missouri,MO,9,Samuel W. Arnold,Republican,45.3,False,False,True
+1952,house,Missouri,MO,10,Paul C. Jones,Democratic,60.7,True,True,False
+1952,house,Missouri,MO,10,Andrew Sandegren,Republican,39.3,False,False,False
+1952,house,Missouri,MO,11,Morgan M. Moulder,Democratic,50.4,True,False,False
+1952,house,Missouri,MO,11,Max Schwabe,Republican,49.6,False,False,False
+1952,house,Montana,MT,1,Lee Metcalf,Democratic,50.3,True,False,True
+1952,house,Montana,MT,1,Wellington D. Rankin,Republican,48.9,False,False,True
+1952,house,Montana,MT,1,Leverne Hamilton,Socialist,0.8,False,False,True
+1952,house,Montana,MT,2,Wesley A. D'Ewart,Republican,62.0,True,True,False
+1952,house,Montana,MT,2,Willard E. Fraser,Democratic,38.0,False,False,False
+1952,house,Nebraska,NE,1,Carl Curtis,Republican,72.0,True,True,False
+1952,house,Nebraska,NE,1,Samuel Freeman,Democratic,28.0,False,False,False
+1952,house,Nebraska,NE,2,Roman Hruska,Republican,56.1,True,False,True
+1952,house,Nebraska,NE,2,James A. Hart,Democratic,43.9,False,False,True
+1952,house,Nebraska,NE,3,Robert Dinsmore Harrison,Republican,71.9,True,True,False
+1952,house,Nebraska,NE,3,Alan A. Dusatko,Democratic,28.1,False,False,False
+1952,house,Nebraska,NE,4,Arthur L. Miller,Republican,73.3,True,True,False
+1952,house,Nebraska,NE,4,Francis D. Lee,Democratic,26.7,False,False,False
+1952,house,Nevada,NV,AL,Clarence Clifton Young,Republican,50.5,True,False,False
+1952,house,Nevada,NV,AL,Walter S. Baring Jr.,Democratic,49.5,False,True,False
+1952,house,New Hampshire,NH,1,Chester Earl Merrow,Republican,60.2,True,True,False
+1952,house,New Hampshire,NH,1,Peter Poirier,Democratic,39.8,False,False,False
+1952,house,New Hampshire,NH,2,Norris Cotton,Republican,66.4,True,True,False
+1952,house,New Hampshire,NH,2,John Guay,Democratic,33.6,False,False,False
+1952,house,New Jersey,NJ,1,Charles A. Wolverton,Republican,55.0,True,True,False
+1952,house,New Jersey,NJ,1,Alfred R. Pierce,Democratic,44.7,False,False,False
+1952,house,New Jersey,NJ,2,T. Millet Hand,Republican,63.4,True,True,False
+1952,house,New Jersey,NJ,2,Charles Edward Rupp,Democratic,36.6,False,False,False
+1952,house,New Jersey,NJ,3,James C. Auchincloss,Republican,64.4,True,True,False
+1952,house,New Jersey,NJ,3,John W. Zimmermann,Democratic,35.0,False,False,False
+1952,house,New Jersey,NJ,4,Charles R. Howell,Democratic,54.7,True,True,False
+1952,house,New Jersey,NJ,4,John J. Inglesby,Republican,45.3,False,False,False
+1952,house,New Jersey,NJ,5,Peter Frelinghuysen Jr.,Republican,62.2,True,False,True
+1952,house,New Jersey,NJ,5,Aldona E. Appleton,Democratic,37.8,False,False,True
+1952,house,New Jersey,NJ,6,Clifford P. Case,Republican,63.9,True,True,False
+1952,house,New Jersey,NJ,6,H. Frank Pettit,Democratic,35.4,False,False,False
+1952,house,New Jersey,NJ,7,William B. Widnall,Republican,68.3,True,True,False
+1952,house,New Jersey,NJ,7,Vito A. Concilio,Democratic,31.7,False,False,False
+1952,house,New Jersey,NJ,8,Gordon Canfield,Republican,62.6,True,True,False
+1952,house,New Jersey,NJ,8,John J. Winberry,Democratic,35.0,False,False,False
+1952,house,New Jersey,NJ,9,Frank C. Osmers Jr.,Republican,66.2,True,True,False
+1952,house,New Jersey,NJ,9,William H. McNulty,Democratic,33.4,False,False,False
+1952,house,New Jersey,NJ,10,Peter W. Rodino,Democratic,56.9,True,True,False
+1952,house,New Jersey,NJ,10,Alexander J. Matturri,Republican,41.8,False,False,False
+1952,house,New Jersey,NJ,11,Hugh J. Addonizio,Democratic,52.2,True,True,False
+1952,house,New Jersey,NJ,11,William O. Barnes Jr.,Republican,46.3,False,False,False
+1952,house,New Jersey,NJ,12,Robert Kean,Republican,54.8,True,True,False
+1952,house,New Jersey,NJ,12,Martin S. Fox,Democratic,45.2,False,False,False
+1952,house,New Jersey,NJ,13,Alfred Dennis Sieminski,Democratic,55.1,True,True,False
+1952,house,New Jersey,NJ,13,Julius D. Canter,Republican,41.2,False,False,False
+1952,house,New Jersey,NJ,14,Edward J. Hart,Democratic,51.5,True,True,False
+1952,house,New Jersey,NJ,14,William J. Bozzuffi,Republican,45.4,False,False,False
+1952,house,New Mexico,NM,AL,John J. Dempsey,Democratic,26.2,True,True,False
+1952,house,New Mexico,NM,AL,Antonio M. Fernández,Democratic,25.9,True,False,False
+1952,house,New Mexico,NM,AL,Homer J. Berkshire,Republican,24.2,False,False,False
+1952,house,New Mexico,NM,AL,Ed Guthmann,Republican,23.7,False,False,False
+1952,house,New York,NY,1,Stuyvesant Wainwright,Republican,60.4,True,False,False
+1952,house,New York,NY,1,Ernest Greenwood,Democratic,39.3,False,True,False
+1952,house,New York,NY,2,Steven Derounian,Republican,68.8,True,False,True
+1952,house,New York,NY,2,Joseph Liff,Democratic,28.4,False,False,True
+1952,house,New York,NY,3,Frank J. Becker,Republican,65.4,True,False,True
+1952,house,New York,NY,3,Richard A. O'Leary,Democratic,31.0,False,False,True
+1952,house,New York,NY,4,Henry J. Latham,Republican,62.6,True,False,False
+1952,house,New York,NY,4,Joseph J. Perrini,Democratic,36.0,False,False,False
+1952,house,New York,NY,5,Albert H. Bosch,Republican,53.5,True,False,False
+1952,house,New York,NY,5,L. Gary Clemente,Democratic,45.3,False,False,False
+1952,house,New York,NY,5,Hugh Mulzac,American Labor,1.2,False,False,False
+1952,house,New York,NY,6,Lester Holtzman,Democratic,49.2,True,False,False
+1952,house,New York,NY,6,Robert Tripp Ross,Republican,48.9,False,False,False
+1952,house,New York,NY,7,James J. Delaney,Democratic,51.0,True,False,False
+1952,house,New York,NY,7,William Adam Schulz,Republican,47.3,False,False,False
+1952,house,New York,NY,8,Louis B. Heller,Democratic,65.3,True,False,True
+1952,house,New York,NY,8,Benjamin F. Westervelt Jr.,Republican,32.6,False,False,True
+1952,house,New York,NY,9,Eugene Keogh,Democratic,61.1,True,True,False
+1952,house,New York,NY,9,Joseph M. Soviero,Republican,35.7,False,False,False
+1952,house,New York,NY,10,Edna F. Kelly,Democratic,71.2,True,True,False
+1952,house,New York,NY,10,George W. Thomas,Republican,28.8,False,False,False
+1952,house,New York,NY,11,Emanuel Celler,Democratic,73.8,True,False,False
+1952,house,New York,NY,11,Henry D. Dorfman,Republican,21.6,False,False,False
+1952,house,New York,NY,12,Francis E. Dorn,Republican,52.7,True,False,True
+1952,house,New York,NY,12,Donald L. O'Toole,Democratic,45.6,False,False,True
+1952,house,New York,NY,12,Clifford T. McAvoy,American Labor,1.8,False,False,True
+1952,house,New York,NY,13,Abraham J. Multer,Democratic,68.3,True,False,False
+1952,house,New York,NY,13,P. Vincent Landi,Republican,27.8,False,False,False
+1952,house,New York,NY,13,Si Gerson,Communist,1.5,False,False,False
+1952,house,New York,NY,14,John J. Rooney,Democratic,64.2,True,False,False
+1952,house,New York,NY,14,Jacob P. Lefkowitz,Republican,33.2,False,False,False
+1952,house,New York,NY,15,John H. Ray,Republican,57.9,True,False,False
+1952,house,New York,NY,15,James J. Murphy,Democratic,41.5,False,False,False
+1952,house,New York,NY,16,Adam Clayton Powell Jr.,Democratic,73.9,True,False,False
+1952,house,New York,NY,16,Richard L. Baltimore Jr.,Republican,16.2,False,False,False
+1952,house,New York,NY,16,Clarence Francis,Liberal Party (New York),7.3,False,False,False
+1952,house,New York,NY,17,Frederic Coudert Jr.,Republican,57.0,True,True,False
+1952,house,New York,NY,17,Harry Grossman,Democratic,40.7,False,False,False
+1952,house,New York,NY,18,James G. Donovan,Democratic,92.6,True,True,False
+1952,house,New York,NY,19,Arthur G. Klein,Democratic,66.0,True,True,False
+1952,house,New York,NY,19,Edward I. Goldberg,Republican,29.7,False,False,False
+1952,house,New York,NY,20,Franklin D. Roosevelt Jr.,Democratic,60.2,True,True,False
+1952,house,New York,NY,20,Clarence C. Van Bell,Republican,36.8,False,False,False
+1952,house,New York,NY,21,Jacob Javits,Republican,63.4,True,True,False
+1952,house,New York,NY,21,John C. Hart,Democratic,33.6,False,False,False
+1952,house,New York,NY,21,William Mandel,American Labor,2.9,False,False,False
+1952,house,New York,NY,22,Sidney A. Fine,Democratic,58.0,True,False,False
+1952,house,New York,NY,22,Martin Greene,Republican,24.8,False,False,False
+1952,house,New York,NY,23,Isidore Dollinger,Democratic,63.8,True,False,False
+1952,house,New York,NY,23,Sidney S. Flaum,Republican,18.9,False,False,False
+1952,house,New York,NY,23,Howard Fast,American Labor,5.6,False,False,False
+1952,house,New York,NY,24,Charles A. Buckley,Democratic,46.5,True,False,False
+1952,house,New York,NY,24,Solon S. Kane,Republican,32.8,False,False,False
+1952,house,New York,NY,25,Paul A. Fino,Republican,50.1,True,False,True
+1952,house,New York,NY,25,Bernard J. O,Democratic,40.4,False,False,True
+1952,house,New York,NY,26,Ralph A. Gamble,Republican,67.3,True,False,False
+1952,house,New York,NY,26,Flora Chudson,Democratic,32.0,False,False,False
+1952,house,New York,NY,27,Ralph W. Gwinn,Republican,58.5,True,True,False
+1952,house,New York,NY,27,George A. Brenner,Democratic,40.9,False,False,False
+1952,house,New York,NY,28,Katharine St. George,Republican,65.6,True,False,False
+1952,house,New York,NY,28,Marion K. Sanders,Democratic,33.9,False,False,False
+1952,house,New York,NY,29,J. Ernest Wharton,Republican,69.8,True,False,False
+1952,house,New York,NY,29,Walter Donnaruma,Democratic,28.2,False,False,False
+1952,house,New York,NY,30,Leo W. O'Brien,Democratic,53.7,True,False,False
+1952,house,New York,NY,30,John F. Forner Jr.,Republican,46.0,False,False,False
+1952,house,New York,NY,31,Dean P. Taylor,Republican,70.6,True,False,False
+1952,house,New York,NY,31,Helen Nolan Neil,Democratic,27.3,False,False,False
+1952,house,New York,NY,32,Bernard W. Kearney,Republican,67.4,True,False,False
+1952,house,New York,NY,32,David C. Prince,Democratic,30.5,False,False,False
+1952,house,New York,NY,32,Herbert M. Merrill,Liberal Party (New York),2.1,False,False,False
+1952,house,New York,NY,33,Clarence E. Kilburn,Republican,69.0,True,False,False
+1952,house,New York,NY,33,Maurice N. McGrath,Democratic,29.2,False,False,False
+1952,house,New York,NY,34,William R. Williams,Republican,58.8,True,False,False
+1952,house,New York,NY,34,Charles Ray Wilson,Democratic,39.3,False,False,False
+1952,house,New York,NY,35,R. Walter Riehlman,Republican,63.2,True,False,False
+1952,house,New York,NY,35,Arthur B. McGuire,Democratic,36.5,False,False,False
+1952,house,New York,NY,36,John Taber,Republican,69.9,True,False,False
+1952,house,New York,NY,36,Donald J. O'Connor,Democratic,29.9,False,False,False
+1952,house,New York,NY,37,W. Sterling Cole,Republican,69.4,True,False,False
+1952,house,New York,NY,37,Jean Ivory,Democratic,30.4,False,False,False
+1952,house,New York,NY,38,Kenneth Keating,Republican,69.3,True,False,False
+1952,house,New York,NY,38,Victor Kruppenbacher,Democratic,30.3,False,False,False
+1952,house,New York,NY,39,Harold C. Ostertag,Republican,65.8,True,False,False
+1952,house,New York,NY,39,O. Richard Judson,Democratic,34.0,False,False,False
+1952,house,New York,NY,40,William E. Miller,Republican,59.6,True,False,False
+1952,house,New York,NY,40,E. Dent Lackey,Democratic,40.2,False,False,False
+1952,house,New York,NY,41,Edmund P. Radwan,Republican,55.9,True,False,False
+1952,house,New York,NY,41,Anthony F. Tauriello,Democratic,44.1,False,False,False
+1952,house,New York,NY,42,John R. Pillion,Republican,55.2,True,False,False
+1952,house,New York,NY,42,Chester C. Gorski,Democratic,44.6,False,False,False
+1952,house,New York,NY,43,Daniel A. Reed,Republican,66.2,True,False,False
+1952,house,New York,NY,43,Harry D. Johnson,Democratic,32.0,False,False,False
+1952,house,North Carolina,NC,1,Herbert Covington Bonner,Democratic,100.0,True,True,False
+1952,house,North Carolina,NC,2,Lawrence H. Fountain,Democratic,94.8,True,False,False
+1952,house,North Carolina,NC,2,W. B. White,Republican,5.2,False,False,False
+1952,house,North Carolina,NC,3,Graham Arthur Barden,Democratic,76.1,True,True,False
+1952,house,North Carolina,NC,3,Everette L. Peterson,Republican,23.9,False,False,False
+1952,house,North Carolina,NC,4,Harold D. Cooley,Democratic,75.3,True,True,False
+1952,house,North Carolina,NC,4,Paul C. West,Republican,24.7,False,False,False
+1952,house,North Carolina,NC,5,R. Thurmond Chatham,Democratic,98.2,True,True,False
+1952,house,North Carolina,NC,5,Forest Bedell,Republican,1.8,False,False,False
+1952,house,North Carolina,NC,5,Jeff D. Johnson,Republican,0.06,False,False,False
+1952,house,North Carolina,NC,6,Carl T. Durham,Democratic,69.5,True,True,False
+1952,house,North Carolina,NC,6,Louis F. Ferree,Republican,30.5,False,False,False
+1952,house,North Carolina,NC,7,Frank Ertel Carlyle,Democratic,98.5,True,True,False
+1952,house,North Carolina,NC,7,D. R. Johnson,Republican,1.5,False,False,False
+1952,house,North Carolina,NC,7,E. N. Pait,Republican,0.002,False,False,False
+1952,house,North Carolina,NC,8,Charles B. Deane,Democratic,59.9,True,True,False
+1952,house,North Carolina,NC,8,Walter B. Love,Republican,40.1,False,False,False
+1952,house,North Carolina,NC,9,Hugh Quincy Alexander,Democratic,51.5,True,False,True
+1952,house,North Carolina,NC,9,Walter P. Johnson,Republican,48.5,False,False,True
+1952,house,North Carolina,NC,10,Charles R. Jonas,Republican,57.4,True,False,False
+1952,house,North Carolina,NC,10,Hamilton C. Jones,Democratic,42.6,False,True,False
+1952,house,North Carolina,NC,11,Woodrow W. Jones,Democratic,63.0,True,True,False
+1952,house,North Carolina,NC,11,George M. Pritchard,Republican,37.0,False,False,False
+1952,house,North Carolina,NC,12,George A. Shuford,Democratic,56.9,True,False,True
+1952,house,North Carolina,NC,12,Hugh Montieth,Republican,43.1,False,False,True
+1952,house,North Dakota,ND,AL,Usher L. Burdick,Nonpartisan League,46.7,True,True,True
+1952,house,North Dakota,ND,AL,Otto Krueger,Republican,40.4,True,False,True
+1952,house,North Dakota,ND,AL,Edward Nesemeier,Democratic,12.8,False,False,True
+1952,house,Ohio,OH,1,Gordon H. Scherer,Republican,61.6,True,False,True
+1952,house,Ohio,OH,1,Walter A. Kelly,Democratic,38.4,False,False,True
+1952,house,Ohio,OH,2,William E. Hess,Republican,56.6,True,True,False
+1952,house,Ohio,OH,2,Earl T. Wagner,Democratic,43.4,False,False,False
+1952,house,Ohio,OH,3,Paul F. Schenck,Republican,51.1,True,True,False
+1952,house,Ohio,OH,3,Thomas B. Talbot,Democratic,48.9,False,False,False
+1952,house,Ohio,OH,4,William Moore McCulloch,Republican,68.3,True,True,False
+1952,house,Ohio,OH,4,Carleton Carl Reiser,Democratic,31.7,False,False,False
+1952,house,Ohio,OH,5,Cliff Clevenger,Republican,63.2,True,True,False
+1952,house,Ohio,OH,5,Dan Batt,Democratic,36.8,False,False,False
+1952,house,Ohio,OH,6,James G. Polk,Democratic,50.1,True,True,False
+1952,house,Ohio,OH,6,Leo Blackburn,Republican,49.9,False,False,False
+1952,house,Ohio,OH,7,Clarence J. Brown,Republican,100.0,True,True,False
+1952,house,Ohio,OH,8,Jackson Edward Betts,Republican,68.7,True,True,False
+1952,house,Ohio,OH,8,Henry P. Drake,Democratic,31.3,False,False,False
+1952,house,Ohio,OH,9,Frazier Reams,Independent,40.9,True,True,False
+1952,house,Ohio,OH,9,Thomas H. Burke,Democratic,33.4,False,False,False
+1952,house,Ohio,OH,9,Gilmore Flues,Republican,25.7,False,False,False
+1952,house,Ohio,OH,10,Thomas A. Jenkins,Republican,64.0,True,True,True
+1952,house,Ohio,OH,10,Delmar A. Canaday,Democratic,36.0,False,False,True
+1952,house,Ohio,OH,11,Oliver P. Bolton,Republican,58.9,True,False,True
+1952,house,Ohio,OH,11,Robert J. Kilpatrick,Democratic,41.1,False,False,True
+1952,house,Ohio,OH,12,John M. Vorys,Republican,62.3,True,True,False
+1952,house,Ohio,OH,12,George T. Tarbutton,Democratic,37.7,False,False,False
+1952,house,Ohio,OH,13,Alvin F. Weichel,Republican,58.8,True,True,False
+1952,house,Ohio,OH,13,George C. Steinemann,Democratic,41.2,False,False,False
+1952,house,Ohio,OH,14,William H. Ayres,Republican,58.5,True,True,False
+1952,house,Ohio,OH,14,Walter B. Huber,Democratic,41.5,False,False,False
+1952,house,Ohio,OH,15,Robert T. Secrest,Democratic,64.3,True,True,False
+1952,house,Ohio,OH,15,P. W. Griffiths,Republican,35.7,False,False,False
+1952,house,Ohio,OH,16,Frank T. Bow,Republican,54.4,True,True,False
+1952,house,Ohio,OH,16,John McSweeney,Democratic,45.6,False,False,False
+1952,house,Ohio,OH,17,J. Harry McGregor,Republican,68.2,True,True,False
+1952,house,Ohio,OH,17,James J. Mayer,Democratic,31.8,False,False,False
+1952,house,Ohio,OH,18,Wayne L. Hays,Democratic,55.8,True,True,False
+1952,house,Ohio,OH,18,Clarence J. Wetzel,Republican,44.2,False,False,False
+1952,house,Ohio,OH,19,Michael J. Kirwan,Democratic,66.3,True,True,False
+1952,house,Ohio,OH,19,Allen Russell,Republican,33.7,False,False,False
+1952,house,Ohio,OH,20,Michael A. Feighan,Democratic,65.2,True,True,False
+1952,house,Ohio,OH,20,John H. Ferguson,Republican,34.8,False,False,False
+1952,house,Ohio,OH,21,Robert Crosser,Democratic,68.6,True,True,False
+1952,house,Ohio,OH,21,Lawrence O. Payne,Republican,31.4,False,False,False
+1952,house,Ohio,OH,22,Frances P. Bolton,Republican,58.8,True,True,False
+1952,house,Ohio,OH,22,Chat Paterson,Democratic,41.2,False,False,False
+1952,house,Ohio,OH,23,George H. Bender,Republican,64.6,True,False,False
+1952,house,Ohio,OH,23,Michael P. O'Brien,Democratic,35.4,False,False,False
+1952,house,Oklahoma,OK,1,Page Belcher,Republican,58.6,True,False,True
+1952,house,Oklahoma,OK,1,H. G. Dickey,Democratic,41.4,False,False,True
+1952,house,Oklahoma,OK,2,Ed Edmondson,Democratic,59.2,True,False,True
+1952,house,Oklahoma,OK,2,Edward E. Easton,Republican,38.8,False,False,True
+1952,house,Oklahoma,OK,3,Carl Albert,Democratic,77.9,True,True,False
+1952,house,Oklahoma,OK,3,Frank D. McSherry,Republican,22.1,False,False,False
+1952,house,Oklahoma,OK,4,Tom Steed,Democratic,58.7,True,True,False
+1952,house,Oklahoma,OK,4,John L. Goode,Republican,40.7,False,False,False
+1952,house,Oklahoma,OK,4,L. D. Akin,Independent,0.7,False,False,False
+1952,house,Oklahoma,OK,5,John Jarman,Democratic,62.4,True,True,False
+1952,house,Oklahoma,OK,5,Edwin Whitney Burch,Republican,37.6,False,False,False
+1952,house,Oklahoma,OK,6,Victor Wickersham,Democratic,63.3,True,False,False
+1952,house,Oklahoma,OK,6,K. B. Cornell,Republican,36.7,False,False,False
+1952,house,Oregon,OR,1,A. Walter Norblad,Republican,68.0,True,True,False
+1952,house,Oregon,OR,1,Robert B. Jones,Democratic,32.0,False,False,False
+1952,house,Oregon,OR,2,Sam Coon,Republican,58.5,True,False,True
+1952,house,Oregon,OR,2,John G. Jones,Democratic,41.5,False,False,True
+1952,house,Oregon,OR,3,Homer D. Angell,Republican,54.0,True,True,False
+1952,house,Oregon,OR,3,Alfred H. Corbett,Democratic,46.0,False,False,False
+1952,house,Oregon,OR,4,Harris Ellsworth,Republican,66.3,True,True,False
+1952,house,Oregon,OR,4,Walter A. Swanson,Democratic,33.7,False,False,False
+1952,house,Pennsylvania,PA,1,William A. Barrett,Democratic,68.2,True,True,False
+1952,house,Pennsylvania,PA,1,James Iannucci,Republican,31.8,False,False,False
+1952,house,Pennsylvania,PA,2,William T. Granahan,Democratic,61.8,True,True,False
+1952,house,Pennsylvania,PA,2,Daniel J. McCauley Jr.,Republican,38.2,False,False,False
+1952,house,Pennsylvania,PA,3,James A. Byrne,Democratic,58.4,True,False,True
+1952,house,Pennsylvania,PA,3,Morton Witkin,Republican,41.6,False,False,True
+1952,house,Pennsylvania,PA,4,Earl Chudoff,Democratic,69.9,True,True,False
+1952,house,Pennsylvania,PA,4,Joseph R. Burns,Republican,29.7,False,False,False
+1952,house,Pennsylvania,PA,5,William J. Green Jr.,Democratic,54.2,True,True,False
+1952,house,Pennsylvania,PA,5,Philip Richman,Republican,45.8,False,False,False
+1952,house,Pennsylvania,PA,6,Hugh Scott,Republican,51.7,True,True,False
+1952,house,Pennsylvania,PA,6,Harrington Herr,Democratic,48.2,False,False,False
+1952,house,Pennsylvania,PA,6,Anthony V. Lo Popolo,Independent,0.1,False,False,False
+1952,house,Pennsylvania,PA,7,Benjamin F. James,Republican,61.7,True,True,False
+1952,house,Pennsylvania,PA,7,Murray P. Zealor,Democratic,38.3,False,False,False
+1952,house,Pennsylvania,PA,8,Karl C. King,Republican,59.3,True,True,False
+1952,house,Pennsylvania,PA,8,Wilson H. Stephenson,Democratic,40.7,False,False,False
+1952,house,Pennsylvania,PA,9,Paul B. Dague,Republican,66.2,True,True,False
+1952,house,Pennsylvania,PA,9,Philip E. Ragan,Democratic,33.8,False,False,False
+1952,house,Pennsylvania,PA,10,Joseph L. Carrigg,Republican,53.6,True,False,False
+1952,house,Pennsylvania,PA,10,Harry P. O'Neill,Democratic,46.4,False,True,False
+1952,house,Pennsylvania,PA,11,Edward Bonin,Republican,50.2,True,False,False
+1952,house,Pennsylvania,PA,11,Daniel Flood,Democratic,49.8,False,True,False
+1952,house,Pennsylvania,PA,12,Ivor D. Fenton,Republican,60.7,True,True,False
+1952,house,Pennsylvania,PA,12,Peter Krehel,Democratic,39.3,False,False,False
+1952,house,Pennsylvania,PA,13,Samuel K. McConnell Jr.,Republican,66.4,True,False,False
+1952,house,Pennsylvania,PA,13,Frank A. Keegan,Democratic,33.6,False,False,False
+1952,house,Pennsylvania,PA,14,George M. Rhodes,Democratic,49.7,True,False,False
+1952,house,Pennsylvania,PA,14,James W. Bertolet,Republican,49.2,False,False,False
+1952,house,Pennsylvania,PA,14,Darlington Hoopes,Socialist,1.1,False,False,False
+1952,house,Pennsylvania,PA,15,Francis E. Walter,Democratic,54.8,True,False,False
+1952,house,Pennsylvania,PA,15,John Russell Craig,Republican,45.2,False,False,False
+1952,house,Pennsylvania,PA,16,Walter M. Mumma,Republican,61.7,True,False,False
+1952,house,Pennsylvania,PA,16,David V. Randall,Democratic,38.3,False,False,False
+1952,house,Pennsylvania,PA,17,Alvin Bush,Republican,64.1,True,False,False
+1952,house,Pennsylvania,PA,17,Patrick A. McGowan,Democratic,34.7,False,False,False
+1952,house,Pennsylvania,PA,18,Richard M. Simpson,Republican,63.5,True,False,False
+1952,house,Pennsylvania,PA,18,Philip R. Shoemaker,Democratic,36.5,False,False,False
+1952,house,Pennsylvania,PA,19,S. Walter Stauffer,Republican,52.3,True,False,False
+1952,house,Pennsylvania,PA,19,James F. Lind,Democratic,47.7,False,False,False
+1952,house,Pennsylvania,PA,20,James E. Van Zandt,Republican,62.8,True,False,False
+1952,house,Pennsylvania,PA,20,Joseph A. Moran,Democratic,37.2,False,False,False
+1952,house,Pennsylvania,PA,21,Augustine B. Kelley,Democratic,52.9,True,False,False
+1952,house,Pennsylvania,PA,21,J. Cleveland McKenna,Republican,47.1,False,False,False
+1952,house,Pennsylvania,PA,22,John P. Saylor,Republican,52.4,True,False,False
+1952,house,Pennsylvania,PA,22,William D. Shettig,Democratic,47.6,False,False,False
+1952,house,Pennsylvania,PA,23,Leon H. Gavin,Republican,67.8,True,False,False
+1952,house,Pennsylvania,PA,23,Fred C. Barr,Democratic,32.2,False,False,False
+1952,house,Pennsylvania,PA,24,Carroll D. Kearns,Republican,57.1,True,False,False
+1952,house,Pennsylvania,PA,24,Clinton J. Bebell,Democratic,42.9,False,False,False
+1952,house,Pennsylvania,PA,25,Louis E. Graham,Republican,50.4,True,True,False
+1952,house,Pennsylvania,PA,25,Frank M. Clark,Democratic,49.6,False,False,False
+1952,house,Pennsylvania,PA,26,Thomas E. Morgan,Democratic,59.1,True,False,False
+1952,house,Pennsylvania,PA,26,Edward L. Sittler Jr.,Republican,40.9,False,False,False
+1952,house,Pennsylvania,PA,27,James G. Fulton,Republican,62.6,True,False,False
+1952,house,Pennsylvania,PA,27,Thomas J. O'Toole,Democratic,37.4,False,False,False
+1952,house,Pennsylvania,PA,28,Herman P. Eberharter,Democratic,58.7,True,False,False
+1952,house,Pennsylvania,PA,28,Harmar D. Denny Jr.,Republican,41.3,False,False,False
+1952,house,Pennsylvania,PA,29,Robert J. Corbett,Republican,61.7,True,False,False
+1952,house,Pennsylvania,PA,29,Lee T. Sellars,Democratic,38.3,False,False,False
+1952,house,Pennsylvania,PA,30,Vera Buchanan,Democratic,63.6,True,False,False
+1952,house,Pennsylvania,PA,30,Peter F. Bender,Republican,36.4,False,False,False
+1952,house,Rhode Island,RI,1,Aime Forand,Democratic,54.9,True,True,False
+1952,house,Rhode Island,RI,1,Berthelot A. Leclaire,Republican,45.1,False,False,False
+1952,house,Rhode Island,RI,2,John E. Fogarty,Democratic,53.4,True,True,False
+1952,house,Rhode Island,RI,2,James O. Watts,Republican,46.6,False,False,False
+1952,house,South Carolina,SC,1,L. Mendel Rivers,Democratic,100.0,True,True,False
+1952,house,South Carolina,SC,2,John J. Riley,Democratic,100.0,True,True,False
+1952,house,South Carolina,SC,3,William Jennings Bryan Dorn,Democratic,93.9,True,True,True
+1952,house,South Carolina,SC,3,David Dows,Republican,6.1,False,False,True
+1952,house,South Carolina,SC,4,Joseph R. Bryson,Democratic,100.0,True,True,False
+1952,house,South Carolina,SC,5,James P. Richards,Democratic,93.9,True,True,False
+1952,house,South Carolina,SC,5,Herbert L. Crosland,Republican,6.1,False,False,False
+1952,house,South Carolina,SC,6,John L. McMillan,Democratic,100.0,True,True,False
+1952,house,South Dakota,SD,1,Harold Lovre,Republican,68.5,True,True,False
+1952,house,South Dakota,SD,1,Goldie Wells,Democratic,31.5,False,False,False
+1952,house,South Dakota,SD,2,Ellis Yarnal Berry,Republican,69.0,True,True,False
+1952,house,South Dakota,SD,2,George A. Bangs,Democratic,31.0,False,False,False
+1952,house,Tennessee,TN,1,B. Carroll Reece,Republican,65.9,True,True,False
+1952,house,Tennessee,TN,1,Arthur W. Bright,Democratic,34.1,False,False,False
+1952,house,Tennessee,TN,2,Howard Baker Sr.,Republican,68.9,True,True,False
+1952,house,Tennessee,TN,2,Boyd W. Cox,Democratic,31.1,False,False,False
+1952,house,Tennessee,TN,3,James B. Frazier Jr.,Democratic,70.0,True,True,False
+1952,house,Tennessee,TN,3,Joseph M. Parker,Republican,30.0,False,False,False
+1952,house,Tennessee,TN,4,Joe L. Evins,Democratic,100.0,True,False,True
+1952,house,Tennessee,TN,5,Percy Priest,Democratic,67.5,True,False,False
+1952,house,Tennessee,TN,5,Homer P. Wall,Republican,32.5,False,False,False
+1952,house,Tennessee,TN,6,James Patrick Sutton,Democratic,100.0,True,False,False
+1952,house,Tennessee,TN,7,Tom J. Murray,Democratic,100.0,True,False,False
+1952,house,Tennessee,TN,8,Jere Cooper,Democratic,100.0,True,False,False
+1952,house,Tennessee,TN,9,Clifford Davis,Democratic,85.7,True,False,False
+1952,house,Tennessee,TN,9,William P. Chenault,Independent,14.3,False,False,False
+1952,house,Texas,TX,1,Wright Patman,Democratic,100.0,True,True,False
+1952,house,Texas,TX,2,Jack Brooks,Democratic,79.0,True,False,True
+1952,house,Texas,TX,2,Randolph C. Reed,Republican,21.0,False,False,True
+1952,house,Texas,TX,3,Brady P. Gentry,Democratic,100.0,True,False,True
+1952,house,Texas,TX,4,Sam Rayburn,Democratic,100.0,True,True,False
+1952,house,Texas,TX,5,Joseph Franklin Wilson,Democratic,100.0,True,True,False
+1952,house,Texas,TX,6,Olin E. Teague,Democratic,100.0,True,True,False
+1952,house,Texas,TX,7,John Dowdy,Democratic,100.0,True,True,False
+1952,house,Texas,TX,8,Albert Thomas,Democratic,100.0,True,True,False
+1952,house,Texas,TX,9,Clark W. Thompson,Democratic,100.0,True,True,False
+1952,house,Texas,TX,10,Homer Thornberry,Democratic,100.0,True,True,False
+1952,house,Texas,TX,11,William R. Poage,Democratic,100.0,True,True,False
+1952,house,Texas,TX,12,Wingate H. Lucas,Democratic,100.0,True,True,False
+1952,house,Texas,TX,13,Frank N. Ikard,Democratic,100.0,True,True,False
+1952,house,Texas,TX,14,John E. Lyle Jr.,Democratic,100.0,True,True,False
+1952,house,Texas,TX,15,Lloyd Bentsen,Democratic,100.0,True,True,False
+1952,house,Texas,TX,16,Kenneth M. Regan,Democratic,100.0,True,True,False
+1952,house,Texas,TX,17,Omar Burleson,Democratic,100.0,True,True,False
+1952,house,Texas,TX,18,Walter E. Rogers,Democratic,100.0,True,True,False
+1952,house,Texas,TX,19,George H. Mahon,Democratic,100.0,True,True,False
+1952,house,Texas,TX,20,Paul J. Kilday,Democratic,100.0,True,True,False
+1952,house,Texas,TX,21,O. C. Fisher,Democratic,100.0,True,True,False
+1952,house,Texas,TX,AL,Martin Dies Jr.,Democratic,100.0,True,False,True
+1952,house,Utah,UT,1,Douglas R. Stringfellow,Republican,60.5,True,False,True
+1952,house,Utah,UT,1,Ernest R. McKay,Democratic,39.5,False,False,True
+1952,house,Utah,UT,2,William A. Dawson,Republican,52.5,True,False,False
+1952,house,Utah,UT,2,Reva Beck Bosone,Democratic,47.5,False,True,False
+1952,house,Vermont,VT,AL,Winston L. Prouty,Republican,71.8,True,True,False
+1952,house,Vermont,VT,AL,Herbert B. Comings,Democratic,28.2,False,False,False
+1952,house,Virginia,VA,1,Edward J. Robeson Jr.,Democratic,100.0,True,True,False
+1952,house,Virginia,VA,2,Porter Hardy Jr.,Democratic,100.0,True,True,False
+1952,house,Virginia,VA,3,J. Vaughan Gary,Democratic,57.7,True,True,False
+1952,house,Virginia,VA,3,Walter R. Gambill,Republican,42.3,False,False,False
+1952,house,Virginia,VA,4,Watkins Abbitt,Democratic,100.0,True,True,False
+1952,house,Virginia,VA,5,Thomas B. Stanley,Democratic,100.0,True,True,False
+1952,house,Virginia,VA,6,Richard Harding Poff,Republican,51.5,True,False,False
+1952,house,Virginia,VA,6,Clarence G. Burton,Democratic,48.5,False,True,False
+1952,house,Virginia,VA,7,Burr Harrison,Democratic,79.1,True,True,False
+1952,house,Virginia,VA,7,Glenn W. Ruebush,Republican,20.9,False,False,False
+1952,house,Virginia,VA,8,Howard W. Smith,Democratic,75.8,True,True,False
+1952,house,Virginia,VA,8,Homer G. Richey,Independent,24.2,False,False,False
+1952,house,Virginia,VA,9,William C. Wampler,Republican,51.7,True,False,True
+1952,house,Virginia,VA,9,M. M. Long,Democratic,48.3,False,False,True
+1952,house,Virginia,VA,10,Joel Broyhill,Republican,50.2,True,False,True
+1952,house,Virginia,VA,10,Edmund D. Campbell,Democratic,49.8,False,False,True
+1952,house,Washington,WA,1,Thomas Pelly,Republican,51.4,True,False,True
+1952,house,Washington,WA,1,Stimson Bullitt,Democratic,48.3,False,False,True
+1952,house,Washington,WA,2,Jack Westland,Republican,54.2,True,False,True
+1952,house,Washington,WA,2,Harry F. Henson,Democratic,45.6,False,False,True
+1952,house,Washington,WA,3,Russell V. Mack,Republican,53.3,True,True,False
+1952,house,Washington,WA,3,Gordon M. Quarnstrom,Democratic,46.6,False,False,False
+1952,house,Washington,WA,4,Hal Holmes,Republican,67.5,True,True,False
+1952,house,Washington,WA,4,William Bryan,Democratic,32.5,False,False,False
+1952,house,Washington,WA,5,Walt Horan,Republican,56.0,True,True,False
+1952,house,Washington,WA,5,Robert Dellwo,Democratic,44.0,False,False,False
+1952,house,Washington,WA,6,Thor C. Tollefson,Republican,59.8,True,True,False
+1952,house,Washington,WA,6,John J. O,Democratic,40.2,False,False,False
+1952,house,Washington,WA,AL,Donald H. Magnuson,Democratic,50.5,True,False,True
+1952,house,Washington,WA,AL,Al Canwell,Republican,49.5,False,False,True
+1952,house,West Virginia,WV,1,Bob Mollohan,Democratic,52.9,True,False,False
+1952,house,West Virginia,WV,1,Francis J. Love,Republican,47.1,False,False,False
+1952,house,West Virginia,WV,2,Harley O. Staggers,Democratic,51.5,True,True,False
+1952,house,West Virginia,WV,2,Kermit R. Mason,Republican,48.5,False,False,False
+1952,house,West Virginia,WV,3,Cleveland M. Bailey,Democratic,53.4,True,True,False
+1952,house,West Virginia,WV,3,Frank Love,Republican,46.6,False,False,False
+1952,house,West Virginia,WV,4,Will E. Neal,Republican,53.3,True,False,False
+1952,house,West Virginia,WV,4,Maurice G. Burnside,Democratic,46.7,False,True,False
+1952,house,West Virginia,WV,5,Elizabeth Kee,Democratic,63.8,True,True,False
+1952,house,West Virginia,WV,5,Cyrus H. Gadd,Republican,36.2,False,False,False
+1952,house,West Virginia,WV,6,Robert Byrd,Democratic,55.6,True,False,True
+1952,house,West Virginia,WV,6,Latelle M. LaFollette Jr.,Republican,44.4,False,False,True
+1952,house,Wisconsin,WI,1,Lawrence H. Smith,Republican,59.4,True,True,False
+1952,house,Wisconsin,WI,1,Arnie W. Agnew,Democratic,40.6,False,False,False
+1952,house,Wisconsin,WI,2,Glenn Robert Davis,Republican,62.9,True,True,False
+1952,house,Wisconsin,WI,2,Horace W. Wilkie,Democratic,37.1,False,False,False
+1952,house,Wisconsin,WI,3,Gardner R. Withrow,Republican,75.1,True,True,False
+1952,house,Wisconsin,WI,3,Edna Brown,Democratic,24.9,False,False,False
+1952,house,Wisconsin,WI,4,Clement J. Zablocki,Democratic,64.3,True,True,False
+1952,house,Wisconsin,WI,4,John C. Schafer,Republican,35.7,False,False,False
+1952,house,Wisconsin,WI,5,Charles J. Kersten,Republican,51.6,True,True,False
+1952,house,Wisconsin,WI,5,Andrew Biemiller,Democratic,48.4,False,False,False
+1952,house,Wisconsin,WI,6,William Van Pelt,Republican,71.7,True,True,False
+1952,house,Wisconsin,WI,6,Ralph A. Norem,Democratic,28.3,False,False,False
+1952,house,Wisconsin,WI,7,Melvin Laird,Republican,72.3,True,False,True
+1952,house,Wisconsin,WI,7,Ernest Kluck,Democratic,27.7,False,False,True
+1952,house,Wisconsin,WI,8,John W. Byrnes,Republican,73.6,True,True,False
+1952,house,Wisconsin,WI,8,Robert C. Schultz,Democratic,26.4,False,False,False
+1952,house,Wisconsin,WI,9,Merlin Hull,Republican,65.2,True,True,False
+1952,house,Wisconsin,WI,9,Kent L. Pillsbury,Democratic,34.8,False,False,False
+1952,house,Wisconsin,WI,10,Alvin O'Konski,Republican,67.4,True,False,False
+1952,house,Wisconsin,WI,10,Roland E. Kannenberg,Democratic,32.6,False,False,False
+1952,house,Wyoming,WY,AL,William Henry Harrison III,Republican,60.1,True,True,False
+1952,house,Wyoming,WY,AL,Robert R. Rose Jr.,Democratic,39.9,False,False,False
+1952,house,Alaska,AK,AL,Bob Bartlett,Democratic,56.62,True,True,False
+1952,house,Alaska,AK,AL,Robert C. Reeve,Republican,43.38,False,False,False
+1952,house,Hawaii,HI,AL,Joseph Farrington,Republican,53.68,True,True,False
+1952,house,Hawaii,HI,AL,Delbert Metzger,Democratic,46.32,False,False,False
