@@ -56,46 +56,6 @@ dynamically — no hardcoded state or race lists:
   `presidential` pipeline; see
   [Partisan lean methodology](#partisan-lean-methodology).
 
-### Rate limiting and API etiquette
-
-| Measure | Implementation |
-|---|---|
-| Batched queries | Up to **50 titles per request** (API maximum for non-bot clients) — a 35-race Senate cycle is a single request |
-| Serial requests | `RateLimiter` enforces a configurable minimum interval between requests (default **1 s**) |
-| `maxlag=5` | Standard Wikimedia politeness parameter; backs off when the cluster reports lag |
-| 429 / `Retry-After` | Honoured verbatim before retrying |
-| Transient failures | Exponential backoff with jitter on 5xx, network errors, `maxlag`, and `ratelimited` responses |
-| User-Agent policy | Descriptive, contact-bearing UA per Wikimedia requirement (see configuration) |
-| Redirects | Requested titles transparently resolved to canonical pages |
-
-## Repository layout
-
-```
-├── .github/workflows/update-data.yml   # CI: run pipelines, commit data/
-├── src/                 # all pipeline code
-│   ├── cli.py           # entry point: senate/house/state-leg/statewide/
-│   │                    #   presidential/lean/crosswalk/all/fetch
-│   ├── wiki_utils.py    # rate-limited API client + wikitext helpers
-│   ├── senate_elections.py  # Senate discovery: polling + election boxes
-│   ├── house_elections.py   # House results, 1910–2024 article layouts
-│   ├── state_legislatures.py # State senate/house results
-│   ├── statewide_elections.py # Gov / AG / SoS / treasurer summaries
-│   ├── presidential_elections.py # County-level presidential results
-│   ├── district_lean.py # Predicted partisan lean per district
-│   └── district_counties.py # Geometric district→county crosswalk builder
-├── requirements.txt     # pandas, requests (+ shapely, pyproj for crosswalk)
-├── resources/
-│   └── district_counties.json  # district→county mapping (all 435 districts
-│                               #   + DC, three map vintages)
-└── data/                # pipeline outputs (CSVs + metadata JSON)
-    ├── senate/
-    ├── house/
-    ├── state_senate/
-    ├── state_house/
-    ├── statewide/
-    ├── presidential/
-    └── district_lean/
-```
 
 ## Requirements and installation
 
