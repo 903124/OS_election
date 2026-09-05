@@ -30,8 +30,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Arizona,AZ,6,John Williamson,Democratic,35.1,False,False,False
 2014,house,Arizona,AZ,7,Ruben Gallego,Democratic,74.3,True,False,True
 2014,house,Arizona,AZ,7,Joe Cobb,Libertarian,16.0,False,False,True
+2014,house,Arizona,AZ,7,Rebecca DeWitt,Other,5.7,False,False,True
 2014,house,Arizona,AZ,7,José Peñalosa,Independent,4.0,False,False,True
 2014,house,Arizona,AZ,8,Trent Franks,Republican,75.8,True,True,False
+2014,house,Arizona,AZ,8,Stephen Dolgos,Other,24.2,False,False,False
 2014,house,Arizona,AZ,9,Kyrsten Sinema,Democratic,54.7,True,True,False
 2014,house,Arizona,AZ,9,Wendy Rogers,Republican,41.8,False,False,False
 2014,house,Arizona,AZ,9,Powell Gammill,Libertarian,3.5,False,False,False
@@ -132,7 +134,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,California,CA,42,Tim Sheridan,Democratic,34.3,False,False,False
 2014,house,California,CA,43,Maxine Waters,Democratic,71.0,True,True,False
 2014,house,California,CA,44,Janice Hahn,Democratic,86.7,True,True,False
-2014,house,California,CA,44,Peace & Freedom,Unknown,13.3,False,False,False
+2014,house,California,CA,44,Adam Shbeita,Peace & Freedom,13.3,False,False,False
 2014,house,California,CA,45,Mimi Walters,Republican,65.1,True,False,True
 2014,house,California,CA,45,Drew Leavens,Democratic,34.9,False,False,True
 2014,house,California,CA,46,Loretta Sanchez,Democratic,59.7,True,True,False
@@ -455,11 +457,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Michigan,MI,2,Bill Huizenga,Republican,63.6,True,True,False
 2014,house,Michigan,MI,2,Dean Vanderstelt,Democratic,33.3,False,False,False
 2014,house,Michigan,MI,2,Ronald Welch,Libertarian,1.8,False,False,False
+2014,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,1.3,False,False,False
 2014,house,Michigan,MI,3,Justin Amash,Republican,57.9,True,True,False
 2014,house,Michigan,MI,3,Bob Goodrich,Democratic,39.0,False,False,False
 2014,house,Michigan,MI,3,Tonya Duncan,Green,3.1,False,False,False
 2014,house,Michigan,MI,4,John Moolenaar,Republican,56.5,True,False,True
 2014,house,Michigan,MI,4,Jeff Holmes,Democratic,39.1,False,False,True
+2014,house,Michigan,MI,4,George Zimmer,US Taxpayers,2.3,False,False,True
 2014,house,Michigan,MI,4,Will White,Libertarian,2.1,False,False,True
 2014,house,Michigan,MI,5,Dan Kildee,Democratic,66.7,True,True,False
 2014,house,Michigan,MI,5,Allen Hardwick,Republican,31.2,False,False,False
@@ -472,10 +476,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Michigan,MI,7,Pam Byrnes,Democratic,41.2,False,False,False
 2014,house,Michigan,MI,7,Ken Proctor,Libertarian,2.0,False,False,False
 2014,house,Michigan,MI,7,David Swartout,Independent,2.0,False,False,False
+2014,house,Michigan,MI,7,Rick Strawcutter,US Taxpayers,1.4,False,False,False
 2014,house,Michigan,MI,8,Mike Bishop,Republican,54.6,True,False,True
 2014,house,Michigan,MI,8,Eric Schertzing,Democratic,42.1,False,False,True
 2014,house,Michigan,MI,8,James Weeks,Libertarian,1.9,False,False,True
 2014,house,Michigan,MI,8,Jim Casha,Green,0.8,False,False,True
+2014,house,Michigan,MI,8,Jeremy Burgess,Natural Law,0.7,False,False,True
 2014,house,Michigan,MI,9,Sander Levin,Democratic,60.4,True,True,False
 2014,house,Michigan,MI,9,George Brikho,Republican,36.1,False,False,False
 2014,house,Michigan,MI,9,Greg Creswell,Libertarian,2.1,False,False,False
@@ -507,10 +513,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Minnesota,MN,3,Sharon Sund,DFL,37.8,False,False,False
 2014,house,Minnesota,MN,4,Betty McCollum,DFL,61.2,True,False,False
 2014,house,Minnesota,MN,4,Sharna Wahlgren,Republican,32.9,False,False,False
+2014,house,Minnesota,MN,4,Dave Thomas,Independence Party (Minnesota),5.8,False,False,False
 2014,house,Minnesota,MN,5,Keith Ellison,DFL,70.9,True,False,False
 2014,house,Minnesota,MN,5,Doug Daggett,Republican,24.0,False,False,False
+2014,house,Minnesota,MN,5,Lee Bauer,Independence Party (Minnesota),5.1,False,False,False
 2014,house,Minnesota,MN,6,Tom Emmer,Republican,56.3,True,False,True
 2014,house,Minnesota,MN,6,Joe Perske,DFL,38.4,False,False,True
+2014,house,Minnesota,MN,6,John Denney,Independence Party (Minnesota),5.3,False,False,True
 2014,house,Minnesota,MN,7,Collin Peterson,DFL,54.3,True,False,False
 2014,house,Minnesota,MN,7,Torrey Westrom,Republican,45.7,False,False,False
 2014,house,Minnesota,MN,8,Rick Nolan,DFL,48.5,True,False,True
@@ -519,15 +528,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Mississippi,MS,1,Alan Nunnelee,Republican,67.9,True,True,False
 2014,house,Mississippi,MS,1,Ron Dickey,Democratic,28.9,False,False,False
 2014,house,Mississippi,MS,1,Danny Bedwell,Libertarian,2.5,False,False,False
+2014,house,Mississippi,MS,1,Lajena Walley,Reform,0.6,False,False,False
 2014,house,Mississippi,MS,2,Bennie Thompson,Democratic,67.7,True,True,False
 2014,house,Mississippi,MS,2,Troy Ray,Independent,24.5,False,False,False
+2014,house,Mississippi,MS,2,Shelley Shoemake,Reform,7.7,False,False,False
 2014,house,Mississippi,MS,3,Gregg Harper,Republican,68.9,True,True,False
 2014,house,Mississippi,MS,3,Doug Magee,Democratic,27.9,False,False,False
 2014,house,Mississippi,MS,3,Roger Gerrard,Independent,2.3,False,False,False
+2014,house,Mississippi,MS,3,Barbara Dale Washer,Reform,0.9,False,False,False
 2014,house,Mississippi,MS,4,Steven Palazzo,Republican,69.9,True,True,False
 2014,house,Mississippi,MS,4,Matt Moore,Democratic,24.3,False,False,False
 2014,house,Mississippi,MS,4,Cindy Burleson,Independent,2.4,False,False,False
 2014,house,Mississippi,MS,4,Joey Robinson,Libertarian,2.2,False,False,False
+2014,house,Mississippi,MS,4,Eli Jackson,Reform,0.6,False,False,False
 2014,house,Mississippi,MS,4,Ed Reich,Independent,0.6,False,False,False
 2014,house,Missouri,MO,1,Lacy Clay,Democratic,72.9,True,True,False
 2014,house,Missouri,MO,1,Daniel Elder,Republican,21.6,False,False,False
@@ -553,6 +566,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Missouri,MO,8,Jason T. Smith,Republican,66.7,True,True,False
 2014,house,Missouri,MO,8,Barbara Stocker,Democratic,24.3,False,False,False
 2014,house,Missouri,MO,8,Terry Hampton,Independent,4.3,False,False,False
+2014,house,Missouri,MO,8,Doug Enyart,Constitution,2.4,False,False,False
 2014,house,Missouri,MO,8,Rick Vandeven,Libertarian,2.4,False,False,False
 2014,house,Montana,MT,AL,Ryan Zinke,Republican,55.4,True,False,True
 2014,house,Montana,MT,AL,John Lewis,Democratic,40.4,False,False,True
@@ -567,8 +581,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Nevada,NV,1,Dina Titus,Democratic,56.8,True,True,False
 2014,house,Nevada,NV,1,Annette Teijeiro,Republican,37.9,False,False,False
 2014,house,Nevada,NV,1,Richard Charles,Libertarian,3.3,False,False,False
+2014,house,Nevada,NV,1,Kamau Bakari,Independent American,2.0,False,False,False
 2014,house,Nevada,NV,2,Mark Amodei,Republican,65.8,True,True,False
 2014,house,Nevada,NV,2,Kristen Spees,Democratic,27.9,False,False,False
+2014,house,Nevada,NV,2,Janine Hansen,Independent American,6.3,False,False,False
 2014,house,Nevada,NV,3,Joe Heck,Republican,60.8,True,True,False
 2014,house,Nevada,NV,3,Erin Bilbray,Democratic,36.1,False,False,False
 2014,house,Nevada,NV,3,David Goossen,Independent,1.1,False,False,False
@@ -577,6 +593,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Nevada,NV,4,Cresent Hardy,Republican,48.5,True,False,False
 2014,house,Nevada,NV,4,Steven Horsford,Democratic,45.8,False,True,False
 2014,house,Nevada,NV,4,Steve Brown,Libertarian,3.2,False,False,False
+2014,house,Nevada,NV,4,Russell Best,Independent American,2.6,False,False,False
 2014,house,New Hampshire,NH,1,Frank Guinta,Republican,51.8,True,False,False
 2014,house,New Hampshire,NH,1,Carol Shea-Porter,Democratic,48.2,False,True,False
 2014,house,New Hampshire,NH,2,Ann McLane Kuster,Democratic,55.0,True,True,False
@@ -587,12 +604,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,New Jersey,NJ,1,Margaret Chapman,Independent,0.7,False,False,True
 2014,house,New Jersey,NJ,1,Robert Shapiro,Independent,0.7,False,False,True
 2014,house,New Jersey,NJ,1,Mike Berman,Independent,0.4,False,False,True
+2014,house,New Jersey,NJ,1,Don Letton,D-R,0.3,False,False,True
 2014,house,New Jersey,NJ,2,Frank LoBiondo,Republican,61.4,True,True,False
 2014,house,New Jersey,NJ,2,Bill Hughes Jr.,Democratic,37.3,False,False,False
+2014,house,New Jersey,NJ,2,Alexander Spano,D-R,0.4,False,False,False
+2014,house,New Jersey,NJ,2,Constantino Rozzo,American Labor,0.3,False,False,False
 2014,house,New Jersey,NJ,2,Bayo Olabisi,Independent,0.3,False,False,False
 2014,house,New Jersey,NJ,2,Gary Stein,Independent,0.3,False,False,False
 2014,house,New Jersey,NJ,3,Tom MacArthur,Republican,54.0,True,False,True
 2014,house,New Jersey,NJ,3,Aimee Belgard,Democratic,44.3,False,False,True
+2014,house,New Jersey,NJ,3,Frederick John LaVergne,D-R,1.7,False,False,True
 2014,house,New Jersey,NJ,4,Chris Smith,Republican,68.0,True,False,False
 2014,house,New Jersey,NJ,4,Ruben Scolavino,Democratic,31.1,False,False,False
 2014,house,New Jersey,NJ,4,Scott Neuman,Independent,0.9,False,False,False
@@ -625,6 +646,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,New Jersey,NJ,12,Steven Welzer,Green,0.6,False,False,True
 2014,house,New Jersey,NJ,12,Ken Cody,Independent,0.4,False,False,True
 2014,house,New Jersey,NJ,12,Jack Freudenheim,Independent,0.4,False,False,True
+2014,house,New Jersey,NJ,12,Allen Cannon,D-R,0.3,False,False,True
 2014,house,New Mexico,NM,1,Michelle Luján Grisham,Democratic,58.6,True,True,False
 2014,house,New Mexico,NM,1,Mike Frese,Republican,41.4,False,False,False
 2014,house,New Mexico,NM,2,Steve Pearce,Republican,64.5,True,False,True
@@ -645,9 +667,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,New York,NY,6,Grace Meng,Democratic,98.8,True,True,False
 2014,house,New York,NY,7,Nydia Velázquez,Democratic,88.7,True,True,False
 2014,house,New York,NY,7,Jose Luis Fernandez,Republican,9.0,False,False,False
+2014,house,New York,NY,7,Allan Romaguera,Conservative,2.2,False,False,False
 2014,house,New York,NY,8,Hakeem Jeffries,Democratic,92.0,True,True,False
+2014,house,New York,NY,8,Alan Bellone,Conservative,7.9,False,False,False
 2014,house,New York,NY,9,Yvette Clarke,Democratic,89.3,True,True,False
+2014,house,New York,NY,9,Daniel Cavanagh,Conservative,10.5,False,False,False
 2014,house,New York,NY,10,Jerrold Nadler,Democratic,87.4,True,True,False
+2014,house,New York,NY,10,Ross Brady,Conservative,11.8,False,False,False
+2014,house,New York,NY,10,Michael Dilger,America First,0.5,False,False,False
 2014,house,New York,NY,11,Michael Grimm,Republican,54.9,True,False,False
 2014,house,New York,NY,11,Domenic Recchia,Democratic,42.1,False,False,False
 2014,house,New York,NY,11,Henry Bardel,Green,2.5,False,False,False
@@ -656,7 +683,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,New York,NY,13,Charles Rangel,Democratic,87.3,True,True,False
 2014,house,New York,NY,13,Daniel Vila,Green,12.5,False,False,False
 2014,house,New York,NY,14,Joe Crowley,Democratic,88.0,True,True,False
+2014,house,New York,NY,14,Elizabeth Perri,Conservative,11.8,False,False,False
 2014,house,New York,NY,15,José E. Serrano,Democratic,97.1,True,True,False
+2014,house,New York,NY,15,Eduardo Ramirez,Conservative,1.9,False,False,False
 2014,house,New York,NY,15,Bill Edstrom,Green,1.0,False,False,False
 2014,house,New York,NY,16,Eliot Engel,Democratic,99.3,True,True,False
 2014,house,New York,NY,17,Nita Lowey,Democratic,56.4,True,True,False
@@ -728,6 +757,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Ohio,OH,7,Bob Gibbs,Republican,100.0,True,True,False
 2014,house,Ohio,OH,8,John Boehner,Republican,67.2,True,True,False
 2014,house,Ohio,OH,8,Tom Poetter,Democratic,27.4,False,False,False
+2014,house,Ohio,OH,8,Jim Condit Jr.,Constitution,5.4,False,False,False
 2014,house,Ohio,OH,9,Marcy Kaptur,Democratic,67.7,True,True,False
 2014,house,Ohio,OH,9,Richard May,Republican,32.3,False,False,False
 2014,house,Ohio,OH,10,Mike Turner,Republican,65.2,True,True,False
@@ -764,18 +794,22 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Oregon,OR,1,Suzanne Bonamici,Democratic,57.6,True,True,False
 2014,house,Oregon,OR,1,Jason Yates,Republican,34.6,False,False,False
 2014,house,Oregon,OR,1,James Foster,Libertarian,3.9,False,False,False
+2014,house,Oregon,OR,1,Steven Reynolds,Pacific Green,3.8,False,False,False
 2014,house,Oregon,OR,2,Greg Walden,Republican,70.4,True,True,False
 2014,house,Oregon,OR,2,Aelea Cristofferson,Democratic,25.7,False,False,False
 2014,house,Oregon,OR,2,Sharon Durbin,Libertarian,3.9,False,False,False
 2014,house,Oregon,OR,3,Earl Blumenauer,Democratic,73.0,True,True,False
 2014,house,Oregon,OR,3,James Buchal,Republican,19.5,False,False,False
+2014,house,Oregon,OR,3,Michael Meo,Pacific Green,4.0,False,False,False
 2014,house,Oregon,OR,3,Jeffrey Langan,Libertarian,2.1,False,False,False
 2014,house,Oregon,OR,4,Peter DeFazio,Democratic,58.6,True,True,False
 2014,house,Oregon,OR,4,Art Robinson,Republican,37.7,False,False,False
+2014,house,Oregon,OR,4,Mike Beilstein,Pacific Green,2.2,False,False,False
 2014,house,Oregon,OR,4,David Chester,Libertarian,1.5,False,False,False
 2014,house,Oregon,OR,5,Kurt Schrader,Democratic,53.9,True,True,False
 2014,house,Oregon,OR,5,Tootie Smith,Republican,39.4,False,False,False
 2014,house,Oregon,OR,5,Marvin Sannes,Independent,2.7,False,False,False
+2014,house,Oregon,OR,5,Raymond Baldwin,Constitution,2.2,False,False,False
 2014,house,Oregon,OR,5,Daniel Souza,Libertarian,1.8,False,False,False
 2014,house,Pennsylvania,PA,1,Bob Brady,Democratic,82.8,True,True,False
 2014,house,Pennsylvania,PA,1,Megan Rath,Republican,17.2,False,False,False
@@ -818,6 +852,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,South Carolina,SC,1,Mark Sanford,Republican,100.0,True,True,True
 2014,house,South Carolina,SC,2,Joe Wilson,Republican,62.4,True,False,False
 2014,house,South Carolina,SC,2,Phil Black,Democratic,35.3,False,False,False
+2014,house,South Carolina,SC,2,Harold Geddings III,Labor,2.3,False,False,False
 2014,house,South Carolina,SC,3,Jeff Duncan,Republican,71.2,True,False,False
 2014,house,South Carolina,SC,3,Barbara Jo Mullis,Democratic,28.8,False,False,False
 2014,house,South Carolina,SC,4,Trey Gowdy,Republican,84.8,True,True,False
@@ -856,6 +891,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Tennessee,TN,7,Lenny Ladner,Libertarian,3.2,False,False,False
 2014,house,Tennessee,TN,8,Stephen Fincher,Republican,70.8,True,True,False
 2014,house,Tennessee,TN,8,Wes Bradley,Democratic,24.6,False,False,False
+2014,house,Tennessee,TN,8,Mark Rawles,Constitution,2.6,False,False,False
 2014,house,Tennessee,TN,8,James Hart,Independent,2.0,False,False,False
 2014,house,Tennessee,TN,9,Steve Cohen,Democratic,75.0,True,True,False
 2014,house,Tennessee,TN,9,Charlotte Bergmann,Republican,23.3,False,False,False
@@ -966,23 +1002,31 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Utah,UT,1,Rob Bishop,Republican,64.2,True,True,False
 2014,house,Utah,UT,1,Donna McAleer,Democratic,29.0,False,False,False
 2014,house,Utah,UT,1,Craig Bowden,Libertarian,3.6,False,False,False
+2014,house,Utah,UT,1,Dwayne Vance,Independent American,3.2,False,False,False
 2014,house,Utah,UT,2,Chris Stewart,Republican,60.4,True,False,False
 2014,house,Utah,UT,2,Luz Robles,Democratic,33.2,False,False,False
+2014,house,Utah,UT,2,Shaun McCausland,Constitution,3.0,False,False,False
+2014,house,Utah,UT,2,Wayne Hill,Independent American,2.3,False,False,False
 2014,house,Utah,UT,2,Bill Barron,Independent,1.1,False,False,False
 2014,house,Utah,UT,3,Jason Chaffetz,Republican,72.2,True,True,False
 2014,house,Utah,UT,3,Brian Wonnacott,Democratic,22.5,False,False,False
+2014,house,Utah,UT,3,Zack Strong,Independent American,2.2,False,False,False
 2014,house,Utah,UT,3,Stephen Tryon,Independent,1.8,False,False,False
 2014,house,Utah,UT,3,Ben Mates,Independent,1.0,False,False,False
 2014,house,Utah,UT,4,Mia Love,Republican,50.9,True,False,True
 2014,house,Utah,UT,4,Doug Owens,Democratic,45.8,False,False,True
+2014,house,Utah,UT,4,Tim Aalders,Independent American,1.4,False,False,True
 2014,house,Utah,UT,4,Jim Vein,Libertarian,0.9,False,False,True
+2014,house,Utah,UT,4,Collin Simonsen,Constitution,0.9,False,False,True
 2014,house,Vermont,VT,AL,Peter Welch,Democratic,64.4,True,True,False
 2014,house,Vermont,VT,AL,Mark Donka,Republican,31.0,False,False,False
 2014,house,Vermont,VT,AL,Cris Ericson,Independent,1.4,False,False,False
+2014,house,Vermont,VT,AL,Matthew Andrews,Liberty Union,1.1,False,False,False
 2014,house,Vermont,VT,AL,Jerry Trudell,Independent,1.1,False,False,False
 2014,house,Vermont,VT,AL,Randall Meyer,Independent,0.9,False,False,False
 2014,house,Virginia,VA,1,Rob Wittman,Republican,62.9,True,True,False
 2014,house,Virginia,VA,1,Norm Mosher,Democratic,34.4,False,False,False
+2014,house,Virginia,VA,1,Gail Parker,Independent Greens of Virginia,2.7,False,False,False
 2014,house,Virginia,VA,2,Scott Rigell,Republican,58.8,True,True,False
 2014,house,Virginia,VA,2,Suzanne Patrick,Democratic,41.2,False,False,False
 2014,house,Virginia,VA,3,Bobby Scott,Democratic,94.4,True,False,False
@@ -992,8 +1036,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Virginia,VA,5,Robert Hurt,Republican,60.9,True,True,False
 2014,house,Virginia,VA,5,Lawrence Gaughan,Democratic,35.9,False,False,False
 2014,house,Virginia,VA,5,Paul Jones,Libertarian,2.1,False,False,False
+2014,house,Virginia,VA,5,Ken Hildebrandt,Independent Greens of Virginia,1.1,False,False,False
 2014,house,Virginia,VA,6,Bob Goodlatte,Republican,75.5,True,True,False
 2014,house,Virginia,VA,6,Will Hammer,Libertarian,12.5,False,False,False
+2014,house,Virginia,VA,6,Elaine Hildebrandt,Independent Greens of Virginia,12.0,False,False,False
 2014,house,Virginia,VA,7,Dave Brat,Republican,60.8,True,False,True
 2014,house,Virginia,VA,7,Jack Trammell,Democratic,37.0,False,False,True
 2014,house,Virginia,VA,7,James Carr,Libertarian,2.1,False,False,True
@@ -1001,12 +1047,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Virginia,VA,8,Micah Edmond,Republican,31.5,False,False,True
 2014,house,Virginia,VA,8,Gwendolyn Beck,Independent,2.7,False,False,True
 2014,house,Virginia,VA,8,Jeffrey Carson,Libertarian,2.2,False,False,True
+2014,house,Virginia,VA,8,Gerard Blais,Independent Greens of Virginia,0.5,False,False,True
 2014,house,Virginia,VA,9,Morgan Griffith,Republican,72.2,True,True,False
 2014,house,Virginia,VA,9,William Carr,Independent,27.8,False,False,False
 2014,house,Virginia,VA,10,Barbara Comstock,Republican,56.6,True,False,True
 2014,house,Virginia,VA,10,John Foust,Democratic,40.4,False,False,True
 2014,house,Virginia,VA,10,Bill Redpath,Libertarian,1.5,False,False,True
 2014,house,Virginia,VA,10,Brad Eickholt,Independent,1.1,False,False,True
+2014,house,Virginia,VA,10,Dianne Blais,Independent Greens of Virginia,0.4,False,False,True
 2014,house,Virginia,VA,11,Gerry Connolly,Democratic,56.9,True,True,False
 2014,house,Virginia,VA,11,Suzanne Scholte,Republican,40.4,False,False,False
 2014,house,Virginia,VA,11,Marc Harrold,Libertarian,1.7,False,False,False
@@ -1061,6 +1109,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,Wyoming,WY,AL,Cynthia Lummis,Republican,68.5,True,True,False
 2014,house,Wyoming,WY,AL,Richard Grayson,Democratic,23.0,False,False,False
 2014,house,Wyoming,WY,AL,Richard Brubaker,Libertarian,4.3,False,False,False
+2014,house,Wyoming,WY,AL,Daniel Cummings,Constitution,4.1,False,False,False
 2014,house,American Samoa,AM,AL,Aumua Amata Radewagen,Republican,42.03,True,False,False
 2014,house,American Samoa,AM,AL,Eni Faleomavaega,Democratic,30.81,False,True,False
 2014,house,American Samoa,AM,AL,Togiola Tulafono,Democratic,11.03,False,False,False
@@ -1073,6 +1122,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2014,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,83.92,True,True,False
 2014,house,District of Columbia,DC,AL,Nelson Rimensnyder,Republican,6.63,False,False,False
 2014,house,District of Columbia,DC,AL,Tim Krepp,Independent,5.34,False,False,False
+2014,house,District of Columbia,DC,AL,Natale Stracuzzi,D.C. Statehood Green,3.44,False,False,False
 2014,house,Guam,GU,AL,Madeleine Bordallo,Democratic,60.5,True,True,False
 2014,house,Guam,GU,AL,Margaret Metcalfe,Republican,39.5,False,False,False
 2014,house,Northern Mariana Islands,NO,AL,Gregorio Sablan,Independent,65.28,True,True,False

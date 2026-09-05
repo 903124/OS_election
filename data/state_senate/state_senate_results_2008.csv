@@ -1,0 +1,474 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2008,Arizona,AZ,State Senate,1,general,Steve Pierce,Republican,58612,60.98,True,False
+2008,Arizona,AZ,State Senate,1,general,Pat Chancerelle,Democratic,37512,39.02,False,False
+2008,Arizona,AZ,State Senate,2,general,Albert Hale,Democratic,42241,72.91,True,True
+2008,Arizona,AZ,State Senate,2,general,Royce Jenkins,Republican,15693,27.09,False,False
+2008,Arizona,AZ,State Senate,3,general,Ron Gould,Republican,42730,62.63,True,True
+2008,Arizona,AZ,State Senate,3,general,Mary Landahl,Democratic,25499,37.37,False,False
+2008,Arizona,AZ,State Senate,4,general,Jack Harper,Republican,73097,60.67,True,True
+2008,Arizona,AZ,State Senate,4,general,Robert Boehlke,Democratic,47394,39.33,False,False
+2008,Arizona,AZ,State Senate,5,general,Sylvia Tenney Allen,Republican,36347,54.48,True,False
+2008,Arizona,AZ,State Senate,5,general,Bill Jeffers,Democratic,30365,45.52,False,False
+2008,Arizona,AZ,State Senate,6,general,Pamela Gorman,Republican,47116,59.87,True,True
+2008,Arizona,AZ,State Senate,6,general,Jim Larson,Democratic,31579,40.13,False,False
+2008,Arizona,AZ,State Senate,7,general,Jim Waring,Republican,46673,57.82,True,True
+2008,Arizona,AZ,State Senate,7,general,Lisa Black,Democratic,31583,39.13,False,False
+2008,Arizona,AZ,State Senate,7,general,Dennis G. Grenier,Libertarian,2465,3.05,False,False
+2008,Arizona,AZ,State Senate,8,general,Carolyn S. Allen,Republican,71125,100.0,True,True
+2008,Arizona,AZ,State Senate,9,general,"Robert ""Bob"" Burns",Republican,40214,55.51,True,True
+2008,Arizona,AZ,State Senate,9,general,Karen Price,Democratic,32236,44.49,False,False
+2008,Arizona,AZ,State Senate,10,general,Linda Gray,Republican,27445,55.26,True,True
+2008,Arizona,AZ,State Senate,10,general,Martin Monroe,Democratic,22218,44.74,False,False
+2008,Arizona,AZ,State Senate,11,general,Barbara Leff,Republican,43702,54.57,True,True
+2008,Arizona,AZ,State Senate,11,general,Ann Wallack,Democratic,36376,45.43,False,False
+2008,Arizona,AZ,State Senate,12,general,John Nelson,Republican,52552,52.49,True,False
+2008,Arizona,AZ,State Senate,12,general,Angela Cotera,Democratic,47562,47.51,False,False
+2008,Arizona,AZ,State Senate,13,general,Richard Miranda,Democratic,23816,100.0,True,True
+2008,Arizona,AZ,State Senate,14,general,Debbie McCune-Davis,Democratic,16033,82.45,True,True
+2008,Arizona,AZ,State Senate,14,general,Mike Renzulli,Libertarian,3391,17.44,False,False
+2008,Arizona,AZ,State Senate,14,general,C.J. Becker,Independent,22,0.11,False,False
+2008,Arizona,AZ,State Senate,15,general,Ken Cheuvront,Democratic,30321,100.0,True,True
+2008,Arizona,AZ,State Senate,16,general,Leah Landrum,Democratic,33368,73.31,True,True
+2008,Arizona,AZ,State Senate,16,general,Daniel J. Veres,Republican,12149,26.69,False,False
+2008,Arizona,AZ,State Senate,17,general,Meg Burton-Cahill,Democratic,35720,61.56,True,True
+2008,Arizona,AZ,State Senate,17,general,Jesse Hernandez,Republican,22303,38.44,False,False
+2008,Arizona,AZ,State Senate,18,general,Russell Pearce,Republican,24232,56.19,True,False
+2008,Arizona,AZ,State Senate,18,general,Judah Nativio,Democratic,18889,43.8,False,False
+2008,Arizona,AZ,State Senate,18,general,Ilias Kostopoulos,Independent,2,0.0,False,False
+2008,Arizona,AZ,State Senate,19,general,Chuck Gray,Republican,58870,100.0,True,True
+2008,Arizona,AZ,State Senate,20,general,John Huppenthal,Republican,44245,56.24,True,True
+2008,Arizona,AZ,State Senate,20,general,Ted Maish,Democratic,34426,43.76,False,False
+2008,Arizona,AZ,State Senate,21,general,Jay Tibshraeny,Republican,77426,100.0,True,True
+2008,Arizona,AZ,State Senate,22,general,Thayer Verschoor,Republican,81332,100.0,True,True
+2008,Arizona,AZ,State Senate,23,general,Rebecca Rios,Democratic,48203,56.73,True,True
+2008,Arizona,AZ,State Senate,23,general,André Campos,Republican,36772,43.27,False,False
+2008,Arizona,AZ,State Senate,24,general,Amanda Aguirre,Democratic,29718,76.43,True,True
+2008,Arizona,AZ,State Senate,24,general,Jack Kretzer,Green,9167,23.57,False,False
+2008,Arizona,AZ,State Senate,25,general,"Manuel V. ""Manny"" Alvarez",Democratic,34269,52.74,True,False
+2008,Arizona,AZ,State Senate,25,general,Mary Ann Black,Republican,30703,47.26,False,False
+2008,Arizona,AZ,State Senate,26,general,Al Melvin,Republican,48191,51.04,True,False
+2008,Arizona,AZ,State Senate,26,general,Cheryl A. Cage,Democratic,46225,48.96,False,False
+2008,Arizona,AZ,State Senate,27,general,Jorge Luis Garcia,Democratic,38480,67.24,True,True
+2008,Arizona,AZ,State Senate,27,general,Bob Westerman,Republican,18749,32.76,False,False
+2008,Arizona,AZ,State Senate,28,general,Paula Aboud,Democratic,53343,100.0,True,True
+2008,Arizona,AZ,State Senate,29,general,Linda Lopez,Democratic,37248,100.0,True,False
+2008,Arizona,AZ,State Senate,30,general,Jonathan Paton,Republican,64355,60.04,True,False
+2008,Arizona,AZ,State Senate,30,general,Georgette W. Valle,Democratic,42827,39.96,False,False
+2008,California,CA,State Senate,1,general,Dave Cox,Republican,267426,62.27,True,True
+2008,California,CA,State Senate,1,general,Anselmo Chavez,Democratic,162044,37.73,False,False
+2008,California,CA,State Senate,3,general,Mark Leno,Democratic,326755,80.21,True,False
+2008,California,CA,State Senate,3,general,Sashi McEntee,Republican,80617,19.79,False,False
+2008,California,CA,State Senate,5,general,Lois Wolk,Democratic,207108,64.54,True,False
+2008,California,CA,State Senate,5,general,Greg Aghazarian,Republican,113778,35.46,False,False
+2008,California,CA,State Senate,7,general,Mark DeSaulnier,Democratic,256311,66.54,True,False
+2008,California,CA,State Senate,7,general,Christian Amsberry,Republican,128878,33.46,False,False
+2008,California,CA,State Senate,9,general,Loni Hancock,Democratic,272225,77.22,True,False
+2008,California,CA,State Senate,9,general,Claudia Bermudez,Republican,53299,15.12,False,False
+2008,California,CA,State Senate,9,general,Marsha Feinland,Freedom,26996,7.66,False,False
+2008,California,CA,State Senate,11,general,Joe Simitian,Democratic,272154,74.82,True,True
+2008,California,CA,State Senate,11,general,Blair Nathan,Republican,91592,25.18,False,False
+2008,California,CA,State Senate,13,general,Elaine Alquist,Democratic,179855,70.94,True,True
+2008,California,CA,State Senate,13,general,Shane Connolly,Republican,57033,22.49,False,False
+2008,California,CA,State Senate,13,general,John Webster,Libertarian,16659,6.57,False,False
+2008,California,CA,State Senate,15,general,Abel Maldonado,Republican,222617,62.91,True,True
+2008,California,CA,State Senate,15,general,Jim Fitzgerald,Independent (politician),131229,37.09,False,False
+2008,California,CA,State Senate,17,general,George Runner,Republican,182295,54.85,True,True
+2008,California,CA,State Senate,17,general,Bruce McFarland,Democratic,150060,45.15,False,False
+2008,California,CA,State Senate,19,general,Tony Strickland,Republican,207976,50.1,True,False
+2008,California,CA,State Senate,19,general,Hannah-Beth Jackson,Democratic,207119,49.9,False,False
+2008,California,CA,State Senate,19,general,Peter Diederich (write-in),Independent (politician),14,0.0,False,False
+2008,California,CA,State Senate,21,general,Carol Liu,Democratic,204737,66.88,True,False
+2008,California,CA,State Senate,21,general,Teddy Choi,Republican,77525,25.33,False,False
+2008,California,CA,State Senate,21,general,Steve Myers,Libertarian,23842,7.79,False,False
+2008,California,CA,State Senate,23,general,Fran Pavley,Democratic,238172,67.4,True,False
+2008,California,CA,State Senate,23,general,Rick Montaine,Republican,96274,27.25,False,False
+2008,California,CA,State Senate,23,general,Colin Goldman,Libertarian,18906,5.35,False,False
+2008,California,CA,State Senate,25,general,Roderick Wright,Democratic,179654,71.9,True,False
+2008,California,CA,State Senate,25,general,Lydia Gutierrez,Republican,70199,28.1,False,False
+2008,California,CA,State Senate,27,general,Alan Lowenthal,Democratic,171668,67.34,True,True
+2008,California,CA,State Senate,27,general,Allen Wood,Republican,83268,32.66,False,False
+2008,California,CA,State Senate,29,general,Bob Huff,Republican,178155,54.37,True,False
+2008,California,CA,State Senate,29,general,Joseph Lyons,Democratic,127536,38.92,False,False
+2008,California,CA,State Senate,29,general,Jill Stone,Libertarian,21983,6.71,False,False
+2008,California,CA,State Senate,31,general,Robert Dutton,Republican,186191,58.7,True,True
+2008,California,CA,State Senate,31,general,Ameenah Fuller,Democratic,130973,41.29,False,False
+2008,California,CA,State Senate,31,general,Denise Sternberg (write-in),Independent (politician),5,0.0,False,False
+2008,California,CA,State Senate,33,general,Mimi Walters,Republican,219068,58.11,True,False
+2008,California,CA,State Senate,33,general,Gary Pritchard,Democratic,157945,41.89,False,False
+2008,California,CA,State Senate,35,general,Tom Harman,Republican,222149,58.55,True,True
+2008,California,CA,State Senate,35,general,Ginny Meyer,Democratic,157271,41.45,False,False
+2008,California,CA,State Senate,37,general,John Benoit,Republican,190415,54.79,True,False
+2008,California,CA,State Senate,37,general,Arthur Guerrero,Democratic,157142,45.21,False,False
+2008,California,CA,State Senate,39,general,Christine Kehoe,Democratic,227475,65.21,True,True
+2008,California,CA,State Senate,39,general,Jeff Perwin,Republican,108606,31.13,False,False
+2008,California,CA,State Senate,39,general,Jesse Thomas,Libertarian,12742,3.65,False,False
+2008,Connecticut,CT,State Senate,1,general,"John W. Fonfara 18,898 WF TP",,,,True,False
+2008,Connecticut,CT,State Senate,2,general,"Bloomfield (part), Hartford (part), Windsor (part)",,,,True,False
+2008,Connecticut,CT,State Senate,3,general,"East Hartford, East Windsor, Ellington, South Windsor",,,,True,False
+2008,Connecticut,CT,State Senate,4,general,"Bolton, Glastonbury, Manchester, Marlborough",,,,True,False
+2008,Connecticut,CT,State Senate,5,general,"Bloomfield (part), Burlington, Farmington (part), West Hartford",,,,True,False
+2008,Connecticut,CT,State Senate,6,general,"Berlin, Farmington (part), New Britain",,,,True,False
+2008,Connecticut,CT,State Senate,7,general,"East Granby, Enfield, Granby (part), Somers, Suffield, Windsor (part), Windsor Locks",,,,True,False
+2008,Connecticut,CT,State Senate,8,general,"Avon, Barkhamsted, Canton, Colebrook, Granby (part), Hartland, Harwinton (part), New Hartford, Norfolk, Simsbury, Torrington (part)",,,,True,False
+2008,Connecticut,CT,State Senate,9,general,"Cromwell, Middletown (part), Newington, Rocky Hill, Wethersfield (part)",,,,True,False
+2008,Connecticut,CT,State Senate,10,general,"New Haven (part), West Haven (part)",,,,True,False
+2008,Connecticut,CT,State Senate,11,general,"Hamden (part), New Haven (part)",,,,True,False
+2008,Connecticut,CT,State Senate,12,general,"Branford, Durham, Gilford, Killingworth, Madison, North Branford",,,,True,False
+2008,Connecticut,CT,State Senate,13,general,"Cheshire (part), Meriden, Middlefield, Middletown (part)",,,,True,False
+2008,Connecticut,CT,State Senate,14,general,"Milford, Orange, West Haven (part)",,,,True,False
+2008,Connecticut,CT,State Senate,15,general,"Naugatuck (part), Prospect, Waterbury (part)",,,,True,False
+2008,Connecticut,CT,State Senate,16,general,"Cheshire (part), Southington, Waterbury (part), Wolcott",,,,True,False
+2008,Connecticut,CT,State Senate,17,general,"Ansonia, Beacon Falls, Bethany, Derby, Hamden (part), Naugatuck (part), Woodbridge",,,,True,False
+2008,Connecticut,CT,State Senate,18,general,"Griswold, Groton, North Stonington, Plainfield, Preston, Sterling, Stonington, Voluntown",,,,True,False
+2008,Connecticut,CT,State Senate,19,general,"Edith G. Prague 32,458 WF RWI",,,,True,False
+2008,Connecticut,CT,State Senate,20,general,"East Lyme, Montville (part), New London, Old Lyme, Old Saybrook (part), Salem, Waterford",,,,True,False
+2008,Connecticut,CT,State Senate,21,general,"Monroe (part), Shelton, Stratford (part)",,,,True,False
+2008,Connecticut,CT,State Senate,22,general,"Anthony J. Musto 21,747 WF RWI",,,,True,False
+2008,Connecticut,CT,State Senate,23,general,"Bridgeport (part), Stratford (part)",,,,True,False
+2008,Connecticut,CT,State Senate,24,general,"Michael A. McLachlan 19,262 I TP",,,,True,False
+2008,Connecticut,CT,State Senate,25,general,"Darien (part), Norwalk",,,,True,False
+2008,Connecticut,CT,State Senate,26,general,"Bethel (part), New Canaan (part), Redding, Ridgefield, Weston (part), Westport, Wilton",,,,True,False
+2008,Connecticut,CT,State Senate,27,general,"Darien (part), Stamford (part)",,,,True,False
+2008,Connecticut,CT,State Senate,28,general,"Easton, Fairfield, Newtown, Weston (part)",,,,True,False
+2008,Connecticut,CT,State Senate,29,general,"Brooklyn, Canterbury, Killingly, Mansfield, Putnam, Scotland, Thompson, Windham",,,,True,False
+2008,Connecticut,CT,State Senate,30,general,"Brookfield, Canaan, Cornwall, Goshen, Kent, Litchfield, Morris, New Milford, North Canaan, Salisbury, Sharon, Torrington (part), Warren, Washington, Winchester",,,,True,False
+2008,Connecticut,CT,State Senate,31,general,"Bristol, Harwinton (part), Plainville, Plymouth",,,,True,False
+2008,Connecticut,CT,State Senate,32,general,"Bethlehem, Bridgewater, Middlebury, Oxford, Roxbury, Seymour (part), Southbury, Thomaston, Watertown, Woodbury",,,,True,False
+2008,Connecticut,CT,State Senate,33,general,"Chester, Clinton, Colechester, Deep River, East Haddam, East Hampton, Essex, Haddam, Lyme, Old Saybrook (part), Portland, Westbrook",,,,True,False
+2008,Connecticut,CT,State Senate,34,general,"East Haven, North Haven, Wallingford",,,,True,False
+2008,Connecticut,CT,State Senate,35,general,"Ashford, Chaplin, Coventry, Eastford, Ellington (part), Hampton, Pomfret, Stafford, Tolland, Union, Vernon, Willington, Woodstock",,,,True,False
+2008,Connecticut,CT,State Senate,36,general,"Greenwich, New Canaan (part), Stamford (part)",,,,True,False
+2008,Delaware,DE,State Senate,2,general,Margaret Rose Henry,Democratic,11872,100.0,True,True
+2008,Delaware,DE,State Senate,3,general,Robert Marshall,Democratic,10225,100.0,True,True
+2008,Delaware,DE,State Senate,4,general,Michael Katz,Democratic,11296,50.65,True,False
+2008,Delaware,DE,State Senate,4,general,John Clatworthy,Republican,11004,49.35,False,False
+2008,Delaware,DE,State Senate,6,general,Liane Sorenson,Republican,7195,51.3,True,True
+2008,Delaware,DE,State Senate,6,general,John Mackenzie,Democratic,6831,48.7,False,False
+2008,Delaware,DE,State Senate,10,general,Bethany Hall-Long,Democratic,13965,64.9,True,False
+2008,Delaware,DE,State Senate,10,general,James Weldin,Republican,7554,35.1,False,False
+2008,Delaware,DE,State Senate,11,general,Tony DeLuca,Democratic,13318,100.0,True,True
+2008,Delaware,DE,State Senate,16,general,Colin Bonini,Republican,11156,56.39,True,True
+2008,Delaware,DE,State Senate,16,general,Harold Stafford,Democratic,8629,43.61,False,False
+2008,Delaware,DE,State Senate,17,general,Brian Bushweller,Democratic,10279,56.47,True,False
+2008,Delaware,DE,State Senate,17,general,James Hutchinson,Republican,7923,43.53,False,False
+2008,Delaware,DE,State Senate,18,general,Gary Simpson,Republican,14596,55.11,True,True
+2008,Delaware,DE,State Senate,18,general,Gary Downes,Democratic,11891,44.89,False,False
+2008,Delaware,DE,State Senate,21,general,Robert Venables Sr.,Democratic,12603,100.0,True,True
+2008,Illinois,IL,State Senate,2,general,William 'Willie' Delgado,Democratic,42002,100.0,True,False
+2008,Illinois,IL,State Senate,3,general,Mattie Hunter,Democratic,53889,100.0,True,False
+2008,Illinois,IL,State Senate,5,general,Rickey R. Hendon,Democratic,69229,85.97,True,False
+2008,Illinois,IL,State Senate,5,general,Jason Allen Braswell,Republican,11297,14.03,False,False
+2008,Illinois,IL,State Senate,6,general,John Cullerton,Democratic,73323,77.47,True,False
+2008,Illinois,IL,State Senate,6,general,Jay Valko,Republican,21320,22.53,False,False
+2008,Illinois,IL,State Senate,7,general,Heather Steans,Democratic,55457,83.08,True,False
+2008,Illinois,IL,State Senate,7,general,Tom Durkin,Green,11297,16.92,False,False
+2008,Illinois,IL,State Senate,8,general,Ira I. Silverstein,Democratic,55691,100.0,True,False
+2008,Illinois,IL,State Senate,9,general,Jeffrey Schoenberg,Democratic,70746,70.9,True,False
+2008,Illinois,IL,State Senate,9,general,Brendan Appel,Republican,29036,29.1,False,False
+2008,Illinois,IL,State Senate,11,general,Louis S. Viverito,Democratic,51353,70.0,True,False
+2008,Illinois,IL,State Senate,11,general,Jeffrey Malinowski,Republican,21213,29.2,False,False
+2008,Illinois,IL,State Senate,12,general,Martin A. Sandoval,Democratic,33807,100.0,True,False
+2008,Illinois,IL,State Senate,14,general,Emil Jones III,Democratic,76090,80.1,True,False
+2008,Illinois,IL,State Senate,14,general,Ray Wardingley,Republican,18929,19.9,False,False
+2008,Illinois,IL,State Senate,15,general,James T. Meeks,Democratic,72950,100.0,True,False
+2008,Illinois,IL,State Senate,17,general,Donne f. Trotter,Democratic,79070,100.0,True,False
+2008,Illinois,IL,State Senate,18,general,Edward d. Maloney,Democratic,75229,99.92,True,False
+2008,Illinois,IL,State Senate,18,general,Brendan Appel,Independent (politician),58,0.08,False,False
+2008,Illinois,IL,State Senate,9,general,Iris Y. Martinez,Democratic,42310,100.0,True,False
+2008,Illinois,IL,State Senate,21,general,Dan Cronin,Republican,64062,63.14,True,False
+2008,Illinois,IL,State Senate,21,general,A. Ghani,Democratic,30771,30.33,False,False
+2008,Illinois,IL,State Senate,21,general,John Basco,Green,6628,6.53,False,False
+2008,Illinois,IL,State Senate,23,general,Carole Pankau,Republican,61795,99.91,True,False
+2008,Illinois,IL,State Senate,23,general,Kevin Allen,Independent (politician),58,0.09,False,False
+2008,Illinois,IL,State Senate,24,general,Kirk W. Dillard,Republican,80766,100.0,True,False
+2008,Illinois,IL,State Senate,26,general,Dan Duffy,Republican,68463,62.1,True,False
+2008,Illinois,IL,State Senate,26,general,Brendan Appel,Democratic,41740,37.9,False,False
+2008,Illinois,IL,State Senate,27,general,Matt Murphy,Republican,52202,58.4,True,False
+2008,Illinois,IL,State Senate,27,general,Peter Gutzmer,Democratic,37220,41.6,False,False
+2008,Illinois,IL,State Senate,29,general,Susan Garret,Democratic,72911,100.0,True,False
+2008,Illinois,IL,State Senate,30,general,Terry Link,Democratic,42407,64.7,True,False
+2008,Illinois,IL,State Senate,30,general,Keith Grey,Republican,23141,35.3,False,False
+2008,Illinois,IL,State Senate,32,general,Pamela J. Althoff,Republican,93855,100.0,True,False
+2008,Illinois,IL,State Senate,33,general,Dan Kotowski,Democratic,48344,59.95,True,False
+2008,Illinois,IL,State Senate,33,general,Michael H. Sweeney,Republican,32293,40.05,False,False
+2008,Illinois,IL,State Senate,35,general,J. Bradley Burzynski,Republican,61749,58.98,True,False
+2008,Illinois,IL,State Senate,35,general,Ryan Gailey,Democratic,42948,41.02,False,False
+2008,Illinois,IL,State Senate,36,general,Mike Jacobs,Democratic,55448,58.78,True,False
+2008,Illinois,IL,State Senate,36,general,Michael Bertelsen,Republican,38882,41.22,False,False
+2008,Illinois,IL,State Senate,38,general,Gary G. Dahl,Republican,62790,61.88,True,False
+2008,Illinois,IL,State Senate,38,general,Steve Stout,Democratic,38687,38.12,False,False
+2008,Illinois,IL,State Senate,39,general,Don Harmon,Democratic,57487,100.0,True,False
+2008,Illinois,IL,State Senate,41,general,Christine Radogno,Republican,74777,63.57,True,False
+2008,Illinois,IL,State Senate,41,general,Audrey Manly,Democratic,42848,36.43,False,False
+2008,Illinois,IL,State Senate,42,general,Linda Holmes,Democratic,57231,54.61,True,False
+2008,Illinois,IL,State Senate,42,general,Terri Ann Wintermute,Republican,47567,45.39,False,False
+2008,Illinois,IL,State Senate,44,general,Bill Brady,Republican,82718,100.0,True,False
+2008,Illinois,IL,State Senate,45,general,Tim Bivins,Republican,61310,63.18,True,False
+2008,Illinois,IL,State Senate,45,general,Marty Mulcahey,Democratic,35728,36.82,False,False
+2008,Illinois,IL,State Senate,47,general,John M. Sullivan,Democratic,77597,100.0,True,False
+2008,Illinois,IL,State Senate,48,general,"Randall M. ""Randy"" Hultgren",Republican,77310,100.0,True,False
+2008,Illinois,IL,State Senate,50,general,Larry K. Bomke,Republican,82011,77.75,True,False
+2008,Illinois,IL,State Senate,50,general,John Devine,Democratic,23474,22.25,False,False
+2008,Illinois,IL,State Senate,51,general,Frank Watson,Republican,82718,100.0,True,False
+2008,Illinois,IL,State Senate,53,general,Dan Rutherford,Republican,90199,100.0,True,False
+2008,Illinois,IL,State Senate,54,general,John O. Jones,Republican,63944,70.05,True,False
+2008,Illinois,IL,State Senate,54,general,Henry S. Kijonka,Democratic,27337,29.95,False,False
+2008,Illinois,IL,State Senate,56,general,William R. Haine,Democratic,82672,100.0,True,False
+2008,Illinois,IL,State Senate,57,general,"James Clayborne, Jr.",Democratic,76108,100.0,True,False
+2008,Illinois,IL,State Senate,59,general,Gary Forby,Democratic,49552,51.47,True,False
+2008,Illinois,IL,State Senate,59,general,Ken W. Burzynski,Republican,46727,48.53,False,False
+2008,Kentucky,KY,State Senate,30,special general,Brandon Smith,Republican,10409,51.0,True,False
+2008,Kentucky,KY,State Senate,30,special general,Scott Alexander,Democratic,10008,49.0,False,False
+2008,Kentucky,KY,State Senate,1,general,Kenneth W. Winters,Republican,26430,53.85,True,True
+2008,Kentucky,KY,State Senate,1,general,Carroll Hubbard,Democratic,22650,46.15,False,False
+2008,Kentucky,KY,State Senate,3,general,Joey Pendleton,Democratic,21410,56.51,True,True
+2008,Kentucky,KY,State Senate,3,general,Tom Jones,Republican,16479,43.49,False,False
+2008,Kentucky,KY,State Senate,5,general,Carroll Gibson,Republican,31634,100.0,True,True
+2008,Kentucky,KY,State Senate,7,general,Julian Carroll,Democratic,44692,100.0,True,True
+2008,Kentucky,KY,State Senate,9,general,David P. Givens,Republican,24775,55.37,True,False
+2008,Kentucky,KY,State Senate,9,general,Steve Newberry,Democratic,19967,44.63,False,False
+2008,Kentucky,KY,State Senate,11,general,John Schickel,Republican,45047,100.0,True,False
+2008,Kentucky,KY,State Senate,13,general,Kathy Stein,Democratic,26593,65.81,True,False
+2008,Kentucky,KY,State Senate,13,general,Chuck Ellinger II,Republican,13815,34.19,True,False
+2008,Kentucky,KY,State Senate,15,general,Vernie McGaha,Republican,36212,100.0,True,True
+2008,Kentucky,KY,State Senate,17,general,Damon Thayer,Republican,31835,61.63,True,True
+2008,Kentucky,KY,State Senate,17,general,Robert Powell,Democratic,18342,35.51,False,False
+2008,Kentucky,KY,State Senate,17,general,Micah L. Ingram,Constitution,1478,2.86,False,False
+2008,Kentucky,KY,State Senate,19,general,Tim Shaughnessy,Democratic,36199,59.52,True,True
+2008,Kentucky,KY,State Senate,19,general,Bob Heleringer,Republican,24615,40.48,False,False
+2008,Kentucky,KY,State Senate,21,general,Tom Jensen,Republican,29471,100.0,True,True
+2008,Kentucky,KY,State Senate,23,general,Jack Westwood,Republican,21057,50.98,True,True
+2008,Kentucky,KY,State Senate,23,general,Kathy Groob,Democratic,20250,49.02,False,False
+2008,Kentucky,KY,State Senate,25,general,Robert Stivers,Republican,21459,65.21,True,True
+2008,Kentucky,KY,State Senate,25,general,Michael Adkins,Democratic,11450,34.79,False,False
+2008,Kentucky,KY,State Senate,27,general,Walter Blevins,Democratic,27202,64.89,True,True
+2008,Kentucky,KY,State Senate,27,general,Richard White,Republican,14717,35.11,False,False
+2008,Kentucky,KY,State Senate,29,general,Johnny Ray Turner,Democratic,26389,100.0,True,True
+2008,Kentucky,KY,State Senate,31,general,Ray Jones II,Democratic,24814,100.0,True,True
+2008,Kentucky,KY,State Senate,33,general,Gerald Neal,Democratic,36700,100.0,True,True
+2008,Kentucky,KY,State Senate,35,general,Denise Harper Angel,Democratic,32022,83.68,True,True
+2008,Kentucky,KY,State Senate,35,general,John Albers,Republican,6246,16.32,False,False
+2008,Kentucky,KY,State Senate,37,general,Perry B. Clark,Democratic,25739,56.58,True,True
+2008,Kentucky,KY,State Senate,37,general,Doug Hawkins,Republican,19749,43.42,False,False
+2008,Massachusetts,MA,State Senate,,general,Rosenberg (D) 78.35% McCormic (R) 15.31% Others 6.34%,,,,True,False
+2008,Massachusetts,MA,State Senate,,general,},,,,False,False
+2008,New Mexico,NM,State Senate,1,general,William Sharer,Republican,14032,100.0,True,True
+2008,New Mexico,NM,State Senate,2,general,Steven Neville,Republican,14223,100.0,True,True
+2008,New Mexico,NM,State Senate,3,general,John Pinto,Democratic,12121,100.0,True,True
+2008,New Mexico,NM,State Senate,4,general,George Muñoz,Democratic,10897,75.61,True,False
+2008,New Mexico,NM,State Senate,4,general,Beatrice Woodward,Republican,3515,24.39,False,False
+2008,New Mexico,NM,State Senate,5,general,Richard Martinez,Democratic,14975,100.0,True,True
+2008,New Mexico,NM,State Senate,6,general,Carlos Cisneros,Democratic,18037,100.0,True,True
+2008,New Mexico,NM,State Senate,7,general,Clinton Harden,Republican,10891,59.07,True,True
+2008,New Mexico,NM,State Senate,7,general,Thomas Jeffrey Carr,Democratic,7547,40.93,False,False
+2008,New Mexico,NM,State Senate,8,general,Pete Campos,Democratic,13254,100.0,True,True
+2008,New Mexico,NM,State Senate,9,general,John Sapien,Democratic,11981,50.25,True,False
+2008,New Mexico,NM,State Senate,9,general,Steve Komadina,Republican,11860,49.75,False,True
+2008,New Mexico,NM,State Senate,10,general,John Ryan,Republican,13776,51.22,True,True
+2008,New Mexico,NM,State Senate,10,general,Victor Paul Raigoza,Democratic,13120,48.78,False,False
+2008,New Mexico,NM,State Senate,11,general,Linda Lopez,Democratic,14253,100.0,True,True
+2008,New Mexico,NM,State Senate,12,general,Jerry Ortiz y Pino,Democratic,12828,100.0,True,True
+2008,New Mexico,NM,State Senate,13,general,Dede Feldman,Democratic,17412,100.0,True,True
+2008,New Mexico,NM,State Senate,14,general,Eric Griego,Democratic,10807,100.0,True,False
+2008,New Mexico,NM,State Senate,15,general,Tim Eichenberg,Democratic,12643,56.52,True,False
+2008,New Mexico,NM,State Senate,15,general,Diane Snyder,Republican,9728,43.48,False,True
+2008,New Mexico,NM,State Senate,16,general,Cisco McSorley,Democratic,16369,100.0,True,True
+2008,New Mexico,NM,State Senate,17,general,Tim Keller,Democratic,10889,100.0,True,False
+2008,New Mexico,NM,State Senate,17,general,Shannon Robinson,Democratic,832,34.01,False,True
+2008,New Mexico,NM,State Senate,18,general,Mark Boitano,Republican,13980,100.0,True,True
+2008,New Mexico,NM,State Senate,19,general,Sue Wilson Beffort,Republican,14266,60.39,True,True
+2008,New Mexico,NM,State Senate,19,general,Jason Michael Burnette,Democratic,9357,39.61,False,False
+2008,New Mexico,NM,State Senate,20,general,William Payne,Republican,14068,100.0,True,True
+2008,New Mexico,NM,State Senate,21,general,Kent Cravens,Republican,15638,56.96,True,True
+2008,New Mexico,NM,State Senate,21,general,Jessica Lynn Wolfe,Democratic,11818,43.04,False,False
+2008,New Mexico,NM,State Senate,22,general,Lynda Lovejoy,Democratic,16908,100.0,True,True
+2008,New Mexico,NM,State Senate,23,general,Sander Rue,Republican,22338,100.0,True,False
+2008,New Mexico,NM,State Senate,24,general,Nancy Rodriguez,Democratic,15852,100.0,True,True
+2008,New Mexico,NM,State Senate,25,general,Peter Wirth,Democratic,24902,100.0,True,False
+2008,New Mexico,NM,State Senate,26,general,Bernadette Sanchez,Democratic,13750,75.68,True,True
+2008,New Mexico,NM,State Senate,26,general,Spiro Gregory Vassilopoulos,Republican,4419,24.32,False,False
+2008,New Mexico,NM,State Senate,27,general,Stuart Ingle,Republican,9466,100.0,True,True
+2008,New Mexico,NM,State Senate,28,general,Howie Morales,Democratic,13546,66.61,True,True
+2008,New Mexico,NM,State Senate,28,general,Joseph Gros,Republican,6790,33.39,False,False
+2008,New Mexico,NM,State Senate,29,general,Michael Sanchez,Democratic,14633,100.0,True,True
+2008,New Mexico,NM,State Senate,30,general,David Ulibarri,Democratic,8262,52.59,True,True
+2008,New Mexico,NM,State Senate,30,general,Jose Silva,Republican,7447,47.41,False,False
+2008,New Mexico,NM,State Senate,31,general,Cynthia Nava,Democratic,7550,100.0,True,True
+2008,New Mexico,NM,State Senate,32,general,Timothy Jennings,Democratic,8721,100.0,True,True
+2008,New Mexico,NM,State Senate,33,general,Rod Adair,Republican,14274,100.0,True,True
+2008,New Mexico,NM,State Senate,34,general,Vernon Asbill,Republican,14122,100.0,True,True
+2008,New Mexico,NM,State Senate,35,general,John Arthur Smith,Democratic,10636,100.0,True,True
+2008,New Mexico,NM,State Senate,36,general,Mary Jane Garcia,Democratic,9411,54.88,True,True
+2008,New Mexico,NM,State Senate,36,general,Lee Cotter,Republican,7736,45.12,False,False
+2008,New Mexico,NM,State Senate,37,general,Stephen Fischmann,Democratic,13229,51.13,True,False
+2008,New Mexico,NM,State Senate,37,general,Leonard Lee Rawson,Republican,12643,48.87,False,True
+2008,New Mexico,NM,State Senate,38,general,Mary Kay Papen,Democratic,12157,100.0,True,True
+2008,New Mexico,NM,State Senate,39,general,Phil Griego,Democratic,16245,100.0,True,True
+2008,New Mexico,NM,State Senate,40,general,Dianna Duran,Republican,10230,100.0,True,True
+2008,New Mexico,NM,State Senate,41,general,Carroll Leavell,Republican,8702,100.0,True,True
+2008,New Mexico,NM,State Senate,42,general,Gay Kernan,Republican,12519,100.0,True,True
+2008,North Carolina,NC,State Senate,1,general,Marc Basnight,Democratic,62661,100.0,True,True
+2008,North Carolina,NC,State Senate,2,general,Jean Preston,Republican,51117,61.61,True,True
+2008,North Carolina,NC,State Senate,2,general,Greg D. Muse,Democratic,31849,38.39,False,False
+2008,North Carolina,NC,State Senate,3,general,Clark Jenkins,Democratic,57703,100.0,True,True
+2008,North Carolina,NC,State Senate,4,general,Edward Jones,Democratic,57429,100.0,True,True
+2008,North Carolina,NC,State Senate,5,general,Don Davis,Democratic,40982,52.9,True,False
+2008,North Carolina,NC,State Senate,5,general,Louis Pate,Republican,36493,47.1,False,False
+2008,North Carolina,NC,State Senate,6,general,Harry Brown,Republican,38139,100.0,True,True
+2008,North Carolina,NC,State Senate,7,general,Doug Berger,Democratic,48874,61.25,True,True
+2008,North Carolina,NC,State Senate,7,general,Chuck Stires,Republican,28588,35.83,False,False
+2008,North Carolina,NC,State Senate,7,general,Kira Howe,Libertarian,2331,2.92,False,False
+2008,North Carolina,NC,State Senate,8,general,R. C. Soles Jr.,Democratic,47905,48.66,True,True
+2008,North Carolina,NC,State Senate,8,general,Bettie Fennell,Republican,45093,45.8,False,False
+2008,North Carolina,NC,State Senate,8,general,Rachel Joiner Merrill,Libertarian,5454,5.54,False,False
+2008,North Carolina,NC,State Senate,9,general,Julia Boseman,Democratic,50516,51.67,True,True
+2008,North Carolina,NC,State Senate,9,general,Michael Lee,Republican,47244,48.33,False,False
+2008,North Carolina,NC,State Senate,10,general,Charles W. Albertson,Democratic,51375,100.0,True,True
+2008,North Carolina,NC,State Senate,11,general,A. B. Swindell,Democratic,59461,100.0,True,True
+2008,North Carolina,NC,State Senate,12,general,David Rouzer,Republican,44261,51.93,True,False
+2008,North Carolina,NC,State Senate,12,general,Kay Carroll,Democratic,40971,48.07,False,False
+2008,North Carolina,NC,State Senate,13,general,David F. Weinstein,Democratic,45776,100.0,True,True
+2008,North Carolina,NC,State Senate,14,general,Vernon Malone,Democratic,67823,69.45,True,True
+2008,North Carolina,NC,State Senate,14,general,Carol Bennett,Republican,29835,30.55,False,False
+2008,North Carolina,NC,State Senate,15,general,Neal Hunt,Republican,56873,52.83,True,True
+2008,North Carolina,NC,State Senate,15,general,Chris Mintz,Democratic,46175,42.89,False,False
+2008,North Carolina,NC,State Senate,15,general,Jan MacKay,Libertarian,4602,4.27,False,False
+2008,North Carolina,NC,State Senate,16,general,Josh Stein,Democratic,58357,60.82,True,False
+2008,North Carolina,NC,State Senate,16,general,John Alexander,Republican,37586,39.18,False,False
+2008,North Carolina,NC,State Senate,17,general,Richard Y. Stevens,Republican,75311,81.2,True,True
+2008,North Carolina,NC,State Senate,17,general,Brian Irving,Libertarian,17441,18.8,False,False
+2008,North Carolina,NC,State Senate,18,general,Bob Atwater,Democratic,66916,69.0,True,True
+2008,North Carolina,NC,State Senate,18,general,Roger Gerber,Republican,30063,31.0,False,False
+2008,North Carolina,NC,State Senate,19,general,Tony Rand,Democratic,57027,100.0,True,True
+2008,North Carolina,NC,State Senate,20,general,Floyd McKissick Jr.,Democratic,64178,74.58,True,True
+2008,North Carolina,NC,State Senate,20,general,Ken Chandler,Republican,19666,22.55,False,False
+2008,North Carolina,NC,State Senate,20,general,David C. Rollins,Libertarian,3377,3.87,False,False
+2008,North Carolina,NC,State Senate,21,general,Larry Shaw,Democratic,48430,100.0,True,True
+2008,North Carolina,NC,State Senate,22,general,Harris Blake,Republican,50111,60.27,True,True
+2008,North Carolina,NC,State Senate,22,general,Abraham Oudeh,Democratic,33033,39.73,False,False
+2008,North Carolina,NC,State Senate,23,general,Eleanor Kinnaird,Democratic,62192,70.9,True,True
+2008,North Carolina,NC,State Senate,23,general,Greg Bass,Republican,25527,29.1,False,False
+2008,North Carolina,NC,State Senate,24,general,Anthony Foriest,Democratic,38539,52.51,True,True
+2008,North Carolina,NC,State Senate,24,general,Rick Gunn,Republican,34854,47.49,False,False
+2008,North Carolina,NC,State Senate,25,general,William R. Purcell,Democratic,42760,60.84,True,True
+2008,North Carolina,NC,State Senate,25,general,Janice B. Abernathy,Republican,27519,39.16,False,False
+2008,North Carolina,NC,State Senate,26,general,Phil Berger,Republican,65392,100.0,True,True
+2008,North Carolina,NC,State Senate,27,general,Don Vaughan,Democratic,59609,68.75,True,False
+2008,North Carolina,NC,State Senate,27,general,Joe Wilson,Republican,27100,31.25,False,False
+2008,North Carolina,NC,State Senate,28,general,Katie G. Dorsett,Democratic,61911,100.0,True,True
+2008,North Carolina,NC,State Senate,29,general,Jerry W. Tillman,Republican,45614,68.0,True,True
+2008,North Carolina,NC,State Senate,29,general,Ronald Franklin,Democratic,21316,31.78,False,False
+2008,North Carolina,NC,State Senate,30,general,Don W. East,Republican,52754,100.0,True,True
+2008,North Carolina,NC,State Senate,31,general,Peter S. Brunstetter,Republican,65201,100.0,True,True
+2008,North Carolina,NC,State Senate,32,general,Linda Garrou,Democratic,57672,100.0,True,True
+2008,North Carolina,NC,State Senate,33,general,Stan Bingham,Republican,61387,100.0,True,True
+2008,North Carolina,NC,State Senate,34,general,Andrew C. Brock,Republican,47960,61.17,True,True
+2008,North Carolina,NC,State Senate,34,general,John Carlyle Sherrill III,Democratic,30443,38.83,False,False
+2008,North Carolina,NC,State Senate,35,general,Eddie Goodall,Republican,75025,100.0,True,True
+2008,North Carolina,NC,State Senate,36,general,Fletcher L. Hartsell Jr.,Republican,50052,56.81,True,True
+2008,North Carolina,NC,State Senate,36,general,Charles Paxton,Democratic,38047,43.19,False,False
+2008,North Carolina,NC,State Senate,37,general,Dan Clodfelter,Democratic,48608,67.84,True,True
+2008,North Carolina,NC,State Senate,37,general,Vince Coscia,Republican,30315,28.35,False,False
+2008,North Carolina,NC,State Senate,37,general,Rusty Sheridan,Libertarian,2733,3.81,False,False
+2008,North Carolina,NC,State Senate,38,general,Charlie Dannelly,Democratic,67755,73.33,True,True
+2008,North Carolina,NC,State Senate,38,general,James R. Soder,Republican,22056,23.87,False,False
+2008,North Carolina,NC,State Senate,38,general,C. Travis Wheat,Libertarian,2588,2.8,False,False
+2008,North Carolina,NC,State Senate,39,general,Bob Rucho,Republican,73799,100.0,True,True
+2008,North Carolina,NC,State Senate,40,general,Malcolm Graham,Democratic,66307,66.96,True,True
+2008,North Carolina,NC,State Senate,40,general,Ed Mulheren,Republican,32711,33.04,False,False
+2008,North Carolina,NC,State Senate,41,general,James Forrester,Republican,67211,100.0,True,True
+2008,North Carolina,NC,State Senate,42,general,Austin M. Allran,Republican,59574,100.0,True,True
+2008,North Carolina,NC,State Senate,43,general,David W. Hoyle,Democratic,35838,51.47,True,True
+2008,North Carolina,NC,State Senate,43,general,Kathy Harrington,Republican,33791,48.53,False,False
+2008,North Carolina,NC,State Senate,44,general,Jim Jacumin,Republican,41320,57.88,True,True
+2008,North Carolina,NC,State Senate,44,general,Jim Cates,Democratic,27782,38.92,False,False
+2008,North Carolina,NC,State Senate,44,general,Richard C. Evey,Libertarian,2287,3.2,False,False
+2008,North Carolina,NC,State Senate,45,general,Steve Goss,Democratic,46014,53.9,True,True
+2008,North Carolina,NC,State Senate,45,general,Jerry Butler,Republican,39349,46.1,False,False
+2008,North Carolina,NC,State Senate,46,general,Debbie Clary,Republican,36059,50.5,True,False
+2008,North Carolina,NC,State Senate,46,general,Keith H. Melton,Democratic,35338,49.5,False,False
+2008,North Carolina,NC,State Senate,47,general,Joe Sam Queen,Democratic,41736,53.59,True,True
+2008,North Carolina,NC,State Senate,47,general,Keith Presnell,Republican,36144,46.41,False,False
+2008,North Carolina,NC,State Senate,48,general,Tom Apodaca,Republican,64183,100.0,True,True
+2008,North Carolina,NC,State Senate,49,general,Martin Nesbitt,Democratic,56150,65.64,True,True
+2008,North Carolina,NC,State Senate,49,general,R. L. Clark,Republican,29391,34.36,False,False
+2008,North Carolina,NC,State Senate,50,general,John J. Snow Jr.,Democratic,46536,57.45,True,True
+2008,North Carolina,NC,State Senate,50,general,Susan C. Pons,Republican,34462,42.55,False,False
+2008,South Carolina,SC,State Senate,1,general,Thomas C. Alexander,Republican,27498,85.2,True,True
+2008,South Carolina,SC,State Senate,1,general,Polly Nicolay,Constitution,4728,14.6,False,False
+2008,Washington,WA,State Senate,1,general,Rosemary McAuliffe [http://www.mcauliffe2008.com/ Campaign website],Democratic,36628,57.95,True,False
+2008,Washington,WA,State Senate,1,general,Dennis Richter [http://dennisrichterforstatesenate.com/ Campaign website],Republican,26583,42.05,False,False
+2008,Washington,WA,State Senate,2,general,Marilyn Rasmussen [http://www.marilynrasmussen.com/ Campaign website],Democratic,30206,48.37,False,False
+2008,Washington,WA,State Senate,2,general,Randi Becker [https://www.randibecker.com/ Campaign website],Republican,32244,51.63,True,False
+2008,Washington,WA,State Senate,3,general,Lisa Brown,Democratic,30893,74.46,True,False
+2008,Washington,WA,State Senate,3,general,John Moyna [http://www.johnmoyna.org/ Campaign website],Independent (politician),10598,25.54,False,False
+2008,Washington,WA,State Senate,4,general,"Bob McCaslin, Sr.",Republican,36745,57.5,True,False
+2008,Washington,WA,State Senate,4,general,Judi Owens [http://www.judiowens.com/ Campaign website],Democratic,27163,42.5,False,False
+2008,Washington,WA,State Senate,5,general,Cheryl Pflug [http://www.pflug.com/ Campaign website],Republican,43178,59.95,True,False
+2008,Washington,WA,State Senate,5,general,Phyllis Huster [http://www.phyllisforsenate.com Campaign website],Democratic,28851,40.05,False,False
+2008,Washington,WA,State Senate,9,general,Mark G. Schoesler,Republican,41263,100.0,True,False
+2008,Washington,WA,State Senate,10,general,Mary Margaret Haugen [http://www.marymargarethaugen.com/ Campaign website],Democratic,36835,53.58,True,False
+2008,Washington,WA,State Senate,10,general,Linda Haddon [http://www.lindahaddon.com/ Campaign website],Republican,31917,46.42,False,False
+2008,Washington,WA,State Senate,11,general,Margarita Prentice [http://www.margaritaprentice.com/ Campaign website],Democratic,25817,68.25,True,False
+2008,Washington,WA,State Senate,11,general,Juan Martinez [http://juanforsenate.com/ Campaign website],Democratic,12011,31.75,False,False
+2008,Washington,WA,State Senate,12,general,Linda Evans Parlette,Republican,43993,100.0,True,False
+2008,Washington,WA,State Senate,14,general,Curtis King [http://www.curtisking.org/ Campaign website],Republican,36984,100.0,True,False
+2008,Washington,WA,State Senate,16,general,Mike Hewitt [http://www.mikehewitt.org/ Campaign website],Republican,42811,100.0,True,False
+2008,Washington,WA,State Senate,17,general,Don Benton [http://senatordonbenton.com/ Campaign website],Republican,29426,51.14,True,False
+2008,Washington,WA,State Senate,17,general,David Carrier [http://www.davidcarrier.org/ Campaign website],Democratic,28111,48.86,False,False
+2008,Washington,WA,State Senate,18,general,Joseph Zarelli,Republican,39311,55.03,True,False
+2008,Washington,WA,State Senate,18,general,Jon Haugen [http://haugensenate.com/ Campaign website],Democratic,32127,44.97,False,False
+2008,Washington,WA,State Senate,19,general,Brian Hatfield,Democratic,41073,100.0,True,False
+2008,Washington,WA,State Senate,20,general,Dan Swecker [http://danswecker.com/ Campaign website],Republican,39650,63.87,True,False
+2008,Washington,WA,State Senate,20,general,Chuck Bojarski,Democratic,22428,36.13,False,False
+2008,Washington,WA,State Senate,22,general,Karen Fraser,Democratic,45062,73.48,True,False
+2008,Washington,WA,State Senate,22,general,Erik Lee,Democratic,16266,26.52,False,False
+2008,Washington,WA,State Senate,23,general,Phil Rockefeller [http://philrockefeller.com/ Campaign website],Democratic,40128,61.9,True,False
+2008,Washington,WA,State Senate,23,general,Connie Lord [http://www.connielord.com/ Campaign website],Republican,24701,38.1,False,False
+2008,Washington,WA,State Senate,24,general,Jim Hargrove,Democratic,52742,100.0,True,False
+2008,Washington,WA,State Senate,25,general,Jim Kastama [http://www.kastama.org/ Campaign website],Democratic,32988,56.56,True,False
+2008,Washington,WA,State Senate,25,general,Michele Smith,Republican,25338,43.44,False,False
+2008,Washington,WA,State Senate,27,general,Debbie Regala,Democratic,31988,67.18,True,False
+2008,Washington,WA,State Senate,27,general,Larry Faulk,Republican,15625,32.82,False,False
+2008,Washington,WA,State Senate,28,general,Mike Carrell,Republican,27628,56.07,True,False
+2008,Washington,WA,State Senate,28,general,Debi Srail [http://www.debisrail.com/ Campaign website],Democratic,21644,43.93,False,False
+2008,Washington,WA,State Senate,34,general,Joe McDermott,Democratic,49203,100.0,True,False
+2008,Washington,WA,State Senate,39,general,Val Stevens [http://www.valstevens.com/ Campaign website],Republican,36118,58.55,True,False
+2008,Washington,WA,State Senate,39,general,Fred Walser [http://www.fredwalser2008.com/ Campaign website],Democratic,25570,41.45,False,False
+2008,Washington,WA,State Senate,40,general,Steve Van Luven [http://www.stevevanluven.com/ Campaign website],Republican,27028,41.44,False,False
+2008,Washington,WA,State Senate,40,general,Kevin Ranker [http://www.kevinranker.com/ Campaign website],Democratic,38200,58.56,True,False
+2008,Washington,WA,State Senate,41,general,Fred Jarrett [http://vote4fred.org/ Campaign website],Democratic,38327,59.5,True,False
+2008,Washington,WA,State Senate,41,general,Bob Baker [http://www.voteforbaker.com/ Campaign website],Republican,26092,40.05,False,False
+2008,Washington,WA,State Senate,49,general,Craig Pridemore [https://www.craigpridemore.com/ Campaign website],Democratic,30664,61.71,True,False
+2008,Washington,WA,State Senate,49,general,Tom Langston [http://www.tomlangston.org/ Campaign website],Republican,19029,38.29,False,False
+2008,West Virginia,WV,State Senate,SD 1,general,Jack Yost,Democratic,23938,60.3,True,False
+2008,West Virginia,WV,State Senate,SD 1,general,Chris Wakim,Republican,15782,29.7,False,False
+2008,West Virginia,WV,State Senate,SD 2,general,Jeffrey V. Kessler,Democratic,23875,63.8,True,True
+2008,West Virginia,WV,State Senate,SD 2,general,Fred Brunner,Republican,13564,26.2,False,False
+2008,West Virginia,WV,State Senate,SD 3,general,Donna Boley,Republican,35470,100.0,True,True
+2008,West Virginia,WV,State Senate,SD 4,general,Karen Facemyer,Republican,28801,61.2,True,True
+2008,West Virginia,WV,State Senate,SD 4,general,Rocky Holmes,Democratic,18280,38.8,False,False
+2008,West Virginia,WV,State Senate,SD 5,general,Robert Plymale,Democratic,23763,67.0,True,True
+2008,West Virginia,WV,State Senate,SD 5,general,Stephen Hall,Republican,11722,33.0,False,False
+2008,West Virginia,WV,State Senate,SD 6,general,John Pat Fanning,Democratic,17603,65.6,True,True
+2008,West Virginia,WV,State Senate,SD 6,general,Mark Maynard,Republican,9242,34.4,False,False
+2008,West Virginia,WV,State Senate,SD 7,general,Earl Ray Tomblin,Democratic,24010,73.1,True,True
+2008,West Virginia,WV,State Senate,SD 7,general,Billy Marcum,Republican,8813,26.9,False,False
+2008,West Virginia,WV,State Senate,SD 8,general,Corey Palumbo,Democratic,52151,67.6,True,False
+2008,West Virginia,WV,State Senate,SD 8,general,Robert Ore,Republican,25025,32.4,False,False
+2008,West Virginia,WV,State Senate,SD 9,general,Richard Browning,Democratic,24227,100.0,True,False
+2008,West Virginia,WV,State Senate,SD 10,general,Donald Caruth,Republican,20270,53.7,True,True
+2008,West Virginia,WV,State Senate,SD 10,general,James McNeely,Democratic,17486,46.3,False,False
+2008,West Virginia,WV,State Senate,SD 11,general,William Laird IV,Democratic,21619,59.5,True,False
+2008,West Virginia,WV,State Senate,SD 11,general,Aubry Wilson,Republican,11984,33.0,False,False
+2008,West Virginia,WV,State Senate,SD 11,general,Andy Waddell,Mountain,2682,7.4,False,False
+2008,West Virginia,WV,State Senate,SD 12,general,Douglas Facemire,Democratic,34203,100.0,True,False
+2008,West Virginia,WV,State Senate,SD 13,general,"Roman W. Prezioso, Jr.",Democratic,35520,100.0,True,True
+2008,West Virginia,WV,State Senate,SD 14,general,Bob Williams,Democratic,22205,51.3,True,False
+2008,West Virginia,WV,State Senate,SD 14,general,Gary Howell,Republican,21098,48.7,False,False
+2008,West Virginia,WV,State Senate,SD 15,general,Clark Barnes,Republican,25283,55.9,True,False
+2008,West Virginia,WV,State Senate,SD 15,general,Mark Ross,Democratic,19942,44.1,False,False
+2008,West Virginia,WV,State Senate,SD 16,general,Herb Snyder,Democratic,26793,55.9,True,False
+2008,West Virginia,WV,State Senate,SD 16,general,Bob Adams,Republican,21098,44.1,False,False
+2008,West Virginia,WV,State Senate,SD 17,general,Dan Foster,Democratic,50081,66.4,True,True
+2008,West Virginia,WV,State Senate,SD 17,general,Alan Long,Republican,25290,33.6,False,False

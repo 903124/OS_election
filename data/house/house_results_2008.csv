@@ -54,16 +54,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,California,CA,2,Jeff Morris,Democratic,42.1,False,False,False
 2008,house,California,CA,3,Dan Lungren,Republican,49.5,True,True,True
 2008,house,California,CA,3,Bill Durston,Democratic,44.0,False,False,True
+2008,house,California,CA,3,Dina Padilla,Peace and Freedom,4.2,False,False,True
 2008,house,California,CA,3,Art Tuma,Libertarian,2.3,False,False,True
 2008,house,California,CA,4,Tom McClintock,Republican,50.3,True,False,True
 2008,house,California,CA,4,Charles Brown,Democratic,49.7,False,False,True
 2008,house,California,CA,5,Doris Matsui,Democratic,74.3,True,True,False
 2008,house,California,CA,5,Paul Smith,Republican,20.9,False,False,False
+2008,house,California,CA,5,L. R. Roberts,Peace and Freedom,4.8,False,False,False
 2008,house,California,CA,6,Lynn Woolsey,Democratic,71.7,True,True,False
 2008,house,California,CA,6,Mike Halliwell,Republican,24.1,False,False,False
 2008,house,California,CA,6,Joel Smolen,Libertarian,4.2,False,False,False
 2008,house,California,CA,7,George Miller,Democratic,72.9,True,False,False
 2008,house,California,CA,7,Roger Petersen,Republican,21.8,False,False,False
+2008,house,California,CA,7,Bill Callison,Peace and Freedom,2.8,False,False,False
 2008,house,California,CA,7,Camden McConnell,Libertarian,2.5,False,False,False
 2008,house,California,CA,8,Nancy Pelosi,Democratic,71.9,True,True,False
 2008,house,California,CA,8,Cindy Sheehan,Independent,16.2,False,False,False
@@ -74,10 +77,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,California,CA,9,Jim Eyer,Libertarian,4.2,False,False,False
 2008,house,California,CA,10,Ellen Tauscher,Democratic,65.2,True,True,False
 2008,house,California,CA,10,Nicholas Gerber,Republican,31.1,False,False,False
+2008,house,California,CA,10,Eugene Ruyle,Peace and Freedom,3.7,False,False,False
 2008,house,California,CA,11,Jerry McNerney,Democratic,55.3,True,True,False
 2008,house,California,CA,11,Dean Andal,Republican,44.7,False,False,False
 2008,house,California,CA,12,Jackie Speier,Democratic,75.2,True,True,False
 2008,house,California,CA,12,Greg Conlon,Republican,18.5,False,False,False
+2008,house,California,CA,12,Nathalie Hrizi,Peace and Freedom,2.2,False,False,False
 2008,house,California,CA,12,Barry Hermanson,Green,2.1,False,False,False
 2008,house,California,CA,12,Kevin Peterson,Libertarian,2.0,False,False,False
 2008,house,California,CA,13,Pete Stark,Democratic,76.5,True,True,False
@@ -153,6 +158,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,California,CA,46,Ernst Gasteiger,Libertarian,1.5,False,False,False
 2008,house,California,CA,47,Loretta Sanchez,Democratic,69.5,True,True,False
 2008,house,California,CA,47,Rosie Avila,Republican,25.5,False,False,False
+2008,house,California,CA,47,Robert Lauten,American Independent,5.0,False,False,False
 2008,house,California,CA,48,John Campbell,Republican,55.7,True,True,False
 2008,house,California,CA,48,Steve Young,Democratic,40.6,False,False,False
 2008,house,California,CA,48,Don Patterson,Libertarian,3.7,False,False,False
@@ -177,12 +183,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Colorado,CO,2,Jared Polis,Democratic,62.6,True,False,True
 2008,house,Colorado,CO,2,Scott Starin,Republican,33.9,False,False,True
 2008,house,Colorado,CO,2,J. A. Calhoun,Green,2.9,False,False,True
+2008,house,Colorado,CO,2,Bill Hammons,Unity Party of America,0.6,False,False,True
 2008,house,Colorado,CO,3,John Salazar,Democratic,61.6,True,True,False
 2008,house,Colorado,CO,3,Wayne Wolf,Republican,38.4,False,False,False
 2008,house,Colorado,CO,4,Betsy Markey,Democratic,56.2,True,False,False
 2008,house,Colorado,CO,4,Marilyn Musgrave,Republican,43.8,False,True,False
 2008,house,Colorado,CO,5,Doug Lamborn,Republican,60.0,True,True,False
 2008,house,Colorado,CO,5,Hal Bidlack,Democratic,37.0,False,False,False
+2008,house,Colorado,CO,5,Brian Scott,Constitution,2.9,False,False,False
 2008,house,Colorado,CO,6,Mike Coffman,Republican,60.7,True,False,True
 2008,house,Colorado,CO,6,Hank Eng,Democratic,39.3,False,False,True
 2008,house,Colorado,CO,7,Ed Perlmutter,Democratic,63.5,True,True,False
@@ -225,6 +233,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Florida,FL,9,Gus Bilirakis,Republican,62.2,True,True,False
 2008,house,Florida,FL,9,Bill Mitchell,Democratic,36.3,False,False,False
 2008,house,Florida,FL,9,Johnny Kalimnios,Independent,1.0,False,False,False
+2008,house,Florida,FL,9,Richard Emmons,Term Limits,0.6,False,False,False
 2008,house,Florida,FL,10,Bill Young,Republican,60.7,True,True,False
 2008,house,Florida,FL,10,Bob Hackworth,Democratic,39.3,False,False,False
 2008,house,Florida,FL,11,Kathy Castor,Democratic,71.7,True,True,False
@@ -252,6 +261,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Florida,FL,19,Edward Lynch,Republican,27.2,False,False,False
 2008,house,Florida,FL,19,Ben Graber,Independent,6.6,False,False,False
 2008,house,Florida,FL,20,Debbie Wasserman Schultz,Democratic,77.5,True,True,False
+2008,house,Florida,FL,20,Margaret Hostetter,Independent Republican,22.5,False,False,False
 2008,house,Florida,FL,21,Lincoln Díaz-Balart,Republican,57.9,True,True,False
 2008,house,Florida,FL,21,Raul Martinez,Democratic,42.1,False,False,False
 2008,house,Florida,FL,22,Ron Klein,Democratic,54.7,True,True,False
@@ -376,6 +386,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Iowa,IA,2,Brian White,Independent,1.8,False,False,False
 2008,house,Iowa,IA,3,Leonard Boswell,Democratic,56.4,True,True,False
 2008,house,Iowa,IA,3,Kim Schmett,Republican,42.1,False,False,False
+2008,house,Iowa,IA,3,Frank Forrestal,Socialist Workers,1.5,False,False,False
 2008,house,Iowa,IA,4,Tom Latham,Republican,60.6,True,False,False
 2008,house,Iowa,IA,4,Becky Greenwald,Democratic,39.4,False,False,False
 2008,house,Iowa,IA,5,Steve King,Republican,59.8,True,True,False
@@ -383,15 +394,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Iowa,IA,5,Victor Vara,Independent,2.8,False,False,False
 2008,house,Kansas,KS,1,Jerry Moran,Republican,81.8,True,True,False
 2008,house,Kansas,KS,1,James Bordonaro,Democratic,13.2,False,False,False
+2008,house,Kansas,KS,1,Kathleen Burton,Reform,2.7,False,False,False
 2008,house,Kansas,KS,1,Jack Warner,Libertarian,2.1,False,False,False
 2008,house,Kansas,KS,2,Lynn Jenkins,Republican,50.6,True,False,False
 2008,house,Kansas,KS,2,Nancy Boyda,Democratic,46.2,False,True,False
+2008,house,Kansas,KS,2,Leslie Martin,Reform,1.6,False,False,False
 2008,house,Kansas,KS,2,Robert Garrard,Libertarian,1.5,False,False,False
 2008,house,Kansas,KS,3,Dennis Moore,Democratic,56.4,True,False,False
 2008,house,Kansas,KS,3,Nick Jordan,Republican,39.6,False,False,False
 2008,house,Kansas,KS,3,Joe Bellis,Libertarian,2.8,False,False,False
+2008,house,Kansas,KS,3,Roger Tucker,Reform,1.0,False,False,False
 2008,house,Kansas,KS,4,Todd Tiahrt,Republican,63.4,True,True,False
 2008,house,Kansas,KS,4,Donald Betts,Democratic,32.3,False,False,False
+2008,house,Kansas,KS,4,Susan Ducey,Reform,2.2,False,False,False
 2008,house,Kansas,KS,4,Steven Rosile,Libertarian,1.9,False,False,False
 2008,house,Kentucky,KY,1,Ed Whitfield,Republican,64.3,True,True,False
 2008,house,Kentucky,KY,1,Heather Ryan,Democratic,35.7,False,False,False
@@ -422,6 +437,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Louisiana,LA,6,Michael L. Jackson,Independent Democratic,11.6,False,False,False
 2008,house,Louisiana,LA,7,Charles Boustany,Republican,61.9,True,True,False
 2008,house,Louisiana,LA,7,Don Cravins Jr.,Democratic,34.3,False,False,False
+2008,house,Louisiana,LA,7,Peter Vidrine,Constitution,3.8,False,False,False
 2008,house,Maine,ME,1,Chellie Pingree,Democratic,54.9,True,False,True
 2008,house,Maine,ME,1,Charlie Summers,Republican,45.1,False,False,True
 2008,house,Maine,ME,2,Mike Michaud,Democratic,67.4,True,True,False
@@ -466,16 +482,20 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Massachusetts,MA,9,Stephen Lynch,Democratic,100.0,True,False,False
 2008,house,Massachusetts,MA,10,Bill Delahunt,Democratic,100.0,True,True,False
 2008,house,Michigan,MI,1,Bart Stupak,Democratic,65.0,True,True,False
+2008,house,Michigan,MI,1,Tom Casperson,Republican,32.7,False,False,False
 2008,house,Michigan,MI,1,Jean Marie Treacy,Green,0.8,False,False,False
 2008,house,Michigan,MI,1,Dan Grow,Libertarian,0.8,False,False,False
+2008,house,Michigan,MI,1,Joshua Warren,US Taxpayers,0.6,False,False,False
 2008,house,Michigan,MI,2,Pete Hoekstra,Republican,62.4,True,True,False
 2008,house,Michigan,MI,2,Fred Johnson,Democratic,34.8,False,False,False
 2008,house,Michigan,MI,2,Dan Johnson,Libertarian,1.6,False,False,False
+2008,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,1.2,False,False,False
 2008,house,Michigan,MI,3,Vern Ehlers,Republican,61.1,True,True,False
 2008,house,Michigan,MI,3,Henry Sanchez,Democratic,35.4,False,False,False
 2008,house,Michigan,MI,3,Erwin Haas,Libertarian,3.4,False,False,False
 2008,house,Michigan,MI,4,Dave Camp,Republican,61.9,True,True,False
 2008,house,Michigan,MI,4,Andrew Concannon,Democratic,35.7,False,False,False
+2008,house,Michigan,MI,4,John Emerick,US Taxpayers,1.2,False,False,False
 2008,house,Michigan,MI,4,Allitta Hren,Libertarian,1.1,False,False,False
 2008,house,Michigan,MI,5,Dale Kildee,Democratic,70.4,True,True,False
 2008,house,Michigan,MI,5,Matt Sawicki,Republican,27.0,False,False,False
@@ -493,6 +513,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Michigan,MI,8,Robert D. Alexander,Democratic,40.2,False,False,False
 2008,house,Michigan,MI,8,Will Tyler White,Libertarian,1.2,False,False,False
 2008,house,Michigan,MI,8,Aaron Stuttman,Green,1.1,False,False,False
+2008,house,Michigan,MI,8,George Zimmer,US Taxpayers,1.0,False,False,False
 2008,house,Michigan,MI,9,Gary Peters,Democratic,52.1,True,False,False
 2008,house,Michigan,MI,9,Joe Knollenberg,Republican,42.6,False,True,False
 2008,house,Michigan,MI,9,Jack Kevorkian,Independent,2.6,False,False,False
@@ -509,6 +530,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Michigan,MI,12,Sander Levin,Democratic,72.1,True,True,False
 2008,house,Michigan,MI,12,Bert Copple,Republican,23.9,False,False,False
 2008,house,Michigan,MI,12,John Vico,Libertarian,1.5,False,False,False
+2008,house,Michigan,MI,12,Les Townsend,US Taxpayers,1.3,False,False,False
 2008,house,Michigan,MI,12,Bill Opalicky,Green,1.2,False,False,False
 2008,house,Michigan,MI,13,Carolyn Cheeks Kilpatrick,Democratic,74.1,True,True,False
 2008,house,Michigan,MI,13,Edward Gubics,Republican,19.1,False,False,False
@@ -521,18 +543,23 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Michigan,MI,15,John Lynch,Republican,25.0,False,False,False
 2008,house,Michigan,MI,15,Aimee Smith,Green,2.2,False,False,False
 2008,house,Michigan,MI,15,Greg Stempfle,Libertarian,1.2,False,False,False
+2008,house,Michigan,MI,15,James Wagner,US Taxpayers,1.0,False,False,False
 2008,house,Minnesota,MN,1,Tim Walz,DFL,62.5,True,False,False
 2008,house,Minnesota,MN,1,Brian Davis,Republican,32.9,False,False,False
+2008,house,Minnesota,MN,1,Gregory Mikkelson,Independence,4.5,False,False,False
 2008,house,Minnesota,MN,2,John Kline,Republican,57.3,True,False,False
 2008,house,Minnesota,MN,2,Steve Sarvi,DFL,42.6,False,False,False
 2008,house,Minnesota,MN,3,Erik Paulsen,Republican,48.5,True,False,True
 2008,house,Minnesota,MN,3,Ashwin Madia,DFL,40.9,False,False,True
+2008,house,Minnesota,MN,3,David Dillon,Independence,10.6,False,False,True
 2008,house,Minnesota,MN,4,Betty McCollum,DFL,68.4,True,False,False
 2008,house,Minnesota,MN,4,Ed Matthews,Republican,31.3,False,False,False
 2008,house,Minnesota,MN,5,Keith Ellison,DFL,70.9,True,False,False
 2008,house,Minnesota,MN,5,Barb Davis White,Republican,22.0,False,False,False
+2008,house,Minnesota,MN,5,Bill McGaughey,Independence,6.9,False,False,False
 2008,house,Minnesota,MN,6,Michele Bachmann,Republican,46.4,True,True,False
 2008,house,Minnesota,MN,6,Elwyn Tinklenberg,DFL,43.4,False,False,False
+2008,house,Minnesota,MN,6,Bob Anderson,Independence,10.0,False,False,False
 2008,house,Minnesota,MN,7,Collin Peterson,DFL,72.2,True,False,False
 2008,house,Minnesota,MN,7,Glen Menze,Republican,27.7,False,False,False
 2008,house,Minnesota,MN,8,Jim Oberstar,DFL,67.7,True,False,False
@@ -555,6 +582,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Missouri,MO,3,Russ Carnahan,Democratic,66.4,True,True,False
 2008,house,Missouri,MO,3,Chris Sander,Republican,30.4,False,False,False
 2008,house,Missouri,MO,3,Kevin Babcock,Libertarian,1.8,False,False,False
+2008,house,Missouri,MO,3,Cindy Redburn,Constitution,1.4,False,False,False
 2008,house,Missouri,MO,4,Ike Skelton,Democratic,65.9,True,True,False
 2008,house,Missouri,MO,4,Jeff Parnell,Republican,34.1,False,False,False
 2008,house,Missouri,MO,5,Emanuel Cleaver,Democratic,64.4,True,True,False
@@ -565,9 +593,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Missouri,MO,7,Roy Blunt,Republican,67.8,True,True,False
 2008,house,Missouri,MO,7,Richard Monroe,Democratic,28.1,False,False,False
 2008,house,Missouri,MO,7,Kevin Craig,Libertarian,2.2,False,False,False
+2008,house,Missouri,MO,7,Travis Maddox,Constitution,1.9,False,False,False
 2008,house,Missouri,MO,8,Jo Ann Emerson,Republican,71.4,True,True,False
 2008,house,Missouri,MO,8,Joe Allen,Democratic,26.2,False,False,False
 2008,house,Missouri,MO,8,Branden McCullough,Libertarian,1.6,False,False,False
+2008,house,Missouri,MO,8,Richard Smith,Constitution,0.8,False,False,False
 2008,house,Missouri,MO,9,Blaine Luetkemeyer,Republican,50.0,True,False,True
 2008,house,Missouri,MO,9,Judy Baker,Democratic,47.5,False,False,True
 2008,house,Missouri,MO,9,Tamara Millay,Libertarian,2.5,False,False,True
@@ -582,15 +612,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Nebraska,NE,3,Jay Stoddard,Democratic,23.1,False,False,False
 2008,house,Nevada,NV,1,Shelley Berkley,Democratic,67.6,True,True,False
 2008,house,Nevada,NV,1,Kenneth Wegner,Republican,28.4,False,False,False
+2008,house,Nevada,NV,1,Caren Alexander,Independent American,2.0,False,False,False
 2008,house,Nevada,NV,1,Raymond Duensing,Libertarian,2.0,False,False,False
 2008,house,Nevada,NV,2,Dean Heller,Republican,51.8,True,True,False
 2008,house,Nevada,NV,2,Jill Derby,Democratic,41.4,False,False,False
+2008,house,Nevada,NV,2,John Everhart,Independent American,3.4,False,False,False
 2008,house,Nevada,NV,2,Sean Patrick Morse,Libertarian,1.7,False,False,False
 2008,house,Nevada,NV,2,Craig Bergland,Green,1.6,False,False,False
 2008,house,Nevada,NV,3,Dina Titus,Democratic,47.4,True,False,False
 2008,house,Nevada,NV,3,Jon Porter,Republican,42.3,False,True,False
 2008,house,Nevada,NV,3,Jeffrey Reeves,Independent,4.3,False,False,False
 2008,house,Nevada,NV,3,Joseph Silvestri,Libertarian,2.9,False,False,False
+2008,house,Nevada,NV,3,Floyd Fitzgibbons,Independent American,2.0,False,False,False
 2008,house,Nevada,NV,3,Bob Gianquinta,Green,1.1,False,False,False
 2008,house,New Hampshire,NH,1,Carol Shea-Porter,Democratic,51.7,True,True,False
 2008,house,New Hampshire,NH,1,Jeb Bradley,Republican,45.8,False,False,False
@@ -607,7 +640,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,New Jersey,NJ,2,Frank LoBiondo,Republican,59.1,True,True,False
 2008,house,New Jersey,NJ,2,David Kurkowski,Democratic,39.1,False,False,False
 2008,house,New Jersey,NJ,2,Jason Grover,Green,0.6,False,False,False
+2008,house,New Jersey,NJ,2,Peter Boyce,Constitution,0.5,False,False,False
 2008,house,New Jersey,NJ,2,Gary Stein,Independent,0.5,False,False,False
+2008,house,New Jersey,NJ,2,Constantino Rozzo,Socialist,0.2,False,False,False
 2008,house,New Jersey,NJ,3,John Adler,Democratic,52.1,True,False,True
 2008,house,New Jersey,NJ,3,Chris Myers,Republican,47.9,False,False,True
 2008,house,New Jersey,NJ,4,Chris Smith,Republican,66.2,True,False,False
@@ -631,6 +666,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,New Jersey,NJ,9,Vince Micco,Republican,31.0,False,False,False
 2008,house,New Jersey,NJ,9,Michael Perrone,Independent,0.5,False,False,False
 2008,house,New Jersey,NJ,10,Donald M. Payne,Democratic,98.9,True,True,False
+2008,house,New Jersey,NJ,10,Michael Taber,Socialist Workers,1.1,False,False,False
 2008,house,New Jersey,NJ,11,Rodney Frelinghuysen,Republican,61.8,True,True,False
 2008,house,New Jersey,NJ,11,Tom Wyka,Democratic,37.0,False,False,False
 2008,house,New Jersey,NJ,11,Chandler Tedholm,Independent,1.2,False,False,False
@@ -658,26 +694,32 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,New York,NY,4,Jack Martins,Republican,36.0,False,False,False
 2008,house,New York,NY,5,Gary Ackerman,Democratic,70.7,True,True,False
 2008,house,New York,NY,5,Elizabeth Berney,Republican,27.4,False,False,False
+2008,house,New York,NY,5,Jun Policarpio,Conservative,1.9,False,False,False
 2008,house,New York,NY,6,Gregory Meeks,Democratic,100.0,True,True,False
 2008,house,New York,NY,7,Joe Crowley,Democratic,84.7,True,True,False
 2008,house,New York,NY,7,William Britt,Republican,15.3,False,False,False
 2008,house,New York,NY,8,Jerry Nadler,Democratic,80.5,True,True,False
 2008,house,New York,NY,8,Grace Lin,Republican,19.5,False,False,False
 2008,house,New York,NY,9,Anthony Weiner,Democratic,93.3,True,True,False
+2008,house,New York,NY,9,Alfred F. Donohue Jr.,Conservative,6.7,False,False,False
 2008,house,New York,NY,10,Edolphus Towns,Democratic,94.2,True,True,False
 2008,house,New York,NY,10,Salvatore Grupico,Republican,5.8,False,False,False
 2008,house,New York,NY,11,Yvette Clarke,Democratic,92.8,True,True,False
 2008,house,New York,NY,11,Hugh Carr,Republican,6.4,False,False,False
+2008,house,New York,NY,11,Cartrell Gore,Conservative,0.8,False,False,False
 2008,house,New York,NY,12,Nydia Velázquez,Democratic,90.0,True,True,False
 2008,house,New York,NY,12,Allan Romaguera,Republican,10.0,False,False,False
 2008,house,New York,NY,13,Michael McMahon,Democratic,60.9,True,False,True
 2008,house,New York,NY,13,Robert Straniere,Republican,33.3,False,False,True
+2008,house,New York,NY,13,Timothy Cochrane,Conservative,3.1,False,False,True
+2008,house,New York,NY,13,Carmine Morano,Independence,2.7,False,False,True
 2008,house,New York,NY,14,Carolyn Maloney,Democratic,79.8,True,True,False
 2008,house,New York,NY,14,Robert Heim,Republican,19.0,False,False,False
 2008,house,New York,NY,14,Isaiah Matos,Libertarian,1.2,False,False,False
 2008,house,New York,NY,15,Charles Rangel,Democratic,89.2,True,True,False
 2008,house,New York,NY,15,Edward Daniels,Republican,7.9,False,False,False
 2008,house,New York,NY,15,Craig Schley,Independent,1.9,False,False,False
+2008,house,New York,NY,15,Martin Koppel,Socialist Workers,1.1,False,False,False
 2008,house,New York,NY,16,José E. Serrano,Democratic,96.6,True,True,False
 2008,house,New York,NY,16,Ali Mohamed,Republican,3.4,False,False,False
 2008,house,New York,NY,17,Eliot Engel,Democratic,79.9,True,True,False
@@ -690,6 +732,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,New York,NY,20,Sandy Treadwell,Republican,37.9,False,False,False
 2008,house,New York,NY,21,Paul Tonko,Democratic,62.1,True,False,True
 2008,house,New York,NY,21,James Buhrmaster,Republican,35.0,False,False,True
+2008,house,New York,NY,21,Phillip Steck,Independence,2.9,False,False,True
 2008,house,New York,NY,22,Maurice Hinchey,Democratic,66.3,True,True,False
 2008,house,New York,NY,22,George Phillips,Republican,33.7,False,False,False
 2008,house,New York,NY,23,John M. McHugh,Republican,65.3,True,True,False
@@ -701,8 +744,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,New York,NY,25,Howie Hawkins,Green,3.3,False,False,True
 2008,house,New York,NY,26,Chris Lee,Republican,55.0,True,False,True
 2008,house,New York,NY,26,Alice Kryzan,Democratic,40.5,False,False,True
+2008,house,New York,NY,26,Jon Powers,Working Families,4.5,False,False,True
 2008,house,New York,NY,27,Brian Higgins,Democratic,74.4,True,True,False
 2008,house,New York,NY,27,Daniel Humiston,Republican,22.6,False,False,False
+2008,house,New York,NY,27,Harold Schroeder,Conservative,3.0,False,False,False
 2008,house,New York,NY,28,Louise Slaughter,Democratic,78.0,True,True,False
 2008,house,New York,NY,28,David Crimmen,Republican,22.0,False,False,False
 2008,house,New York,NY,29,Eric Massa,Democratic,51.0,True,False,False
@@ -794,15 +839,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Oklahoma,OK,5,Stephen L. Perry,Democratic,34.1,False,False,False
 2008,house,Oregon,OR,1,David Wu,Democratic,71.5,True,True,False
 2008,house,Oregon,OR,1,Joel Haugen,Independent,17.5,False,False,False
+2008,house,Oregon,OR,1,Scott Semrau,Constitution,4.3,False,False,False
 2008,house,Oregon,OR,1,H. Joe Tabor,Libertarian,3.3,False,False,False
+2008,house,Oregon,OR,1,Chris Henry,Pacific Green,2.1,False,False,False
 2008,house,Oregon,OR,2,Greg Walden,Republican,69.5,True,True,False
 2008,house,Oregon,OR,2,Noah Lemas,Democratic,25.8,False,False,False
+2008,house,Oregon,OR,2,Tristin Mock,Pacific Green,2.8,False,False,False
+2008,house,Oregon,OR,2,Richard Hake,Constitution,1.7,False,False,False
 2008,house,Oregon,OR,3,Earl Blumenauer,Democratic,74.5,True,True,False
 2008,house,Oregon,OR,3,Delia Lopez,Republican,20.8,False,False,False
+2008,house,Oregon,OR,3,Michael Meo,Pacific Green,4.4,False,False,False
 2008,house,Oregon,OR,4,Peter DeFazio,Democratic,82.3,True,True,False
+2008,house,Oregon,OR,4,Jaynee Germond,Constitution,12.9,False,False,False
+2008,house,Oregon,OR,4,Mike Beilstein,Pacific Green,3.9,False,False,False
 2008,house,Oregon,OR,5,Kurt Schrader,Democratic,54.3,True,False,True
 2008,house,Oregon,OR,5,Mike Erickson,Republican,38.3,False,False,True
 2008,house,Oregon,OR,5,Sean Bates,Independent,2.0,False,False,True
+2008,house,Oregon,OR,5,Douglas Patterson,Constitution,2.0,False,False,True
+2008,house,Oregon,OR,5,Alex Polikoff,Pacific Green,1.6,False,False,True
 2008,house,Oregon,OR,5,Steve Milligan,Libertarian,1.4,False,False,True
 2008,house,Pennsylvania,PA,1,Bob Brady,Democratic,90.8,True,True,False
 2008,house,Pennsylvania,PA,1,Mike Muhammad,Republican,9.2,False,False,False
@@ -831,6 +885,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Pennsylvania,PA,12,John Murtha,Democratic,57.9,True,True,False
 2008,house,Pennsylvania,PA,12,William Russell,Republican,42.1,False,False,False
 2008,house,Pennsylvania,PA,13,Allyson Schwartz,Democratic,62.8,True,True,False
+2008,house,Pennsylvania,PA,13,John McDermott,Constitution,2.7,False,False,False
 2008,house,Pennsylvania,PA,14,Mike Doyle,Democratic,91.3,True,True,False
 2008,house,Pennsylvania,PA,14,Titus North,Green,8.7,False,False,False
 2008,house,Pennsylvania,PA,15,Charlie Dent,Republican,58.6,True,True,False
@@ -838,6 +893,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Pennsylvania,PA,16,Joe Pitts,Republican,55.8,True,True,False
 2008,house,Pennsylvania,PA,16,Bruce Slater,Democratic,39.4,False,False,False
 2008,house,Pennsylvania,PA,16,John Murphy,Independent,3.9,False,False,False
+2008,house,Pennsylvania,PA,16,Daniel Frank,Constitution,0.9,False,False,False
 2008,house,Pennsylvania,PA,17,Tim Holden,Democratic,63.7,True,True,False
 2008,house,Pennsylvania,PA,17,Toni Gilhooley,Republican,36.3,False,False,False
 2008,house,Pennsylvania,PA,18,Tim Murphy,Republican,64.1,True,False,False
@@ -860,6 +916,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,South Carolina,SC,4,C. Faye Walters,Green,2.4,False,False,True
 2008,house,South Carolina,SC,5,John Spratt,Democratic,61.6,True,True,False
 2008,house,South Carolina,SC,5,Albert F. Spencer,Republican,37.0,False,False,False
+2008,house,South Carolina,SC,5,Frank Waggoner,Constitution,1.3,False,False,False
 2008,house,South Carolina,SC,6,Jim Clyburn,Democratic,67.5,True,True,False
 2008,house,South Carolina,SC,6,Nancy Harrelson,Republican,32.5,False,False,False
 2008,house,South Dakota,SD,AL,Stephanie Herseth Sandlin,Democratic,67.6,True,True,False
@@ -981,15 +1038,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Texas,TX,32,Alex Bischoff,Libertarian,2.2,False,False,False
 2008,house,Utah,UT,1,Rob Bishop,Republican,64.9,True,True,False
 2008,house,Utah,UT,1,Morgan Bowen,Democratic,30.5,False,False,False
+2008,house,Utah,UT,1,Kirk Pearson,Constitution,2.4,False,False,False
 2008,house,Utah,UT,1,Joseph Geddes Buchman,Libertarian,2.2,False,False,False
 2008,house,Utah,UT,2,Jim Matheson,Democratic,63.4,True,True,False
 2008,house,Utah,UT,2,Bill Dew,Republican,34.5,False,False,False
 2008,house,Utah,UT,2,Matthew Arndt,Libertarian,1.3,False,False,False
+2008,house,Utah,UT,2,Dennis Ray Emery,Constitution,0.8,False,False,False
 2008,house,Utah,UT,3,Jason Chaffetz,Republican,65.6,True,False,False
 2008,house,Utah,UT,3,Bennion L. Spencer,Democratic,28.3,False,False,False
+2008,house,Utah,UT,3,Jim Noorlander,Constitution,6.1,False,False,False
 2008,house,Vermont,VT,AL,Peter Welch,Democratic,83.2,True,True,False
 2008,house,Vermont,VT,AL,Mike Bethel,Independent,4.8,False,False,False
+2008,house,Vermont,VT,AL,Jerry Trudell,Independent,3.6,False,False,False
+2008,house,Vermont,VT,AL,Thomas James Herman,Vermont Progressive,3.0,False,False,False
 2008,house,Vermont,VT,AL,Cris Ericson,Marijuana,2.6,False,False,False
+2008,house,Vermont,VT,AL,Jane Newton,Liberty Union,1.7,False,False,False
 2008,house,Virginia,VA,1,Rob Wittman,Republican,56.6,True,True,False
 2008,house,Virginia,VA,1,Bill Day,Democratic,41.8,False,False,False
 2008,house,Virginia,VA,1,Nathan Larson,Libertarian,1.5,False,False,False
@@ -1007,12 +1070,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Virginia,VA,7,Anita Hartke,Democratic,37.1,False,False,False
 2008,house,Virginia,VA,8,Jim Moran,Democratic,67.9,True,True,False
 2008,house,Virginia,VA,8,Mark Ellmore,Republican,29.7,False,False,False
+2008,house,Virginia,VA,8,J. Ron Fisher,Independent Greens of Virginia,2.1,False,False,False
 2008,house,Virginia,VA,9,Rick Boucher,Democratic,97.1,True,True,False
 2008,house,Virginia,VA,10,Frank Wolf,Republican,58.8,True,False,False
 2008,house,Virginia,VA,10,Judy Feder,Democratic,38.8,False,False,False
 2008,house,Virginia,VA,10,Neeraj Nigam,Independent,2.2,False,False,False
 2008,house,Virginia,VA,11,Gerry Connolly,Democratic,54.7,True,False,True
 2008,house,Virginia,VA,11,Keith Fimian,Republican,43.0,False,False,True
+2008,house,Virginia,VA,11,Joseph Oddo,Independent Greens of Virginia,2.0,False,False,True
 2008,house,Washington,WA,1,Jay Inslee,Democratic,67.8,True,True,False
 2008,house,Washington,WA,1,Larry Ishmael,Republican,32.2,False,False,False
 2008,house,Washington,WA,2,Rick Larsen,Democratic,62.4,True,True,False
@@ -1073,4 +1138,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2008,house,Northern Mariana Islands,NO,AL,Chong Won,Independent,2.4,False,False,True
 2008,house,Northern Mariana Islands,NO,AL,John Davis,Independent,1.5,False,False,True
 2008,house,Puerto Rico,PU,AL,Pedro Pierluisi,New Progressive Party (Puerto Rico),53.1,True,False,True
+2008,house,Puerto Rico,PU,AL,Alfredo Salazar,Popular Democratic Party (Puerto Rico),42.5,False,False,True
+2008,house,Puerto Rico,PU,AL,Carlos Alberto Velazquez Lopez,Puerto Ricans for Puerto Rico,2.4,False,False,True
+2008,house,Puerto Rico,PU,AL,Jessica Martinez,Puerto Rican Independence,2.0,False,False,True
 2008,house,U.S. Virgin Islands,U.,AL,Donna Christensen,Democratic,99.6,True,True,False

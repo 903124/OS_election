@@ -223,12 +223,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Hawaii,HI,1,Colleen Hanabusa,Democratic,71.9,True,False,True
 2016,house,Hawaii,HI,1,Shirlene D. Ostrov,Republican,22.7,False,False,True
 2016,house,Hawaii,HI,1,Alan Yim,Libertarian,3.3,False,False,True
+2016,house,Hawaii,HI,1,Calvin Griffin,Green,2.2,False,False,True
 2016,house,Hawaii,HI,2,Tulsi Gabbard,Democratic,81.2,True,True,False
 2016,house,Hawaii,HI,2,Angela Kaaihue,Republican,18.8,False,False,False
 2016,house,Idaho,ID,1,Raúl Labrador,Republican,68.2,True,True,False
 2016,house,Idaho,ID,1,James Piotrowski,Democratic,31.8,False,False,False
 2016,house,Idaho,ID,2,Mike Simpson,Republican,62.9,True,True,False
 2016,house,Idaho,ID,2,Jennifer Martinez,Democratic,29.4,False,False,False
+2016,house,Idaho,ID,2,Anthony Tomkins,Constitution,7.7,False,False,False
 2016,house,Illinois,IL,1,Bobby Rush,Democratic,74.1,True,True,False
 2016,house,Illinois,IL,1,August Deuser,Republican,25.9,False,False,False
 2016,house,Illinois,IL,2,Robin Kelly,Democratic,79.8,True,True,False
@@ -296,6 +298,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Iowa,IA,3,David Young,Republican,53.5,True,False,False
 2016,house,Iowa,IA,3,Jim Mowrer,Democratic,39.8,False,False,False
 2016,house,Iowa,IA,3,Bryan Jack Holder,Libertarian,3.9,False,False,False
+2016,house,Iowa,IA,3,Claudia Addy,Other,1.6,False,False,False
+2016,house,Iowa,IA,3,Joe Grandanette,Other,1.2,False,False,False
 2016,house,Iowa,IA,4,Steve King,Republican,61.3,True,True,False
 2016,house,Iowa,IA,4,Kim Weaver,Democratic,38.7,False,False,False
 2016,house,Kansas,KS,1,Roger Marshall,Republican,66.1,True,False,False
@@ -410,6 +414,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Massachusetts,MA,9,Bill Keating,Democratic,55.7,True,True,False
 2016,house,Massachusetts,MA,9,Mark Alliegro,Republican,33.6,False,False,False
 2016,house,Massachusetts,MA,9,Paul Harrington,Independent,6.9,False,False,False
+2016,house,Massachusetts,MA,9,Chris Cataldo,None,2.2,False,False,False
+2016,house,Massachusetts,MA,9,Anna Raduc,None,1.4,False,False,False
 2016,house,Michigan,MI,1,Jack Bergman,Republican,54.9,True,False,True
 2016,house,Michigan,MI,1,Lon Johnson,Democratic,40.1,False,False,True
 2016,house,Michigan,MI,1,Diane Bostow,Libertarian,3.7,False,False,True
@@ -418,8 +424,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Michigan,MI,2,Dennis B. Murphy,Democratic,32.5,False,False,False
 2016,house,Michigan,MI,2,Erwin J. Haas,Libertarian,2.4,False,False,False
 2016,house,Michigan,MI,2,Matthew Brady,Green,1.6,False,False,False
+2016,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,0.9,False,False,False
 2016,house,Michigan,MI,3,Justin Amash,Republican,59.5,True,True,False
 2016,house,Michigan,MI,3,Douglas Smith,Democratic,37.5,False,False,False
+2016,house,Michigan,MI,3,Ted Gerrard,US Taxpayers,3.0,False,False,False
 2016,house,Michigan,MI,4,John Moolenaar,Republican,61.6,True,True,False
 2016,house,Michigan,MI,4,Debra Wirth,Democratic,32.1,False,False,False
 2016,house,Michigan,MI,4,Leonard Schwartz,Libertarian,2.7,False,False,False
@@ -427,7 +435,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Michigan,MI,5,Dan Kildee,Democratic,61.2,True,True,False
 2016,house,Michigan,MI,5,Allen Hardwick,Republican,35.1,False,False,False
 2016,house,Michigan,MI,5,Steve Sluka,Libertarian,2.2,False,False,False
+2016,house,Michigan,MI,5,George Zimmer,US Taxpayers,1.8,False,False,False
 2016,house,Michigan,MI,5,Harley Mikkelson,Green,1.5,False,False,False
+2016,house,Michigan,MI,5,Keith Butkovich,Natural Law,0.6,False,False,False
 2016,house,Michigan,MI,6,Fred Upton,Republican,58.7,True,True,False
 2016,house,Michigan,MI,6,Paul Clements,Democratic,36.4,False,False,False
 2016,house,Michigan,MI,6,Lorence Wenke,Libertarian,4.9,False,False,False
@@ -438,6 +448,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Michigan,MI,8,Suzanna Shkreli,Democratic,39.2,False,False,False
 2016,house,Michigan,MI,8,Jeff Wood,Libertarian,2.6,False,False,False
 2016,house,Michigan,MI,8,Maria Green,Green,1.5,False,False,False
+2016,house,Michigan,MI,8,Jeremy Burgess,Natural Law,0.6,False,False,False
 2016,house,Michigan,MI,9,Sander Levin,Democratic,57.9,True,True,False
 2016,house,Michigan,MI,9,Christopher Morse,Republican,37.4,False,False,False
 2016,house,Michigan,MI,9,Matthew Orlando,Libertarian,2.8,False,False,False
@@ -452,11 +463,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Michigan,MI,11,Jonathan Osment,Libertarian,2.5,False,False,False
 2016,house,Michigan,MI,12,Debbie Dingell,Democratic,64.3,True,True,False
 2016,house,Michigan,MI,12,Jeff Jones,Republican,29.3,False,False,False
+2016,house,Michigan,MI,12,Gary Walkowicz,Working Class,2.8,False,False,False
 2016,house,Michigan,MI,12,Tom Bagwell,Libertarian,2.3,False,False,False
 2016,house,Michigan,MI,12,Dylan Calewarts,Green,1.3,False,False,False
 2016,house,Michigan,MI,13,John Conyers,Democratic,77.1,True,True,False
 2016,house,Michigan,MI,13,Jeff Gorman,Republican,15.7,False,False,False
 2016,house,Michigan,MI,13,Tiffany Hayden,Libertarian,3.8,False,False,False
+2016,house,Michigan,MI,13,Sam Johnson,Working Class,3.4,False,False,False
 2016,house,Michigan,MI,14,Brenda Lawrence,Democratic,78.5,True,True,False
 2016,house,Michigan,MI,14,Howard Klausner,Republican,18.7,False,False,False
 2016,house,Michigan,MI,14,Gregory Creswell,Libertarian,1.6,False,False,False
@@ -470,8 +483,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Minnesota,MN,3,Terri Bonoff,DFL,43.0,False,False,False
 2016,house,Minnesota,MN,4,Betty McCollum,DFL,57.8,True,False,False
 2016,house,Minnesota,MN,4,Greg Ryan,Republican,34.4,False,False,False
+2016,house,Minnesota,MN,4,Susan Sindt,Legal Marijuana Now,7.7,False,False,False
 2016,house,Minnesota,MN,5,Keith Ellison,DFL,69.1,True,False,False
 2016,house,Minnesota,MN,5,Frank Drake,Republican,22.3,False,False,False
+2016,house,Minnesota,MN,5,Dennis Schuller,Legal Marijuana Now,8.5,False,False,False
 2016,house,Minnesota,MN,6,Tom Emmer,Republican,65.6,True,True,False
 2016,house,Minnesota,MN,6,David Snyder,DFL,34.3,False,False,False
 2016,house,Minnesota,MN,7,Collin Peterson,DFL,52.5,True,False,False
@@ -481,14 +496,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Mississippi,MS,1,Trent Kelly,Republican,68.7,True,True,False
 2016,house,Mississippi,MS,1,Jacob Owens,Democratic,27.9,False,False,False
 2016,house,Mississippi,MS,1,Chase Wilson,Libertarian,2.1,False,False,False
+2016,house,Mississippi,MS,1,Cathy Toole,Reform,1.3,False,False,False
 2016,house,Mississippi,MS,2,Bennie Thompson,Democratic,67.1,True,True,False
 2016,house,Mississippi,MS,2,John Bouie,Republican,29.1,False,False,False
 2016,house,Mississippi,MS,2,Troy Ray,Independent,2.4,False,False,False
+2016,house,Mississippi,MS,2,Johnny McLeod,Reform,1.3,False,False,False
 2016,house,Mississippi,MS,3,Gregg Harper,Republican,66.2,True,True,False
 2016,house,Mississippi,MS,3,Dennis Quinn,Democratic,30.4,False,False,False
+2016,house,Mississippi,MS,3,Roger Gerrard,Veterans Party of America,2.7,False,False,False
+2016,house,Mississippi,MS,3,Lajena Sheets,Reform,0.7,False,False,False
 2016,house,Mississippi,MS,4,Steven Palazzo,Republican,65.0,True,True,False
 2016,house,Mississippi,MS,4,Mark Gladney,Democratic,27.8,False,False,False
 2016,house,Mississippi,MS,4,Ric McCluskey,Libertarian,5.3,False,False,False
+2016,house,Mississippi,MS,4,Shawn O'Hara,Reform,1.9,False,False,False
 2016,house,Missouri,MO,1,Lacy Clay,Democratic,75.5,True,True,False
 2016,house,Missouri,MO,1,Steven G. Bailey,Republican,20.0,False,False,False
 2016,house,Missouri,MO,1,Robb Cunningham,Libertarian,4.6,False,False,False
@@ -499,6 +519,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Missouri,MO,3,Blaine Luetkemeyer,Republican,67.8,True,True,False
 2016,house,Missouri,MO,3,Kevin Miller,Democratic,27.9,False,False,False
 2016,house,Missouri,MO,3,Dan Hogan,Libertarian,3.3,False,False,False
+2016,house,Missouri,MO,3,Doanita Simmons,Constitution,1.0,False,False,False
 2016,house,Missouri,MO,4,Vicky Hartzler,Republican,67.8,True,True,False
 2016,house,Missouri,MO,4,Gordon Christensen,Democratic,27.8,False,False,False
 2016,house,Missouri,MO,4,Mark Bliss,Libertarian,4.3,False,False,False
@@ -527,15 +548,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Nevada,NV,1,Dina Titus,Democratic,61.9,True,True,False
 2016,house,Nevada,NV,1,Mary Perry,Republican,28.8,False,False,False
 2016,house,Nevada,NV,1,Reuben D'Silva,Independent,7.3,False,False,False
+2016,house,Nevada,NV,1,Kamau Bakari,Independent American,2.0,False,False,False
 2016,house,Nevada,NV,2,Mark Amodei,Republican,58.3,True,True,False
 2016,house,Nevada,NV,2,Chip Evans,Democratic,36.9,False,False,False
+2016,house,Nevada,NV,2,John Everhart,Independent American,2.8,False,False,False
 2016,house,Nevada,NV,2,Drew Knight,Independent,2.0,False,False,False
 2016,house,Nevada,NV,3,Jacky Rosen,Democratic,47.2,True,False,True
 2016,house,Nevada,NV,3,Danny Tarkanian,Republican,46.0,False,False,True
+2016,house,Nevada,NV,3,Warren Markowitz,Independent American,3.7,False,False,True
 2016,house,Nevada,NV,3,David Goossen,Independent,3.1,False,False,True
 2016,house,Nevada,NV,4,Ruben Kihuen,Democratic,48.5,True,False,False
 2016,house,Nevada,NV,4,Cresent Hardy,Republican,44.5,False,True,False
 2016,house,Nevada,NV,4,Steve Brown,Libertarian,3.8,False,False,False
+2016,house,Nevada,NV,4,Mike Little,Independent American,3.1,False,False,False
 2016,house,New Hampshire,NH,1,Carol Shea-Porter,Democratic,44.3,True,False,False
 2016,house,New Hampshire,NH,1,Frank Guinta,Republican,43.0,False,True,False
 2016,house,New Hampshire,NH,1,Shawn O'Connor,Independent,9.5,False,False,False
@@ -552,6 +577,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,New Jersey,NJ,2,John Ordille,Libertarian,1.3,False,False,False
 2016,house,New Jersey,NJ,3,Tom MacArthur,Republican,59.3,True,True,False
 2016,house,New Jersey,NJ,3,Fred LaVergne,Democratic,38.9,False,False,False
+2016,house,New Jersey,NJ,3,Lawrence Berlinski,Constitution,1.8,False,False,False
 2016,house,New Jersey,NJ,4,Chris Smith,Republican,63.7,True,False,False
 2016,house,New Jersey,NJ,4,Lorna Phillipson,Democratic,33.5,False,False,False
 2016,house,New Jersey,NJ,4,Hank Schroeder,Independent,1.8,False,False,False
@@ -610,7 +636,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,New York,NY,7,Nydia Velázquez,Democratic,90.7,True,True,False
 2016,house,New York,NY,7,Allan Romaguera,Republican,9.2,False,False,False
 2016,house,New York,NY,8,Hakeem Jeffries,Democratic,93.2,True,True,False
+2016,house,New York,NY,8,Daniel Cavanagh,Conservative Party (New York),6.7,False,False,False
 2016,house,New York,NY,9,Yvette Clarke,Democratic,92.3,True,True,False
+2016,house,New York,NY,9,Alan Bellone,Conservative Party (New York),7.6,False,False,False
 2016,house,New York,NY,10,Jerry Nadler,Democratic,78.0,True,True,False
 2016,house,New York,NY,10,Phillip Rosenthal,Republican,21.9,False,False,False
 2016,house,New York,NY,11,Dan Donovan,Republican,61.5,True,False,False
@@ -626,6 +654,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,New York,NY,14,Frank Spotorno,Republican,17.1,False,False,False
 2016,house,New York,NY,15,José E. Serrano,Democratic,95.2,True,True,False
 2016,house,New York,NY,15,Alejandro Vega,Republican,3.5,False,False,False
+2016,house,New York,NY,15,Eduardo Ramirez,Conservative Party (New York),1.2,False,False,False
 2016,house,New York,NY,16,Eliot Engel,Democratic,94.4,True,True,False
 2016,house,New York,NY,16,Derickson Lawrence,Independent,5.3,False,False,False
 2016,house,New York,NY,17,Nita Lowey,Democratic,99.1,True,True,False
@@ -640,6 +669,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,New York,NY,21,Matthew Funiciello,Green,4.6,False,False,False
 2016,house,New York,NY,22,Claudia Tenney,Republican,46.5,True,False,True
 2016,house,New York,NY,22,Kim Myers,Democratic,41.0,False,False,True
+2016,house,New York,NY,22,Martin Babinec,Reform,11.8,False,False,True
 2016,house,New York,NY,23,Tom Reed,Republican,57.6,True,False,False
 2016,house,New York,NY,23,John Plumb,Democratic,42.4,False,False,False
 2016,house,New York,NY,24,John Katko,Republican,60.5,True,True,False
@@ -734,11 +764,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Oregon,OR,2,Greg Walden,Republican,71.7,True,True,False
 2016,house,Oregon,OR,2,Jim Crary,Democratic,28.0,False,False,False
 2016,house,Oregon,OR,3,Earl Blumenauer,Democratic,71.8,True,True,False
+2016,house,Oregon,OR,3,David Walker,Independent Party of Oregon,20.5,False,False,False
+2016,house,Oregon,OR,3,David Delk,Progressive,7.3,False,False,False
 2016,house,Oregon,OR,4,Peter DeFazio,Democratic,55.5,True,True,False
 2016,house,Oregon,OR,4,Art Robinson,Republican,39.7,False,False,False
+2016,house,Oregon,OR,4,Mike Beilstein,Pacific Green,3.0,False,False,False
 2016,house,Oregon,OR,4,Gil Guthrie,Libertarian,1.6,False,False,False
 2016,house,Oregon,OR,5,Kurt Schrader,Democratic,53.5,True,True,False
 2016,house,Oregon,OR,5,Colm Willis,Republican,43.0,False,False,False
+2016,house,Oregon,OR,5,Marvin Sandnes,Pacific Green,3.4,False,False,False
 2016,house,Pennsylvania,PA,1,Bob Brady,Democratic,82.2,True,True,False
 2016,house,Pennsylvania,PA,1,Deborah Williams,Republican,17.8,False,False,False
 2016,house,Pennsylvania,PA,2,Dwight Evans,Democratic,90.2,True,False,True
@@ -783,14 +817,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,South Carolina,SC,1,Mark Sanford,Republican,58.6,True,True,True
 2016,house,South Carolina,SC,1,Dimitri Cherny,Democratic,36.8,False,False,True
 2016,house,South Carolina,SC,1,Michael Crier,Libertarian,3.6,False,False,True
+2016,house,South Carolina,SC,1,Albert Travison,American Party of South Carolina,0.9,False,False,True
 2016,house,South Carolina,SC,2,Joe Wilson,Republican,60.3,True,False,False
 2016,house,South Carolina,SC,2,Arik Bjorn,Democratic,35.9,False,False,False
+2016,house,South Carolina,SC,2,Eddie McCain,American Party of South Carolina,3.8,False,False,False
 2016,house,South Carolina,SC,3,Jeff Duncan,Republican,72.8,True,False,False
 2016,house,South Carolina,SC,3,Hosea Cleveland,Democratic,27.1,False,False,False
 2016,house,South Carolina,SC,4,Trey Gowdy,Republican,67.2,True,True,False
 2016,house,South Carolina,SC,4,Chris Fedalei,Democratic,31.0,False,False,False
+2016,house,South Carolina,SC,4,Michael Chandler,Constitution,1.7,False,False,False
 2016,house,South Carolina,SC,5,Mick Mulvaney,Republican,59.2,True,True,False
 2016,house,South Carolina,SC,5,Fran Person,Democratic,38.7,False,False,False
+2016,house,South Carolina,SC,5,Rudy Barnes,American Party of South Carolina,2.0,False,False,False
 2016,house,South Carolina,SC,6,Jim Clyburn,Democratic,70.1,True,True,False
 2016,house,South Carolina,SC,6,Laura Sterling,Republican,27.6,False,False,False
 2016,house,South Carolina,SC,6,Rich Piotrowski,Libertarian,1.2,False,False,False
@@ -931,13 +969,17 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Utah,UT,1,Rob Bishop,Republican,65.9,True,True,False
 2016,house,Utah,UT,1,Peter Clemens,Democratic,26.4,False,False,False
 2016,house,Utah,UT,1,Craig Bowden,Libertarian,5.9,False,False,False
+2016,house,Utah,UT,1,Chadwick Fairbanks,None,1.7,False,False,False
 2016,house,Utah,UT,2,Chris Stewart,Republican,61.6,True,False,False
 2016,house,Utah,UT,2,Charlene Albarran,Democratic,33.9,False,False,False
+2016,house,Utah,UT,2,Paul McCollaum,Constitution,4.5,False,False,False
 2016,house,Utah,UT,3,Jason Chaffetz,Republican,73.5,True,True,False
 2016,house,Utah,UT,3,Stephen Tryon,Democratic,26.5,False,False,False
 2016,house,Utah,UT,4,Mia Love,Republican,53.8,True,True,False
 2016,house,Utah,UT,4,Doug Owens,Democratic,41.3,False,False,False
+2016,house,Utah,UT,4,Collin Simonsen,Constitution,4.9,False,False,False
 2016,house,Vermont,VT,AL,Peter Welch,Democratic,82.5,True,True,False
+2016,house,Vermont,VT,AL,Erica Clawson,Liberty Union,9.2,False,False,False
 2016,house,Virginia,VA,1,Rob Wittman,Republican,59.9,True,True,False
 2016,house,Virginia,VA,1,Matt Rowe,Democratic,36.6,False,False,False
 2016,house,Virginia,VA,1,Gail Parker,Independent,3.4,False,False,False
@@ -1011,6 +1053,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,Wisconsin,WI,8,Tom Nelson,Democratic,37.3,False,False,True
 2016,house,Wyoming,WY,AL,Liz Cheney,Republican,60.3,True,False,True
 2016,house,Wyoming,WY,AL,Ryan Greene,Democratic,29.2,False,False,True
+2016,house,Wyoming,WY,AL,Daniel Cummings,Constitution,4.0,False,False,True
 2016,house,Wyoming,WY,AL,Lawrence Struempf,Libertarian,3.5,False,False,True
 2016,house,American Samoa,AM,AL,Aumua Amata Radewagen,Republican,75.4,True,True,False
 2016,house,American Samoa,AM,AL,Salu Hunkin-Finau,Democratic,13.4,False,False,False
@@ -1018,9 +1061,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2016,house,American Samoa,AM,AL,Meleagi Suitonu-Chapman,Democratic,1.5,False,False,False
 2016,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,88.1,True,True,False
 2016,house,District of Columbia,DC,AL,Martin Moulton,Libertarian,6.2,False,False,False
+2016,house,District of Columbia,DC,AL,Natale Stracuzzi,Green,4.8,False,False,False
 2016,house,Guam,GU,AL,Madeleine Bordallo,Democratic,53.7,True,True,False
 2016,house,Guam,GU,AL,Felix Camacho,Republican,45.7,False,False,False
 2016,house,Northern Mariana Islands,NO,AL,Gregorio Sablan,Independent,100.0,True,True,False
 2016,house,Puerto Rico,PU,AL,Jenniffer González,New Progressive Party (Puerto Rico),48.8,True,False,True
 2016,house,Puerto Rico,PU,AL,Héctor Ferrer,Popular Democratic Party (Puerto Rico),47.2,False,False,True
+2016,house,Puerto Rico,PU,AL,Hugo Rodríguez,Puerto Rican Independence,2.7,False,False,True
+2016,house,Puerto Rico,PU,AL,Mariana Nogales Molinelli,Working People's Party (Puerto Rico),1.3,False,False,True
 2016,house,United States Virgin Islands,UN,AL,Stacey Plaskett,Democratic,100.0,True,True,False

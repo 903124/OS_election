@@ -147,24 +147,30 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,California,CA,53,Georgette Gómez,Democratic,40.5,False,False,True
 2020,house,Colorado,CO,1,Diana DeGette,Democratic,73.6,True,True,False
 2020,house,Colorado,CO,1,Shane Bolling,Republican,23.5,False,False,False
+2020,house,Colorado,CO,1,Jan Kok,Approval Voting,1.9,False,False,False
 2020,house,Colorado,CO,2,Joe Neguse,Democratic,61.5,True,True,False
 2020,house,Colorado,CO,2,Charlie Winn,Republican,35.4,False,False,False
 2020,house,Colorado,CO,2,Thom Atkinson,Libertarian,2.6,False,False,False
+2020,house,Colorado,CO,2,Gary Swing,Unity Party of America,0.5,False,False,False
 2020,house,Colorado,CO,3,Lauren Boebert,Republican,51.4,True,False,False
 2020,house,Colorado,CO,3,Diane Mitsch Bush,Democratic,45.2,False,False,False
 2020,house,Colorado,CO,3,John Ryan Keil,Libertarian,2.4,False,False,False
+2020,house,Colorado,CO,3,Critter Milton,Unity Party of America,1.0,False,False,False
 2020,house,Colorado,CO,4,Ken Buck,Republican,60.1,True,True,False
 2020,house,Colorado,CO,4,Ike McCorkle,Democratic,36.6,False,False,False
 2020,house,Colorado,CO,4,Bruce Griffith,Libertarian,2.3,False,False,False
+2020,house,Colorado,CO,4,Laura Ireland,Unity Party of America,1.0,False,False,False
 2020,house,Colorado,CO,5,Doug Lamborn,Republican,57.6,True,True,False
 2020,house,Colorado,CO,5,Jillian Freeland,Democratic,37.4,False,False,False
 2020,house,Colorado,CO,5,Ed Duffett,Libertarian,3.4,False,False,False
 2020,house,Colorado,CO,6,Jason Crow,Democratic,57.1,True,True,False
 2020,house,Colorado,CO,6,Steve House,Republican,40.0,False,False,False
 2020,house,Colorado,CO,6,Norm Olsen,Libertarian,2.1,False,False,False
+2020,house,Colorado,CO,6,Jaimie Kulikowski,Unity Party of America,0.9,False,False,False
 2020,house,Colorado,CO,7,Ed Perlmutter,Democratic,59.1,True,True,False
 2020,house,Colorado,CO,7,Casper Stockham,Republican,37.6,False,False,False
 2020,house,Colorado,CO,7,Ken Biles,Libertarian,2.7,False,False,False
+2020,house,Colorado,CO,7,David Olszta,Unity Party of America,0.6,False,False,False
 2020,house,Connecticut,CT,1,John B. Larson,Democratic,63.8,True,True,False
 2020,house,Connecticut,CT,1,Mary Fay,Republican,35.0,False,False,False
 2020,house,Connecticut,CT,1,Thomas McCormick,Green,1.3,False,False,False
@@ -183,12 +189,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Connecticut,CT,5,Bruce Walczak,Independent,1.4,False,False,False
 2020,house,Delaware,DE,AL,Lisa Blunt Rochester,Democratic,57.6,True,True,False
 2020,house,Delaware,DE,AL,Lee Murphy,Republican,40.2,False,False,False
-2020,house,Delaware,DE,AL,IPoD,Independent,1.4,False,False,False
+2020,house,Delaware,DE,AL,Catherine Purcell,Independent,1.4,False,False,False
 2020,house,Delaware,DE,AL,David Rogers,Libertarian,0.8,False,False,False
 2020,house,Florida,FL,1,Matt Gaetz,Republican,64.6,True,True,False
 2020,house,Florida,FL,1,Phil Ehr,Democratic,34.0,False,False,False
 2020,house,Florida,FL,1,Albert Oram,Independent,1.4,False,False,False
 2020,house,Florida,FL,2,Neal Dunn,Republican,97.9,True,True,False
+2020,house,Florida,FL,2,Kim O'Connor,Write-in,2.1,False,False,False
 2020,house,Florida,FL,3,Kat Cammack,Republican,57.1,True,False,True
 2020,house,Florida,FL,3,Adam Christensen,Democratic,42.9,False,False,True
 2020,house,Florida,FL,4,John Rutherford,Republican,61.1,True,True,False
@@ -276,7 +283,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Hawaii,HI,2,Kai Kahele,Democratic,63.0,True,False,True
 2020,house,Hawaii,HI,2,Joe Akana,Republican,30.9,False,False,True
 2020,house,Hawaii,HI,2,Michelle Tippens,Libertarian,2.5,False,False,True
+2020,house,Hawaii,HI,2,Jonathan Hoomanawanui,Aloha ʻĀina,2.4,False,False,True
 2020,house,Hawaii,HI,2,Ron Burrus,Independent,1.0,False,False,True
+2020,house,Hawaii,HI,2,John Giuffre,American Shopping,0.2,False,False,True
 2020,house,Idaho,ID,1,Russ Fulcher,Republican,67.8,True,True,False
 2020,house,Idaho,ID,1,Rudy Soto,Democratic,28.6,False,False,False
 2020,house,Idaho,ID,1,Joe Evans,Libertarian,3.6,False,False,False
@@ -370,6 +379,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Kentucky,KY,2,Brett Guthrie,Republican,71.0,True,True,False
 2020,house,Kentucky,KY,2,Hank Linderman,Democratic,26.3,False,False,False
 2020,house,Kentucky,KY,2,Robert Lee Perry,Libertarian,2.1,False,False,False
+2020,house,Kentucky,KY,2,Lewis Carter,Populist,0.7,False,False,False
 2020,house,Kentucky,KY,3,John Yarmuth,Democratic,62.7,True,True,False
 2020,house,Kentucky,KY,3,Rhonda Palazzo,Republican,37.3,False,False,False
 2020,house,Kentucky,KY,4,Thomas Massie,Republican,67.1,True,True,False
@@ -454,6 +464,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Michigan,MI,4,Amy Slepr,Green,1.2,False,False,False
 2020,house,Michigan,MI,5,Dan Kildee,Democratic,54.4,True,True,False
 2020,house,Michigan,MI,5,Tim Kelly,Republican,41.8,False,False,False
+2020,house,Michigan,MI,5,Kathy Goodwin,Working Class,2.3,False,False,False
 2020,house,Michigan,MI,5,James Harris,Libertarian,1.5,False,False,False
 2020,house,Michigan,MI,6,Fred Upton,Republican,55.8,True,True,False
 2020,house,Michigan,MI,6,Jon Hoadley,Democratic,40.1,False,False,False
@@ -466,6 +477,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Michigan,MI,8,Joe Hartman,Libertarian,1.8,False,False,False
 2020,house,Michigan,MI,9,Andy Levin,Democratic,57.7,True,True,False
 2020,house,Michigan,MI,9,Charles Langworthy,Republican,38.4,False,False,False
+2020,house,Michigan,MI,9,Andrea Kirby,Working Class,2.3,False,False,False
 2020,house,Michigan,MI,9,Mike Saliba,Libertarian,1.6,False,False,False
 2020,house,Michigan,MI,10,Lisa McClain,Republican,66.3,True,False,True
 2020,house,Michigan,MI,10,Kimberly Bizon,Democratic,33.7,False,False,True
@@ -474,27 +486,35 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Michigan,MI,11,Leonard Schwartz,Libertarian,2.0,False,False,False
 2020,house,Michigan,MI,12,Debbie Dingell,Democratic,66.4,True,True,False
 2020,house,Michigan,MI,12,Jeff Jones,Republican,30.7,False,False,False
+2020,house,Michigan,MI,12,Gary Walkowicz,Working Class,2.9,False,False,False
 2020,house,Michigan,MI,13,Rashida Tlaib,Democratic,78.1,True,True,False
 2020,house,Michigan,MI,13,David Dudenhoefer,Republican,18.7,False,False,False
+2020,house,Michigan,MI,13,Sam Johnson,Working Class,1.8,False,False,False
 2020,house,Michigan,MI,14,Brenda Lawrence,Democratic,79.3,True,True,False
 2020,house,Michigan,MI,14,Robert Patrick,Republican,18.3,False,False,False
 2020,house,Michigan,MI,14,Lisa Lane Gioia,Libertarian,1.1,False,False,False
 2020,house,Minnesota,MN,1,Jim Hagedorn,Republican,48.6,True,True,False
 2020,house,Minnesota,MN,1,Dan Feehan,DFL,45.5,False,False,False
+2020,house,Minnesota,MN,1,Bill Rood,Marijuana,5.8,False,False,False
 2020,house,Minnesota,MN,2,Angie Craig,DFL,48.2,True,False,False
 2020,house,Minnesota,MN,2,Tyler Kistner,Republican,45.9,False,False,False
 2020,house,Minnesota,MN,3,Dean Phillips,DFL,55.6,True,False,False
 2020,house,Minnesota,MN,3,Kendall Qualls,Republican,44.3,False,False,False
 2020,house,Minnesota,MN,4,Betty McCollum,DFL,63.2,True,False,False
 2020,house,Minnesota,MN,4,Gene Rechtzigel,Republican,29.0,False,False,False
+2020,house,Minnesota,MN,4,Susan Sindt,Marijuana,7.6,False,False,False
 2020,house,Minnesota,MN,5,Ilhan Omar,DFL,64.3,True,False,False
 2020,house,Minnesota,MN,5,Lacy Johnson,Republican,25.8,False,False,False
+2020,house,Minnesota,MN,5,Michael Moore,Marijuana,9.5,False,False,False
 2020,house,Minnesota,MN,6,Tom Emmer,Republican,65.7,True,True,False
 2020,house,Minnesota,MN,6,Tawnja Zahradka,DFL,34.2,False,False,False
 2020,house,Minnesota,MN,7,Michelle Fischbach,Republican,53.4,True,False,False
 2020,house,Minnesota,MN,7,Collin Peterson,DFL,39.8,False,False,False
+2020,house,Minnesota,MN,7,Slater Johnson,Marijuana,4.9,False,False,False
+2020,house,Minnesota,MN,7,Rae Hart Anderson,Marijuana,1.8,False,False,False
 2020,house,Minnesota,MN,8,Pete Stauber,Republican,56.7,True,True,False
 2020,house,Minnesota,MN,8,Quinn Nystrom,DFL,37.6,False,False,False
+2020,house,Minnesota,MN,8,Judith Schwartzbacker,Marijuana,5.6,False,False,False
 2020,house,Mississippi,MS,1,Trent Kelly,Republican,68.8,True,True,False
 2020,house,Mississippi,MS,1,Antonia Eliason,Democratic,31.2,False,False,False
 2020,house,Mississippi,MS,2,Bennie Thompson,Democratic,66.0,True,True,False
@@ -540,14 +560,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Nevada,NV,1,Dina Titus,Democratic,61.8,True,True,False
 2020,house,Nevada,NV,1,Joyce Bentley,Republican,33.4,False,False,False
 2020,house,Nevada,NV,1,Robert Van Strawder,Libertarian,2.8,False,False,False
+2020,house,Nevada,NV,1,Kamau Bakari,Independent American,2.1,False,False,False
 2020,house,Nevada,NV,2,Mark Amodei,Republican,56.5,True,True,False
 2020,house,Nevada,NV,2,Patricia Ackerman,Democratic,40.7,False,False,False
+2020,house,Nevada,NV,2,Janine Hansen,Independent American,2.8,False,False,False
 2020,house,Nevada,NV,3,Susie Lee,Democratic,48.8,True,True,False
 2020,house,Nevada,NV,3,Dan Rodimer,Republican,45.8,False,False,False
 2020,house,Nevada,NV,3,Steve Brown,Libertarian,2.9,False,False,False
+2020,house,Nevada,NV,3,Edward Bridges,Independent American,2.5,False,False,False
 2020,house,Nevada,NV,4,Steven Horsford,Democratic,50.7,True,True,False
 2020,house,Nevada,NV,4,Jim Marchant,Republican,45.8,False,False,False
 2020,house,Nevada,NV,4,Jonathan Esteban,Libertarian,2.4,False,False,False
+2020,house,Nevada,NV,4,Barry Rubinson,Independent American,1.1,False,False,False
 2020,house,New Hampshire,NH,1,Chris Pappas,Democratic,51.3,True,True,False
 2020,house,New Hampshire,NH,1,Matt Mowers,Republican,46.2,False,False,False
 2020,house,New Hampshire,NH,1,Zachary Dumont,Libertarian,2.4,False,False,False
@@ -625,15 +649,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,New York,NY,12,Steven Kolln,Libertarian,1.2,False,False,False
 2020,house,New York,NY,13,Adriano Espaillat,Democratic,90.9,True,True,False
 2020,house,New York,NY,13,Lovelynn Gwinn,Republican,7.8,False,False,False
+2020,house,New York,NY,13,Christopher Morris-Perry,Conservative,1.3,False,False,False
 2020,house,New York,NY,14,Alexandria Ocasio-Cortez,Democratic,71.6,True,True,False
 2020,house,New York,NY,14,John Cummings,Republican,27.4,False,False,False
 2020,house,New York,NY,14,Michelle Caruso-Cabrera,Serve America Movement,1.0,False,False,False
 2020,house,New York,NY,15,Ritchie Torres,Democratic,88.9,True,False,True
 2020,house,New York,NY,15,Patrick Delices,Republican,11.1,False,False,True
 2020,house,New York,NY,16,Jamaal Bowman,Democratic,84.2,True,False,False
+2020,house,New York,NY,16,Patrick McManus,Conservative,15.8,False,False,False
 2020,house,New York,NY,17,Mondaire Jones,Democratic,59.3,True,False,True
 2020,house,New York,NY,17,Maureen McArdle-Schulman,Republican,35.3,False,False,True
+2020,house,New York,NY,17,Yehudis Gottesfeld,Conservative,2.7,False,False,True
 2020,house,New York,NY,17,Joshua Eisen,Independent,1.9,False,False,True
+2020,house,New York,NY,17,Michael Parietti,Serve America Movement,0.8,False,False,True
 2020,house,New York,NY,18,Sean Patrick Maloney,Democratic,55.8,True,True,False
 2020,house,New York,NY,18,Chele Farley,Republican,43.2,False,False,False
 2020,house,New York,NY,18,Scott Smith,Libertarian,1.0,False,False,False
@@ -653,6 +681,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,New York,NY,23,Andrew Kolstee,Libertarian,1.2,False,False,False
 2020,house,New York,NY,24,John Katko,Republican,53.1,True,True,False
 2020,house,New York,NY,24,Dana Balter,Democratic,43.0,False,False,False
+2020,house,New York,NY,24,Steven Williams,Working Families,3.9,False,False,False
 2020,house,New York,NY,25,Joseph Morelle,Democratic,59.3,True,True,False
 2020,house,New York,NY,25,George Mitris,Republican,39.2,False,False,False
 2020,house,New York,NY,25,Kevin Wilson,Libertarian,1.5,False,False,False
@@ -673,6 +702,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,North Carolina,NC,4,Robert Thomas,Republican,32.7,False,False,False
 2020,house,North Carolina,NC,5,Virginia Foxx,Republican,66.9,True,True,False
 2020,house,North Carolina,NC,5,David Wilson Brown,Democratic,31.1,False,False,False
+2020,house,North Carolina,NC,5,Jeff Gregory,Constitution,2.0,False,False,False
 2020,house,North Carolina,NC,6,Kathy Manning,Democratic,62.3,True,False,True
 2020,house,North Carolina,NC,6,Lee Haywood,Republican,37.7,False,False,True
 2020,house,North Carolina,NC,7,David Rouzer,Republican,60.2,True,True,False
@@ -691,6 +721,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,North Carolina,NC,13,Ted Budd,Republican,68.2,True,True,False
 2020,house,North Carolina,NC,13,Scott Huffman,Democratic,31.8,False,False,False
 2020,house,North Dakota,ND,AL,Kelly Armstrong,Republican,69.0,True,True,False
+2020,house,North Dakota,ND,AL,Zach Raknerud,Democratic-NPL,27.6,False,False,False
 2020,house,North Dakota,ND,AL,Steven Peterson,Libertarian,3.4,False,False,False
 2020,house,Ohio,OH,1,Steve Chabot,Republican,51.8,True,True,False
 2020,house,Ohio,OH,1,Kate Schroder,Democratic,44.7,False,False,False
@@ -749,9 +780,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Oregon,OR,2,Robert Werch,Libertarian,3.1,False,False,True
 2020,house,Oregon,OR,3,Earl Blumenauer,Democratic,73.0,True,True,False
 2020,house,Oregon,OR,3,Joanna Harbour,Republican,23.5,False,False,False
+2020,house,Oregon,OR,3,Alex DiBlasi,Pacific Green,1.9,False,False,False
 2020,house,Oregon,OR,3,Josh Solomon,Libertarian,1.5,False,False,False
 2020,house,Oregon,OR,4,Peter DeFazio,Democratic,51.5,True,True,False
 2020,house,Oregon,OR,4,Alek Skarlatos,Republican,46.2,False,False,False
+2020,house,Oregon,OR,4,Daniel Hoffay,Pacific Green,2.2,False,False,False
 2020,house,Oregon,OR,5,Kurt Schrader,Democratic,51.9,True,True,False
 2020,house,Oregon,OR,5,Amy Ryan Courser,Republican,45.1,False,False,False
 2020,house,Oregon,OR,5,Matthew James Rix,Libertarian,2.8,False,False,False
@@ -800,14 +833,17 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,South Carolina,SC,1,Joe Cunningham,Democratic,49.3,False,True,False
 2020,house,South Carolina,SC,2,Joe Wilson,Republican,55.7,True,True,False
 2020,house,South Carolina,SC,2,Adair Boroughs,Democratic,42.6,False,False,False
+2020,house,South Carolina,SC,2,Kathleen Wright,Constitution,1.7,False,False,False
 2020,house,South Carolina,SC,3,Jeff Duncan,Republican,71.2,True,True,False
 2020,house,South Carolina,SC,3,Hosea Cleveland,Democratic,28.7,False,False,False
 2020,house,South Carolina,SC,4,William Timmons,Republican,61.6,True,True,False
 2020,house,South Carolina,SC,4,Kim Nelson,Democratic,36.9,False,False,False
+2020,house,South Carolina,SC,4,Michael Chandler,Constitution,1.4,False,False,False
 2020,house,South Carolina,SC,5,Ralph Norman,Republican,60.1,True,True,False
 2020,house,South Carolina,SC,5,Moe Brown,Democratic,39.9,False,False,False
 2020,house,South Carolina,SC,6,Jim Clyburn,Democratic,68.2,True,True,False
 2020,house,South Carolina,SC,6,John McCollum,Republican,30.8,False,False,False
+2020,house,South Carolina,SC,6,Mark Hackett,Constitution,0.9,False,False,False
 2020,house,South Carolina,SC,7,Tom Rice,Republican,61.8,True,True,False
 2020,house,South Carolina,SC,7,Melissa Watson,Democratic,38.1,False,False,False
 2020,house,South Dakota,SD,AL,Dusty Johnson,Republican,81.0,True,True,False
@@ -962,13 +998,17 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Utah,UT,2,J. Robert Latham,Libertarian,4.4,False,False,False
 2020,house,Utah,UT,3,John Curtis,Republican,68.7,True,True,False
 2020,house,Utah,UT,3,Devin Thorpe,Democratic,26.8,False,False,False
+2020,house,Utah,UT,3,Daniel Cummings,Constitution,2.5,False,False,False
+2020,house,Utah,UT,3,Thomas McNeill,United Utah,2.0,False,False,False
 2020,house,Utah,UT,4,Burgess Owens,Republican,47.7,True,False,False
 2020,house,Utah,UT,4,Ben McAdams,Democratic,46.7,False,True,False
 2020,house,Utah,UT,4,John Molnar,Libertarian,3.5,False,False,False
+2020,house,Utah,UT,4,Jonia Broderick,United Utah,2.1,False,False,False
 2020,house,Vermont,VT,AL,Peter Welch,Democratic,67.3,True,True,False
 2020,house,Vermont,VT,AL,Miriam Berry,Republican,27.0,False,False,False
 2020,house,Vermont,VT,AL,Peter Becker,Independent,2.3,False,False,False
 2020,house,Vermont,VT,AL,Marcia Horne,Independent,1.2,False,False,False
+2020,house,Vermont,VT,AL,Christopher Helali,Communist,1.0,False,False,False
 2020,house,Vermont,VT,AL,Shawn Orr,Independent,0.5,False,False,False
 2020,house,Vermont,VT,AL,Jerry Trudell,Independent,0.5,False,False,False
 2020,house,Virginia,VA,1,Rob Wittman,Republican,58.2,True,True,False
@@ -1039,12 +1079,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Wyoming,WY,AL,Liz Cheney,Republican,68.6,True,True,False
 2020,house,Wyoming,WY,AL,Lynnette Grey Bull,Democratic,24.6,False,False,False
 2020,house,Wyoming,WY,AL,Richard Brubaker,Libertarian,3.8,False,False,False
+2020,house,Wyoming,WY,AL,Jeff Haggit,Constitution,2.9,False,False,False
 2020,house,American Samoa,AM,AL,Amata Coleman Radewagen,Republican,83.5,True,True,False
 2020,house,American Samoa,AM,AL,Oreta Tufuga Mapu Crichton,Democratic,14.4,False,False,False
 2020,house,American Samoa,AM,AL,Meleagi Suitonu-Chapman,Democratic,2.1,False,False,False
 2020,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,86.83,True,True,False
 2020,house,District of Columbia,DC,AL,Patrick Hynes,Libertarian,2.82,False,False,False
 2020,house,District of Columbia,DC,AL,Barbara Washington Franklin,Independent,2.24,False,False,False
+2020,house,District of Columbia,DC,AL,Omari Musa,Socialist Workers,1.92,False,False,False
+2020,house,District of Columbia,DC,AL,Natale Lino Stracuzzi,Green,1.68,False,False,False
 2020,house,District of Columbia,DC,AL,Amir Lowery,Independent,1.51,False,False,False
 2020,house,District of Columbia,DC,AL,David Krucoff,Independent,1.43,False,False,False
 2020,house,District of Columbia,DC,AL,John Cheeks,Independent,0.88,False,False,False
@@ -1056,5 +1099,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2020,house,Northern Mariana Islands,NO,AL,Gregorio Sablan,Independent,100.0,True,True,False
 2020,house,Puerto Rico,PU,AL,Jenniffer González,New Progressive Party (Puerto Rico),40.67,True,True,False
 2020,house,Puerto Rico,PU,AL,Aníbal Acevedo Vilá,Popular Democratic Party (Puerto Rico),31.98,False,False,False
+2020,house,Puerto Rico,PU,AL,Zayira Jordán Conde,Movimiento Victoria Ciudadana,13.01,False,False,False
+2020,house,Puerto Rico,PU,AL,Ada Norah Henriquez,Project Dignity,7.94,False,False,False
+2020,house,Puerto Rico,PU,AL,Luis Roberto Piñero,Puerto Rican Independence,6.39,False,False,False
 2020,house,United States Virgin Islands,UN,AL,Stacey Plaskett,Democratic,88.09,True,True,False
 2020,house,United States Virgin Islands,UN,AL,Shekema George,Independent,11.34,False,False,False

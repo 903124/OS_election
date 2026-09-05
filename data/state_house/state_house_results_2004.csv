@@ -1,0 +1,969 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2004,Arizona,AZ,State House,1,general,Lucy Mason,Republican,48585,32.58,True,True
+2004,Arizona,AZ,State House,1,general,Tom O'Halleran,Republican,47777,32.04,True,True
+2004,Arizona,AZ,State House,1,general,James Kimes,Democratic,24346,16.33,False,False
+2004,Arizona,AZ,State House,1,general,Wesley L. Edmonds,Democratic,23704,15.9,False,False
+2004,Arizona,AZ,State House,1,general,Allan Briney,Libertarian,4693,3.15,False,False
+2004,Arizona,AZ,State House,2,general,Ann Kirkpatrick,Democratic,28947,38.72,True,False
+2004,Arizona,AZ,State House,2,general,Albert Tom,Democratic,24664,32.99,True,False
+2004,Arizona,AZ,State House,2,general,Sylvia Laughter,Independent (politician),21150,28.29,False,True
+2004,Arizona,AZ,State House,3,general,Nancy McLain,Republican,29993,31.94,True,False
+2004,Arizona,AZ,State House,3,general,Trish Groe,Republican,28396,30.24,True,False
+2004,Arizona,AZ,State House,3,general,Bruce Hinman,Democratic,18138,19.31,False,False
+2004,Arizona,AZ,State House,3,general,Peggy Toomey Hammann,Democratic,17387,18.51,False,False
+2004,Arizona,AZ,State House,4,general,Judy M. Burges,Republican,59589,50.04,True,False
+2004,Arizona,AZ,State House,4,general,Tom Boone,Republican,59496,49.96,True,True
+2004,Arizona,AZ,State House,5,general,Bill Konopnicki,Republican,33326,38.12,True,True
+2004,Arizona,AZ,State House,5,general,Jack A. Brown,Democratic,27228,31.14,True,False
+2004,Arizona,AZ,State House,5,general,Sylvia Tenney Allen,Republican,26880,30.74,False,False
+2004,Arizona,AZ,State House,6,general,Pamela Gorman,Republican,35457,37.97,True,False
+2004,Arizona,AZ,State House,6,general,Ted Carpenter,Republican,33758,36.15,True,True
+2004,Arizona,AZ,State House,6,general,Rano Singh,Democratic,24178,25.89,False,False
+2004,Arizona,AZ,State House,7,general,Ray Barnes,Republican,40381,33.12,True,True
+2004,Arizona,AZ,State House,7,general,David Burnell Smith,Republican,37752,30.97,True,False
+2004,Arizona,AZ,State House,7,general,Virgel Cain,Democratic,22694,18.61,False,False
+2004,Arizona,AZ,State House,7,general,Mark Monday,Democratic,21087,17.3,False,False
+2004,Arizona,AZ,State House,8,general,Michele Reagan,Republican,50806,34.44,True,True
+2004,Arizona,AZ,State House,8,general,Colette Rosati,Republican,41496,28.13,True,True
+2004,Arizona,AZ,State House,8,general,Nancy Stein,Democratic,28480,19.31,False,False
+2004,Arizona,AZ,State House,8,general,Nancy Buel,Democratic,26737,18.12,False,False
+2004,Arizona,AZ,State House,9,general,Bob Stump,Republican,43216,50.06,True,True
+2004,Arizona,AZ,State House,9,general,Rick Murphy,Republican,43111,49.94,True,False
+2004,Arizona,AZ,State House,10,general,Jim Weiers,Republican,24185,28.3,True,False
+2004,Arizona,AZ,State House,10,general,Doug Quelland,Republican,22959,26.86,True,True
+2004,Arizona,AZ,State House,10,general,Jackie Thrasher,Democratic,21284,24.9,False,False
+2004,Arizona,AZ,State House,10,general,Aaron Jahneke,Democratic,17042,19.94,False,False
+2004,Arizona,AZ,State House,11,general,Stephen Tully,Republican,45503,38.97,True,True
+2004,Arizona,AZ,State House,11,general,John Allen,Republican,44054,37.73,True,True
+2004,Arizona,AZ,State House,11,general,Garry Myers,Libertarian,14507,12.42,False,False
+2004,Arizona,AZ,State House,11,general,James Iannuzo,Libertarian,12693,10.87,False,False
+2004,Arizona,AZ,State House,12,general,John Nelson,Republican,35108,29.83,True,True
+2004,Arizona,AZ,State House,12,general,Jerry Weiers,Republican,34544,29.35,True,False
+2004,Arizona,AZ,State House,12,general,Ken Thomas,Democratic,25575,21.73,False,False
+2004,Arizona,AZ,State House,12,general,Leonard A. Clark,Democratic,22452,19.08,False,False
+2004,Arizona,AZ,State House,13,general,Martha Garcia,Democratic,14202,39.17,True,False
+2004,Arizona,AZ,State House,13,general,Steve Gallardo,Democratic,12430,34.28,True,True
+2004,Arizona,AZ,State House,13,general,Bill Johnson,Republican,9627,26.55,False,False
+2004,Arizona,AZ,State House,14,general,Debbie McCune-Davis,Democratic,12261,51.22,True,True
+2004,Arizona,AZ,State House,14,general,Robert Meza,Democratic,11678,48.78,True,True
+2004,Arizona,AZ,State House,15,general,David Lujan,Democratic,19999,31.12,True,False
+2004,Arizona,AZ,State House,15,general,Kyrsten Sinema,Democratic,19402,30.19,True,False
+2004,Arizona,AZ,State House,15,general,Tara Roesler,Republican,12565,19.55,False,False
+2004,Arizona,AZ,State House,15,general,Oksana Komarnyckyj,Republican,12299,19.14,False,False
+2004,Arizona,AZ,State House,16,general,Leah Landrum,Democratic,19077,50.61,True,True
+2004,Arizona,AZ,State House,16,general,Ben R. Miranda,Democratic,18619,49.39,True,True
+2004,Arizona,AZ,State House,17,general,Meg Burton Cahill,Democratic,27915,26.84,True,True
+2004,Arizona,AZ,State House,17,general,Laura Knaperek,Republican,25618,24.63,True,False
+2004,Arizona,AZ,State House,17,general,Edward Z. Ableser,Democratic,24194,23.26,False,False
+2004,Arizona,AZ,State House,17,general,Mark Thompson,Republican,23074,22.19,False,True
+2004,Arizona,AZ,State House,17,general,Mike Read,Libertarian,3194,3.07,False,False
+2004,Arizona,AZ,State House,18,general,Mark Anderson,Republican,24271,38.3,True,False
+2004,Arizona,AZ,State House,18,general,Russell Pearce,Republican,23286,36.75,True,True
+2004,Arizona,AZ,State House,18,general,Kevin Jackson,Democratic,15811,24.95,False,False
+2004,Arizona,AZ,State House,19,general,Chuck Gray,Republican,45407,51.57,True,True
+2004,Arizona,AZ,State House,19,general,Gary Pierce,Republican,42644,48.43,True,True
+2004,Arizona,AZ,State House,20,general,John McComish,Republican,38059,33.74,True,False
+2004,Arizona,AZ,State House,20,general,Bob Robson,Republican,37334,33.1,True,True
+2004,Arizona,AZ,State House,20,general,Jim Torgeson,Democratic,29836,26.45,False,False
+2004,Arizona,AZ,State House,20,general,Joel Beckwith,Libertarian,7570,6.71,False,False
+2004,Arizona,AZ,State House,21,general,Steve Yarbrough,Republican,50125,52.76,True,True
+2004,Arizona,AZ,State House,21,general,Warde V. Nichols,Republican,44883,47.24,True,True
+2004,Arizona,AZ,State House,22,general,Eddie Farnsworth,Republican,55674,44.93,True,True
+2004,Arizona,AZ,State House,22,general,Andy Biggs,Republican,51932,41.91,True,True
+2004,Arizona,AZ,State House,22,general,Wade Reynolds,Libertarian,16304,13.16,False,False
+2004,Arizona,AZ,State House,23,general,Cheryl Chase,Democratic,24007,32.95,True,True
+2004,Arizona,AZ,State House,23,general,Pete Rios,Democratic,22841,31.35,True,False
+2004,Arizona,AZ,State House,23,general,Frank Pratt,Republican,21750,29.85,False,False
+2004,Arizona,AZ,State House,23,general,Steve Flynn,Libertarian,4262,5.85,False,False
+2004,Arizona,AZ,State House,24,general,Russ Jones,Republican,20153,34.48,True,False
+2004,Arizona,AZ,State House,24,general,Amanda Aguirre,Democratic,18306,31.32,True,True
+2004,Arizona,AZ,State House,24,general,William Michael Smith,Democratic,16973,29.04,False,False
+2004,Arizona,AZ,State House,24,general,Edmund L. Sheldon III,Libertarian,3018,5.16,False,False
+2004,Arizona,AZ,State House,25,general,"Manuel V. ""Manny"" Alvarez",Democratic,25599,27.03,True,True
+2004,Arizona,AZ,State House,25,general,Jennifer J. Burns,Republican,25121,26.52,True,True
+2004,Arizona,AZ,State House,25,general,Monica Perez,Democratic,22561,23.82,False,False
+2004,Arizona,AZ,State House,25,general,David Stevens,Republican,21437,22.63,False,False
+2004,Arizona,AZ,State House,26,general,Pete Hershberger,Republican,49072,32.35,True,True
+2004,Arizona,AZ,State House,26,general,Steve Huffman,Republican,43156,28.45,True,True
+2004,Arizona,AZ,State House,26,general,Amanda Simpson,Democratic,31111,20.51,False,False
+2004,Arizona,AZ,State House,26,general,Martin Drozdoff,Democratic,28331,18.68,False,False
+2004,Arizona,AZ,State House,27,general,Olivia Cajero Bedford,Democratic,35507,54.28,True,True
+2004,Arizona,AZ,State House,27,general,Phil Lopes,Democratic,29902,45.72,True,True
+2004,Arizona,AZ,State House,28,general,Ted Downing,Democratic,38336,31.64,True,True
+2004,Arizona,AZ,State House,28,general,Dave Bradley,Democratic,37003,30.54,True,True
+2004,Arizona,AZ,State House,28,general,Bill Phillips,Republican,21345,17.62,False,False
+2004,Arizona,AZ,State House,28,general,"Richard ""Dick"" Dale",Republican,20545,16.96,False,False
+2004,Arizona,AZ,State House,28,general,Daniel Hickman,Libertarian,3929,3.24,False,False
+2004,Arizona,AZ,State House,29,general,Linda Lopez,Democratic,30317,60.07,True,True
+2004,Arizona,AZ,State House,29,general,Tom Prezelski,Democratic,20152,39.93,True,True
+2004,Arizona,AZ,State House,30,general,Marian McClure,Republican,48777,37.0,True,True
+2004,Arizona,AZ,State House,30,general,Jonathan Paton,Republican,46483,35.26,True,False
+2004,Arizona,AZ,State House,30,general,Esther Sharif,Democratic,36570,27.74,False,False
+2004,California,CA,State House,1,general,Patty Berg,Democratic,120157,61.44,True,True
+2004,California,CA,State House,1,general,Ray Tyrone,Republican,64587,33.03,False,False
+2004,California,CA,State House,1,general,Ken Anton,Libertarian,10817,5.53,False,False
+2004,California,CA,State House,2,general,Doug LaMalfa,Republican,115651,64.87,True,True
+2004,California,CA,State House,2,general,Barbara McIver,Democratic,62643,35.13,False,False
+2004,California,CA,State House,3,general,Rick Keene,Republican,111747,59.35,True,True
+2004,California,CA,State House,3,general,Robert A. Woods,Democratic,70126,37.24,False,False
+2004,California,CA,State House,3,general,Robert Burk,Libertarian,6421,3.41,False,False
+2004,California,CA,State House,4,general,Tim Leslie,Republican,140105,66.68,True,True
+2004,California,CA,State House,4,general,Todd W. Schwenk,Democratic,70008,33.32,False,False
+2004,California,CA,State House,5,general,Roger Niello,Republican,104895,60.24,True,False
+2004,California,CA,State House,5,general,Sandra A. Carey,Democratic,62710,36.01,False,False
+2004,California,CA,State House,5,general,Melissa Manfre,Libertarian,6524,3.75,False,False
+2004,California,CA,State House,6,general,Joe Nation,Democratic,148556,72.51,True,True
+2004,California,CA,State House,6,general,Carolyn F. Patrick,Republican,56311,27.49,False,False
+2004,California,CA,State House,7,general,Noreen M. Evans,Democratic,101130,60.12,True,False
+2004,California,CA,State House,7,general,Pat Krueger,Republican,62035,36.88,False,False
+2004,California,CA,State House,7,general,F. Aaron Smith,Republican,5051,3.0,False,False
+2004,California,CA,State House,8,general,Lois Wolk,Democratic,101171,62.83,True,True
+2004,California,CA,State House,8,general,John R. Munn,Republican,59842,37.17,False,False
+2004,California,CA,State House,9,general,Dave Jones,Democratic,77880,66.73,True,False
+2004,California,CA,State House,9,general,Gaspar Garcia,Republican,32734,28.05,False,False
+2004,California,CA,State House,9,general,Gale Morgan,Libertarian,6098,5.22,False,False
+2004,California,CA,State House,10,general,Alan Nakanishi,Republican,121741,75.64,True,True
+2004,California,CA,State House,10,general,Cullene Lang,Libertarian,39208,24.36,False,False
+2004,California,CA,State House,11,general,Joe Canciamilla,Democratic,95912,66.83,True,True
+2004,California,CA,State House,11,general,Paul Santiago,Republican,40438,28.18,False,False
+2004,California,CA,State House,11,general,Frank Manske,Libertarian,7162,4.99,False,False
+2004,California,CA,State House,12,general,Leland Yee,Democratic,112000,77.58,True,True
+2004,California,CA,State House,12,general,Howard Epstein,Republican,23803,16.49,False,False
+2004,California,CA,State House,12,general,Chris Maden,Libertarian,8560,5.93,False,False
+2004,California,CA,State House,13,general,Mark Leno,Democratic,148863,81.91,True,True
+2004,California,CA,State House,13,general,Gail E. Neira,Republican,23900,13.15,False,False
+2004,California,CA,State House,13,general,Jonathan Scott Marvin,Libertarian,8980,4.94,False,False
+2004,California,CA,State House,14,general,Loni Hancock,Democratic,141184,77.43,True,True
+2004,California,CA,State House,14,general,Lance Montauk,Republican,32531,17.84,False,False
+2004,California,CA,State House,14,general,Kevin O'Neal,Libertarian,8632,4.73,False,False
+2004,California,CA,State House,15,general,Guy Houston,Republican,113079,55.22,True,True
+2004,California,CA,State House,15,general,Elaine D. Shaw,Democratic,91709,44.78,False,False
+2004,California,CA,State House,16,general,Wilma Chan,Democratic,126292,88.2,True,True
+2004,California,CA,State House,16,general,Jerald Udinsky,Republican,16903,11.8,False,False
+2004,California,CA,State House,17,general,Barbara S. Matthews (inc.),Democratic,66926,60.52,True,False
+2004,California,CA,State House,17,general,Nellie McGarry,Republican,43664,39.48,False,False
+2004,California,CA,State House,17,general,Jennet C. Stebbins (write-in),,2,0.0,False,False
+2004,California,CA,State House,18,general,Johan Klehs,Democratic,106635,83.61,True,True
+2004,California,CA,State House,18,general,Ronald J. Colfer,Libertarian,20888,16.38,False,False
+2004,California,CA,State House,18,general,Lou Filipovich (write-in),,17,0.0,False,False
+2004,California,CA,State House,19,general,Gene Mullin,Democratic,114277,71.31,True,True
+2004,California,CA,State House,19,general,Catherine Brinkman,Republican,41513,25.9,False,False
+2004,California,CA,State House,19,general,Miles C. Gilster,Libertarian,4465,2.79,False,False
+2004,California,CA,State House,20,general,Alberto Torrico,Democratic,87724,68.62,True,False
+2004,California,CA,State House,20,general,Cliff Williams,Republican,40114,31.38,False,False
+2004,California,CA,State House,21,general,Ira Ruskin,Democratic,98002,51.55,True,False
+2004,California,CA,State House,21,general,Steve Poizner,Republican,92118,48.45,False,False
+2004,California,CA,State House,22,general,Sally Lieber,Democratic,91561,70.27,True,True
+2004,California,CA,State House,22,general,Marie Dominguez-Gasson,Republican,38746,29.73,False,False
+2004,California,CA,State House,23,general,Joe Coto,Democratic,62569,67.12,True,False
+2004,California,CA,State House,23,general,Mark Patrosso,Republican,26051,27.95,False,False
+2004,California,CA,State House,23,general,Warner S. Bloomberg IIi,Green,4597,4.93,False,False
+2004,California,CA,State House,24,general,Rebecca Cohn,Democratic,94152,59.4,True,False
+2004,California,CA,State House,24,general,Ernie Konnyu,Republican,55956,35.31,False,False
+2004,California,CA,State House,24,general,"Zander Y. Collier, IIi",Libertarian,8337,5.26,False,False
+2004,California,CA,State House,24,general,Michael Roy (write-in),,41,0.03,False,False
+2004,California,CA,State House,24,general,Lawrence R. Hileman (write-in),,7,0.0,False,False
+2004,California,CA,State House,25,general,Dave Cogdill,Republican,111336,68.16,True,True
+2004,California,CA,State House,25,general,Bryan Justin Marks,Democratic,52006,31.84,False,False
+2004,California,CA,State House,26,general,Greg Aghazarian,Republican,78381,62.55,True,True
+2004,California,CA,State House,26,general,"Tim Weintz, Sr.",Democratic,46924,37.45,False,False
+2004,California,CA,State House,27,general,John Laird,Democratic,129410,68.66,True,True
+2004,California,CA,State House,27,general,Jack D. Barlich,Republican,59076,31.34,False,False
+2004,California,CA,State House,28,general,Simon Salinas,Democratic,67586,63.26,True,True
+2004,California,CA,State House,28,general,Bob Perkins,Republican,39257,36.74,False,False
+2004,California,CA,State House,29,general,Mike Villines,Republican,95209,62.35,True,True
+2004,California,CA,State House,29,general,Michael R. Macias,Democratic,52334,34.27,False,False
+2004,California,CA,State House,29,general,John Crockford,Green,5150,3.37,False,False
+2004,California,CA,State House,30,general,Nicole Parra,Democratic,42953,55.04,True,True
+2004,California,CA,State House,30,general,Dean Gardner,Republican,35084,44.96,False,False
+2004,California,CA,State House,31,general,Juan Arambula,Democratic,49738,57.68,True,True
+2004,California,CA,State House,31,general,Paul Betancourt,Republican,36496,42.32,False,False
+2004,California,CA,State House,32,general,Kevin McCarthy,Republican,129510,78.66,True,False
+2004,California,CA,State House,32,general,Marvin Armas,Democratic,35130,21.34,False,False
+2004,California,CA,State House,33,general,Sam Blakeslee,Republican,99864,56.27,True,True
+2004,California,CA,State House,33,general,Stew Jenkins,Democratic,57673,32.5,False,False
+2004,California,CA,State House,33,general,Tom Hutchings,Green,10422,5.87,False,False
+2004,California,CA,State House,33,general,Gary L. Kirkland,Libertarian,9502,5.35,False,False
+2004,California,CA,State House,34,general,Bill Maze,Republican,80149,68.52,True,True
+2004,California,CA,State House,34,general,Maggie Florez,Democratic,36819,31.48,False,False
+2004,California,CA,State House,35,general,Pedro Nava,Democratic,91503,52.73,True,True
+2004,California,CA,State House,35,general,Bob Pohl,Republican,82025,47.27,False,False
+2004,California,CA,State House,36,general,Sharon Runner,Republican,89365,66.22,True,True
+2004,California,CA,State House,36,general,Hotron Scioneaux,Democratic,45595,33.78,False,False
+2004,California,CA,State House,37,general,Audra Strickland,Republican,100309,55.09,True,False
+2004,California,CA,State House,37,general,Ferial Masry,Democratic,74774,41.06,False,False
+2004,California,CA,State House,37,general,Adrienne M. Prince,Green,7013,3.85,False,False
+2004,California,CA,State House,38,general,Keith Richman,Republican,106834,61.19,True,True
+2004,California,CA,State House,38,general,Brian Joseph Davis,Democratic,67747,38.81,False,False
+2004,California,CA,State House,39,general,Cindy Montañez,Democratic,56017,76.79,True,True
+2004,California,CA,State House,39,general,Ely De La Cruz Ayao,Republican,16936,23.21,False,False
+2004,California,CA,State House,40,general,Lloyd E. Levine,Democratic,69421,57.97,True,True
+2004,California,CA,State House,40,general,Mark Isler,Republican,50323,42.03,False,False
+2004,California,CA,State House,41,general,Fran Pavley,Democratic,106761,59.7,True,True
+2004,California,CA,State House,41,general,Heather Peters,Republican,64029,35.81,False,False
+2004,California,CA,State House,41,general,Richard P. Koffler,Libertarian,8033,4.49,False,False
+2004,California,CA,State House,42,general,Paul Koretz,Democratic,143376,75.42,True,True
+2004,California,CA,State House,42,general,Paul Morgan Fredrix,Republican,46715,24.58,False,False
+2004,California,CA,State House,43,general,Dario Frommer,Democratic,94149,76.57,True,True
+2004,California,CA,State House,43,general,Sandor J. Woren,Libertarian,28805,23.43,False,False
+2004,California,CA,State House,44,general,Carol Liu,Democratic,106179,65.61,True,True
+2004,California,CA,State House,44,general,Lynn Gabriel,Republican,55655,34.39,False,False
+2004,California,CA,State House,45,general,Jackie Goldberg,Democratic,62091,75.95,True,True
+2004,California,CA,State House,45,general,Oscar A. Gutierrez,Republican,19660,24.05,False,False
+2004,California,CA,State House,46,general,Fabian Núñez,Democratic,44570,85.05,True,True
+2004,California,CA,State House,46,general,"Manuel ""Manny"" Aldana, Jr.",Republican,7837,14.95,False,False
+2004,California,CA,State House,47,general,Karen Bass,Democratic,118495,80.77,True,True
+2004,California,CA,State House,47,general,Dale V. Everett,Republican,21485,14.64,False,False
+2004,California,CA,State House,47,general,"Peter ""Pedro"" De Baets",Libertarian,6730,4.59,False,False
+2004,California,CA,State House,48,general,Mark Ridley-Thomas,Democratic,68289,89.12,True,True
+2004,California,CA,State House,48,general,Sebastian Alexander,Republican,8333,10.88,False,False
+2004,California,CA,State House,49,general,Judy Chu,Democratic,62075,65.78,True,True
+2004,California,CA,State House,49,general,Sandra L. Needs,Republican,23927,25.36,False,False
+2004,California,CA,State House,49,general,Laura Brown,Libertarian,8363,8.86,False,False
+2004,California,CA,State House,50,general,Hector De La Torre,Democratic,56827,74.85,True,False
+2004,California,CA,State House,50,general,Gladys O. Miller,Republican,19091,25.15,False,False
+2004,California,CA,State House,51,general,Jerome Horton,Democratic,89509,84.09,True,True
+2004,California,CA,State House,51,general,Daniel R. Sherman,Libertarian,16941,15.91,False,False
+2004,California,CA,State House,52,general,Mervyn M. Dymally,Democratic,59923,100.0,True,True
+2004,California,CA,State House,53,general,Mike Gordon,Democratic,95156,50.45,True,False
+2004,California,CA,State House,53,general,Greg Hill,Republican,79505,42.15,False,False
+2004,California,CA,State House,53,general,Ethan M. Boivie,Libertarian,8942,4.74,False,False
+2004,California,CA,State House,53,general,James R. Smith,Freedom,5028,2.67,False,False
+2004,California,CA,State House,54,general,Betty Karnette,Democratic,89987,53.49,True,False
+2004,California,CA,State House,54,general,Steven T. Kuykendall,Republican,73701,43.81,False,False
+2004,California,CA,State House,54,general,John Howard Sterne,Libertarian,4544,2.7,False,False
+2004,California,CA,State House,55,general,Jenny Oropeza,Democratic,73594,66.66,True,True
+2004,California,CA,State House,55,general,Margherita Palumbo Underhill,Republican,36800,33.34,False,False
+2004,California,CA,State House,56,general,Rudy Bermudez,Democratic,67294,60.16,True,True
+2004,California,CA,State House,56,general,John Brantuk,Republican,44559,39.84,False,False
+2004,California,CA,State House,57,general,Ed Chavez,Democratic,72860,68.51,True,True
+2004,California,CA,State House,57,general,"Victor M. Valenzuela, Jr.",Republican,33494,31.49,False,False
+2004,California,CA,State House,58,general,Ronald S. Calderon,Democratic,71233,61.9,True,True
+2004,California,CA,State House,58,general,Rita Topalian,Republican,43839,38.1,False,False
+2004,California,CA,State House,59,general,Dennis L. Mountjoy,Republican,99381,58.22,True,True
+2004,California,CA,State House,59,general,Dan Harden,Democratic,64375,37.71,False,False
+2004,California,CA,State House,59,general,Fritz R. Ward,Libertarian,6937,4.06,False,False
+2004,California,CA,State House,60,general,"Robert ""Bob"" Huff",Republican,105334,66.54,True,True
+2004,California,CA,State House,60,general,Patrick John Martinez,Democratic,52969,33.46,False,False
+2004,California,CA,State House,61,general,Gloria Negrete McLeod,Democratic,58120,63.59,True,True
+2004,California,CA,State House,61,general,Alan Wapner,Republican,33281,36.41,False,False
+2004,California,CA,State House,62,general,"Joe Baca, Jr.",Democratic,51407,64.57,True,True
+2004,California,CA,State House,62,general,Marge Mendoza-Ware,Republican,28210,35.43,False,False
+2004,California,CA,State House,63,general,Bill Emmerson,Republican,83719,58.26,True,False
+2004,California,CA,State House,63,general,D'Andre McNamee,Democratic,49646,34.55,False,False
+2004,California,CA,State House,63,general,Maureen K. Keedy,Libertarian,10334,7.19,False,False
+2004,California,CA,State House,64,general,John J. Benoit,Republican,96606,61.25,True,True
+2004,California,CA,State House,64,general,Robert Melsh,Democratic,61120,38.75,False,False
+2004,California,CA,State House,65,general,Russ Bogh,Republican,93676,61.58,True,True
+2004,California,CA,State House,65,general,Rita Ramirez-Dean,Democratic,58454,38.42,False,False
+2004,California,CA,State House,66,general,Ray Haynes,Republican,91606,61.58,True,True
+2004,California,CA,State House,66,general,Laurel Nicholson,Democratic,53481,35.95,False,False
+2004,California,CA,State House,66,general,Jack N. Lee,Libertarian,3671,2.47,False,False
+2004,California,CA,State House,67,general,Tom Harman,Republican,107847,63.9,True,True
+2004,California,CA,State House,67,general,David Silva,Democratic,50430,29.88,False,False
+2004,California,CA,State House,67,general,"Norm ""Firecracker"" Westwell",Libertarian,10496,6.22,False,False
+2004,California,CA,State House,68,general,Van Tran,Republican,78606,60.91,True,False
+2004,California,CA,State House,68,general,Al Snook,Democratic,50453,39.09,False,False
+2004,California,CA,State House,69,general,Tom Umberg,Democratic,38516,61.33,True,False
+2004,California,CA,State House,69,general,Otto Bade,Republican,19811,31.55,False,False
+2004,California,CA,State House,69,general,George Reis,Libertarian,4470,7.12,False,False
+2004,California,CA,State House,70,general,Chuck DeVore,Republican,112844,61.1,True,False
+2004,California,CA,State House,70,general,Carl Mariz,Democratic,65351,35.38,False,False
+2004,California,CA,State House,70,general,Mark Baldwin,Libertarian,6506,3.52,False,False
+2004,California,CA,State House,71,general,Todd Spitzer,Republican,120657,69.07,True,True
+2004,California,CA,State House,71,general,Bea Foster,Democratic,54041,30.93,False,False
+2004,California,CA,State House,72,general,Lynn Daucher,Republican,90255,65.97,True,True
+2004,California,CA,State House,72,general,Ross W. Johnson,Democratic,41528,30.35,False,False
+2004,California,CA,State House,72,general,Brian Lee Cross,Libertarian,5031,3.68,False,False
+2004,California,CA,State House,73,general,Mimi Walters,Republican,100328,63.06,True,False
+2004,California,CA,State House,73,general,Kathleen Calzada,Democratic,50474,31.72,False,False
+2004,California,CA,State House,73,general,Andrew H. Favor,Libertarian,8299,5.22,False,False
+2004,California,CA,State House,74,general,Mark Wyland,Republican,99348,57.46,True,True
+2004,California,CA,State House,74,general,Karen R. Underwood,Democratic,68180,39.43,False,False
+2004,California,CA,State House,74,general,Paul King,Libertarian,5372,3.11,False,False
+2004,California,CA,State House,75,general,George A. Plescia,Republican,108728,59.82,True,True
+2004,California,CA,State House,75,general,Karen Heumann,Democratic,69017,37.97,False,False
+2004,California,CA,State House,75,general,Richard J. Senecal,Libertarian,4005,2.2,False,False
+2004,California,CA,State House,76,general,Lori R. Saldana,Democratic,93601,54.16,True,False
+2004,California,CA,State House,76,general,Tricia Hunter,Republican,71320,41.26,False,False
+2004,California,CA,State House,76,general,Jennifer Osborne,Libertarian,7918,4.58,False,False
+2004,California,CA,State House,77,general,Jay La Suer,Republican,106827,64.84,True,True
+2004,California,CA,State House,77,general,Christopher R. Larkin,Democratic,53051,32.2,False,False
+2004,California,CA,State House,77,general,Virgil (Randy) Hall Ii,Libertarian,4870,2.96,False,False
+2004,California,CA,State House,78,general,Shirley Horton,Republican,76886,49.05,True,True
+2004,California,CA,State House,78,general,Patty Davis,Democratic,74888,47.78,False,False
+2004,California,CA,State House,78,general,Josh Hale,Libertarian,4969,3.17,False,False
+2004,California,CA,State House,79,general,Juan Vargas,Democratic,78565,85.23,True,True
+2004,California,CA,State House,79,general,Eli Wallace Conroe,Libertarian,13584,14.74,False,False
+2004,California,CA,State House,79,general,Petra E. Barajas (write-in),,27,0.03,False,False
+2004,California,CA,State House,80,general,Bonnie Garcia,Republican,66880,58.63,True,True
+2004,California,CA,State House,80,general,Mary Ann Andreas,Democratic,47194,41.37,False,False
+2004,Delaware,DE,State House,1,general,Dennis Williams,Democratic,6934,100.0,True,True
+2004,Delaware,DE,State House,2,general,Hazel Plant,Democratic,4945,100.0,True,True
+2004,Delaware,DE,State House,3,general,Helene Keeley,Democratic,4825,100.0,True,True
+2004,Delaware,DE,State House,4,general,Joseph G. Di Pinto,Republican,5506,57.8,True,True
+2004,Delaware,DE,State House,4,general,Campbell Hay,Democratic,4020,42.2,False,False
+2004,Delaware,DE,State House,5,general,Melanie George,Democratic,6102,100.0,True,True
+2004,Delaware,DE,State House,6,general,Diana McWilliams,Democratic,5377,52.49,True,False
+2004,Delaware,DE,State House,6,general,Stacy Griggs,Republican,4867,47.51,False,False
+2004,Delaware,DE,State House,7,general,Wayne Smith,Republican,6539,60.54,True,True
+2004,Delaware,DE,State House,7,general,Stephen Tanzer,Democratic,4176,38.66,False,False
+2004,Delaware,DE,State House,7,general,James Larsen,Libertarian,86,0.8,False,False
+2004,Delaware,DE,State House,8,general,Bethany Hall-Long,Democratic,8228,100.0,True,True
+2004,Delaware,DE,State House,9,general,Richard Cathcart,Republican,7500,64.36,True,True
+2004,Delaware,DE,State House,9,general,Vincent Ascione Jr.,Democratic,4154,35.64,False,False
+2004,Delaware,DE,State House,10,general,Robert Valihura Jr.,Republican,5354,56.92,True,True
+2004,Delaware,DE,State House,10,general,Dennis Williams,Democratic,3849,40.92,False,False
+2004,Delaware,DE,State House,10,general,David Wood,Libertarian,203,2.16,False,False
+2004,Delaware,DE,State House,11,general,Gregory Lavelle,Republican,7702,100.0,True,True
+2004,Delaware,DE,State House,12,general,Deborah Hudson,Republican,6790,65.22,True,True
+2004,Delaware,DE,State House,12,general,Harry Gravell,Democratic,3621,34.78,False,False
+2004,Delaware,DE,State House,13,general,John Van Sant III,Democratic,6369,100.0,True,True
+2004,Delaware,DE,State House,14,general,Peter Schwartzkopf,Democratic,8396,67.79,True,True
+2004,Delaware,DE,State House,14,general,Mary Spicer,Republican,3880,31.33,False,False
+2004,Delaware,DE,State House,14,general,Everett Wodiska,Libertarian,110,0.89,False,False
+2004,Delaware,DE,State House,15,general,Valerie Longhurst,Democratic,5187,50.14,True,False
+2004,Delaware,DE,State House,15,general,Bruce Reynolds,Republican,5159,49.86,False,True
+2004,Delaware,DE,State House,16,general,J.J. Johnson,Democratic,5823,81.54,True,False
+2004,Delaware,DE,State House,16,general,James Stockwell,Republican,1318,18.46,False,False
+2004,Delaware,DE,State House,17,general,Michael Mulrooney,Democratic,6590,81.89,True,True
+2004,Delaware,DE,State House,17,general,Phillip Simpkins Jr.,Republican,1457,18.11,False,False
+2004,Delaware,DE,State House,18,general,Terry Spence,Republican,5118,100.0,True,True
+2004,Delaware,DE,State House,19,general,Robert Gilligan,Democratic,6927,100.0,True,True
+2004,Delaware,DE,State House,20,general,Roger Roy,Republican,8414,100.0,True,True
+2004,Delaware,DE,State House,21,general,Pamela Maier,Republican,6663,69.0,True,True
+2004,Delaware,DE,State House,21,general,Elton Brewer,Democratic,2994,31.0,False,False
+2004,Delaware,DE,State House,22,general,Joseph Miró,Republican,8036,100.0,True,True
+2004,Delaware,DE,State House,23,general,Teresa Schooley,Democratic,4531,53.56,True,False
+2004,Delaware,DE,State House,23,general,Paul Pomeroy,Republican,3929,46.44,False,False
+2004,Delaware,DE,State House,24,general,William Orbele Jr.,Republican,4932,100.0,True,True
+2004,Delaware,DE,State House,25,general,Stephanie Ulbrich,Republican,3914,58.28,True,True
+2004,Delaware,DE,State House,25,general,John Kowalko Jr.,Democratic,2802,41.72,False,False
+2004,Delaware,DE,State House,26,general,John Viola,Democratic,6255,100.0,True,True
+2004,Delaware,DE,State House,27,general,Vincet Lofink,Republican,6215,100.0,True,True
+2004,Delaware,DE,State House,28,general,Bruce Ennis,Democratic,6020,100.0,True,True
+2004,Delaware,DE,State House,29,general,Pamela Thornburg,Republican,5086,59.4,True,True
+2004,Delaware,DE,State House,29,general,Rafael Zaragoza,Democratic,3477,40.6,False,False
+2004,Delaware,DE,State House,30,general,William Outten,Republican,4644,59.26,True,False
+2004,Delaware,DE,State House,30,general,Kimberly Zeitler Robbins,Democratic,3192,40.74,False,False
+2004,Delaware,DE,State House,31,general,Nancy Wagner,Republican,5307,100.0,True,True
+2004,Delaware,DE,State House,32,general,Donna Stone,Republican,3686,61.85,True,True
+2004,Delaware,DE,State House,32,general,John McNeal Jr.,Democratic,2274,38.15,False,False
+2004,Delaware,DE,State House,33,general,Wallace Caulk Jr.,Republican,6567,100.0,True,True
+2004,Delaware,DE,State House,34,general,Gerald Buckworth,Republican,6677,100.0,True,True
+2004,Delaware,DE,State House,35,general,J. Benjamin Ewing,Republican,5295,91.77,True,True
+2004,Delaware,DE,State House,35,general,John Elliott,Libertarian,475,8.23,False,False
+2004,Delaware,DE,State House,36,general,V. George Carey,Republican,5640,60.25,True,True
+2004,Delaware,DE,State House,36,general,Brian Dolan,Democratic,3721,39.75,False,False
+2004,Delaware,DE,State House,37,general,Joseph Booth,Republican,6446,73.27,True,True
+2004,Delaware,DE,State House,37,general,Nicholas Mirro,Democratic,2352,26.73,False,False
+2004,Delaware,DE,State House,38,general,Gerald Hocker,Republican,7653,61.45,True,True
+2004,Delaware,DE,State House,38,general,Shirley Price,Democratic,4802,38.55,False,False
+2004,Delaware,DE,State House,39,general,Tina Fallon,Republican,4082,58.25,True,True
+2004,Delaware,DE,State House,39,general,Thomas Joel Chapman,Democratic,2926,41.75,False,False
+2004,Delaware,DE,State House,40,general,Clifford Lee,Republican,6500,100.0,True,True
+2004,Delaware,DE,State House,41,general,John Atkins,Republican,6444,69.89,True,True
+2004,Delaware,DE,State House,41,general,Barbara Lifflander,Democratic,2776,30.11,False,False
+2004,Kentucky,KY,State House,1,general,Steven J. Rudy,Republican,9749,54.6,True,False
+2004,Kentucky,KY,State House,1,general,Charles Geveden,Democratic,8107,45.4,False,False
+2004,Kentucky,KY,State House,2,general,Fred Nesler,Democratic,11231,62.95,True,False
+2004,Kentucky,KY,State House,2,general,"George ""Buddy"" Petty Jr.",Republican,6611,37.05,False,False
+2004,Kentucky,KY,State House,3,general,Frank Rasche,Democratic,9871,100.0,True,False
+2004,Kentucky,KY,State House,4,general,Mike Cherry,Democratic,10960,60.85,True,False
+2004,Kentucky,KY,State House,4,general,Fred Stubblefield,Republican,7051,39.15,False,False
+2004,Kentucky,KY,State House,5,general,Melvin B. Henley,Republican,8745,51.94,True,False
+2004,Kentucky,KY,State House,5,general,"Robert ""Buddy"" Buckingham",Democratic,8092,48.06,False,False
+2004,Kentucky,KY,State House,6,general,J.R. Gray,Democratic,10306,51.42,True,False
+2004,Kentucky,KY,State House,6,general,Marvin Wilson,Republican,9735,48.58,False,False
+2004,Kentucky,KY,State House,7,general,John A. Arnold Jr.,Democratic,8069,53.98,True,False
+2004,Kentucky,KY,State House,7,general,Alan C. Taylor,Republican,6880,46.02,False,False
+2004,Kentucky,KY,State House,8,general,James R. Carr,Democratic,7118,50.71,True,False
+2004,Kentucky,KY,State House,8,general,Tom C. Jones,Republican,6918,49.29,False,False
+2004,Kentucky,KY,State House,9,general,James E. Bruce,Democratic,4465,100.0,True,False
+2004,Kentucky,KY,State House,10,general,"Joseph E. ""Eddie"" Ballard",Democratic,9574,100.0,True,False
+2004,Kentucky,KY,State House,11,general,Gross Clay Lindsay,Democratic,10317,100.0,True,False
+2004,Kentucky,KY,State House,12,general,Jim Gooch Jr.,Democratic,9973,100.0,True,False
+2004,Kentucky,KY,State House,13,general,Joe Bowen,Republican,9233,57.07,True,False
+2004,Kentucky,KY,State House,13,general,Everett E. Thompson,Democratic,6944,42.93,False,False
+2004,Kentucky,KY,State House,14,general,Tommy Thompson,Democratic,11015,55.93,True,False
+2004,Kentucky,KY,State House,14,general,Steve Winkler,Republican,8681,44.07,False,False
+2004,Kentucky,KY,State House,15,general,Brent Yonts,Democratic,10259,100.0,True,False
+2004,Kentucky,KY,State House,16,general,Sheldon E. Baugh,Republican,8029,54.69,True,False
+2004,Kentucky,KY,State House,16,general,Arthur W. Green,Democratic,6652,45.31,False,False
+2004,Kentucky,KY,State House,17,general,C.B. Embry Jr.,Republican,11045,69.33,True,False
+2004,Kentucky,KY,State House,17,general,Larry D. Ashlock,Democratic,4886,30.67,False,False
+2004,Kentucky,KY,State House,18,general,Dwight D. Butler,Republican,12092,69.34,True,False
+2004,Kentucky,KY,State House,18,general,Judy Blair,Democratic,5346,30.66,False,False
+2004,Kentucky,KY,State House,19,general,Terry Shelton,Republican,9031,52.61,True,False
+2004,Kentucky,KY,State House,19,general,Dottie J. Sims,Democratic,8135,47.39,False,False
+2004,Kentucky,KY,State House,20,general,Jody Richards,Democratic,10398,100.0,True,False
+2004,Kentucky,KY,State House,21,general,Jim DeCesare,Republican,8954,50.52,True,False
+2004,Kentucky,KY,State House,21,general,Roger Thomas,Democratic,8769,49.48,False,False
+2004,Kentucky,KY,State House,22,general,Rob Wilkey,Democratic,9957,57.97,True,False
+2004,Kentucky,KY,State House,22,general,Adam Potter,Republican,7218,42.03,False,False
+2004,Kentucky,KY,State House,23,general,Stephen R. Nunn,Republican,11322,100.0,True,False
+2004,Kentucky,KY,State House,24,general,Jimmy Higdon,Republican,10806,100.0,True,False
+2004,Kentucky,KY,State House,25,general,Jimmie Lee,Democratic,10990,100.0,True,False
+2004,Kentucky,KY,State House,26,general,Mike Weaver,Democratic,6788,52.76,True,False
+2004,Kentucky,KY,State House,26,general,Donna Broadway,Republican,6077,47.24,False,False
+2004,Kentucky,KY,State House,27,general,Gerry Lynn,Republican,7664,55.1,True,False
+2004,Kentucky,KY,State House,27,general,James H. Thompson,Democratic,6246,44.9,False,False
+2004,Kentucky,KY,State House,28,general,Charles W. Miller,Democratic,9108,59.32,True,False
+2004,Kentucky,KY,State House,28,general,Ron Gambrell,Republican,6246,40.68,False,False
+2004,Kentucky,KY,State House,29,general,Kevin D. Bratcher,Republican,15407,62.77,True,False
+2004,Kentucky,KY,State House,29,general,Bruce W. Roberts,Democratic,9137,37.23,False,False
+2004,Kentucky,KY,State House,30,general,Tom Burch,Democratic,12384,70.28,True,False
+2004,Kentucky,KY,State House,30,general,David Newman,Republican,5238,29.72,False,False
+2004,Kentucky,KY,State House,31,general,Steve Riggs,Democratic,11986,57.69,True,False
+2004,Kentucky,KY,State House,31,general,Darroll L. Hawkins,Republican,8790,42.31,False,False
+2004,Kentucky,KY,State House,32,general,Scott W. Brinkman,Republican,14604,63.32,True,False
+2004,Kentucky,KY,State House,32,general,Geri G. Anderson,Democratic,8458,36.68,False,False
+2004,Kentucky,KY,State House,33,general,Ron Crimm,Republican,17876,70.01,True,False
+2004,Kentucky,KY,State House,33,general,Daniel E. Alley,Democratic,7656,29.99,False,False
+2004,Kentucky,KY,State House,34,general,Mary Lou Marzian,Democratic,16383,66.12,True,False
+2004,Kentucky,KY,State House,34,general,Philip C. Kimball,Republican,8395,33.88,False,False
+2004,Kentucky,KY,State House,35,general,Jim Wayne,Democratic,11071,63.98,True,False
+2004,Kentucky,KY,State House,35,general,"Charles ""Buddy"" Bell",Republican,6233,36.02,False,False
+2004,Kentucky,KY,State House,36,general,Lonnie Napier,Republican,12107,100.0,True,False
+2004,Kentucky,KY,State House,37,general,Perry B. Clark,Democratic,8571,100.0,True,False
+2004,Kentucky,KY,State House,38,general,Denver Butler,Democratic,8508,58.83,True,False
+2004,Kentucky,KY,State House,38,general,Paul Hosse,Republican,5955,41.17,False,False
+2004,Kentucky,KY,State House,39,general,Robert R. Damron,Democratic,10231,58.24,True,False
+2004,Kentucky,KY,State House,39,general,Christopher L. Stansbury,Republican,7336,41.76,False,False
+2004,Kentucky,KY,State House,40,general,Dennis Horlander,Democratic,10632,100.0,True,False
+2004,Kentucky,KY,State House,41,general,Tom Riner,Democratic,11727,100.0,True,False
+2004,Kentucky,KY,State House,42,general,Reginald K. Meeks,Democratic,14210,100.0,True,False
+2004,Kentucky,KY,State House,43,general,Darryl T. Owens,Democratic,9691,62.54,True,False
+2004,Kentucky,KY,State House,43,general,Mike Czerwonka,Republican,5805,37.46,False,False
+2004,Kentucky,KY,State House,44,general,Joni Jenkins,Democratic,12782,100.0,True,False
+2004,Kentucky,KY,State House,45,general,Stan Lee,Republican,16490,66.39,True,False
+2004,Kentucky,KY,State House,45,general,Ralph Long,Democratic,8347,33.61,False,False
+2004,Kentucky,KY,State House,46,general,Larry Clark,Democratic,10415,52.87,True,False
+2004,Kentucky,KY,State House,46,general,Trace Chesser,Republican,9283,47.13,False,False
+2004,Kentucky,KY,State House,47,general,Rick W. Rand,Democratic,12125,100.0,True,False
+2004,Kentucky,KY,State House,48,general,Bob M. DeWeese,Republican,21293,100.0,True,False
+2004,Kentucky,KY,State House,49,general,Mary C. Harper,Republican,10434,55.93,True,False
+2004,Kentucky,KY,State House,49,general,Larry Belcher,Democratic,8222,44.07,False,False
+2004,Kentucky,KY,State House,50,general,David W. Floyd,Republican,9952,54.01,True,False
+2004,Kentucky,KY,State House,50,general,Tommy Reed,Democratic,8474,45.99,False,False
+2004,Kentucky,KY,State House,51,general,Russ Mobley,Republican,12203,100.0,True,False
+2004,Kentucky,KY,State House,52,general,Ken Upchurch,Republican,9627,72.07,True,False
+2004,Kentucky,KY,State House,52,general,Sammy Whittenburg,Democratic,3730,27.93,False,False
+2004,Kentucky,KY,State House,53,general,James R. Comer,Republican,12247,100.0,True,False
+2004,Kentucky,KY,State House,54,general,Mike Harmon,Republican,9459,56.28,True,False
+2004,Kentucky,KY,State House,54,general,David C. Sparrow,Democratic,7347,43.72,False,False
+2004,Kentucky,KY,State House,55,general,Milward Dedman,Republican,10050,50.95,True,False
+2004,Kentucky,KY,State House,55,general,Sharon P. Clark,Democratic,9675,49.05,False,False
+2004,Kentucky,KY,State House,56,general,Joe Barrows,Democratic,10262,54.0,True,False
+2004,Kentucky,KY,State House,56,general,Tony Moreno,Republican,8741,46.0,False,False
+2004,Kentucky,KY,State House,57,general,Derrick W. Graham,Democratic,14432,100.0,True,False
+2004,Kentucky,KY,State House,58,general,Brad Montell,Republican,11503,55.33,True,False
+2004,Kentucky,KY,State House,58,general,David B. Eaton,Democratic,9287,44.67,False,False
+2004,Kentucky,KY,State House,59,general,Timothy E. Feeley,Republican,18444,100.0,True,False
+2004,Kentucky,KY,State House,60,general,Paul H. Marcotte,Republican,17253,100.0,True,False
+2004,Kentucky,KY,State House,61,general,Royce W. Adams,Democratic,9112,58.33,True,False
+2004,Kentucky,KY,State House,61,general,Pamela Ervin Mann,Republican,6509,41.67,False,False
+2004,Kentucky,KY,State House,62,general,Charlie Hoffman,Democratic,10010,54.07,True,False
+2004,Kentucky,KY,State House,62,general,Charles O. Bradley,Republican,8504,45.93,False,False
+2004,Kentucky,KY,State House,63,general,Jon E. Draud,Republican,17035,100.0,True,False
+2004,Kentucky,KY,State House,64,general,Thomas Robert Kerr,Republican,14032,100.0,True,False
+2004,Kentucky,KY,State House,65,general,Arnold R. Simpson,Democratic,7739,100.0,True,False
+2004,Kentucky,KY,State House,66,general,Addia Kathryn Wuchner,Republican,15137,100.0,True,False
+2004,Kentucky,KY,State House,67,general,Dennis Keene,Democratic,6665,51.41,True,False
+2004,Kentucky,KY,State House,67,general,Mark T. Hayden,Republican,6299,48.59,False,False
+2004,Kentucky,KY,State House,68,general,Joseph M. Fischer,Republican,14762,100.0,True,False
+2004,Kentucky,KY,State House,69,general,Jon David Reinhardt,Republican,12038,100.0,True,False
+2004,Kentucky,KY,State House,70,general,"Mitchel B. ""Mike"" Denham",Democratic,10461,64.8,True,False
+2004,Kentucky,KY,State House,70,general,Dale Jefferson,Republican,5683,35.2,False,False
+2004,Kentucky,KY,State House,71,general,John Will Stacy,Democratic,10329,100.0,True,False
+2004,Kentucky,KY,State House,72,general,Carolyn Belcher,Democratic,8902,55.38,True,False
+2004,Kentucky,KY,State House,72,general,Bryan Beauman,Republican,7172,44.62,False,False
+2004,Kentucky,KY,State House,73,general,Don Pasley,Democratic,9360,52.96,True,False
+2004,Kentucky,KY,State House,73,general,Ralph Alvarado,Republican,8313,47.04,False,False
+2004,Kentucky,KY,State House,74,general,Adrian K. Arnold,Democratic,10598,100.0,True,False
+2004,Kentucky,KY,State House,75,general,Kathy W. Stein,Democratic,10404,100.0,True,False
+2004,Kentucky,KY,State House,76,general,Ruth Ann Palumbo,Democratic,9850,50.57,True,False
+2004,Kentucky,KY,State House,76,general,John Hampton,Republican,9629,49.43,False,False
+2004,Kentucky,KY,State House,77,general,Jesse Crenshaw,Democratic,10252,100.0,True,False
+2004,Kentucky,KY,State House,78,general,Thomas M. McKee,Democratic,9375,57.08,True,False
+2004,Kentucky,KY,State House,78,general,Roger Sullivan,Republican,7049,42.92,False,False
+2004,Kentucky,KY,State House,79,general,Susan Westrom,Democratic,9865,56.34,True,False
+2004,Kentucky,KY,State House,79,general,Rick Christman,Republican,7644,43.66,False,False
+2004,Kentucky,KY,State House,80,general,Danny Ford,Republican,12176,100.0,True,False
+2004,Kentucky,KY,State House,81,general,Harry Moberly Jr.,Democratic,8853,56.43,True,False
+2004,Kentucky,KY,State House,81,general,"C. ""Chuck"" Luke",Republican,6836,43.57,False,False
+2004,Kentucky,KY,State House,82,general,Charles L. Siler,Republican,11284,100.0,True,False
+2004,Kentucky,KY,State House,83,general,Jeff Hoover,Republican,13762,100.0,True,False
+2004,Kentucky,KY,State House,84,general,Brandon D. Smith,Republican,9388,100.0,True,False
+2004,Kentucky,KY,State House,85,general,Tommy Turner,Republican,13292,100.0,True,False
+2004,Kentucky,KY,State House,86,general,Jim Stewart,Republican,12164,100.0,True,False
+2004,Kentucky,KY,State House,87,general,Rick Nelson,Democratic,9095,100.0,True,False
+2004,Kentucky,KY,State House,88,general,Bill Farmer,Republican,13776,67.17,True,False
+2004,Kentucky,KY,State House,88,general,Lamin P. Swann,Democratic,6732,32.83,False,False
+2004,Kentucky,KY,State House,89,general,Marie L. Rader,Republican,12407,100.0,True,False
+2004,Kentucky,KY,State House,90,general,Tim Couch,Republican,9751,100.0,True,False
+2004,Kentucky,KY,State House,91,general,"Ted ""Teddy"" Edmonds",Democratic,9129,100.0,True,False
+2004,Kentucky,KY,State House,92,general,Ancel Smith,Democratic,9140,62.22,True,False
+2004,Kentucky,KY,State House,92,general,Bill B. Bates,Republican,5549,37.78,False,False
+2004,Kentucky,KY,State House,93,general,W. Keith Hall,Democratic,10119,100.0,True,False
+2004,Kentucky,KY,State House,94,general,Howard Cornett,Republican,7721,52.51,True,False
+2004,Kentucky,KY,State House,94,general,G.C. Kincer,Democratic,6983,47.49,False,False
+2004,Kentucky,KY,State House,95,general,"Charles ""Chuck"" Meade",Democratic,11549,77.25,True,False
+2004,Kentucky,KY,State House,95,general,Bobby Stumbo,Republican,3401,22.75,False,False
+2004,Kentucky,KY,State House,96,general,Robin L. Webb,Democratic,8758,54.84,True,False
+2004,Kentucky,KY,State House,96,general,Jimmy Lykins,Republican,7211,45.16,False,False
+2004,Kentucky,KY,State House,97,general,Hubert Collins,Democratic,11433,100.0,True,False
+2004,Kentucky,KY,State House,98,general,Tanya Pullin,Democratic,11178,100.0,True,False
+2004,Kentucky,KY,State House,99,general,Rocky Adkins,Democratic,11667,100.0,True,False
+2004,Kentucky,KY,State House,100,general,John Vincent,Republican,10263,100.0,True,False
+2004,Michigan,MI,State House,1,general,Ed Gaffney,Republican,26602,57.03,True,True
+2004,Michigan,MI,State House,1,general,C.J. Harrison,Democratic,18930,40.58,False,False
+2004,Michigan,MI,State House,1,general,Andrea Lavigne,Green,1116,2.39,False,False
+2004,Michigan,MI,State House,2,general,LaMar Lemmons,Democratic,23297,94.74,True,False
+2004,Michigan,MI,State House,2,general,Edith Floyd,Republican,1293,5.26,False,False
+2004,Michigan,MI,State House,3,general,LaMar Lemmons,Democratic,25938,95.69,True,False
+2004,Michigan,MI,State House,3,general,Michael Embry,Republican,1167,4.31,False,False
+2004,Michigan,MI,State House,4,general,Mary Waters,Democratic,27873,96.06,True,True
+2004,Michigan,MI,State House,4,general,Carla Haska,Republican,1143,3.94,False,False
+2004,Michigan,MI,State House,5,general,Bill McConico,Democratic,23625,100.0,True,True
+2004,Michigan,MI,State House,5,general,Vicky Stefanow,Republican,0,0.0,False,False
+2004,Michigan,MI,State House,6,general,Marsha Cheeks,Democratic,26880,91.98,True,True
+2004,Michigan,MI,State House,6,general,Dorothy Patterson,Republican,1511,5.17,False,False
+2004,Michigan,MI,State House,6,general,Michael Madias,Green,832,2.85,False,False
+2004,Michigan,MI,State House,7,general,Virgil Smith,Democratic,30393,96.43,True,True
+2004,Michigan,MI,State House,7,general,Dolores Brodersen,Republican,1125,3.57,False,False
+2004,Michigan,MI,State House,8,general,"George Cushingberry, Jr.",Democratic,37046,95.69,True,False
+2004,Michigan,MI,State House,8,general,Melvin Byrd,Republican,1667,4.31,False,False
+2004,Michigan,MI,State House,9,general,Tupac Hunter,Democratic,33020,95.02,True,True
+2004,Michigan,MI,State House,9,general,Richard Zeile,Republican,1729,4.98,False,False
+2004,Michigan,MI,State House,10,general,Gabe Leland,Democratic,25660,90.7,True,False
+2004,Michigan,MI,State House,10,general,Reuben Myers,Republican,2631,9.3,False,False
+2004,Michigan,MI,State House,11,general,Morris Hood,Democratic,30172,95.72,True,True
+2004,Michigan,MI,State House,11,general,Charles Powell,Republican,1348,4.28,False,False
+2004,Michigan,MI,State House,12,general,Steve Tobocman,Democratic,13658,86.69,True,True
+2004,Michigan,MI,State House,12,general,Anita Salazar,Republican,1777,11.28,False,False
+2004,Michigan,MI,State House,12,general,Raymond Warner,Libertarian,320,2.03,False,False
+2004,Michigan,MI,State House,13,general,Barbara Farrah,Democratic,26396,64.02,True,False
+2004,Michigan,MI,State House,13,general,Darrell Stasik,Republican,14303,34.69,False,False
+2004,Michigan,MI,State House,13,general,Bruce Morse,Libertarian,535,1.3,False,False
+2004,Michigan,MI,State House,14,general,Ed Clemente,Democratic,27504,72.56,True,False
+2004,Michigan,MI,State House,14,general,Theresa Dombrowski,Republican,10402,27.44,False,False
+2004,Michigan,MI,State House,15,general,Gino Polidori,Democratic,23923,64.68,True,True
+2004,Michigan,MI,State House,15,general,Doug Thomas,Republican,13063,35.32,False,False
+2004,Michigan,MI,State House,16,general,Jim Plakas,Democratic,25756,70.29,True,False
+2004,Michigan,MI,State House,16,general,Jeffrey Lauster,Republican,9259,25.27,False,False
+2004,Michigan,MI,State House,16,general,David Nagy,Libertarian,886,2.24,False,False
+2004,Michigan,MI,State House,16,general,William Lowry,Constitution,740,2.02,False,False
+2004,Michigan,MI,State House,17,general,Andy Dillon,Democratic,25180,59.29,True,False
+2004,Michigan,MI,State House,17,general,Darryl Husk,Republican,16202,38.15,False,False
+2004,Michigan,MI,State House,17,general,Kerry Morgan,Libertarian,1084,2.55,False,False
+2004,Michigan,MI,State House,18,general,Glenn Anderson,Democratic,22773,66.73,True,True
+2004,Michigan,MI,State House,18,general,Kip Lipford,Republican,10811,31.68,False,False
+2004,Michigan,MI,State House,18,general,Harold Dunn,Constitution,541,1.59,False,False
+2004,Michigan,MI,State House,19,general,John R. Pastor,Republican,26265,53.13,True,True
+2004,Michigan,MI,State House,19,general,Joan Gebhardt,Democratic,23168,46.87,False,False
+2004,Michigan,MI,State House,20,general,John Stewart,Republican,28732,59.63,True,True
+2004,Michigan,MI,State House,20,general,Marc Corriveau,Democratic,19448,40.37,False,False
+2004,Michigan,MI,State House,21,general,Phil LaJoy,Republican,27225,57.68,True,True
+2004,Michigan,MI,State House,21,general,Ralph Mayer,Democratic,19979,42.32,False,False
+2004,Michigan,MI,State House,22,general,Hoon-Yung Hopgood,Democratic,24375,69.55,True,True
+2004,Michigan,MI,State House,22,general,Fred Kalsic,Republican,8863,25.29,False,False
+2004,Michigan,MI,State House,22,general,Rick Butkowski,Constitution,1807,5.16,False,False
+2004,Michigan,MI,State House,23,general,Kathleen Law,Democratic,24004,54.64,True,False
+2004,Michigan,MI,State House,23,general,Bill Vollenweider,Republican,19202,43.71,False,False
+2004,Michigan,MI,State House,23,general,Richard Secula,Libertarian,727,1.65,False,False
+2004,Michigan,MI,State House,24,general,Jack Brandenburg,Republican,29111,62.7,True,True
+2004,Michigan,MI,State House,24,general,Dan Foukes,Democratic,17317,37.3,False,False
+2004,Michigan,MI,State House,25,general,Steve Bieda,Democratic,25497,61.05,True,True
+2004,Michigan,MI,State House,25,general,Michael Wiecek,Republican,16269,38.95,False,False
+2004,Michigan,MI,State House,26,general,Marie Donigan,Democratic,22780,49.08,True,False
+2004,Michigan,MI,State House,26,general,Carlo Ginotti,Republican,20954,45.15,False,False
+2004,Michigan,MI,State House,26,general,Dale Savage,Independent (politician),1529,3.29,False,False
+2004,Michigan,MI,State House,26,general,Sara Sjoberg,Libertarian,1148,2.47,False,False
+2004,Michigan,MI,State House,27,general,Andy Meisner,Democratic,32447,73.1,True,True
+2004,Michigan,MI,State House,27,general,William Axtell,Republican,10755,24.23,False,False
+2004,Michigan,MI,State House,27,general,Lloyd Sherman,Libertarian,1188,2.68,False,False
+2004,Michigan,MI,State House,28,general,Lisa Wojno,Democratic,24288,70.23,True,True
+2004,Michigan,MI,State House,28,general,Timothy Knue,Republican,9748,28.19,False,False
+2004,Michigan,MI,State House,28,general,Stephen Samoranski,Libertarian,547,1.58,False,False
+2004,Michigan,MI,State House,29,general,Clarence Phillips,Democratic,22272,74.54,True,False
+2004,Michigan,MI,State House,29,general,Samantha Moffett,Republican,7607,25.46,False,False
+2004,Michigan,MI,State House,30,general,Tory Rocca,Republican,22725,53.85,True,False
+2004,Michigan,MI,State House,30,general,Roger Maceroni,Democratic,19474,46.15,False,False
+2004,Michigan,MI,State House,31,general,Fred Miller,Democratic,21274,54.91,True,False
+2004,Michigan,MI,State House,31,general,William Morelli,Republican,16523,42.64,False,False
+2004,Michigan,MI,State House,31,general,James Miller,Libertarian,949,2.45,False,False
+2004,Michigan,MI,State House,32,general,Dan Acciavatti,Republican,28988,65.7,True,False
+2004,Michigan,MI,State House,32,general,Michael Landsiedel,Democratic,14131,32.02,False,False
+2004,Michigan,MI,State House,32,general,Joseph Zemens,Libertarian,1006,2.28,False,False
+2004,Michigan,MI,State House,33,general,Leon Drolet,Republican,30292,60.66,True,True
+2004,Michigan,MI,State House,33,general,Gary Cynowa,Democratic,19644,39.34,False,False
+2004,Michigan,MI,State House,34,general,Brenda Clack,Democratic,26658,88.67,True,True
+2004,Michigan,MI,State House,34,general,Steven Mays,Republican,3407,11.33,False,False
+2004,Michigan,MI,State House,35,general,Paul Condino,Democratic,39799,86.76,True,False
+2004,Michigan,MI,State House,35,general,Alan Malisow,Republican,6075,13.24,False,False
+2004,Michigan,MI,State House,36,general,Brian Palmer,Republican,30305,64.76,True,False
+2004,Michigan,MI,State House,36,general,Robert Murphy,Democratic,16491,35.24,False,False
+2004,Michigan,MI,State House,37,general,Aldo Vagnozzi,Democratic,26730,56.63,True,True
+2004,Michigan,MI,State House,37,general,William Largent,Republican,20468,43.37,False,False
+2004,Michigan,MI,State House,38,general,Craig DeRoche,Republican,27406,61.39,True,True
+2004,Michigan,MI,State House,38,general,Joan Morgan,Democratic,17234,38.61,False,False
+2004,Michigan,MI,State House,39,general,David Law,Republican,24998,52.4,True,False
+2004,Michigan,MI,State House,39,general,Michael Schwartz,Democratic,21618,45.31,False,False
+2004,Michigan,MI,State House,39,general,Nathan Allen,Libertarian,1092,2.29,False,False
+2004,Michigan,MI,State House,40,general,Shelley Taub,Republican,39231,100.0,True,False
+2004,Michigan,MI,State House,41,general,Bob Gosselin,Republican,26767,57.64,True,False
+2004,Michigan,MI,State House,41,general,Jim Blundo,Democratic,19674,42.36,False,False
+2004,Michigan,MI,State House,42,general,Frank Accavitti,Democratic,27267,72.2,True,False
+2004,Michigan,MI,State House,42,general,Greg Flemin,Republican,10499,27.8,False,False
+2004,Michigan,MI,State House,43,general,Fran Amos,Republican,23665,56.54,True,True
+2004,Michigan,MI,State House,43,general,Scott Hudson,Democratic,18193,43.46,False,False
+2004,Michigan,MI,State House,44,general,John Stakoe,Republican,33596,67.88,True,False
+2004,Michigan,MI,State House,44,general,Bill Scrase,Democratic,14498,29.29,False,False
+2004,Michigan,MI,State House,44,general,Ronald Monroe,Constitution,1400,2.83,False,False
+2004,Michigan,MI,State House,45,general,John Garfield,Republican,31993,63.12,True,False
+2004,Michigan,MI,State House,45,general,Thomas Werth,Democratic,17363,34.26,False,False
+2004,Michigan,MI,State House,45,general,Retta Fontana,Libertarian,1326,2.62,False,False
+2004,Michigan,MI,State House,46,general,James Marleau,Republican,30064,63.08,True,False
+2004,Michigan,MI,State House,46,general,Daniel Myslakowski,Democratic,17593,36.92,False,False
+2004,Michigan,MI,State House,47,general,Joe Hune,Republican,32160,70.82,True,True
+2004,Michigan,MI,State House,47,general,Edmund Senkowski,Democratic,13248,29.18,False,False
+2004,Michigan,MI,State House,48,general,John Gleason,Democratic,30834,72.82,True,True
+2004,Michigan,MI,State House,48,general,Donald Wenk,Republican,11506,27.18,False,False
+2004,Michigan,MI,State House,49,general,Lee Gonzales,Democratic,26865,69.92,True,False
+2004,Michigan,MI,State House,49,general,Dan Parks,Republican,11555,30.08,False,False
+2004,Michigan,MI,State House,50,general,Paula Zelenko,Democratic,26427,64.76,True,True
+2004,Michigan,MI,State House,50,general,Fred Mac Fortner,Republican,14380,35.24,False,False
+2004,Michigan,MI,State House,51,general,Dave Robertson,Republican,28798,54.59,True,True
+2004,Michigan,MI,State House,51,general,Steven Robinson,Democratic,23951,45.41,False,False
+2004,Michigan,MI,State House,52,general,Pam Byrnes,Democratic,23951,45.41,True,False
+2004,Michigan,MI,State House,52,general,Joseph Yekulis,Republican,24669,45.34,False,False
+2004,Michigan,MI,State House,53,general,Chris Kolb,Democratic,36745,80.1,True,True
+2004,Michigan,MI,State House,53,general,Erik Sheagren,Republican,9127,19.9,False,False
+2004,Michigan,MI,State House,54,general,Alma Wheeler Smith,Democratic,28568,67.82,True,False
+2004,Michigan,MI,State House,54,general,Jason Myers,Republican,12698,30.14,False,False
+2004,Michigan,MI,State House,54,general,David Raaflaub,Libertarian,860,2.04,False,False
+2004,Michigan,MI,State House,55,general,Kathy Angerer,Democratic,24299,50.33,True,False
+2004,Michigan,MI,State House,55,general,Matt Milosch,Republican,23980,49.67,False,False
+2004,Michigan,MI,State House,56,general,Herb Kehrl,Democratic,21554,49.11,True,False
+2004,Michigan,MI,State House,56,general,John Manor,Republican,20671,47.1,False,False
+2004,Michigan,MI,State House,56,general,Lance Piedmonte,Libertarian,1068,2.43,False,False
+2004,Michigan,MI,State House,56,general,Robert Kull,Green,594,1.35,False,False
+2004,Michigan,MI,State House,57,general,Dudley Spade,Democratic,25183,58.81,True,False
+2004,Michigan,MI,State House,57,general,David Abraham,Republican,17640,41.19,False,False
+2004,Michigan,MI,State House,58,general,Bruce Caswell,Republican,25945,72.73,True,True
+2004,Michigan,MI,State House,58,general,Jack Gabbard,Democratic,9726,27.27,False,False
+2004,Michigan,MI,State House,59,general,Rick Shaffer,Republican,27044,70.69,True,False
+2004,Michigan,MI,State House,59,general,Ed Pawlowski,Democratic,11211,29.31,False,False
+2004,Michigan,MI,State House,60,general,Alexander Lipsey,Democratic,24473,68.48,True,True
+2004,Michigan,MI,State House,60,general,Nick Fedesna,Republican,11266,31.52,False,False
+2004,Michigan,MI,State House,61,general,Jack Hoogendyk,Republican,28167,54.89,True,True
+2004,Michigan,MI,State House,61,general,James Houston,Democratic,23150,45.11,False,False
+2004,Michigan,MI,State House,62,general,Mike Nofs,Republican,20935,53.37,True,True
+2004,Michigan,MI,State House,62,general,Lynne Haley,Democratic,18289,46.63,False,False
+2004,Michigan,MI,State House,63,general,Lorence Wenke,Republican,28181,58.83,True,True
+2004,Michigan,MI,State House,63,general,James Geary,Democratic,19723,41.17,False,False
+2004,Michigan,MI,State House,64,general,Rick Baxter,Republican,18787,49.81,True,False
+2004,Michigan,MI,State House,64,general,Martin Griffin,Democratic,18429,48.87,False,False
+2004,Michigan,MI,State House,65,general,Leslie Mortimer,Republican,20014,51.41,True,False
+2004,Michigan,MI,State House,65,general,Mike Simpson,Democratic,18915,48.59,False,False
+2004,Michigan,MI,State House,66,general,Chris Ward,Republican,35623,71.17,True,False
+2004,Michigan,MI,State House,66,general,James W. Block,Democratic,14432,28.83,False,False
+2004,Michigan,MI,State House,67,general,Dianne Byrum,Democratic,25709,54.8,True,True
+2004,Michigan,MI,State House,67,general,Beth Chandler,Republican,21205,45.2,False,False
+2004,Michigan,MI,State House,68,general,Michael Murphy,Democratic,27455,68.83,True,True
+2004,Michigan,MI,State House,68,general,Mark Harm,Republican,11550,28.95,False,False
+2004,Michigan,MI,State House,68,general,DelRae Finnerty,Constitution,886,2.22,False,False
+2004,Michigan,MI,State House,69,general,Gretchen Whitmer,Democratic,26828,65.65,True,True
+2004,Michigan,MI,State House,69,general,Angela Lindsay,Republican,14037,34.35,False,False
+2004,Michigan,MI,State House,70,general,Judy Emmons,Republican,22744,65.97,True,True
+2004,Michigan,MI,State House,70,general,Henry Sanchez,Democratic,11732,34.03,False,False
+2004,Michigan,MI,State House,71,general,Rick Jones,Republican,28643,59.22,True,False
+2004,Michigan,MI,State House,71,general,Ryan Latourette,Democratic,18628,38.51,False,False
+2004,Michigan,MI,State House,71,general,Mark Powell,Libertarian,1098,2.27,False,False
+2004,Michigan,MI,State House,72,general,Glenn Steil,Republican,33283,68.42,True,False
+2004,Michigan,MI,State House,72,general,Thomas Burke,Democratic,14594,30.0,False,False
+2004,Michigan,MI,State House,72,general,William Wenzel,Libertarian,765,1.57,False,False
+2004,Michigan,MI,State House,73,general,Tom Pearce,Republican,35035,68.04,True,False
+2004,Michigan,MI,State House,73,general,Frederick Clowney,Democratic,15277,29.67,False,False
+2004,Michigan,MI,State House,73,general,Ron Heeren,Libertarian,1179,2.29,False,False
+2004,Michigan,MI,State House,74,general,William Van Regenmorter,Republican,38380,75.1,True,True
+2004,Michigan,MI,State House,74,general,Dawn Sloboda,Democratic,12009,23.5,False,False
+2004,Michigan,MI,State House,74,general,Tracey Gelineau,Libertarian,719,1.41,False,False
+2004,Michigan,MI,State House,75,general,Jerry Kooiman,Republican,21273,52.22,True,False
+2004,Michigan,MI,State House,75,general,Christopher Vogt,Democratic,19465,47.78,False,False
+2004,Michigan,MI,State House,76,general,Michael Sak,Democratic,21091,67.42,True,True
+2004,Michigan,MI,State House,76,general,Holly Zuidema,Republican,9591,30.66,False,False
+2004,Michigan,MI,State House,76,general,Roger McClary,Green,600,1.92,False,False
+2004,Michigan,MI,State House,77,general,Kevin Green,Republican,26158,66.1,True,False
+2004,Michigan,MI,State House,77,general,Albert Abbasse,Democratic,11459,28.96,False,False
+2004,Michigan,MI,State House,77,general,John Stedman,Independent (politician),1618,4.09,False,False
+2004,Michigan,MI,State House,77,general,Wayne Dial,Libertarian,339,0.86,False,False
+2004,Michigan,MI,State House,78,general,Neal Nitz,Republican,21884,58.64,True,True
+2004,Michigan,MI,State House,78,general,Michael Gordon,Democratic,15434,41.36,False,False
+2004,Michigan,MI,State House,79,general,John Proos,Republican,26377,62.68,True,False
+2004,Michigan,MI,State House,79,general,Princella Tobias,Democratic,15703,37.32,False,False
+2004,Michigan,MI,State House,80,general,Tonya Schuitmaker,Republican,21610,58.3,True,False
+2004,Michigan,MI,State House,80,general,Art Toy,Democratic,15459,41.7,False,False
+2004,Michigan,MI,State House,81,general,Phil Pavlov,Republican,26277,56.43,True,False
+2004,Michigan,MI,State House,81,general,Mary Patterson,Democratic,20290,43.57,False,False
+2004,Michigan,MI,State House,82,general,John Stahl,Republican,24292,57.79,True,False
+2004,Michigan,MI,State House,82,general,David Okasinski,Democratic,16215,38.57,False,False
+2004,Michigan,MI,State House,82,general,Laura Erpelding,Constitution,1529,3.64,False,False
+2004,Michigan,MI,State House,83,general,John Espinoza,Democratic,22256,55.5,True,False
+2004,Michigan,MI,State House,83,general,Paul Muxlow,Republican,17844,44.5,False,False
+2004,Michigan,MI,State House,84,general,Tom Meyer,Republican,27917,63.62,True,True
+2004,Michigan,MI,State House,84,general,Steve Montle,Democratic,15183,34.6,False,False
+2004,Michigan,MI,State House,84,general,Rebekah Mikkelson,Green,783,1.78,False,False
+2004,Michigan,MI,State House,85,general,Dick Ball,Republican,23191,52.67,True,False
+2004,Michigan,MI,State House,85,general,Mike Powers,Democratic,20011,45.45,False,False
+2004,Michigan,MI,State House,85,general,George Zimmer,Constitution,830,1.88,False,False
+2004,Michigan,MI,State House,86,general,Dave Hildenbrand,Republican,34664,67.18,True,False
+2004,Michigan,MI,State House,86,general,James Turner,Democratic,15994,31.0,False,False
+2004,Michigan,MI,State House,86,general,Bill Gelineau,Libertarian,938,1.82,False,False
+2004,Michigan,MI,State House,87,general,Gary Newell,Republican,28482,63.0,True,False
+2004,Michigan,MI,State House,87,general,David Brinkert,Democratic,15689,34.71,False,False
+2004,Michigan,MI,State House,87,general,Phillip Adams,Constitution,1035,2.29,False,False
+2004,Michigan,MI,State House,88,general,Fulton Sheen,Republican,31300,67.19,True,False
+2004,Michigan,MI,State House,88,general,Marty Jo Fleser,Democratic,15282,32.81,False,False
+2004,Michigan,MI,State House,89,general,Barb Vander Veen,Republican,32769,71.78,True,False
+2004,Michigan,MI,State House,89,general,Rebecca Arenas,Democratic,12884,28.22,False,False
+2004,Michigan,MI,State House,90,general,Bill Huizenga,Republican,32383,78.56,True,True
+2004,Michigan,MI,State House,90,general,Jo Bartlett,Democratic,7607,18.45,False,False
+2004,Michigan,MI,State House,90,general,Mariano Diaz,Libertarian,1233,2.99,False,False
+2004,Michigan,MI,State House,91,general,David Farhat,Republican,22327,52.03,True,False
+2004,Michigan,MI,State House,91,general,Nancy Frye,Democratic,20587,47.97,False,False
+2004,Michigan,MI,State House,92,general,Doug Bennett,Democratic,22498,65.59,True,False
+2004,Michigan,MI,State House,92,general,Bob Cutler,Republican,11804,34.41,False,False
+2004,Michigan,MI,State House,93,general,Scott Hummel,Republican,29138,66.61,True,False
+2004,Michigan,MI,State House,93,general,Monica Birchman,Democratic,14606,33.39,False,False
+2004,Michigan,MI,State House,94,general,Roger Kahn,Republican,28925,59.05,True,False
+2004,Michigan,MI,State House,94,general,Timothy Muter,Democratic,20061,40.95,False,False
+2004,Michigan,MI,State House,95,general,Carl M. Williams,Democratic,25233,77.4,True,True
+2004,Michigan,MI,State House,95,general,Andrew Wendt,Republican,7366,22.6,False,False
+2004,Michigan,MI,State House,96,general,Jeff Mayes,Democratic,29305,63.58,True,False
+2004,Michigan,MI,State House,96,general,Steven Goss,Republican,16790,36.42,False,False
+2004,Michigan,MI,State House,97,general,Tim Moore,Republican,22321,51.66,True,False
+2004,Michigan,MI,State House,97,general,Jennifer Elkins,Democratic,20883,48.34,False,False
+2004,Michigan,MI,State House,98,general,John Moolenaar,Republican,28431,65.38,True,True
+2004,Michigan,MI,State House,98,general,Stacy Jones,Democratic,15057,34.62,False,False
+2004,Michigan,MI,State House,99,general,Bill Caul,Republican,21486,56.78,True,False
+2004,Michigan,MI,State House,99,general,Sharon Tilmann,Democratic,16352,43.22,False,False
+2004,Michigan,MI,State House,100,general,Goeff Hansen,Republican,23270,61.02,True,False
+2004,Michigan,MI,State House,100,general,Ronald Griffin,Democratic,14863,38.98,False,False
+2004,Michigan,MI,State House,101,general,David Palsrok,Republican,26990,55.71,True,False
+2004,Michigan,MI,State House,101,general,Richard Gebhard,Democratic,21457,44.29,False,False
+2004,Michigan,MI,State House,102,general,Darwin Booher,Republican,26000,63.79,True,False
+2004,Michigan,MI,State House,102,general,Paul Challender,Democratic,14761,36.21,False,False
+2004,Michigan,MI,State House,103,general,Joel Sheltrown,Democratic,25535,56.51,True,False
+2004,Michigan,MI,State House,103,general,Bruce Rendon,Republican,19648,43.49,False,False
+2004,Michigan,MI,State House,104,general,Howard Walker,Republican,33482,66.58,True,True
+2004,Michigan,MI,State House,104,general,Tom Karas,Democratic,16804,33.42,False,False
+2004,Michigan,MI,State House,105,general,Kevin Elsenheimer,Republican,30765,62.27,True,False
+2004,Michigan,MI,State House,105,general,Jim McKimmy,Democratic,18644,37.73,False,False
+2004,Michigan,MI,State House,106,general,Matt Gillard,Democratic,25834,58.27,True,True
+2004,Michigan,MI,State House,106,general,Richard Fortier,Republican,18498,41.73,False,False
+2004,Michigan,MI,State House,107,general,Gary McDowell,Democratic,22293,53.53,True,False
+2004,Michigan,MI,State House,107,general,Walter North,Republican,19353,46.47,False,False
+2004,Michigan,MI,State House,108,general,Tom Casperson,Republican,29727,68.56,True,True
+2004,Michigan,MI,State House,108,general,Dennis Baldinelli,Democratic,13635,31.44,False,False
+2004,Michigan,MI,State House,109,general,Stephen Adamini,Democratic,28081,67.11,True,True
+2004,Michigan,MI,State House,109,general,David Kaltenbach,Republican,13760,32.89,False,False
+2004,Michigan,MI,State House,110,general,Rich Brown,Democratic,26754,68.14,True,True
+2004,Michigan,MI,State House,110,general,Patricia Ashcraft,Republican,9845,25.07,False,False
+2004,Michigan,MI,State House,110,general,James Niemela,Constitution,2161,5.5,False,False
+2004,Michigan,MI,State House,110,general,Travis Joseph Peterson,Independent (politician),506,1.29,False,False
+2004,North Carolina,NC,State House,1,general,Bill Owens,Democratic,18873,100.0,True,True
+2004,North Carolina,NC,State House,2,general,Bill Culpepper,Democratic,16949,61.51,True,True
+2004,North Carolina,NC,State House,2,general,Daniel M. Beall,Republican,10607,38.49,False,False
+2004,North Carolina,NC,State House,3,general,Alice Graham Underhill,Democratic,15156,51.18,True,False
+2004,North Carolina,NC,State House,3,general,Michael Speciale,Republican,13947,47.1,False,False
+2004,North Carolina,NC,State House,3,general,Herbert M. Sobel,Libertarian,509,1.72,False,False
+2004,North Carolina,NC,State House,4,general,Russell Tucker,Democratic,15333,100.0,True,False
+2004,North Carolina,NC,State House,5,general,Howard Hunter Jr.,Democratic,18006,83.43,True,True
+2004,North Carolina,NC,State House,5,general,Larry Cooke Jr.,Libertarian,3576,16.57,False,False
+2004,North Carolina,NC,State House,6,general,Arthur Williams,Democratic,16192,54.96,True,True
+2004,North Carolina,NC,State House,6,general,Al Klemm,Republican,13272,45.04,False,False
+2004,North Carolina,NC,State House,7,general,John Hall,Democratic,17714,100.0,True,True
+2004,North Carolina,NC,State House,8,general,Edith Warren,Democratic,17033,74.04,True,True
+2004,North Carolina,NC,State House,8,general,Curt Hendrix,Republican,5973,25.96,False,False
+2004,North Carolina,NC,State House,9,general,Marian McLawhorn,Democratic,18775,100.0,True,True
+2004,North Carolina,NC,State House,10,general,Stephen LaRoque,Republican,14529,57.38,True,True
+2004,North Carolina,NC,State House,10,general,James D. (Lew) Llewellyn,Democratic,10793,42.62,False,False
+2004,North Carolina,NC,State House,11,general,Louis Pate,Republican,20120,100.0,True,True
+2004,North Carolina,NC,State House,12,general,William Wainwright,Democratic,13573,64.49,True,True
+2004,North Carolina,NC,State House,12,general,"John Percy Wetherington, Jr.",Republican,7473,35.51,False,False
+2004,North Carolina,NC,State House,13,general,Jean Preston,Republican,20607,70.77,True,True
+2004,North Carolina,NC,State House,13,general,Malcolm Fulcher,Democratic,8513,29.23,False,False
+2004,North Carolina,NC,State House,14,general,George Cleveland,Republican,11479,60.78,True,False
+2004,North Carolina,NC,State House,14,general,Kever M. Clark,Democratic,7406,39.22,False,False
+2004,North Carolina,NC,State House,15,general,Robert Grady,Republican,9196,100.0,True,True
+2004,North Carolina,NC,State House,16,general,Carolyn Justice,Republican,25427,100.0,True,True
+2004,North Carolina,NC,State House,17,general,Bonner Stiller,Republican,16745,49.86,True,True
+2004,North Carolina,NC,State House,17,general,David Redwine,Democratic,16288,48.5,False,False
+2004,North Carolina,NC,State House,17,general,Edward Gore,Libertarian,550,1.64,False,False
+2004,North Carolina,NC,State House,18,general,Thomas Wright,Democratic,14712,63.8,True,True
+2004,North Carolina,NC,State House,18,general,Frankie Roberts,Republican,8347,36.2,False,False
+2004,North Carolina,NC,State House,19,general,Danny McComas,Republican,27954,100.0,True,True
+2004,North Carolina,NC,State House,20,general,Dewey Hill,Democratic,19158,100.0,True,True
+2004,North Carolina,NC,State House,21,general,Larry Bell,Democratic,17812,100.0,True,True
+2004,North Carolina,NC,State House,22,general,Edd Nye,Democratic,18646,100.0,True,True
+2004,North Carolina,NC,State House,23,general,Joe Tolson,Democratic,17040,65.93,True,True
+2004,North Carolina,NC,State House,23,general,Henry Williams II,Republican,8804,34.07,False,False
+2004,North Carolina,NC,State House,24,general,Jean Farmer-Butterfield,Democratic,19501,100.0,True,True
+2004,North Carolina,NC,State House,25,general,Bill Daughtridge,Republican,20092,100.0,True,True
+2004,North Carolina,NC,State House,26,general,Leo Daughtry,Republican,20320,100.0,True,True
+2004,North Carolina,NC,State House,27,general,Michael Wray,Democratic,21237,100.0,True,False
+2004,North Carolina,NC,State House,28,general,James Langdon Jr.,Republican,23805,100.0,True,False
+2004,North Carolina,NC,State House,29,general,Paul Miller,Democratic,27249,100.0,True,True
+2004,North Carolina,NC,State House,30,general,Paul Luebke,Democratic,21245,88.1,True,True
+2004,North Carolina,NC,State House,30,general,Sean Haugh,Libertarian,2870,11.9,False,False
+2004,North Carolina,NC,State House,31,general,Mickey Michaux,Democratic,23313,85.98,True,True
+2004,North Carolina,NC,State House,31,general,Michael P. Owen,Libertarian,3802,14.02,False,False
+2004,North Carolina,NC,State House,32,general,Jim Crawford,Democratic,18851,88.27,True,True
+2004,North Carolina,NC,State House,32,general,Tom Howe,Libertarian,2505,11.73,False,False
+2004,North Carolina,NC,State House,33,general,Bernard Allen,Democratic,24580,92.21,True,True
+2004,North Carolina,NC,State House,33,general,Steven Hilton,Libertarian,2076,7.79,False,False
+2004,North Carolina,NC,State House,34,general,Grier Martin,Democratic,18755,51.09,True,False
+2004,North Carolina,NC,State House,34,general,Don Munford,Republican,17952,48.91,False,True
+2004,North Carolina,NC,State House,35,general,Jennifer Weiss,Democratic,22899,88.86,True,True
+2004,North Carolina,NC,State House,35,general,Graham Yarko Thomas,Libertarian,2870,11.14,False,False
+2004,North Carolina,NC,State House,36,general,Nelson Dollar,Republican,24166,82.72,True,False
+2004,North Carolina,NC,State House,36,general,Gary Goodson,Libertarian,5049,17.28,False,False
+2004,North Carolina,NC,State House,37,general,Paul Stam,Republican,29596,85.39,True,True
+2004,North Carolina,NC,State House,37,general,H. Wade Minter,Libertarian,5064,14.61,False,False
+2004,North Carolina,NC,State House,38,general,Deborah Ross,Democratic,20121,66.51,True,True
+2004,North Carolina,NC,State House,38,general,Phil Jeffreys,Republican,10131,33.49,False,False
+2004,North Carolina,NC,State House,39,general,Linda Coleman,Democratic,18480,54.4,True,False
+2004,North Carolina,NC,State House,39,general,Sam Ellis,Republican,15488,45.6,False,True
+2004,North Carolina,NC,State House,40,general,Rick Eddins,Republican,29528,62.14,True,True
+2004,North Carolina,NC,State House,40,general,Joe O’Shaughnessy,Democratic,16848,35.46,False,False
+2004,North Carolina,NC,State House,40,general,Andrew Hatchell,Libertarian,1143,2.41,False,False
+2004,North Carolina,NC,State House,41,general,Russell Capps,Republican,27743,100.0,True,True
+2004,North Carolina,NC,State House,42,general,Marvin Lucas,Democratic,10746,66.24,True,True
+2004,North Carolina,NC,State House,42,general,Bob White,Republican,5476,33.76,False,False
+2004,North Carolina,NC,State House,43,general,Mary McAllister,Democratic,11875,100.0,True,True
+2004,North Carolina,NC,State House,44,general,Margaret Dickson,Democratic,13764,58.38,True,True
+2004,North Carolina,NC,State House,44,general,Ralph Reagan,Republican,9812,41.62,False,False
+2004,North Carolina,NC,State House,45,general,Rick Glazier,Democratic,15100,60.16,True,True
+2004,North Carolina,NC,State House,45,general,Robert T. Lawrence,Republican,10001,39.84,False,False
+2004,North Carolina,NC,State House,46,general,Douglas Yongue,Democratic,12913,100.0,True,True
+2004,North Carolina,NC,State House,47,general,Ronnie Sutton,Democratic,15224,100.0,True,True
+2004,North Carolina,NC,State House,48,general,Garland Pierce,Democratic,15924,100.0,True,False
+2004,North Carolina,NC,State House,49,general,Lucy Allen,Democratic,15121,56.66,True,True
+2004,North Carolina,NC,State House,49,general,Renee’ McCormick,Republican,11567,43.34,False,False
+2004,North Carolina,NC,State House,50,general,Bill Faison,Democratic,21614,100.0,True,False
+2004,North Carolina,NC,State House,51,general,John Sauls,Republican,13255,50.74,True,True
+2004,North Carolina,NC,State House,51,general,Leslie Cox,Democratic,12869,49.26,False,False
+2004,North Carolina,NC,State House,52,general,Richard Morgan,Republican,23868,100.0,True,True
+2004,North Carolina,NC,State House,53,general,David Lewis,Republican,14633,58.89,True,True
+2004,North Carolina,NC,State House,53,general,Louise Taylor,Democratic,10217,41.11,False,False
+2004,North Carolina,NC,State House,54,general,Joe Hackney,Democratic,24939,100.0,True,True
+2004,North Carolina,NC,State House,55,general,Winkie Wilkins,Democratic,22524,88.91,True,False
+2004,North Carolina,NC,State House,55,general,Tom Rose,Libertarian,2810,11.09,False,False
+2004,North Carolina,NC,State House,56,general,Verla Insko,Democratic,25984,100.0,True,True
+2004,North Carolina,NC,State House,57,general,Pricey Harrison,Democratic,16606,56.65,True,False
+2004,North Carolina,NC,State House,57,general,Joanne Bowie,Republican,12707,43.35,False,True
+2004,North Carolina,NC,State House,58,general,Alma Adams,Democratic,21087,65.73,True,True
+2004,North Carolina,NC,State House,58,general,Olga Morgan Wright,Republican,10374,32.34,False,False
+2004,North Carolina,NC,State House,58,general,Walter J. Sperko,Libertarian,618,1.93,False,False
+2004,North Carolina,NC,State House,59,general,Maggie Jeffus,Democratic,18327,57.33,True,True
+2004,North Carolina,NC,State House,59,general,Jim Rumley,Republican,12884,40.3,False,False
+2004,North Carolina,NC,State House,59,general,Allison N. Jaynes,Libertarian,759,2.37,False,False
+2004,North Carolina,NC,State House,60,general,Earl Jones,Democratic,18270,100.0,True,True
+2004,North Carolina,NC,State House,61,general,Laura Wiley,Republican,25490,100.0,True,False
+2004,North Carolina,NC,State House,62,general,John Blust,Republican,31436,100.0,True,True
+2004,North Carolina,NC,State House,63,general,Alice Bordsen,Democratic,12753,54.89,True,True
+2004,North Carolina,NC,State House,63,general,Jerry Rudd,Republican,10482,45.11,False,False
+2004,North Carolina,NC,State House,64,general,Cary Allred,Republican,22787,100.0,True,True
+2004,North Carolina,NC,State House,65,general,Nelson Cole,Democratic,13890,52.65,True,True
+2004,North Carolina,NC,State House,65,general,Wayne Sexton,Republican,12493,47.35,False,True
+2004,North Carolina,NC,State House,66,general,Melanie Wade Goodwin,Democratic,18240,94.85,True,False
+2004,North Carolina,NC,State House,66,general,Edward J. O’Neal (write-in),Independent (politician),990,5.15,False,False
+2004,North Carolina,NC,State House,67,general,David Almond,Republican,19974,65.91,True,False
+2004,North Carolina,NC,State House,67,general,June Mabry,Democratic,10332,34.09,False,False
+2004,North Carolina,NC,State House,68,general,Curtis Blackwood,Republican,31252,100.0,True,True
+2004,North Carolina,NC,State House,69,general,Pryor Gibson,Democratic,14139,63.44,True,True
+2004,North Carolina,NC,State House,69,general,Hilda L. Morton,Republican,8147,36.56,False,False
+2004,North Carolina,NC,State House,70,general,Arlie Culp,Republican,19578,91.58,True,True
+2004,North Carolina,NC,State House,70,general,Douglas Kania,Libertarian,1801,8.42,False,False
+2004,North Carolina,NC,State House,71,general,Larry Womble,Democratic,15840,86.93,True,True
+2004,North Carolina,NC,State House,71,general,Lynn Haggerty,Libertarian,2381,13.07,False,False
+2004,North Carolina,NC,State House,72,general,Earline Parmon,Democratic,17286,100.0,True,True
+2004,North Carolina,NC,State House,73,general,Larry Brown,Republican,23966,86.46,True,False
+2004,North Carolina,NC,State House,73,general,Michael Smith,Libertarian,3754,13.54,False,False
+2004,North Carolina,NC,State House,74,general,Dale Folwell,Republican,21248,62.94,True,False
+2004,North Carolina,NC,State House,74,general,Tom Brandon,Democratic,12510,37.06,False,False
+2004,North Carolina,NC,State House,75,general,Bill McGee,Republican,24978,100.0,True,True
+2004,North Carolina,NC,State House,76,general,Fred Steen II,Republican,21610,100.0,True,True
+2004,North Carolina,NC,State House,77,general,Lorene Coates,Democratic,15026,60.64,True,True
+2004,North Carolina,NC,State House,77,general,Mac Butner,Republican,9751,39.36,False,False
+2004,North Carolina,NC,State House,78,general,Harold Brubaker,Republican,20756,100.0,True,True
+2004,North Carolina,NC,State House,79,general,Julia Craven Howard,Republican,21225,100.0,True,True
+2004,North Carolina,NC,State House,80,general,Jerry Dockham,Republican,24367,100.0,True,True
+2004,North Carolina,NC,State House,81,general,Hugh Holliman,Democratic,15141,100.0,True,True
+2004,North Carolina,NC,State House,82,general,Jeff Barnhart,Republican,20942,85.29,True,True
+2004,North Carolina,NC,State House,82,general,Carl Miller,Libertarian,3613,14.71,False,False
+2004,North Carolina,NC,State House,83,general,Linda Johnson,Republican,21648,87.21,True,True
+2004,North Carolina,NC,State House,83,general,Caroline Gellner,Libertarian,3176,12.79,False,False
+2004,North Carolina,NC,State House,84,general,Phillip Frye,Republican,20718,87.05,True,True
+2004,North Carolina,NC,State House,84,general,C. Barry Williams,Libertarian,3082,12.95,False,False
+2004,North Carolina,NC,State House,85,general,Mitch Gillespie,Republican,16047,66.09,True,True
+2004,North Carolina,NC,State House,85,general,Philip J. Tate,Democratic,8234,33.91,False,False
+2004,North Carolina,NC,State House,86,general,Walt Church,Democratic,16029,100.0,True,True
+2004,North Carolina,NC,State House,87,general,Edgar Starnes,Republican,15519,59.84,True,True
+2004,North Carolina,NC,State House,87,general,Woody Tucker,Democratic,10415,40.16,False,False
+2004,North Carolina,NC,State House,88,general,Mark Hollo,Republican,15587,56.31,True,False
+2004,North Carolina,NC,State House,88,general,Joel Harbinson,Democratic,12096,43.69,False,False
+2004,North Carolina,NC,State House,89,general,Mitchell Setzer,Republican,20460,100.0,True,True
+2004,North Carolina,NC,State House,90,general,Jim Harrell,Democratic,13374,57.97,True,True
+2004,North Carolina,NC,State House,90,general,Jack Conaway,Republican,9698,42.03,False,False
+2004,North Carolina,NC,State House,91,general,Bryan Holloway,Republican,16870,57.38,True,False
+2004,North Carolina,NC,State House,91,general,Robert W. Mitchell,Democratic,12533,42.62,False,False
+2004,North Carolina,NC,State House,92,general,George Holmes,Republican,20830,100.0,True,True
+2004,North Carolina,NC,State House,93,general,Gene Wilson,Republican,17953,51.85,True,True
+2004,North Carolina,NC,State House,93,general,Cullie Tarleton,Democratic,15595,45.04,False,False
+2004,North Carolina,NC,State House,93,general,Brandon Derr,Libertarian,1078,3.11,False,False
+2004,North Carolina,NC,State House,94,general,Tracy Walker,Republican,20714,100.0,True,True
+2004,North Carolina,NC,State House,95,general,Karen Ray,Republican,24199,100.0,True,True
+2004,North Carolina,NC,State House,96,general,Mark Hilton,Republican,19466,100.0,True,True
+2004,North Carolina,NC,State House,97,general,Joe Kiser,Republican,17888,61.13,True,True
+2004,North Carolina,NC,State House,97,general,Ken H. Fortenberry,Democratic,11374,38.87,False,False
+2004,North Carolina,NC,State House,98,general,John Rhodes,Republican,27830,100.0,True,True
+2004,North Carolina,NC,State House,99,general,Drew Saunders,Democratic,20081,100.0,True,True
+2004,North Carolina,NC,State House,100,general,Jim Black,Democratic,16160,100.0,True,True
+2004,North Carolina,NC,State House,101,general,Beverly Earle,Democratic,20474,100.0,True,True
+2004,North Carolina,NC,State House,102,general,Becky Carney,Democratic,17277,100.0,True,True
+2004,North Carolina,NC,State House,103,general,Jim Gulley,Republican,18195,57.32,True,True
+2004,North Carolina,NC,State House,103,general,Sid Sowers,Democratic,12463,39.26,False,False
+2004,North Carolina,NC,State House,103,general,Stephen Burr,Libertarian,1087,3.42,False,False
+2004,North Carolina,NC,State House,104,general,Ed McMahan,Republican,26125,100.0,True,True
+2004,North Carolina,NC,State House,105,general,Doug Vinson,Republican,29368,100.0,True,False
+2004,North Carolina,NC,State House,106,general,Martha Alexander,Democratic,17452,100.0,True,True
+2004,North Carolina,NC,State House,107,general,Pete Cunningham,Democratic,16807,68.2,True,True
+2004,North Carolina,NC,State House,107,general,Kenny Houck,Republican,7836,31.8,False,False
+2004,North Carolina,NC,State House,108,general,John Rayfield,Republican,16505,68.7,True,True
+2004,North Carolina,NC,State House,108,general,"William F. Manning, Sr.",Democratic,7519,31.3,False,False
+2004,North Carolina,NC,State House,109,general,William Current,Republican,13629,61.38,True,False
+2004,North Carolina,NC,State House,109,general,Shirley M. Wiggins,Democratic,8577,38.62,False,False
+2004,North Carolina,NC,State House,110,general,Debbie Clary,Republican,14690,63.49,True,True
+2004,North Carolina,NC,State House,110,general,Jim Long,Democratic,8448,36.51,False,False
+2004,North Carolina,NC,State House,111,general,Tim Moore,Republican,14392,55.45,True,True
+2004,North Carolina,NC,State House,111,general,Kathryn H. Hamrick,Democratic,11565,44.55,False,False
+2004,North Carolina,NC,State House,112,general,Bob England,Democratic,16681,61.19,True,True
+2004,North Carolina,NC,State House,112,general,Mike Hager,Republican,10171,37.31,False,False
+2004,North Carolina,NC,State House,112,general,Ralph Haulk,Libertarian,408,1.5,False,False
+2004,North Carolina,NC,State House,113,general,Trudi Walend,Republican,24016,100.0,True,True
+2004,North Carolina,NC,State House,114,general,Susan Fisher,Democratic,19098,61.95,True,True
+2004,North Carolina,NC,State House,114,general,Bill Porter,Republican,11729,38.05,False,False
+2004,North Carolina,NC,State House,115,general,Bruce Goforth,Democratic,20957,59.95,True,True
+2004,North Carolina,NC,State House,115,general,Barbara Boyd,Republican,13002,37.19,False,False
+2004,North Carolina,NC,State House,115,general,Robert Parker,Libertarian,999,2.86,False,False
+2004,North Carolina,NC,State House,116,general,Wilma Sherrill,Republican,20030,62.25,True,True
+2004,North Carolina,NC,State House,116,general,Doug Jones,Democratic,12149,37.75,False,False
+2004,North Carolina,NC,State House,117,general,Carolyn Justus,Republican,21650,68.17,True,True
+2004,North Carolina,NC,State House,117,general,Wayne Bastedo,Democratic,10111,31.83,False,False
+2004,North Carolina,NC,State House,118,general,Ray Rapp,Democratic,21110,100.0,True,True
+2004,North Carolina,NC,State House,119,general,Phil Haire,Democratic,14147,51.74,True,True
+2004,North Carolina,NC,State House,119,general,Margaret Carpenter,Republican,13195,48.26,False,False
+2004,North Carolina,NC,State House,120,general,Roger West,Republican,22375,100.0,True,True

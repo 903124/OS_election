@@ -1,0 +1,112 @@
+year,state,state_code,office,candidate,party,percentage,winner,incumbent
+2020,Delaware,DE,governor,John Carney,Democratic,59.5,True,True
+2020,Delaware,DE,governor,Julianne Murray,Republican,38.6,False,False
+2020,Delaware,DE,governor,Kathy DeMatteis,Independent (delaware),1.2,False,False
+2020,Indiana,IN,governor,Eric Holcomb,Republican,56.5,True,True
+2020,Indiana,IN,governor,Woody Myers,Democratic,32.1,False,False
+2020,Indiana,IN,governor,Donald Rainwater,Libertarian,11.4,False,False
+2020,Missouri,MO,governor,Mike Parson,Republican,57.1,True,True
+2020,Missouri,MO,governor,Nicole Galloway,Democratic,40.7,False,False
+2020,Missouri,MO,governor,Rik Combs,Libertarian,1.6,False,False
+2020,Montana,MT,governor,Greg Gianforte,Republican,54.4,True,False
+2020,Montana,MT,governor,Mike Cooney,Democratic,41.6,False,False
+2020,Montana,MT,governor,Lyman Bishop,Libertarian,4.0,False,False
+2020,New Hampshire,NH,governor,Chris Sununu,Republican,65.1,True,True
+2020,New Hampshire,NH,governor,Dan Feltes,Democratic,33.4,False,False
+2020,New Hampshire,NH,governor,Darryl W. Perry,Libertarian,1.4,False,False
+2020,North Carolina,NC,governor,Roy Cooper,Democratic,51.5,True,True
+2020,North Carolina,NC,governor,Dan Forest,Republican,47.0,False,False
+2020,North Carolina,NC,governor,Steven J. DiFiore,Libertarian,1.1,False,False
+2020,North Dakota,ND,governor,Doug Burgum,Republican,65.8,True,True
+2020,North Dakota,ND,governor,Shelley Lenz,North Dakota Democratic–nonpartisan League,25.4,False,False
+2020,North Dakota,ND,governor,DuWayne Hendrickson,Libertarian,3.9,False,False
+2020,Utah,UT,governor,Spencer Cox,Republican,63.0,True,False
+2020,Utah,UT,governor,Christopher Peterson (law professor)|Christopher Peterson,Democratic,30.3,False,False
+2020,Utah,UT,governor,Daniel Cottam,Libertarian,3.5,False,False
+2020,Utah,UT,governor,Gregory Duerden,Independent American,1.8,False,False
+2020,Vermont,VT,governor,Phil Scott,Republican,68.5,True,True
+2020,Vermont,VT,governor,David Zuckerman (politician)|David Zuckerman,Progressive Party (vermont),27.3,False,False
+2020,Vermont,VT,governor,Kevin Hoyt,Independent,1.3,False,False
+2020,Vermont,VT,governor,Emily Peyton,Independent,1.0,False,False
+2020,Washington,WA,governor,Jay Inslee,Democratic,56.6,True,True
+2020,Washington,WA,governor,Loren Culp,Republican,43.1,False,False
+2020,West Virginia,WV,governor,Jim Justice,Republican,63.5,True,True
+2020,West Virginia,WV,governor,Ben Salango,Democratic,30.2,False,False
+2020,West Virginia,WV,governor,Erika Kolenich,Libertarian,2.9,False,False
+2020,West Virginia,WV,governor,S. Marshall Wilson,Write-in,1.9,False,False
+2020,West Virginia,WV,governor,Daniel Lutz,Mountain,1.4,False,False
+2020,American Samoa,AS,governor,Lemanu Peleti Mauga,Nonpartisan Politician,60.3,True,False
+2020,American Samoa,AS,governor,Gaoteote Palaie Tofau,Nonpartisan Politician,21.9,False,False
+2020,American Samoa,AS,governor,Iʻaulualo Faʻafetai Talia,Nonpartisan Politician,12.3,False,False
+2020,American Samoa,AS,governor,Nuanuaolefeagaiga Saoluaga T. Nua,Nonpartisan Politician,5.5,False,False
+2020,Puerto Rico,PR,governor,Pedro Pierluisi,New Progressive Party (puerto Rico),32.9,True,False
+2020,Puerto Rico,PR,governor,Carlos Delgado Altieri,Popular Democratic Party (puerto Rico),31.6,False,False
+2020,Puerto Rico,PR,governor,Alexandra Lúgaro,Movimiento Victoria Ciudadana,14.2,False,False
+2020,Puerto Rico,PR,governor,Juan Dalmau,Independence Party (puerto Rico),13.7,False,False
+2020,Puerto Rico,PR,governor,César Vázquez,Project Dignity,6.9,False,False
+2020,Indiana,IN,attorney general,Todd Rokita,Republican,58.3,True,False
+2020,Indiana,IN,attorney general,Jonathan Weinzapfel,Democratic,41.7,False,False
+2020,Missouri,MO,attorney general,Eric Schmitt,Republican,59.4,True,True
+2020,Missouri,MO,attorney general,Richard Finneran,Democratic,37.9,False,False
+2020,Missouri,MO,attorney general,Kevin Babcock,Libertarian,2.7,False,False
+2020,Montana,MT,attorney general,Austin Knudsen,Republican,58.5,True,False
+2020,Montana,MT,attorney general,Raph Graybill,Democratic,41.5,False,False
+2020,North Carolina,NC,attorney general,Josh Stein,Democratic,50.1,True,True
+2020,North Carolina,NC,attorney general,Jim O'Neill,Republican,49.9,False,False
+2020,Oregon,OR,attorney general,Ellen Rosenblum,Democratic,56.0,True,True
+2020,Oregon,OR,attorney general,Michael Cross,Republican,41.3,False,False
+2020,Oregon,OR,attorney general,Lars Hedbor,Libertarian,2.3,False,False
+2020,Pennsylvania,PA,attorney general,Josh Shapiro,Democratic,50.8,True,True
+2020,Pennsylvania,PA,attorney general,Heather Heidelbaugh,Republican,46.3,False,False
+2020,Pennsylvania,PA,attorney general,Daniel Wassmer,Libertarian,1.8,False,False
+2020,Pennsylvania,PA,attorney general,Richard Weiss,Green,1.0,False,False
+2020,Utah,UT,attorney general,Sean Reyes,Republican,60.6,True,True
+2020,Utah,UT,attorney general,Greg Skordas,Democratic,33.7,False,False
+2020,Utah,UT,attorney general,Rudy Bautista,Libertarian,5.7,False,False
+2020,Vermont,VT,attorney general,T. J. Donovan,Democratic,67.7,True,True
+2020,Vermont,VT,attorney general,H. Brooke Paige,Republican,27.5,False,False
+2020,Vermont,VT,attorney general,Cris Ericson,Socialist,4.6,False,False
+2020,Washington,WA,attorney general,Bob Ferguson,Democratic,56.4,True,True
+2020,Washington,WA,attorney general,Matt Larkin,Republican,43.5,False,False
+2020,West Virginia,WV,attorney general,Patrick Morrisey,Republican,63.8,True,True
+2020,West Virginia,WV,attorney general,Sam Petsonk,Democratic,36.2,False,False
+2020,Missouri,MO,secretary of state,Jay Ashcroft,Republican,60.6,True,True
+2020,Missouri,MO,secretary of state,Yinka Faleti,Democratic,36.3,False,False
+2020,Montana,MT,secretary of state,Christi Jacobsen,Republican,59.6,True,False
+2020,Montana,MT,secretary of state,Bryce Bennett (politician)|Bryce Bennett,Democratic,40.4,False,False
+2020,North Carolina,NC,secretary of state,Elaine Marshall,Democratic,51.2,True,True
+2020,North Carolina,NC,secretary of state,E.C. Sykes,Republican,48.8,False,False
+2020,Oregon,OR,secretary of state,Shemia Fagan,Democratic,50.3,True,False
+2020,Oregon,OR,secretary of state,Kim Thatcher,Republican,43.2,False,False
+2020,Oregon,OR,secretary of state,Nathalie Paravicini,Green,3.6,False,False
+2020,Oregon,OR,secretary of state,Kyle Markley,Libertarian,2.8,False,False
+2020,Vermont,VT,secretary of state,Jim Condos,Democratic,57.9,True,True
+2020,Vermont,VT,secretary of state,H. Brooke Paige,Republican,26.8,False,False
+2020,Vermont,VT,secretary of state,Pamala Smith,Independent,5.7,False,False
+2020,Vermont,VT,secretary of state,Cris Ericson,Progressive,3.0,False,False
+2020,Washington,WA,secretary of state,Kim Wyman,Republican,50.9,True,True
+2020,Washington,WA,secretary of state,Gael Tarleton,Democratic,43.3,False,False
+2020,Washington,WA,secretary of state,Ed Minger,Independent,3.6,False,False
+2020,Washington,WA,secretary of state,Gentry Lange,Progressive,2.1,False,False
+2020,West Virginia,WV,secretary of state,Mac Warner,Republican,58.3,True,True
+2020,West Virginia,WV,secretary of state,Natalie Tennant,Democratic,41.7,False,False
+2020,Missouri,MO,state treasurer,Scott Fitzpatrick,Republican,59.1,True,True
+2020,Missouri,MO,state treasurer,Vicki Englund,Democratic,38.1,False,False
+2020,Missouri,MO,state treasurer,Nick Kasoff,Libertarian,2.19,False,False
+2020,North Carolina,NC,state treasurer,Dale Folwell,Republican,52.58,True,True
+2020,North Carolina,NC,state treasurer,Aaron Chatterji|Ronnie Chatterji,Democratic,47.42,False,False
+2020,North Dakota,ND,state treasurer,Thomas Beadle,Republican,65.6,True,False
+2020,North Dakota,ND,state treasurer,Mark Haugen,Democratic,33.95,False,False
+2020,Oregon,OR,state treasurer,Tobias Read,Democratic,51.7,True,True
+2020,Oregon,OR,state treasurer,Jeff Gudman,Republican,41.5,False,False
+2020,Pennsylvania,PA,state treasurer,Stacy Garrity,Republican,48.7,True,False
+2020,Pennsylvania,PA,state treasurer,Joe Torsella,Democratic,47.9,False,True
+2020,Pennsylvania,PA,state treasurer,Joseph Soloski,Libertarian,2.2,False,False
+2020,Utah,UT,state treasurer,David Damschen,Republican,74.57,True,True
+2020,Utah,UT,state treasurer,Joseph Speciale,Libertarian,14.8,False,False
+2020,Vermont,VT,state treasurer,Beth Pearce,Democratic,53.17,True,True
+2020,Vermont,VT,state treasurer,Carolyn Whitney Branagan,Republican,30.78,False,False
+2020,Washington,WA,state treasurer,Mike Pellicciotti,Democratic,53.4,True,False
+2020,Washington,WA,state treasurer,Duane Davidson,Republican,46.5,False,True
+2020,West Virginia,WV,state treasurer,Riley Moore,Republican,56.31,True,False
+2020,West Virginia,WV,state treasurer,John Perdue,Democratic,43.69,False,True

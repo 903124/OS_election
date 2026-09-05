@@ -12,7 +12,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Alabama,AL,7,Robin Litaker,Republican,36.3,False,False,False
 2024,house,Alaska,AK,AL,Nick Begich III,Republican,48.4,False,False,False
 2024,house,Alaska,AK,AL,Mary Peltola,Democratic,46.4,False,True,False
-2024,house,Alaska,AK,AL,Independence,Independence,3.9,False,False,False
+2024,house,Alaska,AK,AL,John Howe,Independence,3.9,False,False,False
 2024,house,Alaska,AK,AL,Eric Hafner,Democratic,1.0,False,False,False
 2024,house,Alaska,AK,AL,Nick Begich III,Republican,51.2,True,False,False
 2024,house,Alaska,AK,AL,Mary Peltola,Democratic,48.8,False,True,False
@@ -120,6 +120,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,California,CA,36,Ted Lieu,Democratic,68.7,True,False,False
 2024,house,California,CA,36,Melissa Toomim,Republican,31.3,False,False,False
 2024,house,California,CA,37,Sydney Kamlager-Dove,Democratic,78.3,True,False,False
+2024,house,California,CA,37,Juan Rey,Independent,21.7,False,False,False
 2024,house,California,CA,38,Linda Sánchez,Democratic,59.8,True,False,False
 2024,house,California,CA,38,Eric Ching,Republican,40.2,False,False,False
 2024,house,California,CA,39,Mark Takano,Democratic,56.7,True,False,False
@@ -151,22 +152,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,California,CA,52,Juan Vargas,Democratic,66.3,True,False,False
 2024,house,California,CA,52,Justin Lee,Republican,33.7,False,False,False
 2024,house,Colorado,CO,1,Diana DeGette,Democratic,76.6,True,False,False
-2024,house,Colorado,CO,1,Unity,Unity Party of America,21.6,False,False,False
+2024,house,Colorado,CO,1,Valdamar Archuleta,Unity Party of America,21.6,False,False,False
 2024,house,Colorado,CO,2,Joe Neguse,Democratic,68.4,True,False,False
 2024,house,Colorado,CO,2,Marshall Dawson,Libertarian,28.9,False,False,False
 2024,house,Colorado,CO,3,Jeff Hurd,Republican,50.8,True,False,False
 2024,house,Colorado,CO,3,Adam Frisch,Democratic,45.8,False,False,False
 2024,house,Colorado,CO,3,James Wiley,Libertarian,2.7,False,False,False
+2024,house,Colorado,CO,3,Adam Withrow,Unity Party of America,0.7,False,False,False
 2024,house,Colorado,CO,4,Lauren Boebert,Republican,53.6,True,False,True
 2024,house,Colorado,CO,4,Trisha Calvarese,Democratic,42.0,False,False,True
 2024,house,Colorado,CO,4,Hannah Goodman,Approval Voting,2.6,False,False,True
 2024,house,Colorado,CO,5,Jeff Crank,Republican,54.7,True,False,True
-2024,house,Colorado,CO,5,Constitution,Democratic,40.9,False,False,True
+2024,house,Colorado,CO,5,River Gassen,Democratic,40.9,False,False,True
 2024,house,Colorado,CO,6,Jason Crow,Democratic,59.0,True,False,False
 2024,house,Colorado,CO,6,John Fabbricatore,Republican,38.5,False,False,False
 2024,house,Colorado,CO,7,Brittany Pettersen,Democratic,55.3,True,False,False
 2024,house,Colorado,CO,7,Sergei Matveyuk,Republican,41.2,False,False,False
 2024,house,Colorado,CO,7,Patrick Bohan,Libertarian,2.3,False,False,False
+2024,house,Colorado,CO,7,Ron Tupa,Unity Party of America,1.2,False,False,False
 2024,house,Colorado,CO,8,Gabe Evans,Republican,49.0,True,False,False
 2024,house,Colorado,CO,8,Yadira Caraveo,Democratic,48.2,False,False,False
 2024,house,Connecticut,CT,1,John B. Larson,Democratic,63.1,True,False,False
@@ -274,9 +277,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Idaho,ID,1,Russ Fulcher,Republican,71.0,True,False,False
 2024,house,Idaho,ID,1,Kaylee Peterson,Democratic,25.4,False,False,False
 2024,house,Idaho,ID,1,Matt Loesby,Libertarian,2.1,False,False,False
+2024,house,Idaho,ID,1,Brendan Gomez,Constitution,1.5,False,False,False
 2024,house,Idaho,ID,2,Mike Simpson,Republican,61.4,True,False,False
 2024,house,Idaho,ID,2,David Roth,Democratic,31.0,False,False,False
 2024,house,Idaho,ID,2,Todd Corsetti,Libertarian,5.2,False,False,False
+2024,house,Idaho,ID,2,Carta Sierra,Constitution,2.4,False,False,False
 2024,house,Illinois,IL,1,Jonathan Jackson,Democratic,65.9,True,True,False
 2024,house,Illinois,IL,1,Marcus Lewis,Republican,34.1,False,False,False
 2024,house,Illinois,IL,2,Robin Kelly,Democratic,67.6,True,False,False
@@ -285,7 +290,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Illinois,IL,3,John Booras,Republican,32.7,False,False,False
 2024,house,Illinois,IL,4,Chuy García,Democratic,67.5,True,False,False
 2024,house,Illinois,IL,4,Lupe Castillo,Republican,27.3,False,False,False
-2024,house,Illinois,IL,4,Working Class,Working Class,5.2,False,False,False
+2024,house,Illinois,IL,4,Ed Harvey,Working Class,5.2,False,False,False
 2024,house,Illinois,IL,5,Mike Quigley,Democratic,69.0,True,False,False
 2024,house,Illinois,IL,5,Tommy Hanson,Republican,31.0,False,False,False
 2024,house,Illinois,IL,6,Sean Casten,Democratic,54.2,True,False,False
@@ -433,11 +438,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Michigan,MI,1,Jack Bergman,Republican,59.1,True,False,False
 2024,house,Michigan,MI,1,Callie Barr,Democratic,37.9,False,False,False
 2024,house,Michigan,MI,2,John Moolenaar,Republican,65.1,True,False,False
-2024,house,Michigan,MI,2,US Taxpayers,Democratic,31.7,False,False,False
+2024,house,Michigan,MI,2,Michael Lynch,Democratic,31.7,False,False,False
 2024,house,Michigan,MI,3,Hillary Scholten,Democratic,53.7,True,False,False
 2024,house,Michigan,MI,3,Paul Hudson,Republican,43.8,False,False,False
 2024,house,Michigan,MI,4,Bill Huizenga,Republican,55.1,True,False,False
 2024,house,Michigan,MI,4,Jessica Swartz,Democratic,43.4,False,False,False
+2024,house,Michigan,MI,4,Clark Curtis,US Taxpayers,1.6,False,False,False
 2024,house,Michigan,MI,5,Tim Walberg,Republican,65.7,True,False,False
 2024,house,Michigan,MI,5,Libbi Urban,Democratic,32.8,False,False,False
 2024,house,Michigan,MI,5,James Bronke,Green,1.6,False,False,False
@@ -450,36 +456,39 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Michigan,MI,8,Paul Junge,Republican,44.6,False,False,True
 2024,house,Michigan,MI,9,Lisa McClain,Republican,66.8,True,False,False
 2024,house,Michigan,MI,9,Clinton St. Mosley,Democratic,29.5,False,False,False
+2024,house,Michigan,MI,9,Jim Walkowicz,Working Class,2.6,False,False,False
 2024,house,Michigan,MI,9,Kevin Vayko,Libertarian,1.1,False,False,False
 2024,house,Michigan,MI,10,John James,Republican,51.1,True,False,False
 2024,house,Michigan,MI,10,Carl Marlinga,Democratic,45.0,False,False,False
+2024,house,Michigan,MI,10,Liz Hakola,Working Class,2.6,False,False,False
 2024,house,Michigan,MI,10,Mike Salibo,Libertarian,1.3,False,False,False
 2024,house,Michigan,MI,11,Haley Stevens,Democratic,58.2,True,False,False
 2024,house,Michigan,MI,11,Nick Somberg,Republican,39.6,False,False,False
 2024,house,Michigan,MI,11,Douglas Campbell,Green,2.2,False,False,False
 2024,house,Michigan,MI,12,Rashida Tlaib,Democratic,69.7,True,False,False
 2024,house,Michigan,MI,12,James Hooper,Republican,25.4,False,False,False
+2024,house,Michigan,MI,12,Gary Walkowicz,Working Class,2.6,False,False,False
 2024,house,Michigan,MI,12,Brenda Sanders,Green,2.3,False,False,False
 2024,house,Michigan,MI,13,Shri Thanedar,Democratic,68.6,True,False,False
 2024,house,Michigan,MI,13,Martell Bivings,Republican,24.5,False,False,False
-2024,house,Michigan,MI,13,Chris Clark,Working Class,4.2,False,False,False
+2024,house,Michigan,MI,13,Simone Coleman,Working Class,4.2,False,False,False
 2024,house,Minnesota,MN,1,Brad Finstad,Republican,58.5,True,False,False
-2024,house,Minnesota,MN,1,Rachel Bohman,Minnesota Democratic–Farmer–Labor,41.5,False,False,False
+2024,house,Minnesota,MN,1,Rachel Bohman,DFL,41.5,False,False,False
 2024,house,Minnesota,MN,2,Angie Craig,DFL,55.6,True,False,False
 2024,house,Minnesota,MN,2,Joe Teirab,Republican,42.1,False,False,False
 2024,house,Minnesota,MN,2,Thomas Bowman,Independent,2.3,False,False,False
-2024,house,Minnesota,MN,3,Kelly Morrison,Minnesota Democratic–Farmer–Labor,58.5,True,False,True
+2024,house,Minnesota,MN,3,Kelly Morrison,DFL,58.5,True,False,True
 2024,house,Minnesota,MN,3,Tad Jude,Republican,41.5,False,False,True
-2024,house,Minnesota,MN,4,Betty McCollum,Minnesota Democratic–Farmer–Labor,67.4,True,False,False
+2024,house,Minnesota,MN,4,Betty McCollum,DFL,67.4,True,False,False
 2024,house,Minnesota,MN,4,May Lor Xiong,Republican,32.6,False,False,False
-2024,house,Minnesota,MN,5,Ilhan Omar,Minnesota Democratic–Farmer–Labor,75.2,True,False,False
+2024,house,Minnesota,MN,5,Ilhan Omar,DFL,75.2,True,False,False
 2024,house,Minnesota,MN,5,Dalia al-Aqidi,Republican,24.8,False,False,False
 2024,house,Minnesota,MN,6,Tom Emmer,Republican,62.5,True,False,False
-2024,house,Minnesota,MN,6,Jeanne Hendricks,Minnesota Democratic–Farmer–Labor,37.5,False,False,False
+2024,house,Minnesota,MN,6,Jeanne Hendricks,DFL,37.5,False,False,False
 2024,house,Minnesota,MN,7,Michelle Fischbach,Republican,70.5,True,False,False
-2024,house,Minnesota,MN,7,A. J. Peters,Minnesota Democratic–Farmer–Labor,29.5,False,False,False
+2024,house,Minnesota,MN,7,A. J. Peters,DFL,29.5,False,False,False
 2024,house,Minnesota,MN,8,Pete Stauber,Republican,58.0,True,False,False
-2024,house,Minnesota,MN,8,Jennifer Schultz,Minnesota Democratic–Farmer–Labor,42.0,False,False,False
+2024,house,Minnesota,MN,8,Jennifer Schultz,DFL,42.0,False,False,False
 2024,house,Mississippi,MS,1,Trent Kelly,Republican,69.8,True,False,False
 2024,house,Mississippi,MS,1,Dianne Black,Democratic,30.2,False,False,False
 2024,house,Mississippi,MS,2,Bennie Thompson,Democratic,62.0,True,False,False
@@ -526,6 +535,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Nevada,NV,1,William Hoge,Republican,44.5,False,False,False
 2024,house,Nevada,NV,2,Mark Amodei,Republican,55.0,True,False,False
 2024,house,Nevada,NV,2,Robert Kidd,Independent,36.0,False,False,False
+2024,house,Nevada,NV,2,Lynn Chapman,Independent American Party of Nevada,5.0,False,False,False
 2024,house,Nevada,NV,2,Javi Tachiquin,Libertarian,4.0,False,False,False
 2024,house,Nevada,NV,3,Susie Lee,Democratic,51.4,True,False,False
 2024,house,Nevada,NV,3,Drew Johnson,Republican,48.6,False,False,False
@@ -579,6 +589,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,New York,NY,5,Paul King,Republican,27.1,False,False,False
 2024,house,New York,NY,6,Grace Meng,Democratic,60.7,True,False,False
 2024,house,New York,NY,6,Thomas Zmich,Republican,37.6,False,False,False
+2024,house,New York,NY,6,Joseph Chou,Other,1.6,False,False,False
 2024,house,New York,NY,7,Nydia Velázquez,Democratic,78.1,True,False,False
 2024,house,New York,NY,7,William Kregler,Republican,21.9,False,False,False
 2024,house,New York,NY,8,Hakeem Jeffries,Democratic,75.4,True,False,False
@@ -587,6 +598,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,New York,NY,9,Menachem Raitport,Republican,25.7,False,False,False
 2024,house,New York,NY,10,Dan Goldman,Democratic,82.5,True,False,False
 2024,house,New York,NY,10,Alex Dodenhoff,Republican,15.0,False,False,False
+2024,house,New York,NY,10,Paul Briscoe,Conservative Party (New York),2.7,False,False,False
 2024,house,New York,NY,11,Nicole Malliotakis,Republican,64.1,True,False,False
 2024,house,New York,NY,11,Andrea Morse,Democratic,35.9,False,False,False
 2024,house,New York,NY,12,Jerry Nadler,Democratic,80.5,True,False,False
@@ -597,11 +609,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,New York,NY,14,Tina Forte,Republican,30.8,False,False,False
 2024,house,New York,NY,15,Ritchie Torres,Democratic,76.5,True,False,False
 2024,house,New York,NY,15,Gonzalo Duran,Republican,21.4,False,False,False
+2024,house,New York,NY,15,Jose Vega,Other,2.4,False,False,False
 2024,house,New York,NY,16,George Latimer,Democratic,71.6,True,False,False
 2024,house,New York,NY,16,Miriam Levitt Flisser,Republican,28.4,False,False,False
 2024,house,New York,NY,17,Mike Lawler,Republican,52.2,True,False,False
 2024,house,New York,NY,17,Mondaire Jones,Democratic,45.8,False,False,False
-2024,house,New York,NY,17,Working Families,Unknown,2.0,False,False,False
+2024,house,New York,NY,17,Anthony Frascone,Working Families,2.0,False,False,False
 2024,house,New York,NY,18,Pat Ryan,Democratic,57.2,True,False,False
 2024,house,New York,NY,18,Alison Esposito,Republican,42.8,False,False,False
 2024,house,New York,NY,19,Josh Riley,Democratic,51.1,True,False,False
@@ -634,6 +647,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,North Carolina,NC,5,Virginia Foxx,Republican,59.5,True,False,True
 2024,house,North Carolina,NC,5,Chuck Hubbard,Democratic,40.5,False,False,True
 2024,house,North Carolina,NC,6,Addison McDowell,Republican,69.2,True,False,True
+2024,house,North Carolina,NC,6,Kevin Hayes,Constitution,30.8,False,False,True
 2024,house,North Carolina,NC,7,David Rouzer,Republican,58.6,True,False,False
 2024,house,North Carolina,NC,7,Marlando Pridgen,Democratic,41.4,False,False,False
 2024,house,North Carolina,NC,8,Mark Harris,Republican,59.6,True,False,True
@@ -644,6 +658,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,North Carolina,NC,10,Pat Harrigan,Republican,57.5,True,False,True
 2024,house,North Carolina,NC,10,Ralph Scott Jr.,Democratic,38.2,False,False,True
 2024,house,North Carolina,NC,10,Steven Feldman,Libertarian,2.9,False,False,True
+2024,house,North Carolina,NC,10,Todd Helm,Constitution,1.4,False,False,True
 2024,house,North Carolina,NC,11,Chuck Edwards,Republican,56.8,True,False,False
 2024,house,North Carolina,NC,11,Caleb Rudow,Democratic,43.2,False,False,False
 2024,house,North Carolina,NC,12,Alma Adams,Democratic,74.0,True,False,False
@@ -653,7 +668,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,North Carolina,NC,14,Tim Moore,Republican,58.1,True,False,True
 2024,house,North Carolina,NC,14,Pam Genant,Democratic,41.9,False,False,True
 2024,house,North Dakota,ND,AL,Julie Fedorchak,Republican,69.5,True,False,True
-2024,house,North Dakota,ND,AL,Democratic-NPL,Democratic-NPL,30.5,False,False,True
+2024,house,North Dakota,ND,AL,Trygve Hammer,Democratic-NPL,30.5,False,False,True
 2024,house,Ohio,OH,1,Greg Landsman,Democratic,54.6,True,False,False
 2024,house,Ohio,OH,1,Orlando Sonza,Republican,45.4,False,False,False
 2024,house,Ohio,OH,2,David Taylor,Republican,73.6,True,False,True
@@ -705,11 +720,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Oregon,OR,1,Joe Christman,Libertarian,3.1,False,False,False
 2024,house,Oregon,OR,2,Cliff Bentz,Republican,64.0,True,False,False
 2024,house,Oregon,OR,2,Dan Ruby,Democratic,32.8,False,False,False
+2024,house,Oregon,OR,2,Michael Stettler,Constitution,3.2,False,False,False
 2024,house,Oregon,OR,3,Maxine Dexter,Democratic,67.9,True,False,True
 2024,house,Oregon,OR,3,Joanna Harbour,Republican,25.3,False,False,True
-2024,house,Oregon,OR,3,Pacific Green,Pacific Green,3.0,False,False,True
+2024,house,Oregon,OR,3,David Walker,Progressive,3.1,False,False,True
+2024,house,Oregon,OR,3,Joe Meyer,Pacific Green,3.0,False,False,True
+2024,house,Oregon,OR,3,David Frosch,Constitution,0.7,False,False,True
 2024,house,Oregon,OR,4,Val Hoyle,Democratic,51.8,True,False,False
 2024,house,Oregon,OR,4,Monique DeSpain,Republican,44.0,False,False,False
+2024,house,Oregon,OR,4,Justin Filip,Pacific Green,2.7,False,False,False
 2024,house,Oregon,OR,4,Dan Bahlen,Libertarian,1.5,False,False,False
 2024,house,Oregon,OR,5,Janelle Bynum,Democratic,47.7,True,False,False
 2024,house,Oregon,OR,5,Lori Chavez-DeRemer,Republican,45.0,False,False,False
@@ -760,9 +779,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,South Carolina,SC,2,David Robinson II,Democratic,40.3,False,False,False
 2024,house,South Carolina,SC,3,Sheri Biggs,Republican,71.8,True,False,True
 2024,house,South Carolina,SC,3,Bryon Best,Democratic,25.4,False,False,True
-2024,house,South Carolina,SC,3,Alliance,Alliance,2.9,False,False,True
+2024,house,South Carolina,SC,3,Michael Bedenbaugh,Alliance,2.9,False,False,True
 2024,house,South Carolina,SC,4,William Timmons,Republican,59.9,True,False,False
 2024,house,South Carolina,SC,4,Kathryn Harvey,Democratic,37.3,False,False,False
+2024,house,South Carolina,SC,4,Mark Hackett,Constitution,2.8,False,False,False
 2024,house,South Carolina,SC,5,Ralph Norman,Republican,63.6,True,False,False
 2024,house,South Carolina,SC,5,Evangeline Hundley,Democratic,36.4,False,False,False
 2024,house,South Carolina,SC,6,Jim Clyburn,Democratic,59.6,True,False,False
@@ -872,16 +892,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Utah,UT,1,Daniel Cottam,Libertarian,4.8,False,False,False
 2024,house,Utah,UT,2,Celeste Maloy,Republican,58.0,True,False,False
 2024,house,Utah,UT,2,Nathaniel Woodward,Democratic,34.2,False,False,False
+2024,house,Utah,UT,2,Cassie Easley,Constitution,5.5,False,False,False
 2024,house,Utah,UT,2,Tyler Murset,Independent,2.2,False,False,False
 2024,house,Utah,UT,3,Mike Kennedy,Republican,66.4,True,False,True
 2024,house,Utah,UT,3,Glenn Wright,Democratic,33.6,False,False,True
 2024,house,Utah,UT,4,Burgess Owens,Republican,63.4,True,False,False
 2024,house,Utah,UT,4,Katrina Fallick-Wang,Democratic,30.2,False,False,False
-2024,house,Utah,UT,4,United Utah,United Utah,4.8,False,False,False
+2024,house,Utah,UT,4,Vaughn Cook,United Utah,4.8,False,False,False
 2024,house,Utah,UT,4,Evan Bullard,Independent,1.6,False,False,False
 2024,house,Vermont,VT,AL,Becca Balint,Democratic,62.5,True,False,False
 2024,house,Vermont,VT,AL,Mark Coester,Republican,29.9,False,False,False
 2024,house,Vermont,VT,AL,Adam Ortiz,Independent,5.5,False,False,False
+2024,house,Vermont,VT,AL,Jill Diamondstone,Green Mountain Peace and Justice,2.2,False,False,False
 2024,house,Virginia,VA,1,Rob Wittman,Republican,56.4,True,False,False
 2024,house,Virginia,VA,1,Leslie Mehta,Democratic,43.6,False,False,False
 2024,house,Virginia,VA,2,Jen Kiggans,Republican,50.8,True,False,False
@@ -954,8 +976,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Wyoming,WY,AL,Harriet Hageman,Republican,71.0,True,False,False
 2024,house,Wyoming,WY,AL,Kyle Cameron,Democratic,23.4,False,False,False
 2024,house,Wyoming,WY,AL,Richard Brubaker,Libertarian,3.5,False,False,False
+2024,house,Wyoming,WY,AL,Jeffrey Haggit,Constitution,2.1,False,False,False
 2024,house,American Samoa,AS,AL,Amata Coleman Radewagen,Nonpartisan,74.8,True,False,False
+2024,house,American Samoa,AS,AL,Luisa Kuaea,Nonpartisan,18.6,False,False,False
+2024,house,American Samoa,AS,AL,Fualaau Rosie Lancaster,Nonpartisan,4.7,False,False,False
+2024,house,American Samoa,AS,AL,Meleagi Suitonu-Chapman,Nonpartisan,1.9,False,False,False
 2024,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,80.1,True,False,False
+2024,house,District of Columbia,DC,AL,Kymone Freeman,Green,7.0,False,False,False
 2024,house,District of Columbia,DC,AL,Myrtle Alexander,Republican,6.3,False,False,False
 2024,house,District of Columbia,DC,AL,Michael A. Brown,Independent,6.1,False,False,False
 2024,house,Guam,GU,AL,James Moylan,Republican,52.7,True,False,False
@@ -967,9 +994,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2024,house,Northern Mariana Islands,MP,AL,Liana Hofschneider,Independent,2.3,False,False,True
 2024,house,Puerto Rico,PR,AL,Pablo Hernández Rivera,Popular Democratic Party (Puerto Rico),44.6,True,False,True
 2024,house,Puerto Rico,PR,AL,William Villafañe,New Progressive Party (Puerto Rico),35.0,False,False,True
-2024,house,Puerto Rico,PR,AL,MVC,Movimiento Victoria Ciudadana,10.0,False,False,True
-2024,house,Puerto Rico,PR,AL,PD,Project Dignity,5.3,False,False,True
-2024,house,Puerto Rico,PR,AL,PIP,Puerto Rican Independence,5.2,False,False,True
+2024,house,Puerto Rico,PR,AL,Ana Irma Rivera Lassén,Movimiento Victoria Ciudadana,10.0,False,False,True
+2024,house,Puerto Rico,PR,AL,Viviana Ramírez Morales,Project Dignity,5.3,False,False,True
+2024,house,Puerto Rico,PR,AL,Roberto Velázquez,Puerto Rican Independence,5.2,False,False,True
 2024,house,United States Virgin Islands,VI,AL,Stacey Plaskett,Democratic,73.4,True,False,False
 2024,house,United States Virgin Islands,VI,AL,Ida Smith,Independent,16.4,False,False,False
 2024,house,United States Virgin Islands,VI,AL,Ronald Pickard,Republican,9.5,False,False,False

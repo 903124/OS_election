@@ -20,7 +20,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2022,Colorado,2022 United States Senate election in Colorado,General,Candidate,False,Approval Voting Party,Frank Atwood,"11,354",0.45%
 2022,Colorado,2022 United States Senate election in Colorado,General,Write-in,False,,,71,0.00%
 2022,Colorado,2022 United States Senate election in Colorado,General,Total,False,,,"2,500,201",100.00%
-2022,Connecticut,2022 United States Senate election in Connecticut,General,Candidate,True,Democratic Party (United States),Richard Blumenthal,"701,175",55.65%
+2022,Connecticut,2022 United States Senate election in Connecticut,General,Winning,True,Democratic Party (United States),Richard Blumenthal,"701,175",55.65%
 2022,Connecticut,2022 United States Senate election in Connecticut,General,Candidate,True,Working Families Party,Richard Blumenthal,"22,689",1.80%
 2022,Connecticut,2022 United States Senate election in Connecticut,General,Candidate,False,Republican Party (United States),Leora Levy,"535,943",42.54%
 2022,Connecticut,2022 United States Senate election in Connecticut,General,Write-in,False,,,80,0.00%
@@ -32,12 +32,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2022,Florida,"United States Senate election in Florida, 2022",General,Candidate,False,Independent,Tuan TQ Nguyen,"17,385",0.22%
 2022,Florida,"United States Senate election in Florida, 2022",General,Write-in,False,,,267,0.00%
 2022,Florida,"United States Senate election in Florida, 2022",General,Total,False,,,"7,758,126",100.00%
+2022,Georgia,2022 United States Senate election in Georgia,General,Winning,True,Democratic Party (United States),Raphael Warnock,"1,946,117",49.44%
+2022,Georgia,2022 United States Senate election in Georgia,General,Winning,False,Republican Party (United States),Herschel Walker,"1,908,442",48.49%
 2022,Georgia,2022 United States Senate election in Georgia,General,Candidate,False,Libertarian Party (United States),Chase Oliver,"81,365",2.07%
 2022,Georgia,2022 United States Senate election in Georgia,General,Total,False,,,"3,935,924",100.0%
 2022,Georgia,2022 United States Senate runoff election in Georgia,General,Winning,True,Democratic Party (United States),Raphael Warnock,"1,820,633",51.40%
 2022,Georgia,2022 United States Senate runoff election in Georgia,General,Candidate,False,Republican Party (United States),Herschel Walker,"1,721,244",48.60%
 2022,Georgia,2022 United States Senate runoff election in Georgia,General,Total,False,,,"3,541,877",100.0%
+2022,Hawaii,2022 United States Senate election in Hawaii,General,Winning,True,Democratic Party (United States),Brian Schatz,"290,894",71.21%
 2022,Hawaii,2022 United States Senate election in Hawaii,General,Candidate,False,Republican Party (United States),Bob McDermott,"106,358",26.04%
+2022,Hawaii,2022 United States Senate election in Hawaii,General,Candidate,False,Libertarian Party (United States),Feena Bonoan,"4,915",1.20%
 2022,Hawaii,2022 United States Senate election in Hawaii,General,Candidate,False,Green Party (United States),Emma Jane Pohlman,"4,142",1.01%
 2022,Hawaii,2022 United States Senate election in Hawaii,General,Candidate,False,Aloha ʻĀina Party,Dan Decker,"2,208",0.54%
 2022,Hawaii,2022 United States Senate election in Hawaii,General,Total,False,,,"408,517",100.0%
@@ -93,6 +97,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2022,Missouri,2022 United States Senate election in Missouri,General,Candidate,False,Constitution Party (United States),Paul Venable,"14,608",0.71%
 2022,Missouri,2022 United States Senate election in Missouri,General,Write-in,False,,,41,0.00%
 2022,Missouri,2022 United States Senate election in Missouri,General,Total,False,,,"2,069,130",100.0%
+2022,Nevada,2022 United States Senate election in Nevada,General,Winning,False,Democratic Party (United States),{{nowrap,"498,316",48.81%
 2022,Nevada,2022 United States Senate election in Nevada,General,Candidate,False,Republican Party (United States),Adam Laxalt,"490,388",48.04%
 2022,Nevada,2022 United States Senate election in Nevada,General,Candidate,False,Independent (United States),Barry Lindemann,"8,075",0.79%
 2022,Nevada,2022 United States Senate election in Nevada,General,Candidate,False,Libertarian Party (United States),Neil Scott,"6,422",0.63%
@@ -103,7 +108,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2022,New Hampshire,2022 United States Senate election in New Hampshire,General,Candidate,False,Libertarian Party (United States),Jeremy Kauffman,"12,390",2.00%
 2022,New Hampshire,2022 United States Senate election in New Hampshire,General,Write-in,False,,,464,0.07%
 2022,New Hampshire,2022 United States Senate election in New Hampshire,General,Total,False,,,"620,975",100.0%
-2022,New York,2022 United States Senate election in New York,General,Candidate,True,Democratic Party (United States),Chuck Schumer,"3,022,822",51.65%
+2022,New York,2022 United States Senate election in New York,General,Winning,True,Democratic Party (United States),Chuck Schumer,"3,022,822",51.65%
 2022,New York,2022 United States Senate election in New York,General,Candidate,True,Working Families Party,Chuck Schumer,"297,739",5.09%
 2022,New York,2022 United States Senate election in New York,General,Candidate,False,Republican Party (United States),Joe Pinion,"2,204,499",37.66%
 2022,New York,2022 United States Senate election in New York,General,Candidate,False,Conservative Party of New York State,Joe Pinion,"296,652",5.07%
@@ -153,8 +158,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2022,South Dakota,2022 United States Senate election in South Dakota,General,Candidate,False,Democratic Party (United States),Brian Bengs,"91,007",26.15%
 2022,South Dakota,2022 United States Senate election in South Dakota,General,Candidate,False,Libertarian Party (United States),Tamara Lesnar,"14,697",4.22%
 2022,South Dakota,2022 United States Senate election in South Dakota,General,Total,False,,,"348,020",100.00%
+2022,Utah,2022 United States Senate election in Utah,General,Winning,True,Republican Party (United States),Mike Lee,"571,974",53.15%
 2022,Utah,2022 United States Senate election in Utah,General,Candidate,False,Independent,Evan McMullin,"459,958",42.74%
 2022,Utah,2022 United States Senate election in Utah,General,Candidate,False,Libertarian Party (United States),James Hansen,"31,784",2.95%
+2022,Utah,2022 United States Senate election in Utah,General,Candidate,False,Independent American Party,Tommy Williams,"12,103",1.12%
 2022,Utah,2022 United States Senate election in Utah,General,Write-in,False,,,242,0.02%
 2022,Utah,2022 United States Senate election in Utah,General,Total,False,,,"1,076,061",100.0%
 2022,Vermont,2022 United States Senate election in Vermont,General,Winning,False,Democratic Party (United States),Peter Welch,"196,575",68.47%

@@ -59,12 +59,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,California,CA,5,Bob Matsui,Democratic,71.4,True,True,False
 2004,house,California,CA,5,Mike Dugas,Republican,23.4,False,False,False
 2004,house,California,CA,5,Pat Driscoll,Green,3.4,False,False,False
+2004,house,California,CA,5,John C. Reiger,Peace and Freedom,1.8,False,False,False
 2004,house,California,CA,6,Lynn Woolsey,Democratic,72.7,True,True,False
 2004,house,California,CA,6,Paul L. Erickson,Republican,27.3,False,False,False
 2004,house,California,CA,7,George Miller,Democratic,76.1,True,True,False
 2004,house,California,CA,7,Charles R. Hargrave,Republican,23.9,False,False,False
 2004,house,California,CA,8,Nancy Pelosi,Democratic,83.0,True,True,False
 2004,house,California,CA,8,Jennifer DePalma,Republican,11.5,False,False,False
+2004,house,California,CA,8,Leilani Dowell,Peace and Freedom,3.5,False,False,False
 2004,house,California,CA,8,Terry Baum,Green,2.0,False,False,False
 2004,house,California,CA,9,Barbara Lee,Democratic,84.6,True,True,False
 2004,house,California,CA,9,Claudia Bermudez,Republican,12.3,False,False,False
@@ -91,6 +93,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,California,CA,17,Sam Farr,Democratic,66.8,True,True,False
 2004,house,California,CA,17,Mark Risley,Republican,29.2,False,False,False
 2004,house,California,CA,17,Ray Glock-Grueneich,Green,1.7,False,False,False
+2004,house,California,CA,17,Joe Williams,Peace and Freedom,1.2,False,False,False
 2004,house,California,CA,17,Joel Smolen,Libertarian,1.1,False,False,False
 2004,house,California,CA,18,Dennis Cardoza,Democratic,67.5,True,True,False
 2004,house,California,CA,18,Charles Pringle,Republican,32.5,False,False,False
@@ -135,9 +138,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,California,CA,34,Wayne Miller,Republican,25.5,False,False,False
 2004,house,California,CA,35,Maxine Waters,Democratic,80.6,True,True,False
 2004,house,California,CA,35,Ross Moen,Republican,15.1,False,False,False
+2004,house,California,CA,35,Gordon Mego,American Independent,2.2,False,False,False
 2004,house,California,CA,35,Charles Tate,Libertarian,2.1,False,False,False
 2004,house,California,CA,36,Jane Harman,Democratic,62.0,True,True,True
 2004,house,California,CA,36,Paul P. Whitehead,Republican,33.5,False,False,True
+2004,house,California,CA,36,Alice Stek,Peace and Freedom,2.5,False,False,True
 2004,house,California,CA,36,Michael J. Binkley,Libertarian,2.0,False,False,True
 2004,house,California,CA,37,Juanita Millender-McDonald,Democratic,75.1,True,True,False
 2004,house,California,CA,37,Vernon Van,Republican,20.2,False,False,False
@@ -155,6 +160,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,California,CA,43,Ed Laning,Republican,33.6,False,False,False
 2004,house,California,CA,44,Ken Calvert,Republican,61.7,True,True,False
 2004,house,California,CA,44,Louis Vandenberg,Democratic,35.0,False,False,False
+2004,house,California,CA,44,Kevin Akin,Peace and Freedom,3.3,False,False,False
 2004,house,California,CA,45,Mary Bono,Republican,66.7,True,True,False
 2004,house,California,CA,45,Richard Meyer,Democratic,33.3,False,False,False
 2004,house,California,CA,46,Dana Rohrabacher,Republican,62.0,True,True,False
@@ -172,6 +178,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,California,CA,50,Duke Cunningham,Republican,58.5,True,True,False
 2004,house,California,CA,50,Francine Busby,Democratic,36.5,False,False,False
 2004,house,California,CA,50,Gary Waayers,Green,2.2,False,False,False
+2004,house,California,CA,50,Diane Templin,American Independent,1.6,False,False,False
 2004,house,California,CA,50,Brandon Osborne,Libertarian,1.2,False,False,False
 2004,house,California,CA,51,Bob Filner,Democratic,61.7,True,True,False
 2004,house,California,CA,51,Mike Giorgino,Republican,35.1,False,False,False
@@ -215,6 +222,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Connecticut,CT,4,Diane Farrell,Democratic,47.6,False,False,False
 2004,house,Connecticut,CT,5,Nancy Johnson,Republican,59.8,True,True,False
 2004,house,Connecticut,CT,5,Terry Gerratana,Democratic,38.2,False,False,False
+2004,house,Connecticut,CT,5,Fernando Ramirez,Working Families,1.1,False,False,False
+2004,house,Connecticut,CT,5,Wildey J. Moore,Concerned Citizens,0.9,False,False,False
 2004,house,Delaware,DE,AL,Mike Castle,Republican,69.1,True,True,False
 2004,house,Delaware,DE,AL,Paul Donnelly,Democratic,29.7,False,False,False
 2004,house,Delaware,DE,AL,Maurice J. Barros,Independent,0.7,False,False,False
@@ -257,6 +266,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Florida,FL,21,Frank Gonzalez,Libertarian,27.2,False,False,False
 2004,house,Florida,FL,22,Clay Shaw,Republican,62.9,True,True,False
 2004,house,Florida,FL,22,Jim Stork,Democratic,35.4,False,False,False
+2004,house,Florida,FL,22,Jack McLain,Constitution,1.7,False,False,False
 2004,house,Florida,FL,23,Alcee Hastings,Democratic,100.0,True,True,False
 2004,house,Florida,FL,24,Tom Feeney,Republican,100.0,True,True,False
 2004,house,Florida,FL,25,Mario Díaz-Balart,Republican,100.0,True,True,False
@@ -375,6 +385,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Kansas,KS,3,Dennis Moore,Democratic,54.8,True,True,False
 2004,house,Kansas,KS,3,Kris Kobach,Republican,43.3,False,False,False
 2004,house,Kansas,KS,3,Joe Bellis,Libertarian,0.9,False,False,False
+2004,house,Kansas,KS,3,Richard Wells,Reform,0.8,False,False,False
 2004,house,Kansas,KS,4,Todd Tiahrt,Republican,66.1,True,True,False
 2004,house,Kansas,KS,4,Michael Kinard,Democratic,31.0,False,False,False
 2004,house,Kansas,KS,4,David Loomis,Libertarian,2.8,False,False,False
@@ -391,6 +402,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Kentucky,KY,5,Hal Rogers,Republican,100.0,True,True,False
 2004,house,Kentucky,KY,6,Ben Chandler,Democratic,58.6,True,True,False
 2004,house,Kentucky,KY,6,Tom Buford,Republican,40.0,False,False,False
+2004,house,Kentucky,KY,6,Stacy Abner,Constitution,0.8,False,False,False
 2004,house,Kentucky,KY,6,Mark Gailey,Libertarian,0.6,False,False,False
 2004,house,Louisiana,LA,1,Bobby Jindal,Republican,78.4,True,False,True
 2004,house,Louisiana,LA,1,Roy Armstrong,Democratic,6.7,False,False,True
@@ -441,6 +453,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Maryland,MD,5,Steny Hoyer,Democratic,68.7,True,True,False
 2004,house,Maryland,MD,5,Brad Jewitt,Republican,29.3,False,False,False
 2004,house,Maryland,MD,5,Bob Auerbach,Green,1.4,False,False,False
+2004,house,Maryland,MD,5,Steven Krukar,Constitution,0.6,False,False,False
 2004,house,Maryland,MD,6,Roscoe Bartlett,Republican,67.5,True,True,False
 2004,house,Maryland,MD,6,Kenneth Bosley,Democratic,29.4,False,False,False
 2004,house,Maryland,MD,6,Gregory Hemingway,Green,3.1,False,False,False
@@ -449,6 +462,23 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Maryland,MD,7,Virginia Rodino,Green,2.0,False,False,False
 2004,house,Maryland,MD,8,Chris Van Hollen,Democratic,74.9,True,True,False
 2004,house,Maryland,MD,8,Chuck Floyd,Republican,25.1,False,False,False
+2004,house,Massachusetts,MA,1,John Olver,Democratic,99.0,True,True,False
+2004,house,Massachusetts,MA,2,Richard Neal,Democratic,98.7,True,True,False
+2004,house,Massachusetts,MA,3,Jim McGovern,Democratic,70.5,True,True,False
+2004,house,Massachusetts,MA,3,Ron Crews,Republican,29.5,False,False,False
+2004,house,Massachusetts,MA,4,Barney Frank,Democratic,77.9,True,True,False
+2004,house,Massachusetts,MA,4,Chuck Morse,Independent,22.1,False,False,False
+2004,house,Massachusetts,MA,5,Marty Meehan,Democratic,67.1,True,True,False
+2004,house,Massachusetts,MA,5,Thomas P. Tierney,Republican,32.9,False,False,False
+2004,house,Massachusetts,MA,6,John F. Tierney,Democratic,70.0,True,True,False
+2004,house,Massachusetts,MA,6,Steve O'Malley,Republican,30.0,False,False,False
+2004,house,Massachusetts,MA,7,Ed Markey,Democratic,73.6,True,True,False
+2004,house,Massachusetts,MA,7,Kenneth Chase,Republican,22.0,False,False,False
+2004,house,Massachusetts,MA,7,Jim Hall,Independent,4.4,False,False,False
+2004,house,Massachusetts,MA,8,Mike Capuano,Democratic,98.7,True,True,False
+2004,house,Massachusetts,MA,9,Stephen Lynch,Democratic,99.0,True,True,False
+2004,house,Massachusetts,MA,10,Bill Delahunt,Democratic,65.9,True,True,False
+2004,house,Massachusetts,MA,10,Mike Jones,Republican,34.1,False,False,False
 2004,house,Michigan,MI,1,Bart Stupak,Democratic,65.6,True,True,False
 2004,house,Michigan,MI,1,Don Hooper,Republican,32.7,False,False,False
 2004,house,Michigan,MI,1,David J. Newland,Green,1.0,False,False,False
@@ -456,9 +486,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Michigan,MI,2,Pete Hoekstra,Republican,69.3,True,True,False
 2004,house,Michigan,MI,2,Kimon Kotos,Democratic,28.9,False,False,False
 2004,house,Michigan,MI,2,Steven Van Til,Libertarian,0.9,False,False,False
+2004,house,Michigan,MI,2,Ronald E. Graeser,US Taxpayers,0.8,False,False,False
 2004,house,Michigan,MI,3,Vern Ehlers,Republican,66.6,True,True,False
 2004,house,Michigan,MI,3,Peter H. Hickey],Democratic,31.5,False,False,False
 2004,house,Michigan,MI,3,Warren Adams,Libertarian,1.1,False,False,False
+2004,house,Michigan,MI,3,Marcel J. Sales,US Taxpayers,0.8,False,False,False
 2004,house,Michigan,MI,4,Dave Camp,Republican,64.3,True,True,False
 2004,house,Michigan,MI,4,Mike Huckleberry,Democratic,34.8,False,False,False
 2004,house,Michigan,MI,4,Albert Chia Jr.,Libertarian,0.9,False,False,False
@@ -470,13 +502,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Michigan,MI,6,Scott Elliott,Democratic,32.4,False,False,False
 2004,house,Michigan,MI,6,Randall MacPhee,Green,0.8,False,False,False
 2004,house,Michigan,MI,6,Erwin J. Haas,Libertarian,0.8,False,False,False
+2004,house,Michigan,MI,6,W. Dennis FitzSimons,US Taxpayers,0.7,False,False,False
 2004,house,Michigan,MI,7,Joe Schwarz,Republican,58.4,True,False,True
 2004,house,Michigan,MI,7,Sharon Marie Renier,Democratic,36.3,False,False,True
+2004,house,Michigan,MI,7,David Horn,US Taxpayers,3.0,False,False,True
 2004,house,Michigan,MI,7,Jason Seagraves,Green,1.3,False,False,True
 2004,house,Michigan,MI,7,Kenneth L. Proctor,Libertarian,1.0,False,False,True
 2004,house,Michigan,MI,8,Mike Rogers,Republican,61.1,True,True,False
 2004,house,Michigan,MI,8,Robert D. Alexander,Democratic,36.9,False,False,False
 2004,house,Michigan,MI,8,Will Tyler White,Libertarian,1.0,False,False,False
+2004,house,Michigan,MI,8,John Mangopoulos,US Taxpayers,1.0,False,False,False
 2004,house,Michigan,MI,9,Joe Knollenberg,Republican,58.5,True,True,False
 2004,house,Michigan,MI,9,Steven W. Reifman,Democratic,39.5,False,False,False
 2004,house,Michigan,MI,9,Robert W. Schubring,Libertarian,2.0,False,False,False
@@ -497,18 +532,23 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Michigan,MI,14,Veronica Pedraza,Republican,13.8,False,False,False
 2004,house,Michigan,MI,14,Michael L. Donahue,Libertarian,0.9,False,False,False
 2004,house,Michigan,MI,14,Lisa Weltman,Green,0.9,False,False,False
+2004,house,Michigan,MI,14,Wilbert Sears,US Taxpayers,0.5,False,False,False
 2004,house,Michigan,MI,15,John Dingell Jr.,Democratic,70.9,True,True,False
 2004,house,Michigan,MI,15,Dawn Anne Reamer,Republican,26.6,False,False,False
 2004,house,Michigan,MI,15,Gregory Scott Stempfle,Libertarian,1.1,False,False,False
+2004,house,Michigan,MI,15,Mike Eller,US Taxpayers,0.8,False,False,False
 2004,house,Michigan,MI,15,Jerome S. White,Independent,0.6,False,False,False
 2004,house,Minnesota,MN,1,Gil Gutknecht,Republican,59.6,True,True,False
 2004,house,Minnesota,MN,1,Leigh Pomeroy,DFL,35.5,False,False,False
+2004,house,Minnesota,MN,1,Gregory Mikkelson,Independence,4.8,False,False,False
 2004,house,Minnesota,MN,2,John Kline,Republican,56.4,True,True,False
 2004,house,Minnesota,MN,2,Teresa Daly,DFL,40.3,False,False,False
+2004,house,Minnesota,MN,2,Doug Williams,Independence,3.2,False,False,False
 2004,house,Minnesota,MN,3,Jim Ramstad,Republican,64.6,True,True,False
 2004,house,Minnesota,MN,3,Deborah Watts,Democratic,35.3,False,False,False
 2004,house,Minnesota,MN,4,Betty McCollum,DFL,57.5,True,True,False
 2004,house,Minnesota,MN,4,Patrice Bataglia,Republican,33.2,False,False,False
+2004,house,Minnesota,MN,4,Peter Vento,Independence,9.2,False,False,False
 2004,house,Minnesota,MN,5,Martin Olav Sabo,DFL,69.7,True,True,False
 2004,house,Minnesota,MN,5,Daniel Mathias,Republican,24.4,False,False,False
 2004,house,Minnesota,MN,5,Jay Pond,Green,5.7,False,False,False
@@ -520,39 +560,51 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Minnesota,MN,8,Mark Groettum,Republican,32.2,False,False,False
 2004,house,Minnesota,MN,8,Van Presley,Green,2.6,False,False,False
 2004,house,Mississippi,MS,1,Roger Wicker,Republican,79.0,True,True,False
+2004,house,Mississippi,MS,1,Barbara Dale Washer,Reform,21.0,False,False,False
 2004,house,Mississippi,MS,2,Bennie Thompson,Democratic,58.4,True,True,False
 2004,house,Mississippi,MS,2,Clinton LeSueur,Republican,40.6,False,False,False
+2004,house,Mississippi,MS,2,Shawn O'Hara,Reform,1.0,False,False,False
 2004,house,Mississippi,MS,3,Chip Pickering,Republican,80.0,True,True,False
 2004,house,Mississippi,MS,3,Jim Giles,Independent,13.8,False,False,False
+2004,house,Mississippi,MS,3,Lamonica L. McGee,Reform,6.2,False,False,False
 2004,house,Mississippi,MS,4,Gene Taylor,Democratic,64.2,True,True,False
 2004,house,Mississippi,MS,4,Mike Lott,Republican,34.5,False,False,False
+2004,house,Mississippi,MS,4,Tracella Hill,Reform,1.3,False,False,False
 2004,house,Missouri,MO,1,Lacy Clay,Democratic,75.3,True,True,False
 2004,house,Missouri,MO,1,Leslie L. Farr II,Republican,22.8,False,False,False
 2004,house,Missouri,MO,1,Terry Chadwick]],Libertarian,1.4,False,False,False
+2004,house,Missouri,MO,1,Robert Rehbein,Constitution,0.5,False,False,False
 2004,house,Missouri,MO,2,Todd Akin,Republican,65.4,True,True,False
 2004,house,Missouri,MO,2,George D. Weber,Democratic,33.0,False,False,False
 2004,house,Missouri,MO,2,Darla Maloney,Libertarian,1.4,False,False,False
+2004,house,Missouri,MO,2,David Leefe,Constitution,0.3,False,False,False
 2004,house,Missouri,MO,3,Russ Carnahan,Democratic,52.9,True,False,True
 2004,house,Missouri,MO,3,Bill Federer,Republican,45.1,False,False,True
 2004,house,Missouri,MO,3,Kevin C. Babcock,Libertarian,1.6,False,False,True
+2004,house,Missouri,MO,3,William Renaud,Constitution,0.4,False,False,True
 2004,house,Missouri,MO,4,Ike Skelton,Democratic,66.2,True,True,False
 2004,house,Missouri,MO,4,Jim Noland,Republican,32.4,False,False,False
 2004,house,Missouri,MO,4,Bill Lower,Libertarian,1.0,False,False,False
+2004,house,Missouri,MO,4,Raymond Lister,Constitution,0.4,False,False,False
 2004,house,Missouri,MO,5,Emanuel Cleaver,Democratic,55.2,True,False,True
 2004,house,Missouri,MO,5,Jeanne Patterson,Republican,42.1,False,False,True
 2004,house,Missouri,MO,5,Rick Bailie,Libertarian,2.0,False,False,True
+2004,house,Missouri,MO,5,Darin Rodenberg,Constitution,0.7,False,False,True
 2004,house,Missouri,MO,6,Sam Graves,Republican,63.8,True,True,False
 2004,house,Missouri,MO,6,Charles S. Broomfield,Democratic,34.8,False,False,False
 2004,house,Missouri,MO,6,Erik Buck,Libertarian,1.4,False,False,False
 2004,house,Missouri,MO,7,Roy Blunt,Republican,70.4,True,True,False
 2004,house,Missouri,MO,7,Jim Newberry,Democratic,28.3,False,False,False
 2004,house,Missouri,MO,7,Kevin Craig,Libertarian,0.9,False,False,False
+2004,house,Missouri,MO,7,Steve Alger,Constitution,0.3,False,False,False
 2004,house,Missouri,MO,8,Jo Ann Emerson,Republican,72.2,True,True,False
 2004,house,Missouri,MO,8,Dean Henderson,Democratic,26.6,False,False,False
 2004,house,Missouri,MO,8,Stan Cuff,Libertarian,0.7,False,False,False
+2004,house,Missouri,MO,8,Leonard Davidson,Constitution,0.5,False,False,False
 2004,house,Missouri,MO,9,Kenny Hulshof,Republican,64.6,True,True,False
 2004,house,Missouri,MO,9,Linda Jacobsen,Democratic,33.8,False,False,False
 2004,house,Missouri,MO,9,Tamara A. Millay,Libertarian,1.1,False,False,False
+2004,house,Missouri,MO,9,Chris Earl,Constitution,0.5,False,False,False
 2004,house,Montana,MT,AL,Denny Rehberg,Republican,64.4,True,True,False
 2004,house,Montana,MT,AL,Tracy Velazquez,Democratic,32.8,False,False,False
 2004,house,Montana,MT,AL,Mike Fellows,Libertarian,2.8,False,False,False
@@ -565,12 +617,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Nebraska,NE,2,Dante Salvatierra,Green,0.9,False,False,False
 2004,house,Nebraska,NE,3,Tom Osborne,Republican,87.5,True,True,False
 2004,house,Nebraska,NE,3,Donna Anderson,Democratic,10.5,False,False,False
+2004,house,Nebraska,NE,3,Joseph Rosberg,Nebraska,1.4,False,False,False
 2004,house,Nebraska,NE,3,Roy Guisinger,Green,0.6,False,False,False
 2004,house,Nevada,NV,1,Shelley Berkley,Democratic,66.0,True,True,False
 2004,house,Nevada,NV,1,Russ Mickelson,Republican,31.1,False,False,False
 2004,house,Nevada,NV,1,Jim Duensing,Libertarian,2.9,False,False,False
 2004,house,Nevada,NV,2,Jim Gibbons,Republican,66.5,True,True,False
 2004,house,Nevada,NV,2,Angie Cochran,Democratic,27.9,False,False,False
+2004,house,Nevada,NV,2,Janine Hansen,Independent American,3.6,False,False,False
 2004,house,Nevada,NV,2,Brendan Trainor,Libertarian,1.7,False,False,False
 2004,house,Nevada,NV,3,Jon Porter,Republican,54.5,True,True,False
 2004,house,Nevada,NV,3,Tom Gallagher,Democratic,40.4,False,False,False
@@ -589,6 +643,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New Jersey,NJ,2,Willie Norwood,Independent,0.7,False,False,False
 2004,house,New Jersey,NJ,2,Michael J. Matthews,Libertarian,0.7,False,False,False
 2004,house,New Jersey,NJ,2,Jose Alcantara,Independent,0.6,False,False,False
+2004,house,New Jersey,NJ,2,Constantino Rozzo,Socialist,0.2,False,False,False
 2004,house,New Jersey,NJ,3,Jim Saxton,Republican,63.4,True,True,False
 2004,house,New Jersey,NJ,3,Herb Conaway,Democratic,34.7,False,False,False
 2004,house,New Jersey,NJ,3,Ed Forchion,Independent,1.6,False,False,False
@@ -599,6 +654,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New Jersey,NJ,5,Scott Garrett,Republican,57.6,True,True,False
 2004,house,New Jersey,NJ,5,Dorothea Wolfe,Democratic,41.1,False,False,False
 2004,house,New Jersey,NJ,5,Victor Kaplan,Libertarian,0.6,False,False,False
+2004,house,New Jersey,NJ,5,Thomas Phelan,Conservative,0.5,False,False,False
 2004,house,New Jersey,NJ,5,Greg Pason,Socialist,0.2,False,False,False
 2004,house,New Jersey,NJ,6,Frank Pallone,Democratic,66.9,True,True,False
 2004,house,New Jersey,NJ,6,Sylvester Fernandez,Republican,30.8,False,False,False
@@ -628,6 +684,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New Jersey,NJ,13,Richard Piatkowski,Republican,22.1,False,False,False
 2004,house,New Jersey,NJ,13,Dick Hester,Independent,0.8,False,False,False
 2004,house,New Jersey,NJ,13,Herbert H. Shaw,Independent,0.7,False,False,False
+2004,house,New Jersey,NJ,13,Angela Lariscy,Socialist Workers,0.6,False,False,False
 2004,house,New Mexico,NM,1,Heather Wilson,Republican,54.4,True,True,False
 2004,house,New Mexico,NM,1,Richard M. Romero,Democratic,45.6,False,False,False
 2004,house,New Mexico,NM,2,Steve Pearce,Republican,60.2,True,True,False
@@ -654,7 +711,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New York,NY,9,Gerald J. Cronin,Republican,28.7,False,False,False
 2004,house,New York,NY,10,Edolphus Towns,Democratic,91.5,True,True,False
 2004,house,New York,NY,10,Harvey R. Clarke,Republican,7.5,False,False,False
+2004,house,New York,NY,10,Mariana Blume,Conservative,1.0,False,False,False
 2004,house,New York,NY,11,Major Owens,Democratic,94.0,True,True,False
+2004,house,New York,NY,11,Sol Lieberman,Conservative,3.1,False,False,False
 2004,house,New York,NY,11,Lorraine Stevens,Independent,2.9,False,False,False
 2004,house,New York,NY,12,Nydia Velázquez,Democratic,86.3,True,True,False
 2004,house,New York,NY,12,Paul A. Rodriguez,Republican,13.7,False,False,False
@@ -669,6 +728,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New York,NY,16,Ali Mohamed,Republican,4.8,False,False,False
 2004,house,New York,NY,17,Eliot Engel,Democratic,76.1,True,True,False
 2004,house,New York,NY,17,Matthew I. Brennan,Republican,22.0,False,False,False
+2004,house,New York,NY,17,Kevin Brawley,Conservative,1.9,False,False,False
 2004,house,New York,NY,18,Nita Lowey,Democratic,69.8,True,True,False
 2004,house,New York,NY,18,Richard A. Hoffman,Republican,30.2,False,False,False
 2004,house,New York,NY,19,Sue Kelly,Republican,66.7,True,True,False
@@ -684,6 +744,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New York,NY,23,Robert J. Johnson,Democratic,29.3,False,False,False
 2004,house,New York,NY,24,Sherwood Boehlert,Republican,56.9,True,True,False
 2004,house,New York,NY,24,Jeffrey A. Miller,Democratic,33.9,False,False,False
+2004,house,New York,NY,24,David L. Walrath,Conservative,9.2,False,False,False
 2004,house,New York,NY,25,James T. Walsh,Republican,90.4,True,True,False
 2004,house,New York,NY,25,Christina Rosetti,Independent,9.6,False,False,False
 2004,house,New York,NY,26,Thomas M. Reynolds,Republican,55.6,True,True,False
@@ -695,6 +756,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,New York,NY,28,Francina Joyce Cartonia,Independent,2.6,False,False,False
 2004,house,New York,NY,29,Randy Kuhl,Republican,50.7,True,False,True
 2004,house,New York,NY,29,Samara Barend,Democratic,40.8,False,False,True
+2004,house,New York,NY,29,Mark Assini,Conservative,6.4,False,False,True
 2004,house,New York,NY,29,John Ciampioli,Independent,2.1,False,False,True
 2004,house,North Carolina,NC,1,G. K. Butterfield,Democratic,64.0,True,True,False
 2004,house,North Carolina,NC,1,Greg Dority,Republican,36.0,False,False,False
@@ -784,9 +846,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Oregon,OR,4,Peter DeFazio,Democratic,61.0,True,True,False
 2004,house,Oregon,OR,4,Jim Feldkamp,Republican,37.6,False,False,False
 2004,house,Oregon,OR,4,Jacob Boone,Libertarian,0.9,False,False,False
+2004,house,Oregon,OR,4,Michael Paul Marsh,Constitution,0.5,False,False,False
 2004,house,Oregon,OR,5,Darlene Hooley,Democratic,52.9,True,True,False
 2004,house,Oregon,OR,5,Jim Zupancic,Republican,44.4,False,False,False
 2004,house,Oregon,OR,5,Jerry Defoe,Libertarian,1.9,False,False,False
+2004,house,Oregon,OR,5,Joseph H. Bitz,Constitution,0.8,False,False,False
 2004,house,Pennsylvania,PA,1,Bob Brady,Democratic,86.3,True,True,False
 2004,house,Pennsylvania,PA,1,Deborah Williams,Republican,13.4,False,False,False
 2004,house,Pennsylvania,PA,1,Christopher Randolph,Independent,0.3,False,False,False
@@ -807,14 +871,17 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Pennsylvania,PA,8,Mike Fitzpatrick,Republican,55.3,True,False,True
 2004,house,Pennsylvania,PA,8,Virginia Schrader,Democratic,43.3,False,False,True
 2004,house,Pennsylvania,PA,8,Arthur L. Farnsworth,Libertarian,1.1,False,False,True
+2004,house,Pennsylvania,PA,8,Erich Lukas,Constitution,0.3,False,False,True
 2004,house,Pennsylvania,PA,9,Bill Shuster,Republican,69.5,True,True,False
 2004,house,Pennsylvania,PA,9,Paul Politis,Democratic,30.5,False,False,False
 2004,house,Pennsylvania,PA,10,Don Sherwood,Republican,92.8,True,True,False
+2004,house,Pennsylvania,PA,10,Veronica Hannevig,Constitution,7.2,False,False,False
 2004,house,Pennsylvania,PA,11,Paul Kanjorski,Democratic,94.4,True,True,False
 2004,house,Pennsylvania,PA,11,Kenneth Brenneman,Independent,5.6,False,False,False
 2004,house,Pennsylvania,PA,12,John Murtha,Democratic,100.0,True,True,False
 2004,house,Pennsylvania,PA,13,Allyson Schwartz,Democratic,55.7,True,False,True
 2004,house,Pennsylvania,PA,13,Melissa Brown,Republican,41.3,False,False,True
+2004,house,Pennsylvania,PA,13,John McDermott,Constitution,1.7,False,False,True
 2004,house,Pennsylvania,PA,13,Chuck Moulton,Libertarian,1.3,False,False,True
 2004,house,Pennsylvania,PA,14,Mike Doyle,Democratic,100.0,True,True,False
 2004,house,Pennsylvania,PA,15,Charlie Dent,Republican,58.6,True,False,True
@@ -832,15 +899,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Pennsylvania,PA,19,Todd Platts,Republican,91.5,True,True,False
 2004,house,Pennsylvania,PA,19,Charles J. Steel,Green,3.6,False,False,False
 2004,house,Pennsylvania,PA,19,Michael L. Paoletta,Libertarian,3.5,False,False,False
+2004,house,Pennsylvania,PA,19,Lester B. Searer,Constitution,1.4,False,False,False
 2004,house,Rhode Island,RI,1,Patrick J. Kennedy,Democratic,64.1,True,False,False
 2004,house,Rhode Island,RI,1,David Rogers,Republican,35.8,False,False,False
 2004,house,Rhode Island,RI,2,James Langevin,Democratic,74.5,True,True,False
 2004,house,Rhode Island,RI,2,Arthur Barton,Republican,20.8,False,False,False
 2004,house,Rhode Island,RI,2,Edward Morabito,Independent,3.0,False,False,False
+2004,house,Rhode Island,RI,2,Dorman J. Hayes,Socialist,1.6,False,False,False
 2004,house,South Carolina,SC,1,Henry Brown,Republican,87.9,True,True,False
 2004,house,South Carolina,SC,1,James Dunn,Green,12.1,False,False,False
 2004,house,South Carolina,SC,2,Joe Wilson,Republican,65.1,True,True,False
 2004,house,South Carolina,SC,2,Michael Ray Ellisor,Democratic,33.3,False,False,False
+2004,house,South Carolina,SC,2,Steve Lefemine,Constitution,1.6,False,False,False
 2004,house,South Carolina,SC,3,Gresham Barrett,Republican,100.0,True,True,False
 2004,house,South Carolina,SC,4,Bob Inglis,Republican,69.8,True,False,True
 2004,house,South Carolina,SC,4,Brandon Brown,Democratic,29.0,False,False,True
@@ -849,6 +919,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,South Carolina,SC,5,Albert Spencer,Republican,36.9,False,False,False
 2004,house,South Carolina,SC,6,Jim Clyburn,Democratic,67.0,True,True,False
 2004,house,South Carolina,SC,6,Gary McLeod,Republican,31.2,False,False,False
+2004,house,South Carolina,SC,6,Other,Constitution,1.7,False,False,False
 2004,house,South Dakota,SD,AL,Stephanie Herseth,Democratic,53.4,True,True,False
 2004,house,South Dakota,SD,AL,Larry Diedrich,Republican,45.9,False,False,False
 2004,house,South Dakota,SD,AL,Terry Begay,Libertarian,0.7,False,False,False
@@ -908,6 +979,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Texas,TX,9,Stacey Lynn Bourland,Libertarian,1.2,False,False,False
 2004,house,Texas,TX,10,Michael McCaul,Republican,78.6,True,False,True
 2004,house,Texas,TX,10,Robert William Fritsche,Libertarian,15.4,False,False,True
+2004,house,Texas,TX,10,Lorenzo Sadun,Write-in,6.0,False,False,True
 2004,house,Texas,TX,11,Mike Conaway,Republican,76.8,True,False,True
 2004,house,Texas,TX,11,Wayne Raasch,Democratic,21.8,False,False,True
 2004,house,Texas,TX,11,Jeffrey C. Blunt,Libertarian,1.4,False,False,True
@@ -970,6 +1042,20 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Texas,TX,32,Pete Sessions,Republican,54.3,True,True,False
 2004,house,Texas,TX,32,Martin Frost,Democratic,44.0,False,False,False
 2004,house,Texas,TX,32,Michael David Needleman,Libertarian,1.7,False,False,False
+2004,house,Utah,UT,1,Rob Bishop,Republican,67.9,True,True,False
+2004,house,Utah,UT,1,Steve Thompson,Democratic,29.1,False,False,False
+2004,house,Utah,UT,1,Charles Johnston,Constitution,1.5,False,False,False
+2004,house,Utah,UT,1,Richard Soderberg,Personal Choice,1.4,False,False,False
+2004,house,Utah,UT,2,Jim Matheson,Democratic,54.8,True,True,False
+2004,house,Utah,UT,2,John Swallow,Republican,43.2,False,False,False
+2004,house,Utah,UT,2,Jeremy Petersen,Constitution,1.0,False,False,False
+2004,house,Utah,UT,2,Patrick Diehl,Green,0.6,False,False,False
+2004,house,Utah,UT,2,Ronald Amos,Personal Choice,0.4,False,False,False
+2004,house,Utah,UT,3,Chris Cannon,Republican,63.4,True,True,False
+2004,house,Utah,UT,3,Beau Babka,Democratic,32.5,False,False,False
+2004,house,Utah,UT,3,Ronald Winfield,Constitution,1.9,False,False,False
+2004,house,Utah,UT,3,Jim Dexter,Libertarian,1.4,False,False,False
+2004,house,Utah,UT,3,Curtis James,Personal Choice,0.9,False,False,False
 2004,house,Vermont,VT,AL,Bernie Sanders,Independent,67.4,True,True,False
 2004,house,Vermont,VT,AL,Greg Parke,Republican,24.3,False,False,False
 2004,house,Vermont,VT,AL,Larry Drown,Democratic,7.1,False,False,False
@@ -1039,6 +1125,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2004,house,Wisconsin,WI,4,Gerald H. Boyle,Republican,28.2,False,False,True
 2004,house,Wisconsin,WI,4,Tim Johnson,Independent,1.2,False,False,True
 2004,house,Wisconsin,WI,4,Robert R. Raymond,Independent,0.6,False,False,True
+2004,house,Wisconsin,WI,4,Collin Hudson,Constitution,0.3,False,False,True
 2004,house,Wisconsin,WI,5,Jim Sensenbrenner,Republican,66.6,True,True,False
 2004,house,Wisconsin,WI,5,Bryan Kennedy,Democratic,31.8,False,False,False
 2004,house,Wisconsin,WI,5,Tim Peterson,Libertarian,1.6,False,False,False

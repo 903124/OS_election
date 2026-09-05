@@ -1,6 +1,6 @@
 year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
 2010,house,Alabama,AL,1,Jo Bonner,Republican,83.0,True,True,False
-2010,house,Alabama,AL,1,Constitution,Constitution,17.0,False,False,False
+2010,house,Alabama,AL,1,David Walter,Constitution,17.0,False,False,False
 2010,house,Alabama,AL,2,Martha Roby,Republican,51.3,True,False,False
 2010,house,Alabama,AL,2,Bobby Bright,Democratic,48.7,False,True,False
 2010,house,Alabama,AL,3,Mike D. Rogers,Republican,59.1,True,True,False
@@ -15,14 +15,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Alaska,AK,AL,Harry Crawford,Democratic,30.5,False,False,False
 2010,house,Arizona,AZ,1,Paul Gosar,Republican,49.7,True,False,False
 2010,house,Arizona,AZ,1,Ann Kirkpatrick,Democratic,43.7,False,True,False
-2010,house,Arizona,AZ,1,Libertarian,Libertarian,6.6,False,False,False
+2010,house,Arizona,AZ,1,Nicole Patti,Libertarian,6.6,False,False,False
 2010,house,Arizona,AZ,2,Trent Franks,Republican,64.9,True,True,False
 2010,house,Arizona,AZ,2,John Thrasher,Democratic,31.1,False,False,False
 2010,house,Arizona,AZ,2,Powell Gammill,Libertarian,4.0,False,False,False
 2010,house,Arizona,AZ,3,Ben Quayle,Republican,52.2,True,False,True
 2010,house,Arizona,AZ,3,Jon Hulburd,Democratic,41.1,False,False,True
 2010,house,Arizona,AZ,3,Michael Shoen,Libertarian,5.0,False,False,True
-2010,house,Arizona,AZ,3,Green,Green,1.6,False,False,True
+2010,house,Arizona,AZ,3,Leonard Clark,Green,1.6,False,False,True
 2010,house,Arizona,AZ,4,Ed Pastor,Democratic,66.9,True,True,False
 2010,house,Arizona,AZ,4,Janet Contreras,Republican,27.5,False,False,False
 2010,house,Arizona,AZ,4,Joe Cobb,Libertarian,3.0,False,False,False
@@ -61,15 +61,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,2,Jim Reed,Democratic,42.9,False,False,False
 2010,house,California,CA,3,Dan Lungren,Republican,50.1,True,True,True
 2010,house,California,CA,3,Ami Bera,Democratic,43.2,False,False,True
+2010,house,California,CA,3,Jerry Leidecker,American Independent,2.5,False,False,True
 2010,house,California,CA,3,Art Tuma,Libertarian,2.4,False,False,True
-2010,house,California,CA,3,Peace and Freedom,Peace and Freedom,1.8,False,False,True
+2010,house,California,CA,3,Mike Roskey,Peace and Freedom,1.8,False,False,True
 2010,house,California,CA,4,Tom McClintock,Republican,61.3,True,True,False
 2010,house,California,CA,4,Clint Curtis,Democratic,31.4,False,False,False
 2010,house,California,CA,4,Ben Emery,Green,7.3,False,False,False
 2010,house,California,CA,5,Doris Matsui,Democratic,72.0,True,True,False
 2010,house,California,CA,5,Paul Smith,Republican,25.3,False,False,False
+2010,house,California,CA,5,Jerry Frink,Peace and Freedom,2.7,False,False,False
 2010,house,California,CA,6,Lynn Woolsey,Democratic,65.9,True,True,False
 2010,house,California,CA,6,Jim Judd,Republican,29.6,False,False,False
+2010,house,California,CA,6,Gene Ruyle,Peace and Freedom,2.3,False,False,False
 2010,house,California,CA,6,Joel Smolen,Libertarian,2.2,False,False,False
 2010,house,California,CA,7,George Miller,Democratic,68.3,True,False,False
 2010,house,California,CA,7,Rick Tubbs,Republican,31.7,False,False,False
@@ -81,11 +84,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,9,Jerry Hashimoto,Republican,10.8,False,False,False
 2010,house,California,CA,9,Dave Heller,Green,2.3,False,False,False
 2010,house,California,CA,9,Jim Eyer,Libertarian,1.9,False,False,False
+2010,house,California,CA,9,Larry Allen,Peace and Freedom,0.8,False,False,False
 2010,house,California,CA,10,John Garamendi,Democratic,58.8,True,True,False
 2010,house,California,CA,10,Gary Clift,Republican,37.9,False,False,False
 2010,house,California,CA,10,Jeremy Cloward,Green,3.3,False,False,False
 2010,house,California,CA,11,Jerry McNerney,Democratic,48.0,True,True,False
 2010,house,California,CA,11,David Harmer,Republican,46.9,False,False,False
+2010,house,California,CA,11,David Christensen,American Independent,5.2,False,False,False
 2010,house,California,CA,12,Jackie Speier,Democratic,75.6,True,True,False
 2010,house,California,CA,12,Michael Moloney,Republican,22.1,False,False,False
 2010,house,California,CA,12,Mark Williams,Libertarian,2.3,False,False,False
@@ -121,6 +126,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,25,Jackie Conaway,Democratic,38.2,False,False,False
 2010,house,California,CA,26,David Dreier,Republican,54.1,True,True,False
 2010,house,California,CA,26,Russ Warner,Democratic,36.5,False,False,False
+2010,house,California,CA,26,David Miller,American Independent,6.1,False,False,False
 2010,house,California,CA,26,Randall Weissbuch,Libertarian,3.2,False,False,False
 2010,house,California,CA,27,Brad Sherman,Democratic,65.2,True,True,False
 2010,house,California,CA,27,Mark Reed,Republican,34.8,False,False,False
@@ -133,6 +139,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,30,Henry Waxman,Democratic,64.6,True,True,False
 2010,house,California,CA,30,Chuck Wilkerson,Republican,31.9,False,False,False
 2010,house,California,CA,30,Erich Miller,Libertarian,2.1,False,False,False
+2010,house,California,CA,30,Richard Castaldo,Peace and Freedom,1.3,False,False,False
 2010,house,California,CA,31,Xavier Becerra,Democratic,83.8,True,True,False
 2010,house,California,CA,31,Stephen Smith,Republican,16.2,False,False,False
 2010,house,California,CA,32,Judy Chu,Democratic,71.0,True,True,False
@@ -153,6 +160,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,38,Robert Vaughn,Republican,26.5,False,False,False
 2010,house,California,CA,39,Linda Sánchez,Democratic,63.3,True,True,False
 2010,house,California,CA,39,Larry Andre,Republican,32.6,False,False,False
+2010,house,California,CA,39,John Smith,American Independent,4.1,False,False,False
 2010,house,California,CA,40,Ed Royce,Republican,66.8,True,True,False
 2010,house,California,CA,40,Christina Avalos,Democratic,33.2,False,False,False
 2010,house,California,CA,41,Jerry Lewis,Republican,63.2,True,True,False
@@ -166,6 +174,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,44,Bill Hedrick,Democratic,44.4,False,False,False
 2010,house,California,CA,45,Mary Bono,Republican,51.5,True,True,False
 2010,house,California,CA,45,Steve Pougnet,Democratic,42.1,False,False,False
+2010,house,California,CA,45,Bill Lussenheide,American Independent,6.4,False,False,False
 2010,house,California,CA,46,Dana Rohrabacher,Republican,62.2,True,True,False
 2010,house,California,CA,46,Ken Arnold,Democratic,37.8,False,False,False
 2010,house,California,CA,47,Loretta Sanchez,Democratic,53.0,True,True,False
@@ -176,10 +185,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,California,CA,48,Mike Binkley,Libertarian,3.6,False,False,False
 2010,house,California,CA,49,Darrell Issa,Republican,62.8,True,True,False
 2010,house,California,CA,49,Howard Katz,Democratic,31.5,False,False,False
+2010,house,California,CA,49,Dion Clark,American Independent,3.5,False,False,False
 2010,house,California,CA,49,Mike Paster,Libertarian,2.3,False,False,False
 2010,house,California,CA,50,Brian Bilbray,Republican,56.6,True,True,False
 2010,house,California,CA,50,Francine Busby,Democratic,39.0,False,False,False
 2010,house,California,CA,50,Lars Grossmith,Libertarian,2.2,False,False,False
+2010,house,California,CA,50,Miriam Clark,Peace and Freedom,2.2,False,False,False
 2010,house,California,CA,51,Bob Filner,Democratic,60.1,True,True,False
 2010,house,California,CA,51,Nick Popaditch,Republican,39.9,False,False,False
 2010,house,California,CA,52,Duncan D. Hunter,Republican,63.1,True,True,False
@@ -192,8 +203,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Colorado,CO,1,Mike Fallon,Republican,28.8,False,False,False
 2010,house,Colorado,CO,1,Gary Swing,Green,1.4,False,False,False
 2010,house,Colorado,CO,1,Clint Jones,Libertarian,1.4,False,False,False
+2010,house,Colorado,CO,1,Chris Styskal,Constitution,1.0,False,False,False
 2010,house,Colorado,CO,2,Jared Polis,Democratic,57.4,True,True,False
 2010,house,Colorado,CO,2,Stephen Bailey,Republican,37.9,False,False,False
+2010,house,Colorado,CO,2,Jenna Goss,Constitution,2.7,False,False,False
 2010,house,Colorado,CO,2,Curtis Harris,Libertarian,2.0,False,False,False
 2010,house,Colorado,CO,3,Scott Tipton,Republican,50.1,True,False,False
 2010,house,Colorado,CO,3,John Salazar,Democratic,45.8,False,True,False
@@ -201,9 +214,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Colorado,CO,3,Jake Segrest,Independent,1.9,False,False,False
 2010,house,Colorado,CO,4,Cory Gardner,Republican,52.5,True,False,False
 2010,house,Colorado,CO,4,Betsy Markey,Democratic,41.4,False,True,False
+2010,house,Colorado,CO,4,Doug Aden,Constitution,4.7,False,False,False
 2010,house,Colorado,CO,4,Ken Waskiewicz,Independent,1.5,False,False,False
 2010,house,Colorado,CO,5,Doug Lamborn,Republican,65.8,True,True,False
 2010,house,Colorado,CO,5,Kevin Bradley,Democratic,29.3,False,False,False
+2010,house,Colorado,CO,5,Brian Scott,Constitution,2.5,False,False,False
 2010,house,Colorado,CO,5,Jerrell Klaver,Libertarian,2.4,False,False,False
 2010,house,Colorado,CO,6,Mike Coffman,Republican,65.7,True,True,False
 2010,house,Colorado,CO,6,John Flerlage,Democratic,31.5,False,False,False
@@ -214,6 +229,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Connecticut,CT,1,John Larson,Democratic,61.3,True,True,False
 2010,house,Connecticut,CT,1,Ann Brickley,Republican,37.2,False,False,False
 2010,house,Connecticut,CT,1,Ken Krayeske,Green,1.1,False,False,False
+2010,house,Connecticut,CT,1,Chris Hutchinson,Socialist,0.4,False,False,False
 2010,house,Connecticut,CT,2,Joe Courtney,Democratic,59.9,True,False,False
 2010,house,Connecticut,CT,2,Janet Peckinpaugh,Republican,38.8,False,False,False
 2010,house,Connecticut,CT,2,Scott Deshefy,Green,1.3,False,False,False
@@ -226,7 +242,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Connecticut,CT,5,Sam Caligiuri,Republican,45.9,False,False,False
 2010,house,Delaware,DE,AL,John Carney,Democratic,56.8,True,False,True
 2010,house,Delaware,DE,AL,Glen Urquhart,Republican,41.0,False,False,True
+2010,house,Delaware,DE,AL,Earl Lofland,Constitution,1.2,False,False,True
 2010,house,Delaware,DE,AL,Brent Wangen,Libertarian,0.6,False,False,True
+2010,house,Delaware,DE,AL,Jeff Brown,Blue Enigma,0.4,False,False,True
 2010,house,Florida,FL,1,Jeff Miller,Republican,80.0,True,False,False
 2010,house,Florida,FL,1,Joe Cantrell,Independent,10.9,False,False,False
 2010,house,Florida,FL,1,John Krause,Independent,8.6,False,False,False
@@ -247,7 +265,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Florida,FL,7,Heather Beaven,Democratic,31.0,False,False,False
 2010,house,Florida,FL,8,Daniel Webster,Republican,56.1,True,False,False
 2010,house,Florida,FL,8,Alan Grayson,Democratic,38.2,False,True,False
-2010,house,Florida,FL,8,Tea,Tea Party movement,3.8,False,False,False
+2010,house,Florida,FL,8,Peg Dunmire,Tea Party movement,3.8,False,False,False
 2010,house,Florida,FL,8,George Metcalfe,Independent,1.9,False,False,False
 2010,house,Florida,FL,9,Gus Bilirakis,Republican,71.4,True,True,False
 2010,house,Florida,FL,9,Anita de Palma,Democratic,28.6,False,False,False
@@ -257,6 +275,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Florida,FL,11,Mike Prendergast,Republican,40.4,False,False,False
 2010,house,Florida,FL,12,Dennis A. Ross,Republican,48.1,True,False,True
 2010,house,Florida,FL,12,Lori Edwards,Democratic,41.1,False,False,True
+2010,house,Florida,FL,12,Randy Wilkinson,Tea Party movement,10.7,False,False,True
 2010,house,Florida,FL,13,Vern Buchanan,Republican,68.9,True,True,False
 2010,house,Florida,FL,13,James Golden,Democratic,31.1,False,False,False
 2010,house,Florida,FL,14,Connie Mack IV,Republican,68.6,True,True,False
@@ -285,7 +304,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Florida,FL,24,Suzanne Kosmas,Democratic,40.3,False,True,False
 2010,house,Florida,FL,25,David Rivera,Republican,52.2,True,False,False
 2010,house,Florida,FL,25,Joe Garcia,Democratic,42.6,False,False,False
-2010,house,Florida,FL,25,Florida Whig,Other,2.2,False,False,False
+2010,house,Florida,FL,25,Roly Arroyo,Tea Party movement,3.0,False,False,False
+2010,house,Florida,FL,25,Craig Porter,Other,2.2,False,False,False
 2010,house,Georgia,GA,1,Jack Kingston,Republican,71.6,True,True,False
 2010,house,Georgia,GA,1,Oscar Harris,Democratic,28.4,False,False,False
 2010,house,Georgia,GA,2,Sanford Bishop,Democratic,51.4,True,True,False
@@ -408,9 +428,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Iowa,IA,2,Dave Loebsack,Democratic,51.0,True,True,False
 2010,house,Iowa,IA,2,Mariannette Miller-Meeks,Republican,45.9,False,False,False
 2010,house,Iowa,IA,2,Gary Sicard,Libertarian,1.9,False,False,False
+2010,house,Iowa,IA,2,Jon Tack,Constitution,1.1,False,False,False
 2010,house,Iowa,IA,3,Leonard Boswell,Democratic,50.7,True,True,False
 2010,house,Iowa,IA,3,Brad Zaun,Republican,46.5,False,False,False
-2010,house,Iowa,IA,3,Socialist Workers,Socialist Workers,2.6,False,False,False
+2010,house,Iowa,IA,3,Rebecca Williamson,Socialist Workers,2.6,False,False,False
 2010,house,Iowa,IA,4,Tom Latham,Republican,65.6,True,False,False
 2010,house,Iowa,IA,4,Bill Maske,Democratic,32.0,False,False,False
 2010,house,Iowa,IA,4,Dan Lensing,Independent,2.4,False,False,False
@@ -428,7 +449,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Kansas,KS,3,Jasmin Talbert,Libertarian,2.9,False,False,True
 2010,house,Kansas,KS,4,Mike Pompeo,Republican,58.7,True,False,True
 2010,house,Kansas,KS,4,Raj Goyle,Democratic,36.4,False,False,True
-2010,house,Kansas,KS,4,Reform,Reform,2.4,False,False,True
+2010,house,Kansas,KS,4,Susan Ducey,Reform,2.4,False,False,True
 2010,house,Kansas,KS,4,Shawn Smith,Libertarian,2.2,False,False,True
 2010,house,Kentucky,KY,1,Ed Whitfield,Republican,71.2,True,True,False
 2010,house,Kentucky,KY,1,Charles Hatchett,Democratic,28.8,False,False,False
@@ -474,6 +495,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Maryland,MD,3,John Sarbanes,Democratic,61.1,True,True,False
 2010,house,Maryland,MD,3,Jim Wilhelm,Republican,36.0,False,False,False
 2010,house,Maryland,MD,3,Jerry McKinley,Libertarian,2.2,False,False,False
+2010,house,Maryland,MD,3,Alain Lareau,Constitution,0.7,False,False,False
 2010,house,Maryland,MD,4,Donna Edwards,Democratic,83.4,True,True,False
 2010,house,Maryland,MD,4,Robert Broadus,Republican,16.4,False,False,False
 2010,house,Maryland,MD,5,Steny Hoyer,Democratic,64.3,True,True,False
@@ -482,12 +504,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Maryland,MD,6,Roscoe Bartlett,Republican,61.5,True,True,False
 2010,house,Maryland,MD,6,Andrew Duck,Democratic,33.2,False,False,False
 2010,house,Maryland,MD,6,Dan Massey,Libertarian,2.8,False,False,False
+2010,house,Maryland,MD,6,Michael Reed,Constitution,2.4,False,False,False
 2010,house,Maryland,MD,7,Elijah Cummings,Democratic,75.2,True,True,False
 2010,house,Maryland,MD,7,Frank Mirable,Republican,22.8,False,False,False
 2010,house,Maryland,MD,7,Scott Spencer,Libertarian,1.9,False,False,False
 2010,house,Maryland,MD,8,Chris Van Hollen,Democratic,73.3,True,True,False
 2010,house,Maryland,MD,8,Michael Lee Philips,Republican,25.0,False,False,False
 2010,house,Maryland,MD,8,Mark Grannis,Libertarian,1.3,False,False,False
+2010,house,Maryland,MD,8,Fred Nordhorn,Constitution,0.3,False,False,False
 2010,house,Massachusetts,MA,1,John Olver,Democratic,60.0,True,True,False
 2010,house,Massachusetts,MA,1,William Gunn,Republican,34.9,False,False,False
 2010,house,Massachusetts,MA,1,Michael Engel,Independent,5.1,False,False,False
@@ -520,17 +544,20 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Michigan,MI,1,Dan Benishek,Republican,51.9,True,False,True
 2010,house,Michigan,MI,1,Gary McDowell,Democratic,40.9,False,False,True
 2010,house,Michigan,MI,1,Glenn Wilson,Independent,3.4,False,False,True
+2010,house,Michigan,MI,1,Pat Lambert,US Taxpayers,1.8,False,False,True
 2010,house,Michigan,MI,1,Keith Shelton,Libertarian,1.1,False,False,True
 2010,house,Michigan,MI,1,Ellis Boal,Green,0.9,False,False,True
 2010,house,Michigan,MI,2,Bill Huizenga,Republican,65.3,True,False,True
 2010,house,Michigan,MI,2,Fred Johnson,Democratic,31.6,False,False,True
 2010,house,Michigan,MI,2,Jay Gillotte,Libertarian,1.2,False,False,True
+2010,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,1.0,False,False,True
 2010,house,Michigan,MI,2,Lloyd Clarke,Green,0.9,False,False,True
 2010,house,Michigan,MI,3,Justin Amash,Republican,59.7,True,False,True
 2010,house,Michigan,MI,3,Pat Miles,Democratic,37.5,False,False,True
 2010,house,Michigan,MI,3,James Rogers,Libertarian,1.2,False,False,True
 2010,house,Michigan,MI,4,Dave Camp,Republican,66.2,True,True,False
 2010,house,Michigan,MI,4,Jerry Campbell,Democratic,30.5,False,False,False
+2010,house,Michigan,MI,4,John Emerick,US Taxpayers,1.7,False,False,False
 2010,house,Michigan,MI,4,Clint Foster,Libertarian,1.6,False,False,False
 2010,house,Michigan,MI,5,Dale Kildee,Democratic,53.0,True,True,False
 2010,house,Michigan,MI,5,John Kuipec,Republican,44.3,False,False,False
@@ -538,6 +565,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Michigan,MI,5,Michael Moon,Libertarian,1.3,False,False,False
 2010,house,Michigan,MI,6,Fred Upton,Republican,62.0,True,True,False
 2010,house,Michigan,MI,6,Don Cooney,Democratic,33.6,False,False,False
+2010,house,Michigan,MI,6,Mel Vaulkner,US Taxpayers,1.8,False,False,False
 2010,house,Michigan,MI,6,Fred Strand,Libertarian,1.7,False,False,False
 2010,house,Michigan,MI,6,Pat Foster,Green,0.9,False,False,False
 2010,house,Michigan,MI,7,Tim Walberg,Republican,50.2,True,False,False
@@ -562,44 +590,55 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Michigan,MI,12,Don Volaric,Republican,35.0,False,False,False
 2010,house,Michigan,MI,12,Julia Williams,Green,1.5,False,False,False
 2010,house,Michigan,MI,12,Leonard Schwartz,Libertarian,1.1,False,False,False
+2010,house,Michigan,MI,12,Les Townsend,US Taxpayers,1.1,False,False,False
 2010,house,Michigan,MI,12,Alan Jacquemotte,Independent,0.2,False,False,False
 2010,house,Michigan,MI,13,Hansen Clarke,Democratic,79.4,True,False,False
 2010,house,Michigan,MI,13,John Hauler,Republican,18.5,False,False,False
 2010,house,Michigan,MI,14,John Conyers,Democratic,76.8,True,True,False
 2010,house,Michigan,MI,14,Don Ukrainec,Republican,19.9,False,False,False
+2010,house,Michigan,MI,14,Marc Sosnowski,US Taxpayers,2.1,False,False,False
 2010,house,Michigan,MI,14,Rick Secula,Libertarian,1.2,False,False,False
 2010,house,Michigan,MI,15,John Dingell,Democratic,56.8,True,True,False
 2010,house,Michigan,MI,15,Rob Steele,Republican,40.1,False,False,False
 2010,house,Michigan,MI,15,Aimee Smith,Green,1.3,False,False,False
 2010,house,Minnesota,MN,1,Tim Walz,DFL,49.3,True,False,False
 2010,house,Minnesota,MN,1,Randy Demmer,Republican,44.1,False,False,False
-2010,house,Minnesota,MN,1,Independence,Independence,5.3,False,False,False
+2010,house,Minnesota,MN,1,Steven Wilson,Independence,5.3,False,False,False
 2010,house,Minnesota,MN,1,Lars Johnson,Independent,1.2,False,False,False
 2010,house,Minnesota,MN,2,John Kline,Republican,63.3,True,False,False
 2010,house,Minnesota,MN,2,Shelley Madore,DFL,36.6,False,False,False
 2010,house,Minnesota,MN,3,Erik Paulsen,Republican,58.8,True,True,False
 2010,house,Minnesota,MN,3,Jim Meffert,DFL,36.6,False,False,False
+2010,house,Minnesota,MN,3,Jon Oleson,Independence,4.6,False,False,False
 2010,house,Minnesota,MN,4,Betty McCollum,DFL,59.1,True,False,False
 2010,house,Minnesota,MN,4,Teresa Collett,Republican,34.6,False,False,False
+2010,house,Minnesota,MN,4,Steve Carlson,Independence Party (Minnesota),6.1,False,False,False
 2010,house,Minnesota,MN,5,Keith Ellison,DFL,67.7,True,False,False
 2010,house,Minnesota,MN,5,Alexander Demos,Republican,24.1,False,False,False
 2010,house,Minnesota,MN,5,Lynn Torgerson,Independent,3.7,False,False,False
+2010,house,Minnesota,MN,5,Tom Schrunk,Independence,3.3,False,False,False
 2010,house,Minnesota,MN,5,Michael Cavlan,Independent,1.1,False,False,False
 2010,house,Minnesota,MN,6,Michele Bachmann,Republican,52.5,True,True,False
 2010,house,Minnesota,MN,6,Tarryl Clark,DFL,39.8,False,False,False
+2010,house,Minnesota,MN,6,Bob Anderson,Independence,5.8,False,False,False
 2010,house,Minnesota,MN,6,Aubrey Immelman,Independent,1.8,False,False,False
 2010,house,Minnesota,MN,7,Collin Peterson,DFL,55.2,True,False,False
 2010,house,Minnesota,MN,7,Lee Byberg,Republican,37.6,False,False,False
 2010,house,Minnesota,MN,7,Gene Waldorf,Independent,3.9,False,False,False
+2010,house,Minnesota,MN,7,Glen Menze,Independence,3.3,False,False,False
 2010,house,Minnesota,MN,8,Chip Cravaack,Republican,48.2,True,False,False
 2010,house,Minnesota,MN,8,Jim Oberstar,DFL,46.6,False,False,False
+2010,house,Minnesota,MN,8,Tim Olson,Independence Party (Minnesota),4.3,False,False,False
+2010,house,Minnesota,MN,8,George Burton,Constitution,0.9,False,False,False
 2010,house,Mississippi,MS,1,Alan Nunnelee,Republican,55.3,True,False,False
 2010,house,Mississippi,MS,1,Travis Childers,Democratic,40.8,False,True,False
 2010,house,Mississippi,MS,1,Wally Pang,Independent,1.0,False,False,False
 2010,house,Mississippi,MS,2,Bennie Thompson,Democratic,61.5,True,True,False
 2010,house,Mississippi,MS,2,Bill Marcy,Republican,37.6,False,False,False
+2010,house,Mississippi,MS,2,Ashley Norwood,Reform,0.9,False,False,False
 2010,house,Mississippi,MS,3,Gregg Harper,Republican,68.0,True,True,False
 2010,house,Mississippi,MS,3,Joel Gill,Democratic,31.2,False,False,False
+2010,house,Mississippi,MS,3,Tracella Lou O'Hara Hill,Reform,0.8,False,False,False
 2010,house,Mississippi,MS,4,Steven Palazzo,Republican,51.9,True,False,False
 2010,house,Mississippi,MS,4,Gene Taylor,Democratic,46.8,False,False,False
 2010,house,Missouri,MO,1,Lacy Clay,Democratic,73.6,True,True,False
@@ -611,12 +650,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Missouri,MO,3,Russ Carnahan,Democratic,48.9,True,True,False
 2010,house,Missouri,MO,3,Ed Martin,Republican,46.7,False,False,False
 2010,house,Missouri,MO,3,Steven Hedrick,Libertarian,2.8,False,False,False
+2010,house,Missouri,MO,3,Nick Ivanovich,Constitution,1.6,False,False,False
 2010,house,Missouri,MO,4,Vicky Hartzler,Republican,50.4,True,False,False
 2010,house,Missouri,MO,4,Ike Skelton,Democratic,45.1,False,True,False
 2010,house,Missouri,MO,4,Jason Michael Braun,Libertarian,2.7,False,False,False
+2010,house,Missouri,MO,4,Greg Cowan,Constitution,1.7,False,False,False
 2010,house,Missouri,MO,5,Emanuel Cleaver,Democratic,53.3,True,True,False
 2010,house,Missouri,MO,5,Jacob Turk,Republican,44.2,False,False,False
 2010,house,Missouri,MO,5,Randy Langkraehr,Libertarian,1.6,False,False,False
+2010,house,Missouri,MO,5,Dave Lay,Constitution,0.9,False,False,False
 2010,house,Missouri,MO,6,Sam Graves,Republican,69.4,True,True,False
 2010,house,Missouri,MO,6,Clint Hylton,Democratic,30.5,False,False,False
 2010,house,Missouri,MO,7,Billy Long,Republican,63.4,True,False,True
@@ -640,13 +682,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Nebraska,NE,3,Dan Hill,Independent,12.0,False,False,False
 2010,house,Nevada,NV,1,Shelley Berkley,Democratic,61.7,True,True,False
 2010,house,Nevada,NV,1,Kenneth A. Wegner,Republican,35.3,False,False,False
+2010,house,Nevada,NV,1,Jonathan Hansen,Independent American,1.7,False,False,False
 2010,house,Nevada,NV,1,Ed Klapproth,Libertarian,1.3,False,False,False
 2010,house,Nevada,NV,2,Dean Heller,Republican,63.3,True,True,False
 2010,house,Nevada,NV,2,Nancy Price,Democratic,32.7,False,False,False
+2010,house,Nevada,NV,2,Russell Best,Independent American,4.0,False,False,False
 2010,house,Nevada,NV,3,Joe Heck,Republican,48.1,True,False,False
 2010,house,Nevada,NV,3,Dina Titus,Democratic,47.5,False,True,False
 2010,house,Nevada,NV,3,Barry Michaels,Independent,2.4,False,False,False
 2010,house,Nevada,NV,3,Joe Silvestri,Libertarian,1.5,False,False,False
+2010,house,Nevada,NV,3,Scott Narder,Independent American,0.5,False,False,False
 2010,house,New Hampshire,NH,1,Frank Guinta,Republican,54.0,True,False,False
 2010,house,New Hampshire,NH,1,Carol Shea-Porter,Democratic,42.4,False,True,False
 2010,house,New Hampshire,NH,1,Philip Hodson,Libertarian,3.5,False,False,False
@@ -661,10 +706,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,New Jersey,NJ,1,Nicky Petrutz,Independent,0.3,False,False,False
 2010,house,New Jersey,NJ,2,Frank LoBiondo,Republican,65.5,True,True,False
 2010,house,New Jersey,NJ,2,Gary Stein,Democratic,30.9,False,False,False
+2010,house,New Jersey,NJ,2,Peter Boyce,Constitution,2.5,False,False,False
 2010,house,New Jersey,NJ,2,Mark Lovett,Independent,0.7,False,False,False
 2010,house,New Jersey,NJ,2,Vitov Valdes-Munoz,Independent,0.4,False,False,False
 2010,house,New Jersey,NJ,3,Jon Runyan,Republican,50.0,True,False,False
 2010,house,New Jersey,NJ,3,John Adler,Democratic,47.3,False,True,False
+2010,house,New Jersey,NJ,3,Peter DeStefano,Tea Party movement,1.5,False,False,False
 2010,house,New Jersey,NJ,3,Russ Conger,Libertarian,0.7,False,False,False
 2010,house,New Jersey,NJ,3,Larry Donahue,Independent,0.5,False,False,False
 2010,house,New Jersey,NJ,4,Chris Smith,Republican,69.4,True,False,False
@@ -713,6 +760,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,New York,NY,1,Randy Altschuler,Republican,49.8,False,False,False
 2010,house,New York,NY,2,Steve Israel,Democratic,56.4,True,True,False
 2010,house,New York,NY,2,John Gomez,Republican,42.9,False,False,False
+2010,house,New York,NY,2,Anthony Tolda,Constitution,0.7,False,False,False
 2010,house,New York,NY,3,Peter King,Republican,72.0,True,True,False
 2010,house,New York,NY,3,Howard Kudler,Democratic,28.0,False,False,False
 2010,house,New York,NY,4,Carolyn McCarthy,Democratic,53.6,True,True,False
@@ -731,21 +779,27 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,New York,NY,9,Bob Turner,Republican,39.2,False,False,False
 2010,house,New York,NY,10,Edolphus Towns,Democratic,91.1,True,True,False
 2010,house,New York,NY,10,Diana Muniz,Republican,7.1,False,False,False
-2010,house,New York,NY,10,Conservative,Conservative Party (New York),1.8,False,False,False
+2010,house,New York,NY,10,Ernest Johnson,Conservative Party (New York),1.8,False,False,False
 2010,house,New York,NY,11,Yvette Clarke,Democratic,90.6,True,True,False
 2010,house,New York,NY,11,Hugh Carr,Republican,9.4,False,False,False
 2010,house,New York,NY,12,Nydia Velázquez,Democratic,93.9,True,True,False
+2010,house,New York,NY,12,Alice Gaffney,Conservative Party (New York),6.1,False,False,False
 2010,house,New York,NY,13,Michael Grimm,Republican,51.3,True,False,False
 2010,house,New York,NY,13,Michael McMahon,Democratic,48.0,False,True,False
 2010,house,New York,NY,13,Tom Vendittelli,Libertarian,0.7,False,False,False
 2010,house,New York,NY,14,Carolyn Maloney,Democratic,75.1,True,True,False
 2010,house,New York,NY,14,David Brumberg,Republican,22.4,False,False,False
+2010,house,New York,NY,14,Timothy Healy,Conservative Party (New York),1.3,False,False,False
+2010,house,New York,NY,14,Dino LaVerghetta,Independence,1.1,False,False,False
 2010,house,New York,NY,15,Charles Rangel,Democratic,80.4,True,True,False
 2010,house,New York,NY,15,Michael Faulkner,Republican,10.4,False,False,False
+2010,house,New York,NY,15,Craig Schley,Independence,6.8,False,False,False
+2010,house,New York,NY,15,Roger Calero,Socialist Workers,2.3,False,False,False
 2010,house,New York,NY,16,José E. Serrano,Democratic,96.3,True,True,False
 2010,house,New York,NY,16,Frank Della Valle,Republican,3.7,False,False,False
 2010,house,New York,NY,17,Eliot Engel,Democratic,72.9,True,True,False
 2010,house,New York,NY,17,Tony Melé,Republican,22.8,False,False,False
+2010,house,New York,NY,17,York Kleinhandler,Conservative Party (New York),4.3,False,False,False
 2010,house,New York,NY,18,Nita Lowey,Democratic,62.2,True,True,False
 2010,house,New York,NY,18,Jim Russell,Republican,37.8,False,False,False
 2010,house,New York,NY,19,Nan Hayworth,Republican,52.7,True,False,False
@@ -819,13 +873,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Ohio,OH,5,Brian Smith,Libertarian,5.7,False,False,False
 2010,house,Ohio,OH,6,Bill Johnson,Republican,50.2,True,False,False
 2010,house,Ohio,OH,6,Charlie Wilson,Democratic,45.1,False,False,False
+2010,house,Ohio,OH,6,Richard Cadle,Constitution,2.5,False,False,False
 2010,house,Ohio,OH,6,Martin Elsass,Libertarian,2.2,False,False,False
 2010,house,Ohio,OH,7,Steve Austria,Republican,62.2,True,True,False
 2010,house,Ohio,OH,7,Bill Conner,Democratic,32.3,False,False,False
 2010,house,Ohio,OH,7,John Anderson,Libertarian,4.3,False,False,False
+2010,house,Ohio,OH,7,David Easton,Constitution,1.3,False,False,False
 2010,house,Ohio,OH,8,John Boehner,Republican,65.6,True,True,False
 2010,house,Ohio,OH,8,Justin Coussoule,Democratic,30.3,False,False,False
 2010,house,Ohio,OH,8,David Harlow,Libertarian,2.4,False,False,False
+2010,house,Ohio,OH,8,James Condit,Constitution,1.7,False,False,False
 2010,house,Ohio,OH,9,Marcy Kaptur,Democratic,59.4,True,True,False
 2010,house,Ohio,OH,9,Rich Iott,Republican,40.6,False,False,False
 2010,house,Ohio,OH,10,Dennis Kucinich,Democratic,53.0,True,True,False
@@ -844,6 +901,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Ohio,OH,15,Steve Stivers,Republican,54.1,True,False,False
 2010,house,Ohio,OH,15,Mary Jo Kilroy,Democratic,41.3,False,True,False
 2010,house,Ohio,OH,15,William Kammerer,Libertarian,2.8,False,False,False
+2010,house,Ohio,OH,15,David Ryon,Constitution,1.8,False,False,False
 2010,house,Ohio,OH,16,Jim Renacci,Republican,52.1,True,False,False
 2010,house,Ohio,OH,16,John Boccieri,Democratic,41.3,False,True,False
 2010,house,Ohio,OH,16,Jeffrey Blevins,Libertarian,6.6,False,False,False
@@ -852,6 +910,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Ohio,OH,17,Jim Traficant,Independent,16.0,False,False,False
 2010,house,Ohio,OH,18,Bob Gibbs,Republican,53.9,True,False,False
 2010,house,Ohio,OH,18,Zack Space,Democratic,40.5,False,True,False
+2010,house,Ohio,OH,18,Lindsey Sutton,Constitution,5.6,False,False,False
 2010,house,Oklahoma,OK,1,John Sullivan,Republican,76.8,True,False,False
 2010,house,Oklahoma,OK,1,Angelia O'Dell,Independent,23.2,False,False,False
 2010,house,Oklahoma,OK,2,Dan Boren,Democratic,56.5,True,True,False
@@ -865,17 +924,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Oklahoma,OK,5,Dave White,Independent,1.4,False,False,True
 2010,house,Oregon,OR,1,David Wu,Democratic,54.8,True,True,False
 2010,house,Oregon,OR,1,Rob Cornilles,Republican,42.0,False,False,False
-2010,house,Oregon,OR,1,Pacific Green,Pacific Green,1.0,False,False,False
+2010,house,Oregon,OR,1,Don LaMunyon,Constitution,1.3,False,False,False
+2010,house,Oregon,OR,1,Chris Henry,Pacific Green,1.0,False,False,False
 2010,house,Oregon,OR,1,Joe Tabor,Libertarian,0.9,False,False,False
 2010,house,Oregon,OR,2,Greg Walden,Republican,74.1,True,True,False
 2010,house,Oregon,OR,2,Joyce Segers,Democratic,25.9,False,False,False
 2010,house,Oregon,OR,3,Earl Blumenauer,Democratic,70.1,True,True,False
 2010,house,Oregon,OR,3,Delia Lopez,Republican,24.6,False,False,False
 2010,house,Oregon,OR,3,Jeff Lawrence,Libertarian,3.0,False,False,False
+2010,house,Oregon,OR,3,Michael Meo,Pacific Green,2.3,False,False,False
 2010,house,Oregon,OR,4,Peter DeFazio,Democratic,54.6,True,True,False
 2010,house,Oregon,OR,4,Art Robinson,Republican,43.7,False,False,False
+2010,house,Oregon,OR,4,Mike Beilstein,Pacific Green,1.7,False,False,False
 2010,house,Oregon,OR,5,Kurt Schrader,Democratic,51.3,True,True,False
 2010,house,Oregon,OR,5,Scott Bruun,Republican,46.0,False,False,False
+2010,house,Oregon,OR,5,Chris Lugo,Pacific Green,2.7,False,False,False
 2010,house,Pennsylvania,PA,1,Bob Brady,Democratic,100.0,True,True,False
 2010,house,Pennsylvania,PA,2,Chaka Fattah,Democratic,89.3,True,True,False
 2010,house,Pennsylvania,PA,2,Rick Hellberg,Republican,10.7,False,False,False
@@ -927,17 +990,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Rhode Island,RI,2,John Matson,Independent,8.4,False,False,False
 2010,house,South Carolina,SC,1,Tim Scott,Republican,65.4,True,False,True
 2010,house,South Carolina,SC,1,Ben Frasier,Democratic,28.7,False,False,True
-2010,house,South Carolina,SC,1,Working Families,Working Families,1.8,False,False,True
+2010,house,South Carolina,SC,1,Rob Groce,Working Families,1.8,False,False,True
 2010,house,South Carolina,SC,1,Bob Dobbs,Green,1.4,False,False,True
 2010,house,South Carolina,SC,1,Keith Blandford,Libertarian,1.2,False,False,True
-2010,house,South Carolina,SC,1,United Citizens,United Citizens,0.4,False,False,True
+2010,house,South Carolina,SC,1,Jimmy Wood,Independence,1.1,False,False,True
+2010,house,South Carolina,SC,1,Mac McCullough,United Citizens,0.4,False,False,True
 2010,house,South Carolina,SC,2,Joe Wilson,Republican,53.5,True,True,False
 2010,house,South Carolina,SC,2,Rob Miller,Democratic,43.8,False,False,False
 2010,house,South Carolina,SC,2,Eddie McCain,Libertarian,1.6,False,False,False
+2010,house,South Carolina,SC,2,Marc Beaman,Constitution,1.1,False,False,False
 2010,house,South Carolina,SC,3,Jeff Duncan,Republican,62.5,True,False,True
 2010,house,South Carolina,SC,3,Jane Ballard Dyer,Democratic,36.2,False,False,True
+2010,house,South Carolina,SC,3,John Dalen,Constitution,1.3,False,False,True
 2010,house,South Carolina,SC,4,Trey Gowdy,Republican,63.5,True,False,True
 2010,house,South Carolina,SC,4,Paul Corden,Democratic,28.8,False,False,True
+2010,house,South Carolina,SC,4,Dave Edwards,Constitution,5.1,False,False,True
 2010,house,South Carolina,SC,4,Rick Mahler,Libertarian,1.4,False,False,True
 2010,house,South Carolina,SC,4,Faye Walters,Green,1.2,False,False,True
 2010,house,South Carolina,SC,5,Mick Mulvaney,Republican,55.1,True,False,False
@@ -956,6 +1023,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Tennessee,TN,2,Joe Leinweber,Independent,1.4,False,False,False
 2010,house,Tennessee,TN,2,Andy Andrew,Independent,1.2,False,False,False
 2010,house,Tennessee,TN,2,Greg Samples,Libertarian,0.7,False,False,False
+2010,house,Tennessee,TN,2,Jim Headings,Constitution,0.3,False,False,False
 2010,house,Tennessee,TN,3,Charles Fleischmann,Republican,56.8,True,False,True
 2010,house,Tennessee,TN,3,John Wolfe Jr.,Democratic,28.0,False,False,True
 2010,house,Tennessee,TN,3,Savas Kyriakidis,Independent,10.5,False,False,True
@@ -1094,22 +1162,25 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Texas,TX,32,John Jay Myers,Libertarian,2.5,False,False,False
 2010,house,Utah,UT,1,Rob Bishop,Republican,69.2,True,True,False
 2010,house,Utah,UT,1,Morgan Bowen,Democratic,23.9,False,False,False
+2010,house,Utah,UT,1,Kirk Pearson,Constitution,4.7,False,False,False
 2010,house,Utah,UT,1,Jared Paul Stratton,Libertarian,2.2,False,False,False
 2010,house,Utah,UT,2,Jim Matheson,Democratic,50.5,True,True,False
 2010,house,Utah,UT,2,Morgan Philpot,Republican,46.1,False,False,False
+2010,house,Utah,UT,2,Randall Hinton,Constitution,1.8,False,False,False
 2010,house,Utah,UT,2,Dave Glissmeyer,Independent,0.9,False,False,False
 2010,house,Utah,UT,2,Wayne Hill,Independent,0.7,False,False,False
 2010,house,Utah,UT,3,Jason Chaffetz,Republican,72.3,True,True,False
 2010,house,Utah,UT,3,Karen Hyer,Democratic,22.9,False,False,False
+2010,house,Utah,UT,3,Douglas Sligting,Constitution,2.4,False,False,False
 2010,house,Utah,UT,3,Jake Shannon,Libertarian,1.5,False,False,False
 2010,house,Utah,UT,3,Joseph Puente,Independent,0.8,False,False,False
 2010,house,Vermont,VT,AL,Peter Welch,Democratic,64.6,True,True,False
 2010,house,Vermont,VT,AL,Paul Beaudry,Republican,32.0,False,False,False
 2010,house,Vermont,VT,AL,Gus Jaccaci,Independent,2.0,False,False,False
-2010,house,Vermont,VT,AL,Socialist,Socialist Party USA,1.4,False,False,False
+2010,house,Vermont,VT,AL,Jane Newton,Socialist Party USA,1.4,False,False,False
 2010,house,Virginia,VA,1,Rob Wittman,Republican,63.9,True,True,False
 2010,house,Virginia,VA,1,Krystal Ball,Democratic,34.8,False,False,False
-2010,house,Virginia,VA,1,Independent Green,Independent Greens of Virginia,1.2,False,False,False
+2010,house,Virginia,VA,1,Gail Parker,Independent Greens of Virginia,1.2,False,False,False
 2010,house,Virginia,VA,2,Scott Rigell,Republican,53.1,True,False,False
 2010,house,Virginia,VA,2,Glenn Nye,Democratic,42.5,False,True,False
 2010,house,Virginia,VA,2,Kenny Golden,Independent,4.3,False,False,False
@@ -1127,8 +1198,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,Virginia,VA,6,Stuart Bain,Libertarian,9.2,False,False,False
 2010,house,Virginia,VA,7,Eric Cantor,Republican,59.2,True,True,False
 2010,house,Virginia,VA,7,Rick Waugh,Democratic,34.1,False,False,False
+2010,house,Virginia,VA,7,Floyd Bayne,Independent Greens of Virginia,6.5,False,False,False
 2010,house,Virginia,VA,8,Jim Moran,Democratic,61.0,True,True,False
 2010,house,Virginia,VA,8,J. Patrick Murray,Republican,37.3,False,False,False
+2010,house,Virginia,VA,8,Ron Fisher,Independent Greens of Virginia,1.4,False,False,False
 2010,house,Virginia,VA,9,Morgan Griffith,Republican,51.2,True,False,False
 2010,house,Virginia,VA,9,Rick Boucher,Democratic,46.4,False,True,False
 2010,house,Virginia,VA,9,Jeremiah Heaton,Independent,2.3,False,False,False
@@ -1159,6 +1232,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,West Virginia,WV,1,Mike Oliverio,Democratic,49.6,False,False,False
 2010,house,West Virginia,WV,2,Shelley Moore Capito,Republican,68.5,True,True,False
 2010,house,West Virginia,WV,2,Virginia Graf,Democratic,29.7,False,False,False
+2010,house,West Virginia,WV,2,Phil Hudok,Constitution,1.8,False,False,False
 2010,house,West Virginia,WV,3,Nick Rahall,Democratic,56.0,True,True,False
 2010,house,West Virginia,WV,3,Spike Maynard,Republican,44.0,False,False,False
 2010,house,Wisconsin,WI,1,Paul Ryan,Republican,68.2,True,True,False
@@ -1190,11 +1264,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2010,house,American Samoa,AM,AL,Tuika Tuika,Independent,3.2,False,False,False
 2010,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,88.9,True,True,False
 2010,house,District of Columbia,DC,AL,Marjorie Reilly Smith,Republican,6.1,False,False,False
-2010,house,District of Columbia,DC,AL,Statehood Green,D.C. Statehood Green,3.3,False,False,False
+2010,house,District of Columbia,DC,AL,Rick Tingling-Clemmons,D.C. Statehood Green,3.3,False,False,False
 2010,house,District of Columbia,DC,AL,Queen Noble,Independent,0.6,False,False,False
 2010,house,Guam,GU,AL,Madeleine Bordallo,Democratic,100.0,True,True,False
 2010,house,Northern Mariana Islands,NO,AL,Gregorio Sablan,Independent,43.2,True,True,False
-2010,house,Northern Mariana Islands,NO,AL,Covenant,Covenant Party (Northern Mariana Islands),24.2,False,False,False
+2010,house,Northern Mariana Islands,NO,AL,Joe Camacho,Covenant Party (Northern Mariana Islands),24.2,False,False,False
 2010,house,Northern Mariana Islands,NO,AL,Juan Babauta,Republican,17.5,False,False,False
 2010,house,Northern Mariana Islands,NO,AL,Jesus Borja,Democratic,15.1,False,False,False
 2010,house,U.S. Virgin Islands,U.,AL,Donna Christian-Christensen,Democratic,71.2,True,True,False

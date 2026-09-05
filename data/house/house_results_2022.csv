@@ -72,7 +72,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,California,CA,9,Josh Harder,Democratic,54.8,True,False,True
 2022,house,California,CA,9,Tom Patti,Republican,45.2,False,False,True
 2022,house,California,CA,10,Mark DeSaulnier,Democratic,78.9,True,False,False
-2022,house,California,CA,10,Green,Green,21.1,False,False,False
+2022,house,California,CA,10,Michael Kerr,Green,21.1,False,False,False
 2022,house,California,CA,11,Nancy Pelosi,Democratic,84.0,True,False,False
 2022,house,California,CA,11,John Dennis,Republican,16.0,False,False,False
 2022,house,California,CA,12,Barbara Lee,Democratic,90.5,True,False,False
@@ -166,9 +166,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Colorado,CO,3,Adam Frisch,Democratic,49.9,False,False,False
 2022,house,Colorado,CO,4,Ken Buck,Republican,60.9,True,True,False
 2022,house,Colorado,CO,4,Ike McCorkle,Democratic,36.6,False,False,False
+2022,house,Colorado,CO,4,Ryan McGonigal,Constitution,2.5,False,False,False
 2022,house,Colorado,CO,5,Doug Lamborn,Republican,56.0,True,True,False
 2022,house,Colorado,CO,5,David Torres,Democratic,40.3,False,False,False
 2022,house,Colorado,CO,5,Brian Flanagan,Libertarian,2.5,False,False,False
+2022,house,Colorado,CO,5,Christopher Mitchell,Constitution,1.2,False,False,False
 2022,house,Colorado,CO,6,Jason Crow,Democratic,60.6,True,True,False
 2022,house,Colorado,CO,6,Steven Monahan,Republican,37.4,False,False,False
 2022,house,Colorado,CO,6,Eric Mulder,Libertarian,2.0,False,False,False
@@ -295,7 +297,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Illinois,IL,3,Justin Burau,Republican,31.5,False,False,True
 2022,house,Illinois,IL,4,Chuy García,Democratic,68.4,True,True,False
 2022,house,Illinois,IL,4,James Falakos,Republican,28.1,False,False,False
-2022,house,Illinois,IL,4,Working Class,Working Class,3.5,False,False,False
+2022,house,Illinois,IL,4,Edward Hershey,Working Class,3.5,False,False,False
 2022,house,Illinois,IL,5,Mike Quigley,Democratic,69.6,True,True,False
 2022,house,Illinois,IL,5,Tommy Hanson,Republican,28.8,False,False,False
 2022,house,Illinois,IL,5,Jerico Cruz,Independent,1.6,False,False,False
@@ -353,6 +355,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Iowa,IA,3,Cindy Axne,Democratic,49.6,False,True,False
 2022,house,Iowa,IA,4,Randy Feenstra,Republican,67.4,True,True,False
 2022,house,Iowa,IA,4,Ryan Melton,Democratic,30.4,False,False,False
+2022,house,Iowa,IA,4,Bryan Holder,Independent,2.2,False,False,False
 2022,house,Kansas,KS,1,Tracey Mann,Republican,67.7,True,True,False
 2022,house,Kansas,KS,1,Jimmy Beard,Democratic,32.3,False,False,False
 2022,house,Kansas,KS,2,Jake LaTurner,Republican,57.6,True,True,False
@@ -446,6 +449,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Michigan,MI,4,Bill Huizenga,Republican,54.4,True,False,True
 2022,house,Michigan,MI,4,Joseph Alfonso,Democratic,42.5,False,False,True
 2022,house,Michigan,MI,4,Lorence Wenke,Libertarian,2.5,False,False,True
+2022,house,Michigan,MI,4,Curtis Clark,US Taxpayers,0.7,False,False,True
 2022,house,Michigan,MI,5,Tim Walberg,Republican,62.4,True,False,False
 2022,house,Michigan,MI,5,Bart Goldberg,Democratic,35.0,False,False,False
 2022,house,Michigan,MI,6,Debbie Dingell,Democratic,65.9,True,False,False
@@ -455,35 +459,43 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Michigan,MI,7,Leah Dailey,Libertarian,2.0,False,False,False
 2022,house,Michigan,MI,8,Dan Kildee,Democratic,53.1,True,False,False
 2022,house,Michigan,MI,8,Paul Junge,Republican,42.8,False,False,False
+2022,house,Michigan,MI,8,Kathy Goodwin,Working Class,2.7,False,False,False
 2022,house,Michigan,MI,8,David Canny,Libertarian,1.4,False,False,False
 2022,house,Michigan,MI,9,Lisa McClain,Republican,63.9,True,False,False
 2022,house,Michigan,MI,9,Brian Jaye,Democratic,33.2,False,False,False
 2022,house,Michigan,MI,10,John James,Republican,48.8,True,False,True
 2022,house,Michigan,MI,10,Carl Marlinga,Democratic,48.3,False,False,True
+2022,house,Michigan,MI,10,Andrea Kirby,Working Class,1.8,False,False,True
 2022,house,Michigan,MI,10,Mike Saliba,Libertarian,1.1,False,False,True
 2022,house,Michigan,MI,11,Haley Stevens,Democratic,61.3,True,True,False
 2022,house,Michigan,MI,11,Mark Ambrose,Republican,38.7,False,False,False
 2022,house,Michigan,MI,12,Rashida Tlaib,Democratic,70.8,True,False,True
 2022,house,Michigan,MI,12,Steven Elliott,Republican,26.3,False,False,True
+2022,house,Michigan,MI,12,Gary Walkowicz,Working Class,2.9,False,False,True
 2022,house,Michigan,MI,13,Shri Thanedar,Democratic,71.1,True,False,True
 2022,house,Michigan,MI,13,Martell Bivings,Republican,24.0,False,False,True
+2022,house,Michigan,MI,13,Simone Coleman,Working Class,3.8,False,False,True
+2022,house,Michigan,MI,13,Chris Dardzinski,US Taxpayers,1.2,False,False,True
 2022,house,Minnesota,MN,1,Brad Finstad,Republican,53.9,True,True,False
-2022,house,Minnesota,MN,1,Jeff Ettinger,Minnesota Democratic–Farmer–Labor,42.3,False,False,False
-2022,house,Minnesota,MN,2,Angie Craig,Minnesota Democratic–Farmer–Labor,51.0,True,True,True
+2022,house,Minnesota,MN,1,Jeff Ettinger,DFL,42.3,False,False,False
+2022,house,Minnesota,MN,1,Richard Reisdorf,Legal Marijuana Now,2.2,False,False,False
+2022,house,Minnesota,MN,1,Brian Abrahamson,Grassroots-Legalize Cannabis,1.7,False,False,False
+2022,house,Minnesota,MN,2,Angie Craig,DFL,51.0,True,True,True
 2022,house,Minnesota,MN,2,Tyler Kistner,Republican,45.7,False,False,True
 2022,house,Minnesota,MN,2,Paula Overby,Legal Marijuana Now,3.3,False,False,True
-2022,house,Minnesota,MN,3,Dean Phillips,Minnesota Democratic–Farmer–Labor,59.6,True,True,False
+2022,house,Minnesota,MN,3,Dean Phillips,DFL,59.6,True,True,False
 2022,house,Minnesota,MN,3,Tom Weiler,Republican,40.4,False,False,False
-2022,house,Minnesota,MN,4,Betty McCollum,Minnesota Democratic–Farmer–Labor,67.7,True,True,False
+2022,house,Minnesota,MN,4,Betty McCollum,DFL,67.7,True,True,False
 2022,house,Minnesota,MN,4,May Lor Xiong,Republican,32.3,False,False,False
-2022,house,Minnesota,MN,5,Ilhan Omar,Minnesota Democratic–Farmer–Labor,75.2,True,True,False
+2022,house,Minnesota,MN,5,Ilhan Omar,DFL,75.2,True,True,False
 2022,house,Minnesota,MN,5,Cicely Davis,Republican,24.8,False,False,False
 2022,house,Minnesota,MN,6,Tom Emmer,Republican,62.1,True,True,False
-2022,house,Minnesota,MN,6,Jeanne Hendricks,Minnesota Democratic–Farmer–Labor,37.9,False,False,False
+2022,house,Minnesota,MN,6,Jeanne Hendricks,DFL,37.9,False,False,False
 2022,house,Minnesota,MN,7,Michelle Fischbach,Republican,67.0,True,True,False
-2022,house,Minnesota,MN,7,Jill Abahsain,Minnesota Democratic–Farmer–Labor,27.6,False,False,False
+2022,house,Minnesota,MN,7,Jill Abahsain,DFL,27.6,False,False,False
+2022,house,Minnesota,MN,7,Travis Johnson,Legal Marijuana Now,5.4,False,False,False
 2022,house,Minnesota,MN,8,Pete Stauber,Republican,57.2,True,True,False
-2022,house,Minnesota,MN,8,Jennifer Schultz,Minnesota Democratic–Farmer–Labor,42.8,False,False,False
+2022,house,Minnesota,MN,8,Jennifer Schultz,DFL,42.8,False,False,False
 2022,house,Mississippi,MS,1,Trent Kelly,Republican,73.0,True,True,False
 2022,house,Mississippi,MS,1,Dianne Black,Democratic,27.0,False,False,False
 2022,house,Mississippi,MS,2,Bennie Thompson,Democratic,60.1,True,True,False
@@ -529,12 +541,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Nebraska,NE,2,Tony Vargas,Democratic,48.5,False,False,False
 2022,house,Nebraska,NE,3,Adrian Smith,Republican,78.3,True,True,False
 2022,house,Nebraska,NE,3,David Else,Democratic,15.8,False,False,False
+2022,house,Nebraska,NE,3,Mark Elworth Jr.,Legal Marijuana Now,5.9,False,False,False
 2022,house,Nevada,NV,1,Dina Titus,Democratic,51.6,True,True,False
 2022,house,Nevada,NV,1,Mark Robertson,Republican,46.0,False,False,False
 2022,house,Nevada,NV,1,Ken Cavanaugh,Libertarian,2.5,False,False,False
 2022,house,Nevada,NV,2,Mark Amodei,Republican,59.7,True,True,False
 2022,house,Nevada,NV,2,Elizabeth Krause,Democratic,37.8,False,False,False
-2022,house,Nevada,NV,2,Independent American,Independent American,1.4,False,False,False
+2022,house,Nevada,NV,2,Russell Best,Independent American,1.4,False,False,False
 2022,house,Nevada,NV,2,Darryl Baber,Libertarian,1.1,False,False,False
 2022,house,Nevada,NV,3,Susie Lee,Democratic,52.0,True,True,False
 2022,house,Nevada,NV,3,April Becker,Republican,48.0,False,False,False
@@ -593,9 +606,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,New York,NY,8,Hakeem Jeffries,Democratic,71.7,True,True,False
 2022,house,New York,NY,8,Yuri Dashevsky,Republican,28.3,False,False,False
 2022,house,New York,NY,9,Yvette Clarke,Democratic,81.5,True,True,False
-2022,house,New York,NY,9,Conservative,Conservative,18.5,False,False,False
+2022,house,New York,NY,9,Menachem Raitport,Conservative,18.5,False,False,False
 2022,house,New York,NY,10,Dan Goldman,Democratic,84.0,True,False,False
 2022,house,New York,NY,10,Benine Hamdan,Republican,15.2,False,False,False
+2022,house,New York,NY,10,Steve Speer,Independent,0.8,False,False,False
 2022,house,New York,NY,11,Nicole Malliotakis,Republican,61.8,True,True,False
 2022,house,New York,NY,11,Max Rose,Democratic,38.2,False,False,False
 2022,house,New York,NY,12,Jerry Nadler,Democratic,81.8,True,False,False
@@ -604,6 +618,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,New York,NY,13,Adriano Espaillat,Democratic,100.0,True,True,False
 2022,house,New York,NY,14,Alexandria Ocasio-Cortez,Democratic,70.7,True,True,False
 2022,house,New York,NY,14,Tina Forte,Republican,27.4,False,False,False
+2022,house,New York,NY,14,Desi Cuellar,Conservative,1.9,False,False,False
 2022,house,New York,NY,15,Ritchie Torres,Democratic,82.8,True,True,False
 2022,house,New York,NY,15,Stylo Sapaskis,Republican,17.2,False,False,False
 2022,house,New York,NY,16,Jamaal Bowman,Democratic,64.3,True,True,False
@@ -709,18 +724,20 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Oregon,OR,2,Joe Yetter,Democratic,32.4,False,False,False
 2022,house,Oregon,OR,3,Earl Blumenauer,Democratic,70.0,True,True,False
 2022,house,Oregon,OR,3,Joanna Harbour,Republican,26.3,False,False,False
-2022,house,Oregon,OR,3,Pacific Green,Pacific Green,3.6,False,False,False
+2022,house,Oregon,OR,3,David Delk,Pacific Green,3.6,False,False,False
 2022,house,Oregon,OR,4,Val Hoyle,Democratic,50.6,True,False,True
 2022,house,Oregon,OR,4,Alek Skarlatos,Republican,43.1,False,False,True
 2022,house,Oregon,OR,5,Lori Chavez-DeRemer,Republican,50.9,True,False,False
 2022,house,Oregon,OR,5,Jamie McLeod-Skinner,Democratic,48.8,False,False,False
 2022,house,Oregon,OR,6,Andrea Salinas,Democratic,50.0,True,False,True
 2022,house,Oregon,OR,6,Mike Erickson,Republican,47.5,False,False,True
+2022,house,Oregon,OR,6,Larry McFarland,Constitution,2.3,False,False,True
 2022,house,Pennsylvania,PA,1,Brian Fitzpatrick,Republican,54.9,True,True,False
 2022,house,Pennsylvania,PA,1,Ashley Ehasz,Democratic,45.1,False,False,False
 2022,house,Pennsylvania,PA,2,Brendan Boyle,Democratic,75.7,True,True,False
 2022,house,Pennsylvania,PA,2,Aaron Bashir,Republican,24.3,False,False,False
 2022,house,Pennsylvania,PA,3,Dwight Evans,Democratic,95.1,True,True,False
+2022,house,Pennsylvania,PA,3,Christopher Hoeppner,Socialist Workers,4.9,False,False,False
 2022,house,Pennsylvania,PA,4,Madeleine Dean,Democratic,61.3,True,True,False
 2022,house,Pennsylvania,PA,4,Christian Nascimento,Republican,38.7,False,False,False
 2022,house,Pennsylvania,PA,5,Mary Gay Scanlon,Democratic,65.1,True,True,False
@@ -751,10 +768,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Rhode Island,RI,1,Allen Waters,Republican,35.8,False,False,False
 2022,house,Rhode Island,RI,2,Seth Magaziner,Democratic,50.5,True,False,True
 2022,house,Rhode Island,RI,2,Allan Fung,Republican,46.8,False,False,True
-2022,house,Rhode Island,RI,2,Moderate,Moderate Party of Rhode Island,2.7,False,False,True
+2022,house,Rhode Island,RI,2,William Gilbert,Moderate Party of Rhode Island,2.7,False,False,True
 2022,house,South Carolina,SC,1,Nancy Mace,Republican,56.5,True,True,False
 2022,house,South Carolina,SC,1,Annie Andrews,Democratic,42.5,False,False,False
-2022,house,South Carolina,SC,1,Alliance,Alliance,1.0,False,False,False
+2022,house,South Carolina,SC,1,Joseph Oddo,Alliance,1.0,False,False,False
 2022,house,South Carolina,SC,2,Joe Wilson,Republican,60.1,True,True,False
 2022,house,South Carolina,SC,2,Judd Larkins,Democratic,39.9,False,False,False
 2022,house,South Carolina,SC,3,Jeff Duncan,Republican,100.0,True,True,False
@@ -782,6 +799,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Tennessee,TN,6,Randal Cooper,Democratic,33.7,False,False,False
 2022,house,Tennessee,TN,7,Mark Green,Republican,60.0,True,True,False
 2022,house,Tennessee,TN,7,Odessa Kelly,Democratic,38.1,False,False,False
+2022,house,Tennessee,TN,7,Steven Hooper,Independent,1.9,False,False,False
 2022,house,Tennessee,TN,8,David Kustoff,Republican,74.0,True,True,False
 2022,house,Tennessee,TN,8,Lynnette Williams,Democratic,24.3,False,False,False
 2022,house,Tennessee,TN,9,Steve Cohen,Democratic,70.0,True,True,False
@@ -876,12 +894,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Utah,UT,1,Rick Jones,Democratic,33.0,False,False,False
 2022,house,Utah,UT,2,Chris Stewart,Republican,59.7,True,True,False
 2022,house,Utah,UT,2,Nick Mitchell,Democratic,34.0,False,False,False
-2022,house,Utah,UT,2,United Utah,United Utah,3.3,False,False,False
+2022,house,Utah,UT,2,Jay McFarland,United Utah,3.3,False,False,False
+2022,house,Utah,UT,2,Cassie Easley,Constitution,3.0,False,False,False
 2022,house,Utah,UT,3,John Curtis,Republican,64.4,True,True,False
 2022,house,Utah,UT,3,Glenn Wright,Democratic,29.5,False,False,False
 2022,house,Utah,UT,3,Michael Stoddard,Libertarian,2.9,False,False,False
+2022,house,Utah,UT,3,Daniel Cummings,Constitution,1.7,False,False,False
+2022,house,Utah,UT,3,Aaron Heineman,Independent American,1.4,False,False,False
 2022,house,Utah,UT,4,Burgess Owens,Republican,61.1,True,True,False
 2022,house,Utah,UT,4,Darlene McDonald,Democratic,32.4,False,False,False
+2022,house,Utah,UT,4,January Walker,United Utah,6.6,False,False,False
 2022,house,Vermont,VT,AL,Becca Balint,Democratic,62.8,True,False,True
 2022,house,Vermont,VT,AL,Liam Madden,Republican,27.9,False,False,True
 2022,house,Virginia,VA,1,Rob Wittman,Republican,56.0,True,True,False
@@ -935,6 +957,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,West Virginia,WV,2,Barry Lee Wendell,Democratic,34.4,False,False,False
 2022,house,Wisconsin,WI,1,Bryan Steil,Republican,54.1,True,True,False
 2022,house,Wisconsin,WI,1,Ann Roe,Democratic,45.2,False,False,False
+2022,house,Wisconsin,WI,1,Charles Barman,Independent,0.7,False,False,False
 2022,house,Wisconsin,WI,2,Mark Pocan,Democratic,71.0,True,True,False
 2022,house,Wisconsin,WI,2,Erik Olsen,Republican,26.9,False,False,False
 2022,house,Wisconsin,WI,2,Douglas Alexander,Independent,2.0,False,False,False
@@ -954,9 +977,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2022,house,Wyoming,WY,AL,Harriet Hageman,Republican,69.8,True,False,False
 2022,house,Wyoming,WY,AL,Lynnette Grey Bull,Democratic,24.9,False,False,False
 2022,house,Wyoming,WY,AL,Richard Brubaker,Libertarian,2.9,False,False,False
+2022,house,Wyoming,WY,AL,Marissa Selvig,Constitution,2.4,False,False,False
 2022,house,American Samoa,AS,AL,Amata Coleman Radewagen,Republican,100.0,True,True,False
 2022,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,87.2,True,True,False
 2022,house,District of Columbia,DC,AL,Nelson Rimensnyder,Republican,5.9,False,False,False
+2022,house,District of Columbia,DC,AL,Natale Stracuzzi,D.C. Statehood Green,4.9,False,False,False
 2022,house,District of Columbia,DC,AL,Bruce Majors,Libertarian,2.0,False,False,False
 2022,house,Guam,GU,AL,James Moylan,Republican,52.2,True,False,True
 2022,house,Guam,GU,AL,Judith Won Pat,Democratic,47.2,False,False,True

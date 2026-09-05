@@ -51,19 +51,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,California,CA,1,Mike Thompson,Democratic,66.3,True,False,False
 2006,house,California,CA,1,John Jones,Republican,29.0,False,False,False
 2006,house,California,CA,1,Pamela Elizondo,Green,3.1,False,False,False
-2006,house,California,CA,1,Peace and Freedom,Peace and Freedom,1.6,False,False,False
+2006,house,California,CA,1,Tim Stock,Peace and Freedom,1.6,False,False,False
 2006,house,California,CA,2,Wally Herger,Republican,64.2,True,True,False
 2006,house,California,CA,2,Arjinderpal Sekhon,Democratic,32.5,False,False,False
 2006,house,California,CA,2,E. Kent Hinesley,Libertarian,3.3,False,False,False
 2006,house,California,CA,3,Dan Lungren,Republican,59.5,True,True,True
 2006,house,California,CA,3,Bill Durston,Democratic,37.9,False,False,True
 2006,house,California,CA,3,Douglas Arthur Tuma,Libertarian,1.6,False,False,True
+2006,house,California,CA,3,Mike Roskey,Peace and Freedom,1.0,False,False,True
 2006,house,California,CA,4,John Doolittle,Republican,49.9,True,True,False
 2006,house,California,CA,4,Charles Brown,Democratic,45.4,False,False,False
 2006,house,California,CA,4,Dan Warren,Libertarian,5.0,False,False,False
 2006,house,California,CA,5,Doris Matsui,Democratic,70.8,True,True,False
 2006,house,California,CA,5,X. Claire Yan,Republican,23.6,False,False,False
 2006,house,California,CA,5,Jeff Kravitz,Green,4.3,False,False,False
+2006,house,California,CA,5,John C. Reiger,Peace and Freedom,1.3,False,False,False
 2006,house,California,CA,6,Lynn Woolsey,Democratic,70.3,True,True,False
 2006,house,California,CA,6,Todd Hopper,Republican,26.1,False,False,False
 2006,house,California,CA,6,Rich Friesen,Libertarian,3.6,False,False,False
@@ -114,7 +116,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,California,CA,26,David Dreier,Republican,57.0,True,True,False
 2006,house,California,CA,26,Cynthia Matthews,Democratic,37.9,False,False,False
 2006,house,California,CA,26,Ted Brown,Libertarian,3.3,False,False,False
-2006,house,California,CA,26,American Independent,American Independent,1.8,False,False,False
+2006,house,California,CA,26,Elliott Graham,American Independent,1.8,False,False,False
 2006,house,California,CA,27,Brad Sherman,Democratic,68.8,True,True,False
 2006,house,California,CA,27,Peter Hankwitz,Republican,31.2,False,False,False
 2006,house,California,CA,28,Howard Berman,Democratic,74.0,True,True,False
@@ -124,9 +126,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,California,CA,29,Adam Schiff,Democratic,63.5,True,True,False
 2006,house,California,CA,29,Bill Bodell,Republican,27.5,False,False,False
 2006,house,California,CA,29,Bill Paparian,Green,5.7,False,False,False
+2006,house,California,CA,29,Lydia Llamas,Peace and Freedom,1.8,False,False,False
 2006,house,California,CA,29,Jim Keller,Libertarian,1.5,False,False,False
 2006,house,California,CA,30,Henry Waxman,Democratic,71.5,True,True,False
 2006,house,California,CA,30,David Jones,Republican,26.4,False,False,False
+2006,house,California,CA,30,Adele Cannon,Peace and Freedom,2.1,False,False,False
 2006,house,California,CA,31,Xavier Becerra,Democratic,100.0,True,True,False
 2006,house,California,CA,32,Hilda Solis,Democratic,83.0,True,True,False
 2006,house,California,CA,32,Leland Faegre,Libertarian,17.0,False,False,False
@@ -134,9 +138,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,California,CA,34,Lucille Roybal-Allard,Democratic,76.8,True,True,False
 2006,house,California,CA,34,Wayne Miller,Republican,23.2,False,False,False
 2006,house,California,CA,35,Maxine Waters,Democratic,83.8,True,True,False
+2006,house,California,CA,35,Gordon Michael Mego,American Independent,8.5,False,False,False
 2006,house,California,CA,35,Paul Ireland,Libertarian,7.7,False,False,False
 2006,house,California,CA,36,Jane Harman,Democratic,63.4,True,True,True
 2006,house,California,CA,36,Brian Gibson,Republican,32.0,False,False,True
+2006,house,California,CA,36,Jim Smith,Peace and Freedom,2.7,False,False,True
 2006,house,California,CA,36,Michael J. Binkley,Libertarian,1.9,False,False,True
 2006,house,California,CA,37,Juanita Millender-McDonald,Democratic,82.4,True,True,False
 2006,house,California,CA,37,Herb Peters,Libertarian,17.6,False,False,False
@@ -154,6 +160,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,California,CA,43,Scott Folkens,Republican,35.5,False,False,False
 2006,house,California,CA,44,Ken Calvert,Republican,60.0,True,True,False
 2006,house,California,CA,44,Louis Vandenberg,Democratic,37.1,False,False,False
+2006,house,California,CA,44,Kevin Akin,Peace and Freedom,2.9,False,False,False
 2006,house,California,CA,45,Mary Bono,Republican,60.7,True,True,False
 2006,house,California,CA,45,David Roth,Democratic,39.3,False,False,False
 2006,house,California,CA,46,Dana Rohrabacher,Republican,59.6,True,True,False
@@ -170,6 +177,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,California,CA,50,Brian Bilbray,Republican,53.2,True,True,False
 2006,house,California,CA,50,Francine Busby,Democratic,43.5,False,False,False
 2006,house,California,CA,50,Paul King,Libertarian,1.8,False,False,False
+2006,house,California,CA,50,Miriam E. Clark,Peace and Freedom,1.5,False,False,False
 2006,house,California,CA,51,Bob Filner,Democratic,67.5,True,True,False
 2006,house,California,CA,51,Blake Miles,Republican,30.1,False,False,False
 2006,house,California,CA,51,Dan Litwin,Libertarian,2.4,False,False,False
@@ -190,7 +198,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Colorado,CO,3,Bob Sargent,Libertarian,1.9,False,False,False
 2006,house,Colorado,CO,4,Marilyn Musgrave,Republican,45.6,True,True,False
 2006,house,Colorado,CO,4,Angie Paccione,Democratic,43.1,False,False,False
-2006,house,Colorado,CO,4,Reform,Reform,11.3,False,False,False
+2006,house,Colorado,CO,4,Eric Eidsness,Reform,11.3,False,False,False
 2006,house,Colorado,CO,5,Doug Lamborn,Republican,59.6,True,False,True
 2006,house,Colorado,CO,5,Jay Fawcett,Democratic,40.4,False,False,True
 2006,house,Colorado,CO,6,Tom Tancredo,Republican,58.6,True,True,False
@@ -199,6 +207,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Colorado,CO,7,Ed Perlmutter,Democratic,54.9,True,False,True
 2006,house,Colorado,CO,7,Rick O'Donnell,Republican,42.1,False,False,True
 2006,house,Colorado,CO,7,Dave Chandler,Green,1.6,False,False,True
+2006,house,Colorado,CO,7,Roger McCarville,Constitution,1.4,False,False,True
 2006,house,Connecticut,CT,1,John B. Larson,Democratic,74.5,True,True,False
 2006,house,Connecticut,CT,1,Scott MacLean,Republican,25.5,False,False,False
 2006,house,Connecticut,CT,2,Joe Courtney,Democratic,50.02,True,False,False
@@ -295,9 +304,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Idaho,ID,1,Bill Sali,Republican,49.9,True,False,True
 2006,house,Idaho,ID,1,Larry Grant,Democratic,44.8,False,False,True
 2006,house,Idaho,ID,1,Dave Olson,Independent,3.0,False,False,True
+2006,house,Idaho,ID,1,Andy Hedden-Nicely,Natural Law,1.2,False,False,True
+2006,house,Idaho,ID,1,Paul Smith,Constitution,1.1,False,False,True
 2006,house,Idaho,ID,2,Mike Simpson,Republican,62.0,True,True,False
 2006,house,Idaho,ID,2,Jim Hansen,Democratic,34.4,False,False,False
 2006,house,Idaho,ID,2,Cameron Firth,Independent,2.4,False,False,False
+2006,house,Idaho,ID,2,Travis Hedrick,Constitution,1.2,False,False,False
 2006,house,Illinois,IL,1,Bobby Rush,Democratic,84.1,True,True,False
 2006,house,Illinois,IL,1,Jason Tabour,Republican,15.9,False,False,False
 2006,house,Illinois,IL,2,Jesse Jackson Jr.,Democratic,84.8,True,True,False
@@ -331,6 +343,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Illinois,IL,15,David Gill,Democratic,42.4,False,False,False
 2006,house,Illinois,IL,16,Don Manzullo,Republican,63.6,True,True,False
 2006,house,Illinois,IL,16,Richard Auman,Democratic,32.1,False,False,False
+2006,house,Illinois,IL,16,John L. Borling,Write-in,4.3,False,False,False
 2006,house,Illinois,IL,17,Phil Hare,Democratic,57.2,True,False,True
 2006,house,Illinois,IL,17,Andrea Lane Zinga,Republican,42.8,False,False,True
 2006,house,Illinois,IL,18,Ray LaHood,Republican,67.3,True,True,False
@@ -360,11 +373,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Indiana,IN,9,Eric Schansberg,Libertarian,4.5,False,False,False
 2006,house,Iowa,IA,1,Bruce Braley,Democratic,55.0,True,False,True
 2006,house,Iowa,IA,1,Mike Whalen,Republican,43.3,False,False,True
+2006,house,Iowa,IA,1,James Hill,Pirate,1.1,False,False,True
 2006,house,Iowa,IA,1,Al Schoeman,Libertarian,0.6,False,False,True
 2006,house,Iowa,IA,2,Dave Loebsack,Democratic,51.4,True,False,False
 2006,house,Iowa,IA,2,Jim Leach,Republican,48.6,False,True,False
 2006,house,Iowa,IA,3,Leonard Boswell,Democratic,51.8,True,True,False
 2006,house,Iowa,IA,3,Jeff Lamberti,Republican,46.7,False,False,False
+2006,house,Iowa,IA,3,Helen Meyers,Socialist Workers,1.5,False,False,False
 2006,house,Iowa,IA,4,Tom Latham,Republican,57.4,True,False,False
 2006,house,Iowa,IA,4,Selden Spencer,Democratic,42.6,False,False,False
 2006,house,Iowa,IA,5,Steve King,Republican,58.4,True,True,False
@@ -373,12 +388,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Iowa,IA,5,Cheryl Broderson,Independent,1.4,False,False,False
 2006,house,Kansas,KS,1,Jerry Moran,Republican,78.7,True,True,False
 2006,house,Kansas,KS,1,John Doll,Democratic,19.9,False,False,False
+2006,house,Kansas,KS,1,Sylvester Cain,Reform,1.4,False,False,False
 2006,house,Kansas,KS,2,Nancy Boyda,Democratic,50.6,True,False,False
 2006,house,Kansas,KS,2,Jim Ryun,Republican,47.1,False,True,False
+2006,house,Kansas,KS,2,Roger Tucker,Reform,2.3,False,False,False
 2006,house,Kansas,KS,3,Dennis Moore,Democratic,64.5,True,False,False
 2006,house,Kansas,KS,3,Chuck Ahner,Republican,33.8,False,False,False
+2006,house,Kansas,KS,3,Bob Conroy,Reform,1.7,False,False,False
 2006,house,Kansas,KS,4,Todd Tiahrt,Republican,63.7,True,True,False
 2006,house,Kansas,KS,4,Garth McGinn,Democratic,33.8,False,False,False
+2006,house,Kansas,KS,4,Joy Holt,Reform,2.5,False,False,False
 2006,house,Kentucky,KY,1,Ed Whitfield,Republican,59.6,True,True,False
 2006,house,Kentucky,KY,1,Tom Barlow,Democratic,40.4,False,False,False
 2006,house,Kentucky,KY,2,Ron Lewis,Republican,55.4,True,True,False
@@ -460,6 +479,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Massachusetts,MA,6,Rick Barton,Republican,29.3,False,False,False
 2006,house,Massachusetts,MA,7,Ed Markey,Democratic,100.0,True,True,False
 2006,house,Massachusetts,MA,8,Mike Capuano,Democratic,91.0,True,True,False
+2006,house,Massachusetts,MA,8,Laura Garza,Socialist Workers,9.0,False,False,False
 2006,house,Massachusetts,MA,9,Stephen F. Lynch,Democratic,78.2,True,True,False
 2006,house,Massachusetts,MA,9,Jack Robinson,Republican,21.8,False,False,False
 2006,house,Massachusetts,MA,10,Bill Delahunt,Democratic,64.3,True,True,False
@@ -469,6 +489,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Michigan,MI,1,Don Hooper,Republican,28.0,False,False,False
 2006,house,Michigan,MI,2,Pete Hoekstra,Republican,66.4,True,True,False
 2006,house,Michigan,MI,2,Kimon Kotos,Democratic,31.6,False,False,False
+2006,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,1.0,False,False,False
 2006,house,Michigan,MI,2,Steven Van Til,Libertarian,1.0,False,False,False
 2006,house,Michigan,MI,3,Vern Ehlers,Republican,63.1,True,True,False
 2006,house,Michigan,MI,3,Jim Rinck,Democratic,34.6,False,False,False
@@ -486,6 +507,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Michigan,MI,7,Tim Walberg,Republican,49.9,True,False,False
 2006,house,Michigan,MI,7,Sharon Renier,Democratic,46.0,False,False,False
 2006,house,Michigan,MI,7,Robert Hutchinson,Libertarian,1.5,False,False,False
+2006,house,Michigan,MI,7,David Horn,US Taxpayers,1.5,False,False,False
 2006,house,Michigan,MI,7,Joe Schwarz,Write-in,1.1,False,True,False
 2006,house,Michigan,MI,8,Mike Rogers,Republican,55.3,True,False,False
 2006,house,Michigan,MI,8,Jim Marcinkowski,Democratic,42.9,False,False,False
@@ -499,12 +521,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Michigan,MI,10,Robert Denison,Democratic,31.3,False,False,False
 2006,house,Michigan,MI,10,Mark Byrne,Libertarian,1.1,False,False,False
 2006,house,Michigan,MI,10,Candace Caveny,Green,0.7,False,False,False
+2006,house,Michigan,MI,10,Richard Gualdoni,US Taxpayers,0.7,False,False,False
 2006,house,Michigan,MI,11,Thad McCotter,Republican,54.1,True,True,False
 2006,house,Michigan,MI,11,Tony Trupiano,Democratic,43.0,False,False,False
 2006,house,Michigan,MI,11,John Tatar,Libertarian,1.6,False,False,False
+2006,house,Michigan,MI,11,Charles Tackett,US Taxpayers,1.3,False,False,False
 2006,house,Michigan,MI,12,Sander Levin,Democratic,70.2,True,True,False
 2006,house,Michigan,MI,12,Randell J. Shafer,Republican,26.1,False,False,False
 2006,house,Michigan,MI,12,Andy Lecureaux,Libertarian,1.3,False,False,False
+2006,house,Michigan,MI,12,Les Townsend,US Taxpayers,0.9,False,False,False
 2006,house,Michigan,MI,12,Jerome S. White,Independent,0.8,False,False,False
 2006,house,Michigan,MI,12,Art Mayatt,Green,0.7,False,False,False
 2006,house,Michigan,MI,13,Carolyn Cheeks Kilpatrick,Democratic,100.0,True,True,False
@@ -513,30 +538,36 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Michigan,MI,15,John Dingell,Democratic,87.9,True,True,False
 2006,house,Michigan,MI,15,Aimee Smith,Green,4.6,False,False,False
 2006,house,Michigan,MI,15,Gregory Stempfle,Libertarian,4.1,False,False,False
+2006,house,Michigan,MI,15,Robert Czak,US Taxpayers,3.4,False,False,False
 2006,house,Minnesota,MN,1,Tim Walz,DFL,52.7,True,False,False
 2006,house,Minnesota,MN,1,Gil Gutknecht,Republican,47.1,False,True,False
 2006,house,Minnesota,MN,2,John Kline,Republican,56.2,True,False,False
 2006,house,Minnesota,MN,2,Coleen Rowley,DFL,40.0,False,False,False
-2006,house,Minnesota,MN,2,Independence,Independence Party (Minnesota),3.7,False,False,False
+2006,house,Minnesota,MN,2,Douglas Williams,Independence Party (Minnesota),3.7,False,False,False
 2006,house,Minnesota,MN,3,Jim Ramstad,Republican,64.9,True,True,False
 2006,house,Minnesota,MN,3,Wendy Wilde,DFL,35.0,False,False,False
 2006,house,Minnesota,MN,4,Betty McCollum,DFL,69.5,True,False,False
 2006,house,Minnesota,MN,4,Obi Sium,Republican,30.2,False,False,False
 2006,house,Minnesota,MN,5,Keith Ellison,DFL,55.6,True,False,True
 2006,house,Minnesota,MN,5,Alan Fine,Republican,21.3,False,False,True
+2006,house,Minnesota,MN,5,Tammy Lee,Independence Party (Minnesota),21.0,False,False,True
 2006,house,Minnesota,MN,5,Jay Pond,Green,2.0,False,False,True
 2006,house,Minnesota,MN,6,Michele Bachmann,Republican,50.1,True,False,True
 2006,house,Minnesota,MN,6,Patty Wetterling,DFL,42.1,False,False,True
+2006,house,Minnesota,MN,6,John Binkowski,Independence Party (Minnesota),7.8,False,False,True
 2006,house,Minnesota,MN,7,Collin Peterson,DFL,69.7,True,False,False
 2006,house,Minnesota,MN,7,Mike Barrett,Republican,29.0,False,False,False
+2006,house,Minnesota,MN,7,Ken Lucier,Constitution,1.3,False,False,False
 2006,house,Minnesota,MN,8,Jim Oberstar,DFL,63.6,True,False,False
 2006,house,Minnesota,MN,8,Rod Grams,Republican,34.4,False,False,False
+2006,house,Minnesota,MN,8,Harry Welty,Unity Party of America,1.9,False,False,False
 2006,house,Mississippi,MS,1,Roger Wicker,Republican,65.9,True,True,False
 2006,house,Mississippi,MS,1,Ken Hurt,Democratic,34.1,False,False,False
 2006,house,Mississippi,MS,2,Bennie Thompson,Democratic,64.3,True,True,False
 2006,house,Mississippi,MS,2,Yvonne Brown,Republican,35.7,False,False,False
 2006,house,Mississippi,MS,3,Chip Pickering,Republican,77.7,True,True,False
 2006,house,Mississippi,MS,3,Jim Giles,Independent,16.1,False,False,False
+2006,house,Mississippi,MS,3,Lamonica Magee,Reform,6.2,False,False,False
 2006,house,Mississippi,MS,4,Gene Taylor,Democratic,79.8,True,False,False
 2006,house,Mississippi,MS,4,Randy McDonnell,Republican,20.2,False,False,False
 2006,house,Missouri,MO,1,Lacy Clay,Democratic,72.9,True,True,False
@@ -548,15 +579,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Missouri,MO,3,Russ Carnahan,Democratic,65.6,True,True,False
 2006,house,Missouri,MO,3,David Bertelsen,Republican,31.7,False,False,False
 2006,house,Missouri,MO,3,Rob Christophel,Libertarian,1.9,False,False,False
+2006,house,Missouri,MO,3,David Sladky,Progressive,0.8,False,False,False
 2006,house,Missouri,MO,4,Ike Skelton,Democratic,67.6,True,True,False
 2006,house,Missouri,MO,4,Jim Noland,Republican,29.4,False,False,False
 2006,house,Missouri,MO,4,Bryce Holthouse,Libertarian,1.9,False,False,False
+2006,house,Missouri,MO,4,Mel Ivey,Progressive,1.0,False,False,False
 2006,house,Missouri,MO,5,Emanuel Cleaver,Democratic,64.2,True,True,False
 2006,house,Missouri,MO,5,Jacob Turk,Republican,32.3,False,False,False
 2006,house,Missouri,MO,5,Randy Langkraehr,Libertarian,3.5,False,False,False
 2006,house,Missouri,MO,6,Sam Graves,Republican,61.6,True,True,False
 2006,house,Missouri,MO,6,Sara Jo Shettles,Democratic,35.7,False,False,False
 2006,house,Missouri,MO,6,Erik Buck,Libertarian,1.9,False,False,False
+2006,house,Missouri,MO,6,Shirley Yurkonis,Progressive,0.7,False,False,False
 2006,house,Missouri,MO,7,Roy Blunt,Republican,66.7,True,True,False
 2006,house,Missouri,MO,7,Jack Truman,Democratic,30.1,False,False,False
 2006,house,Missouri,MO,7,Kevin Craig,Libertarian,3.1,False,False,False
@@ -566,6 +600,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Missouri,MO,9,Kenny Hulshof,Republican,61.4,True,True,False
 2006,house,Missouri,MO,9,Duane Burghard,Democratic,35.9,False,False,False
 2006,house,Missouri,MO,9,Steven Hedrick,Libertarian,1.6,False,False,False
+2006,house,Missouri,MO,9,Bill Hastings,Progressive,1.0,False,False,False
 2006,house,Montana,MT,AL,Denny Rehberg,Republican,59.0,True,True,False
 2006,house,Montana,MT,AL,Monica Lindeen,Democratic,39.1,False,False,False
 2006,house,Montana,MT,AL,Mike Fellows,Libertarian,1.9,False,False,False
@@ -578,11 +613,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Nevada,NV,1,Shelley Berkley,Democratic,64.8,True,True,False
 2006,house,Nevada,NV,1,Kenneth Wegner,Republican,31.2,False,False,False
 2006,house,Nevada,NV,1,Jim Duensing,Libertarian,2.2,False,False,False
+2006,house,Nevada,NV,1,Darnell Roberts,Independent American,1.8,False,False,False
 2006,house,Nevada,NV,2,Dean Heller,Republican,50.4,True,False,True
 2006,house,Nevada,NV,2,Jill Derby,Democratic,44.9,False,False,True
 2006,house,Nevada,NV,2,Daniel Rosen,Independent,2.4,False,False,True
+2006,house,Nevada,NV,2,James Kroshus,Independent American,2.3,False,False,True
 2006,house,Nevada,NV,3,Jon Porter,Republican,48.5,True,True,False
 2006,house,Nevada,NV,3,Tessa Hafen,Democratic,46.6,False,False,False
+2006,house,Nevada,NV,3,Joshua Hansen,Independent American,2.5,False,False,False
 2006,house,Nevada,NV,3,Joseph Silvestri,Libertarian,2.4,False,False,False
 2006,house,New Hampshire,NH,1,Carol Shea-Porter,Democratic,51.3,True,False,False
 2006,house,New Hampshire,NH,1,Jeb Bradley,Republican,48.7,False,True,False
@@ -595,7 +633,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,New Jersey,NJ,2,Robert Mullock,Independent,1.7,False,False,False
 2006,house,New Jersey,NJ,2,Lynn Merle,Independent,0.5,False,False,False
 2006,house,New Jersey,NJ,2,Thomas Fanslau,Independent,0.3,False,False,False
-2006,house,New Jersey,NJ,2,Socialist,Socialist Party of America,0.2,False,False,False
+2006,house,New Jersey,NJ,2,Willie Norwood,Socialist Party of America,0.2,False,False,False
 2006,house,New Jersey,NJ,3,Jim Saxton,Republican,58.4,True,True,False
 2006,house,New Jersey,NJ,3,Rich Sexton,Democratic,41.0,False,False,False
 2006,house,New Jersey,NJ,3,Ken Feduniewicz,Independent,0.6,False,False,False
@@ -626,6 +664,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,New Jersey,NJ,12,Joseph Sinagra,Republican,34.3,False,False,False
 2006,house,New Jersey,NJ,13,Albio Sires,Democratic,77.5,True,False,True
 2006,house,New Jersey,NJ,13,John Guarini,Republican,19.4,False,False,True
+2006,house,New Jersey,NJ,13,Brian Williams,Socialist Workers,1.0,False,False,True
 2006,house,New Jersey,NJ,13,Herbert Shaw,Independent,1.0,False,False,True
 2006,house,New Jersey,NJ,13,Dick Hester,Independent,0.6,False,False,True
 2006,house,New Jersey,NJ,13,Esmat Zaklama,Independent,0.5,False,False,True
@@ -649,11 +688,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,New York,NY,7,Kevin Brawley,Republican,16.0,False,False,False
 2006,house,New York,NY,8,Jerrold Nadler,Democratic,85.0,True,True,False
 2006,house,New York,NY,8,Eleanor Friedman,Republican,13.6,False,False,False
+2006,house,New York,NY,8,Dennis Adornato,Conservative Party (New York),1.4,False,False,False
 2006,house,New York,NY,9,Anthony Weiner,Democratic,100.0,True,True,False
 2006,house,New York,NY,10,Edolphus Towns,Democratic,92.2,True,True,False
 2006,house,New York,NY,10,Jonathan Anderson,Republican,5.9,False,False,False
+2006,house,New York,NY,10,Ernest Johnson,Conservative Party (New York),1.9,False,False,False
 2006,house,New York,NY,11,Yvette Clarke,Democratic,90.0,True,False,True
 2006,house,New York,NY,11,Stephen Finger,Republican,7.6,False,False,True
+2006,house,New York,NY,11,Mariana Blume,Conservative Party (New York),1.4,False,False,True
+2006,house,New York,NY,11,Ollie McClean,Freedom,1.0,False,False,True
 2006,house,New York,NY,12,Nydia Velázquez,Democratic,89.7,True,True,False
 2006,house,New York,NY,12,Allan Romaguera,Republican,10.3,False,False,False
 2006,house,New York,NY,13,Vito Fossella,Republican,56.8,True,True,False
@@ -769,20 +812,26 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Oregon,OR,1,David Wu,Democratic,62.8,True,True,False
 2006,house,Oregon,OR,1,Derrick Kitts,Republican,33.7,False,False,False
 2006,house,Oregon,OR,1,Drake Davis,Libertarian,1.7,False,False,False
+2006,house,Oregon,OR,1,Dean Wolf,Constitution,1.6,False,False,False
 2006,house,Oregon,OR,2,Greg Walden,Republican,66.8,True,True,False
 2006,house,Oregon,OR,2,Carol Voisin,Democratic,30.4,False,False,False
+2006,house,Oregon,OR,2,Jack Brown,Constitution,2.6,False,False,False
 2006,house,Oregon,OR,3,Earl Blumenauer,Democratic,73.5,True,True,False
 2006,house,Oregon,OR,3,Bruce Broussard,Republican,23.5,False,False,False
+2006,house,Oregon,OR,3,David Brownlow,Constitution,2.8,False,False,False
 2006,house,Oregon,OR,4,Peter DeFazio,Democratic,62.3,True,True,False
 2006,house,Oregon,OR,4,Jim Feldkamp,Republican,37.6,False,False,False
 2006,house,Oregon,OR,5,Darlene Hooley,Democratic,54.0,True,True,False
 2006,house,Oregon,OR,5,Mike Erickson,Republican,42.8,False,False,False
+2006,house,Oregon,OR,5,Paul Aranas,Pacific Green,1.5,False,False,False
+2006,house,Oregon,OR,5,Doug Patterson,Constitution,1.5,False,False,False
 2006,house,Pennsylvania,PA,1,Bob Brady,Democratic,100.0,True,True,False
 2006,house,Pennsylvania,PA,2,Chaka Fattah,Democratic,88.6,True,True,False
 2006,house,Pennsylvania,PA,2,Michael Gessner,Republican,9.2,False,False,False
 2006,house,Pennsylvania,PA,2,Dave Baker,Green,2.2,False,False,False
 2006,house,Pennsylvania,PA,3,Phil English,Republican,53.6,True,True,False
 2006,house,Pennsylvania,PA,3,Steven Porter,Democratic,42.1,False,False,False
+2006,house,Pennsylvania,PA,3,Tim Hagberg,Constitution,4.3,False,False,False
 2006,house,Pennsylvania,PA,4,Jason Altmire,Democratic,51.9,True,False,False
 2006,house,Pennsylvania,PA,4,Melissa Hart,Republican,48.1,False,False,False
 2006,house,Pennsylvania,PA,5,John E. Peterson,Republican,60.1,True,True,False
@@ -957,6 +1006,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Texas,TX,27,Robert Powell,Libertarian,4.3,False,False,False
 2006,house,Texas,TX,28,Henry Cuellar,Democratic,67.6,True,True,False
 2006,house,Texas,TX,28,Frank Enriquez,Democratic,20.3,False,False,False
+2006,house,Texas,TX,28,Ron Avery,Constitution,12.1,False,False,False
 2006,house,Texas,TX,29,Gene Green,Democratic,73.5,True,True,False
 2006,house,Texas,TX,29,Eric Story,Republican,24.4,False,False,False
 2006,house,Texas,TX,29,Clifford Lee Messina,Libertarian,2.0,False,False,False
@@ -971,13 +1021,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Texas,TX,32,John Hawley,Libertarian,2.3,False,False,False
 2006,house,Utah,UT,1,Rob Bishop,Republican,63.1,True,True,False
 2006,house,Utah,UT,1,Steven Olsen,Democratic,32.4,False,False,False
+2006,house,Utah,UT,1,Mark Hudson,Constitution,3.1,False,False,False
 2006,house,Utah,UT,1,Lynn Badler,Libertarian,1.4,False,False,False
 2006,house,Utah,UT,2,Jim Matheson,Democratic,59.0,True,True,False
 2006,house,Utah,UT,2,LaVar Christensen,Republican,37.3,False,False,False
+2006,house,Utah,UT,2,David Perry,Constitution,1.5,False,False,False
 2006,house,Utah,UT,2,Bob Brister,Green,1.5,False,False,False
 2006,house,Utah,UT,2,Austin Sherwood Lett,Libertarian,0.7,False,False,False
 2006,house,Utah,UT,3,Chris Cannon,Republican,57.7,True,True,False
 2006,house,Utah,UT,3,Christian Burridge,Democratic,32.2,False,False,False
+2006,house,Utah,UT,3,Jim Noorlander,Constitution,8.8,False,False,False
 2006,house,Utah,UT,3,Philip Hallman,Libertarian,1.3,False,False,False
 2006,house,Vermont,VT,AL,Peter Welch,Democratic,53.2,True,False,True
 2006,house,Vermont,VT,AL,Martha Rainville,Republican,44.5,False,False,True
@@ -985,6 +1038,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Vermont,VT,AL,Jerry Trudell,Independent,0.3,False,False,True
 2006,house,Vermont,VT,AL,Bruce Marshall,Green,0.3,False,False,True
 2006,house,Vermont,VT,AL,Keith Stern,Independent,0.3,False,False,True
+2006,house,Vermont,VT,AL,Jane Newton,Liberty Union,0.2,False,False,True
 2006,house,Vermont,VT,AL,Chris Karr,Independent,0.2,False,False,True
 2006,house,Virginia,VA,1,Jo Ann Davis,Republican,63.0,True,True,False
 2006,house,Virginia,VA,1,Shawn O'Donnell,Democratic,35.5,False,False,False
@@ -993,8 +1047,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Virginia,VA,2,Phil Kellam,Democratic,48.5,False,False,False
 2006,house,Virginia,VA,3,Robert C. Scott,Democratic,96.2,True,True,False
 2006,house,Virginia,VA,4,Randy Forbes,Republican,76.1,True,True,False
+2006,house,Virginia,VA,4,Albert Burckard,Independent Greens of Virginia,23.4,False,False,False
 2006,house,Virginia,VA,5,Virgil Goode,Republican,59.1,True,True,False
 2006,house,Virginia,VA,5,Al Weed,Democratic,39.9,False,False,False
+2006,house,Virginia,VA,5,Joseph Oddo,Independent Greens of Virginia,0.9,False,False,False
 2006,house,Virginia,VA,6,Bob Goodlatte,Republican,75.1,True,True,False
 2006,house,Virginia,VA,6,Barbara Jean Pryor,Independent,12.3,False,False,False
 2006,house,Virginia,VA,6,Andre Peery,Independent,12.1,False,False,False
@@ -1010,6 +1066,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2006,house,Virginia,VA,10,Judy Feder,Democratic,41.0,False,False,False
 2006,house,Virginia,VA,11,Thomas M. Davis,Republican,55.5,True,True,False
 2006,house,Virginia,VA,11,Andrew Hurst,Democratic,43.6,False,False,False
+2006,house,Virginia,VA,11,Fernando Greco,Independent Greens of Virginia,0.9,False,False,False
 2006,house,Washington,WA,1,Jay Inslee,Democratic,67.7,True,True,False
 2006,house,Washington,WA,1,Larry Ishmael,Republican,32.3,False,False,False
 2006,house,Washington,WA,2,Rick Larsen,Democratic,64.2,True,True,False
