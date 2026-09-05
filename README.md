@@ -116,25 +116,6 @@ Each pipeline writes per-year CSVs plus a combined `_all` file across the
 requested range, together with a timestamped metadata JSON recording
 coverage and any gaps. All rows carry a `Year` column.
 
-| File (relative to `data/`) | Contents |
-|---|---|
-| `senate/senate_primary_polling_{year}.csv`, `..._all.csv` | Long format, one row per poll × candidate: Year, State, Poll_Source, Date, Sample, MoE, Candidate, Party, Pct, Incumbent |
-| `senate/senate_general_polling_{year}.csv`, `..._all.csv` | Same schema, general-election polls |
-| `senate/senate_primary_results_{year}.csv`, `..._all.csv` | Election-box results (Winning / Candidate / Write-in / Total rows) |
-| `senate/senate_general_results_{year}.csv`, `..._all.csv` | Same schema, general election |
-| `senate/senate_metadata_<ts>.json` | Discovered races per year with per-race counts and errors |
-| `house/house_results_{year}.csv`, `..._all.csv` | One row per candidate: year, state, state_code, district, candidate, party, percentage, winner, incumbent, open_seat |
-| `state_senate/state_senate_results_{year}.csv`, `..._all.csv` | One row per candidate: year, state, state_code, chamber, district, race (general/primary/special), candidate, party, votes, percentage, winner, incumbent |
-| `state_house/state_house_results_{year}.csv`, `..._all.csv` | Same schema for state houses/assemblies |
-| `state_senate/state_leg_metadata_<ts>.json` | Per-chamber coverage report: rows, districts, gaps |
-| `statewide/statewide_results_{year}.csv`, `..._all.csv` | One row per candidate: year, state, state_code, office, candidate, party, percentage, winner, incumbent |
-| `statewide/statewide_metadata_<ts>.json` | Per-office/year coverage plus missing overview articles |
-| `presidential/presidential_results_{year}.csv`, `..._all.csv` | One row per county × candidate: year, state, state_code, county, subdivision_type, candidate, party, votes, percentage, total_votes, winning_party |
-| `presidential/presidential_metadata_<ts>.json` | Per-state coverage plus per-candidate totals cross-check (county sums vs state totals) |
-| `district_lean/district_lean_{year}.csv`, `..._all.csv` | One row per district in force that year: year, map_vintage, state, state_code, district, at_large, counties_whole/_partial, matched_counties, d/r/other/total votes, two-party shares, national share, lean_pct, lean_label, votes_from_partial_pct |
-| `district_lean/district_pvi_summary.csv` | Per district × map vintage: mean two-party margin vs mean national margin over the elections held under that vintage, PVI-style label, `is_current_map` flag |
-| `district_lean/district_lean_metadata_<ts>.json` | Method notes, per-year national baseline, per-state allocation coverage, unmatched counties |
-
 ## Data quality and validation
 
 All pipelines were exercised over their full available year ranges with
