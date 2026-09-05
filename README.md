@@ -130,27 +130,6 @@ outputs compared against official records:
 | presidential | 2004–2024 | Per-candidate county sums match each state's own Totals row in 326 of 349 parsed state-years; deviations are article-level inconsistencies, and the CSV stays faithful to the per-county table |
 | lean | 2004–2024 | National two-party baseline reproduces official shares to within 0.03 pp in every computed year (2016: 51.13% vs 51.11% official; 2020: 52.29% vs 52.27%) |
 
-### House article generations
-
-The House parser handles every layout generation between 1910 and 2024:
-
-| Era | Layout |
-|---|---|
-| 1910–1916 | `{{USCongressElectionTableHead}}` tables with header-cell districts and `{{Party stripe}}` candidate bullets |
-| ~1912–1956 | `{{ushr|State|N|X}}` district codes, `{{Plainlist}}` candidate blocks, "Uncontested" markers |
-| 1946–1992 | state sections without main links, `{{nowrap}}` wrappers, bold-only winner markers |
-| 1970s | pipe-cell district rows, `{{party shortname}}` labels, whole-span bold winners |
-| 2018–2020 | `{{ushr|XX|N|X}}` codes + `{{Plainlist}}` + `{{Sortname}}` |
-| 2022–2024 | `{{plainlist}}…{{endplainlist}}`, bundled non-voting delegate tables |
-
-Additional quirks handled: multi-seat at-large general tickets (Illinois, New
-York, Pennsylvania in the 1920s), Maine's ranked-choice rounds, uncontested
-seats without percentages (recorded as 100% winners), pre-1954 winner shares
-written without a `%` sign, and election-box rows embedding
-`{{decrease}}`-style change templates. Races whose titles redirect to the
-cycle overview (~25% of pre-1930 races) are skipped rather than
-mis-attributed, and each skip is recorded in the metadata JSON.
-
 ### Parser robustness
 
 The table parsers tolerate the full range of MediaWiki markup found in real
