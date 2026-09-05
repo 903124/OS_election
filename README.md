@@ -17,7 +17,7 @@ and etiquette policy.
 | `statewide` | Governor, Attorney General, Secretary of State, State Treasurer | `data/statewide/` | 1980–2024 |
 | `presidential` | Presidential results by county, parish, or ward for all 50 states + D.C. | `data/presidential/` | presidential years (2004–2024 verified) |
 | `lean` | Predicted partisan lean per congressional district | `data/district_lean/` | 2004–2024 |
-| `crosswalk` | Regenerate the district→county mapping from public boundary geometry | `resources/district_counties.json` | — |
+| `crosswalk` | Regenerate the district→county mapping from public boundary geometry | `resources/district_counties.json` | 2004–2024 |
 
 ## How it works
 
