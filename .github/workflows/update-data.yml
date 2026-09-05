@@ -1,8 +1,9 @@
 name: Update election data
 
 # Fetches U.S. election data from the Wikipedia API (rate-limited) and commits
-# the refreshed CSVs back to this repository's data/ directory (data/senate/
-# and data/house/).
+# the refreshed CSVs back to this repository's data/ directory (data/senate/,
+# data/house/, data/state_senate/, data/state_house/, data/statewide/,
+# data/presidential/, data/district_lean/).
 #
 # The pipeline is API-based — no dump downloads — so a standard hosted runner
 # is sufficient (no self-hosted runner or 22 GB cache required).
@@ -17,6 +18,10 @@ on:
           - all
           - senate
           - house
+          - state-leg
+          - statewide
+          - presidential
+          - lean
         default: all
       start_year:
         description: "First election year to process (inclusive)"
@@ -82,6 +87,21 @@ jobs:
             house)
               python cli.py house "${ARGS[@]}"
               ;;
+            state-leg)
+              python cli.py state-leg "${ARGS[@]}"
+              ;;
+            statewide)
+              python cli.py statewide "${ARGS[@]}"
+              ;;
+            presidential)
+              python cli.py presidential "${ARGS[@]}"
+              ;;
+            lean)
+              # the crosswalk covers the 2000s/2010s/2020s maps only, so lean
+              # always runs 2004-2024 (module defaults); --fetch-missing lets
+              # it pull any presidential cycle it still needs
+              python cli.py lean --output data --delay "$DELAY" --log-level INFO --fetch-missing
+              ;;
             *)
               python cli.py all "${ARGS[@]}"
               ;;
@@ -91,7 +111,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/senate/ data/house/
+          git add data/senate/ data/house/ data/state_senate/ data/state_house/ data/statewide/ data/presidential/ data/district_lean/
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else

@@ -1,2 +1,5 @@
 pandas>=2.0
 requests>=2.31
+# geometry crosswalk (`cli.py crosswalk`) — not needed for the wiki pipelines
+shapely>=2.0
+pyproj>=3.4

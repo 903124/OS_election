@@ -502,10 +502,18 @@ def parse_election_boxes(
     Handles candidate-name bracket removal, incumbent detection (embedded
     suffix and infobox match) and drops 'change' columns.
     """
-    pattern = r"\{\{Election box begin(?: no change)?\s*\|?\s*([^}]*?)\}\}(.*?)\{\{Election box end\}\}"
+    # Row templates may embed one level of nested templates inside parameters
+    # (e.g. 'change = {{decrease}}4.87' on 1980s-2000s articles), so the
+    # parameter body must tolerate balanced '{{...}}' spans.
+    _param_body = r"((?:[^{}]|\{\{[^}]*\}\})+?)"
+    pattern = (r"\{\{Election box begin(?: no change)?\s*\|?\s*"
+               r"((?:[^{}]|\{\{[^}]*\}\})*?)\}\}"
+               r"(.*?)\{\{Election box end\}\}")
     all_data: List[Dict] = []
+    box_idx = 0
 
     for header, box_content in re.findall(pattern, text, re.DOTALL):
+        box_idx += 1
         # title runs to end-of-line, <ref>, or the closing braces
         title_match = re.search(r"title\s*=\s*([^\n<]+)", header)
         election_title = title_match.group(1).strip() if title_match else "Unknown"
@@ -515,10 +523,10 @@ def parse_election_boxes(
         election_type = "Primary" if is_primary else "General"
 
         row_patterns = [
-            (r"\{\{Election box winning candidate with party link(?: no change)?[\s\|]([^{}]+)\}\}", "Winning"),
-            (r"\{\{Election box candidate with party link(?: no change)?[\s\|]([^{}]+)\}\}", "Candidate"),
-            (r"\{\{Election box write-in with party link(?: no change)?[\s\|]([^{}]+)\}\}", "Write-in"),
-            (r"\{\{Election box total(?: no change)?[\s\|]([^{}]+)\}\}", "Total"),
+            (r"\{\{Election box winning candidate with party link(?: no change)?[\s\|]" + _param_body + r"\}\}", "Winning"),
+            (r"\{\{Election box candidate with party link(?: no change)?[\s\|]" + _param_body + r"\}\}", "Candidate"),
+            (r"\{\{Election box write-in with party link(?: no change)?[\s\|]" + _param_body + r"\}\}", "Write-in"),
+            (r"\{\{Election box total(?: no change)?[\s\|]" + _param_body + r"\}\}", "Total"),
         ]
 
         for regex, row_type in row_patterns:
@@ -529,6 +537,7 @@ def parse_election_boxes(
                     "Election_Type": election_type,
                     "Row_Type": row_type,
                     "Incumbent": False,
+                    "_box": box_idx,
                 }
                 for key, val in re.findall(r"(?:^|\|)\s*(\w+)\s*=\s*([^|\n]+)", params):
                     val = clean_wikitext(val.strip())
@@ -550,6 +559,27 @@ def parse_election_boxes(
         return pd.DataFrame(), pd.DataFrame()
 
     df = pd.DataFrame(all_data)
+
+    # Winner fallback: some articles (1964 NY) list all candidates without a
+    # 'winning candidate' template.  Within a box that has no Winning row,
+    # the top-voted Candidate row is the winner.
+    if "votes" in df.columns:
+        votes_num = pd.to_numeric(
+            df["votes"].astype(str).str.replace(",", "", regex=False), errors="coerce"
+        )
+        for _, box_group in df.groupby("_box"):
+            has_winning = (box_group["Row_Type"] == "Winning").any()
+            if has_winning:
+                continue
+            cands = box_group[box_group["Row_Type"] == "Candidate"]
+            if cands.empty:
+                continue
+            v = votes_num.loc[cands.index]
+            if v.notna().any():
+                top = v.idxmax()
+                df.loc[top, "Row_Type"] = "Winning"
+
+    df = df.drop(columns=["_box"])
     cols_to_remove = [c for c in df.columns if c.lower() == "change"]
     if cols_to_remove:
         df = df.drop(columns=cols_to_remove)
@@ -791,6 +821,18 @@ def process_senate_cycles(
         if not content:
             logger.warning("  FAIL — article not found (%s)", title)
             state_details[title] = {"year": year, "state": state, "error": "Article not found"}
+            meta["failed"] += 1
+            continue
+
+        # Some race titles redirect to the cycle's overview article (states
+        # whose races have no dedicated article).  Parsing the overview here
+        # would attribute every election box in it to this state — skip.
+        overview_text = overview_map.get(overview_title(year))
+        if overview_text and content == overview_text:
+            logger.info("  SKIP — '%s' redirects to the %d overview article", title, year)
+            state_details[title] = {
+                "year": year, "state": state, "error": "redirects_to_overview",
+            }
             meta["failed"] += 1
             continue
 

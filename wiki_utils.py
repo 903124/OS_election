@@ -182,19 +182,24 @@ class WikiAPIClient:
     # PUBLIC FETCHERS
     # ──────────────────────────────────────────────
 
-    def fetch_wikitext(self, titles: Iterable[str]) -> Dict[str, Optional[str]]:
+    def fetch_wikitext(
+        self, titles: Iterable[str], sub_batch: Optional[int] = None
+    ) -> Dict[str, Optional[str]]:
         """
         Fetch current wikitext for *titles*.
 
         Returns a dict mapping each *requested* title to its wikitext, or None
         when the page is missing.  Requested titles are transparently matched
-        through API normalisation and redirects.
+        through API normalisation and redirects.  *sub_batch* overrides the
+        batch size for this call (used internally when large batches hit the
+        API result-size cap).
         """
+        size = max(1, min(sub_batch or self.batch_size, self.batch_size))
         requested = list(dict.fromkeys(titles))  # dedupe, preserve order
         result: Dict[str, Optional[str]] = {t: None for t in requested}
 
-        total_batches = (len(requested) + self.batch_size - 1) // max(self.batch_size, 1)
-        for batch_idx, chunk in enumerate(_chunked(requested, self.batch_size), start=1):
+        total_batches = (len(requested) + size - 1) // max(size, 1)
+        for batch_idx, chunk in enumerate(_chunked(requested, size), start=1):
             params = {
                 "action": "query",
                 "format": "json",
@@ -226,15 +231,35 @@ class WikiAPIClient:
             for t in chunk:
                 by_canonical[canonical(t)].append(t)
 
-            for page in query.get("pages", []):
+            pages = query.get("pages", [])
+            seen_pages = set()
+            for page in pages:
                 text: Optional[str] = None
                 if not page.get("missing") and page.get("revisions"):
                     slots = page["revisions"][0].get("slots", {})
                     text = slots.get("main", {}).get("content")
+                seen_pages.add(page.get("title", ""))
                 for req_title in by_canonical.get(page.get("title", ""), []):
                     result[req_title] = text
                 if text is None:
                     logger.warning("No wikitext for '%s' (missing or empty)", page.get("title"))
+
+            # When a batch of large articles exceeds the API's result-size cap
+            # the response silently drops pages (they appear neither in
+            # pages[] nor with missing=true).  Re-request any title that was
+            # neither delivered nor explicitly reported missing, in small
+            # sub-batches so each response fits.
+            dropped = [
+                t for t in chunk
+                if result[t] is None and canonical(t) not in seen_pages
+            ]
+            if dropped and len(chunk) > 1:
+                logger.info(
+                    "Batch %d/%d: %d title(s) dropped (result-size cap) — refetching in small batches",
+                    batch_idx, total_batches, len(dropped),
+                )
+                sub = self.fetch_wikitext(dropped, sub_batch=min(self.batch_size, 5))
+                result.update(sub)
 
             fetched = sum(1 for t in chunk if result[t] is not None)
             logger.info(

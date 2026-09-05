@@ -87,6 +87,14 @@ def _state_code(raw: str) -> str:
     return STATE_NAME_TO_CODE.get(name, raw.upper()[:2])
 
 
+# Header names that may legitimately open a state-results section (fallback
+# qualification for main-less sections).  State names + home-rule territories.
+_STATE_HEADER_NAMES = set(STATE_NAME_TO_CODE) | {
+    "American Samoa", "Guam", "Northern Mariana Islands", "Puerto Rico",
+    "United States Virgin Islands", "Philippines",
+}
+
+
 # Territory codes used in bundled 'Non-voting delegates' tables (2022+).
 TERRITORY_CODE_TO_NAME: Dict[str, str] = {
     "AS": "American Samoa",
@@ -163,6 +171,12 @@ def _extract_candidate_entries(dsec: str) -> List[str]:
             )
             if m:
                 entries.append(m.group(1).strip())
+            else:
+                # Inline winner-only cell without a list wrapper or party
+                # stripe (2000 TX-2): '| {{Aye}} \'\'\' [[Name]]\'\'\' (Party) 92%'
+                m = re.search(r"\|\s*(\{\{[Aa]ye\}\}\s*[^\n]+)", dsec)
+                if m:
+                    entries.append(m.group(1).strip())
 
     # {{collapsible list|title=...|entry1|entry2}} minor candidates
     for cl_m in re.finditer(
@@ -179,11 +193,49 @@ def _extract_candidate_entries(dsec: str) -> List[str]:
 def _normalize_party(raw: str) -> str:
     p = raw.replace("Party (US)", "").replace("Party (United States)", "")
     p = p.replace("(US)", "").replace("(United States)", "").strip()
+    # En-dash variants (1960s Minnesota tables use 'Democratic–Farmer–Labor')
+    p = p.replace("\u2013", "-")
     p = p.replace("Minnesota Democratic-Farmer-Labor", "DFL")
     p = p.replace("North Dakota Democratic-NPL", "Democratic-NPL")
     if p.endswith(" Party"):
         p = p[:-6]
     return p.strip()
+
+
+def _party_from_paren(entry: str) -> Optional[str]:
+    """
+    Extract a party label from a parenthesised group of a candidate bullet.
+
+    Handles plain labels '(Republican)', wikilinked labels
+    '([[Minnesota Democratic–Farmer–Labor Party|DFL]])' and non-standard
+    parties '(Socialist Workers)'.  Non-party parentheticals — years,
+    '(incumbent)', '(special)', '(2 seats)' — are rejected.
+    """
+    party_keywords = re.compile(
+        r"democratic|republican|independent|libertarian|green|conservative|"
+        r"liberal|progressive|prohibition|socialist|farmer|labor|union|"
+        r"constitution|reform|freedom|populist|whig|unionist|silver|"
+        r"readjuster|know.?nothing|dfl|npl|patriot|taxpayer|working families",
+        re.IGNORECASE,
+    )
+    blacklist = re.compile(
+        r"incumbent|redistricted|retired|re-.?elected|unopposed|uncontested|"
+        r"special|deceased|withdrawn|runoff|lost|gain|hold|seats?|new|"
+        r"appointed|defeated|election|primary|general",
+        re.IGNORECASE,
+    )
+    for pm in re.finditer(r"\(([^()]*)\)", entry):
+        label = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", pm.group(1))
+        # Unwrap templates inside the label: '{{party shortname|DFL Party}}' -> 'DFL Party'
+        label = re.sub(r"\{\{[^|}]+\|([^}]*)\}\}", r"\1", label)
+        label = re.sub(r"\{\{([^}|]+)\}\}", r"\1", label)
+        label = label.strip()
+        if not label or blacklist.search(label):
+            continue
+        norm = _normalize_party(label)
+        if party_keywords.search(norm):
+            return norm
+    return None
 
 
 def _parse_candidate(entry: str) -> Tuple[Optional[str], str, bool, Optional[float]]:
@@ -196,13 +248,7 @@ def _parse_candidate(entry: str) -> Tuple[Optional[str], str, bool, Optional[flo
     if party_m:
         party = _normalize_party(party_m.group(1))
     else:
-        pt_m = re.search(
-            r"\((Democratic|Republican|Independent|Libertarian|Green|"
-            r"DFL|Constitution|Working Families|Progressive|Reform)\)",
-            entry,
-        )
-        party = pt_m.group(1) if pt_m else "Unknown"
-        party = party.replace(" (US)", "").strip()
+        party = _party_from_paren(entry) or "Unknown"
 
     # Candidate name — priority: Sortname > wikilink > plain text
     candidate: Optional[str] = None
@@ -218,17 +264,47 @@ def _parse_candidate(entry: str) -> Tuple[Optional[str], str, bool, Optional[flo
                 break
 
     if not candidate:
-        for pat in (
-            r"'''\[\[([^\]|]+)\|([^\]]+)\]\]'''",
-            r"'''\[\[([^\]]+)\]\]'''",
-            r"\[\[([^\]|]+)\|([^\]]+)\]\]",
-            r"\[\[([^\]]+)\]\]",
-        ):
-            m = re.search(pat, entry)
-            if m:
-                candidate = m.groups()[-1]
-                candidate = re.sub(r"\s*\([^)]+\)$", "", candidate)
-                break
+        # Bold-span extraction: 1970s bullets bold the whole
+        # "'''[[Name]] ([[Party|DFL]]) NN%'''" span — take the first link inside.
+        bold_m = re.search(r"'''(.+?)'''", entry, re.DOTALL)
+        if bold_m:
+            bold_span = bold_m.group(1)
+            link_m = re.search(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", bold_span)
+            if link_m:
+                candidate = link_m.group(1)
+            else:
+                # Bold plain text, e.g. '''George P. Miller''' (Republican) 61.2%
+                txt = re.sub(r"\{\{[^}]+\}\}", "", bold_span)
+                txt = re.sub(r"\([^)]*\)", "", txt)
+                txt = txt.replace("[[", "").replace("]]", "").strip()
+                if txt:
+                    candidate = txt.strip()
+
+    if not candidate:
+        # Prefer the first wikilink NOT inside an open parenthetical — the
+        # party label '([[Some Party|DFL]])' would otherwise be mistaken for
+        # the candidate name (1976 Minnesota bullets bold the whole
+        # '[[Name]] ([[Party|DFL]]) NN%' span).
+        for m in re.finditer(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", entry):
+            before = entry[: m.start()]
+            if before.count("(") > before.count(")"):
+                continue
+            candidate = m.group(1)
+            break
+
+    if not candidate:
+        # Plain-text name before a parenthesised party label:
+        # 'Cliff Thomallo ([[American Independent Party|American Independent]]) 1.1%'
+        # or '* Morris Herring (Republican) 29.9%'.  Leading templates are
+        # stripped first ('{{Party stripe|X}}John Smith (Republican) ...').
+        entry2 = re.sub(r"^(?:\{\{[^}]+\}\}\s*)+", "", entry)
+        m = re.match(r"([^\(\[\{\*\|]+?)\s*\(", entry2)
+        if m:
+            name = m.group(1).strip()
+            if name and not re.search(
+                r"\b(uncontested|unopposed|round|runoff|withdrew)\b", name, re.IGNORECASE
+            ):
+                candidate = name
 
     if not candidate:
         m = re.search(
@@ -242,10 +318,15 @@ def _parse_candidate(entry: str) -> Tuple[Optional[str], str, bool, Optional[flo
     if candidate:
         candidate = re.sub(r"'''|''", "", candidate)
         candidate = re.sub(r"\{\{[^}]+\}\}", "", candidate).strip()
+        candidate = re.sub(r"\s*\([^)]*\)$", "", candidate).strip()
         if candidate in ("", "Unknown"):
             candidate = None
 
     pct_m = re.search(r"(\d+\.?\d*)%", entry)
+    if not pct_m:
+        # 1954-era typo: winner share written without the % sign
+        # ('(Democratic) 52.7' at end of the bullet).
+        pct_m = re.search(r"\([^)]*\)\s+(\d+\.?\d*)\s*$", entry)
     percentage = float(pct_m.group(1)) if pct_m else None
 
     return candidate, party, winner, percentage
@@ -295,6 +376,18 @@ def _parse_year(text: str, year: int) -> pd.DataFrame:
         logger.warning("No state sections matched for %d", year)
         return pd.DataFrame()
 
+    def header_state(raw: str) -> str:
+        """Resolve '== State ==' / '== [[List of ...|State]] ==' to the state name."""
+        raw = raw.strip()
+        m = re.search(r"\|([^]|]+)\]\]\s*$", raw)      # [[X|State]]
+        if m:
+            raw = m.group(1).strip()
+        else:
+            m = re.match(r"\[\[([^]|]+)\]\]$", raw)      # [[State]]
+            if m:
+                raw = m.group(1).strip()
+        return re.sub(r"\s*\([^)]*\)$", "", raw).strip()
+
     # State sections are header-bounded (header → next level-2 header) and
     # qualify only when their span contains a {{main|YEAR ... elections ...}}
     # link (often wrapped in <!--comments--> on pre-1932 articles).  The
@@ -302,20 +395,40 @@ def _parse_year(text: str, year: int) -> pd.DataFrame:
     # its rows are excluded instead of being mis-attributed to a neighbour.
     unique_sections: List[Tuple[str, int, int]] = []
     for i, hm in enumerate(header_matches):
-        state_name = hm.group(1).strip()
-        if state_name.startswith("="):
+        state_name = header_state(hm.group(1))
+        if not state_name or state_name.startswith("="):
             continue
         sec_end = header_matches[i + 1].start() if i + 1 < len(header_matches) else len(text)
         if not re.search(main_pat, text[hm.end():sec_end]):
-            continue
+            # FALLBACK (1946-1992 era): many state sections carry no {{main}}
+            # template at all - just '{{See also|List of United States
+            # representatives from <State>}}'.  Qualify a main-less section
+            # only when the header is literally a state/territory name AND
+            # the section actually contains {{ushr}} district rows.  Non-state
+            # headers ('Special elections', 'Overall results', ...) stay
+            # excluded so special-election rows can never leak between states.
+            name_key = state_name
+            if name_key not in _STATE_HEADER_NAMES:
+                continue
+            if not re.search(r"\{\{[Uu]shr\|", text[hm.end():sec_end]):
+                continue
         unique_sections.append((state_name, hm.start(), sec_end))
 
     # District rows: {{ushr|MA|2|X}} (2018-era) or {{ushr|Massachusetts|1|X}} /
     # {{Ushr|Delaware|AL|X}} (pre-1932: full state name, case, |T variant);
     # '! rowspan=2 nowrap |{{ushr|...}}' prefix allowed (2022 redistricting).
+    # The cell marker may be '!' (header cell) or '|' (1978-era tables put
+    # {{ushr}} in ordinary data cells); {{nowrap|{{ushr|...}}}} wrappers occur
+    # (1992 MI).  Some 2004+ sections link the district instead:
+    # '[[United States House of Representatives, Massachusetts District 1|...]]'.
     dist_pat = (
-        r"!\s*(?:rowspan\s*=\s*\"?\d+\"?\s*)?(?:nowrap\s*)?\|?\s*"
+        r"[!|]\s*(?:rowspan\s*=\s*\"?\d+\"?\s*)?(?:nowrap\s*)?\|?\s*"
+        r"(?:\{\{nowrap\|\s*)?"
         r"\{\{[Uu]shr\|([^|}]+)\|([0-9]+|AL)(?:\|[^|}]*)?\}\}"
+    )
+    dist_pat_link = (
+        r"!\s*(?:rowspan\s*=\s*\"?\d+\"?\s*)?\|?\s*"
+        r"\[\[United States House of Representatives,\s*([^|\]]+?)\s+District\s+(\d+)"
     )
 
     # number of {{ushr}} rows declaring each race (multi-seat detector)
@@ -324,10 +437,17 @@ def _parse_year(text: str, year: int) -> pd.DataFrame:
     for state_name, sec_start, sec_end in unique_sections:
         state_text = text[sec_start:sec_end]
 
-        dist_matches = list(re.finditer(dist_pat, state_text))
-        for jdx, dm in enumerate(dist_matches):
-            raw_state = dm.group(1).strip()
-            district = dm.group(2)
+        dist_matches = [
+            (m.start(), m.group(1).strip(), m.group(2))
+            for m in re.finditer(dist_pat, state_text)
+        ]
+        dist_matches += [
+            (m.start(), m.group(1).strip(), m.group(2))
+            for m in re.finditer(dist_pat_link, state_text)
+        ]
+        dist_matches.sort(key=lambda t: t[0])
+
+        for jdx, (ds, raw_state, district) in enumerate(dist_matches):
             state_code = _state_code(raw_state)
             # Pre-1932 rows carry the full state name (e.g. 'Alaska
             # Territory' for delegates); 2018+ rows carry 2-letter codes.
@@ -340,8 +460,7 @@ def _parse_year(text: str, year: int) -> pd.DataFrame:
             else:
                 row_state = re.sub(r"\s+Territory$", "", raw_state) or state_name
             race_key = (row_state, district)
-            ds = dm.start()
-            de = dist_matches[jdx + 1].start() if jdx < len(dist_matches) - 1 else len(state_text)
+            de = dist_matches[jdx + 1][0] if jdx < len(dist_matches) - 1 else len(state_text)
             dsec = state_text[ds:de]
             # Track how many seats this race declares: ushr rows plus any
             # '(N seats)' annotation on a shared general-ticket row
@@ -367,8 +486,9 @@ def _parse_year(text: str, year: int) -> pd.DataFrame:
 
             # Parse every candidate bullet first: an uncontested winner is
             # identified by having no vote share anywhere in the race.
-            parsed: List[Tuple[str, str, bool, Optional[float]]] = []
-            for entry in _extract_candidate_entries(dsec):
+            entries = _extract_candidate_entries(dsec)
+            parsed: List[List] = []
+            for entry in entries:
                 if not entry:
                     continue
                 # A bare '* Uncontested' bullet is not a candidate (1940-era
@@ -385,10 +505,20 @@ def _parse_year(text: str, year: int) -> pd.DataFrame:
                 candidate, party, winner, percentage = _parse_candidate(entry)
                 if not candidate:
                     continue
-                parsed.append((candidate, party, winner, percentage))
+                parsed.append([candidate, party, winner, percentage,
+                               bool(re.search(r"'''", entry))])
 
-            any_pct = any(pct is not None for _, _, _, pct in parsed)
-            for candidate, party, winner, percentage in parsed:
+            # Bold-only winner fallback: some sections (1992 MA-9) mark the
+            # winner by bold type alone, without {{aye}}.  When a race parsed
+            # rows but no winner and exactly one bolded candidate bullet
+            # exists, that bullet is the winner.
+            if parsed and not any(p[2] for p in parsed):
+                bold_rows = [p for p in parsed if p[4]]
+                if len(bold_rows) == 1:
+                    bold_rows[0][2] = True
+
+            any_pct = any(pct is not None for _, _, _, pct, _ in parsed)
+            for candidate, party, winner, percentage, _bold in parsed:
                 if percentage is None:
                     # Keep an uncontested winner at 100%: either the table says
                     # so, or the winning candidate is the only one listed.
