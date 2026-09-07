@@ -1,333 +1,403 @@
-Year,State,Primary_Type,Poll_Source,Date,Sample,MoE,Candidate,Party,Pct,Incumbent
-2018,Arizona,Democratic Primary,Data Orbital,"June 25–27, 2018",550,± 4.2%,Deedra Abboud,D,7%,False
-2018,Arizona,Democratic Primary,Emerson College,"June 21–22, 2018",260,± 6.2%,Deedra Abboud,D,8%,False
-2018,Arizona,Democratic Primary,Data Orbital,"June 25–27, 2018",550,± 4.2%,Kyrsten Sinema,D,63%,False
-2018,Arizona,Democratic Primary,Emerson College,"June 21–22, 2018",260,± 6.2%,Kyrsten Sinema,D,51%,False
-2018,Arizona,Republican Primary,Data Orbital,"August 21–22, 2018",600,± 4.0%,Joe Arpaio,R,18%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"August 14–15, 2018",578,± 4.1%,Joe Arpaio,R,13%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"July 23–25, 2018",576,± 4.1%,Joe Arpaio,R,15%,False
-2018,Arizona,Republican Primary,Gravis Marketing,"June 27 – July 2, 2018",501,± 4.4%,Joe Arpaio,R,24%,False
-2018,Arizona,Republican Primary,Emerson College,"June 21–22, 2018",305,± 5.9%,Joe Arpaio,R,18%,False
-2018,Arizona,Republican Primary,Data Orbital,"June 19–21, 2018",550,± 4.2%,Joe Arpaio,R,17%,False
-2018,Arizona,Republican Primary,Marist College,"June 17–21, 2018",371,± 6.7%,Joe Arpaio,R,21%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"June 11–12, 2018",600,± 4.0%,Joe Arpaio,R,14%,False
-2018,Arizona,Republican Primary,Remington (R),"May 23–24, 2018","2,011",± 2.3%,Joe Arpaio,R,25%,False
-2018,Arizona,Republican Primary,Magellan Strategies (R),"April 11–12 and 15, 2018",755,± 3.6%,Joe Arpaio,R,26%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"April 10–11, 2018",302,± 5.6%,Joe Arpaio,R,22%,False
-2018,Arizona,Republican Primary,Data Orbital,"January 11–15, 2018",500,± 4.4%,Joe Arpaio,R,22%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"January 9, 2018",504,± 4.4%,Joe Arpaio,R,29%,False
-2018,Arizona,Republican Primary,Data Orbital,"August 21–22, 2018",600,± 4.0%,Martha McSally,R,48%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"August 14–15, 2018",578,± 4.1%,Martha McSally,R,47%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"July 23–25, 2018",576,± 4.1%,Martha McSally,R,35%,False
-2018,Arizona,Republican Primary,Gravis Marketing,"June 27 – July 2, 2018",501,± 4.4%,Martha McSally,R,36%,False
-2018,Arizona,Republican Primary,Emerson College,"June 21–22, 2018",305,± 5.9%,Martha McSally,R,32%,False
-2018,Arizona,Republican Primary,Data Orbital,"June 19–21, 2018",550,± 4.2%,Martha McSally,R,38%,False
-2018,Arizona,Republican Primary,Marist College,"June 17–21, 2018",371,± 6.7%,Martha McSally,R,30%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"June 11–12, 2018",600,± 4.0%,Martha McSally,R,39%,False
-2018,Arizona,Republican Primary,Remington (R),"May 23–24, 2018","2,011",± 2.3%,Martha McSally,R,42%,False
-2018,Arizona,Republican Primary,Magellan Strategies (R),"April 11–12 and 15, 2018",755,± 3.6%,Martha McSally,R,36%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"April 10–11, 2018",302,± 5.6%,Martha McSally,R,27%,False
-2018,Arizona,Republican Primary,Data Orbital,"January 11–15, 2018",500,± 4.4%,Martha McSally,R,31%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"January 9, 2018",504,± 4.4%,Martha McSally,R,31%,False
-2018,Arizona,Republican Primary,WPA Intelligence (R),"November 15–16, 2017",500,± 4.4%,Martha McSally,R,38%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"November 9, 2017",323,± 5.5%,Martha McSally,R,34%,False
-2018,Arizona,Republican Primary,Revily (R),"October 28–31, 2017",380,± 3.0%,Martha McSally,R,21%,False
-2018,Arizona,Republican Primary,Data Orbital,"August 21–22, 2018",600,± 4.0%,Kelli Ward,R,22%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"August 14–15, 2018",578,± 4.1%,Kelli Ward,R,27%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"July 23–25, 2018",576,± 4.1%,Kelli Ward,R,27%,False
-2018,Arizona,Republican Primary,Gravis Marketing,"June 27 – July 2, 2018",501,± 4.4%,Kelli Ward,R,27%,False
-2018,Arizona,Republican Primary,Emerson College,"June 21–22, 2018",305,± 5.9%,Kelli Ward,R,19%,False
-2018,Arizona,Republican Primary,Data Orbital,"June 19–21, 2018",550,± 4.2%,Kelli Ward,R,23%,False
-2018,Arizona,Republican Primary,Marist College,"June 17–21, 2018",371,± 6.7%,Kelli Ward,R,28%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"June 11–12, 2018",600,± 4.0%,Kelli Ward,R,25%,False
-2018,Arizona,Republican Primary,Remington (R),"May 23–24, 2018","2,011",± 2.3%,Kelli Ward,R,23%,False
-2018,Arizona,Republican Primary,Magellan Strategies (R),"April 11–12 and 15, 2018",755,± 3.6%,Kelli Ward,R,25%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"April 10–11, 2018",302,± 5.6%,Kelli Ward,R,36%,False
-2018,Arizona,Republican Primary,Data Orbital,"January 11–15, 2018",500,± 4.4%,Kelli Ward,R,19%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"January 9, 2018",504,± 4.4%,Kelli Ward,R,25%,False
-2018,Arizona,Republican Primary,WPA Intelligence (R),"November 15–16, 2017",500,± 4.4%,Kelli Ward,R,36%,False
-2018,Arizona,Republican Primary,OH Predictive Insights,"November 9, 2017",323,± 5.5%,Kelli Ward,R,42%,False
-2018,Arizona,Republican Primary,Revily (R),"October 28–31, 2017",380,± 3.0%,Kelli Ward,R,32%,False
-2018,California,jungle,UC Berkeley,"May 22−28, 2018","2,106",± 3.5%,James P. Bradley,R,7%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,James P. Bradley,R,6%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,James P. Bradley,R,9%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,James P. Bradley,R,3%,False
-2018,California,jungle,Gravis Marketing,"May 4–5, 2018",525,± 4.3%,James P. Bradley,R,19%,False
-2018,California,jungle,UC Berkeley,"April 16–22, 2018","1,738",± 3.5%,James P. Bradley,R,10%,False
-2018,California,jungle,Emerson College,"May 21–24, 2018",600,± 4.2%,Erin Cruz,R,5%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Erin Cruz,R,2%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Erin Cruz,R,2%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Erin Cruz,R,1%,False
-2018,California,jungle,Gravis Marketing,"May 4–5, 2018",525,± 4.3%,Erin Cruz,R,13%,False
-2018,California,jungle,Emerson College,"May 21–24, 2018",600,± 4.2%,Pat Harris,D,6%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Pat Harris,D,2%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Pat Harris,D,2%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Pat Harris,D,2%,False
-2018,California,jungle,Emerson College,"May 21–24, 2018",600,± 4.2%,Rocky De,R,4%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Rocky De,R,4%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Rocky De,R,3%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Rocky De,R,0%,False
-2018,California,jungle,SurveyUSA,"April 19–23, 2018",520,± 5.5%,Rocky De,R,8%,False
-2018,California,jungle,UC Berkeley,"May 22−28, 2018","2,106",± 3.5%,Kevin de León,D,11%,False
-2018,California,jungle,Emerson College,"May 21–24, 2018",600,± 4.2%,Kevin de León,D,6%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Kevin de León,D,11%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Kevin de León,D,11%,False
-2018,California,jungle,Public Policy Institute of California,"May 11–20, 2018",901,± 4.1%,Kevin de León,D,17%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Kevin de León,D,7%,False
-2018,California,jungle,Gravis Marketing,"May 4–5, 2018",525,± 4.3%,Kevin de León,D,8%,False
-2018,California,jungle,SurveyUSA,"April 19–23, 2018",520,± 5.5%,Kevin de León,D,8%,False
-2018,California,jungle,UC Berkeley,"April 16–22, 2018","1,738",± 3.5%,Kevin de León,D,11%,False
-2018,California,jungle,Public Policy Institute of California,"March 4–13, 2018","1,706",± 3.4%,Kevin de León,D,16%,False
-2018,California,jungle,Public Policy Institute of California,"January 21–30, 2018","1,705",± 3.2%,Kevin de León,D,17%,False
-2018,California,jungle,UC Berkeley,"December 7–16, 2017",672,± 3.8%,Kevin de León,D,27%,False
-2018,California,jungle,Public Policy Institute of California,"November 10–19, 2017","1,070",± 4.3%,Kevin de León,D,21%,False
-2018,California,jungle,Sextant Strategies & Research,September 2017,"1,197",± 3.4%,Kevin de León,D,15%,False
-2018,California,jungle,UC Berkeley,"May 22−28, 2018","2,106",± 3.5%,Dianne Feinstein,D,36%,True
-2018,California,jungle,Emerson College,"May 21–24, 2018",600,± 4.2%,Dianne Feinstein,D,38%,True
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Dianne Feinstein,D,36%,True
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Dianne Feinstein,D,36%,True
-2018,California,jungle,Public Policy Institute of California,"May 11–20, 2018",901,± 4.1%,Dianne Feinstein,D,41%,True
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Dianne Feinstein,D,31%,True
-2018,California,jungle,Gravis Marketing,"May 4–5, 2018",525,± 4.3%,Dianne Feinstein,D,32%,True
-2018,California,jungle,SurveyUSA,"April 19–23, 2018",520,± 5.5%,Dianne Feinstein,D,38%,True
-2018,California,jungle,UC Berkeley,"April 16–22, 2018","1,738",± 3.5%,Dianne Feinstein,D,28%,True
-2018,California,jungle,Public Policy Institute of California,"March 4–13, 2018","1,706",± 3.4%,Dianne Feinstein,D,42%,True
-2018,California,jungle,Public Policy Institute of California,"January 21–30, 2018","1,705",± 3.2%,Dianne Feinstein,D,46%,True
-2018,California,jungle,UC Berkeley,"December 7–16, 2017",672,± 3.8%,Dianne Feinstein,D,41%,True
-2018,California,jungle,Public Policy Institute of California,"November 10–19, 2017","1,070",± 4.3%,Dianne Feinstein,D,45%,True
-2018,California,jungle,Sextant Strategies & Research,September 2017,"1,197",± 3.4%,Dianne Feinstein,D,38%,True
-2018,California,jungle,Emerson College,"May 21–24, 2018",600,± 4.2%,Alison Hartson,D,4%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Alison Hartson,D,1%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Alison Hartson,D,1%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Alison Hartson,D,1%,False
-2018,California,jungle,Gravis Marketing,"May 4–5, 2018",525,± 4.3%,Alison Hartson,D,6%,False
-2018,California,jungle,SurveyUSA,"April 19–23, 2018",520,± 5.5%,Alison Hartson,D,4%,False
-2018,California,jungle,YouGov,"May 12–24, 2018","1,113",± 4.0%,Patrick Little,R,1%,False
-2018,California,jungle,SurveyUSA,"May 21, 2018",678,± 6.1%,Patrick Little,R,0%,False
-2018,California,jungle,USC Dornsife,"April 18 – May 18, 2018",517,± 4.0%,Patrick Little,R,2%,False
-2018,California,jungle,SurveyUSA,"April 19–23, 2018",520,± 5.5%,Patrick Little,R,18%,False
-2018,Delaware,Democratic Primary,Gravis Marketing,"July 24–29, 2018",354,± 5.2%,Tom Carper,D,51%,True
-2018,Delaware,Democratic Primary,Gravis Marketing,"July 24–29, 2018",354,± 5.2%,Harris,D,19%,False
-2018,Delaware,Republican Primary,Gravis Marketing,"July 24–29, 2018",288,± 5.8%,Rob Arlett,R,19%,False
-2018,Delaware,Republican Primary,Gravis Marketing,"July 24–29, 2018",288,± 5.8%,Rocky,R,7%,False
-2018,Delaware,Republican Primary,Gravis Marketing,"July 24–29, 2018",288,± 5.8%,Gene Truono,R,15%,False
-2018,Florida,Republican Primary,Gravis Marketing,"August 21–25, 2018",579,± 4.1%,Rocky,R,12%,False
-2018,Florida,Republican Primary,Gravis Marketing,"August 21–22, 2018",321,± 5.5%,Rocky,R,12%,False
-2018,Florida,Republican Primary,Gravis Marketing,"July 13–14, 2018",905,± 3.3%,Rocky,R,16%,False
-2018,Florida,Republican Primary,Gravis Marketing,"August 21–25, 2018",579,± 4.1%,Rick Scott,R,73%,False
-2018,Florida,Republican Primary,Gravis Marketing,"August 21–22, 2018",321,± 5.5%,Rick Scott,R,73%,False
-2018,Florida,Republican Primary,Gravis Marketing,"July 13–14, 2018",905,± 3.3%,Rick Scott,R,74%,False
-2018,Indiana,Republican Primary,Strategic National (R),"May 5–6, 2018",300,± 5.7%,Luke Messer,R,29%,False
-2018,Indiana,Republican Primary,Gravis Marketing,"April 6–11, 2018",280,± 5.9%,Luke Messer,R,13%,False
-2018,Indiana,Republican Primary,GS Strategy Group (R-Rokita),"January 6–9, 2018",500,± 4.4%,Luke Messer,R,9%,False
-2018,Indiana,Republican Primary,OnMedia (R-Messer),"July 10–12, 2017",400,± 4.8%,Luke Messer,R,23%,False
-2018,Indiana,Republican Primary,Strategic National (R),"May 5–6, 2018",300,± 5.7%,Todd Rokita,R,28%,False
-2018,Indiana,Republican Primary,Gravis Marketing,"April 6–11, 2018",280,± 5.9%,Todd Rokita,R,16%,False
-2018,Indiana,Republican Primary,GS Strategy Group (R-Rokita),"January 6–9, 2018",500,± 4.4%,Todd Rokita,R,24%,False
-2018,Indiana,Republican Primary,OnMedia (R-Messer),"July 10–12, 2017",400,± 4.8%,Todd Rokita,R,23%,False
-2018,Indiana,Republican Primary,Strategic National (R),"May 5–6, 2018",300,± 5.7%,Mike Braun,R,44%,False
-2018,Indiana,Republican Primary,Gravis Marketing,"April 6–11, 2018",280,± 5.9%,Mike Braun,R,26%,False
-2018,Indiana,Republican Primary,GS Strategy Group (R-Rokita),"January 6–9, 2018",500,± 4.4%,Mike Braun,R,9%,False
-2018,Indiana,Republican Primary,OnMedia (R-Messer),"July 10–12, 2017",400,± 4.8%,Mike Braun,R,2%,False
-2018,Maryland,Democratic Primary,Goucher College,"February 12–18, 2018",409,± 4.8%,Ben Cardin,D,61%,True
-2018,Maryland,Democratic Primary,Goucher College,"February 12–18, 2018",409,± 4.8%,Chelsea Manning,D,17%,False
-2018,Massachusetts,Republican Primary,MassINC,"June 22–25, 2018",399,± 4.9%,Geoff Diehl,R,26%,False
-2018,Massachusetts,Republican Primary,MassINC,"June 22–25, 2018",399,± 4.9%,John Kingston,R,12%,False
-2018,Massachusetts,Republican Primary,MassINC,"June 22–25, 2018",399,± 4.9%,Beth Lindstrom,R,15%,False
-2018,Michigan,Republican Primary,Mitchell Research,"July 30, 2018",413,± 5.0%,John James,R,44%,False
-2018,Michigan,Republican Primary,EPIC-MRA,"July 21–22, 2018","1,045",± 3.1%,John James,R,39%,False
-2018,Michigan,Republican Primary,Emerson College,"July 19–21, 2018",202,± 7.3%,John James,R,28%,False
-2018,Michigan,Republican Primary,Marist College,"July 15–19, 2018",337,± 6.3%,John James,R,30%,False
-2018,Michigan,Republican Primary,National Research Inc. (R-Outsider PAC),"July 11–14, 2018",600,± 4.0%,John James,R,21%,False
-2018,Michigan,Republican Primary,Target-Insyght,"June 24–26, 2018",400,± 5.0%,John James,R,29%,False
-2018,Michigan,Republican Primary,Strategic National (R),"June 16–21, 2018","1,000",± 3.1%,John James,R,18%,False
-2018,Michigan,Republican Primary,Strategic National (R),"June 9–10, 2018",400,± 4.9%,John James,R,16%,False
-2018,Michigan,Republican Primary,Marketing Resource Group (R-Pensler),"May 28–29, 2018",627,± 3.8%,John James,R,26%,False
-2018,Michigan,Republican Primary,Strategic National (R),"April 21, 2018",350,± 5.2%,John James,R,13%,False
-2018,Michigan,Republican Primary,Strategic National (R),"April 4–5, 2018",600,± 4.0%,John James,R,12%,False
-2018,Michigan,Republican Primary,Denno Research,"April 2–3, 2018",500,± 4.0%,John James,R,12%,False
-2018,Michigan,Republican Primary,Strategic National (R),"March 19–20, 2018",400,± 4.9%,John James,R,17%,False
-2018,Michigan,Republican Primary,Mitchell Research,"July 30, 2018",413,± 5.0%,Sandy Pensler,R,30%,False
-2018,Michigan,Republican Primary,EPIC-MRA,"July 21–22, 2018","1,045",± 3.1%,Sandy Pensler,R,38%,False
-2018,Michigan,Republican Primary,Emerson College,"July 19–21, 2018",202,± 7.3%,Sandy Pensler,R,28%,False
-2018,Michigan,Republican Primary,Marist College,"July 15–19, 2018",337,± 6.3%,Sandy Pensler,R,23%,False
-2018,Michigan,Republican Primary,National Research Inc. (R-Outsider PAC),"July 11–14, 2018",600,± 4.0%,Sandy Pensler,R,28%,False
-2018,Michigan,Republican Primary,Target-Insyght,"June 24–26, 2018",400,± 5.0%,Sandy Pensler,R,32%,False
-2018,Michigan,Republican Primary,Strategic National (R),"June 16–21, 2018","1,000",± 3.1%,Sandy Pensler,R,33%,False
-2018,Michigan,Republican Primary,Strategic National (R),"June 9–10, 2018",400,± 4.9%,Sandy Pensler,R,29%,False
-2018,Michigan,Republican Primary,Marketing Resource Group (R-Pensler),"May 28–29, 2018",627,± 3.8%,Sandy Pensler,R,36%,False
-2018,Michigan,Republican Primary,Strategic National (R),"April 21, 2018",350,± 5.2%,Sandy Pensler,R,26%,False
-2018,Michigan,Republican Primary,Strategic National (R),"April 4–5, 2018",600,± 4.0%,Sandy Pensler,R,20%,False
-2018,Michigan,Republican Primary,Denno Research,"April 2–3, 2018",500,± 4.0%,Sandy Pensler,R,16%,False
-2018,Michigan,Republican Primary,Strategic National (R),"March 19–20, 2018",400,± 4.9%,Sandy Pensler,R,21%,False
-2018,Minnesota (special),single_party,Change Research,"November 2–4, 2018",953,,Tina Smith (DFL),R,51%,False
-2018,Minnesota (special),single_party,Research Co.,"November 1–3, 2018",450,± 4.6%,Tina Smith (DFL),R,49%,False
-2018,Minnesota (special),single_party,SurveyUSA,"October 29–31, 2018",600,± 5.3%,Tina Smith (DFL),R,48%,False
-2018,Minnesota (special),single_party,St. Cloud State University,"October 15–30, 2018",420,,Tina Smith (DFL),R,44%,False
-2018,Minnesota (special),single_party,Mason-Dixon,"October 15–17, 2018",800,± 3.5%,Tina Smith (DFL),R,47%,False
-2018,Minnesota (special),single_party,Change Research,"October 12–13, 2018","1,413",,Tina Smith (DFL),R,46%,False
-2018,Minnesota (special),single_party,Marist College,"September 30 – October 4, 2018",637 LV,± 4.9%,Tina Smith (DFL),R,54%,False
-2018,Minnesota (special),single_party,Mason-Dixon,"September 10–12, 2018",800,± 3.5%,Tina Smith (DFL),R,44%,False
-2018,Minnesota (special),single_party,SurveyUSA,"September 6–8, 2018",574,± 4.9%,Tina Smith (DFL),R,48%,False
-2018,Minnesota (special),single_party,Suffolk University,"August 17–20, 2018",500,± 4.4%,Tina Smith (DFL),R,44%,False
-2018,Minnesota (special),single_party,Emerson College,"August 8–11, 2018",500,± 4.6%,Tina Smith (DFL),R,32%,False
-2018,Minnesota (special),single_party,Marist College,"July 15–19, 2018",876,± 4.0%,Tina Smith (DFL),R,49%,False
-2018,Minnesota (special),single_party,BK Strategies (R),"June 24–25, 2018","1,574",± 2.5%,Tina Smith (DFL),R,48%,False
-2018,Minnesota (special),single_party,Change Research,"November 2–4, 2018",953,,Karin Housley,R,42%,False
-2018,Minnesota (special),single_party,Research Co.,"November 1–3, 2018",450,± 4.6%,Karin Housley,R,39%,False
-2018,Minnesota (special),single_party,SurveyUSA,"October 29–31, 2018",600,± 5.3%,Karin Housley,R,40%,False
-2018,Minnesota (special),single_party,St. Cloud State University,"October 15–30, 2018",420,,Karin Housley,R,29%,False
-2018,Minnesota (special),single_party,Mason-Dixon,"October 15–17, 2018",800,± 3.5%,Karin Housley,R,41%,False
-2018,Minnesota (special),single_party,Change Research,"October 12–13, 2018","1,413",,Karin Housley,R,43%,False
-2018,Minnesota (special),single_party,Marist College,"September 30 – October 4, 2018",637 LV,± 4.9%,Karin Housley,R,38%,False
-2018,Minnesota (special),single_party,Mason-Dixon,"September 10–12, 2018",800,± 3.5%,Karin Housley,R,37%,False
-2018,Minnesota (special),single_party,SurveyUSA,"September 6–8, 2018",574,± 4.9%,Karin Housley,R,39%,False
-2018,Minnesota (special),single_party,Suffolk University,"August 17–20, 2018",500,± 4.4%,Karin Housley,R,37%,False
-2018,Minnesota (special),single_party,Emerson College,"August 8–11, 2018",500,± 4.6%,Karin Housley,R,28%,False
-2018,Minnesota (special),single_party,Marist College,"July 15–19, 2018",876,± 4.0%,Karin Housley,R,35%,False
-2018,Minnesota (special),single_party,BK Strategies (R),"June 24–25, 2018","1,574",± 2.5%,Karin Housley,R,39%,False
-2018,Minnesota (special),single_party,Change Research,"November 2–4, 2018",953,,Sarah,R,3%,False
-2018,Minnesota (special),single_party,Mason-Dixon,"October 15–17, 2018",800,± 3.5%,Sarah,R,1%,False
-2018,Minnesota (special),single_party,Change Research,"October 12–13, 2018","1,413",,Sarah,R,5%,False
-2018,Minnesota (special),single_party,Mason-Dixon,"September 10–12, 2018",800,± 3.5%,Sarah,R,2%,False
-2018,Minnesota (special),single_party,Suffolk University,"August 17–20, 2018",500,± 4.4%,Sarah,R,2%,False
-2018,Mississippi,Democratic Primary,Triumph Campaigns,"April 10–11, 2018",446,7%,David Baria,D,4%,False
-2018,Mississippi,Democratic Primary,Triumph Campaigns,"April 10–11, 2018",446,7%,Jensen Bohren,D,9%,False
-2018,Mississippi,Democratic Primary,Triumph Campaigns,"April 10–11, 2018",446,7%,Omeria Scott,D,2%,False
-2018,Mississippi,Democratic Primary,Triumph Campaigns,"April 10–11, 2018",446,7%,Howard Sherman,D,79%,False
-2018,Missouri,Republican Primary,Emerson College,"April 26–29, 2018",283,± 6.0%,Josh Hawley,R,37%,False
-2018,Missouri,Republican Primary,Emerson College,"April 26–29, 2018",283,± 6.0%,Austin Petersen,R,8%,False
-2018,Missouri,Republican Primary,Emerson College,"April 26–29, 2018",283,± 6.0%,Courtland Sykes,R,6%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),"April 15–16, 2018",503,± 4.4%,Troy Downing,R,12%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),"February 5–7, 2018",401,± 4.4%,Troy Downing,R,12%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),"April 15–16, 2018",503,± 4.4%,Russell Fagg,R,17%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),"February 5–7, 2018",401,± 4.4%,Russell Fagg,R,11%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),"April 15–16, 2018",503,± 4.4%,Al Olszewski,R,8%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),"February 5–7, 2018",401,± 4.4%,Al Olszewski,R,5%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),"April 15–16, 2018",503,± 4.4%,Matt Rosendale,R,40%,False
-2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),"February 5–7, 2018",401,± 4.4%,Matt Rosendale,R,28%,False
-2018,Nebraska,Democratic Primary,DFM Research,"October 23–27, 2018",683,± 3.8%,Deb Fischer,R,54%,True
-2018,Nebraska,Democratic Primary,Grassroots Targeting (R),Late June 2018,"1,000",± 3.1%,Deb Fischer,R,63%,True
-2018,Nebraska,Democratic Primary,Meeting Street Research (R-Fischer),"January 24–28, 2018",500,,Deb Fischer,R,51%,True
-2018,Nebraska,Democratic Primary,Public Policy Polling (D-Raybould),"November 10–12, 2017","1,190",± 2.8%,Deb Fischer,R,42%,True
-2018,Nebraska,Democratic Primary,DFM Research,"October 23–27, 2018",683,± 3.8%,Jane Raybould,D,39%,False
-2018,Nebraska,Democratic Primary,Grassroots Targeting (R),Late June 2018,"1,000",± 3.1%,Jane Raybould,D,28%,False
-2018,Nebraska,Democratic Primary,Meeting Street Research (R-Fischer),"January 24–28, 2018",500,,Jane Raybould,D,34%,False
-2018,Nebraska,Democratic Primary,Public Policy Polling (D-Raybould),"November 10–12, 2017","1,190",± 2.8%,Jane Raybould,D,31%,False
-2018,Nevada,Republican Primary,JMC Analytics,"October 24–26, 2017",500,± 4.4%,Dean Heller,R,38%,True
-2018,Nevada,Republican Primary,JMC Analytics,"August 24–25, 2017",700,± 3.7%,Dean Heller,R,31%,True
-2018,Nevada,Republican Primary,The Tarrance Group (R-Heller),"August 14–16, 2017",300,± 5.8%,Dean Heller,R,55%,True
-2018,Nevada,Republican Primary,JMC Analytics,"October 24–26, 2017",500,± 4.4%,Danny Tarkanian,R,44%,False
-2018,Nevada,Republican Primary,JMC Analytics,"August 24–25, 2017",700,± 3.7%,Danny Tarkanian,R,39%,False
-2018,Nevada,Republican Primary,The Tarrance Group (R-Heller),"August 14–16, 2017",300,± 5.8%,Danny Tarkanian,R,33%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"October 11–12, 2017",400,± 4.0%,Rick Becker,R,3%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"May 30 – June 1, 2017",400,± 4.0%,Rick Becker,R,9%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"October 11–12, 2017",400,± 4.0%,Rick Berg,R,24%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"May 30 – June 1, 2017",400,± 4.0%,Rick Berg,R,39%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"October 11–12, 2017",400,± 4.0%,Tom Campbell,R,32%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"May 30 – June 1, 2017",400,± 4.0%,Tom Campbell,R,7%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"October 11–12, 2017",400,± 4.0%,Tammy Miller,R,1%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"October 11–12, 2017",400,± 4.0%,Kathy Neset,R,4%,False
-2018,North Dakota,single_party,1892 Polling (R-Campbell),"October 11–12, 2017",400,± 4.0%,Kelly Schmidt,R,1%,False
-2018,Ohio,Republican Primary,Baldwin Wallace University,"April 24 – May 2, 2018",323,,Melissa Ackison,R,4%,False
-2018,Ohio,Republican Primary,Fallon Research,"April 4–7, 2018",502,± 4.4%,Melissa Ackison,R,3%,False
-2018,Ohio,Republican Primary,OnMessage (R-Renacci),"March 20, 2018",–,,Melissa Ackison,R,3%,False
-2018,Ohio,Republican Primary,SurveyUSA,"March 16–20, 2018",541,± 5.7%,Melissa Ackison,R,5%,False
-2018,Ohio,Republican Primary,Baldwin Wallace University,"April 24 – May 2, 2018",323,,Don Eckhart,R,1%,False
-2018,Ohio,Republican Primary,Fallon Research,"April 4–7, 2018",502,± 4.4%,Don Eckhart,R,2%,False
-2018,Ohio,Republican Primary,OnMessage (R-Renacci),"March 20, 2018",–,,Don Eckhart,R,3%,False
-2018,Ohio,Republican Primary,SurveyUSA,"March 16–20, 2018",541,± 5.7%,Don Eckhart,R,5%,False
-2018,Ohio,Republican Primary,Baldwin Wallace University,"April 24 – May 2, 2018",323,,Mike Gibbons,R,11%,False
-2018,Ohio,Republican Primary,Fallon Research,"April 4–7, 2018",502,± 4.4%,Mike Gibbons,R,7%,False
-2018,Ohio,Republican Primary,OnMessage (R-Renacci),"March 20, 2018",–,,Mike Gibbons,R,8%,False
-2018,Ohio,Republican Primary,SurveyUSA,"March 16–20, 2018",541,± 5.7%,Mike Gibbons,R,10%,False
-2018,Ohio,Republican Primary,Baldwin Wallace University,"April 24 – May 2, 2018",323,,Dan Kiley,R,4%,False
-2018,Ohio,Republican Primary,Fallon Research,"April 4–7, 2018",502,± 4.4%,Dan Kiley,R,1%,False
-2018,Ohio,Republican Primary,OnMessage (R-Renacci),"March 20, 2018",–,,Dan Kiley,R,3%,False
-2018,Ohio,Republican Primary,SurveyUSA,"March 16–20, 2018",541,± 5.7%,Dan Kiley,R,1%,False
-2018,Ohio,Republican Primary,Baldwin Wallace University,"April 24 – May 2, 2018",323,,Jim Renacci,R,25%,False
-2018,Ohio,Republican Primary,Fallon Research,"April 4–7, 2018",502,± 4.4%,Jim Renacci,R,21%,False
-2018,Ohio,Republican Primary,OnMessage (R-Renacci),"March 20, 2018",–,,Jim Renacci,R,36%,False
-2018,Ohio,Republican Primary,SurveyUSA,"March 16–20, 2018",541,± 5.7%,Jim Renacci,R,21%,False
-2018,Pennsylvania,Republican Primary,Susquehanna Polling & Research (R-Christiana),April 2018,>400,,Lou Barletta,R,32%,False
-2018,Pennsylvania,Republican Primary,Bellwether Research (R-Addis),"September 20–24, 2017",600,± 4.0%,Lou Barletta,R,22%,False
-2018,Pennsylvania,Republican Primary,Susquehanna Polling & Research (R-Christiana),April 2018,>400,,Jim Christiana,R,11%,False
-2018,Rhode Island,Democratic Primary,ALG Research (D-Whitehouse),"May 7–14, 2018",329,± 5.5%,Sheldon Whitehouse,D,72%,True
-2018,Rhode Island,Democratic Primary,ALG Research (D-Whitehouse),"May 7–14, 2018",329,± 5.5%,Lincoln Chafee,D,14%,False
-2018,Tennessee,Republican Primary,WPA Intelligence (R-Club for Growth),"January 14–15, 2018",502,± 4.4%,Marsha Blackburn,R,66%,False
-2018,Tennessee,Republican Primary,Triton Polling & Research (R),"December 12–18, 2017","1,028",± 3.1%,Marsha Blackburn,R,58%,False
-2018,Tennessee,Republican Primary,WPA Intelligence (R-Club for Growth),"January 14–15, 2018",502,± 4.4%,Stephen Fincher,R,13%,False
-2018,Tennessee,Republican Primary,Triton Polling & Research (R),"December 12–18, 2017","1,028",± 3.1%,Stephen Fincher,R,11%,False
-2018,Tennessee,Republican Primary,Triton Polling & Research (R),"December 12–18, 2017","1,028",± 3.1%,Rolando Toyos,R,4%,False
-2018,Texas,Democratic Primary,Dixie Strategies,"February 22–23, 2018",,± 5.7%,Sema Hernandez,D,6%,False
-2018,Texas,Democratic Primary,University of Texas,"February 1–12, 2018",453,± 7.4%,Sema Hernandez,D,19%,False
-2018,Texas,Democratic Primary,Dixie Strategies,"February 22–23, 2018",,± 5.7%,Edward Kimbrough,D,4%,False
-2018,Texas,Democratic Primary,University of Texas,"February 1–12, 2018",453,± 7.4%,Edward Kimbrough,D,8%,False
-2018,Texas,Democratic Primary,Dixie Strategies,"February 22–23, 2018",,± 5.7%,Beto O'Rourke,D,38%,False
-2018,Texas,Democratic Primary,University of Texas,"February 1–12, 2018",453,± 7.4%,Beto O'Rourke,D,73%,False
-2018,Texas,Republican Primary,Dixie Strategies,"February 22–23, 2018",,± 4.7%,Ted Cruz,R,73%,True
-2018,Texas,Republican Primary,University of Texas,"February 1–12, 2018",612,± 5.3%,Ted Cruz,R,91%,True
-2018,Texas,Republican Primary,Dixie Strategies,"February 22–23, 2018",,± 4.7%,Stefano de Stefano,R,1%,False
-2018,Texas,Republican Primary,University of Texas,"February 1–12, 2018",612,± 5.3%,Stefano de Stefano,R,1%,False
-2018,Texas,Republican Primary,Dixie Strategies,"February 22–23, 2018",,± 4.7%,Bruce Jacobson,R,2%,False
-2018,Texas,Republican Primary,University of Texas,"February 1–12, 2018",612,± 5.3%,Bruce Jacobson,R,3%,False
-2018,Texas,Republican Primary,Dixie Strategies,"February 22–23, 2018",,± 4.7%,Mary Miller,R,2%,False
-2018,Texas,Republican Primary,University of Texas,"February 1–12, 2018",612,± 5.3%,Mary Miller,R,3%,False
-2018,Texas,Republican Primary,Dixie Strategies,"February 22–23, 2018",,± 4.7%,Geraldine Sam,R,1%,False
-2018,Texas,Republican Primary,University of Texas,"February 1–12, 2018",612,± 5.3%,Geraldine Sam,R,2%,False
-2018,Virginia,Republican Primary,Atlantic Media & Research (R-Stewart),"May 14–18, 2018",355,± 5.2%,Nick Freitas,R,9%,False
-2018,Virginia,Republican Primary,Christopher Newport University,"February 5–28, 2018",422,± 2.5%,Nick Freitas,R,6%,False
-2018,Virginia,Republican Primary,Atlantic Media & Research (R-Stewart),"May 14–18, 2018",355,± 5.2%,E. W. Jackson,R,5%,False
-2018,Virginia,Republican Primary,Christopher Newport University,"February 5–28, 2018",422,± 2.5%,E. W. Jackson,R,7%,False
-2018,Virginia,Republican Primary,Atlantic Media & Research (R-Stewart),"May 14–18, 2018",355,± 5.2%,Corey Stewart,R,32%,False
-2018,Virginia,Republican Primary,Christopher Newport University,"February 5–28, 2018",422,± 2.5%,Corey Stewart,R,16%,False
-2018,West Virginia,Democratic Primary,SurveyMonkey (D-Swearengin),September 2017,46%,,Joe Manchin,D,8%,True
-2018,West Virginia,Democratic Primary,SurveyMonkey (D-Swearengin),September 2017,46%,,Paula Jean Swearengin,D,38%,False
-2018,West Virginia,Republican Primary,Public Opinion Strategies (R-Morrisey),"April 22–23, 2018",500,± 4.4%,Don Blankenship,R,15%,False
-2018,West Virginia,Republican Primary,Fox News,"April 18–22, 2018",985,± 3.0%,Don Blankenship,R,16%,False
-2018,West Virginia,Republican Primary,National Research Inc. (R-GOPAC),"April 17–19, 2018",411,± 4.9%,Don Blankenship,R,12%,False
-2018,West Virginia,Republican Primary,Osage Research (R-Morrisey),"March 13, 2018",500,± 4.4%,Don Blankenship,R,23%,False
-2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),"March 5–6, 2018",400,,Don Blankenship,R,27%,False
-2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),"February 5–6, 2018",500,± 4.4%,Don Blankenship,R,18%,False
-2018,West Virginia,Republican Primary,Public Opinion Strategies (R-Morrisey),"April 22–23, 2018",500,± 4.4%,Evan Jenkins,R,26%,False
-2018,West Virginia,Republican Primary,Fox News,"April 18–22, 2018",985,± 3.0%,Evan Jenkins,R,25%,False
-2018,West Virginia,Republican Primary,National Research Inc. (R-GOPAC),"April 17–19, 2018",411,± 4.9%,Evan Jenkins,R,20%,False
-2018,West Virginia,Republican Primary,Osage Research (R-Morrisey),"March 13, 2018",500,± 4.4%,Evan Jenkins,R,17%,False
-2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),"March 5–6, 2018",400,,Evan Jenkins,R,29%,False
-2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),"February 5–6, 2018",500,± 4.4%,Evan Jenkins,R,33%,False
-2018,West Virginia,Republican Primary,"Fabrizio, Lee and Associates (R-35th PAC)","October 19–22, 2017",400,± 4.9%,Evan Jenkins,R,34%,False
-2018,West Virginia,Republican Primary,Public Opinion Strategies (R-Morrisey),"April 22–23, 2018",500,± 4.4%,Patrick Morrisey,R,28%,False
-2018,West Virginia,Republican Primary,Fox News,"April 18–22, 2018",985,± 3.0%,Patrick Morrisey,R,21%,False
-2018,West Virginia,Republican Primary,National Research Inc. (R-GOPAC),"April 17–19, 2018",411,± 4.9%,Patrick Morrisey,R,24%,False
-2018,West Virginia,Republican Primary,Osage Research (R-Morrisey),"March 13, 2018",500,± 4.4%,Patrick Morrisey,R,24%,False
-2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),"March 5–6, 2018",400,,Patrick Morrisey,R,19%,False
-2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),"February 5–6, 2018",500,± 4.4%,Patrick Morrisey,R,25%,False
-2018,West Virginia,Republican Primary,"Fabrizio, Lee and Associates (R-35th PAC)","October 19–22, 2017",400,± 4.9%,Patrick Morrisey,R,40%,False
-2018,Wisconsin,Republican Primary,Emerson College,"July 26–28, 2018",238,± 6.5%,Kevin Nicholson,R,35%,False
-2018,Wisconsin,Republican Primary,Marist College,"July 15–19, 2018",355,± 6.1%,Kevin Nicholson,R,38%,False
-2018,Wisconsin,Republican Primary,Hodas & Associates (R),"July 12–16, 2018",600,± 3.0%,Kevin Nicholson,R,33%,False
-2018,Wisconsin,Republican Primary,Marquette University,"July 11–15, 2018",266,± 7.0%,Kevin Nicholson,R,32%,False
-2018,Wisconsin,Republican Primary,Marquette University,"June 13–17, 2018",274,± 6.9%,Kevin Nicholson,R,37%,False
-2018,Wisconsin,Republican Primary,Hodas & Associates (R),"June 7–12, 2018",600,± 3.0%,Kevin Nicholson,R,28%,False
-2018,Wisconsin,Republican Primary,The Tarrance Group (R),"May 31 – June 4, 2018",800,± 3.5%,Kevin Nicholson,R,29%,False
-2018,Wisconsin,Republican Primary,American Viewpoint (R),"May 29–31, 2018",500,± 4.4%,Kevin Nicholson,R,32%,False
-2018,Wisconsin,Republican Primary,Hodas & Associates (R),"April 30 – May 3, 2018",240,± 6.0%,Kevin Nicholson,R,46%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"April 2–4, 2018","1,028",± 3.1%,Kevin Nicholson,R,45%,False
-2018,Wisconsin,Republican Primary,Marquette University,"February 25 – March 1, 2018",243,± 8.2%,Kevin Nicholson,R,28%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"January 22–23, 2018",350,± 5.2%,Kevin Nicholson,R,48%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"January 2–3, 2018",350,± 5.2%,Kevin Nicholson,R,27%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"December 6–7, 2017","1,004",± 3.1%,Kevin Nicholson,R,30%,False
-2018,Wisconsin,Republican Primary,Emerson College,"July 26–28, 2018",238,± 6.5%,Leah Vukmir,R,35%,False
-2018,Wisconsin,Republican Primary,Marist College,"July 15–19, 2018",355,± 6.1%,Leah Vukmir,R,28%,False
-2018,Wisconsin,Republican Primary,Hodas & Associates (R),"July 12–16, 2018",600,± 3.0%,Leah Vukmir,R,20%,False
-2018,Wisconsin,Republican Primary,Marquette University,"July 11–15, 2018",266,± 7.0%,Leah Vukmir,R,34%,False
-2018,Wisconsin,Republican Primary,Marquette University,"June 13–17, 2018",274,± 6.9%,Leah Vukmir,R,32%,False
-2018,Wisconsin,Republican Primary,Hodas & Associates (R),"June 7–12, 2018",600,± 3.0%,Leah Vukmir,R,14%,False
-2018,Wisconsin,Republican Primary,The Tarrance Group (R),"May 31 – June 4, 2018",800,± 3.5%,Leah Vukmir,R,36%,False
-2018,Wisconsin,Republican Primary,American Viewpoint (R),"May 29–31, 2018",500,± 4.4%,Leah Vukmir,R,30%,False
-2018,Wisconsin,Republican Primary,Hodas & Associates (R),"April 30 – May 3, 2018",240,± 6.0%,Leah Vukmir,R,15%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"April 2–4, 2018","1,028",± 3.1%,Leah Vukmir,R,27%,False
-2018,Wisconsin,Republican Primary,Marquette University,"February 25 – March 1, 2018",243,± 8.2%,Leah Vukmir,R,19%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"January 22–23, 2018",350,± 5.2%,Leah Vukmir,R,9%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"January 2–3, 2018",350,± 5.2%,Leah Vukmir,R,10%,False
-2018,Wisconsin,Republican Primary,WPA Intelligence (R),"December 6–7, 2017","1,004",± 3.1%,Leah Vukmir,R,23%,False
+Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2018,Arizona,Republican Primary,Data Orbital,2018-08-21 to 2018-08-22,2018-08-21,2018-08-22,600,± 4.0%,Joe Arpaio,R,18%,False,"August 21–22, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-08-14 to 2018-08-15,2018-08-14,2018-08-15,578,± 4.1%,Joe Arpaio,R,13%,False,"August 14–15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-07-23 to 2018-07-25,2018-07-23,2018-07-25,576,± 4.1%,Joe Arpaio,R,15%,False,"July 23–25, 2018"
+2018,Arizona,Republican Primary,Gravis Marketing,2018-06-27 to 2018-07-02,2018-06-27,2018-07-02,501,± 4.4%,Joe Arpaio,R,24%,False,"June 27 – July 2, 2018"
+2018,Arizona,Republican Primary,Emerson College,2018-06-21 to 2018-06-22,2018-06-21,2018-06-22,305,± 5.9%,Joe Arpaio,R,18%,False,"June 21–22, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-06-19 to 2018-06-21,2018-06-19,2018-06-21,550,± 4.2%,Joe Arpaio,R,17%,False,"June 19–21, 2018"
+2018,Arizona,Republican Primary,Marist College,2018-06-17 to 2018-06-21,2018-06-17,2018-06-21,371,± 6.7%,Joe Arpaio,R,21%,False,"June 17–21, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-06-11 to 2018-06-12,2018-06-11,2018-06-12,600,± 4.0%,Joe Arpaio,R,14%,False,"June 11–12, 2018"
+2018,Arizona,Republican Primary,Remington (R),2018-05-23 to 2018-05-24,2018-05-23,2018-05-24,"2,011",± 2.3%,Joe Arpaio,R,25%,False,"May 23–24, 2018"
+2018,Arizona,Republican Primary,Magellan Strategies (R),2018-04-11 to 2018-04-15,2018-04-11,2018-04-15,755,± 3.6%,Joe Arpaio,R,26%,False,"April 11–12 and 15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,302,± 5.6%,Joe Arpaio,R,22%,False,"April 10–11, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-01-11 to 2018-01-15,2018-01-11,2018-01-15,500,± 4.4%,Joe Arpaio,R,22%,False,"January 11–15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-01-09,2018-01-09,2018-01-09,504,± 4.4%,Joe Arpaio,R,29%,False,"January 9, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-08-21 to 2018-08-22,2018-08-21,2018-08-22,600,± 4.0%,Martha McSally,R,48%,False,"August 21–22, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-08-14 to 2018-08-15,2018-08-14,2018-08-15,578,± 4.1%,Martha McSally,R,47%,False,"August 14–15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-07-23 to 2018-07-25,2018-07-23,2018-07-25,576,± 4.1%,Martha McSally,R,35%,False,"July 23–25, 2018"
+2018,Arizona,Republican Primary,Gravis Marketing,2018-06-27 to 2018-07-02,2018-06-27,2018-07-02,501,± 4.4%,Martha McSally,R,36%,False,"June 27 – July 2, 2018"
+2018,Arizona,Republican Primary,Emerson College,2018-06-21 to 2018-06-22,2018-06-21,2018-06-22,305,± 5.9%,Martha McSally,R,32%,False,"June 21–22, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-06-19 to 2018-06-21,2018-06-19,2018-06-21,550,± 4.2%,Martha McSally,R,38%,False,"June 19–21, 2018"
+2018,Arizona,Republican Primary,Marist College,2018-06-17 to 2018-06-21,2018-06-17,2018-06-21,371,± 6.7%,Martha McSally,R,30%,False,"June 17–21, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-06-11 to 2018-06-12,2018-06-11,2018-06-12,600,± 4.0%,Martha McSally,R,39%,False,"June 11–12, 2018"
+2018,Arizona,Republican Primary,Remington (R),2018-05-23 to 2018-05-24,2018-05-23,2018-05-24,"2,011",± 2.3%,Martha McSally,R,42%,False,"May 23–24, 2018"
+2018,Arizona,Republican Primary,Magellan Strategies (R),2018-04-11 to 2018-04-15,2018-04-11,2018-04-15,755,± 3.6%,Martha McSally,R,36%,False,"April 11–12 and 15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,302,± 5.6%,Martha McSally,R,27%,False,"April 10–11, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-01-11 to 2018-01-15,2018-01-11,2018-01-15,500,± 4.4%,Martha McSally,R,31%,False,"January 11–15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-01-09,2018-01-09,2018-01-09,504,± 4.4%,Martha McSally,R,31%,False,"January 9, 2018"
+2018,Arizona,Republican Primary,WPA Intelligence (R),2017-11-15 to 2017-11-16,2017-11-15,2017-11-16,500,± 4.4%,Martha McSally,R,38%,False,"November 15–16, 2017"
+2018,Arizona,Republican Primary,OH Predictive Insights,2017-11-09,2017-11-09,2017-11-09,323,± 5.5%,Martha McSally,R,34%,False,"November 9, 2017"
+2018,Arizona,Republican Primary,Revily (R),2017-10-28 to 2017-10-31,2017-10-28,2017-10-31,380,± 3.0%,Martha McSally,R,21%,False,"October 28–31, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2017-10-26 to 2017-10-28,2017-10-26,2017-10-28,500,± 4.4%,Martha McSally,R,19%,False,"October 26–28, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2018-08-21 to 2018-08-22,2018-08-21,2018-08-22,600,± 4.0%,Kelli Ward,R,22%,False,"August 21–22, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-08-14 to 2018-08-15,2018-08-14,2018-08-15,578,± 4.1%,Kelli Ward,R,27%,False,"August 14–15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-07-23 to 2018-07-25,2018-07-23,2018-07-25,576,± 4.1%,Kelli Ward,R,27%,False,"July 23–25, 2018"
+2018,Arizona,Republican Primary,Gravis Marketing,2018-06-27 to 2018-07-02,2018-06-27,2018-07-02,501,± 4.4%,Kelli Ward,R,27%,False,"June 27 – July 2, 2018"
+2018,Arizona,Republican Primary,Emerson College,2018-06-21 to 2018-06-22,2018-06-21,2018-06-22,305,± 5.9%,Kelli Ward,R,19%,False,"June 21–22, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-06-19 to 2018-06-21,2018-06-19,2018-06-21,550,± 4.2%,Kelli Ward,R,23%,False,"June 19–21, 2018"
+2018,Arizona,Republican Primary,Marist College,2018-06-17 to 2018-06-21,2018-06-17,2018-06-21,371,± 6.7%,Kelli Ward,R,28%,False,"June 17–21, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-06-11 to 2018-06-12,2018-06-11,2018-06-12,600,± 4.0%,Kelli Ward,R,25%,False,"June 11–12, 2018"
+2018,Arizona,Republican Primary,Remington (R),2018-05-23 to 2018-05-24,2018-05-23,2018-05-24,"2,011",± 2.3%,Kelli Ward,R,23%,False,"May 23–24, 2018"
+2018,Arizona,Republican Primary,Magellan Strategies (R),2018-04-11 to 2018-04-15,2018-04-11,2018-04-15,755,± 3.6%,Kelli Ward,R,25%,False,"April 11–12 and 15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,302,± 5.6%,Kelli Ward,R,36%,False,"April 10–11, 2018"
+2018,Arizona,Republican Primary,Data Orbital,2018-01-11 to 2018-01-15,2018-01-11,2018-01-15,500,± 4.4%,Kelli Ward,R,19%,False,"January 11–15, 2018"
+2018,Arizona,Republican Primary,OH Predictive Insights,2018-01-09,2018-01-09,2018-01-09,504,± 4.4%,Kelli Ward,R,25%,False,"January 9, 2018"
+2018,Arizona,Republican Primary,WPA Intelligence (R),2017-11-15 to 2017-11-16,2017-11-15,2017-11-16,500,± 4.4%,Kelli Ward,R,36%,False,"November 15–16, 2017"
+2018,Arizona,Republican Primary,OH Predictive Insights,2017-11-09,2017-11-09,2017-11-09,323,± 5.5%,Kelli Ward,R,42%,False,"November 9, 2017"
+2018,Arizona,Republican Primary,Revily (R),2017-10-28 to 2017-10-31,2017-10-28,2017-10-31,380,± 3.0%,Kelli Ward,R,32%,False,"October 28–31, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2017-10-26 to 2017-10-28,2017-10-26,2017-10-28,500,± 4.4%,Kelli Ward,R,26%,False,"October 26–28, 2017"
+2018,Arizona,Republican Primary,GBA Strategies,2017-08-30 to 2017-09-07,2017-08-30,2017-09-07,500,± 4.4%,Kelli Ward,R,58%,False,"August 30 – September 7, 2017"
+2018,Arizona,Republican Primary,JMC Analytics (R),2017-08-26 to 2017-08-27,2017-08-26,2017-08-27,500,± 4.4%,Kelli Ward,R,47%,False,"August 26–27, 2017"
+2018,Arizona,Republican Primary,HighGround Public Affairs,2017-08-18 to 2017-08-19,2017-08-18,2017-08-19,273,± 5.9%,Kelli Ward,R,43%,False,"August 18–19, 2017"
+2018,Arizona,Republican Primary,Political Marketing International (R-Ward),2017-02-07,2017-02-07,2017-02-07,921,± 5.0%,Kelli Ward,R,30%,False,"February 7, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2017-10-26 to 2017-10-28,2017-10-26,2017-10-28,500,± 4.4%,Jay Heiler,R,1%,False,"October 26–28, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2017-10-26 to 2017-10-28,2017-10-26,2017-10-28,500,± 4.4%,Matt Salmon,R,10%,False,"October 26–28, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2017-10-26 to 2017-10-28,2017-10-26,2017-10-28,500,± 4.4%,David Schweikert,R,5%,False,"October 26–28, 2017"
+2018,Arizona,Republican Primary,Data Orbital,2017-10-26 to 2017-10-28,2017-10-26,2017-10-28,500,± 4.4%,John Shadegg,R,4%,False,"October 26–28, 2017"
+2018,Arizona,Republican Primary,GBA Strategies,2017-08-30 to 2017-09-07,2017-08-30,2017-09-07,500,± 4.4%,Jeff Flake,R,31%,True,"August 30 – September 7, 2017"
+2018,Arizona,Republican Primary,JMC Analytics (R),2017-08-26 to 2017-08-27,2017-08-26,2017-08-27,500,± 4.4%,Jeff Flake,R,21%,True,"August 26–27, 2017"
+2018,Arizona,Republican Primary,HighGround Public Affairs,2017-08-18 to 2017-08-19,2017-08-18,2017-08-19,273,± 5.9%,Jeff Flake,R,28%,True,"August 18–19, 2017"
+2018,Arizona,Republican Primary,Political Marketing International (R-Ward),2017-02-07,2017-02-07,2017-02-07,921,± 5.0%,Jeff Flake,R,23%,True,"February 7, 2017"
+2018,Arizona,Republican Primary,JMC Analytics (R),2017-08-26 to 2017-08-27,2017-08-26,2017-08-27,500,± 4.4%,Nicholas Tutora,R,3%,False,"August 26–27, 2017"
+2018,Arizona,Democratic Primary,Data Orbital,2018-06-25 to 2018-06-27,2018-06-25,2018-06-27,550,± 4.2%,Deedra Abboud,D,7%,False,"June 25–27, 2018"
+2018,Arizona,Democratic Primary,Emerson College,2018-06-21 to 2018-06-22,2018-06-21,2018-06-22,260,± 6.2%,Deedra Abboud,D,8%,False,"June 21–22, 2018"
+2018,Arizona,Democratic Primary,Data Orbital,2018-06-25 to 2018-06-27,2018-06-25,2018-06-27,550,± 4.2%,Kyrsten Sinema,D,63%,False,"June 25–27, 2018"
+2018,Arizona,Democratic Primary,Emerson College,2018-06-21 to 2018-06-22,2018-06-21,2018-06-22,260,± 6.2%,Kyrsten Sinema,D,51%,False,"June 21–22, 2018"
+2018,California,jungle,UC Berkeley,2018-05-22 to 2018-05-28,2018-05-22,2018-05-28,"2,106",± 3.5%,James P. Bradley,R,7%,False,"May 22−28, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,James P. Bradley,R,6%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,James P. Bradley,R,9%,False,"May 21, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,James P. Bradley,R,3%,False,"April 18 – May 18, 2018"
+2018,California,jungle,Gravis Marketing,2018-05-04 to 2018-05-05,2018-05-04,2018-05-05,525,± 4.3%,James P. Bradley,R,19%,False,"May 4–5, 2018"
+2018,California,jungle,UC Berkeley,2018-04-16 to 2018-04-22,2018-04-16,2018-04-22,"1,738",± 3.5%,James P. Bradley,R,10%,False,"April 16–22, 2018"
+2018,California,jungle,Emerson College,2018-05-21 to 2018-05-24,2018-05-21,2018-05-24,600,± 4.2%,Erin Cruz,R,5%,False,"May 21–24, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Erin Cruz,R,2%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Erin Cruz,R,2%,False,"May 21, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Erin Cruz,R,1%,False,"April 18 – May 18, 2018"
+2018,California,jungle,Gravis Marketing,2018-05-04 to 2018-05-05,2018-05-04,2018-05-05,525,± 4.3%,Erin Cruz,R,13%,False,"May 4–5, 2018"
+2018,California,jungle,Emerson College,2018-05-21 to 2018-05-24,2018-05-21,2018-05-24,600,± 4.2%,Pat Harris,D,6%,False,"May 21–24, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Pat Harris,D,2%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Pat Harris,D,2%,False,"May 21, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Pat Harris,D,2%,False,"April 18 – May 18, 2018"
+2018,California,jungle,Emerson College,2018-05-21 to 2018-05-24,2018-05-21,2018-05-24,600,± 4.2%,Rocky De La Fuente,R,4%,False,"May 21–24, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Rocky De La Fuente,R,4%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Rocky De La Fuente,R,3%,False,"May 21, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Rocky De La Fuente,R,0%,False,"April 18 – May 18, 2018"
+2018,California,jungle,SurveyUSA,2018-04-19 to 2018-04-23,2018-04-19,2018-04-23,520,± 5.5%,Rocky De La Fuente,R,8%,False,"April 19–23, 2018"
+2018,California,jungle,UC Berkeley,2018-05-22 to 2018-05-28,2018-05-22,2018-05-28,"2,106",± 3.5%,Kevin de León,D,11%,False,"May 22−28, 2018"
+2018,California,jungle,Emerson College,2018-05-21 to 2018-05-24,2018-05-21,2018-05-24,600,± 4.2%,Kevin de León,D,6%,False,"May 21–24, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Kevin de León,D,11%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Kevin de León,D,11%,False,"May 21, 2018"
+2018,California,jungle,Public Policy Institute of California,2018-05-11 to 2018-05-20,2018-05-11,2018-05-20,901,± 4.1%,Kevin de León,D,17%,False,"May 11–20, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Kevin de León,D,7%,False,"April 18 – May 18, 2018"
+2018,California,jungle,Gravis Marketing,2018-05-04 to 2018-05-05,2018-05-04,2018-05-05,525,± 4.3%,Kevin de León,D,8%,False,"May 4–5, 2018"
+2018,California,jungle,SurveyUSA,2018-04-19 to 2018-04-23,2018-04-19,2018-04-23,520,± 5.5%,Kevin de León,D,8%,False,"April 19–23, 2018"
+2018,California,jungle,UC Berkeley,2018-04-16 to 2018-04-22,2018-04-16,2018-04-22,"1,738",± 3.5%,Kevin de León,D,11%,False,"April 16–22, 2018"
+2018,California,jungle,Public Policy Institute of California,2018-03-04 to 2018-03-13,2018-03-04,2018-03-13,"1,706",± 3.4%,Kevin de León,D,16%,False,"March 4–13, 2018"
+2018,California,jungle,Public Policy Institute of California,2018-01-21 to 2018-01-30,2018-01-21,2018-01-30,"1,705",± 3.2%,Kevin de León,D,17%,False,"January 21–30, 2018"
+2018,California,jungle,UC Berkeley,2017-12-07 to 2017-12-16,2017-12-07,2017-12-16,672,± 3.8%,Kevin de León,D,27%,False,"December 7–16, 2017"
+2018,California,jungle,Public Policy Institute of California,2017-11-10 to 2017-11-19,2017-11-10,2017-11-19,"1,070",± 4.3%,Kevin de León,D,21%,False,"November 10–19, 2017"
+2018,California,jungle,Sextant Strategies & Research,2017-09,2017-09-01,2017-09-30,"1,197",± 3.4%,Kevin de León,D,15%,False,September 2017
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,Kevin de León,D,5%,False,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,Kevin de León,D,4%,False,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-01-01 to 2018-01-09,2018-01-01,2018-01-09,506,± 4.4%,Kevin de León,D,3%,False,"January–9, 2018"
+2018,California,jungle,Sextant Strategies & Research,2017-09,2017-09-01,2017-09-30,"1,197",± 3.4%,Kevin de León,D,14%,False,September 2017
+2018,California,jungle,Public Policy Polling,2017-01-17 to 2017-01-18,2017-01-17,2017-01-18,882,± 3.3%,Kevin de León,D,4%,False,"January 17–18, 2017"
+2018,California,jungle,UC Berkeley,2018-05-22 to 2018-05-28,2018-05-22,2018-05-28,"2,106",± 3.5%,Dianne Feinstein,D,36%,True,"May 22−28, 2018"
+2018,California,jungle,Emerson College,2018-05-21 to 2018-05-24,2018-05-21,2018-05-24,600,± 4.2%,Dianne Feinstein,D,38%,True,"May 21–24, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Dianne Feinstein,D,36%,True,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Dianne Feinstein,D,36%,True,"May 21, 2018"
+2018,California,jungle,Public Policy Institute of California,2018-05-11 to 2018-05-20,2018-05-11,2018-05-20,901,± 4.1%,Dianne Feinstein,D,41%,True,"May 11–20, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Dianne Feinstein,D,31%,True,"April 18 – May 18, 2018"
+2018,California,jungle,Gravis Marketing,2018-05-04 to 2018-05-05,2018-05-04,2018-05-05,525,± 4.3%,Dianne Feinstein,D,32%,True,"May 4–5, 2018"
+2018,California,jungle,SurveyUSA,2018-04-19 to 2018-04-23,2018-04-19,2018-04-23,520,± 5.5%,Dianne Feinstein,D,38%,True,"April 19–23, 2018"
+2018,California,jungle,UC Berkeley,2018-04-16 to 2018-04-22,2018-04-16,2018-04-22,"1,738",± 3.5%,Dianne Feinstein,D,28%,True,"April 16–22, 2018"
+2018,California,jungle,Public Policy Institute of California,2018-03-04 to 2018-03-13,2018-03-04,2018-03-13,"1,706",± 3.4%,Dianne Feinstein,D,42%,True,"March 4–13, 2018"
+2018,California,jungle,Public Policy Institute of California,2018-01-21 to 2018-01-30,2018-01-21,2018-01-30,"1,705",± 3.2%,Dianne Feinstein,D,46%,True,"January 21–30, 2018"
+2018,California,jungle,UC Berkeley,2017-12-07 to 2017-12-16,2017-12-07,2017-12-16,672,± 3.8%,Dianne Feinstein,D,41%,True,"December 7–16, 2017"
+2018,California,jungle,Public Policy Institute of California,2017-11-10 to 2017-11-19,2017-11-10,2017-11-19,"1,070",± 4.3%,Dianne Feinstein,D,45%,True,"November 10–19, 2017"
+2018,California,jungle,Sextant Strategies & Research,2017-09,2017-09-01,2017-09-30,"1,197",± 3.4%,Dianne Feinstein,D,38%,True,September 2017
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,Dianne Feinstein,D,31%,True,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,Dianne Feinstein,D,34%,True,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-01-01 to 2018-01-09,2018-01-01,2018-01-09,506,± 4.4%,Dianne Feinstein,D,29%,True,"January–9, 2018"
+2018,California,jungle,Sextant Strategies & Research,2017-09,2017-09-01,2017-09-30,"1,197",± 3.4%,Dianne Feinstein,D,40%,True,September 2017
+2018,California,jungle,Emerson College,2018-05-21 to 2018-05-24,2018-05-21,2018-05-24,600,± 4.2%,Alison Hartson,D,4%,False,"May 21–24, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Alison Hartson,D,1%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Alison Hartson,D,1%,False,"May 21, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Alison Hartson,D,1%,False,"April 18 – May 18, 2018"
+2018,California,jungle,Gravis Marketing,2018-05-04 to 2018-05-05,2018-05-04,2018-05-05,525,± 4.3%,Alison Hartson,D,6%,False,"May 4–5, 2018"
+2018,California,jungle,SurveyUSA,2018-04-19 to 2018-04-23,2018-04-19,2018-04-23,520,± 5.5%,Alison Hartson,D,4%,False,"April 19–23, 2018"
+2018,California,jungle,YouGov,2018-05-12 to 2018-05-24,2018-05-12,2018-05-24,"1,113",± 4.0%,Patrick Little,R,1%,False,"May 12–24, 2018"
+2018,California,jungle,SurveyUSA,2018-05-21,2018-05-21,2018-05-21,678,± 6.1%,Patrick Little,R,0%,False,"May 21, 2018"
+2018,California,jungle,USC Dornsife,2018-04-18 to 2018-05-18,2018-04-18,2018-05-18,517,± 4.0%,Patrick Little,R,2%,False,"April 18 – May 18, 2018"
+2018,California,jungle,SurveyUSA,2018-04-19 to 2018-04-23,2018-04-19,2018-04-23,520,± 5.5%,Patrick Little,R,18%,False,"April 19–23, 2018"
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,Patrick Little,R,5%,False,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,Patrick Little,R,5%,False,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-01-01 to 2018-01-09,2018-01-01,2018-01-09,506,± 4.4%,Patrick Little,R,5%,False,"January–9, 2018"
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,Timothy Charles Kalemkarian,R,5%,False,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,Timothy Charles Kalemkarian,R,6%,False,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-01-01 to 2018-01-09,2018-01-01,2018-01-09,506,± 4.4%,Timothy Charles Kalemkarian,R,5%,False,"January–9, 2018"
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,Caren Lancona,R,2%,False,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,Caren Lancona,R,5%,False,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-01-01 to 2018-01-09,2018-01-01,2018-01-09,506,± 4.4%,Caren Lancona,R,5%,False,"January–9, 2018"
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,John Melendez,D,5%,False,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,John Melendez,D,2%,False,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-03-22 to 2018-03-25,2018-03-22,2018-03-25,517,± 5.0%,Stephen Schrader,R,7%,False,"March 22–25, 2018"
+2018,California,jungle,SurveyUSA,2018-01-07 to 2018-01-09,2018-01-07,2018-01-09,506,± 4.4%,Stephen Schrader,R,5%,False,"January 7–9, 2018"
+2018,California,jungle,SurveyUSA,2018-01-01 to 2018-01-09,2018-01-01,2018-01-09,506,± 4.4%,Tom Steyer,D,5%,False,"January–9, 2018"
+2018,California,jungle,Sextant Strategies & Research,2017-09,2017-09-01,2017-09-30,"1,197",± 3.4%,John Cox,R,32%,False,September 2017
+2018,California,jungle,Public Policy Polling,2017-01-17 to 2017-01-18,2017-01-17,2017-01-18,882,± 3.3%,Xavier Becerra,D,21%,False,"January 17–18, 2017"
+2018,California,jungle,Public Policy Polling,2017-01-17 to 2017-01-18,2017-01-17,2017-01-18,882,± 3.3%,Kevin Faulconer,R,18%,False,"January 17–18, 2017"
+2018,California,jungle,Public Policy Polling,2017-01-17 to 2017-01-18,2017-01-17,2017-01-18,882,± 3.3%,Brad Sherman,D,11%,False,"January 17–18, 2017"
+2018,California,jungle,Public Policy Polling,2017-01-17 to 2017-01-18,2017-01-17,2017-01-18,882,± 3.3%,Eric Swalwell,D,5%,False,"January 17–18, 2017"
+2018,California,jungle,Public Policy Polling,2017-01-17 to 2017-01-18,2017-01-17,2017-01-18,882,± 3.3%,Ashley Swearingin,R,13%,False,"January 17–18, 2017"
+2018,Delaware,Democratic Primary,Gravis Marketing,2018-07-24 to 2018-07-29,2018-07-24,2018-07-29,354,± 5.2%,Tom Carper,D,51%,True,"July 24–29, 2018"
+2018,Delaware,Democratic Primary,Gravis Marketing,2018-07-24 to 2018-07-29,2018-07-24,2018-07-29,354,± 5.2%,Kerri Evelyn Harris,D,19%,False,"July 24–29, 2018"
+2018,Delaware,Republican Primary,Gravis Marketing,2018-07-24 to 2018-07-29,2018-07-24,2018-07-29,288,± 5.8%,Rob Arlett,R,19%,False,"July 24–29, 2018"
+2018,Delaware,Republican Primary,Gravis Marketing,2018-07-24 to 2018-07-29,2018-07-24,2018-07-29,288,± 5.8%,Rocky De La Fuente,R,7%,False,"July 24–29, 2018"
+2018,Delaware,Republican Primary,Gravis Marketing,2018-07-24 to 2018-07-29,2018-07-24,2018-07-29,288,± 5.8%,Gene Truono,R,15%,False,"July 24–29, 2018"
+2018,Florida,Republican Primary,Gravis Marketing,2018-08-21 to 2018-08-25,2018-08-21,2018-08-25,579,± 4.1%,Rocky De La Fuente,R,12%,False,"August 21–25, 2018"
+2018,Florida,Republican Primary,Gravis Marketing,2018-08-21 to 2018-08-22,2018-08-21,2018-08-22,321,± 5.5%,Rocky De La Fuente,R,12%,False,"August 21–22, 2018"
+2018,Florida,Republican Primary,Gravis Marketing,2018-07-13 to 2018-07-14,2018-07-13,2018-07-14,905,± 3.3%,Rocky De La Fuente,R,16%,False,"July 13–14, 2018"
+2018,Florida,Republican Primary,Gravis Marketing,2018-08-21 to 2018-08-25,2018-08-21,2018-08-25,579,± 4.1%,Rick Scott,R,73%,False,"August 21–25, 2018"
+2018,Florida,Republican Primary,Gravis Marketing,2018-08-21 to 2018-08-22,2018-08-21,2018-08-22,321,± 5.5%,Rick Scott,R,73%,False,"August 21–22, 2018"
+2018,Florida,Republican Primary,Gravis Marketing,2018-07-13 to 2018-07-14,2018-07-13,2018-07-14,905,± 3.3%,Rick Scott,R,74%,False,"July 13–14, 2018"
+2018,Florida,Republican Primary,Saint Leo University,2017-11-19 to 2017-11-24,2017-11-19,2017-11-24,166,,Rick Scott,R,54%,False,"November 19–24, 2017"
+2018,Florida,Republican Primary,Saint Leo University,2016-11-27 to 2016-11-30,2016-11-27,2016-11-30,138,,Rick Scott,R,41%,False,"November 27–30, 2016"
+2018,Florida,Republican Primary,Saint Leo University,2016-11-27 to 2016-11-30,2016-11-27,2016-11-30,138,,Ron DeSantis,R,3%,False,"November 27–30, 2016"
+2018,Florida,Republican Primary,Saint Leo University,2017-11-19 to 2017-11-24,2017-11-19,2017-11-24,166,,Augustus Sol Invictus,R,1%,False,"November 19–24, 2017"
+2018,Florida,Republican Primary,Saint Leo University,2016-11-27 to 2016-11-30,2016-11-27,2016-11-30,138,,David Jolly,R,6%,False,"November 27–30, 2016"
+2018,Florida,Republican Primary,Saint Leo University,2016-11-27 to 2016-11-30,2016-11-27,2016-11-30,138,,Carlos López-Cantera,R,3%,False,"November 27–30, 2016"
+2018,Florida,Republican Primary,Saint Leo University,2017-11-19 to 2017-11-24,2017-11-19,2017-11-24,166,,Tom Rooney,R,8%,False,"November 19–24, 2017"
+2018,Florida,Republican Primary,Saint Leo University,2016-11-27 to 2016-11-30,2016-11-27,2016-11-30,138,,Tom Rooney,R,3%,False,"November 27–30, 2016"
+2018,Florida,Republican Primary,Saint Leo University,2017-11-19 to 2017-11-24,2017-11-19,2017-11-24,166,,Marcia R. Thorne,R,1%,False,"November 19–24, 2017"
+2018,Indiana,Republican Primary,Strategic National (R),2018-05-05 to 2018-05-06,2018-05-05,2018-05-06,300,± 5.7%,Luke Messer,R,29%,False,"May 5–6, 2018"
+2018,Indiana,Republican Primary,Gravis Marketing,2018-04-06 to 2018-04-11,2018-04-06,2018-04-11,280,± 5.9%,Luke Messer,R,13%,False,"April 6–11, 2018"
+2018,Indiana,Republican Primary,GS Strategy Group (R-Rokita),2018-01-06 to 2018-01-09,2018-01-06,2018-01-09,500,± 4.4%,Luke Messer,R,9%,False,"January 6–9, 2018"
+2018,Indiana,Republican Primary,OnMedia (R-Messer),2017-07-10 to 2017-07-12,2017-07-10,2017-07-12,400,± 4.8%,Luke Messer,R,23%,False,"July 10–12, 2017"
+2018,Indiana,Republican Primary,Strategic National (R),2018-05-05 to 2018-05-06,2018-05-05,2018-05-06,300,± 5.7%,Todd Rokita,R,28%,False,"May 5–6, 2018"
+2018,Indiana,Republican Primary,Gravis Marketing,2018-04-06 to 2018-04-11,2018-04-06,2018-04-11,280,± 5.9%,Todd Rokita,R,16%,False,"April 6–11, 2018"
+2018,Indiana,Republican Primary,GS Strategy Group (R-Rokita),2018-01-06 to 2018-01-09,2018-01-06,2018-01-09,500,± 4.4%,Todd Rokita,R,24%,False,"January 6–9, 2018"
+2018,Indiana,Republican Primary,OnMedia (R-Messer),2017-07-10 to 2017-07-12,2017-07-10,2017-07-12,400,± 4.8%,Todd Rokita,R,23%,False,"July 10–12, 2017"
+2018,Indiana,Republican Primary,Strategic National (R),2018-05-05 to 2018-05-06,2018-05-05,2018-05-06,300,± 5.7%,Mike Braun,R,44%,False,"May 5–6, 2018"
+2018,Indiana,Republican Primary,Gravis Marketing,2018-04-06 to 2018-04-11,2018-04-06,2018-04-11,280,± 5.9%,Mike Braun,R,26%,False,"April 6–11, 2018"
+2018,Indiana,Republican Primary,GS Strategy Group (R-Rokita),2018-01-06 to 2018-01-09,2018-01-06,2018-01-09,500,± 4.4%,Mike Braun,R,9%,False,"January 6–9, 2018"
+2018,Indiana,Republican Primary,OnMedia (R-Messer),2017-07-10 to 2017-07-12,2017-07-10,2017-07-12,400,± 4.8%,Mike Braun,R,2%,False,"July 10–12, 2017"
+2018,Maryland,Democratic Primary,Goucher College,2018-02-12 to 2018-02-18,2018-02-12,2018-02-18,409,± 4.8%,Ben Cardin,D,61%,True,"February 12–18, 2018"
+2018,Maryland,Democratic Primary,Goucher College,2018-02-12 to 2018-02-18,2018-02-12,2018-02-18,409,± 4.8%,Chelsea Manning,D,17%,False,"February 12–18, 2018"
+2018,Massachusetts,Republican Primary,MassINC,2018-06-22 to 2018-06-25,2018-06-22,2018-06-25,399,± 4.9%,Geoff Diehl,R,26%,False,"June 22–25, 2018"
+2018,Massachusetts,Republican Primary,MassINC,2018-06-22 to 2018-06-25,2018-06-22,2018-06-25,399,± 4.9%,John Kingston,R,12%,False,"June 22–25, 2018"
+2018,Massachusetts,Republican Primary,MassINC,2018-06-22 to 2018-06-25,2018-06-22,2018-06-25,399,± 4.9%,Beth Lindstrom,R,15%,False,"June 22–25, 2018"
+2018,Michigan,Republican Primary,Mitchell Research,2018-07-30,2018-07-30,2018-07-30,413,± 5.0%,John James,R,44%,False,"July 30, 2018"
+2018,Michigan,Republican Primary,EPIC-MRA,2018-07-21 to 2018-07-22,2018-07-21,2018-07-22,"1,045",± 3.1%,John James,R,39%,False,"July 21–22, 2018"
+2018,Michigan,Republican Primary,Emerson College,2018-07-19 to 2018-07-21,2018-07-19,2018-07-21,202,± 7.3%,John James,R,28%,False,"July 19–21, 2018"
+2018,Michigan,Republican Primary,Marist College,2018-07-15 to 2018-07-19,2018-07-15,2018-07-19,337,± 6.3%,John James,R,30%,False,"July 15–19, 2018"
+2018,Michigan,Republican Primary,National Research Inc. (R-Outsider PAC),2018-07-11 to 2018-07-14,2018-07-11,2018-07-14,600,± 4.0%,John James,R,21%,False,"July 11–14, 2018"
+2018,Michigan,Republican Primary,Target-Insyght,2018-06-24 to 2018-06-26,2018-06-24,2018-06-26,400,± 5.0%,John James,R,29%,False,"June 24–26, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-06-16 to 2018-06-21,2018-06-16,2018-06-21,"1,000",± 3.1%,John James,R,18%,False,"June 16–21, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-06-09 to 2018-06-10,2018-06-09,2018-06-10,400,± 4.9%,John James,R,16%,False,"June 9–10, 2018"
+2018,Michigan,Republican Primary,Marketing Resource Group (R-Pensler),2018-05-28 to 2018-05-29,2018-05-28,2018-05-29,627,± 3.8%,John James,R,26%,False,"May 28–29, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-04-21,2018-04-21,2018-04-21,350,± 5.2%,John James,R,13%,False,"April 21, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-04-04 to 2018-04-05,2018-04-04,2018-04-05,600,± 4.0%,John James,R,12%,False,"April 4–5, 2018"
+2018,Michigan,Republican Primary,Denno Research,2018-04-02 to 2018-04-03,2018-04-02,2018-04-03,500,± 4.0%,John James,R,12%,False,"April 2–3, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-03-19 to 2018-03-20,2018-03-19,2018-03-20,400,± 4.9%,John James,R,17%,False,"March 19–20, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2017-12-16 to 2017-12-17,2017-12-16,2017-12-17,600,± 4.0%,John James,R,9%,False,"December 16–17, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-11-01 to 2017-11-06,2017-11-01,2017-11-06,"1,000",,John James,R,24%,False,"November 1–6, 2017"
+2018,Michigan,Republican Primary,Zogby Analytics,2017-09,2017-09-01,2017-09-30,,,John James,R,5%,False,"September, 2017"
+2018,Michigan,Republican Primary,Trafalgar Group (R),2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,"1,078",± 3.1%,John James,R,7%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,344,± 5.35,John James,R,16%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Mitchell Research,2018-07-30,2018-07-30,2018-07-30,413,± 5.0%,Sandy Pensler,R,30%,False,"July 30, 2018"
+2018,Michigan,Republican Primary,EPIC-MRA,2018-07-21 to 2018-07-22,2018-07-21,2018-07-22,"1,045",± 3.1%,Sandy Pensler,R,38%,False,"July 21–22, 2018"
+2018,Michigan,Republican Primary,Emerson College,2018-07-19 to 2018-07-21,2018-07-19,2018-07-21,202,± 7.3%,Sandy Pensler,R,28%,False,"July 19–21, 2018"
+2018,Michigan,Republican Primary,Marist College,2018-07-15 to 2018-07-19,2018-07-15,2018-07-19,337,± 6.3%,Sandy Pensler,R,23%,False,"July 15–19, 2018"
+2018,Michigan,Republican Primary,National Research Inc. (R-Outsider PAC),2018-07-11 to 2018-07-14,2018-07-11,2018-07-14,600,± 4.0%,Sandy Pensler,R,28%,False,"July 11–14, 2018"
+2018,Michigan,Republican Primary,Target-Insyght,2018-06-24 to 2018-06-26,2018-06-24,2018-06-26,400,± 5.0%,Sandy Pensler,R,32%,False,"June 24–26, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-06-16 to 2018-06-21,2018-06-16,2018-06-21,"1,000",± 3.1%,Sandy Pensler,R,33%,False,"June 16–21, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-06-09 to 2018-06-10,2018-06-09,2018-06-10,400,± 4.9%,Sandy Pensler,R,29%,False,"June 9–10, 2018"
+2018,Michigan,Republican Primary,Marketing Resource Group (R-Pensler),2018-05-28 to 2018-05-29,2018-05-28,2018-05-29,627,± 3.8%,Sandy Pensler,R,36%,False,"May 28–29, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-04-21,2018-04-21,2018-04-21,350,± 5.2%,Sandy Pensler,R,26%,False,"April 21, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-04-04 to 2018-04-05,2018-04-04,2018-04-05,600,± 4.0%,Sandy Pensler,R,20%,False,"April 4–5, 2018"
+2018,Michigan,Republican Primary,Denno Research,2018-04-02 to 2018-04-03,2018-04-02,2018-04-03,500,± 4.0%,Sandy Pensler,R,16%,False,"April 2–3, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2018-03-19 to 2018-03-20,2018-03-19,2018-03-20,400,± 4.9%,Sandy Pensler,R,21%,False,"March 19–20, 2018"
+2018,Michigan,Republican Primary,Strategic National (R),2017-12-16 to 2017-12-17,2017-12-16,2017-12-17,600,± 4.0%,Sandy Pensler,R,5%,False,"December 16–17, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-11-01 to 2017-11-06,2017-11-01,2017-11-06,"1,000",,Fred Upton,R,19%,False,"November 1–6, 2017"
+2018,Michigan,Republican Primary,Strategic National (R),2017-12-16 to 2017-12-17,2017-12-16,2017-12-17,600,± 4.0%,Robert Young,R,11%,False,"December 16–17, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-11-01 to 2017-11-06,2017-11-01,2017-11-06,"1,000",,Robert Young,R,7%,False,"November 1–6, 2017"
+2018,Michigan,Republican Primary,Zogby Analytics,2017-09,2017-09-01,2017-09-30,,,Lena Epstein,R,7%,False,"September, 2017"
+2018,Michigan,Republican Primary,Trafalgar Group (R),2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,"1,078",± 3.1%,Lena Epstein,R,9%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,344,± 5.35,Lena Epstein,R,8%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Zogby Analytics,2017-09,2017-09-01,2017-09-30,,,Bob Young,R,3%,False,"September, 2017"
+2018,Michigan,Republican Primary,Trafalgar Group (R),2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,"1,078",± 3.1%,Bob Young,R,6%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,344,± 5.35,Bob Young,R,14%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Zogby Analytics,2017-09,2017-09-01,2017-09-30,,,Robert Ritchie,R,29%,False,"September, 2017"
+2018,Michigan,Republican Primary,Trafalgar Group (R),2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,"1,078",± 3.1%,Robert Ritchie,R,50%,False,"July 25–27, 2017"
+2018,Michigan,Republican Primary,Target-Insyght,2017-07-25 to 2017-07-27,2017-07-25,2017-07-27,344,± 5.35,Robert Ritchie,R,33%,False,"July 25–27, 2017"
+2018,Mississippi,Democratic Primary,Triumph Campaigns,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,446,,David Baria,D,7%,False,"April 10–11, 2018"
+2018,Mississippi,Democratic Primary,Triumph Campaigns,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,446,,Jensen Bohren,D,4%,False,"April 10–11, 2018"
+2018,Mississippi,Democratic Primary,Triumph Campaigns,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,446,,Omeria Scott,D,9%,False,"April 10–11, 2018"
+2018,Mississippi,Democratic Primary,Triumph Campaigns,2018-04-10 to 2018-04-11,2018-04-10,2018-04-11,446,,Howard Sherman,D,2%,False,"April 10–11, 2018"
+2018,Mississippi,Democratic Primary,Triumph Campaigns,2018-01-29,2018-01-29,2018-01-29,"2,145",± 1.8%,Jim Hood,D,33%,False,"January 29, 2018"
+2018,Mississippi,Democratic Primary,Triumph Campaigns,2018-01-29,2018-01-29,2018-01-29,"2,145",± 1.8%,Bennie Thompson,D,47%,False,"January 29, 2018"
+2018,Missouri,Republican Primary,Emerson College,2018-04-26 to 2018-04-29,2018-04-26,2018-04-29,283,± 6.0%,Josh Hawley,R,37%,False,"April 26–29, 2018"
+2018,Missouri,Republican Primary,Emerson College,2018-04-26 to 2018-04-29,2018-04-26,2018-04-29,283,± 6.0%,Austin Petersen,R,8%,False,"April 26–29, 2018"
+2018,Missouri,Republican Primary,Emerson College,2018-04-26 to 2018-04-29,2018-04-26,2018-04-29,283,± 6.0%,Courtland Sykes,R,6%,False,"April 26–29, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),2018-04-15 to 2018-04-16,2018-04-15,2018-04-16,503,± 4.4%,Troy Downing,R,12%,False,"April 15–16, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),2018-02-05 to 2018-02-07,2018-02-05,2018-02-07,401,± 4.4%,Troy Downing,R,12%,False,"February 5–7, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),2018-04-15 to 2018-04-16,2018-04-15,2018-04-16,503,± 4.4%,Russell Fagg,R,17%,False,"April 15–16, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),2018-02-05 to 2018-02-07,2018-02-05,2018-02-07,401,± 4.4%,Russell Fagg,R,11%,False,"February 5–7, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),2018-04-15 to 2018-04-16,2018-04-15,2018-04-16,503,± 4.4%,Al Olszewski,R,8%,False,"April 15–16, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),2018-02-05 to 2018-02-07,2018-02-05,2018-02-07,401,± 4.4%,Al Olszewski,R,5%,False,"February 5–7, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Club for Growth),2018-04-15 to 2018-04-16,2018-04-15,2018-04-16,503,± 4.4%,Matt Rosendale,R,40%,False,"April 15–16, 2018"
+2018,Montana,Republican Primary,WPA Intelligence (R-Rosendale),2018-02-05 to 2018-02-07,2018-02-05,2018-02-07,401,± 4.4%,Matt Rosendale,R,28%,False,"February 5–7, 2018"
+2018,Nevada,Republican Primary,JMC Analytics,2017-10-24 to 2017-10-26,2017-10-24,2017-10-26,500,± 4.4%,Dean Heller,R,38%,True,"October 24–26, 2017"
+2018,Nevada,Republican Primary,JMC Analytics,2017-08-24 to 2017-08-25,2017-08-24,2017-08-25,700,± 3.7%,Dean Heller,R,31%,True,"August 24–25, 2017"
+2018,Nevada,Republican Primary,The Tarrance Group (R-Heller),2017-08-14 to 2017-08-16,2017-08-14,2017-08-16,300,± 5.8%,Dean Heller,R,55%,True,"August 14–16, 2017"
+2018,Nevada,Republican Primary,JMC Analytics,2017-10-24 to 2017-10-26,2017-10-24,2017-10-26,500,± 4.4%,Danny Tarkanian,R,44%,False,"October 24–26, 2017"
+2018,Nevada,Republican Primary,JMC Analytics,2017-08-24 to 2017-08-25,2017-08-24,2017-08-25,700,± 3.7%,Danny Tarkanian,R,39%,False,"August 24–25, 2017"
+2018,Nevada,Republican Primary,The Tarrance Group (R-Heller),2017-08-14 to 2017-08-16,2017-08-14,2017-08-16,300,± 5.8%,Danny Tarkanian,R,33%,False,"August 14–16, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-10-11 to 2017-10-12,2017-10-11,2017-10-12,400,± 4.0%,Rick Becker,R,3%,False,"October 11–12, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-05-30 to 2017-06-01,2017-05-30,2017-06-01,400,± 4.0%,Rick Becker,R,9%,False,"May 30 – June 1, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-10-11 to 2017-10-12,2017-10-11,2017-10-12,400,± 4.0%,Rick Berg,R,24%,False,"October 11–12, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-05-30 to 2017-06-01,2017-05-30,2017-06-01,400,± 4.0%,Rick Berg,R,39%,False,"May 30 – June 1, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-10-11 to 2017-10-12,2017-10-11,2017-10-12,400,± 4.0%,Tom Campbell,R,32%,False,"October 11–12, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-05-30 to 2017-06-01,2017-05-30,2017-06-01,400,± 4.0%,Tom Campbell,R,7%,False,"May 30 – June 1, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-10-11 to 2017-10-12,2017-10-11,2017-10-12,400,± 4.0%,Tammy Miller,R,1%,False,"October 11–12, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-10-11 to 2017-10-12,2017-10-11,2017-10-12,400,± 4.0%,Kathy Neset,R,4%,False,"October 11–12, 2017"
+2018,North Dakota,Republican Primary,1892 Polling (R-Campbell),2017-10-11 to 2017-10-12,2017-10-11,2017-10-12,400,± 4.0%,Kelly Schmidt,R,1%,False,"October 11–12, 2017"
+2018,Ohio,Republican Primary,Baldwin Wallace University,2018-04-24 to 2018-05-02,2018-04-24,2018-05-02,323,,Melissa Ackison,R,4%,False,"April 24 – May 2, 2018"
+2018,Ohio,Republican Primary,Fallon Research,2018-04-04 to 2018-04-07,2018-04-04,2018-04-07,502,± 4.4%,Melissa Ackison,R,3%,False,"April 4–7, 2018"
+2018,Ohio,Republican Primary,OnMessage (R-Renacci),2018-03-20,2018-03-20,2018-03-20,,,Melissa Ackison,R,3%,False,"March 20, 2018"
+2018,Ohio,Republican Primary,SurveyUSA,2018-03-16 to 2018-03-20,2018-03-16,2018-03-20,541,± 5.7%,Melissa Ackison,R,5%,False,"March 16–20, 2018"
+2018,Ohio,Republican Primary,Remington Research Group (R-Mandel),2017-09-26 to 2017-09-28,2017-09-26,2017-09-28,"1,268",± 2.8%,Melissa Ackison,R,5%,False,"September 26–28, 2017"
+2018,Ohio,Republican Primary,Baldwin Wallace University,2018-04-24 to 2018-05-02,2018-04-24,2018-05-02,323,,Don Eckhart,R,1%,False,"April 24 – May 2, 2018"
+2018,Ohio,Republican Primary,Fallon Research,2018-04-04 to 2018-04-07,2018-04-04,2018-04-07,502,± 4.4%,Don Eckhart,R,2%,False,"April 4–7, 2018"
+2018,Ohio,Republican Primary,OnMessage (R-Renacci),2018-03-20,2018-03-20,2018-03-20,,,Don Eckhart,R,3%,False,"March 20, 2018"
+2018,Ohio,Republican Primary,SurveyUSA,2018-03-16 to 2018-03-20,2018-03-16,2018-03-20,541,± 5.7%,Don Eckhart,R,5%,False,"March 16–20, 2018"
+2018,Ohio,Republican Primary,Baldwin Wallace University,2018-04-24 to 2018-05-02,2018-04-24,2018-05-02,323,,Mike Gibbons,R,11%,False,"April 24 – May 2, 2018"
+2018,Ohio,Republican Primary,Fallon Research,2018-04-04 to 2018-04-07,2018-04-04,2018-04-07,502,± 4.4%,Mike Gibbons,R,7%,False,"April 4–7, 2018"
+2018,Ohio,Republican Primary,OnMessage (R-Renacci),2018-03-20,2018-03-20,2018-03-20,,,Mike Gibbons,R,8%,False,"March 20, 2018"
+2018,Ohio,Republican Primary,SurveyUSA,2018-03-16 to 2018-03-20,2018-03-16,2018-03-20,541,± 5.7%,Mike Gibbons,R,10%,False,"March 16–20, 2018"
+2018,Ohio,Republican Primary,Baldwin Wallace University,2018-04-24 to 2018-05-02,2018-04-24,2018-05-02,323,,Dan Kiley,R,4%,False,"April 24 – May 2, 2018"
+2018,Ohio,Republican Primary,Fallon Research,2018-04-04 to 2018-04-07,2018-04-04,2018-04-07,502,± 4.4%,Dan Kiley,R,1%,False,"April 4–7, 2018"
+2018,Ohio,Republican Primary,OnMessage (R-Renacci),2018-03-20,2018-03-20,2018-03-20,,,Dan Kiley,R,3%,False,"March 20, 2018"
+2018,Ohio,Republican Primary,SurveyUSA,2018-03-16 to 2018-03-20,2018-03-16,2018-03-20,541,± 5.7%,Dan Kiley,R,1%,False,"March 16–20, 2018"
+2018,Ohio,Republican Primary,Baldwin Wallace University,2018-04-24 to 2018-05-02,2018-04-24,2018-05-02,323,,Jim Renacci,R,25%,False,"April 24 – May 2, 2018"
+2018,Ohio,Republican Primary,Fallon Research,2018-04-04 to 2018-04-07,2018-04-04,2018-04-07,502,± 4.4%,Jim Renacci,R,21%,False,"April 4–7, 2018"
+2018,Ohio,Republican Primary,OnMessage (R-Renacci),2018-03-20,2018-03-20,2018-03-20,,,Jim Renacci,R,36%,False,"March 20, 2018"
+2018,Ohio,Republican Primary,SurveyUSA,2018-03-16 to 2018-03-20,2018-03-16,2018-03-20,541,± 5.7%,Jim Renacci,R,21%,False,"March 16–20, 2018"
+2018,Ohio,Republican Primary,Remington Research Group (R-Mandel),2017-09-26 to 2017-09-28,2017-09-26,2017-09-28,"1,268",± 2.8%,Michael Gibbons,R,5%,False,"September 26–28, 2017"
+2018,Ohio,Republican Primary,Remington Research Group (R-Mandel),2017-09-26 to 2017-09-28,2017-09-26,2017-09-28,"1,268",± 2.8%,Josh Mandel,R,50%,False,"September 26–28, 2017"
+2018,Ohio,Republican Primary,Club for Growth,2016-12-11 to 2016-12-12,2016-12-11,2016-12-12,600,± 4.0%,Josh Mandel,R,62%,False,"December 11–12, 2016"
+2018,Ohio,Republican Primary,Club for Growth,2016-12-11 to 2016-12-12,2016-12-11,2016-12-12,600,,Josh Mandel,R,60%,False,"December 11–12, 2016"
+2018,Ohio,Republican Primary,Club for Growth,2016-12-11 to 2016-12-12,2016-12-11,2016-12-12,600,± 4.0%,Matt Huffman,R,8%,False,"December 11–12, 2016"
+2018,Ohio,Republican Primary,Club for Growth,2016-12-11 to 2016-12-12,2016-12-11,2016-12-12,600,,Pat Tiberi,R,12%,False,"December 11–12, 2016"
+2018,Pennsylvania,Republican Primary,Susquehanna Polling & Research (R-Christiana),2018-04,2018-04-01,2018-04-30,>400,,Lou Barletta,R,32%,False,April 2018
+2018,Pennsylvania,Republican Primary,Bellwether Research (R-Addis),2017-09-20 to 2017-09-24,2017-09-20,2017-09-24,600,± 4.0%,Lou Barletta,R,22%,False,"September 20–24, 2017"
+2018,Pennsylvania,Republican Primary,Susquehanna Polling & Research (R-Christiana),2018-04,2018-04-01,2018-04-30,>400,,Jim Christiana,R,11%,False,April 2018
+2018,Rhode Island,Democratic Primary,ALG Research (D-Whitehouse),2018-05-07 to 2018-05-14,2018-05-07,2018-05-14,329,± 5.5%,Sheldon Whitehouse,D,72%,True,"May 7–14, 2018"
+2018,Rhode Island,Democratic Primary,ALG Research (D-Whitehouse),2018-05-07 to 2018-05-14,2018-05-07,2018-05-14,329,± 5.5%,Lincoln Chafee,D,14%,False,"May 7–14, 2018"
+2018,Tennessee,Republican Primary,WPA Intelligence (R-Club for Growth),2018-01-14 to 2018-01-15,2018-01-14,2018-01-15,502,± 4.4%,Marsha Blackburn,R,66%,False,"January 14–15, 2018"
+2018,Tennessee,Republican Primary,Triton Polling & Research (R),2017-12-12 to 2017-12-18,2017-12-12,2017-12-18,"1,028",± 3.1%,Marsha Blackburn,R,58%,False,"December 12–18, 2017"
+2018,Tennessee,Republican Primary,Ragnar Research Partners (R-AFFPA),2018-02-14 to 2018-02-19,2018-02-14,2018-02-19,926,± 3.0%,Marsha Blackburn,R,48%,False,"February 14–19, 2018"
+2018,Tennessee,Republican Primary,WPA Intelligence (R-CDP PAC),2018-02-13 to 2018-02-15,2018-02-13,2018-02-15,400,± 4.9%,Marsha Blackburn,R,55%,False,"February 13–15, 2018"
+2018,Tennessee,Republican Primary,Victory Phones (R-SCF),2018-02-12 to 2018-02-13,2018-02-12,2018-02-13,600,± 4.0%,Marsha Blackburn,R,49%,False,"February 12–13, 2018"
+2018,Tennessee,Republican Primary,WPA Intelligence (R-Club for Growth),2018-01-14 to 2018-01-15,2018-01-14,2018-01-15,502,± 4.4%,Marsha Blackburn,R,63%,False,"January 14–15, 2018"
+2018,Tennessee,Republican Primary,WPA Intelligence (R-Club for Growth),2018-01-14 to 2018-01-15,2018-01-14,2018-01-15,502,± 4.4%,Stephen Fincher,R,13%,False,"January 14–15, 2018"
+2018,Tennessee,Republican Primary,Triton Polling & Research (R),2017-12-12 to 2017-12-18,2017-12-12,2017-12-18,"1,028",± 3.1%,Stephen Fincher,R,11%,False,"December 12–18, 2017"
+2018,Tennessee,Republican Primary,Victory Phones (R-SCF),2018-02-12 to 2018-02-13,2018-02-12,2018-02-13,600,± 4.0%,Stephen Fincher,R,9%,False,"February 12–13, 2018"
+2018,Tennessee,Republican Primary,Triton Polling & Research (R),2017-12-12 to 2017-12-18,2017-12-12,2017-12-18,"1,028",± 3.1%,Rolando Toyos,R,4%,False,"December 12–18, 2017"
+2018,Tennessee,Republican Primary,Ragnar Research Partners (R-AFFPA),2018-02-14 to 2018-02-19,2018-02-14,2018-02-19,926,± 3.0%,Bob Corker,R,29%,True,"February 14–19, 2018"
+2018,Tennessee,Republican Primary,WPA Intelligence (R-CDP PAC),2018-02-13 to 2018-02-15,2018-02-13,2018-02-15,400,± 4.9%,Bob Corker,R,26%,True,"February 13–15, 2018"
+2018,Tennessee,Republican Primary,Victory Phones (R-SCF),2018-02-12 to 2018-02-13,2018-02-12,2018-02-13,600,± 4.0%,Bob Corker,R,26%,True,"February 12–13, 2018"
+2018,Tennessee,Republican Primary,WPA Intelligence (R-Club for Growth),2018-01-14 to 2018-01-15,2018-01-14,2018-01-15,502,± 4.4%,Bob Corker,R,25%,True,"January 14–15, 2018"
+2018,Texas,Republican Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 4.7%,Ted Cruz,R,73%,True,"February 22–23, 2018"
+2018,Texas,Republican Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,612,± 5.3%,Ted Cruz,R,91%,True,"February 1–12, 2018"
+2018,Texas,Republican Primary,Dixie Strategies,2016-09-29 to 2016-10-01,2016-09-29,2016-10-01,321,± 3.5%,Ted Cruz,R,52%,True,"September 29 – October 1, 2016"
+2018,Texas,Republican Primary,Public Policy Polling,2016-08-12 to 2016-08-14,2016-08-12,2016-08-14,522,,Ted Cruz,R,51%,True,"August 12–14, 2016"
+2018,Texas,Republican Primary,Dixie Strategies,2016-08-08 to 2016-08-09,2016-08-08,2016-08-09,448,,Ted Cruz,R,40%,True,"August 8–9, 2016"
+2018,Texas,Republican Primary,Public Policy Polling,2016-08-12 to 2016-08-14,2016-08-12,2016-08-14,522,,Ted Cruz,R,49%,True,"August 12–14, 2016"
+2018,Texas,Republican Primary,Dixie Strategies,2016-08-08 to 2016-08-09,2016-08-08,2016-08-09,448,,Ted Cruz,R,38%,True,"August 8–9, 2016"
+2018,Texas,Republican Primary,Public Policy Polling,2016-08-12 to 2016-08-14,2016-08-12,2016-08-14,522,,Ted Cruz,R,37%,True,"August 12–14, 2016"
+2018,Texas,Republican Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 4.7%,Stefano de Stefano,R,1%,False,"February 22–23, 2018"
+2018,Texas,Republican Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,612,± 5.3%,Stefano de Stefano,R,1%,False,"February 1–12, 2018"
+2018,Texas,Republican Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 4.7%,Bruce Jacobson,R,2%,False,"February 22–23, 2018"
+2018,Texas,Republican Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,612,± 5.3%,Bruce Jacobson,R,3%,False,"February 1–12, 2018"
+2018,Texas,Republican Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 4.7%,Mary Miller,R,2%,False,"February 22–23, 2018"
+2018,Texas,Republican Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,612,± 5.3%,Mary Miller,R,3%,False,"February 1–12, 2018"
+2018,Texas,Republican Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 4.7%,Geraldine Sam,R,1%,False,"February 22–23, 2018"
+2018,Texas,Republican Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,612,± 5.3%,Geraldine Sam,R,2%,False,"February 1–12, 2018"
+2018,Texas,Republican Primary,Dixie Strategies,2016-09-29 to 2016-10-01,2016-09-29,2016-10-01,321,± 3.5%,Michael McCaul,R,12%,False,"September 29 – October 1, 2016"
+2018,Texas,Republican Primary,Public Policy Polling,2016-08-12 to 2016-08-14,2016-08-12,2016-08-14,522,,Michael McCaul,R,19%,False,"August 12–14, 2016"
+2018,Texas,Republican Primary,Dixie Strategies,2016-08-08 to 2016-08-09,2016-08-08,2016-08-09,448,,George P. Bush,R,21%,False,"August 8–9, 2016"
+2018,Texas,Republican Primary,Public Policy Polling,2016-08-12 to 2016-08-14,2016-08-12,2016-08-14,522,,Dan Patrick,R,27%,False,"August 12–14, 2016"
+2018,Texas,Republican Primary,Dixie Strategies,2016-08-08 to 2016-08-09,2016-08-08,2016-08-09,448,,Dan Patrick,R,23%,False,"August 8–9, 2016"
+2018,Texas,Republican Primary,Public Policy Polling,2016-08-12 to 2016-08-14,2016-08-12,2016-08-14,522,,Rick Perry,R,46%,False,"August 12–14, 2016"
+2018,Texas,Democratic Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 5.7%,Sema Hernandez,D,6%,False,"February 22–23, 2018"
+2018,Texas,Democratic Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,453,± 7.4%,Sema Hernandez,D,19%,False,"February 1–12, 2018"
+2018,Texas,Democratic Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 5.7%,Edward Kimbrough,D,4%,False,"February 22–23, 2018"
+2018,Texas,Democratic Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,453,± 7.4%,Edward Kimbrough,D,8%,False,"February 1–12, 2018"
+2018,Texas,Democratic Primary,Dixie Strategies,2018-02-22 to 2018-02-23,2018-02-22,2018-02-23,,± 5.7%,Beto O'Rourke,D,38%,False,"February 22–23, 2018"
+2018,Texas,Democratic Primary,University of Texas,2018-02-01 to 2018-02-12,2018-02-01,2018-02-12,453,± 7.4%,Beto O'Rourke,D,73%,False,"February 1–12, 2018"
+2018,Utah,Republican Primary,Dan Jones & Associates,2018-06-11 to 2018-06-18,2018-06-11,2018-06-18,356,± 5.2%,Mike Kennedy,R,23%,False,"June 11–18, 2018"
+2018,Utah,Republican Primary,Dan Jones & Associates,2018-05-15 to 2018-05-25,2018-05-15,2018-05-25,295,± 5.7%,Mike Kennedy,R,24%,False,"May 15–25, 2018"
+2018,Utah,Republican Primary,Dan Jones & Associates,2018-06-11 to 2018-06-18,2018-06-11,2018-06-18,356,± 5.2%,Mitt Romney,R,65%,False,"June 11–18, 2018"
+2018,Utah,Republican Primary,Dan Jones & Associates,2018-05-15 to 2018-05-25,2018-05-15,2018-05-25,295,± 5.7%,Mitt Romney,R,67%,False,"May 15–25, 2018"
+2018,Utah,Republican Primary,Dan Jones & Associates,2017-01-09 to 2017-01-16,2017-01-09,2017-01-16,605,± 4.0%,Orrin Hatch,R,21%,True,"January 9–16, 2017"
+2018,Utah,Republican Primary,Dan Jones & Associates,2017-01-09 to 2017-01-16,2017-01-09,2017-01-16,605,± 4.0%,Jon Huntsman Jr.,R,62%,False,"January 9–16, 2017"
+2018,Virginia,Republican Primary,Atlantic Media & Research (R-Stewart),2018-05-14 to 2018-05-18,2018-05-14,2018-05-18,355,± 5.2%,Nick Freitas,R,9%,False,"May 14–18, 2018"
+2018,Virginia,Republican Primary,Christopher Newport University,2018-02-05 to 2018-02-28,2018-02-05,2018-02-28,422,± 2.5%,Nick Freitas,R,6%,False,"February 5–28, 2018"
+2018,Virginia,Republican Primary,Atlantic Media & Research (R-Stewart),2018-05-14 to 2018-05-18,2018-05-14,2018-05-18,355,± 5.2%,E. W. Jackson,R,5%,False,"May 14–18, 2018"
+2018,Virginia,Republican Primary,Christopher Newport University,2018-02-05 to 2018-02-28,2018-02-05,2018-02-28,422,± 2.5%,E. W. Jackson,R,7%,False,"February 5–28, 2018"
+2018,Virginia,Republican Primary,Atlantic Media & Research (R-Stewart),2018-05-14 to 2018-05-18,2018-05-14,2018-05-18,355,± 5.2%,Corey Stewart,R,32%,False,"May 14–18, 2018"
+2018,Virginia,Republican Primary,Christopher Newport University,2018-02-05 to 2018-02-28,2018-02-05,2018-02-28,422,± 2.5%,Corey Stewart,R,16%,False,"February 5–28, 2018"
+2018,West Virginia,Democratic Primary,SurveyMonkey (D-Swearengin),2017-09,2017-09-01,2017-09-30,,,Joe Manchin,D,46%,True,September 2017
+2018,West Virginia,Democratic Primary,SurveyMonkey (D-Swearengin),2017-09,2017-09-01,2017-09-30,,,Paula Jean Swearengin,D,8%,False,September 2017
+2018,West Virginia,Republican Primary,Public Opinion Strategies (R-Morrisey),2018-04-22 to 2018-04-23,2018-04-22,2018-04-23,500,± 4.4%,Don Blankenship,R,15%,False,"April 22–23, 2018"
+2018,West Virginia,Republican Primary,Fox News,2018-04-18 to 2018-04-22,2018-04-18,2018-04-22,985,± 3.0%,Don Blankenship,R,16%,False,"April 18–22, 2018"
+2018,West Virginia,Republican Primary,National Research Inc. (R-GOPAC),2018-04-17 to 2018-04-19,2018-04-17,2018-04-19,411,± 4.9%,Don Blankenship,R,12%,False,"April 17–19, 2018"
+2018,West Virginia,Republican Primary,Osage Research (R-Morrisey),2018-03-13,2018-03-13,2018-03-13,500,± 4.4%,Don Blankenship,R,23%,False,"March 13, 2018"
+2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),2018-03-05 to 2018-03-06,2018-03-05,2018-03-06,400,,Don Blankenship,R,27%,False,"March 5–6, 2018"
+2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),2018-02-05 to 2018-02-06,2018-02-05,2018-02-06,500,± 4.4%,Don Blankenship,R,18%,False,"February 5–6, 2018"
+2018,West Virginia,Republican Primary,Public Opinion Strategies (R-Morrisey),2018-04-22 to 2018-04-23,2018-04-22,2018-04-23,500,± 4.4%,Evan Jenkins,R,26%,False,"April 22–23, 2018"
+2018,West Virginia,Republican Primary,Fox News,2018-04-18 to 2018-04-22,2018-04-18,2018-04-22,985,± 3.0%,Evan Jenkins,R,25%,False,"April 18–22, 2018"
+2018,West Virginia,Republican Primary,National Research Inc. (R-GOPAC),2018-04-17 to 2018-04-19,2018-04-17,2018-04-19,411,± 4.9%,Evan Jenkins,R,20%,False,"April 17–19, 2018"
+2018,West Virginia,Republican Primary,Osage Research (R-Morrisey),2018-03-13,2018-03-13,2018-03-13,500,± 4.4%,Evan Jenkins,R,17%,False,"March 13, 2018"
+2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),2018-03-05 to 2018-03-06,2018-03-05,2018-03-06,400,,Evan Jenkins,R,29%,False,"March 5–6, 2018"
+2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),2018-02-05 to 2018-02-06,2018-02-05,2018-02-06,500,± 4.4%,Evan Jenkins,R,33%,False,"February 5–6, 2018"
+2018,West Virginia,Republican Primary,"Fabrizio, Lee and Associates (R-35th PAC)",2017-10-19 to 2017-10-22,2017-10-19,2017-10-22,400,± 4.9%,Evan Jenkins,R,34%,False,"October 19–22, 2017"
+2018,West Virginia,Republican Primary,Public Opinion Strategies (R-Morrisey),2018-04-22 to 2018-04-23,2018-04-22,2018-04-23,500,± 4.4%,Patrick Morrisey,R,28%,False,"April 22–23, 2018"
+2018,West Virginia,Republican Primary,Fox News,2018-04-18 to 2018-04-22,2018-04-18,2018-04-22,985,± 3.0%,Patrick Morrisey,R,21%,False,"April 18–22, 2018"
+2018,West Virginia,Republican Primary,National Research Inc. (R-GOPAC),2018-04-17 to 2018-04-19,2018-04-17,2018-04-19,411,± 4.9%,Patrick Morrisey,R,24%,False,"April 17–19, 2018"
+2018,West Virginia,Republican Primary,Osage Research (R-Morrisey),2018-03-13,2018-03-13,2018-03-13,500,± 4.4%,Patrick Morrisey,R,24%,False,"March 13, 2018"
+2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),2018-03-05 to 2018-03-06,2018-03-05,2018-03-06,400,,Patrick Morrisey,R,19%,False,"March 5–6, 2018"
+2018,West Virginia,Republican Primary,Harper Polling (R-Jenkins),2018-02-05 to 2018-02-06,2018-02-05,2018-02-06,500,± 4.4%,Patrick Morrisey,R,25%,False,"February 5–6, 2018"
+2018,West Virginia,Republican Primary,"Fabrizio, Lee and Associates (R-35th PAC)",2017-10-19 to 2017-10-22,2017-10-19,2017-10-22,400,± 4.9%,Patrick Morrisey,R,40%,False,"October 19–22, 2017"
+2018,Wisconsin,Republican Primary,Emerson College,2018-07-26 to 2018-07-28,2018-07-26,2018-07-28,238,± 6.5%,Kevin Nicholson,R,35%,False,"July 26–28, 2018"
+2018,Wisconsin,Republican Primary,Marist College,2018-07-15 to 2018-07-19,2018-07-15,2018-07-19,355,± 6.1%,Kevin Nicholson,R,38%,False,"July 15–19, 2018"
+2018,Wisconsin,Republican Primary,Hodas & Associates (R),2018-07-12 to 2018-07-16,2018-07-12,2018-07-16,600,± 3.0%,Kevin Nicholson,R,33%,False,"July 12–16, 2018"
+2018,Wisconsin,Republican Primary,Marquette University,2018-07-11 to 2018-07-15,2018-07-11,2018-07-15,266,± 7.0%,Kevin Nicholson,R,32%,False,"July 11–15, 2018"
+2018,Wisconsin,Republican Primary,Marquette University,2018-06-13 to 2018-06-17,2018-06-13,2018-06-17,274,± 6.9%,Kevin Nicholson,R,37%,False,"June 13–17, 2018"
+2018,Wisconsin,Republican Primary,Hodas & Associates (R),2018-06-07 to 2018-06-12,2018-06-07,2018-06-12,600,± 3.0%,Kevin Nicholson,R,28%,False,"June 7–12, 2018"
+2018,Wisconsin,Republican Primary,The Tarrance Group (R),2018-05-31 to 2018-06-04,2018-05-31,2018-06-04,800,± 3.5%,Kevin Nicholson,R,29%,False,"May 31 – June 4, 2018"
+2018,Wisconsin,Republican Primary,American Viewpoint (R),2018-05-29 to 2018-05-31,2018-05-29,2018-05-31,500,± 4.4%,Kevin Nicholson,R,32%,False,"May 29–31, 2018"
+2018,Wisconsin,Republican Primary,Hodas & Associates (R),2018-04-30 to 2018-05-03,2018-04-30,2018-05-03,240,± 6.0%,Kevin Nicholson,R,46%,False,"April 30 – May 3, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2018-04-02 to 2018-04-04,2018-04-02,2018-04-04,"1,028",± 3.1%,Kevin Nicholson,R,45%,False,"April 2–4, 2018"
+2018,Wisconsin,Republican Primary,Marquette University,2018-02-25 to 2018-03-01,2018-02-25,2018-03-01,243,± 8.2%,Kevin Nicholson,R,28%,False,"February 25 – March 1, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2018-01-22 to 2018-01-23,2018-01-22,2018-01-23,350,± 5.2%,Kevin Nicholson,R,48%,False,"January 22–23, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2018-01-02 to 2018-01-03,2018-01-02,2018-01-03,350,± 5.2%,Kevin Nicholson,R,27%,False,"January 2–3, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2017-12-06 to 2017-12-07,2017-12-06,2017-12-07,"1,004",± 3.1%,Kevin Nicholson,R,30%,False,"December 6–7, 2017"
+2018,Wisconsin,Republican Primary,Emerson College,2018-07-26 to 2018-07-28,2018-07-26,2018-07-28,238,± 6.5%,Leah Vukmir,R,35%,False,"July 26–28, 2018"
+2018,Wisconsin,Republican Primary,Marist College,2018-07-15 to 2018-07-19,2018-07-15,2018-07-19,355,± 6.1%,Leah Vukmir,R,28%,False,"July 15–19, 2018"
+2018,Wisconsin,Republican Primary,Hodas & Associates (R),2018-07-12 to 2018-07-16,2018-07-12,2018-07-16,600,± 3.0%,Leah Vukmir,R,20%,False,"July 12–16, 2018"
+2018,Wisconsin,Republican Primary,Marquette University,2018-07-11 to 2018-07-15,2018-07-11,2018-07-15,266,± 7.0%,Leah Vukmir,R,34%,False,"July 11–15, 2018"
+2018,Wisconsin,Republican Primary,Marquette University,2018-06-13 to 2018-06-17,2018-06-13,2018-06-17,274,± 6.9%,Leah Vukmir,R,32%,False,"June 13–17, 2018"
+2018,Wisconsin,Republican Primary,Hodas & Associates (R),2018-06-07 to 2018-06-12,2018-06-07,2018-06-12,600,± 3.0%,Leah Vukmir,R,14%,False,"June 7–12, 2018"
+2018,Wisconsin,Republican Primary,The Tarrance Group (R),2018-05-31 to 2018-06-04,2018-05-31,2018-06-04,800,± 3.5%,Leah Vukmir,R,36%,False,"May 31 – June 4, 2018"
+2018,Wisconsin,Republican Primary,American Viewpoint (R),2018-05-29 to 2018-05-31,2018-05-29,2018-05-31,500,± 4.4%,Leah Vukmir,R,30%,False,"May 29–31, 2018"
+2018,Wisconsin,Republican Primary,Hodas & Associates (R),2018-04-30 to 2018-05-03,2018-04-30,2018-05-03,240,± 6.0%,Leah Vukmir,R,15%,False,"April 30 – May 3, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2018-04-02 to 2018-04-04,2018-04-02,2018-04-04,"1,028",± 3.1%,Leah Vukmir,R,27%,False,"April 2–4, 2018"
+2018,Wisconsin,Republican Primary,Marquette University,2018-02-25 to 2018-03-01,2018-02-25,2018-03-01,243,± 8.2%,Leah Vukmir,R,19%,False,"February 25 – March 1, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2018-01-22 to 2018-01-23,2018-01-22,2018-01-23,350,± 5.2%,Leah Vukmir,R,9%,False,"January 22–23, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2018-01-02 to 2018-01-03,2018-01-02,2018-01-03,350,± 5.2%,Leah Vukmir,R,10%,False,"January 2–3, 2018"
+2018,Wisconsin,Republican Primary,WPA Intelligence (R),2017-12-06 to 2017-12-07,2017-12-06,2017-12-07,"1,004",± 3.1%,Leah Vukmir,R,23%,False,"December 6–7, 2017"
+2018,Wisconsin,Republican Primary,Magellan Strategies (R),2017-02-15 to 2017-02-16,2017-02-15,2017-02-16,300,± 5.7%,David Clarke,R,32%,False,"February 15–16, 2017"
+2018,Wisconsin,Republican Primary,Magellan Strategies (R),2017-02-15 to 2017-02-16,2017-02-15,2017-02-16,300,± 5.7%,Sean Duffy,R,26%,False,"February 15–16, 2017"

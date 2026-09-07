@@ -1,11 +1,11 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
-1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),[[Donald Stewart (Alabama politician),"222,540",48.63%
+1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),Donald Stewart,"222,540",48.63%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Jim Folsom Jr.,"163,196",35.67%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Finis St. John,"51,260",11.20%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Margaret E. Stewart,"20,582",4.50%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Total,False,,,"457,578",100.00%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),Jim Folsom Jr.,"204,186",50.60%
-1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),[[Donald Stewart (Alabama politician),"199,365",49.40%
+1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Donald Stewart,"199,365",49.40%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Total,False,,,"403,551",100.00%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,False,Republican Party (US),Jeremiah Denton,"73,708",63.80%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Armistead I. Selden Jr.,"41,825",36.20%
@@ -17,8 +17,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Alaska,Republican primary results,Primary,Winning,False,Republican Party (United States),Frank Murkowski,"16,262",58.92%
 1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Art Kennedy,"5,527",20.02%
 1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Morris Thompson,"3,635",13.17%
-1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),[[Don Smith (Alaska politician),896,3.25%
-1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),[[Don Wright (politician),824,2.99%
+1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Don Smith,896,3.25%
+1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Don Wright,824,2.99%
 1980,Alaska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Dave Moe,458,1.66%
 1980,Alaska,Republican primary results,Primary,Total,False,,,"27,602",100.00%
 1980,Arizona,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Bill Schulz,"97,520",55.4%
@@ -43,7 +43,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Connecticut,1980 Republican Senate primary,Primary,Winning,False,Republican Party (United States),James L. Buckley,"64,962",56.46%
 1980,Connecticut,1980 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Richard C. Bozzuto,"50,096",43.54%
 1980,Connecticut,1980 Republican Senate primary,Primary,Total,False,,,"115,058",100.00%
-1980,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),[[Richard Stone (politician),"355,287",32.08%
+1980,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Stone,"355,287",32.08%
 1980,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Bill Gunter,"335,859",30.33%
 1980,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Buddy MacKay,"272,538",24.61%
 1980,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Richard A. Pettigrew,"108,154",9.77%
@@ -51,19 +51,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John B. Coffey,"17,410",1.57%
 1980,Florida,Democratic primary results,Primary,Total,False,,,"1,107,366",100.00%
 1980,Florida,Democratic primary runoff results,Primary,Winning,False,Democratic Party (United States),Bill Gunter,"594,676",51.76%
-1980,Florida,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),[[Richard Stone (politician),"554,268",48.24%
+1980,Florida,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),Richard Stone,"554,268",48.24%
 1980,Florida,Democratic primary runoff results,Primary,Total,False,,,"1,148,944",100.00%
-1980,Florida,Republican primary results,Primary,Winning,False,Republican Party (United States),[[Paula Hawkins (politician),"209,856",48.14%
-1980,Florida,Republican primary results,Primary,Winning,False,Republican Party (United States),Louis Frey Jr.,"119,834",27.49%
+1980,Florida,Republican primary results,Primary,Winning,False,Republican Party (United States),Paula Hawkins,"209,856",48.14%
+1980,Florida,Republican primary results,Primary,Winning,False,Republican Party (United States),Lou Frey,"119,834",27.49%
 1980,Florida,Republican primary results,Primary,Candidate,False,Republican Party (United States),Ander Crenshaw,"54,767",12.56%
 1980,Florida,Republican primary results,Primary,Candidate,False,Republican Party (United States),Ellis Rubin,"19,990",4.59%
 1980,Florida,Republican primary results,Primary,Candidate,False,Republican Party (United States),John T. Ware,"16,341",3.75%
 1980,Florida,Republican primary results,Primary,Candidate,False,Republican Party (United States),Lewis Dinkins,"15,174",3.48%
 1980,Florida,Republican primary results,Primary,Total,False,,,"435,962",100.00%
-1980,Florida,Republican primary runoff results,Primary,Winning,False,Republican Party (United States),[[Paula Hawkins (politician),"293,600",61.61%
-1980,Florida,Republican primary runoff results,Primary,Candidate,False,Republican Party (United States),Louis Frey Jr.,"182,911",38.39%
+1980,Florida,Republican primary runoff results,Primary,Winning,False,Republican Party (United States),Paula Hawkins,"293,600",61.61%
+1980,Florida,Republican primary runoff results,Primary,Candidate,False,Republican Party (United States),Lou Frey,"182,911",38.39%
 1980,Florida,Republican primary runoff results,Primary,Total,False,,,"476,511",100.00%
-1980,Georgia,Democratic primary results,Primary,Candidate,True,Democratic Party (United States),Herman Talmadge,"432,215",41.99%
+1980,Georgia,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Herman Talmadge,"432,215",41.99%
 1980,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Zell Miller,"247,766",24.07%
 1980,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Norman Underwood,"183,683",17.85%
 1980,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Dawson Mathis,"133,729",12.99%
@@ -90,7 +90,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Illinois,Democratic primary,Primary,Write-in,False,,,153,0.00
 1980,Illinois,Democratic primary,Primary,Total,False,,,"1,004,374",100.00
 1980,Illinois,Republican primary,Primary,Winning,False,Republican Party (United States),David C. O'Neal,"424,634",41.53
-1980,Illinois,Republican primary,Primary,Candidate,False,Republican Party (United States),[[William J. Scott (Illinois politician),"352,138",34.44
+1980,Illinois,Republican primary,Primary,Candidate,False,Republican Party (United States),William J. Scott,"352,138",34.44
 1980,Illinois,Republican primary,Primary,Candidate,False,Republican Party (United States),Dick Carver,"245,668",24.03
 1980,Illinois,Republican primary,Primary,Write-in,False,,,141,0.00
 1980,Illinois,Republican primary,Primary,Total,False,,,"1,022,440",100.00
@@ -203,7 +203,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Pennsylvania,Republican primary results,Primary,Candidate,False,Republican Party (United States),Warren R. Williams,"38,153",3.31
 1980,Pennsylvania,Republican primary results,Primary,Candidate,False,Republican Party (United States),Lewis C. Richards,"36,982",3.21
 1980,Pennsylvania,Republican primary results,Primary,Candidate,False,Republican Party (United States),Francis Worley,"30,660",2.66
-1980,Pennsylvania,Democratic primary results,Primary,Winning,False,Democratic Party (United States),[[Peter F. Flaherty,"771,119",53.23
+1980,Pennsylvania,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Pete Flaherty,"771,119",53.23
 1980,Pennsylvania,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Joseph Rhodes Jr.,"179,107",12.36
 1980,Pennsylvania,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Peter J. Liacouras,"116,975",8.08
 1980,Pennsylvania,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),C. Delores Tucker,"107,483",7.42

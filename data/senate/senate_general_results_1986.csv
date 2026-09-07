@@ -1,16 +1,16 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
-1986,Alabama,1986 United States Senate election in Alabama,General,Candidate,False,Richard Shelby,Democratic Party (United States),"609,360",50.28%
+1986,Alabama,1986 United States Senate election in Alabama,General,Winning,False,Richard Shelby,Democratic Party (United States),"609,360",50.28%
 1986,Alabama,1986 United States Senate election in Alabama,General,Candidate,True,Jeremiah Denton,Republican Party (United States),"602,537",49.72%
 1986,Alabama,1986 United States Senate election in Alabama,General,Total,False,,,"1,211,897",100.00%
-1986,Alaska,1986 United States Senate election in Alaska,General,Winning,False,Frank Murkowski ([[incumbent,Republican Party (United States),"97,674",54.02%
+1986,Alaska,1986 United States Senate election in Alaska,General,Winning,False,Frank Murkowski (inc.),Republican Party (United States),"97,674",54.02%
 1986,Alaska,1986 United States Senate election in Alaska,General,Candidate,False,Glenn Olds,Democratic Party (United States),"79,727",44.10%
 1986,Alaska,1986 United States Senate election in Alaska,General,Candidate,False,Chuck House,Alaska Libertarian Party,"3,161",1.75%
 1986,Arizona,General election results,General,Winning,False,John McCain,Republican Party (United States),"521,850",60.48%
-1986,Arizona,General election results,General,Candidate,False,[[Richard Kimball (politician),Democratic Party (United States),"340,965",39.51%
+1986,Arizona,General election results,General,Candidate,False,Richard Kimball,Democratic Party (United States),"340,965",39.51%
 1986,Arizona,General election results,General,Write-in,False,,,106,0.01%
 1986,Arkansas,Arkansas Senate election 1986,General,Winning,True,Dale Bumpers,Democratic Party (United States),"433,122",62.28%
 1986,Arkansas,Arkansas Senate election 1986,General,Candidate,False,Asa Hutchinson,Republican Party (United States),"262,313",37.72%
-1986,Arkansas,Arkansas Senate election 1986,General,Candidate,False,[[Ralph Perry Forbes,Independent,52,0.01%
+1986,Arkansas,Arkansas Senate election 1986,General,Candidate,False,Ralph Forbes,Independent,52,0.01%
 1986,California,1986 California U.S. Senate election,General,Winning,True,Alan Cranston,Democratic Party (United States),"3,646,672",49.29%
 1986,California,1986 California U.S. Senate election,General,Candidate,False,Ed Zschau,Republican Party (United States),"3,541,804",47.87%
 1986,California,1986 California U.S. Senate election,General,Candidate,False,Edward B. Vallen,American Independent Party,"109,916",1.49%
@@ -30,24 +30,26 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Connecticut,"Connecticut United States Senate election, 1986",General,Candidate,False,Roger Eddy,Republican Party (United States),"340,438",34.85%
 1986,Connecticut,"Connecticut United States Senate election, 1986",General,Candidate,False,Edward J. McCallum Jr.,Independent,"3,800",0.39%
 1986,Florida,General election results,General,Winning,False,Bob Graham,Democratic Party (United States),"1,877,543",54.74%
-1986,Florida,General election results,General,Candidate,False,[[Paula Hawkins (politician),Republican Party (United States),"1,552,376",45.26%
+1986,Florida,General election results,General,Candidate,False,Paula Hawkins,Republican Party (United States),"1,552,376",45.26%
 1986,Florida,General election results,General,Write-in,False,,,77,0.00%
 1986,Florida,General election results,General,Total,False,,,"3,429,996",100.00%
 1986,Georgia,1986 United States Senate election in Georgia,General,Winning,False,Wyche Fowler,Democratic Party (United States),"623,707",50.92%
 1986,Georgia,1986 United States Senate election in Georgia,General,Candidate,True,Mack Mattingly,Republican Party (United States),"601,241",49.08%
 1986,Georgia,1986 United States Senate election in Georgia,General,Write-in,False,,,60,0.00%
 1986,Georgia,1986 United States Senate election in Georgia,General,Total,False,,,"1,225,008",100.00%
+1986,Hawaii,General election results,General,Winning,True,Daniel Inouye,Democratic Party (United States),"241,887",73.57%
+1986,Hawaii,General election results,General,Candidate,False,Frank Hutchinson,Republican Party (United States),"86,910",26.43%
 1986,Hawaii,General election results,General,Total,False,,,"328,797",100.00%
 1986,Idaho,General election results,General,Winning,True,Steve Symms,Republican Party (United States),"196,958",51.56%
-1986,Idaho,General election results,General,Candidate,False,[[John Evans (Idaho governor),Democratic Party (United States),"185,066",48.44%
+1986,Idaho,General election results,General,Candidate,False,John V. Evans,Democratic Party (United States),"185,066",48.44%
 1986,Illinois,"Illinois United States Senate election, 1986",General,Winning,True,Alan J. Dixon,Democratic Party (United States),"2,033,783",65.13%
 1986,Illinois,"Illinois United States Senate election, 1986",General,Candidate,False,Judy Koehler,Republican Party (United States),"1,053,734",33.74%
 1986,Illinois,"Illinois United States Senate election, 1986",General,Candidate,False,Einar V. Dyhrkopp,Solidarity Party (Illinois),"15,804",0.51%
-1986,Illinois,"Illinois United States Senate election, 1986",General,Candidate,False,[[Don Parrish (adventurer),Libertarian Party (United States),"13,891",0.44%
+1986,Illinois,"Illinois United States Senate election, 1986",General,Candidate,False,"Donald M. Parrish, Jr.",Libertarian Party (United States),"13,891",0.44%
 1986,Illinois,"Illinois United States Senate election, 1986",General,Candidate,False,Omari Musa,Socialist Workers Party (United States),"5,671",0.18%
 1986,Illinois,"Illinois United States Senate election, 1986",General,Total,False,,,"3,122,833",100
 1986,Indiana,General election results,General,Winning,True,Dan Quayle,Republican Party (United States),"936,143",60.57%
-1986,Indiana,General election results,General,Candidate,False,[[Jill Long Thompson,Democratic Party (United States),"595,192",38.51%
+1986,Indiana,General election results,General,Candidate,False,Jill L. Long,Democratic Party (United States),"595,192",38.51%
 1986,Indiana,General election results,General,Candidate,False,Bradford Warren,Libertarian Party (United States),"8,314",0.54%
 1986,Indiana,General election results,General,Candidate,False,Rockland Snyder,American Party (1969),"5,914",0.38%
 1986,Iowa,"United States Senate election in Iowa, 1986",General,Winning,True,Chuck Grassley,Republican Party (United States),"588,880",66.04%
@@ -67,14 +69,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Nevada,General election results,General,Winning,False,Harry Reid,Democratic Party (United States),"130,955",50.00%
 1986,Nevada,General election results,General,Candidate,False,Jim Santini,Republican Party (United States),"116,606",44.52%
 1986,Nevada,General election results,General,Candidate,False,Kent Cromwell,Libertarian Party (United States),"4,899",1.87%
-1986,New Hampshire,1986 United States Senate election in New Hampshire,General,Winning,False,Warren Rudman ([[incumbent,Republican Party (United States),"154,090",62.96%
+1986,New Hampshire,1986 United States Senate election in New Hampshire,General,Winning,False,Warren Rudman (inc.),Republican Party (United States),"154,090",62.96%
 1986,New Hampshire,1986 United States Senate election in New Hampshire,General,Candidate,False,Endicott Peabody,Democratic Party (United States),"79,225",32.37%
 1986,New Hampshire,1986 United States Senate election in New Hampshire,General,Candidate,False,Bruce L. Valley,Independent (politician),"11,423",4.67%
 1986,New Hampshire,1986 United States Senate election in New Hampshire,General,Total,False,,,"244,738",100.00%
+1986,New York,1986 U.S. Senate election in New York,General,Winning,True,Al D'Amato,Republican Party (United States),"2,030,260",45.27%
+1986,New York,1986 U.S. Senate election in New York,General,Candidate,True,Al D'Amato,Conservative Party (New York),"212,101",4.73%
+1986,New York,1986 U.S. Senate election in New York,General,Candidate,True,Al D'Amato,Right to Life Party (New York),"135,386",3.02%
+1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,Mark Green,Democratic Party (United States),"1,723,216",38.42%
+1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,John S. Dyson,Liberal Party (New York),"60,099",1.34%
 1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,Fred Newman,New Alliance Party,"10,559",0.24%
+1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,Michael Shur,Socialist Workers Party (United States),"7,376",0.16%
 1986,New York,1986 U.S. Senate election in New York,General,Total,False,,,"4,484,859",100.00%
 1986,North Dakota,General election results,General,Winning,False,Kent Conrad,North Dakota Democratic-NPL Party,"143,932",49.80%
-1986,North Dakota,General election results,General,Candidate,False,[[Mark Andrews (politician),Republican Party (United States),"141,812",49.07%
+1986,North Dakota,General election results,General,Candidate,False,Mark Andrews,Republican Party (United States),"141,812",49.07%
 1986,North Dakota,General election results,General,Candidate,False,Anna B. Bourgois,Independent (United States),"3,269",1.13%
 1986,North Dakota,General election results,General,Total,False,,,"289,013",100.00%
 1986,Ohio,1986 United States Senate election in Ohio,General,Winning,True,John Glenn,Democratic Party (United States),"1,949,208",62.45%
@@ -89,7 +97,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Pennsylvania,General election results,General,Winning,True,Arlen Specter,Republican Party (United States),"1,906,537",56.44%
 1986,Pennsylvania,General election results,General,Candidate,False,Robert W. Edgar,Democratic Party (United States),"1,448,219",42.87%
 1986,Pennsylvania,General election results,General,Candidate,False,Lance S. Haver,Citizens Party (United States),"23,470",0.69%
-1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Winning,False,[[Ernest Hollings,Democratic Party (United States),"465,511",63.07%
+1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Winning,False,Fritz Hollings,Democratic Party (United States),"465,511",63.07%
 1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Candidate,False,Henry McMaster,Republican Party (United States),"262,976",35.63%
 1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Candidate,False,Steven B. Vandervelde,Libertarian Party (United States),"4,788",0.65%
 1986,South Dakota,General election results,General,Winning,False,Tom Daschle,Democratic Party (United States),"152,657",51.60%

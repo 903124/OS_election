@@ -1,0 +1,1090 @@
+{
+  "pipeline": "senate",
+  "checked": 45,
+  "needs_improvement": [
+    "senate_general_polling_1970.csv",
+    "senate_general_polling_1978.csv",
+    "senate_general_polling_1980.csv",
+    "senate_general_polling_1982.csv",
+    "senate_general_polling_1984.csv",
+    "senate_general_polling_1988.csv",
+    "senate_general_polling_1990.csv",
+    "senate_general_polling_1992.csv",
+    "senate_general_polling_1994.csv",
+    "senate_general_polling_1996.csv",
+    "senate_general_polling_2000.csv",
+    "senate_general_polling_2002.csv",
+    "senate_primary_polling_1938.csv",
+    "senate_primary_polling_1978.csv",
+    "senate_primary_polling_1984.csv",
+    "senate_primary_polling_1988.csv",
+    "senate_primary_polling_1990.csv",
+    "senate_primary_polling_1998.csv"
+  ],
+  "files": [
+    {
+      "file": "senate_general_polling_1970.csv",
+      "kind": "general",
+      "size_bytes": 340,
+      "rows": 2,
+      "states": 1,
+      "polls": 1,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1978.csv",
+      "kind": "general",
+      "size_bytes": 683,
+      "rows": 4,
+      "states": 1,
+      "polls": 2,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1980.csv",
+      "kind": "general",
+      "size_bytes": 513,
+      "rows": 3,
+      "states": 1,
+      "polls": 1,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1982.csv",
+      "kind": "general",
+      "size_bytes": 1335,
+      "rows": 8,
+      "states": 1,
+      "polls": 4,
+      "issues": {
+        "odd_sample": {
+          "count": 2,
+          "examples": [
+            "? LV"
+          ]
+        }
+      },
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1984.csv",
+      "kind": "general",
+      "size_bytes": 357,
+      "rows": 2,
+      "states": 1,
+      "polls": 1,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1988.csv",
+      "kind": "general",
+      "size_bytes": 3778,
+      "rows": 24,
+      "states": 3,
+      "polls": 12,
+      "issues": {},
+      "size_verdict": "peer_small",
+      "needs_improvement": true,
+      "peer_median_bytes": 41389
+    },
+    {
+      "file": "senate_general_polling_1990.csv",
+      "kind": "general",
+      "size_bytes": 1033,
+      "rows": 6,
+      "states": 1,
+      "polls": 3,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1992.csv",
+      "kind": "general",
+      "size_bytes": 371,
+      "rows": 2,
+      "states": 1,
+      "polls": 1,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_general_polling_1994.csv",
+      "kind": "general",
+      "size_bytes": 7468,
+      "rows": 57,
+      "states": 9,
+      "polls": 23,
+      "issues": {},
+      "size_verdict": "peer_small",
+      "needs_improvement": true,
+      "peer_median_bytes": 41389
+    },
+    {
+      "file": "senate_general_polling_1996.csv",
+      "kind": "general",
+      "size_bytes": 3054,
+      "rows": 19,
+      "states": 2,
+      "polls": 6,
+      "issues": {
+        "pct_sum_over": {
+          "count": 2,
+          "examples": [
+            "('Minnesota', 'Mason-Dixon', '1996-09-01 to 1996-09-03'): 153%",
+            "('New Jersey', 'Rutgers-Eagleton', '1995-09-06 to 1995-09-13'): 144%"
+          ]
+        }
+      },
+      "size_verdict": "peer_small",
+      "needs_improvement": true,
+      "advisory": [
+        "pct_sum_over"
+      ],
+      "peer_median_bytes": 41389
+    },
+    {
+      "file": "senate_general_polling_1998.csv",
+      "kind": "general",
+      "size_bytes": 41389,
+      "rows": 285,
+      "states": 26,
+      "polls": 129,
+      "issues": {
+        "pct_sum_over": {
+          "count": 6,
+          "examples": [
+            "('New Hampshire', 'CNN', '1998-09-09 to 1998-09-10'): 166%",
+            "('New York', 'Quinnipiac', '1997-09-25'): 259%",
+            "('New York', 'Quinnipiac', '1997-12-11'): 262%"
+          ]
+        },
+        "bad_date": {
+          "count": 2,
+          "examples": [
+            "1998-10-21>1998-10-13"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2000.csv",
+      "kind": "general",
+      "size_bytes": 6480,
+      "rows": 46,
+      "states": 4,
+      "polls": 22,
+      "issues": {},
+      "size_verdict": "peer_small",
+      "needs_improvement": true,
+      "peer_median_bytes": 41389
+    },
+    {
+      "file": "senate_general_polling_2002.csv",
+      "kind": "general",
+      "size_bytes": 28247,
+      "rows": 189,
+      "states": 11,
+      "polls": 80,
+      "issues": {
+        "pct_sum_over": {
+          "count": 7,
+          "examples": [
+            "('New Hampshire', 'University of New Hampshire', '2001-10-19 to 2001-10-29'): 177%",
+            "('New Hampshire', 'University of New Hampshire', '2002-01-25 to 2002-02-05'): 180%",
+            "('New Hampshire', 'University of New Hampshire', '2002-04-10 to 2002-04-14'): 183%"
+          ]
+        },
+        "odd_sample": {
+          "count": 4,
+          "examples": [
+            "? LV"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": true,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2004.csv",
+      "kind": "general",
+      "size_bytes": 96702,
+      "rows": 638,
+      "states": 22,
+      "polls": 277,
+      "issues": {
+        "pct_sum_over": {
+          "count": 11,
+          "examples": [
+            "('Colorado', 'Mason-Dixon', '2004-06-15 to 2004-06-18'): 318%",
+            "('Colorado', 'Public Opinion Strategies', '2004-04-20 to 2004-04-24'): 173%",
+            "('Colorado', 'Rasmussen Reports', '2004-04-14'): 174%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 2,
+          "examples": [
+            "500 (LV)"
+          ]
+        },
+        "odd_sample": {
+          "count": 2,
+          "examples": [
+            "September 12\u201313, 2004"
+          ]
+        },
+        "bad_date": {
+          "count": 2,
+          "examples": [
+            "2004-08-08>2004-08-06"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2006.csv",
+      "kind": "general",
+      "size_bytes": 137871,
+      "rows": 1178,
+      "states": 28,
+      "polls": 587,
+      "issues": {
+        "pct_sum_over": {
+          "count": 9,
+          "examples": [
+            "('Maryland', 'Reuters', '2006-11-02'): 138%",
+            "('Michigan', 'Rasmussen', '2006-08-16'): 189%",
+            "('North Dakota', 'Rasmussen Reports', '2005-01-25'): 275%"
+          ]
+        },
+        "single_value_poll": {
+          "count": 85
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2008.csv",
+      "kind": "general",
+      "size_bytes": 128180,
+      "rows": 961,
+      "states": 32,
+      "polls": 452,
+      "issues": {
+        "pct_sum_over": {
+          "count": 12,
+          "examples": [
+            "('Georgia', 'Rasmussen Reports', '2008-06-26'): 178%",
+            "('Georgia', 'Rasmussen Reports', '2008-07-21'): 179%",
+            "('Georgia', 'Strategic Vision', '2008-06-29'): 112%"
+          ]
+        },
+        "odd_sample": {
+          "count": 2,
+          "examples": [
+            "530 RV)"
+          ]
+        },
+        "single_value_poll": {
+          "count": 3
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2010.csv",
+      "kind": "general",
+      "size_bytes": 346398,
+      "rows": 2164,
+      "states": 37,
+      "polls": 919,
+      "issues": {
+        "pct_sum_over": {
+          "count": 60,
+          "examples": [
+            "('Alaska', 'Public Policy Polling', '2010-08-27 to 2010-08-28'): 180%",
+            "('Arizona', 'Public Policy Polling', '2009-09-18 to 2009-09-21'): 123%",
+            "('Arizona', 'Research 2000', '2010-03-29 to 2010-03-31'): 142%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2012.csv",
+      "kind": "general",
+      "size_bytes": 386702,
+      "rows": 2619,
+      "states": 31,
+      "polls": 752,
+      "issues": {
+        "pct_sum_over": {
+          "count": 184,
+          "examples": [
+            "('Arizona', 'Magellan Strategies', '2012-04-30 to 2012-05-02'): 125%",
+            "('Arizona', 'Public Policy Polling', '2011-01-28 to 2011-01-30'): 357%",
+            "('Arizona', 'Public Policy Polling', '2011-04-28 to 2011-05-01'): 953%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 23,
+          "examples": [
+            "\u00b1 3.79.%",
+            "\u00b1 n/a%",
+            "\u00b1n/a"
+          ]
+        },
+        "single_value_poll": {
+          "count": 4
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2014.csv",
+      "kind": "general",
+      "size_bytes": 465936,
+      "rows": 3128,
+      "states": 36,
+      "polls": 988,
+      "issues": {
+        "pct_sum_over": {
+          "count": 184,
+          "examples": [
+            "('Alaska', 'CBS News', '2014-07-05 to 2014-07-24'): 173%",
+            "('Alaska', 'Harper Polling', '2013-01-29 to 2013-01-30'): 332%",
+            "('Alaska', 'Harper Polling', '2013-09-24 to 2013-09-25'): 209%"
+          ]
+        },
+        "odd_sample": {
+          "count": 3,
+          "examples": [
+            "? LV"
+          ]
+        },
+        "single_value_poll": {
+          "count": 10
+        },
+        "duplicate_rows": {
+          "count": 1
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2016.csv",
+      "kind": "general",
+      "size_bytes": 374565,
+      "rows": 2479,
+      "states": 33,
+      "polls": 925,
+      "issues": {
+        "pct_sum_over": {
+          "count": 100,
+          "examples": [
+            "('Arizona', 'Gravis Marketing', '2015-08-13 to 2015-08-16'): 164%",
+            "('Arizona', 'Public Policy Polling', '2014-02-28 to 2014-03-02'): 198%",
+            "('Arizona', 'Public Policy Polling', '2015-05-01 to 2015-05-03'): 494%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 3,
+          "examples": [
+            "\u00b1 -3.1"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2018.csv",
+      "kind": "general",
+      "size_bytes": 271279,
+      "rows": 1786,
+      "states": 34,
+      "polls": 703,
+      "issues": {
+        "pct_sum_over": {
+          "count": 73,
+          "examples": [
+            "('Arizona', 'Emerson College', '2018-06-21 to 2018-06-22'): 225%",
+            "('Arizona', 'Gravis Marketing', '2018-06-27 to 2018-07-02'): 250%",
+            "('Arizona', 'HighGround Public Affairs', '2017-08-18 to 2017-08-19'): 137%"
+          ]
+        },
+        "single_value_poll": {
+          "count": 9
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2020.csv",
+      "kind": "general",
+      "size_bytes": 280841,
+      "rows": 1810,
+      "states": 31,
+      "polls": 784,
+      "issues": {
+        "pct_sum_over": {
+          "count": 67,
+          "examples": [
+            "('Alabama', 'ALG Research (D)', '2020-06-18 to 2020-06-22'): 179%",
+            "('Alabama', 'Auburn University at Montgomery', '2020-07-02 to 2020-07-09'): 172%",
+            "('Alabama', 'Cygnal', '2020-06-13 to 2020-06-16'): 166%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 2,
+          "examples": [
+            "\u00b1 nil"
+          ]
+        },
+        "single_value_poll": {
+          "count": 4
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2022.csv",
+      "kind": "general",
+      "size_bytes": 278269,
+      "rows": 1807,
+      "states": 31,
+      "polls": 737,
+      "issues": {
+        "pct_sum_over": {
+          "count": 61,
+          "examples": [
+            "('Arizona', 'Beacon Research', '2022-07-05 to 2022-07-20'): 200%",
+            "('Arizona', 'Blueprint Polling', '2022-05-12 to 2022-05-16'): 246%",
+            "('Arizona', 'Change Research', '2022-06-24 to 2022-06-27'): 175%"
+          ]
+        },
+        "odd_sample": {
+          "count": 2,
+          "examples": [
+            "1,160 (VLV)"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_2024.csv",
+      "kind": "general",
+      "size_bytes": 280931,
+      "rows": 1860,
+      "states": 31,
+      "polls": 834,
+      "issues": {
+        "bad_pct": {
+          "count": 1,
+          "examples": [
+            "November 4, 2024"
+          ]
+        },
+        "pct_sum_over": {
+          "count": 62,
+          "examples": [
+            "('Arizona', 'Emerson College', '2023-08-02 to 2023-08-04'): 163%",
+            "('Arizona', 'Emerson College', '2024-01-29 to 2024-02-01'): 182%",
+            "('Arizona', 'Emerson College', '2024-02-06 to 2024-02-13'): 172%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 6,
+          "examples": [
+            "45%",
+            "609 (LRV)",
+            "787 (LV)"
+          ]
+        },
+        "odd_sample": {
+          "count": 8,
+          "examples": [
+            "609 (LRV)",
+            "October 10\u201316, 2024",
+            "\u00b1 3.2%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_general_polling_all.csv",
+      "kind": "all",
+      "size_bytes": 3120830,
+      "rows": 21077,
+      "states": 63,
+      "polls": 8207,
+      "issues": {
+        "bad_pct": {
+          "count": 1,
+          "examples": [
+            "November 4, 2024"
+          ]
+        },
+        "pct_sum_over": {
+          "count": 847,
+          "examples": [
+            "('Alabama', 'ALG Research (D)', '2020-06-18 to 2020-06-22'): 179%",
+            "('Alabama', 'Auburn University at Montgomery', '2020-07-02 to 2020-07-09'): 172%",
+            "('Alabama', 'Cygnal', '2020-06-13 to 2020-06-16'): 166%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 36,
+          "examples": [
+            "45%",
+            "500 (LV)",
+            "609 (LRV)",
+            "787 (LV)",
+            "\u00b1 -3.1"
+          ]
+        },
+        "odd_sample": {
+          "count": 23,
+          "examples": [
+            "1,160 (VLV)",
+            "530 RV)",
+            "609 (LRV)",
+            "? LV",
+            "October 10\u201316, 2024"
+          ]
+        },
+        "bad_date": {
+          "count": 4,
+          "examples": [
+            "1998-10-21>1998-10-13",
+            "2004-08-08>2004-08-06"
+          ]
+        },
+        "single_value_poll": {
+          "count": 115
+        },
+        "duplicate_rows": {
+          "count": 1
+        }
+      },
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_1938.csv",
+      "kind": "primary",
+      "size_bytes": 2313,
+      "rows": 15,
+      "states": 2,
+      "polls": 7,
+      "issues": {},
+      "size_verdict": "peer_small",
+      "needs_improvement": true,
+      "peer_median_bytes": 15357
+    },
+    {
+      "file": "senate_primary_polling_1978.csv",
+      "kind": "primary",
+      "size_bytes": 1492,
+      "rows": 10,
+      "states": 1,
+      "polls": 2,
+      "issues": {
+        "pct_sum_over": {
+          "count": 1,
+          "examples": [
+            "('New Jersey', 'Associated Press', '1978-05'): 113%"
+          ]
+        },
+        "odd_sample": {
+          "count": 5,
+          "examples": [
+            "LV"
+          ]
+        }
+      },
+      "size_verdict": "tiny",
+      "needs_improvement": true,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_1984.csv",
+      "kind": "primary",
+      "size_bytes": 592,
+      "rows": 3,
+      "states": 1,
+      "polls": 1,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_primary_polling_1988.csv",
+      "kind": "primary",
+      "size_bytes": 466,
+      "rows": 2,
+      "states": 1,
+      "polls": 1,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_primary_polling_1990.csv",
+      "kind": "primary",
+      "size_bytes": 1099,
+      "rows": 6,
+      "states": 1,
+      "polls": 3,
+      "issues": {},
+      "size_verdict": "tiny",
+      "needs_improvement": true
+    },
+    {
+      "file": "senate_primary_polling_1998.csv",
+      "kind": "primary",
+      "size_bytes": 2624,
+      "rows": 20,
+      "states": 1,
+      "polls": 6,
+      "issues": {
+        "pct_sum_over": {
+          "count": 1,
+          "examples": [
+            "('New York', 'Quinnipiac', '1997-09-25'): 169%"
+          ]
+        }
+      },
+      "size_verdict": "peer_small",
+      "needs_improvement": true,
+      "advisory": [
+        "pct_sum_over"
+      ],
+      "peer_median_bytes": 15357
+    },
+    {
+      "file": "senate_primary_polling_2000.csv",
+      "kind": "primary",
+      "size_bytes": 3865,
+      "rows": 24,
+      "states": 1,
+      "polls": 5,
+      "issues": {
+        "pct_sum_over": {
+          "count": 3,
+          "examples": [
+            "('New Jersey', 'Quinnipiac', '2000-02-16 to 2000-02-21'): 139%",
+            "('New Jersey', 'Quinnipiac', '2000-03-21 to 2000-03-27'): 117%",
+            "('New Jersey', 'Quinnipiac', '2000-05-01 to 2000-05-08'): 126%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2002.csv",
+      "kind": "primary",
+      "size_bytes": 5422,
+      "rows": 32,
+      "states": 2,
+      "polls": 15,
+      "issues": {},
+      "size_verdict": "ok",
+      "needs_improvement": false
+    },
+    {
+      "file": "senate_primary_polling_2004.csv",
+      "kind": "primary",
+      "size_bytes": 27404,
+      "rows": 174,
+      "states": 5,
+      "polls": 42,
+      "issues": {
+        "pct_sum_over": {
+          "count": 7,
+          "examples": [
+            "('Colorado', 'Mason-Dixon', '2004-06-15 to 2004-06-18'): 150%",
+            "('Colorado', 'Mason-Dixon', '2004-08'): 174%",
+            "('Illinois', 'Chicago Tribune', '2004-02-11 to 2004-02-17'): 119%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2006.csv",
+      "kind": "primary",
+      "size_bytes": 15357,
+      "rows": 122,
+      "states": 6,
+      "polls": 41,
+      "issues": {},
+      "size_verdict": "ok",
+      "needs_improvement": false
+    },
+    {
+      "file": "senate_primary_polling_2008.csv",
+      "kind": "primary",
+      "size_bytes": 5653,
+      "rows": 40,
+      "states": 5,
+      "polls": 11,
+      "issues": {},
+      "size_verdict": "ok",
+      "needs_improvement": false
+    },
+    {
+      "file": "senate_primary_polling_2010.csv",
+      "kind": "primary",
+      "size_bytes": 101552,
+      "rows": 662,
+      "states": 23,
+      "polls": 242,
+      "issues": {
+        "pct_sum_over": {
+          "count": 22,
+          "examples": [
+            "('Alabama', 'Research 2000', '2010-05-10 to 2010-05-12'): 127%",
+            "('Arkansas', 'Research 2000', '2010-05-10 to 2010-05-12'): 176%",
+            "('Arkansas', 'Talk Business', '2010-04-13'): 162%"
+          ]
+        },
+        "odd_sample": {
+          "count": 5,
+          "examples": [
+            "\u00b1 4%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2012.csv",
+      "kind": "primary",
+      "size_bytes": 80558,
+      "rows": 509,
+      "states": 21,
+      "polls": 114,
+      "issues": {
+        "pct_sum_over": {
+          "count": 26,
+          "examples": [
+            "('Connecticut', 'Public Policy Polling', '2011-09-22 to 2011-09-25'): 170%",
+            "('Connecticut', 'Public Policy Polling', '2012-07-26 to 2012-07-29'): 169%",
+            "('Connecticut', 'Quinnipiac', '2011-09-08 to 2011-09-13'): 148%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 3,
+          "examples": [
+            "24%"
+          ]
+        },
+        "odd_sample": {
+          "count": 3,
+          "examples": [
+            "4%"
+          ]
+        },
+        "single_value_poll": {
+          "count": 1
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2014.csv",
+      "kind": "primary",
+      "size_bytes": 170990,
+      "rows": 1089,
+      "states": 25,
+      "polls": 232,
+      "issues": {
+        "pct_sum_over": {
+          "count": 34,
+          "examples": [
+            "('Georgia', 'Harper Polling', '2013-02-11 to 2013-02-12'): 130%",
+            "('Georgia', 'SurveyUSA', '2014-03-16 to 2014-03-18'): 164%",
+            "('Georgia', 'SurveyUSA', '2014-04-24 to 2014-04-27'): 168%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2016.csv",
+      "kind": "primary",
+      "size_bytes": 81899,
+      "rows": 518,
+      "states": 17,
+      "polls": 122,
+      "issues": {
+        "pct_sum_over": {
+          "count": 32,
+          "examples": [
+            "('Alabama', 'Thomas Partners Strategies (R-McConnell)', '2016-01-29 to 2016-01-30'): 113%",
+            "('Arizona', 'Public Policy Polling', '2015-05-01 to 2015-05-03'): 399%",
+            "('Arizona', 'The Polling Company', '2014-04-11 to 2014-04-12'): 320%"
+          ]
+        },
+        "single_value_poll": {
+          "count": 2
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2018.csv",
+      "kind": "primary",
+      "size_bytes": 62992,
+      "rows": 402,
+      "states": 22,
+      "polls": 127,
+      "issues": {
+        "pct_sum_over": {
+          "count": 9,
+          "examples": [
+            "('Arizona', 'Emerson College', '2018-06-21 to 2018-06-22'): 128%",
+            "('California', 'Sextant Strategies & Research', '2017-09'): 139%",
+            "('Delaware', 'Gravis Marketing', '2018-07-24 to 2018-07-29'): 111%"
+          ]
+        },
+        "odd_sample": {
+          "count": 2,
+          "examples": [
+            ">400"
+          ]
+        },
+        "single_value_poll": {
+          "count": 1
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2020.csv",
+      "kind": "primary",
+      "size_bytes": 76182,
+      "rows": 469,
+      "states": 17,
+      "polls": 122,
+      "issues": {
+        "pct_sum_over": {
+          "count": 16,
+          "examples": [
+            "('Alabama', 'Mason-Dixon', '2020-02-04 to 2020-02-06'): 173%",
+            "('Alabama', 'WPA Intelligence (R)', '2019-03-10 to 2019-03-12'): 159%",
+            "('Colorado', 'Public Policy Polling (D)', '2019-08-28 to 2019-08-29'): 333%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 4,
+          "examples": [
+            "+ 3.29%",
+            "+ 3.86%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2022.csv",
+      "kind": "primary",
+      "size_bytes": 234880,
+      "rows": 1462,
+      "states": 21,
+      "polls": 300,
+      "issues": {
+        "pct_sum_over": {
+          "count": 23,
+          "examples": [
+            "('Alabama', 'Cygnal', '2021-11-03 to 2021-11-04'): 121%",
+            "('Alabama', 'Cygnal', '2022-03-16 to 2022-03-17'): 320%",
+            "('Alabama', 'Emerson College', '2022-05-15 to 2022-05-16'): 135%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_2024.csv",
+      "kind": "primary",
+      "size_bytes": 62254,
+      "rows": 385,
+      "states": 18,
+      "polls": 112,
+      "issues": {
+        "pct_sum_over": {
+          "count": 8,
+          "examples": [
+            "('Arizona', 'Emerson College', '2023-08-02 to 2023-08-04'): 118%",
+            "('Maryland', 'Emerson College', '2024-05-06 to 2024-05-08'): 169%",
+            "('Maryland', 'OpinionWorks', '2024-04-07 to 2024-04-10'): 171%"
+          ]
+        }
+      },
+      "size_verdict": "ok",
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over"
+      ]
+    },
+    {
+      "file": "senate_primary_polling_all.csv",
+      "kind": "all",
+      "size_bytes": 929230,
+      "rows": 5938,
+      "states": 54,
+      "polls": 1502,
+      "issues": {
+        "pct_sum_over": {
+          "count": 182,
+          "examples": [
+            "('Alabama', 'Cygnal', '2021-11-03 to 2021-11-04'): 121%",
+            "('Alabama', 'Cygnal', '2022-03-16 to 2022-03-17'): 320%",
+            "('Alabama', 'Emerson College', '2022-05-15 to 2022-05-16'): 135%"
+          ]
+        },
+        "suspicious_moe": {
+          "count": 7,
+          "examples": [
+            "+ 3.29%",
+            "+ 3.86%",
+            "24%"
+          ]
+        },
+        "odd_sample": {
+          "count": 15,
+          "examples": [
+            "4%",
+            ">400",
+            "LV",
+            "\u00b1 4%"
+          ]
+        },
+        "single_value_poll": {
+          "count": 4
+        }
+      },
+      "needs_improvement": false,
+      "advisory": [
+        "pct_sum_over",
+        "single_value_poll"
+      ]
+    }
+  ]
+}

@@ -1,276 +1,82 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
 1922,Arizona,"United States Senate election in Arizona, 1922",General,Winning,True,Henry F. Ashurst,Democratic Party (United States),"39,722",65.03%
 1922,Arizona,"United States Senate election in Arizona, 1922",General,Candidate,False,James H. McClintock,Republican Party (United States),"21,358",34.97%
+1922,California,1922 United States Senate election in California,General,Winning,True,Hiram Johnson,Republican Party (United States),"564,422",62.17%
+1922,California,1922 United States Senate election in California,General,Candidate,False,William J. Pearson,Democratic Party (United States),"215,748",23.76%
+1922,California,1922 United States Senate election in California,General,Candidate,False,Henry Clay Needham,Prohibition Party (United States),"70,748",7.79%
+1922,California,1922 United States Senate election in California,General,Candidate,False,Upton Sinclair,Socialist Party USA,"56,982",6.28%
 1922,California,1922 United States Senate election in California,General,Total,False,,,"907,900",100.00%
+1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Winning,False,George P. McLean (inc.),Republican Party (US),"169,524",52.34%
+1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Candidate,False,Thomas J. Spellacy,Democratic Party (US),"147,276",45.47%
+1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Socialist Party of America,"5,274",1.63%
 1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Farmer–Labor Party,887,0.27%
 1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Candidate,False,George E. Carey,Independent (politician),945,0.29%
 1922,Connecticut,1922 U.S. Senate election in Connecticut,General,Total,False,,,"323,906",100.00%
+1922,Delaware (special),1922 U.S. Senate election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"37,304",49.81%
+1922,Delaware (special),1922 U.S. Senate election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,979",49.38%
 1922,Delaware (special),1922 U.S. Senate election in Delaware,General,Total,False,,,"74,891",100.00%
 1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"36,954",49.65%
 1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,894",49.57%
 1922,Delaware (special),1922 U.S. Senate special election in Delaware,General,Total,False,,,"74,429",100.00%
+1922,Delaware,1922 U.S. Senate election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"37,304",49.81%
+1922,Delaware,1922 U.S. Senate election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,979",49.38%
 1922,Delaware,1922 U.S. Senate election in Delaware,General,Total,False,,,"74,891",100.00%
 1922,Delaware,1922 U.S. Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (United States),"36,954",49.65%
 1922,Delaware,1922 U.S. Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (United States),"36,894",49.57%
 1922,Delaware,1922 U.S. Senate special election in Delaware,General,Total,False,,,"74,429",100.00%
+1922,Florida,1922 U.S. Senate election in Florida,General,Winning,True,Park Trammell,Democratic Party (United States),"45,707",88.27%
 1922,Florida,1922 U.S. Senate election in Florida,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
 1922,Florida,1922 U.S. Senate election in Florida,General,Total,False,,,"51,781",100.00%
-1922,Georgia (special),1922 United States Senate election in Arizona,General,Winning,True,Henry F. Ashurst,Democratic Party (US),"39,722",65.03%
-1922,Georgia (special),1922 United States Senate election in Arizona,General,Candidate,False,James H. McClintock,Republican Party (US),"21,358",34.97%
-1922,Georgia (special),1922 United States Senate election in California,General,Winning,True,Hiram Johnson,Republican Party (US),"564,422",62.17%
-1922,Georgia (special),1922 United States Senate election in California,General,Candidate,False,William J. Pearson,Democratic Party (US),"215,748",23.76%
-1922,Georgia (special),1922 United States Senate election in California,General,Candidate,False,H. Clay Needham,Prohibition Party,"70,748",7.79%
-1922,Georgia (special),1922 United States Senate election in California,General,Candidate,False,Upton Sinclair,Socialist Party of America,"56,982",6.28%
-1922,Georgia (special),1922 United States Senate election in Connecticut,General,Winning,True,George P. McLean,Republican Party (US),"169,524",52.49%
-1922,Georgia (special),1922 United States Senate election in Connecticut,General,Candidate,False,Thomas J. Spellacy,Democratic Party (US),"147,276",45.60%
-1922,Georgia (special),1922 United States Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Socialist Party of America,"6,161",1.91%
-1922,Georgia (special),1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"36,954",49.65%
-1922,Georgia (special),1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"37,304",49.81%
-1922,Georgia (special),1922 United States Senate special election in Delaware,General,Winning,True,Park Trammell,Democratic Party (US),"45,707",88.27%
-1922,Georgia (special),1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,894",49.57%
-1922,Georgia (special),1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,979",49.38%
-1922,Georgia (special),1922 United States Senate special election in Delaware,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
-1922,Georgia (special),1922 United States Senate election in Indiana,General,Winning,False,Samuel M. Ralston,Democratic Party (US),"558,169",51.55%
-1922,Georgia (special),1922 United States Senate election in Indiana,General,Candidate,False,Albert J. Beveridge,Republican Party (US),"524,558",48.45%
-1922,Georgia (special),1922 United States Senate special election in Iowa,General,Winning,False,Smith W. Brookhart,Republican Party (US),"389,751",63.11%
-1922,Georgia (special),1922 United States Senate special election in Iowa,General,Candidate,False,Clyde L. Herring,Democratic Party (US),"227,833",36.89%
-1922,Georgia (special),1922 United States Senate election in Maine,General,Winning,False,[[Frederick Hale (U.S. senator),Republican Party (US),"101,026",57.50%
-1922,Georgia (special),1922 United States Senate election in Maine,General,Candidate,False,Oakley C. Curtis,Democratic Party (US),"74,660",42.50%
-1922,Georgia (special),1922 United States Senate election in Maryland,General,Winning,False,William Cabell Bruce,Democratic Party (US),"160,947",52.61%
-1922,Georgia (special),1922 United States Senate election in Maryland,General,Candidate,True,Joseph I. France,Republican Party (US),"139,581",45.63%
-1922,Georgia (special),1922 United States Senate election in Maryland,General,Candidate,False,Robert E. Long,Labor Party of the United States,"2,909",0.95%
-1922,Georgia (special),1922 United States Senate election in Maryland,General,Candidate,False,James L. Smiley,Socialist Party of America,"2,479",0.81%
-1922,Georgia (special),1922 United States Senate election in Massachusetts,General,Winning,True,Henry Cabot Lodge,Republican Party (US),"414,130",47.59%
-1922,Georgia (special),1922 United States Senate election in Massachusetts,General,Candidate,False,William A. Gaston,Democratic Party (US),"406,776",46.75%
-1922,Georgia (special),1922 United States Senate election in Massachusetts,General,Candidate,False,John A. Nichols,Prohibition Party (US),"24,866",2.86%
-1922,Georgia (special),1922 United States Senate election in Massachusetts,General,Candidate,False,John Weaver Sherman,Socialist Party of America,"11,678",1.34%
-1922,Georgia (special),1922 United States Senate election in Massachusetts,General,Candidate,False,Washington Cook,Independent,7836,0.90%
-1922,Georgia (special),1922 United States Senate election in Massachusetts,General,Candidate,False,William E. Weeks,"Progressive Party (United States, 1912)",4862,0.56%
-1922,Georgia (special),1922 United States Senate election in Michigan,General,Winning,False,Woodbridge N. Ferris,Democratic Party (US),"294,932",50.59%
-1922,Georgia (special),1922 United States Senate election in Michigan,General,Candidate,True,Charles E. Townsend,Republican Party (US),"281,843",48.35%
-1922,Georgia (special),1922 United States Senate election in Michigan,General,Candidate,False,William L. Krieghoff,Socialist Party of America,"4,249",0.73%
-1922,Georgia (special),1922 United States Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (US),"1,936",0.33%
-1922,Georgia (special),1922 United States Senate election in Minnesota,General,Winning,False,Henrik Shipstead,Farmer–Labor Party (Minnesota),"325,372",47.10%
-1922,Georgia (special),1922 United States Senate election in Minnesota,General,Candidate,True,Frank B. Kellogg,Republican Party (Minnesota),"241,833",35.01%
-1922,Georgia (special),1922 United States Senate election in Minnesota,General,Candidate,False,Anna Dickie Olesen,Democratic Party of Minnesota,"123,624",17.90%
-1922,Georgia (special),1922 United States Senate election in Mississippi,General,Winning,False,Hubert D. Stephens,Democratic Party (US),"63,639",92.84%
-1922,Georgia (special),1922 United States Senate election in Mississippi,General,Candidate,False,John C. Cook,Republican Party (US),3632,5.30%
-1922,Georgia (special),1922 United States Senate election in Mississippi,General,Candidate,False,Sumner W. Rose,Socialist Party of America,1273,1.86%
-1922,Georgia (special),1922 Missouri United States Senate election,General,Winning,False,[[James A. Reed (politician),Democratic Party (US),"506,264",51.85%
-1922,Georgia (special),1922 Missouri United States Senate election,General,Candidate,False,R. R. Brewster,Republican Party (US),"462,009",47.32%
-1922,Georgia (special),1922 Missouri United States Senate election,General,Candidate,False,W. M. Brandt,Socialist Party of America,"7,119",0.73%
-1922,Georgia (special),1922 Missouri United States Senate election,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,970,0.10%
-1922,Georgia (special),1922 United States Senate election in Montana,General,Winning,True,Burton K. Wheeler,Democratic Party (US),"88,205",55.57%
-1922,Georgia (special),1922 United States Senate election in Montana,General,Candidate,False,Carl W. Riddick,Republican Party (US),"69,464",43.76%
-1922,Georgia (special),1922 United States Senate election in Montana,General,Candidate,False,George H. Ambrose,Socialist Party of America,1068,0.67%
-1922,Georgia (special),1922 United States Senate election in Nebraska,General,Winning,False,Robert B. Howell,Republican Party (US),"220,350",56.84%
-1922,Georgia (special),1922 United States Senate election in Nebraska,General,Candidate,True,Gilbert Hitchcock,Democratic Party (US),"148,265",38.24%
-1922,Georgia (special),1922 United States Senate election in Nevada,General,Winning,True,Key Pittman,Democratic Party (US),"18,200",63.04%
-1922,Georgia (special),1922 United States Senate election in Nevada,General,Candidate,False,Charles S. Chandler,Republican Party (US),"10,671",36.96%
-1922,Georgia (special),1922 United States Senate election in New Jersey,General,Winning,False,Edward I. Edwards,Democratic Party (US),"451,832",55.47%
-1922,Georgia (special),1922 United States Senate election in New Jersey,General,Candidate,True,Joseph S. Frelinghuysen Sr.,Republican Party (US),"362,699",44.53%
-1922,Georgia (special),1922 United States Senate election in New Mexico,General,Winning,True,Andrieus A. Jones,Democratic Party (US),"60,969",55.58%
-1922,Georgia (special),1922 United States Senate election in New Mexico,General,Candidate,False,"Stephen B. Davis, Jr.",Republican Party (US),"48,721",44.42%
-1922,Georgia (special),1922 United States Senate election in New York,General,Winning,False,Royal S. Copeland,Democratic Party (US),"1,276,667",52.60%
-1922,Georgia (special),1922 United States Senate election in New York,General,Candidate,True,William M. Calder,Republican Party (US),"995,421",41.01%
-1922,Georgia (special),1922 United States Senate election in New York,General,Candidate,False,Algernon Lee,Socialist Party of America,"117,928",4.86%
-1922,Georgia (special),1922 United States Senate election in New York,General,Candidate,False,Coleridge A. Hart,Prohibition Party (US),"32,124",1.32%
-1922,Georgia (special),1922 United States Senate election in New York,General,Candidate,False,Henry Kuhn,Socialist Labor Party of America,"4,993",0.21%
-1922,Georgia (special),1922 United States Senate election in North Dakota,General,Winning,False,Lynn Frazier,Republican Party (United States),"101,312",52.28%
-1922,Georgia (special),1922 United States Senate election in North Dakota,General,Candidate,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"92,464",47.72%
-1922,Georgia (special),1922 United States Senate election in Ohio,General,Winning,False,Simeon D. Fess,Republican Party (US),"794,159",50.90%
-1922,Georgia (special),1922 United States Senate election in Ohio,General,Candidate,True,Atlee Pomerene,Democratic Party (US),"744,558",47.72%
-1922,Georgia (special),1922 United States Senate election in Ohio,General,Candidate,False,Virginia D. Green,Independent,"21,514",1.38%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 1),General,Winning,True,David A. Reed,Republican Party (US),"860,483",86.15%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),"60,390",6.05%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,William J. Van Essen,Socialist Party of America,"55,703",5.58%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Thomas J. Davis,Single Tax Party,"21,997",2.20%
-1922,Georgia (special),1922 United States Senate election in Pennsylvania,General,Winning,True,David A. Reed,Republican Party (US),802146,55.61%
-1922,Georgia (special),1922 United States Senate election in Pennsylvania,General,Candidate,False,Samuel L. Schull,Democratic Party (US),434583,30.13%
-1922,Georgia (special),1922 United States Senate election in Pennsylvania,General,Candidate,False,William J. Burke,"Progressive Party (United States, 1912)",127180,8.82%
-1922,Georgia (special),1922 United States Senate election in Pennsylvania,General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),41935,2.91%
-1922,Georgia (special),1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles Sehl,Socialist Party of America,33004,2.29%
-1922,Georgia (special),1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles J. Schoales,Single Tax Party,3596,0.25%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 3),General,Winning,True,George W. Pepper,Republican Party (US),819507,57.60%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Fred B. Kerr,Democratic Party (US),468330,32.91%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Earl W. Thompson,"Progressive Party (United States, 1912)",57075,4.01%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,William J. Van Essen,Socialist Party of America,38440,2.70%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Frank G. Lewis,Prohibition Party (US),34089,2.40%
-1922,Georgia (special),1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,James A. Robinson,Single Tax Party,5356,0.38%
-1922,Georgia (special),1922 United States Senate election in Rhode Island,General,Winning,True,Peter G. Gerry,Democratic Party (US),"82,889",52.17%
-1922,Georgia (special),1922 United States Senate election in Rhode Island,General,Candidate,False,Robert Livingston Beeckman,Republican Party (US),"68,930",43.38%
-1922,Georgia (special),1922 United States Senate election in Rhode Island,General,Candidate,False,James Matthews,Socialist Labor Party of America,6102,3.84%
-1922,Georgia (special),1922 United States Senate election in Rhode Island,General,Candidate,False,James I. Bartholomew,Law and Order Party (United States),968,0.61%
-1922,Georgia (special),1922 United States Senate election in Tennessee,General,Winning,False,[[Kenneth McKellar (politician),Democratic Party (US),"151,523",68.03%
-1922,Georgia (special),1922 United States Senate election in Tennessee,General,Candidate,False,Newell Sanders,Republican Party (US),"71,200",31.97%
-1922,Georgia (special),1922 United States Senate election in Texas,General,Winning,False,Earle Bradford Mayfield,Democratic Party (US),"264,260",66.90%
-1922,Georgia (special),1922 United States Senate election in Texas,General,Candidate,False,[[George Peddy,Independent Democratic,"130,744",33.10%
-1922,Georgia (special),1922 United States Senate election in Utah,General,Winning,True,William H. King,Democratic Party (US),"58,749",48.63%
-1922,Georgia (special),1922 United States Senate election in Utah,General,Candidate,False,Ernest Bamberger,Republican Party (US),"58,188",48.16%
-1922,Georgia (special),1922 United States Senate election in Utah,General,Candidate,False,Charles T. Stoney,Socialist Party of America,"3,875",3.21%
-1922,Georgia (special),1922 United States Senate election in Vermont,General,Winning,False,Frank L. Greene,Republican Party (US),"47,669",69.04%
-1922,Georgia (special),1922 United States Senate election in Vermont,General,Candidate,False,William B. Mayo,Democratic Party (US),"21,375",30.96%
-1922,Georgia (special),1922 United States Senate election in Virginia,General,Winning,False,Claude A. Swanson ([[incumbent,Democratic Party (US),"116,393",71.88%
-1922,Georgia (special),1922 United States Senate election in Virginia,General,Candidate,False,J. W. McGavock,Republican Party (US),"42,903",26.50%
-1922,Georgia (special),1922 United States Senate election in Virginia,General,Candidate,False,Matt N. Lewis,Independent,"2,627",1.62%
-1922,Georgia (special),1922 United States Senate election in Washington,General,Winning,False,Clarence Dill,Democratic Party (US),"130,347",44.27%
-1922,Georgia (special),1922 United States Senate election in Washington,General,Candidate,True,Miles Poindexter,Republican Party (US),"126,410",42.93%
-1922,Georgia (special),1922 United States Senate election in Washington,General,Candidate,False,James A. Duncan,Farmer–Labor Party (US),"35,326",12.00%
-1922,Georgia (special),1922 United States Senate election in Washington,General,Candidate,False,David Burgess,Socialist Labor Party of America,1904,0.65%
-1922,Georgia (special),1922 United States Senate election in Washington,General,Candidate,False,Frans Bostrom,Workers Party of America,482,0.16%
-1922,Georgia (special),1922 United States Senate election in West Virginia,General,Winning,False,Matthew M. Neely,Democratic Party (US),"198,853",51.15%
-1922,Georgia (special),1922 United States Senate election in West Virginia,General,Candidate,True,Howard Sutherland,Republican Party (US),"185,046",47.59%
-1922,Georgia (special),1922 United States Senate election in West Virginia,General,Candidate,False,M. S. Holt,Socialist Party of America,"4,895",1.26%
-1922,Georgia (special),1922 United States Senate election in Wisconsin,General,Winning,True,Robert M. La Follette,Republican Party (US),"379,494",80.67%
-1922,Georgia (special),1922 United States Senate election in Wisconsin,General,Candidate,False,Jessie Jack Hooper,Democratic Party (US),"78,029",16.59%
-1922,Georgia (special),1922 United States Senate election in Wisconsin,General,Candidate,False,Adolph R. Buckman,Prohibition Party (US),"11,254",2.39%
-1922,Georgia (special),1922 United States Senate election in Wisconsin,General,Candidate,False,Richard Koeppel,Independent,"1,656",0.35%
-1922,Georgia (special),1922 United States Senate election in Wyoming,General,Winning,True,John B. Kendrick,Democratic Party (US),"35,734",56.74%
-1922,Georgia (special),1922 United States Senate election in Wyoming,General,Candidate,False,Frank Wheeler Mondell,Republican Party (US),"26,627",42.28%
-1922,Georgia (special),1922 United States Senate election in Wyoming,General,Candidate,False,W. B. Guthrie,Socialist Party of America,612,0.97%
+1922,Indiana,1922 U.S. Senate election in Indiana,General,Winning,False,Samuel M. Ralston,Democratic Party (United States),"558,169",50.87%
+1922,Indiana,1922 U.S. Senate election in Indiana,General,Candidate,False,Albert J. Beveridge,Republican Party (United States),"524,558",47.80%
+1922,Indiana,1922 U.S. Senate election in Indiana,General,Candidate,False,William Henry,Socialist Party USA,"14,635",1.33%
 1922,Indiana,1922 U.S. Senate election in Indiana,General,Total,False,,,"1,097,362",100.00%
 1922,Iowa (special),1922 U.S. Senate special election in Iowa,General,Winning,False,Smith W. Brookhart,Republican Party (United States),"389,751",63.11%
 1922,Iowa (special),1922 U.S. Senate special election in Iowa,General,Candidate,False,Clyde L. Herring,Democratic Party (United States),"227,833",36.89%
 1922,Iowa (special),1922 U.S. Senate special election in Iowa,General,Total,False,,,"617,584",100.00%
+1922,Maine,1922 U.S. Senate election in Maine,General,Winning,False,Frederick Hale,Republican Party (United States),"101,026",57.50%
+1922,Maine,1922 U.S. Senate election in Maine,General,Candidate,False,Oakley C. Curtis,Democratic Party (United States),"74,660",42.50%
 1922,Maine,1922 U.S. Senate election in Maine,General,Total,False,,,"175,686",100.00%
+1922,Maryland,1922 U.S. Senate election in Maryland,General,Winning,False,William Cabell Bruce,Democratic Party (United States),"160,947",52.61%
+1922,Maryland,1922 U.S. Senate election in Maryland,General,Candidate,False,Joseph I. France (inc.),Republican Party (United States),"139,581",45.63%
+1922,Maryland,1922 U.S. Senate election in Maryland,General,Candidate,False,James L. Smiley,Socialist Party (United States),"2,026",0.81%
 1922,Maryland,1922 U.S. Senate election in Maryland,General,Total,False,,,"474,067",100.00%
+1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Winning,True,Henry Cabot Lodge,Republican Party (United States),"414,130",47.59%
+1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Candidate,False,William A. Gaston,Democratic Party (United States),"406,776",46.67%
 1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Candidate,False,John A. Nicholls,Prohibition Party,"24,866",2.85%
+1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Candidate,False,John Weaver Sherman,Socialist Party of America,"11,678",1.34%
 1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Candidate,False,Washington Cook,Independent (politician),"7,836",0.90%
 1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Candidate,False,William E. Weeks,"Progressive Party (United States, 1912)","4,862",0.55%
 1922,Massachusetts,"United States Senate election in Massachusetts, 1922",General,Total,False,,,"870,148",100.00%
+1922,Michigan,1922 U.S. Senate election in Michigan,General,Winning,False,Woodbridge N. Ferris,Democratic Party (US),"294,932",50.59%
+1922,Michigan,1922 U.S. Senate election in Michigan,General,Candidate,True,Charles E. Townsend,Republican Party (US),"281,843",48.35%
+1922,Michigan,1922 U.S. Senate election in Michigan,General,Candidate,False,William L. Kreighoff,Socialist Party (US),"4,249",0.73%
+1922,Michigan,1922 U.S. Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (US),"1,936",0.33%
 1922,Michigan,1922 U.S. Senate election in Michigan,General,Total,False,,,"582,960",100.00%
 1922,Minnesota,General election results,General,Winning,False,Henrik Shipstead,Farmer–Labor Party,"325,372",47.10%
 1922,Minnesota,General election results,General,Candidate,True,Frank B. Kellogg,Republican Party of Minnesota,"241,833",35.01%
-1922,Minnesota,General election results,General,Candidate,False,[[Anna Dickie Olesen,Democratic Party of Minnesota,"123,624",17.89%
+1922,Minnesota,General election results,General,Candidate,False,Anna D. Olesen,Democratic Party of Minnesota,"123,624",17.89%
 1922,Minnesota,General election results,General,Total,False,,,"690,829",100.00%
 1922,Mississippi,1922 Democratic U.S. Senate runoff,General,Winning,False,Hubert D. Stephens,Democratic Party (United States),"95,351",52.33%
 1922,Mississippi,1922 Democratic U.S. Senate runoff,General,Candidate,False,James K. Vardaman,Democratic Party (United States),"86,853",47.67%
 1922,Mississippi,1922 Democratic U.S. Senate runoff,General,Total,False,,,"182,204",100.00%
+1922,Mississippi,1922 U.S. Senate election in Mississippi,General,Winning,False,Hubert D. Stephens,Democratic Party (United States),"63,636",93.21%
 1922,Mississippi,1922 U.S. Senate election in Mississippi,General,Candidate,False,John H. Cook,Republican Party (United States),"3,362",4.92%
 1922,Mississippi,1922 U.S. Senate election in Mississippi,General,Candidate,False,Hubert D. Stephens,Socialist Party (United States),"1,273",1.87%
 1922,Mississippi,1922 U.S. Senate election in Mississippi,General,Total,False,,,"68,271",100.00%
+1922,Missouri,1922 U.S. Senate election in Missouri,General,Winning,False,James A. Reed,Democratic Party (United States),"506,264",51.85%
+1922,Missouri,1922 U.S. Senate election in Missouri,General,Candidate,False,R. R. Brewster,Republican Party (United States),"462,009",47.32%
+1922,Missouri,1922 U.S. Senate election in Missouri,General,Candidate,False,William M. Brandt,Socialist Party of America,"7,119",0.73%
+1922,Missouri,1922 U.S. Senate election in Missouri,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,970,0.10%
 1922,Missouri,1922 U.S. Senate election in Missouri,General,Total,False,,,"976,362",100.00%
 1922,Montana,"United States Senate election in Montana, 1922",General,Winning,False,Burton K. Wheeler,Democratic Party (United States),"88,205",55.56%
 1922,Montana,"United States Senate election in Montana, 1922",General,Candidate,False,Carl W. Riddick,Republican Party (United States),"69,494",43.77%
 1922,Montana,"United States Senate election in Montana, 1922",General,Candidate,False,George H. Ambrose,Socialist Party (United States),"1,068",0.67%
 1922,Nebraska,1922 United States Senate election in Nebraska,General,Winning,False,Robert B. Howell,Republican Party (United States),"220,350",56.84%
-1922,Nebraska,1922 United States Senate election in Nebraska,General,Candidate,False,Gilbert M. Hitchcock ([[incumbent,Democratic Party (United States),"148,265",38.24%
+1922,Nebraska,1922 United States Senate election in Nebraska,General,Candidate,False,Gilbert M. Hitchcock (inc.),Democratic Party (United States),"148,265",38.24%
 1922,Nebraska,1922 United States Senate election in Nebraska,General,Candidate,False,James L. Beebe,Prohibition Party (United States),"19,076",4.92%
 1922,Nebraska,1922 United States Senate election in Nebraska,General,Write-in,False,,,2,0.00%
 1922,Nebraska,1922 United States Senate election in Nebraska,General,Total,False,,,"387,693",100.00%
-1922,Nevada,1922 United States Senate election in Arizona,General,Winning,True,Henry F. Ashurst,Democratic Party (US),"39,722",65.03%
-1922,Nevada,1922 United States Senate election in Arizona,General,Candidate,False,James H. McClintock,Republican Party (US),"21,358",34.97%
-1922,Nevada,1922 United States Senate election in California,General,Winning,True,Hiram Johnson,Republican Party (US),"564,422",62.17%
-1922,Nevada,1922 United States Senate election in California,General,Candidate,False,William J. Pearson,Democratic Party (US),"215,748",23.76%
-1922,Nevada,1922 United States Senate election in California,General,Candidate,False,H. Clay Needham,Prohibition Party,"70,748",7.79%
-1922,Nevada,1922 United States Senate election in California,General,Candidate,False,Upton Sinclair,Socialist Party of America,"56,982",6.28%
-1922,Nevada,1922 United States Senate election in Connecticut,General,Winning,True,George P. McLean,Republican Party (US),"169,524",52.49%
-1922,Nevada,1922 United States Senate election in Connecticut,General,Candidate,False,Thomas J. Spellacy,Democratic Party (US),"147,276",45.60%
-1922,Nevada,1922 United States Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Socialist Party of America,"6,161",1.91%
-1922,Nevada,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"36,954",49.65%
-1922,Nevada,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"37,304",49.81%
-1922,Nevada,1922 United States Senate special election in Delaware,General,Winning,True,Park Trammell,Democratic Party (US),"45,707",88.27%
-1922,Nevada,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,894",49.57%
-1922,Nevada,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,979",49.38%
-1922,Nevada,1922 United States Senate special election in Delaware,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
-1922,Nevada,1922 United States Senate election in Indiana,General,Winning,False,Samuel M. Ralston,Democratic Party (US),"558,169",51.55%
-1922,Nevada,1922 United States Senate election in Indiana,General,Candidate,False,Albert J. Beveridge,Republican Party (US),"524,558",48.45%
-1922,Nevada,1922 United States Senate special election in Iowa,General,Winning,False,Smith W. Brookhart,Republican Party (US),"389,751",63.11%
-1922,Nevada,1922 United States Senate special election in Iowa,General,Candidate,False,Clyde L. Herring,Democratic Party (US),"227,833",36.89%
-1922,Nevada,1922 United States Senate election in Maine,General,Winning,False,[[Frederick Hale (U.S. senator),Republican Party (US),"101,026",57.50%
-1922,Nevada,1922 United States Senate election in Maine,General,Candidate,False,Oakley C. Curtis,Democratic Party (US),"74,660",42.50%
-1922,Nevada,1922 United States Senate election in Maryland,General,Winning,False,William Cabell Bruce,Democratic Party (US),"160,947",52.61%
-1922,Nevada,1922 United States Senate election in Maryland,General,Candidate,True,Joseph I. France,Republican Party (US),"139,581",45.63%
-1922,Nevada,1922 United States Senate election in Maryland,General,Candidate,False,Robert E. Long,Labor Party of the United States,"2,909",0.95%
-1922,Nevada,1922 United States Senate election in Maryland,General,Candidate,False,James L. Smiley,Socialist Party of America,"2,479",0.81%
-1922,Nevada,1922 United States Senate election in Massachusetts,General,Winning,True,Henry Cabot Lodge,Republican Party (US),"414,130",47.59%
-1922,Nevada,1922 United States Senate election in Massachusetts,General,Candidate,False,William A. Gaston,Democratic Party (US),"406,776",46.75%
-1922,Nevada,1922 United States Senate election in Massachusetts,General,Candidate,False,John A. Nichols,Prohibition Party (US),"24,866",2.86%
-1922,Nevada,1922 United States Senate election in Massachusetts,General,Candidate,False,John Weaver Sherman,Socialist Party of America,"11,678",1.34%
-1922,Nevada,1922 United States Senate election in Massachusetts,General,Candidate,False,Washington Cook,Independent,7836,0.90%
-1922,Nevada,1922 United States Senate election in Massachusetts,General,Candidate,False,William E. Weeks,"Progressive Party (United States, 1912)",4862,0.56%
-1922,Nevada,1922 United States Senate election in Michigan,General,Winning,False,Woodbridge N. Ferris,Democratic Party (US),"294,932",50.59%
-1922,Nevada,1922 United States Senate election in Michigan,General,Candidate,True,Charles E. Townsend,Republican Party (US),"281,843",48.35%
-1922,Nevada,1922 United States Senate election in Michigan,General,Candidate,False,William L. Krieghoff,Socialist Party of America,"4,249",0.73%
-1922,Nevada,1922 United States Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (US),"1,936",0.33%
-1922,Nevada,1922 United States Senate election in Minnesota,General,Winning,False,Henrik Shipstead,Farmer–Labor Party (Minnesota),"325,372",47.10%
-1922,Nevada,1922 United States Senate election in Minnesota,General,Candidate,True,Frank B. Kellogg,Republican Party (Minnesota),"241,833",35.01%
-1922,Nevada,1922 United States Senate election in Minnesota,General,Candidate,False,Anna Dickie Olesen,Democratic Party of Minnesota,"123,624",17.90%
-1922,Nevada,1922 United States Senate election in Mississippi,General,Winning,False,Hubert D. Stephens,Democratic Party (US),"63,639",92.84%
-1922,Nevada,1922 United States Senate election in Mississippi,General,Candidate,False,John C. Cook,Republican Party (US),3632,5.30%
-1922,Nevada,1922 United States Senate election in Mississippi,General,Candidate,False,Sumner W. Rose,Socialist Party of America,1273,1.86%
-1922,Nevada,1922 Missouri United States Senate election,General,Winning,False,[[James A. Reed (politician),Democratic Party (US),"506,264",51.85%
-1922,Nevada,1922 Missouri United States Senate election,General,Candidate,False,R. R. Brewster,Republican Party (US),"462,009",47.32%
-1922,Nevada,1922 Missouri United States Senate election,General,Candidate,False,W. M. Brandt,Socialist Party of America,"7,119",0.73%
-1922,Nevada,1922 Missouri United States Senate election,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,970,0.10%
-1922,Nevada,1922 United States Senate election in Montana,General,Winning,True,Burton K. Wheeler,Democratic Party (US),"88,205",55.57%
-1922,Nevada,1922 United States Senate election in Montana,General,Candidate,False,Carl W. Riddick,Republican Party (US),"69,464",43.76%
-1922,Nevada,1922 United States Senate election in Montana,General,Candidate,False,George H. Ambrose,Socialist Party of America,1068,0.67%
-1922,Nevada,1922 United States Senate election in Nebraska,General,Winning,False,Robert B. Howell,Republican Party (US),"220,350",56.84%
-1922,Nevada,1922 United States Senate election in Nebraska,General,Candidate,True,Gilbert Hitchcock,Democratic Party (US),"148,265",38.24%
-1922,Nevada,1922 United States Senate election in Nevada,General,Winning,True,Key Pittman,Democratic Party (US),"18,200",63.04%
-1922,Nevada,1922 United States Senate election in Nevada,General,Candidate,False,Charles S. Chandler,Republican Party (US),"10,671",36.96%
-1922,Nevada,1922 United States Senate election in New Jersey,General,Winning,False,Edward I. Edwards,Democratic Party (US),"451,832",55.47%
-1922,Nevada,1922 United States Senate election in New Jersey,General,Candidate,True,Joseph S. Frelinghuysen Sr.,Republican Party (US),"362,699",44.53%
-1922,Nevada,1922 United States Senate election in New Mexico,General,Winning,True,Andrieus A. Jones,Democratic Party (US),"60,969",55.58%
-1922,Nevada,1922 United States Senate election in New Mexico,General,Candidate,False,"Stephen B. Davis, Jr.",Republican Party (US),"48,721",44.42%
-1922,Nevada,1922 United States Senate election in New York,General,Winning,False,Royal S. Copeland,Democratic Party (US),"1,276,667",52.60%
-1922,Nevada,1922 United States Senate election in New York,General,Candidate,True,William M. Calder,Republican Party (US),"995,421",41.01%
-1922,Nevada,1922 United States Senate election in New York,General,Candidate,False,Algernon Lee,Socialist Party of America,"117,928",4.86%
-1922,Nevada,1922 United States Senate election in New York,General,Candidate,False,Coleridge A. Hart,Prohibition Party (US),"32,124",1.32%
-1922,Nevada,1922 United States Senate election in New York,General,Candidate,False,Henry Kuhn,Socialist Labor Party of America,"4,993",0.21%
-1922,Nevada,1922 United States Senate election in North Dakota,General,Winning,False,Lynn Frazier,Republican Party (United States),"101,312",52.28%
-1922,Nevada,1922 United States Senate election in North Dakota,General,Candidate,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"92,464",47.72%
-1922,Nevada,1922 United States Senate election in Ohio,General,Winning,False,Simeon D. Fess,Republican Party (US),"794,159",50.90%
-1922,Nevada,1922 United States Senate election in Ohio,General,Candidate,True,Atlee Pomerene,Democratic Party (US),"744,558",47.72%
-1922,Nevada,1922 United States Senate election in Ohio,General,Candidate,False,Virginia D. Green,Independent,"21,514",1.38%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 1),General,Winning,True,David A. Reed,Republican Party (US),"860,483",86.15%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),"60,390",6.05%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,William J. Van Essen,Socialist Party of America,"55,703",5.58%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Thomas J. Davis,Single Tax Party,"21,997",2.20%
-1922,Nevada,1922 United States Senate election in Pennsylvania,General,Winning,True,David A. Reed,Republican Party (US),802146,55.61%
-1922,Nevada,1922 United States Senate election in Pennsylvania,General,Candidate,False,Samuel L. Schull,Democratic Party (US),434583,30.13%
-1922,Nevada,1922 United States Senate election in Pennsylvania,General,Candidate,False,William J. Burke,"Progressive Party (United States, 1912)",127180,8.82%
-1922,Nevada,1922 United States Senate election in Pennsylvania,General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),41935,2.91%
-1922,Nevada,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles Sehl,Socialist Party of America,33004,2.29%
-1922,Nevada,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles J. Schoales,Single Tax Party,3596,0.25%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 3),General,Winning,True,George W. Pepper,Republican Party (US),819507,57.60%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Fred B. Kerr,Democratic Party (US),468330,32.91%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Earl W. Thompson,"Progressive Party (United States, 1912)",57075,4.01%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,William J. Van Essen,Socialist Party of America,38440,2.70%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Frank G. Lewis,Prohibition Party (US),34089,2.40%
-1922,Nevada,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,James A. Robinson,Single Tax Party,5356,0.38%
-1922,Nevada,1922 United States Senate election in Rhode Island,General,Winning,True,Peter G. Gerry,Democratic Party (US),"82,889",52.17%
-1922,Nevada,1922 United States Senate election in Rhode Island,General,Candidate,False,Robert Livingston Beeckman,Republican Party (US),"68,930",43.38%
-1922,Nevada,1922 United States Senate election in Rhode Island,General,Candidate,False,James Matthews,Socialist Labor Party of America,6102,3.84%
-1922,Nevada,1922 United States Senate election in Rhode Island,General,Candidate,False,James I. Bartholomew,Law and Order Party (United States),968,0.61%
-1922,Nevada,1922 United States Senate election in Tennessee,General,Winning,False,[[Kenneth McKellar (politician),Democratic Party (US),"151,523",68.03%
-1922,Nevada,1922 United States Senate election in Tennessee,General,Candidate,False,Newell Sanders,Republican Party (US),"71,200",31.97%
-1922,Nevada,1922 United States Senate election in Texas,General,Winning,False,Earle Bradford Mayfield,Democratic Party (US),"264,260",66.90%
-1922,Nevada,1922 United States Senate election in Texas,General,Candidate,False,[[George Peddy,Independent Democratic,"130,744",33.10%
-1922,Nevada,1922 United States Senate election in Utah,General,Winning,True,William H. King,Democratic Party (US),"58,749",48.63%
-1922,Nevada,1922 United States Senate election in Utah,General,Candidate,False,Ernest Bamberger,Republican Party (US),"58,188",48.16%
-1922,Nevada,1922 United States Senate election in Utah,General,Candidate,False,Charles T. Stoney,Socialist Party of America,"3,875",3.21%
-1922,Nevada,1922 United States Senate election in Vermont,General,Winning,False,Frank L. Greene,Republican Party (US),"47,669",69.04%
-1922,Nevada,1922 United States Senate election in Vermont,General,Candidate,False,William B. Mayo,Democratic Party (US),"21,375",30.96%
-1922,Nevada,1922 United States Senate election in Virginia,General,Winning,False,Claude A. Swanson ([[incumbent,Democratic Party (US),"116,393",71.88%
-1922,Nevada,1922 United States Senate election in Virginia,General,Candidate,False,J. W. McGavock,Republican Party (US),"42,903",26.50%
-1922,Nevada,1922 United States Senate election in Virginia,General,Candidate,False,Matt N. Lewis,Independent,"2,627",1.62%
-1922,Nevada,1922 United States Senate election in Washington,General,Winning,False,Clarence Dill,Democratic Party (US),"130,347",44.27%
-1922,Nevada,1922 United States Senate election in Washington,General,Candidate,True,Miles Poindexter,Republican Party (US),"126,410",42.93%
-1922,Nevada,1922 United States Senate election in Washington,General,Candidate,False,James A. Duncan,Farmer–Labor Party (US),"35,326",12.00%
-1922,Nevada,1922 United States Senate election in Washington,General,Candidate,False,David Burgess,Socialist Labor Party of America,1904,0.65%
-1922,Nevada,1922 United States Senate election in Washington,General,Candidate,False,Frans Bostrom,Workers Party of America,482,0.16%
-1922,Nevada,1922 United States Senate election in West Virginia,General,Winning,False,Matthew M. Neely,Democratic Party (US),"198,853",51.15%
-1922,Nevada,1922 United States Senate election in West Virginia,General,Candidate,True,Howard Sutherland,Republican Party (US),"185,046",47.59%
-1922,Nevada,1922 United States Senate election in West Virginia,General,Candidate,False,M. S. Holt,Socialist Party of America,"4,895",1.26%
-1922,Nevada,1922 United States Senate election in Wisconsin,General,Winning,True,Robert M. La Follette,Republican Party (US),"379,494",80.67%
-1922,Nevada,1922 United States Senate election in Wisconsin,General,Candidate,False,Jessie Jack Hooper,Democratic Party (US),"78,029",16.59%
-1922,Nevada,1922 United States Senate election in Wisconsin,General,Candidate,False,Adolph R. Buckman,Prohibition Party (US),"11,254",2.39%
-1922,Nevada,1922 United States Senate election in Wisconsin,General,Candidate,False,Richard Koeppel,Independent,"1,656",0.35%
-1922,Nevada,1922 United States Senate election in Wyoming,General,Winning,True,John B. Kendrick,Democratic Party (US),"35,734",56.74%
-1922,Nevada,1922 United States Senate election in Wyoming,General,Candidate,False,Frank Wheeler Mondell,Republican Party (US),"26,627",42.28%
-1922,Nevada,1922 United States Senate election in Wyoming,General,Candidate,False,W. B. Guthrie,Socialist Party of America,612,0.97%
 1922,New Jersey,1922 United States Senate election in New Jersey,General,Winning,False,Edward I. Edwards,Democratic Party (US),"451,832",54.87%
 1922,New Jersey,1922 United States Senate election in New Jersey,General,Candidate,True,Joseph S. Frelinghuysen Sr.,Republican Party (US),"362,699",44.05%
 1922,New Jersey,1922 United States Senate election in New Jersey,General,Candidate,False,George A. Bauer,Socialist Party USA,"5,970",0.73%
@@ -278,365 +84,37 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,New Jersey,1922 United States Senate election in New Jersey,General,Total,False,,,"823,438",100.00%
 1922,North Dakota,1922 United States Senate election in North Dakota,General,Winning,False,Lynn Frazier,Republican Party (United States),"101,312",52.28%
 1922,North Dakota,1922 United States Senate election in North Dakota,General,Candidate,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"92,464",47.72%
+1922,Ohio,1922 U.S. Senate election in Ohio,General,Winning,False,Simeon Fess,Republican Party (United States),"794,159",50.90%
+1922,Ohio,1922 U.S. Senate election in Ohio,General,Candidate,True,Atlee Pomerene,Democratic Party (United States),"744,558",47.72%
 1922,Ohio,1922 U.S. Senate election in Ohio,General,Candidate,False,Virginia D. Green,Independent (politician),"21,514",1.38%
 1922,Ohio,1922 U.S. Senate election in Ohio,General,Total,False,,,"1,560,231",100.00%
-1922,Rhode Island,1922 United States Senate election in Arizona,General,Winning,True,Henry F. Ashurst,Democratic Party (US),"39,722",65.03%
-1922,Rhode Island,1922 United States Senate election in Arizona,General,Candidate,False,James H. McClintock,Republican Party (US),"21,358",34.97%
-1922,Rhode Island,1922 United States Senate election in California,General,Winning,True,Hiram Johnson,Republican Party (US),"564,422",62.17%
-1922,Rhode Island,1922 United States Senate election in California,General,Candidate,False,William J. Pearson,Democratic Party (US),"215,748",23.76%
-1922,Rhode Island,1922 United States Senate election in California,General,Candidate,False,H. Clay Needham,Prohibition Party,"70,748",7.79%
-1922,Rhode Island,1922 United States Senate election in California,General,Candidate,False,Upton Sinclair,Socialist Party of America,"56,982",6.28%
-1922,Rhode Island,1922 United States Senate election in Connecticut,General,Winning,True,George P. McLean,Republican Party (US),"169,524",52.49%
-1922,Rhode Island,1922 United States Senate election in Connecticut,General,Candidate,False,Thomas J. Spellacy,Democratic Party (US),"147,276",45.60%
-1922,Rhode Island,1922 United States Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Socialist Party of America,"6,161",1.91%
-1922,Rhode Island,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"36,954",49.65%
-1922,Rhode Island,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"37,304",49.81%
-1922,Rhode Island,1922 United States Senate special election in Delaware,General,Winning,True,Park Trammell,Democratic Party (US),"45,707",88.27%
-1922,Rhode Island,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,894",49.57%
-1922,Rhode Island,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,979",49.38%
-1922,Rhode Island,1922 United States Senate special election in Delaware,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
-1922,Rhode Island,1922 United States Senate election in Indiana,General,Winning,False,Samuel M. Ralston,Democratic Party (US),"558,169",51.55%
-1922,Rhode Island,1922 United States Senate election in Indiana,General,Candidate,False,Albert J. Beveridge,Republican Party (US),"524,558",48.45%
-1922,Rhode Island,1922 United States Senate special election in Iowa,General,Winning,False,Smith W. Brookhart,Republican Party (US),"389,751",63.11%
-1922,Rhode Island,1922 United States Senate special election in Iowa,General,Candidate,False,Clyde L. Herring,Democratic Party (US),"227,833",36.89%
-1922,Rhode Island,1922 United States Senate election in Maine,General,Winning,False,[[Frederick Hale (U.S. senator),Republican Party (US),"101,026",57.50%
-1922,Rhode Island,1922 United States Senate election in Maine,General,Candidate,False,Oakley C. Curtis,Democratic Party (US),"74,660",42.50%
-1922,Rhode Island,1922 United States Senate election in Maryland,General,Winning,False,William Cabell Bruce,Democratic Party (US),"160,947",52.61%
-1922,Rhode Island,1922 United States Senate election in Maryland,General,Candidate,True,Joseph I. France,Republican Party (US),"139,581",45.63%
-1922,Rhode Island,1922 United States Senate election in Maryland,General,Candidate,False,Robert E. Long,Labor Party of the United States,"2,909",0.95%
-1922,Rhode Island,1922 United States Senate election in Maryland,General,Candidate,False,James L. Smiley,Socialist Party of America,"2,479",0.81%
-1922,Rhode Island,1922 United States Senate election in Massachusetts,General,Winning,True,Henry Cabot Lodge,Republican Party (US),"414,130",47.59%
-1922,Rhode Island,1922 United States Senate election in Massachusetts,General,Candidate,False,William A. Gaston,Democratic Party (US),"406,776",46.75%
-1922,Rhode Island,1922 United States Senate election in Massachusetts,General,Candidate,False,John A. Nichols,Prohibition Party (US),"24,866",2.86%
-1922,Rhode Island,1922 United States Senate election in Massachusetts,General,Candidate,False,John Weaver Sherman,Socialist Party of America,"11,678",1.34%
-1922,Rhode Island,1922 United States Senate election in Massachusetts,General,Candidate,False,Washington Cook,Independent,7836,0.90%
-1922,Rhode Island,1922 United States Senate election in Massachusetts,General,Candidate,False,William E. Weeks,"Progressive Party (United States, 1912)",4862,0.56%
-1922,Rhode Island,1922 United States Senate election in Michigan,General,Winning,False,Woodbridge N. Ferris,Democratic Party (US),"294,932",50.59%
-1922,Rhode Island,1922 United States Senate election in Michigan,General,Candidate,True,Charles E. Townsend,Republican Party (US),"281,843",48.35%
-1922,Rhode Island,1922 United States Senate election in Michigan,General,Candidate,False,William L. Krieghoff,Socialist Party of America,"4,249",0.73%
-1922,Rhode Island,1922 United States Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (US),"1,936",0.33%
-1922,Rhode Island,1922 United States Senate election in Minnesota,General,Winning,False,Henrik Shipstead,Farmer–Labor Party (Minnesota),"325,372",47.10%
-1922,Rhode Island,1922 United States Senate election in Minnesota,General,Candidate,True,Frank B. Kellogg,Republican Party (Minnesota),"241,833",35.01%
-1922,Rhode Island,1922 United States Senate election in Minnesota,General,Candidate,False,Anna Dickie Olesen,Democratic Party of Minnesota,"123,624",17.90%
-1922,Rhode Island,1922 United States Senate election in Mississippi,General,Winning,False,Hubert D. Stephens,Democratic Party (US),"63,639",92.84%
-1922,Rhode Island,1922 United States Senate election in Mississippi,General,Candidate,False,John C. Cook,Republican Party (US),3632,5.30%
-1922,Rhode Island,1922 United States Senate election in Mississippi,General,Candidate,False,Sumner W. Rose,Socialist Party of America,1273,1.86%
-1922,Rhode Island,1922 Missouri United States Senate election,General,Winning,False,[[James A. Reed (politician),Democratic Party (US),"506,264",51.85%
-1922,Rhode Island,1922 Missouri United States Senate election,General,Candidate,False,R. R. Brewster,Republican Party (US),"462,009",47.32%
-1922,Rhode Island,1922 Missouri United States Senate election,General,Candidate,False,W. M. Brandt,Socialist Party of America,"7,119",0.73%
-1922,Rhode Island,1922 Missouri United States Senate election,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,970,0.10%
-1922,Rhode Island,1922 United States Senate election in Montana,General,Winning,True,Burton K. Wheeler,Democratic Party (US),"88,205",55.57%
-1922,Rhode Island,1922 United States Senate election in Montana,General,Candidate,False,Carl W. Riddick,Republican Party (US),"69,464",43.76%
-1922,Rhode Island,1922 United States Senate election in Montana,General,Candidate,False,George H. Ambrose,Socialist Party of America,1068,0.67%
-1922,Rhode Island,1922 United States Senate election in Nebraska,General,Winning,False,Robert B. Howell,Republican Party (US),"220,350",56.84%
-1922,Rhode Island,1922 United States Senate election in Nebraska,General,Candidate,True,Gilbert Hitchcock,Democratic Party (US),"148,265",38.24%
-1922,Rhode Island,1922 United States Senate election in Nevada,General,Winning,True,Key Pittman,Democratic Party (US),"18,200",63.04%
-1922,Rhode Island,1922 United States Senate election in Nevada,General,Candidate,False,Charles S. Chandler,Republican Party (US),"10,671",36.96%
-1922,Rhode Island,1922 United States Senate election in New Jersey,General,Winning,False,Edward I. Edwards,Democratic Party (US),"451,832",55.47%
-1922,Rhode Island,1922 United States Senate election in New Jersey,General,Candidate,True,Joseph S. Frelinghuysen Sr.,Republican Party (US),"362,699",44.53%
-1922,Rhode Island,1922 United States Senate election in New Mexico,General,Winning,True,Andrieus A. Jones,Democratic Party (US),"60,969",55.58%
-1922,Rhode Island,1922 United States Senate election in New Mexico,General,Candidate,False,"Stephen B. Davis, Jr.",Republican Party (US),"48,721",44.42%
-1922,Rhode Island,1922 United States Senate election in New York,General,Winning,False,Royal S. Copeland,Democratic Party (US),"1,276,667",52.60%
-1922,Rhode Island,1922 United States Senate election in New York,General,Candidate,True,William M. Calder,Republican Party (US),"995,421",41.01%
-1922,Rhode Island,1922 United States Senate election in New York,General,Candidate,False,Algernon Lee,Socialist Party of America,"117,928",4.86%
-1922,Rhode Island,1922 United States Senate election in New York,General,Candidate,False,Coleridge A. Hart,Prohibition Party (US),"32,124",1.32%
-1922,Rhode Island,1922 United States Senate election in New York,General,Candidate,False,Henry Kuhn,Socialist Labor Party of America,"4,993",0.21%
-1922,Rhode Island,1922 United States Senate election in North Dakota,General,Winning,False,Lynn Frazier,Republican Party (United States),"101,312",52.28%
-1922,Rhode Island,1922 United States Senate election in North Dakota,General,Candidate,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"92,464",47.72%
-1922,Rhode Island,1922 United States Senate election in Ohio,General,Winning,False,Simeon D. Fess,Republican Party (US),"794,159",50.90%
-1922,Rhode Island,1922 United States Senate election in Ohio,General,Candidate,True,Atlee Pomerene,Democratic Party (US),"744,558",47.72%
-1922,Rhode Island,1922 United States Senate election in Ohio,General,Candidate,False,Virginia D. Green,Independent,"21,514",1.38%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 1),General,Winning,True,David A. Reed,Republican Party (US),"860,483",86.15%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),"60,390",6.05%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,William J. Van Essen,Socialist Party of America,"55,703",5.58%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Thomas J. Davis,Single Tax Party,"21,997",2.20%
-1922,Rhode Island,1922 United States Senate election in Pennsylvania,General,Winning,True,David A. Reed,Republican Party (US),802146,55.61%
-1922,Rhode Island,1922 United States Senate election in Pennsylvania,General,Candidate,False,Samuel L. Schull,Democratic Party (US),434583,30.13%
-1922,Rhode Island,1922 United States Senate election in Pennsylvania,General,Candidate,False,William J. Burke,"Progressive Party (United States, 1912)",127180,8.82%
-1922,Rhode Island,1922 United States Senate election in Pennsylvania,General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),41935,2.91%
-1922,Rhode Island,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles Sehl,Socialist Party of America,33004,2.29%
-1922,Rhode Island,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles J. Schoales,Single Tax Party,3596,0.25%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 3),General,Winning,True,George W. Pepper,Republican Party (US),819507,57.60%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Fred B. Kerr,Democratic Party (US),468330,32.91%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Earl W. Thompson,"Progressive Party (United States, 1912)",57075,4.01%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,William J. Van Essen,Socialist Party of America,38440,2.70%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Frank G. Lewis,Prohibition Party (US),34089,2.40%
-1922,Rhode Island,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,James A. Robinson,Single Tax Party,5356,0.38%
-1922,Rhode Island,1922 United States Senate election in Rhode Island,General,Winning,True,Peter G. Gerry,Democratic Party (US),"82,889",52.17%
-1922,Rhode Island,1922 United States Senate election in Rhode Island,General,Candidate,False,Robert Livingston Beeckman,Republican Party (US),"68,930",43.38%
-1922,Rhode Island,1922 United States Senate election in Rhode Island,General,Candidate,False,James Matthews,Socialist Labor Party of America,6102,3.84%
-1922,Rhode Island,1922 United States Senate election in Rhode Island,General,Candidate,False,James I. Bartholomew,Law and Order Party (United States),968,0.61%
-1922,Rhode Island,1922 United States Senate election in Tennessee,General,Winning,False,[[Kenneth McKellar (politician),Democratic Party (US),"151,523",68.03%
-1922,Rhode Island,1922 United States Senate election in Tennessee,General,Candidate,False,Newell Sanders,Republican Party (US),"71,200",31.97%
-1922,Rhode Island,1922 United States Senate election in Texas,General,Winning,False,Earle Bradford Mayfield,Democratic Party (US),"264,260",66.90%
-1922,Rhode Island,1922 United States Senate election in Texas,General,Candidate,False,[[George Peddy,Independent Democratic,"130,744",33.10%
-1922,Rhode Island,1922 United States Senate election in Utah,General,Winning,True,William H. King,Democratic Party (US),"58,749",48.63%
-1922,Rhode Island,1922 United States Senate election in Utah,General,Candidate,False,Ernest Bamberger,Republican Party (US),"58,188",48.16%
-1922,Rhode Island,1922 United States Senate election in Utah,General,Candidate,False,Charles T. Stoney,Socialist Party of America,"3,875",3.21%
-1922,Rhode Island,1922 United States Senate election in Vermont,General,Winning,False,Frank L. Greene,Republican Party (US),"47,669",69.04%
-1922,Rhode Island,1922 United States Senate election in Vermont,General,Candidate,False,William B. Mayo,Democratic Party (US),"21,375",30.96%
-1922,Rhode Island,1922 United States Senate election in Virginia,General,Winning,False,Claude A. Swanson ([[incumbent,Democratic Party (US),"116,393",71.88%
-1922,Rhode Island,1922 United States Senate election in Virginia,General,Candidate,False,J. W. McGavock,Republican Party (US),"42,903",26.50%
-1922,Rhode Island,1922 United States Senate election in Virginia,General,Candidate,False,Matt N. Lewis,Independent,"2,627",1.62%
-1922,Rhode Island,1922 United States Senate election in Washington,General,Winning,False,Clarence Dill,Democratic Party (US),"130,347",44.27%
-1922,Rhode Island,1922 United States Senate election in Washington,General,Candidate,True,Miles Poindexter,Republican Party (US),"126,410",42.93%
-1922,Rhode Island,1922 United States Senate election in Washington,General,Candidate,False,James A. Duncan,Farmer–Labor Party (US),"35,326",12.00%
-1922,Rhode Island,1922 United States Senate election in Washington,General,Candidate,False,David Burgess,Socialist Labor Party of America,1904,0.65%
-1922,Rhode Island,1922 United States Senate election in Washington,General,Candidate,False,Frans Bostrom,Workers Party of America,482,0.16%
-1922,Rhode Island,1922 United States Senate election in West Virginia,General,Winning,False,Matthew M. Neely,Democratic Party (US),"198,853",51.15%
-1922,Rhode Island,1922 United States Senate election in West Virginia,General,Candidate,True,Howard Sutherland,Republican Party (US),"185,046",47.59%
-1922,Rhode Island,1922 United States Senate election in West Virginia,General,Candidate,False,M. S. Holt,Socialist Party of America,"4,895",1.26%
-1922,Rhode Island,1922 United States Senate election in Wisconsin,General,Winning,True,Robert M. La Follette,Republican Party (US),"379,494",80.67%
-1922,Rhode Island,1922 United States Senate election in Wisconsin,General,Candidate,False,Jessie Jack Hooper,Democratic Party (US),"78,029",16.59%
-1922,Rhode Island,1922 United States Senate election in Wisconsin,General,Candidate,False,Adolph R. Buckman,Prohibition Party (US),"11,254",2.39%
-1922,Rhode Island,1922 United States Senate election in Wisconsin,General,Candidate,False,Richard Koeppel,Independent,"1,656",0.35%
-1922,Rhode Island,1922 United States Senate election in Wyoming,General,Winning,True,John B. Kendrick,Democratic Party (US),"35,734",56.74%
-1922,Rhode Island,1922 United States Senate election in Wyoming,General,Candidate,False,Frank Wheeler Mondell,Republican Party (US),"26,627",42.28%
-1922,Rhode Island,1922 United States Senate election in Wyoming,General,Candidate,False,W. B. Guthrie,Socialist Party of America,612,0.97%
+1922,Tennessee,1922 U.S. Senate election in Tennessee,General,Winning,False,Kenneth McKellar,Democratic Party (United States),"151,523",68.03%
+1922,Tennessee,1922 U.S. Senate election in Tennessee,General,Candidate,False,Newell Sanders,Republican Party (United States),"71,199",31.97%
 1922,Tennessee,1922 U.S. Senate election in Tennessee,General,Total,False,,,"222,722",100.00%
 1922,Texas,1922 Democratic U.S. Senate runoff,General,Winning,False,Earle B. Mayfield,Democratic Party (United States),"273,308",54.44%
-1922,Texas,1922 Democratic U.S. Senate runoff,General,Candidate,False,[[James E. Ferguson,Democratic Party (United States),"228,701",45.56%
+1922,Texas,1922 Democratic U.S. Senate runoff,General,Candidate,False,Pa Ferguson,Democratic Party (United States),"228,701",45.56%
 1922,Texas,1922 Democratic U.S. Senate runoff,General,Total,False,,,"502,009",100.00%
+1922,Texas,1922 United States Senate election in Texas,General,Winning,False,Earle B. Mayfield,Democratic Party (United States),"264,260",66.90%
 1922,Texas,1922 United States Senate election in Texas,General,Total,False,,,"395,004",100.00%
-1922,Utah,1922 United States Senate election in Arizona,General,Winning,True,Henry F. Ashurst,Democratic Party (US),"39,722",65.03%
-1922,Utah,1922 United States Senate election in Arizona,General,Candidate,False,James H. McClintock,Republican Party (US),"21,358",34.97%
-1922,Utah,1922 United States Senate election in California,General,Winning,True,Hiram Johnson,Republican Party (US),"564,422",62.17%
-1922,Utah,1922 United States Senate election in California,General,Candidate,False,William J. Pearson,Democratic Party (US),"215,748",23.76%
-1922,Utah,1922 United States Senate election in California,General,Candidate,False,H. Clay Needham,Prohibition Party,"70,748",7.79%
-1922,Utah,1922 United States Senate election in California,General,Candidate,False,Upton Sinclair,Socialist Party of America,"56,982",6.28%
-1922,Utah,1922 United States Senate election in Connecticut,General,Winning,True,George P. McLean,Republican Party (US),"169,524",52.49%
-1922,Utah,1922 United States Senate election in Connecticut,General,Candidate,False,Thomas J. Spellacy,Democratic Party (US),"147,276",45.60%
-1922,Utah,1922 United States Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Socialist Party of America,"6,161",1.91%
-1922,Utah,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"36,954",49.65%
-1922,Utah,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"37,304",49.81%
-1922,Utah,1922 United States Senate special election in Delaware,General,Winning,True,Park Trammell,Democratic Party (US),"45,707",88.27%
-1922,Utah,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,894",49.57%
-1922,Utah,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,979",49.38%
-1922,Utah,1922 United States Senate special election in Delaware,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
-1922,Utah,1922 United States Senate election in Indiana,General,Winning,False,Samuel M. Ralston,Democratic Party (US),"558,169",51.55%
-1922,Utah,1922 United States Senate election in Indiana,General,Candidate,False,Albert J. Beveridge,Republican Party (US),"524,558",48.45%
-1922,Utah,1922 United States Senate special election in Iowa,General,Winning,False,Smith W. Brookhart,Republican Party (US),"389,751",63.11%
-1922,Utah,1922 United States Senate special election in Iowa,General,Candidate,False,Clyde L. Herring,Democratic Party (US),"227,833",36.89%
-1922,Utah,1922 United States Senate election in Maine,General,Winning,False,[[Frederick Hale (U.S. senator),Republican Party (US),"101,026",57.50%
-1922,Utah,1922 United States Senate election in Maine,General,Candidate,False,Oakley C. Curtis,Democratic Party (US),"74,660",42.50%
-1922,Utah,1922 United States Senate election in Maryland,General,Winning,False,William Cabell Bruce,Democratic Party (US),"160,947",52.61%
-1922,Utah,1922 United States Senate election in Maryland,General,Candidate,True,Joseph I. France,Republican Party (US),"139,581",45.63%
-1922,Utah,1922 United States Senate election in Maryland,General,Candidate,False,Robert E. Long,Labor Party of the United States,"2,909",0.95%
-1922,Utah,1922 United States Senate election in Maryland,General,Candidate,False,James L. Smiley,Socialist Party of America,"2,479",0.81%
-1922,Utah,1922 United States Senate election in Massachusetts,General,Winning,True,Henry Cabot Lodge,Republican Party (US),"414,130",47.59%
-1922,Utah,1922 United States Senate election in Massachusetts,General,Candidate,False,William A. Gaston,Democratic Party (US),"406,776",46.75%
-1922,Utah,1922 United States Senate election in Massachusetts,General,Candidate,False,John A. Nichols,Prohibition Party (US),"24,866",2.86%
-1922,Utah,1922 United States Senate election in Massachusetts,General,Candidate,False,John Weaver Sherman,Socialist Party of America,"11,678",1.34%
-1922,Utah,1922 United States Senate election in Massachusetts,General,Candidate,False,Washington Cook,Independent,7836,0.90%
-1922,Utah,1922 United States Senate election in Massachusetts,General,Candidate,False,William E. Weeks,"Progressive Party (United States, 1912)",4862,0.56%
-1922,Utah,1922 United States Senate election in Michigan,General,Winning,False,Woodbridge N. Ferris,Democratic Party (US),"294,932",50.59%
-1922,Utah,1922 United States Senate election in Michigan,General,Candidate,True,Charles E. Townsend,Republican Party (US),"281,843",48.35%
-1922,Utah,1922 United States Senate election in Michigan,General,Candidate,False,William L. Krieghoff,Socialist Party of America,"4,249",0.73%
-1922,Utah,1922 United States Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (US),"1,936",0.33%
-1922,Utah,1922 United States Senate election in Minnesota,General,Winning,False,Henrik Shipstead,Farmer–Labor Party (Minnesota),"325,372",47.10%
-1922,Utah,1922 United States Senate election in Minnesota,General,Candidate,True,Frank B. Kellogg,Republican Party (Minnesota),"241,833",35.01%
-1922,Utah,1922 United States Senate election in Minnesota,General,Candidate,False,Anna Dickie Olesen,Democratic Party of Minnesota,"123,624",17.90%
-1922,Utah,1922 United States Senate election in Mississippi,General,Winning,False,Hubert D. Stephens,Democratic Party (US),"63,639",92.84%
-1922,Utah,1922 United States Senate election in Mississippi,General,Candidate,False,John C. Cook,Republican Party (US),3632,5.30%
-1922,Utah,1922 United States Senate election in Mississippi,General,Candidate,False,Sumner W. Rose,Socialist Party of America,1273,1.86%
-1922,Utah,1922 Missouri United States Senate election,General,Winning,False,[[James A. Reed (politician),Democratic Party (US),"506,264",51.85%
-1922,Utah,1922 Missouri United States Senate election,General,Candidate,False,R. R. Brewster,Republican Party (US),"462,009",47.32%
-1922,Utah,1922 Missouri United States Senate election,General,Candidate,False,W. M. Brandt,Socialist Party of America,"7,119",0.73%
-1922,Utah,1922 Missouri United States Senate election,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,970,0.10%
-1922,Utah,1922 United States Senate election in Montana,General,Winning,True,Burton K. Wheeler,Democratic Party (US),"88,205",55.57%
-1922,Utah,1922 United States Senate election in Montana,General,Candidate,False,Carl W. Riddick,Republican Party (US),"69,464",43.76%
-1922,Utah,1922 United States Senate election in Montana,General,Candidate,False,George H. Ambrose,Socialist Party of America,1068,0.67%
-1922,Utah,1922 United States Senate election in Nebraska,General,Winning,False,Robert B. Howell,Republican Party (US),"220,350",56.84%
-1922,Utah,1922 United States Senate election in Nebraska,General,Candidate,True,Gilbert Hitchcock,Democratic Party (US),"148,265",38.24%
-1922,Utah,1922 United States Senate election in Nevada,General,Winning,True,Key Pittman,Democratic Party (US),"18,200",63.04%
-1922,Utah,1922 United States Senate election in Nevada,General,Candidate,False,Charles S. Chandler,Republican Party (US),"10,671",36.96%
-1922,Utah,1922 United States Senate election in New Jersey,General,Winning,False,Edward I. Edwards,Democratic Party (US),"451,832",55.47%
-1922,Utah,1922 United States Senate election in New Jersey,General,Candidate,True,Joseph S. Frelinghuysen Sr.,Republican Party (US),"362,699",44.53%
-1922,Utah,1922 United States Senate election in New Mexico,General,Winning,True,Andrieus A. Jones,Democratic Party (US),"60,969",55.58%
-1922,Utah,1922 United States Senate election in New Mexico,General,Candidate,False,"Stephen B. Davis, Jr.",Republican Party (US),"48,721",44.42%
-1922,Utah,1922 United States Senate election in New York,General,Winning,False,Royal S. Copeland,Democratic Party (US),"1,276,667",52.60%
-1922,Utah,1922 United States Senate election in New York,General,Candidate,True,William M. Calder,Republican Party (US),"995,421",41.01%
-1922,Utah,1922 United States Senate election in New York,General,Candidate,False,Algernon Lee,Socialist Party of America,"117,928",4.86%
-1922,Utah,1922 United States Senate election in New York,General,Candidate,False,Coleridge A. Hart,Prohibition Party (US),"32,124",1.32%
-1922,Utah,1922 United States Senate election in New York,General,Candidate,False,Henry Kuhn,Socialist Labor Party of America,"4,993",0.21%
-1922,Utah,1922 United States Senate election in North Dakota,General,Winning,False,Lynn Frazier,Republican Party (United States),"101,312",52.28%
-1922,Utah,1922 United States Senate election in North Dakota,General,Candidate,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"92,464",47.72%
-1922,Utah,1922 United States Senate election in Ohio,General,Winning,False,Simeon D. Fess,Republican Party (US),"794,159",50.90%
-1922,Utah,1922 United States Senate election in Ohio,General,Candidate,True,Atlee Pomerene,Democratic Party (US),"744,558",47.72%
-1922,Utah,1922 United States Senate election in Ohio,General,Candidate,False,Virginia D. Green,Independent,"21,514",1.38%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 1),General,Winning,True,David A. Reed,Republican Party (US),"860,483",86.15%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),"60,390",6.05%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,William J. Van Essen,Socialist Party of America,"55,703",5.58%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Thomas J. Davis,Single Tax Party,"21,997",2.20%
-1922,Utah,1922 United States Senate election in Pennsylvania,General,Winning,True,David A. Reed,Republican Party (US),802146,55.61%
-1922,Utah,1922 United States Senate election in Pennsylvania,General,Candidate,False,Samuel L. Schull,Democratic Party (US),434583,30.13%
-1922,Utah,1922 United States Senate election in Pennsylvania,General,Candidate,False,William J. Burke,"Progressive Party (United States, 1912)",127180,8.82%
-1922,Utah,1922 United States Senate election in Pennsylvania,General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),41935,2.91%
-1922,Utah,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles Sehl,Socialist Party of America,33004,2.29%
-1922,Utah,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles J. Schoales,Single Tax Party,3596,0.25%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 3),General,Winning,True,George W. Pepper,Republican Party (US),819507,57.60%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Fred B. Kerr,Democratic Party (US),468330,32.91%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Earl W. Thompson,"Progressive Party (United States, 1912)",57075,4.01%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,William J. Van Essen,Socialist Party of America,38440,2.70%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Frank G. Lewis,Prohibition Party (US),34089,2.40%
-1922,Utah,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,James A. Robinson,Single Tax Party,5356,0.38%
-1922,Utah,1922 United States Senate election in Rhode Island,General,Winning,True,Peter G. Gerry,Democratic Party (US),"82,889",52.17%
-1922,Utah,1922 United States Senate election in Rhode Island,General,Candidate,False,Robert Livingston Beeckman,Republican Party (US),"68,930",43.38%
-1922,Utah,1922 United States Senate election in Rhode Island,General,Candidate,False,James Matthews,Socialist Labor Party of America,6102,3.84%
-1922,Utah,1922 United States Senate election in Rhode Island,General,Candidate,False,James I. Bartholomew,Law and Order Party (United States),968,0.61%
-1922,Utah,1922 United States Senate election in Tennessee,General,Winning,False,[[Kenneth McKellar (politician),Democratic Party (US),"151,523",68.03%
-1922,Utah,1922 United States Senate election in Tennessee,General,Candidate,False,Newell Sanders,Republican Party (US),"71,200",31.97%
-1922,Utah,1922 United States Senate election in Texas,General,Winning,False,Earle Bradford Mayfield,Democratic Party (US),"264,260",66.90%
-1922,Utah,1922 United States Senate election in Texas,General,Candidate,False,[[George Peddy,Independent Democratic,"130,744",33.10%
-1922,Utah,1922 United States Senate election in Utah,General,Winning,True,William H. King,Democratic Party (US),"58,749",48.63%
-1922,Utah,1922 United States Senate election in Utah,General,Candidate,False,Ernest Bamberger,Republican Party (US),"58,188",48.16%
-1922,Utah,1922 United States Senate election in Utah,General,Candidate,False,Charles T. Stoney,Socialist Party of America,"3,875",3.21%
-1922,Utah,1922 United States Senate election in Vermont,General,Winning,False,Frank L. Greene,Republican Party (US),"47,669",69.04%
-1922,Utah,1922 United States Senate election in Vermont,General,Candidate,False,William B. Mayo,Democratic Party (US),"21,375",30.96%
-1922,Utah,1922 United States Senate election in Virginia,General,Winning,False,Claude A. Swanson ([[incumbent,Democratic Party (US),"116,393",71.88%
-1922,Utah,1922 United States Senate election in Virginia,General,Candidate,False,J. W. McGavock,Republican Party (US),"42,903",26.50%
-1922,Utah,1922 United States Senate election in Virginia,General,Candidate,False,Matt N. Lewis,Independent,"2,627",1.62%
-1922,Utah,1922 United States Senate election in Washington,General,Winning,False,Clarence Dill,Democratic Party (US),"130,347",44.27%
-1922,Utah,1922 United States Senate election in Washington,General,Candidate,True,Miles Poindexter,Republican Party (US),"126,410",42.93%
-1922,Utah,1922 United States Senate election in Washington,General,Candidate,False,James A. Duncan,Farmer–Labor Party (US),"35,326",12.00%
-1922,Utah,1922 United States Senate election in Washington,General,Candidate,False,David Burgess,Socialist Labor Party of America,1904,0.65%
-1922,Utah,1922 United States Senate election in Washington,General,Candidate,False,Frans Bostrom,Workers Party of America,482,0.16%
-1922,Utah,1922 United States Senate election in West Virginia,General,Winning,False,Matthew M. Neely,Democratic Party (US),"198,853",51.15%
-1922,Utah,1922 United States Senate election in West Virginia,General,Candidate,True,Howard Sutherland,Republican Party (US),"185,046",47.59%
-1922,Utah,1922 United States Senate election in West Virginia,General,Candidate,False,M. S. Holt,Socialist Party of America,"4,895",1.26%
-1922,Utah,1922 United States Senate election in Wisconsin,General,Winning,True,Robert M. La Follette,Republican Party (US),"379,494",80.67%
-1922,Utah,1922 United States Senate election in Wisconsin,General,Candidate,False,Jessie Jack Hooper,Democratic Party (US),"78,029",16.59%
-1922,Utah,1922 United States Senate election in Wisconsin,General,Candidate,False,Adolph R. Buckman,Prohibition Party (US),"11,254",2.39%
-1922,Utah,1922 United States Senate election in Wisconsin,General,Candidate,False,Richard Koeppel,Independent,"1,656",0.35%
-1922,Utah,1922 United States Senate election in Wyoming,General,Winning,True,John B. Kendrick,Democratic Party (US),"35,734",56.74%
-1922,Utah,1922 United States Senate election in Wyoming,General,Candidate,False,Frank Wheeler Mondell,Republican Party (US),"26,627",42.28%
-1922,Utah,1922 United States Senate election in Wyoming,General,Candidate,False,W. B. Guthrie,Socialist Party of America,612,0.97%
-1922,Vermont,"United States Senate election in Vermont, 1922",General,Candidate,False,Frank L. Greene,Republican Party (United States),"45,245",65.53%
+1922,Vermont,"United States Senate election in Vermont, 1922",General,Winning,False,Frank L. Greene,Republican Party (United States),"45,245",65.53%
 1922,Vermont,"United States Senate election in Vermont, 1922",General,Candidate,False,Frank L. Greene,Prohibition Party,"2,424",3.51%
 1922,Vermont,"United States Senate election in Vermont, 1922",General,Candidate,False,William B. Mayo,Democratic Party (United States),"21,371",30.95%
 1922,Vermont,"United States Senate election in Vermont, 1922",General,Candidate,False,William B. Mayo,Republican Party (United States),4,0.01%
 1922,Vermont,"United States Senate election in Vermont, 1922",General,Total,False,,,"69,044",100.00%
-1922,Virginia,"United States Senate election in Virginia, 1922",General,Winning,False,Claude A. Swanson ([[incumbent,Democratic Party (United States),"116,393",71.88%
+1922,Virginia,"United States Senate election in Virginia, 1922",General,Winning,False,Claude A. Swanson (inc.),Democratic Party (United States),"116,393",71.88%
 1922,Virginia,"United States Senate election in Virginia, 1922",General,Candidate,False,J. W. McGavock,Republican Party (United States),"42,903",26.50%
 1922,Virginia,"United States Senate election in Virginia, 1922",General,Candidate,False,Matt N. Lewis,Independent (politician),"2,627",1.62%
+1922,Washington,1922 U.S. Senate election in Washington,General,Winning,False,Clarence C. Dill,Democratic Party (US),"130,347",44.27%
+1922,Washington,1922 U.S. Senate election in Washington,General,Candidate,True,Miles Poindexter,Republican Party (US),"126,410",42.93%
 1922,Washington,1922 U.S. Senate election in Washington,General,Candidate,False,James A. Duncan,Farmer-Labor Party,"35,326",12.00%
 1922,Washington,1922 U.S. Senate election in Washington,General,Candidate,False,David Burgess,Socialist Labor Party (US),"1,904",0.65%
 1922,Washington,1922 U.S. Senate election in Washington,General,Candidate,False,Frans Bostrom,Communist Party (US),482,0.16%
 1922,Washington,1922 U.S. Senate election in Washington,General,Total,False,,,"294,469",100.00%
-1922,West Virginia,1922 United States Senate election in Arizona,General,Winning,True,Henry F. Ashurst,Democratic Party (US),"39,722",65.03%
-1922,West Virginia,1922 United States Senate election in Arizona,General,Candidate,False,James H. McClintock,Republican Party (US),"21,358",34.97%
-1922,West Virginia,1922 United States Senate election in California,General,Winning,True,Hiram Johnson,Republican Party (US),"564,422",62.17%
-1922,West Virginia,1922 United States Senate election in California,General,Candidate,False,William J. Pearson,Democratic Party (US),"215,748",23.76%
-1922,West Virginia,1922 United States Senate election in California,General,Candidate,False,H. Clay Needham,Prohibition Party,"70,748",7.79%
-1922,West Virginia,1922 United States Senate election in California,General,Candidate,False,Upton Sinclair,Socialist Party of America,"56,982",6.28%
-1922,West Virginia,1922 United States Senate election in Connecticut,General,Winning,True,George P. McLean,Republican Party (US),"169,524",52.49%
-1922,West Virginia,1922 United States Senate election in Connecticut,General,Candidate,False,Thomas J. Spellacy,Democratic Party (US),"147,276",45.60%
-1922,West Virginia,1922 United States Senate election in Connecticut,General,Candidate,False,Isadore Polsky,Socialist Party of America,"6,161",1.91%
-1922,West Virginia,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"36,954",49.65%
-1922,West Virginia,1922 United States Senate special election in Delaware,General,Winning,False,Thomas F. Bayard Jr.,Democratic Party (US),"37,304",49.81%
-1922,West Virginia,1922 United States Senate special election in Delaware,General,Winning,True,Park Trammell,Democratic Party (US),"45,707",88.27%
-1922,West Virginia,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,894",49.57%
-1922,West Virginia,1922 United States Senate special election in Delaware,General,Candidate,True,T. Coleman du Pont,Republican Party (US),"36,979",49.38%
-1922,West Virginia,1922 United States Senate special election in Delaware,General,Candidate,False,W. C. Lawson,Independent Republican (United States),"6,074",11.73%
-1922,West Virginia,1922 United States Senate election in Indiana,General,Winning,False,Samuel M. Ralston,Democratic Party (US),"558,169",51.55%
-1922,West Virginia,1922 United States Senate election in Indiana,General,Candidate,False,Albert J. Beveridge,Republican Party (US),"524,558",48.45%
-1922,West Virginia,1922 United States Senate special election in Iowa,General,Winning,False,Smith W. Brookhart,Republican Party (US),"389,751",63.11%
-1922,West Virginia,1922 United States Senate special election in Iowa,General,Candidate,False,Clyde L. Herring,Democratic Party (US),"227,833",36.89%
-1922,West Virginia,1922 United States Senate election in Maine,General,Winning,False,[[Frederick Hale (U.S. senator),Republican Party (US),"101,026",57.50%
-1922,West Virginia,1922 United States Senate election in Maine,General,Candidate,False,Oakley C. Curtis,Democratic Party (US),"74,660",42.50%
-1922,West Virginia,1922 United States Senate election in Maryland,General,Winning,False,William Cabell Bruce,Democratic Party (US),"160,947",52.61%
-1922,West Virginia,1922 United States Senate election in Maryland,General,Candidate,True,Joseph I. France,Republican Party (US),"139,581",45.63%
-1922,West Virginia,1922 United States Senate election in Maryland,General,Candidate,False,Robert E. Long,Labor Party of the United States,"2,909",0.95%
-1922,West Virginia,1922 United States Senate election in Maryland,General,Candidate,False,James L. Smiley,Socialist Party of America,"2,479",0.81%
-1922,West Virginia,1922 United States Senate election in Massachusetts,General,Winning,True,Henry Cabot Lodge,Republican Party (US),"414,130",47.59%
-1922,West Virginia,1922 United States Senate election in Massachusetts,General,Candidate,False,William A. Gaston,Democratic Party (US),"406,776",46.75%
-1922,West Virginia,1922 United States Senate election in Massachusetts,General,Candidate,False,John A. Nichols,Prohibition Party (US),"24,866",2.86%
-1922,West Virginia,1922 United States Senate election in Massachusetts,General,Candidate,False,John Weaver Sherman,Socialist Party of America,"11,678",1.34%
-1922,West Virginia,1922 United States Senate election in Massachusetts,General,Candidate,False,Washington Cook,Independent,7836,0.90%
-1922,West Virginia,1922 United States Senate election in Massachusetts,General,Candidate,False,William E. Weeks,"Progressive Party (United States, 1912)",4862,0.56%
-1922,West Virginia,1922 United States Senate election in Michigan,General,Winning,False,Woodbridge N. Ferris,Democratic Party (US),"294,932",50.59%
-1922,West Virginia,1922 United States Senate election in Michigan,General,Candidate,True,Charles E. Townsend,Republican Party (US),"281,843",48.35%
-1922,West Virginia,1922 United States Senate election in Michigan,General,Candidate,False,William L. Krieghoff,Socialist Party of America,"4,249",0.73%
-1922,West Virginia,1922 United States Senate election in Michigan,General,Candidate,False,Frank E. Titus,Prohibition Party (US),"1,936",0.33%
-1922,West Virginia,1922 United States Senate election in Minnesota,General,Winning,False,Henrik Shipstead,Farmer–Labor Party (Minnesota),"325,372",47.10%
-1922,West Virginia,1922 United States Senate election in Minnesota,General,Candidate,True,Frank B. Kellogg,Republican Party (Minnesota),"241,833",35.01%
-1922,West Virginia,1922 United States Senate election in Minnesota,General,Candidate,False,Anna Dickie Olesen,Democratic Party of Minnesota,"123,624",17.90%
-1922,West Virginia,1922 United States Senate election in Mississippi,General,Winning,False,Hubert D. Stephens,Democratic Party (US),"63,639",92.84%
-1922,West Virginia,1922 United States Senate election in Mississippi,General,Candidate,False,John C. Cook,Republican Party (US),3632,5.30%
-1922,West Virginia,1922 United States Senate election in Mississippi,General,Candidate,False,Sumner W. Rose,Socialist Party of America,1273,1.86%
-1922,West Virginia,1922 Missouri United States Senate election,General,Winning,False,[[James A. Reed (politician),Democratic Party (US),"506,264",51.85%
-1922,West Virginia,1922 Missouri United States Senate election,General,Candidate,False,R. R. Brewster,Republican Party (US),"462,009",47.32%
-1922,West Virginia,1922 Missouri United States Senate election,General,Candidate,False,W. M. Brandt,Socialist Party of America,"7,119",0.73%
-1922,West Virginia,1922 Missouri United States Senate election,General,Candidate,False,William Wesley Cox,Socialist Labor Party of America,970,0.10%
-1922,West Virginia,1922 United States Senate election in Montana,General,Winning,True,Burton K. Wheeler,Democratic Party (US),"88,205",55.57%
-1922,West Virginia,1922 United States Senate election in Montana,General,Candidate,False,Carl W. Riddick,Republican Party (US),"69,464",43.76%
-1922,West Virginia,1922 United States Senate election in Montana,General,Candidate,False,George H. Ambrose,Socialist Party of America,1068,0.67%
-1922,West Virginia,1922 United States Senate election in Nebraska,General,Winning,False,Robert B. Howell,Republican Party (US),"220,350",56.84%
-1922,West Virginia,1922 United States Senate election in Nebraska,General,Candidate,True,Gilbert Hitchcock,Democratic Party (US),"148,265",38.24%
-1922,West Virginia,1922 United States Senate election in Nevada,General,Winning,True,Key Pittman,Democratic Party (US),"18,200",63.04%
-1922,West Virginia,1922 United States Senate election in Nevada,General,Candidate,False,Charles S. Chandler,Republican Party (US),"10,671",36.96%
-1922,West Virginia,1922 United States Senate election in New Jersey,General,Winning,False,Edward I. Edwards,Democratic Party (US),"451,832",55.47%
-1922,West Virginia,1922 United States Senate election in New Jersey,General,Candidate,True,Joseph S. Frelinghuysen Sr.,Republican Party (US),"362,699",44.53%
-1922,West Virginia,1922 United States Senate election in New Mexico,General,Winning,True,Andrieus A. Jones,Democratic Party (US),"60,969",55.58%
-1922,West Virginia,1922 United States Senate election in New Mexico,General,Candidate,False,"Stephen B. Davis, Jr.",Republican Party (US),"48,721",44.42%
-1922,West Virginia,1922 United States Senate election in New York,General,Winning,False,Royal S. Copeland,Democratic Party (US),"1,276,667",52.60%
-1922,West Virginia,1922 United States Senate election in New York,General,Candidate,True,William M. Calder,Republican Party (US),"995,421",41.01%
-1922,West Virginia,1922 United States Senate election in New York,General,Candidate,False,Algernon Lee,Socialist Party of America,"117,928",4.86%
-1922,West Virginia,1922 United States Senate election in New York,General,Candidate,False,Coleridge A. Hart,Prohibition Party (US),"32,124",1.32%
-1922,West Virginia,1922 United States Senate election in New York,General,Candidate,False,Henry Kuhn,Socialist Labor Party of America,"4,993",0.21%
-1922,West Virginia,1922 United States Senate election in North Dakota,General,Winning,False,Lynn Frazier,Republican Party (United States),"101,312",52.28%
-1922,West Virginia,1922 United States Senate election in North Dakota,General,Candidate,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"92,464",47.72%
-1922,West Virginia,1922 United States Senate election in Ohio,General,Winning,False,Simeon D. Fess,Republican Party (US),"794,159",50.90%
-1922,West Virginia,1922 United States Senate election in Ohio,General,Candidate,True,Atlee Pomerene,Democratic Party (US),"744,558",47.72%
-1922,West Virginia,1922 United States Senate election in Ohio,General,Candidate,False,Virginia D. Green,Independent,"21,514",1.38%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 1),General,Winning,True,David A. Reed,Republican Party (US),"860,483",86.15%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),"60,390",6.05%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,William J. Van Essen,Socialist Party of America,"55,703",5.58%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 1),General,Candidate,False,Thomas J. Davis,Single Tax Party,"21,997",2.20%
-1922,West Virginia,1922 United States Senate election in Pennsylvania,General,Winning,True,David A. Reed,Republican Party (US),802146,55.61%
-1922,West Virginia,1922 United States Senate election in Pennsylvania,General,Candidate,False,Samuel L. Schull,Democratic Party (US),434583,30.13%
-1922,West Virginia,1922 United States Senate election in Pennsylvania,General,Candidate,False,William J. Burke,"Progressive Party (United States, 1912)",127180,8.82%
-1922,West Virginia,1922 United States Senate election in Pennsylvania,General,Candidate,False,Rachel C. Robinson,Prohibition Party (US),41935,2.91%
-1922,West Virginia,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles Sehl,Socialist Party of America,33004,2.29%
-1922,West Virginia,1922 United States Senate election in Pennsylvania,General,Candidate,False,Charles J. Schoales,Single Tax Party,3596,0.25%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 3),General,Winning,True,George W. Pepper,Republican Party (US),819507,57.60%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Fred B. Kerr,Democratic Party (US),468330,32.91%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Earl W. Thompson,"Progressive Party (United States, 1912)",57075,4.01%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,William J. Van Essen,Socialist Party of America,38440,2.70%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,Frank G. Lewis,Prohibition Party (US),34089,2.40%
-1922,West Virginia,1922 United States Senate special election in Pennsylvania (Class 3),General,Candidate,False,James A. Robinson,Single Tax Party,5356,0.38%
-1922,West Virginia,1922 United States Senate election in Rhode Island,General,Winning,True,Peter G. Gerry,Democratic Party (US),"82,889",52.17%
-1922,West Virginia,1922 United States Senate election in Rhode Island,General,Candidate,False,Robert Livingston Beeckman,Republican Party (US),"68,930",43.38%
-1922,West Virginia,1922 United States Senate election in Rhode Island,General,Candidate,False,James Matthews,Socialist Labor Party of America,6102,3.84%
-1922,West Virginia,1922 United States Senate election in Rhode Island,General,Candidate,False,James I. Bartholomew,Law and Order Party (United States),968,0.61%
-1922,West Virginia,1922 United States Senate election in Tennessee,General,Winning,False,[[Kenneth McKellar (politician),Democratic Party (US),"151,523",68.03%
-1922,West Virginia,1922 United States Senate election in Tennessee,General,Candidate,False,Newell Sanders,Republican Party (US),"71,200",31.97%
-1922,West Virginia,1922 United States Senate election in Texas,General,Winning,False,Earle Bradford Mayfield,Democratic Party (US),"264,260",66.90%
-1922,West Virginia,1922 United States Senate election in Texas,General,Candidate,False,[[George Peddy,Independent Democratic,"130,744",33.10%
-1922,West Virginia,1922 United States Senate election in Utah,General,Winning,True,William H. King,Democratic Party (US),"58,749",48.63%
-1922,West Virginia,1922 United States Senate election in Utah,General,Candidate,False,Ernest Bamberger,Republican Party (US),"58,188",48.16%
-1922,West Virginia,1922 United States Senate election in Utah,General,Candidate,False,Charles T. Stoney,Socialist Party of America,"3,875",3.21%
-1922,West Virginia,1922 United States Senate election in Vermont,General,Winning,False,Frank L. Greene,Republican Party (US),"47,669",69.04%
-1922,West Virginia,1922 United States Senate election in Vermont,General,Candidate,False,William B. Mayo,Democratic Party (US),"21,375",30.96%
-1922,West Virginia,1922 United States Senate election in Virginia,General,Winning,False,Claude A. Swanson ([[incumbent,Democratic Party (US),"116,393",71.88%
-1922,West Virginia,1922 United States Senate election in Virginia,General,Candidate,False,J. W. McGavock,Republican Party (US),"42,903",26.50%
-1922,West Virginia,1922 United States Senate election in Virginia,General,Candidate,False,Matt N. Lewis,Independent,"2,627",1.62%
-1922,West Virginia,1922 United States Senate election in Washington,General,Winning,False,Clarence Dill,Democratic Party (US),"130,347",44.27%
-1922,West Virginia,1922 United States Senate election in Washington,General,Candidate,True,Miles Poindexter,Republican Party (US),"126,410",42.93%
-1922,West Virginia,1922 United States Senate election in Washington,General,Candidate,False,James A. Duncan,Farmer–Labor Party (US),"35,326",12.00%
-1922,West Virginia,1922 United States Senate election in Washington,General,Candidate,False,David Burgess,Socialist Labor Party of America,1904,0.65%
-1922,West Virginia,1922 United States Senate election in Washington,General,Candidate,False,Frans Bostrom,Workers Party of America,482,0.16%
-1922,West Virginia,1922 United States Senate election in West Virginia,General,Winning,False,Matthew M. Neely,Democratic Party (US),"198,853",51.15%
-1922,West Virginia,1922 United States Senate election in West Virginia,General,Candidate,True,Howard Sutherland,Republican Party (US),"185,046",47.59%
-1922,West Virginia,1922 United States Senate election in West Virginia,General,Candidate,False,M. S. Holt,Socialist Party of America,"4,895",1.26%
-1922,West Virginia,1922 United States Senate election in Wisconsin,General,Winning,True,Robert M. La Follette,Republican Party (US),"379,494",80.67%
-1922,West Virginia,1922 United States Senate election in Wisconsin,General,Candidate,False,Jessie Jack Hooper,Democratic Party (US),"78,029",16.59%
-1922,West Virginia,1922 United States Senate election in Wisconsin,General,Candidate,False,Adolph R. Buckman,Prohibition Party (US),"11,254",2.39%
-1922,West Virginia,1922 United States Senate election in Wisconsin,General,Candidate,False,Richard Koeppel,Independent,"1,656",0.35%
-1922,West Virginia,1922 United States Senate election in Wyoming,General,Winning,True,John B. Kendrick,Democratic Party (US),"35,734",56.74%
-1922,West Virginia,1922 United States Senate election in Wyoming,General,Candidate,False,Frank Wheeler Mondell,Republican Party (US),"26,627",42.28%
-1922,West Virginia,1922 United States Senate election in Wyoming,General,Candidate,False,W. B. Guthrie,Socialist Party of America,612,0.97%
+1922,Wisconsin,1922 U.S. Senate election in Wisconsin,General,Winning,True,Robert M. La Follette,Republican Party (United States),"379,494",80.60%
+1922,Wisconsin,1922 U.S. Senate election in Wisconsin,General,Candidate,False,Jessie Jack Hooper,Democratic Party (United States),"78,029",16.57%
+1922,Wisconsin,1922 U.S. Senate election in Wisconsin,General,Candidate,False,Adolph R. Bucknam,Prohibition Party (United States),"11,254",2.39%
+1922,Wisconsin,1922 U.S. Senate election in Wisconsin,General,Candidate,False,Richard Koeppel,Socialist Labor Party (United States),"1,656",0.35%
 1922,Wisconsin,1922 U.S. Senate election in Wisconsin,General,Write-in,False,,,386,0.08%
 1922,Wisconsin,1922 U.S. Senate election in Wisconsin,General,Total,False,,,"470,819",100.00%
-1922,Wyoming,1922 United States Senate election in Wyoming,General,Winning,False,John B. Kendrick ([[incumbent,Democratic Party (United States),"35,734",57.30%
-1922,Wyoming,1922 United States Senate election in Wyoming,General,Candidate,False,[[Frank Wheeler Mondell,Republican Party (United States),"26,627",42.70%
+1922,Wyoming,1922 United States Senate election in Wyoming,General,Winning,False,John B. Kendrick (inc.),Democratic Party (United States),"35,734",57.30%
+1922,Wyoming,1922 United States Senate election in Wyoming,General,Candidate,False,Frank W. Mondell,Republican Party (United States),"26,627",42.70%

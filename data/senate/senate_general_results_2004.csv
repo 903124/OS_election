@@ -4,7 +4,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2004,Alabama,2004 United States Senate election in Alabama,General,Write-in,False,,,"1,848",0.10%
 2004,Alabama,2004 United States Senate election in Alabama,General,Total,False,,,"1,839,066",100.00%
 2004,Alaska,2004 United States Senate election in Alaska,General,Winning,True,Republican Party (United States),Lisa Murkowski,"149,773",48.58%
-2004,Alaska,2004 United States Senate election in Alaska,General,Candidate,False,Democratic Party (United States),[[Tony Knowles (politician),"140,424",45.55%
+2004,Alaska,2004 United States Senate election in Alaska,General,Candidate,False,Democratic Party (United States),Tony Knowles,"140,424",45.55%
 2004,Alaska,2004 United States Senate election in Alaska,General,Candidate,False,Independent,Marc J. Millican,"8,885",2.88%
 2004,Alaska,2004 United States Senate election in Alaska,General,Candidate,False,Alaskan Independence Party,Jerry Sanders,"3,785",1.23%
 2004,Alaska,2004 United States Senate election in Alaska,General,Candidate,False,Green Party (United States),Jim Sykes,"3,053",0.99%
@@ -18,9 +18,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2004,Arkansas,Arkansas Senate election 2004,General,Write-in,False,,,340,0.03%
 2004,Arkansas,Arkansas Senate election 2004,General,Total,False,,,"1,039,349",100.0%
 2004,California,"2004 United States Senate election, California",General,Winning,True,Democratic Party (United States),Barbara Boxer,"6,955,728",57.71%
-2004,California,"2004 United States Senate election, California",General,Candidate,False,Republican Party (United States),[[Bill Jones (California politician),"4,555,922",37.80%
+2004,California,"2004 United States Senate election, California",General,Candidate,False,Republican Party (United States),Bill Jones,"4,555,922",37.80%
 2004,California,"2004 United States Senate election, California",General,Candidate,False,Peace and Freedom Party (United States),Marsha Feinland,"243,846",2.02%
-2004,California,"2004 United States Senate election, California",General,Candidate,False,Libertarian Party (United States),[[Jim Gray (jurist),"216,522",1.80%
+2004,California,"2004 United States Senate election, California",General,Candidate,False,Libertarian Party (United States),"James P. ""Jim"" Gray","216,522",1.80%
 2004,California,"2004 United States Senate election, California",General,Candidate,False,American Independent Party,Don J. Grundmann,"81,244",0.67%
 2004,California,"2004 United States Senate election, California",General,Total,False,,,"12,589,703",100.00%
 2004,Colorado,General election results,General,Winning,False,Democratic Party (United States),Ken Salazar,"1,081,188",51.30%
@@ -92,7 +92,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2004,Nevada,General election results,General,Candidate,False,Libertarian Party (United States),Thomas Hurst,"9,559",1.18
 2004,Nevada,General election results,General,Candidate,False,Independent American Party (Nevada),David Schumann,"6,001",0.74
 2004,Nevada,General election results,General,Candidate,False,Natural Law Party (United States),Gary Marinch,"2,095",0.26
-2004,New Hampshire,2004 United States Senate election in New Hampshire,General,Winning,False,Republican Party (United States),Judd Gregg ([[incumbent,"434,847",66.24%
+2004,New Hampshire,2004 United States Senate election in New Hampshire,General,Winning,False,Republican Party (United States),Judd Gregg (inc.),"434,847",66.24%
 2004,New Hampshire,2004 United States Senate election in New Hampshire,General,Candidate,False,Democratic Party (United States),Doris Haddock,"221,549",33.75%
 2004,New Hampshire,2004 United States Senate election in New Hampshire,General,Write-in,False,,,690,0.01%
 2004,New Hampshire,2004 United States Senate election in New Hampshire,General,Total,False,,,"656,498",100.00%
@@ -136,7 +136,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2004,South Dakota,General election results,General,Winning,False,Republican Party (United States),John Thune,"197,848",50.58%
 2004,South Dakota,General election results,General,Candidate,True,Democratic Party (United States),Tom Daschle,"193,340",49.42%
 2004,South Dakota,General election results,General,Total,False,,,"391,188",100.00%
-2004,Utah,General election results,General,Winning,False,Republican Party (United States),[[Bob Bennett (politician),"626,640",68.73%
+2004,Utah,General election results,General,Winning,False,Republican Party (United States),Bob Bennett,"626,640",68.73%
 2004,Utah,General election results,General,Candidate,False,Democratic Party (United States),Paul Van Dam,"258,955",28.40%
 2004,Utah,General election results,General,Candidate,False,Constitution Party (United States),Gary R. Van Horn,"17,289",1.90%
 2004,Utah,General election results,General,Candidate,False,Personal Choice Party,Joe LaBonte,"8,824",0.97%

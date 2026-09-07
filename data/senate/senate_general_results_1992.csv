@@ -16,9 +16,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,Arkansas,Arkansas Senate election 1992,General,Winning,True,Democratic Party (United States),Dale Bumpers,"553,635",60.18%
 1992,Arkansas,Arkansas Senate election 1992,General,Candidate,False,Republican Party (United States),Mike Huckabee,"366,373",39.82%
 1992,Arkansas,Arkansas Senate election 1992,General,Total,False,,,"920,008",100.00%
+1992,California,1992 U.S. Senate election in California,General,Winning,False,Democratic Party (United States),Barbara Boxer,"5,173,467",47.90%
+1992,California,1992 U.S. Senate election in California,General,Candidate,False,Republican Party (United States),Bruce Herschensohn,"4,644,182",43.00%
+1992,California,1992 U.S. Senate election in California,General,Candidate,False,American Independent Party,Jerome N. McCready,"373,051",3.45%
+1992,California,1992 U.S. Senate election in California,General,Candidate,False,Peace and Freedom Party (United States),Genevieve Torres,"372,817",3.45%
+1992,California,1992 U.S. Senate election in California,General,Candidate,False,Libertarian Party (United States),June R. Genis,"235,919",2.18%
 1992,California,1992 U.S. Senate election in California,General,Total,False,,,"10,799,647",100.00
 1992,California (special),1992 United States Senate special election in California,General,Winning,False,Democratic Party (US),Dianne Feinstein,"5,853,651",54.29%
-1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Republican Party (US),[[John Seymour (California politician),"4,093,501",37.96%
+1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Republican Party (US),John Seymour,"4,093,501",37.96%
 1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Peace and Freedom Party (US),Gerald Horne,"305,697",2.84%
 1992,California (special),1992 United States Senate special election in California,General,Candidate,False,American Independent Party,Paul Meeuwenberg,"281,973",2.62%
 1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Libertarian Party (US),Richard Benjamin Boddie,"247,799",2.30%
@@ -73,7 +78,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,Iowa,"United States Senate election in Iowa, 1992",General,Candidate,False,Grassroots Party,Carl Eric Olsen,"3,404",0.26%
 1992,Iowa,"United States Senate election in Iowa, 1992",General,Candidate,False,Independent (United States),Richard O'Dell Hughes,"2,918",0.23%
 1992,Iowa,"United States Senate election in Iowa, 1992",General,Candidate,False,Socialist Workers Party (United States),Cleve Andrew Pulley,"1,370",0.11%
-1992,Kansas,1992 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Bob Dole ([[incumbent,"706,246",62.70%
+1992,Kansas,1992 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Bob Dole (inc.),"706,246",62.70%
 1992,Kansas,1992 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),Gloria O'Dell,"349,525",31.03%
 1992,Kansas,1992 United States Senate election in Kansas,General,Candidate,False,Independent (politician),Christina Campbell-Cline,"45,423",4.03%
 1992,Kansas,1992 United States Senate election in Kansas,General,Candidate,False,Libertarian Party (United States),Mark B. Kirk,"25,253",2.24%
@@ -103,7 +108,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,New York,1992 U.S. Senate election in New York,General,Candidate,True,Republican Party (United States),Al D'Amato,"2,652,822",41.07%
 1992,New York,1992 U.S. Senate election in New York,General,Candidate,True,Conservative Party of New York,Al D'Amato,"289,258",4.48%
 1992,New York,1992 U.S. Senate election in New York,General,Candidate,True,New York State Right to Life Party,Al D'Amato,"224,914",3.48%
-1992,New York,1992 U.S. Senate election in New York,General,Candidate,False,Democratic Party (United States),Robert Abrams,"2,943,001",45.57%
+1992,New York,1992 U.S. Senate election in New York,General,Winning,False,Democratic Party (United States),Robert Abrams,"2,943,001",45.57%
 1992,New York,1992 U.S. Senate election in New York,General,Candidate,False,Liberal Party of New York,Robert Abrams,"143,199",2.22%
 1992,New York,1992 U.S. Senate election in New York,General,Candidate,False,Libertarian Party (United States),Norma Segal,"108,530",1.68%
 1992,New York,1992 U.S. Senate election in New York,General,Candidate,False,New Alliance Party,Mohammad T. Mehdi,"56,631",0.88%
@@ -123,7 +128,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,Ohio,General election results,General,Candidate,False,Republican Party (United States),Mike DeWine,"2,028,300",42.31%
 1992,Ohio,General election results,General,Candidate,False,Workers World Party,Martha Grevatt,"321,234",6.70%
 1992,Oklahoma,1992 Oklahoma U.S. Senate Election,General,Winning,True,Republican Party (United States),Don Nickles,"757,876",58.55%
-1992,Oklahoma,1992 Oklahoma U.S. Senate Election,General,Candidate,False,Democratic Party (United States),[[Steve Lewis (politician),"494,350",38.19%
+1992,Oklahoma,1992 Oklahoma U.S. Senate Election,General,Candidate,False,Democratic Party (United States),Steve Lewis,"494,350",38.19%
 1992,Oklahoma,1992 Oklahoma U.S. Senate Election,General,Candidate,False,Independent (United States),Roy V. Edwards,"21,225",1.64%
 1992,Oklahoma,1992 Oklahoma U.S. Senate Election,General,Candidate,False,Independent (United States),Thomas D. Ledgerwood II,"20,972",1.62%
 1992,Oklahoma,1992 Oklahoma U.S. Senate Election,General,Total,False,,,"1,294,423",100.00%
@@ -135,14 +140,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,Pennsylvania,1992 U.S. Senate election in Pennsylvania,General,Candidate,False,Democratic Party (United States),Lynn Yeakel,"2,224,966",46.33%
 1992,Pennsylvania,1992 U.S. Senate election in Pennsylvania,General,Candidate,False,Libertarian Party (United States),John Perry,"219,319",4.57%
 1992,Pennsylvania,1992 U.S. Senate election in Pennsylvania,General,Total,False,,,"4,822,410",100.00%
-1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Winning,False,Democratic Party (United States),[[Fritz Hollings,"591,030",50.1%
+1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Winning,False,Democratic Party (United States),Ernest Hollings,"591,030",50.1%
 1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Candidate,False,Republican Party (United States),Thomas F. Hartnett,"554,175",46.9%
 1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Candidate,False,Libertarian Party (United States),Mark Johnson,"16,987",1.9%
 1992,South Dakota,General election results,General,Winning,True,Democratic Party (United States),Tom Daschle,"217,095",64.90%
 1992,South Dakota,General election results,General,Candidate,False,Republican Party (United States),Charlene Haar,"108,733",32.51%
 1992,South Dakota,General election results,General,Candidate,False,Libertarian Party (United States),Gus Hercules,"4,353",1.30%
 1992,South Dakota,General election results,General,Candidate,False,Independent (United States),Kent Hyde,"4,314",1.29%
-1992,Utah,General election results,General,Winning,False,Republican Party (United States),[[Bob Bennett (politician),"420,069",55.38%
+1992,Utah,General election results,General,Winning,False,Republican Party (United States),Bob Bennett,"420,069",55.38%
 1992,Utah,General election results,General,Candidate,False,Democratic Party (United States),Wayne Owens,"301,228",39.72%
 1992,Utah,General election results,General,Candidate,False,Populist Party (United States),Anita Morrow,"17,549",2.31%
 1992,Utah,General election results,General,Candidate,False,Libertarian Party (United States),Maury Modine,"14,341",1.89%

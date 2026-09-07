@@ -1,207 +1,30 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1948,Alabama,General election results,General,Winning,False,Democratic Party (United States),John Sparkman (inc.),"185,534",84.00%
 1948,Alabama,General election results,General,Candidate,False,Republican Party (United States),Paul G. Parsons,"35,341",16.00%
 1948,Alabama,General election results,General,Total,False,,,"220,875",100.00%
-1948,Arkansas,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,Arkansas,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,Arkansas,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,Arkansas,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,Arkansas,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,Arkansas,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,Arkansas,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,Arkansas,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,Arkansas,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,Arkansas,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,Arkansas,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,Arkansas,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,Arkansas,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,Arkansas,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,Arkansas,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,Arkansas,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,Arkansas,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,Arkansas,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,Arkansas,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,Arkansas,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,Arkansas,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,Arkansas,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,Arkansas,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,Arkansas,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,Arkansas,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,Arkansas,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,Arkansas,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,Arkansas,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,Arkansas,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,Arkansas,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,Arkansas,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,Arkansas,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Arkansas,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,Arkansas,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,Arkansas,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,Arkansas,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,Arkansas,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,Arkansas,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,Arkansas,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,Arkansas,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,Arkansas,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,Arkansas,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,Arkansas,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,Arkansas,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,Arkansas,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,Arkansas,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,Arkansas,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,Arkansas,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,Arkansas,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,Arkansas,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,Arkansas,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,Arkansas,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,Arkansas,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,Arkansas,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,Arkansas,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,Arkansas,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,Arkansas,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,Arkansas,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,Arkansas,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,Arkansas,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,Arkansas,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,Arkansas,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,Arkansas,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,Arkansas,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,Arkansas,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,Arkansas,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,Arkansas,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,Arkansas,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,Arkansas,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,Arkansas,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,Arkansas,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,Arkansas,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,Arkansas,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,Arkansas,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,Arkansas,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,Arkansas,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,Arkansas,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,Arkansas,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,Arkansas,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,Arkansas,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,Arkansas,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,Arkansas,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,Arkansas,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,Arkansas,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,Arkansas,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,Arkansas,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,Arkansas,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,Arkansas,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,Arkansas,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,Arkansas,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,Arkansas,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,Arkansas,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
+1948,Colorado,General election results,General,Winning,False,Democratic Party (United States),Edwin C. Johnson (inc.),"340,719",66.79%
+1948,Colorado,General election results,General,Candidate,False,Republican Party (United States),Will Nicholson,"165,059",32.36%
 1948,Colorado,General election results,General,Candidate,False,"Progressive Party (United States, 1948)",John Gurule,"2,981",0.58%
+1948,Colorado,General election results,General,Candidate,False,Socialist Party (United States),Carle Whitehead,"1,352",0.27%
 1948,Colorado,General election results,General,Total,False,,,"510,111",100.00%
-1948,Delaware,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,Delaware,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,Delaware,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,Delaware,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,Delaware,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,Delaware,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,Delaware,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,Delaware,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,Delaware,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,Delaware,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,Delaware,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,Delaware,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,Delaware,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,Delaware,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,Delaware,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,Delaware,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,Delaware,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,Delaware,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,Delaware,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,Delaware,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,Delaware,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,Delaware,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,Delaware,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,Delaware,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,Delaware,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,Delaware,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,Delaware,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,Delaware,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,Delaware,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,Delaware,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,Delaware,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,Delaware,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Delaware,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,Delaware,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,Delaware,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,Delaware,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,Delaware,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,Delaware,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,Delaware,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,Delaware,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,Delaware,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,Delaware,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,Delaware,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,Delaware,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,Delaware,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,Delaware,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,Delaware,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,Delaware,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,Delaware,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,Delaware,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,Delaware,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,Delaware,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,Delaware,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,Delaware,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,Delaware,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,Delaware,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,Delaware,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,Delaware,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,Delaware,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,Delaware,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,Delaware,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,Delaware,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,Delaware,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,Delaware,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,Delaware,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,Delaware,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,Delaware,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,Delaware,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,Delaware,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,Delaware,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,Delaware,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,Delaware,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,Delaware,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,Delaware,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,Delaware,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,Delaware,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,Delaware,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,Delaware,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,Delaware,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,Delaware,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,Delaware,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,Delaware,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,Delaware,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,Delaware,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,Delaware,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,Delaware,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,Delaware,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,Delaware,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,Delaware,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,Delaware,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,Delaware,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,Delaware,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
-1948,Georgia,1948 U.S. Senate election in Georgia{{sfn|Congressional Quarterly|1998|p=84,General,Winning,True,Democratic Party (United States),Richard Russell Jr.,"362,104",99.89%
+1948,Georgia,1948 U.S. Senate election in Georgia,General,Winning,True,Democratic Party (United States),Richard Russell Jr.,"362,104",99.89%
 1948,Idaho,1948 United States Senate election in Idaho,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96
 1948,Idaho,1948 United States Senate election in Idaho,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49
 1948,Idaho,1948 United States Senate election in Idaho,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47
 1948,Idaho,1948 United States Senate election in Idaho,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08
-1948,Illinois,"United States Senate election in Illinois, 1948",General,Winning,False,Democratic Party (United States),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
+1948,Illinois,"United States Senate election in Illinois, 1948",General,Winning,False,Democratic Party (United States),Paul H. Douglas,"2,147,754",55.07%
 1948,Illinois,"United States Senate election in Illinois, 1948",General,Candidate,True,Republican Party (United States),C. Wayland Brooks,"1,740,026",44.61%
 1948,Illinois,"United States Senate election in Illinois, 1948",General,Candidate,False,Prohibition Party (United States),Enoch A. Holtwick,"9,784",0.25%
 1948,Illinois,"United States Senate election in Illinois, 1948",General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
 1948,Illinois,"United States Senate election in Illinois, 1948",General,Write-in,False,,,28,0.00%
+1948,Iowa,1948 U.S. Senate election in Iowa,General,Winning,False,Democratic Party (United States),Guy Gillette,"578,226",57.80%
+1948,Iowa,1948 U.S. Senate election in Iowa,General,Candidate,True,Republican Party (United States),George A. Wilson,"415,778",41.56%
 1948,Iowa,1948 U.S. Senate election in Iowa,General,Candidate,False,"Progressive Party (United States, 1948)",Seymour Pitcher,"3,387",0.34%
+1948,Iowa,1948 U.S. Senate election in Iowa,General,Candidate,False,Prohibition Party (United States),Z. Everett Kellum,"2,580",0.26%
 1948,Iowa,1948 U.S. Senate election in Iowa,General,Candidate,False,Socialist Party (United States),Hugo Bockewitz,441,0.04%
 1948,Iowa,1948 U.S. Senate election in Iowa,General,Total,False,,,"1,000,412",100.00%
-1948,Kansas,1948 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),[[Andrew Frank Schoeppel,"393,412",54.92%
-1948,Kansas,1948 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),[[George McGill (Kansas politician),"305,987",42.72%
+1948,Kansas,1948 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Andrew F. Schoeppel,"393,412",54.92%
+1948,Kansas,1948 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),George McGill,"305,987",42.72%
 1948,Kansas,1948 United States Senate election in Kansas,General,Candidate,False,Prohibition Party,C. Floyd Hester,"16,943",2.37%
 1948,Kansas,1948 United States Senate election in Kansas,General,Total,False,,,"716,342",100.00%
 1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
@@ -209,104 +32,22 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
 1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
 1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Candidate,False,Democratic Party (US),[[John Y. Brown Sr.,26,0.00%
+1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Candidate,False,Democratic Party (US),John Y. Brown (write-in),26,0.00%
 1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Candidate,False,Independent politician,O. G. Gaines (write-in),1,0.00%
 1948,Kentucky,1948 U.S. Senate election in Kentucky,General,Total,False,,,"794,469",100.00%
+1948,Louisiana,1948 United States Senate election,General,Winning,True,Democratic Party (United States),Allen J. Ellender,"330,115",100.00%
 1948,Louisiana,1948 United States Senate election,General,Total,False,,,"330,115",100.00%
-1948,Louisiana (special),Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,Louisiana (special),Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,Louisiana (special),Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,Louisiana (special),Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,Louisiana (special),Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,Louisiana (special),Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,Louisiana (special),Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,Louisiana (special),Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,Louisiana (special),Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,Louisiana (special),Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,Louisiana (special),Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,Louisiana (special),Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,Louisiana (special),Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,Louisiana (special),Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,Louisiana (special),Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,Louisiana (special),Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,Louisiana (special),Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,Louisiana (special),Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,Louisiana (special),Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,Louisiana (special),Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,Louisiana (special),Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,Louisiana (special),Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,Louisiana (special),Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,Louisiana (special),Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,Louisiana (special),Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,Louisiana (special),Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,Louisiana (special),Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,Louisiana (special),Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,Louisiana (special),Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,Louisiana (special),Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,Louisiana (special),Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,Louisiana (special),Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Louisiana (special),Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,Louisiana (special),Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,Louisiana (special),1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,Louisiana (special),1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,Louisiana (special),Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,Louisiana (special),Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,Louisiana (special),Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,Louisiana (special),Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,Louisiana (special),Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,Louisiana (special),Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,Louisiana (special),Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,Louisiana (special),Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,Louisiana (special),Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,Louisiana (special),Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,Louisiana (special),Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,Louisiana (special),Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,Louisiana (special),Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,Louisiana (special),Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,Louisiana (special),Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,Louisiana (special),Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,Louisiana (special),1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,Louisiana (special),1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,Louisiana (special),1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,Louisiana (special),1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,Louisiana (special),1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,Louisiana (special),New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,Louisiana (special),New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,Louisiana (special),New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,Louisiana (special),New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,Louisiana (special),New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,Louisiana (special),New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,Louisiana (special),New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,Louisiana (special),New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,Louisiana (special),New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,Louisiana (special),New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,Louisiana (special),New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,Louisiana (special),New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,Louisiana (special),Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,Louisiana (special),Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,Louisiana (special),Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,Louisiana (special),Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,Louisiana (special),"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,Louisiana (special),"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,Louisiana (special),"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,Louisiana (special),"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,Louisiana (special),Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,Louisiana (special),Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,Louisiana (special),Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,Louisiana (special),Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,Louisiana (special),Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,Louisiana (special),Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,Louisiana (special),Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,Louisiana (special),Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,Louisiana (special),Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,Louisiana (special),Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,Louisiana (special),Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,Louisiana (special),Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,Louisiana (special),Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,Louisiana (special),Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,Louisiana (special),Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
+1948,Maine,1948 U.S. Senate election in Maine,General,Winning,False,Republican Party (United States),Margaret Chase Smith,"159,182",71.30%
+1948,Maine,1948 U.S. Senate election in Maine,General,Candidate,False,Democratic Party (United States),Adrian Scolten,"64,074",28.70%
 1948,Maine,1948 U.S. Senate election in Maine,General,Total,False,,,"223,256",100.00%
+1948,Massachusetts,General election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
+1948,Massachusetts,General election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.43%
+1948,Massachusetts,General election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.44%
+1948,Massachusetts,General election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
 1948,Massachusetts,General election,General,Total,False,,,"2,055,791",100.00%
+1948,Michigan,1948 U.S. Senate election in Michigan,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
+1948,Michigan,1948 U.S. Senate election in Michigan,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
+1948,Michigan,1948 U.S. Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
 1948,Michigan,1948 U.S. Senate election in Michigan,General,Candidate,False,Socialist Party (United States),Michael Magee,"2,160",0.11%
 1948,Michigan,1948 U.S. Senate election in Michigan,General,Candidate,False,Socialist Labor Party of America,Theos A. Grove,"1,418",0.07%
 1948,Michigan,1948 U.S. Senate election in Michigan,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,886,0.04%
@@ -315,102 +56,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,Minnesota,General election results,General,Candidate,True,Republican Party of Minnesota,Joseph H. Ball,"485,801",39.81%
 1948,Minnesota,General election results,General,Candidate,False,Socialist Workers Party (United States),Vincent R. Dunne,"4,951",0.41%
 1948,Minnesota,General election results,General,Total,False,,,"1,220,246",100.00%
-1948,Mississippi,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,Mississippi,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,Mississippi,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,Mississippi,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,Mississippi,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,Mississippi,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,Mississippi,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,Mississippi,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,Mississippi,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,Mississippi,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,Mississippi,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,Mississippi,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,Mississippi,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,Mississippi,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,Mississippi,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,Mississippi,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,Mississippi,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,Mississippi,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,Mississippi,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,Mississippi,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,Mississippi,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,Mississippi,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,Mississippi,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,Mississippi,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,Mississippi,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,Mississippi,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,Mississippi,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,Mississippi,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,Mississippi,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,Mississippi,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,Mississippi,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,Mississippi,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Mississippi,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,Mississippi,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,Mississippi,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,Mississippi,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,Mississippi,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,Mississippi,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,Mississippi,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,Mississippi,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,Mississippi,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,Mississippi,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,Mississippi,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,Mississippi,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,Mississippi,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,Mississippi,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,Mississippi,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,Mississippi,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,Mississippi,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,Mississippi,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,Mississippi,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,Mississippi,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,Mississippi,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,Mississippi,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,Mississippi,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,Mississippi,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,Mississippi,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,Mississippi,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,Mississippi,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,Mississippi,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,Mississippi,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,Mississippi,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,Mississippi,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,Mississippi,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,Mississippi,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,Mississippi,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,Mississippi,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,Mississippi,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,Mississippi,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,Mississippi,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,Mississippi,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,Mississippi,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,Mississippi,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,Mississippi,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,Mississippi,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,Mississippi,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,Mississippi,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,Mississippi,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,Mississippi,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,Mississippi,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,Mississippi,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,Mississippi,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,Mississippi,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,Mississippi,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,Mississippi,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,Mississippi,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,Mississippi,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,Mississippi,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,Mississippi,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,Mississippi,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,Mississippi,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,Mississippi,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
 1948,Montana,"United States Senate election in Montana, 1948",General,Winning,True,Democratic Party (United States),James E. Murray,"125,193",56.65%
 1948,Montana,"United States Senate election in Montana, 1948",General,Candidate,False,Republican Party (United States),Tom S. Davis,"94,458",42.74%
 1948,Montana,"United States Senate election in Montana, 1948",General,Candidate,False,Prohibition Party (United States),C. S. Hanna,"1,352",0.61%
-1948,Nebraska,1948 United States Senate election in Nebraska,General,Winning,False,Republican Party (United States),Kenneth S. Wherry ([[incumbent,"267,575",56.67%
+1948,Nebraska,1948 United States Senate election in Nebraska,General,Winning,False,Republican Party (United States),Kenneth S. Wherry (inc.),"267,575",56.67%
 1948,Nebraska,1948 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Terry Carpenter,"204,320",43.27%
 1948,Nebraska,1948 United States Senate election in Nebraska,General,Write-in,False,,,261,0.06%
 1948,Nebraska,1948 United States Senate election in Nebraska,General,Total,False,,,"472,156",100.00%
@@ -421,285 +70,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
 1948,New Jersey,1948 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,New Mexico,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,New Mexico,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,New Mexico,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,New Mexico,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,New Mexico,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,New Mexico,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,New Mexico,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,New Mexico,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,New Mexico,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,New Mexico,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,New Mexico,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,New Mexico,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,New Mexico,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,New Mexico,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,New Mexico,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,New Mexico,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,New Mexico,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,New Mexico,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,New Mexico,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,New Mexico,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,New Mexico,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,New Mexico,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,New Mexico,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,New Mexico,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,New Mexico,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,New Mexico,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,New Mexico,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,New Mexico,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,New Mexico,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,New Mexico,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,New Mexico,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,New Mexico,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,New Mexico,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,New Mexico,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,New Mexico,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,New Mexico,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,New Mexico,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,New Mexico,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,New Mexico,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,New Mexico,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,New Mexico,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,New Mexico,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,New Mexico,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,New Mexico,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,New Mexico,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,New Mexico,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,New Mexico,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,New Mexico,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,New Mexico,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,New Mexico,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,New Mexico,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,New Mexico,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,New Mexico,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,New Mexico,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,New Mexico,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,New Mexico,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,New Mexico,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,New Mexico,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,New Mexico,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,New Mexico,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,New Mexico,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,New Mexico,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,New Mexico,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,New Mexico,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,New Mexico,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,New Mexico,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,New Mexico,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,New Mexico,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,New Mexico,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,New Mexico,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,New Mexico,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,New Mexico,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,New Mexico,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,New Mexico,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,New Mexico,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,New Mexico,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,New Mexico,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,New Mexico,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,New Mexico,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,New Mexico,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,New Mexico,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,New Mexico,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,New Mexico,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,New Mexico,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,New Mexico,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,New Mexico,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,New Mexico,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,New Mexico,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,New Mexico,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,New Mexico,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,New Mexico,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,New Mexico,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
 1948,Oklahoma,1948 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Robert S. Kerr,"441,654",62.30%
 1948,Oklahoma,1948 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),Ross Rizley,"265,169",37.40%
 1948,Oklahoma,1948 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),W. O. Pratt,"2,108",0.30%
-1948,Oregon,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,Oregon,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,Oregon,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,Oregon,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,Oregon,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,Oregon,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,Oregon,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,Oregon,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,Oregon,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,Oregon,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,Oregon,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,Oregon,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,Oregon,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,Oregon,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,Oregon,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,Oregon,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,Oregon,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,Oregon,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,Oregon,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,Oregon,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,Oregon,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,Oregon,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,Oregon,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,Oregon,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,Oregon,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,Oregon,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,Oregon,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,Oregon,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,Oregon,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,Oregon,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,Oregon,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,Oregon,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Oregon,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,Oregon,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,Oregon,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,Oregon,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,Oregon,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,Oregon,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,Oregon,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,Oregon,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,Oregon,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,Oregon,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,Oregon,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,Oregon,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,Oregon,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,Oregon,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,Oregon,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,Oregon,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,Oregon,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,Oregon,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,Oregon,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,Oregon,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,Oregon,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,Oregon,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,Oregon,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,Oregon,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,Oregon,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,Oregon,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,Oregon,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,Oregon,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,Oregon,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,Oregon,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,Oregon,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,Oregon,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,Oregon,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,Oregon,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,Oregon,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,Oregon,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,Oregon,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,Oregon,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,Oregon,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,Oregon,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,Oregon,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,Oregon,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,Oregon,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,Oregon,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,Oregon,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,Oregon,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,Oregon,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,Oregon,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,Oregon,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,Oregon,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,Oregon,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,Oregon,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,Oregon,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,Oregon,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,Oregon,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,Oregon,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,Oregon,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,Oregon,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,Oregon,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,Oregon,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
-1948,Rhode Island,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,Rhode Island,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,Rhode Island,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,Rhode Island,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,Rhode Island,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,Rhode Island,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,Rhode Island,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,Rhode Island,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,Rhode Island,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,Rhode Island,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,Rhode Island,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,Rhode Island,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,Rhode Island,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,Rhode Island,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,Rhode Island,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,Rhode Island,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,Rhode Island,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,Rhode Island,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,Rhode Island,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,Rhode Island,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,Rhode Island,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,Rhode Island,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,Rhode Island,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,Rhode Island,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,Rhode Island,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,Rhode Island,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,Rhode Island,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,Rhode Island,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,Rhode Island,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,Rhode Island,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,Rhode Island,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,Rhode Island,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,Rhode Island,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,Rhode Island,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,Rhode Island,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,Rhode Island,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,Rhode Island,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,Rhode Island,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,Rhode Island,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,Rhode Island,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,Rhode Island,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,Rhode Island,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,Rhode Island,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,Rhode Island,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,Rhode Island,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,Rhode Island,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,Rhode Island,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,Rhode Island,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,Rhode Island,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,Rhode Island,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,Rhode Island,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,Rhode Island,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,Rhode Island,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,Rhode Island,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,Rhode Island,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,Rhode Island,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,Rhode Island,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,Rhode Island,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,Rhode Island,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,Rhode Island,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,Rhode Island,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,Rhode Island,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,Rhode Island,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,Rhode Island,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,Rhode Island,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,Rhode Island,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,Rhode Island,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,Rhode Island,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,Rhode Island,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,Rhode Island,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,Rhode Island,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,Rhode Island,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,Rhode Island,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,Rhode Island,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,Rhode Island,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,Rhode Island,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,Rhode Island,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,Rhode Island,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,Rhode Island,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,Rhode Island,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,Rhode Island,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,Rhode Island,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,Rhode Island,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,Rhode Island,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,Rhode Island,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,Rhode Island,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,Rhode Island,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,Rhode Island,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,Rhode Island,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,Rhode Island,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,Rhode Island,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,Rhode Island,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
 1948,South Carolina,1948 U.S. Senate election in South Carolina,General,Winning,True,Democratic Party (United States),Burnet R. Maybank,"135,998",96.4
 1948,South Carolina,1948 U.S. Senate election in South Carolina,General,Candidate,False,Republican Party (United States),J. Bates Gerald,"5,008",3.6
 1948,South Dakota,1948 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Karl E. Mundt,"144,084",59.33%
@@ -710,105 +83,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,Texas,Democratic runoff results,General,Winning,False,Democratic Party (US),Lyndon B. Johnson,"494,191",50.004%
 1948,Texas,Democratic runoff results,General,Candidate,False,Democratic Party (US),Coke Stevenson,"494,104",49.996%
 1948,Texas,Democratic runoff results,General,Total,False,,,"988,295",100.00%
-1948,Texas,"United States Senate election in Texas, 1948",General,Winning,False,Democratic Party (United States),[[Lyndon B. Johnson,"702,985",66.22%
-1948,Texas,"United States Senate election in Texas, 1948",General,Candidate,False,Republican Party (United States),[[Homa J. Porter,"349,665",32.94%
+1948,Texas,"United States Senate election in Texas, 1948",General,Winning,False,Democratic Party (United States),Lyndon Johnson,"702,985",66.22%
+1948,Texas,"United States Senate election in Texas, 1948",General,Candidate,False,Republican Party (United States),Jack Porter,"349,665",32.94%
 1948,Texas,"United States Senate election in Texas, 1948",General,Candidate,False,Prohibition Party (United States),Samuel N. Morris,"8,913",0.84%
-1948,Virginia,"United States Senate election in Virginia, 1948",General,Winning,False,Democratic Party (United States),Absalom Willis Robertson ([[incumbent,"253,865",65.74%
+1948,Virginia,"United States Senate election in Virginia, 1948",General,Winning,False,Democratic Party (United States),Absalom Willis Robertson (inc.),"253,865",65.74%
 1948,Virginia,"United States Senate election in Virginia, 1948",General,Candidate,False,Republican Party (United States),Robert H. Woods,"118,546",30.70%
 1948,Virginia,"United States Senate election in Virginia, 1948",General,Candidate,False,Independent (politician),Howard Carwile,"6,788",1.76%
 1948,Virginia,"United States Senate election in Virginia, 1948",General,Candidate,False,"Progressive Party (United States, 1948)",Virginia Foster Durr,"5,347",1.38%
 1948,Virginia,"United States Senate election in Virginia, 1948",General,Candidate,False,Socialist Party of America,Clarke T. Robb,"1,627",0.42%
-1948,West Virginia,Alabama election,General,Winning,True,Democratic Party (US),John Sparkman,"185,534",84.00%
-1948,West Virginia,Alabama election,General,Candidate,False,Republican Party (US),Paul G. Parsons,"35,341",16.00%
-1948,West Virginia,Arkansas election,General,Winning,True,Democratic Party (US),John L. McClellan,"216,401",93.19%
-1948,West Virginia,Arkansas election,General,Winning,False,Independent politician,R. Walter Tucker,"15,821",6.81%
-1948,West Virginia,Arkansas election,General,Winning,True,Democratic Party (US),Edwin C. Johnson,"340,719",66.79%
-1948,West Virginia,Arkansas election,General,Winning,False,Democratic Party (US),J. Allen Frear Jr.,"71,888",50.85%
-1948,West Virginia,Arkansas election,General,Winning,True,Democratic Party (US),Richard Russell Jr.,"362,104",99.89%
-1948,West Virginia,Arkansas election,General,Candidate,False,Republican Party (US),Will Nicholson,"165,069",32.36%
-1948,West Virginia,Arkansas election,General,Candidate,False,"Progressive Party (US, 1948)",Joe Gurule,"2,981",0.58%
-1948,West Virginia,Arkansas election,General,Candidate,False,Socialist Party USA,Carle Whithead,"1,352",0.27%
-1948,West Virginia,Arkansas election,General,Candidate,True,Republican Party (US),C. Douglass Buck,"68,246",48.28%
-1948,West Virginia,Idaho election,General,Winning,False,Democratic Party (US),Bert H. Miller,"107,000",49.96%
-1948,West Virginia,Idaho election,General,Candidate,True,Republican Party (US),Henry Dworshak,"103,868",48.49%
-1948,West Virginia,Idaho election,General,Candidate,False,"Progressive Party (US, 1948)",John Derr,"3,154",1.47%
-1948,West Virginia,Idaho election,General,Candidate,False,Socialist Party USA,Paul Wengert,166,0.08%
-1948,West Virginia,Illinois election,General,Winning,False,Democratic Party (US),[[Paul Douglas (Illinois politician),"2,147,754",55.07%
-1948,West Virginia,Illinois election,General,Candidate,True,Republican Party (US),Charles W. Brooks,"1,740,026",44.61%
-1948,West Virginia,Illinois election,General,Candidate,False,Prohibition Party (US),Enoch A. Holtwick,"9,784",0.25%
-1948,West Virginia,Illinois election,General,Candidate,False,Socialist Labor Party of America,Frank Schnur,"2,693",0.07%
-1948,West Virginia,Iowa election,General,Winning,False,Democratic Party (US),Guy Gillette,"578,226",57.80%
-1948,West Virginia,Iowa election,General,Candidate,True,Republican Party (US),George A. Wilson,"415,778",41.56%
-1948,West Virginia,Iowa election,General,Candidate,False,"Progressive Party (US, 1948)",Seymour Pitcher,"3,387",0.34%
-1948,West Virginia,Iowa election,General,Candidate,False,Prohibition Party (US),Z. Everett Kellum,"2,580",0.26%
-1948,West Virginia,Iowa election,General,Candidate,False,Socialist Party USA,Hugo Bockewitz,441,0.04%
-1948,West Virginia,Kansas election,General,Winning,False,Republican Party (US),Andrew Frank Schoeppel,"393,412",54.92%
-1948,West Virginia,Kansas election,General,Candidate,False,Democratic Party (US),[[George McGill (Kansas politician),"305,987",42.72%
-1948,West Virginia,Kansas election,General,Candidate,False,Prohibition Party (US),C. Floyd Hester,"16,943",2.37%
-1948,West Virginia,Kentucky election,General,Winning,False,Democratic Party (US),Virgil Chapman,"408,256",51.39%
-1948,West Virginia,Kentucky election,General,Candidate,True,Republican Party (US),John Sherman Cooper,"383,776",48.31%
-1948,West Virginia,Kentucky election,General,Candidate,False,Socialist Party USA,W. A. Standefur,"1,232",0.16%
-1948,West Virginia,Kentucky election,General,Candidate,False,"Progressive Party (US, 1948)",H. G. Stanfield,924,0.12%
-1948,West Virginia,Kentucky election,General,Candidate,False,Socialist Labor Party of America,David R. Cox,254,0.03%
-1948,West Virginia,Louisiana election,General,Winning,True,Democratic Party (US),Allen J. Ellender,"330,115",100.00%
-1948,West Virginia,Louisiana election,General,Candidate,False,Independent,Maurice Eugene Clark,9,0.00%
-1948,West Virginia,1948 United States Senate special election in Louisiana,General,Winning,False,Democratic Party (US),Russell B. Long,"306,336",74.96%
-1948,West Virginia,1948 United States Senate special election in Louisiana,General,Candidate,False,Republican Party (US),Clem S. Clarke,"102,331",25.04%
-1948,West Virginia,Maine election,General,Winning,False,Republican Party (US),Margaret Chase Smith,"159,182",71.30%
-1948,West Virginia,Maine election,General,Winning,True,Republican Party (US),Leverett Saltonstall,"1,088,475",52.95%
-1948,West Virginia,Maine election,General,Winning,True,Republican Party (US),Homer S. Ferguson,"1,045,156",50.68%
-1948,West Virginia,Maine election,General,Candidate,False,Democratic Party (US),Adrian H. Scolten,"64,074",28.70%
-1948,West Virginia,Maine election,General,Candidate,False,Democratic Party (US),John I. Fitzgerald,"954,398",46.42%
-1948,West Virginia,Maine election,General,Candidate,False,Socialist Labor Party of America,Henning A. Blomen,"9,266",0.45%
-1948,West Virginia,Maine election,General,Candidate,False,Prohibition Party,E. Tallmadge Root,"3,652",0.18%
-1948,West Virginia,Maine election,General,Candidate,False,Democratic Party (US),Frank E. Hook,"1,000,329",48.51%
-1948,West Virginia,Maine election,General,Candidate,False,Prohibition Party (US),Harold A. Lindahl,"12,146",0.59%
-1948,West Virginia,Maine election,General,Candidate,False,Socialist Party USA,Michael Magee,"2,160",0.10%
-1948,West Virginia,Maine election,General,Candidate,False,Socialist Labor Party of America,Theos S. Grove,"1,418",0.07%
-1948,West Virginia,Maine election,General,Candidate,False,Socialist Workers Party (US),Genora Dollinger,882,0.04%
-1948,West Virginia,Minnesota election,General,Winning,False,Democratic–Farmer–Labor Party (Minnesota),Hubert Humphrey,"729,494",59.78%
-1948,West Virginia,Minnesota election,General,Winning,True,Democratic Party (US),James Eastland,"151,478",100.00%
-1948,West Virginia,Minnesota election,General,Candidate,True,Republican Party (Minnesota),Joseph H. Ball,"485,801",39.81%
-1948,West Virginia,Minnesota election,General,Candidate,False,Socialist Workers Party (US),Vincent R. Dunne,"4,951",0.41%
-1948,West Virginia,1948 United States Senate election in Montana,General,Winning,True,Democratic Party (US),James E. Murray,"125,193",56.65%
-1948,West Virginia,1948 United States Senate election in Montana,General,Winning,True,Republican Party (US),Kenneth S. Wherry,"267,575",56.67%
-1948,West Virginia,1948 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Tom J. Davis,"94,458",42.74%
-1948,West Virginia,1948 United States Senate election in Montana,General,Candidate,False,Prohibition Party (US),C. S. Hanna,"1,352",0.61%
-1948,West Virginia,1948 United States Senate election in Montana,General,Candidate,False,Democratic Party (US),Terry Carpenter,"204,320",43.27%
-1948,West Virginia,New Hampshire election,General,Winning,True,Republican Party (US),Styles Bridges,"129,600",58.14%
-1948,West Virginia,New Hampshire election,General,Candidate,False,Democratic Party (US),Alfred E. Fortin,"91,760",41.17%
-1948,West Virginia,New Hampshire election,General,Candidate,False,"Progressive Party (US, 1948)",John G. Rideout,"1,538",0.69%
-1948,West Virginia,New Jersey election,General,Winning,False,Republican Party (US),Robert C. Hendrickson,"934,720",49.99%
-1948,West Virginia,New Jersey election,General,Candidate,False,Democratic Party (US),Archibald S. Alexander,"884,414",47.30%
-1948,West Virginia,New Jersey election,General,Candidate,False,"Progressive Party (US, 1948)",James Imbrie,"22,658",1.21%
-1948,West Virginia,New Jersey election,General,Candidate,False,Socialist Party USA,Rubye Smith,"11,450",0.61%
-1948,West Virginia,New Jersey election,General,Candidate,False,Socialist Workers Party (US),George Breitman,"8,076",0.43%
-1948,West Virginia,New Jersey election,General,Candidate,False,Prohibition Party (US),George W. Rideout,"4,656",0.25%
-1948,West Virginia,New Jersey election,General,Candidate,False,Socialist Labor Party of America,George E. Bopp,"3,908",0.21%
-1948,West Virginia,New Mexico election,General,Winning,False,Democratic Party (US),[[Clinton Anderson (New Mexico politician),"108,269",57.44%
-1948,West Virginia,New Mexico election,General,Candidate,False,"Progressive Party (US, 1948)",Brígido Provencio,705,0.37%
-1948,West Virginia,Oregon election,General,Winning,True,Republican Party (US),Guy Cordon,"299,295",60.03%
-1948,West Virginia,Oregon election,General,Candidate,False,Democratic Party (US),Manley J. Wilson,"199,275",39.97%
-1948,West Virginia,Rhode Island election,General,Winning,True,Democratic Party (US),Theodore F. Green,"190,158",59.35%
-1948,West Virginia,Rhode Island election,General,Candidate,False,Republican Party (US),Thomas P. Hazard,"130,262",40.65%
-1948,West Virginia,"South Carolina U.S. Senate Election, 1948",General,Winning,True,Democratic Party (US),Burnet R. Maybank,"135,998",96.45%
-1948,West Virginia,"South Carolina U.S. Senate Election, 1948",General,Winning,False,Republican Party (US),Karl E. Mundt,"144,084",59.33%
-1948,West Virginia,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Republican Party (US),J. Bates Gerald,"5,008",3.55%
-1948,West Virginia,"South Carolina U.S. Senate Election, 1948",General,Candidate,False,Democratic Party (US),John A. Engel,"98,749",40.67%
-1948,West Virginia,Tennessee election,General,Winning,False,Democratic Party (US),Estes Kefauver,"326,142",65.33%
-1948,West Virginia,Tennessee election,General,Candidate,False,Republican Party (US),B. Carroll Reece,"166,947",33.44%
-1948,West Virginia,Tennessee election,General,Candidate,False,Independent,John Randolph Neal Jr.,"6,103",1.22%
-1948,West Virginia,Texas election,General,Winning,False,Democratic Party (US),Lyndon Johnson,"702,985",66.22%
-1948,West Virginia,Texas election,General,Winning,True,Democratic Party (US),A. Willis Robertson,"253,865",65.74%
-1948,West Virginia,Texas election,General,Winning,False,Democratic Party (US),Matthew M. Neely,"435,354",56.99%
-1948,West Virginia,Texas election,General,Candidate,False,Republican Party (US),[[Homa J. Porter,"349,665",32.94%
-1948,West Virginia,Texas election,General,Candidate,False,Prohibition Party (US),Samuel N. Morris,"8,913",0.84%
-1948,West Virginia,Texas election,General,Candidate,False,Republican Party (US),Robert H. Woods,"118,546",30.70%
-1948,West Virginia,Texas election,General,Candidate,False,Independent,Howard Carwile,"6,788",1.76%
-1948,West Virginia,Texas election,General,Candidate,False,"Progressive Party (US, 1948)",Virginia Foster Durr,"5,347",1.38%
-1948,West Virginia,Texas election,General,Candidate,False,Socialist Party USA,Clarke T. Robb,"1,627",0.42%
-1948,West Virginia,Texas election,General,Candidate,True,Republican Party (US),Chapman Revercomb,"328,534",43.01%
-1948,West Virginia,Wyoming election,General,Winning,False,Democratic Party (US),Lester C. Hunt,"57,953",57.11%
-1948,West Virginia,Wyoming election,General,Candidate,True,Republican Party (US),Edward V. Robertson,"43,527",42.89%
 1948,Wyoming,1948 United States Senate election in Wyoming,General,Winning,False,Democratic Party (United States),Lester C. Hunt,"57,953",57.11%
-1948,Wyoming,1948 United States Senate election in Wyoming,General,Candidate,False,Republican Party (United States),Edward V. Robertson ([[incumbent,"43,527",42.89%
+1948,Wyoming,1948 United States Senate election in Wyoming,General,Candidate,False,Republican Party (United States),Edward V. Robertson (inc.),"43,527",42.89%

@@ -7,7 +7,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1950,Colorado,Democratic primary results,Primary,Total,False,,,"66,507",100.00
 1950,Colorado,Republican primary results,Primary,Winning,False,Republican Party (United States),Eugene D. Millikin (inc.),"70,953",100.00
 1950,Colorado,Republican primary results,Primary,Total,False,,,"70,953",100.00
-1950,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),George Smathers,"387,315",54.78
+1950,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),George Smathers,"387,315",54.78
 1950,Florida,Democratic primary results,Primary,Candidate,True,Democratic Party (United States),Claude Pepper,"319,754",45.22
 1950,Florida,Democratic primary results,Primary,Total,False,,,"707,069",100
 1950,Idaho (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Claude J. Burtenshaw,"17,690",27.94
@@ -93,9 +93,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1950,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),James W. Brown,5763,12.02
 1950,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Charles E. Whittle,5710,11.91
 1950,Kentucky,Republican primary results,Primary,Total,False,,,47934,100.00
-1950,Louisiana,Democratic Party primary results{{sfn|Congressional Quarterly|1998|p=124,Primary,Winning,True,Democratic Party (United States),Russell B. Long,"359,330",68.46
-1950,Louisiana,Democratic Party primary results{{sfn|Congressional Quarterly|1998|p=124,Primary,Candidate,False,Democratic Party (United States),Malcolm E. LaFargue,"156,918",29.90
-1950,Louisiana,Democratic Party primary results{{sfn|Congressional Quarterly|1998|p=124,Primary,Candidate,False,Democratic Party (United States),Newt V. Mills,"8,611",1.64
+1950,Louisiana,Democratic Party primary results,Primary,Winning,True,Democratic Party (United States),Russell B. Long,"359,330",68.46
+1950,Louisiana,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Malcolm E. LaFargue,"156,918",29.90
+1950,Louisiana,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Newt V. Mills,"8,611",1.64
 1950,Maryland,1950 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Millard Tydings (inc.),"172,577",66.30%
 1950,Maryland,1950 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Hugh J. Monaghan II,"47,718",18.33%
 1950,Maryland,1950 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),John A. Meyer,"40,015",15.37%
@@ -159,7 +159,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1950,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Francis H. Case,"59,314",58.07%
 1950,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Chan Gurney (inc.),"42,823",41.93%
 1950,South Dakota,Republican primary,Primary,Total,False,,,"102,137",100.00%
-1950,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),George Aiken ([[Incumbent,"69,483",99.9%
+1950,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),George Aiken (inc.),"69,483",99.9%
 1950,Vermont,Republican primary results,Primary,Candidate,False,Republican Party (United States),Other,51,0.1%
 1950,Vermont,Republican primary results,Primary,Total,False,,,"69,534",100.0%
 1950,Vermont,Democratic primary results,Primary,Winning,False,Democratic Party (United States),James E. Bigelow,"3,290",98.9%

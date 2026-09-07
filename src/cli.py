@@ -15,6 +15,9 @@ Subcommands:
                geometry (UCLA cdmaps x 2010 Census counties; ~185 MB of
                cached, resumable downloads; needs shapely + pyproj).
     all        Run all six pipelines.
+    polling-check  Quality-check polling CSVs (file size + data sanity) and
+               report which files need improvement; exit code 1 when any
+               file is flagged.
     fetch      Fetch one article's raw wikitext (debugging helper).
 
 Year ranges are inclusive and cover even (federal election) years only:
@@ -34,6 +37,7 @@ Examples:
     python cli.py lean                     # 2004-2024 from local presidential CSVs
     python cli.py lean --fetch-missing     # fetch missing presidential years first
     python cli.py crosswalk                # regenerate the district->county mapping
+    python cli.py polling-check            # QC polling CSVs (size + data sanity)
     python cli.py fetch "2018 United States Senate election in Arizona"
 """
 
@@ -46,6 +50,7 @@ from typing import List, Optional
 
 import district_lean
 import house_elections
+import polling_qc
 import presidential_elections
 import senate_elections
 import state_legislatures
@@ -158,6 +163,34 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("all", parents=[common], help="Run all six pipelines")
 
+    qc = sub.add_parser(
+        "polling-check", parents=[common],
+        help="Quality-check polling CSVs (file size + data sanity) — "
+             "reports which files need improvement",
+    )
+    qc.add_argument(
+        "--pipeline", default="senate",
+        help="Which pipeline's polling CSVs to check (default: senate)",
+    )
+    qc.add_argument(
+        "--data-dir", default=None,
+        help="Base data directory (default: --output value, i.e. data)",
+    )
+    qc.add_argument(
+        "--min-size", type=int, default=polling_qc.DEFAULT_MIN_BYTES,
+        help=f"Flag per-year polling files smaller than this many bytes "
+             f"(default: {polling_qc.DEFAULT_MIN_BYTES})",
+    )
+    qc.add_argument(
+        "--peer-ratio", type=float, default=polling_qc.DEFAULT_PEER_RATIO,
+        help="Flag files below this fraction of the kind-median size "
+             f"(default: {polling_qc.DEFAULT_PEER_RATIO})",
+    )
+    qc.add_argument(
+        "--no-report", action="store_true",
+        help="Do not write polling_qc_report.json",
+    )
+
     fetch = sub.add_parser("fetch", parents=[common], help="Fetch one article (debug)")
     fetch.add_argument("title", help="Exact Wikipedia article title")
 
@@ -186,6 +219,16 @@ def main(argv: Optional[List[str]] = None) -> int:
 
     client = make_client(args)
     wiki_utils.set_default_client(client)
+
+    if args.command == "polling-check":
+        rep = polling_qc.check_pipeline(
+            args.data_dir or args.output,
+            pipeline=args.pipeline,
+            min_bytes=args.min_size,
+            peer_ratio=args.peer_ratio,
+            report=not args.no_report,
+        )
+        return 1 if rep["needs_improvement"] else 0
 
     if args.command == "crosswalk":
         # geometry build: no wiki client involved; heavy downloads, all cached

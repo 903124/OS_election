@@ -22,20 +22,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Colorado,Democratic primary results,Primary,Total,False,,,"123,389",100.00
 1956,Colorado,Republican primary results,Primary,Winning,False,Dan Thornton,Republican Party (United States),"79,349",100.00
 1956,Colorado,Republican primary results,Primary,Total,False,,,"79,349",100.00
-1956,Florida,Democratic Party primary results{{sfn|Congressional Quarterly|2005|p=1375,Primary,Winning,True,George Smathers,Democratic Party (United States),"614,663",87.54%
-1956,Florida,Democratic Party primary results{{sfn|Congressional Quarterly|2005|p=1375,Primary,Candidate,False,Erle L. Griffis,Democratic Party (United States),"87,525",12.46%
-1956,Florida,Democratic Party primary results{{sfn|Congressional Quarterly|2005|p=1375,Primary,Total,False,,,"702,188",
-1956,Idaho,Democratic primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Winning,False,Frank Church,Democratic Party (United States),"27,942",37.75
-1956,Idaho,Democratic primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,Glen H. Taylor,Democratic Party (United States),"27,742",37.48
-1956,Idaho,Democratic primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,Claude J. Burtenshaw,Democratic Party (United States),"11,738",15.86
-1956,Idaho,Democratic primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,Alvin McCormack,Democratic Party (United States),"6,596",8.91
-1956,Idaho,Democratic primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Total,False,,,"74,018",
-1956,Idaho,Republican primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Winning,True,Herman Welker,Republican Party (United States),"31,399",42.51
-1956,Idaho,Republican primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,William S. Holden,Republican Party (United States),"21,081",28.54
-1956,Idaho,Republican primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,Ray J. Davis,Republican Party (United States),"12,349",16.72
-1956,Idaho,Republican primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,John C. Sanborn,Republican Party (United States),"8,261",11.18
-1956,Idaho,Republican primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Candidate,False,Mark Streeter,Republican Party (United States),774,1.05
-1956,Idaho,Republican primary results{{sfn|Congressional Quarterly|1998|p=117,Primary,Total,False,,,"73,864",
+1956,Florida,Democratic Party primary results,Primary,Winning,True,George Smathers,Democratic Party (United States),"614,663",87.54%
+1956,Florida,Democratic Party primary results,Primary,Candidate,False,Erle L. Griffis,Democratic Party (United States),"87,525",12.46%
+1956,Florida,Democratic Party primary results,Primary,Total,False,,,"702,188",
+1956,Idaho,Democratic primary results,Primary,Winning,False,Frank Church,Democratic Party (United States),"27,942",37.75
+1956,Idaho,Democratic primary results,Primary,Candidate,False,Glen H. Taylor,Democratic Party (United States),"27,742",37.48
+1956,Idaho,Democratic primary results,Primary,Candidate,False,Claude J. Burtenshaw,Democratic Party (United States),"11,738",15.86
+1956,Idaho,Democratic primary results,Primary,Candidate,False,Alvin McCormack,Democratic Party (United States),"6,596",8.91
+1956,Idaho,Democratic primary results,Primary,Total,False,,,"74,018",
+1956,Idaho,Republican primary results,Primary,Winning,True,Herman Welker,Republican Party (United States),"31,399",42.51
+1956,Idaho,Republican primary results,Primary,Candidate,False,William S. Holden,Republican Party (United States),"21,081",28.54
+1956,Idaho,Republican primary results,Primary,Candidate,False,Ray J. Davis,Republican Party (United States),"12,349",16.72
+1956,Idaho,Republican primary results,Primary,Candidate,False,John C. Sanborn,Republican Party (United States),"8,261",11.18
+1956,Idaho,Republican primary results,Primary,Candidate,False,Mark Streeter,Republican Party (United States),774,1.05
+1956,Idaho,Republican primary results,Primary,Total,False,,,"73,864",
 1956,Illinois,Republican primary,Primary,Winning,True,Everett Dirksen,Republican Party (United States),"686,268",100
 1956,Illinois,Republican primary,Primary,Write-in,False,,,34,0.01
 1956,Illinois,Republican primary,Primary,Total,False,,,"686,302",100
@@ -50,15 +50,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Kansas,Republican primary results,Primary,Winning,False,Frank Carlson (inc.),Republican Party (United States),"215,364",77.91%
 1956,Kansas,Republican primary results,Primary,Candidate,False,Walter I. Biddle,Republican Party (United States),"61,053",22.09%
 1956,Kansas,Republican primary results,Primary,Total,False,,,"276,417",100.00%
-1956,Kentucky,Democratic primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Winning,True,Earle Clements,Democratic Party (United States),"218,353",60.89
-1956,Kentucky,Democratic primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Candidate,False,Joe B. Bates,Democratic Party (United States),"136,533",38.08
-1956,Kentucky,Democratic primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Candidate,False,James L. Delk,Democratic Party (United States),"3,703",1.03
-1956,Kentucky,Democratic primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Total,False,,,"358,589",100.00
-1956,Kentucky,Republican primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Winning,False,Thruston B. Morton,Republican Party (United States),"42,038",70.64
-1956,Kentucky,Republican primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Candidate,False,Julian H. Golden,Republican Party (United States),"12,976",21.81
-1956,Kentucky,Republican primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Candidate,False,Granville P. Thomas,Republican Party (United States),"4,495",7.55
-1956,Kentucky,Republican primary results{{sfn|Congressional Quarterly|1998|p=122,Primary,Total,False,,,"59,509",100.00
-1956,Louisiana,Democratic Party primary results{{sfn|Congressional Quarterly|1998|p=124,Primary,Winning,True,Russell B. Long,Democratic Party (United States),unopposed,
+1956,Kentucky,Democratic primary results,Primary,Winning,True,Earle Clements,Democratic Party (United States),"218,353",60.89
+1956,Kentucky,Democratic primary results,Primary,Candidate,False,Joe B. Bates,Democratic Party (United States),"136,533",38.08
+1956,Kentucky,Democratic primary results,Primary,Candidate,False,James L. Delk,Democratic Party (United States),"3,703",1.03
+1956,Kentucky,Democratic primary results,Primary,Total,False,,,"358,589",100.00
+1956,Kentucky,Republican primary results,Primary,Winning,False,Thruston B. Morton,Republican Party (United States),"42,038",70.64
+1956,Kentucky,Republican primary results,Primary,Candidate,False,Julian H. Golden,Republican Party (United States),"12,976",21.81
+1956,Kentucky,Republican primary results,Primary,Candidate,False,Granville P. Thomas,Republican Party (United States),"4,495",7.55
+1956,Kentucky,Republican primary results,Primary,Total,False,,,"59,509",100.00
+1956,Louisiana,Democratic Party primary results,Primary,Winning,True,Russell B. Long,Democratic Party (United States),unopposed,
 1956,Maryland,1956 Republican U.S. Senate primary,Primary,Winning,False,John Marshall Butler (inc.),Republican Party (United States),"40,848",86.66%
 1956,Maryland,1956 Republican U.S. Senate primary,Primary,Candidate,False,Earl E. Knepper,Republican Party (United States),"3,814",8.09%
 1956,Maryland,1956 Republican U.S. Senate primary,Primary,Candidate,False,Harry L. Simms,Republican Party (United States),"2,474",5.25%
@@ -77,11 +77,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Missouri,"Republican primary August 7, 1956",Primary,Candidate,False,William McKinley Thomas,Republican Party (United States),"28,924",14.13
 1956,Missouri,"Republican primary August 7, 1956",Primary,Candidate,False,William E. Van Taay,Republican Party (United States),"13,556",6.62
 1956,Missouri,"Republican primary August 7, 1956",Primary,Total,False,,,"204,685",100
-1956,New Hampshire,Democratic primary results{{sfn|Congressional Quarterly|1998|p=137,Primary,Winning,False,Laurence M. Pickett,Democratic Party (United States),"23,440",100.00
-1956,New Hampshire,Democratic primary results{{sfn|Congressional Quarterly|1998|p=137,Primary,Total,False,,,"23,440",100.00
-1956,New Hampshire,Republican primary results{{sfn|Congressional Quarterly|1998|p=137,Primary,Winning,True,Norris Cotton,Republican Party (United States),"61,673",89.46
-1956,New Hampshire,Republican primary results{{sfn|Congressional Quarterly|1998|p=137,Primary,Candidate,False,Joseph Moore,Republican Party (United States),"7,264",10.54
-1956,New Hampshire,Republican primary results{{sfn|Congressional Quarterly|1998|p=137,Primary,Total,False,,,"68,937",100.00
+1956,New Hampshire,Democratic primary results,Primary,Winning,False,Laurence M. Pickett,Democratic Party (United States),"23,440",100.00
+1956,New Hampshire,Democratic primary results,Primary,Total,False,,,"23,440",100.00
+1956,New Hampshire,Republican primary results,Primary,Winning,True,Norris Cotton,Republican Party (United States),"61,673",89.46
+1956,New Hampshire,Republican primary results,Primary,Candidate,False,Joseph Moore,Republican Party (United States),"7,264",10.54
+1956,New Hampshire,Republican primary results,Primary,Total,False,,,"68,937",100.00
 1956,Oklahoma,Democratic primary,Primary,Winning,False,Mike Monroney (inc.),Democratic Party (United States),"245,572",71.11%
 1956,Oklahoma,Democratic primary,Primary,Candidate,False,R. Os Doenges,Democratic Party (United States),"54,546",15.79%
 1956,Oklahoma,Democratic primary,Primary,Candidate,False,O. J. Fox,Democratic Party (United States),"29,825",8.64%
@@ -100,11 +100,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,South Dakota,Democratic primary,Primary,Winning,False,Kenneth Holum,Democratic Party (United States),"23,464",60.85%
 1956,South Dakota,Democratic primary,Primary,Candidate,False,Merton B. Tice,Democratic Party (United States),"15,099",39.15%
 1956,South Dakota,Democratic primary,Primary,Total,False,,,"38,563",100.00%
-1956,Utah,Democratic primary results{{sfn|Congressional Quarterly|1998|p=156,Primary,Winning,False,Alonzo F. Hopkin,Democratic Party (United States),"44,980",56.77
-1956,Utah,Democratic primary results{{sfn|Congressional Quarterly|1998|p=156,Primary,Candidate,False,Herbert B. Maw,Democratic Party (United States),"34,246",43.23
-1956,Utah,Democratic primary results{{sfn|Congressional Quarterly|1998|p=156,Primary,Total,False,,,"79,226",100.00
-1956,Utah,Republican primary results{{sfn|America Votes|p=413,Primary,Winning,True,Wallace F. Bennett,Republican Party (United States),unopposed,
-1956,Vermont,Republican primary results,Primary,Winning,False,George Aiken ([[Incumbent,Republican Party (United States),"49,454",99.9%
+1956,Utah,Democratic primary results,Primary,Winning,False,Alonzo F. Hopkin,Democratic Party (United States),"44,980",56.77
+1956,Utah,Democratic primary results,Primary,Candidate,False,Herbert B. Maw,Democratic Party (United States),"34,246",43.23
+1956,Utah,Democratic primary results,Primary,Total,False,,,"79,226",100.00
+1956,Utah,Republican primary results,Primary,Winning,True,Wallace F. Bennett,Republican Party (United States),unopposed,
+1956,Vermont,Republican primary results,Primary,Winning,False,George Aiken (inc.),Republican Party (United States),"49,454",99.9%
 1956,Vermont,Republican primary results,Primary,Candidate,False,Other,Republican Party (United States),27,0.1%
 1956,Vermont,Republican primary results,Primary,Total,False,,,"49,481",100.0%
 1956,Vermont,Democratic primary results,Primary,Winning,False,Bernard G. O'Shea,Democratic Party (United States),"7,997",99.8%
@@ -113,18 +113,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Washington,Blanket primary results,Primary,Winning,True,Warren G. Magnuson,Democratic Party (United States),"442,761",60.48%
 1956,Washington,Blanket primary results,Primary,Winning,False,Arthur B. Langlie,Republican Party (United States),"289,302",39.52%
 1956,Washington,Blanket primary results,Primary,Total,False,,,"732,063",100.00%
-1956,West Virginia (special),Democratic primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Winning,False,William C. Marland,Democratic Party (United States),"118,159",37.25
-1956,West Virginia (special),Democratic primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,John G. Fox,Democratic Party (United States),"104,869",33.06
-1956,West Virginia (special),Democratic primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,Byron B. Randolph,Democratic Party (United States),"56,945",17.95
-1956,West Virginia (special),Democratic primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,Walter G. Crichton,Democratic Party (United States),"26,972",8.50
-1956,West Virginia (special),Democratic primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,Joseph Arcuri,Democratic Party (United States),"10,263",3.24
-1956,West Virginia (special),Democratic primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Total,False,,,"317,208",100.00
-1956,West Virginia (special),Republican primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Winning,False,Chapman Revercomb,Republican Party (United States),"79,106",41.53
-1956,West Virginia (special),Republican primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,[[Thomas Sweeney (West Virginia politician),Republican Party (United States),"57,556",30.22
-1956,West Virginia (special),Republican primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,Philip H. Hill,Republican Party (United States),"37,574",19.73
-1956,West Virginia (special),Republican primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,Al J. Carey,Republican Party (United States),"11,268",5.92
-1956,West Virginia (special),Republican primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Candidate,False,Esta C. Wilson,Republican Party (United States),"4,971",2.61
-1956,West Virginia (special),Republican primary results{{sfn|Congressional Quarterly|1998|p=160,Primary,Total,False,,,"190,475",100.00
+1956,West Virginia (special),Democratic primary results,Primary,Winning,False,William C. Marland,Democratic Party (United States),"118,159",37.25
+1956,West Virginia (special),Democratic primary results,Primary,Candidate,False,John G. Fox,Democratic Party (United States),"104,869",33.06
+1956,West Virginia (special),Democratic primary results,Primary,Candidate,False,Byron B. Randolph,Democratic Party (United States),"56,945",17.95
+1956,West Virginia (special),Democratic primary results,Primary,Candidate,False,Walter G. Crichton,Democratic Party (United States),"26,972",8.50
+1956,West Virginia (special),Democratic primary results,Primary,Candidate,False,Joseph Arcuri,Democratic Party (United States),"10,263",3.24
+1956,West Virginia (special),Democratic primary results,Primary,Total,False,,,"317,208",100.00
+1956,West Virginia (special),Republican primary results,Primary,Winning,False,Chapman Revercomb,Republican Party (United States),"79,106",41.53
+1956,West Virginia (special),Republican primary results,Primary,Candidate,False,Thomas Sweeney,Republican Party (United States),"57,556",30.22
+1956,West Virginia (special),Republican primary results,Primary,Candidate,False,Philip H. Hill,Republican Party (United States),"37,574",19.73
+1956,West Virginia (special),Republican primary results,Primary,Candidate,False,Al J. Carey,Republican Party (United States),"11,268",5.92
+1956,West Virginia (special),Republican primary results,Primary,Candidate,False,Esta C. Wilson,Republican Party (United States),"4,971",2.61
+1956,West Virginia (special),Republican primary results,Primary,Total,False,,,"190,475",100.00
 1956,Wisconsin,1956 U.S. Senate Republican primary,Primary,Winning,True,Alexander Wiley,Republican Party (United States),"221,042",48.92%
 1956,Wisconsin,1956 U.S. Senate Republican primary,Primary,Candidate,False,Glenn R. Davis,Republican Party (United States),"211,016",46.70%
 1956,Wisconsin,1956 U.S. Senate Republican primary,Primary,Candidate,False,Howard H. Boyle,Republican Party (United States),"19,826",4.39%

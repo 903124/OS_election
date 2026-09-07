@@ -35,7 +35,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Colorado,Democratic primary results,Primary,Total,False,,,"31,625",100.00
 1944,Colorado,Republican primary results,Primary,Winning,False,Republican Party (United States),Eugene D. Millikin (inc.),"40,868",100.00
 1944,Colorado,Republican primary results,Primary,Total,False,,,"40,868",100.00
-1944,Florida,Democratic primary results,Primary,Candidate,True,Democratic Party (United States),Claude Pepper,"194,445",51.27
+1944,Florida,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Claude Pepper,"194,445",51.27
 1944,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),J. Ollie Edmunds,"127,158",33.53
 1944,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Millard B. Conklin,"33,317",8.78
 1944,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Finley Moore,"14,815",3.91
@@ -73,7 +73,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Kansas,Prohibition primary results,Primary,Total,False,,,116,100.00%
 1944,Kansas,Socialist primary results,Primary,Winning,False,Socialist Party (United States),Arthur Goodwin Billings,26,100.00%
 1944,Kansas,Socialist primary results,Primary,Total,False,,,26,100.00%
-1944,Kentucky,Republican primary results,Primary,Winning,False,Republican Party (United States),[[Jim Park (baseball),52886,64.12
+1944,Kentucky,Republican primary results,Primary,Winning,False,Republican Party (United States),James Park,52886,64.12
 1944,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Clarence Bartlett,21959,26.62
 1944,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Silas A. Sullivan,4244,5.15
 1944,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),G. Tom Hawkins,3397,4.12
@@ -94,7 +94,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,Maryland,1944 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Rives Matthews,"3,909",14.38%
 1944,Maryland,1944 Republican U.S. Senate primary,Primary,Total,False,,,"27,193",100.00%
 1944,Massachusetts (special),Democratic primary,Primary,Winning,False,Democratic Party (United States),John H. Corcoran,"62,537",33.90%
-1944,Massachusetts (special),Democratic primary,Primary,Candidate,False,Democratic Party (United States),[[Joseph Lee (American politician),"47,514",25.76%
+1944,Massachusetts (special),Democratic primary,Primary,Candidate,False,Democratic Party (United States),Joseph Lee,"47,514",25.76%
 1944,Massachusetts (special),Democratic primary,Primary,Candidate,False,Democratic Party (United States),Richard M. Russell,"47,080",25.52%
 1944,Massachusetts (special),Democratic primary,Primary,Candidate,False,Democratic Party (United States),Joseph A. Langone Jr.,"27,317",14.82%
 1944,Massachusetts (special),Democratic primary,Primary,Total,False,,,"184,448",100.00%
@@ -160,7 +160,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1944,South Dakota,Republican primary,Primary,Winning,False,Republican Party (United States),Chan Gurney (inc.),"35,960",56.18%
 1944,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),A. C. Miller,"28,052",43.82%
 1944,South Dakota,Republican primary,Primary,Total,False,,,"64,012",100.00%
-1944,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),George Aiken ([[Incumbent,"33,660",99.7%
+1944,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),George Aiken (inc.),"33,660",99.7%
 1944,Vermont,Republican primary results,Primary,Candidate,False,Republican Party (United States),Other,91,0.3%
 1944,Vermont,Republican primary results,Primary,Total,False,,,"33,751",100.0%
 1944,Vermont,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Harry W. Witters,"2,227",99.6%

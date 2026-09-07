@@ -103,7 +103,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Massachusetts,Democratic convention vote,General,Candidate,False,Marisa DeFranco,Democratic Party (United States),148,4.23
 2012,Massachusetts,Democratic convention vote,General,Total,False,,,"3,500",100.00
 2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Winning,False,Elizabeth Warren,Democratic Party (United States),"1,696,346",53.74
-2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Candidate,False,[[Scott Brown (politician),Republican Party (United States),"1,458,048",46.19
+2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Candidate,False,Scott Brown,Republican Party (United States),"1,458,048",46.19
 2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Write-in,False,,,"2,159",0.07
 2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Total,False,,,"3,156,553",100.00
 2012,Michigan,"United States Senate election in Michigan, 2012",General,Winning,True,Debbie Stabenow,Democratic Party (United States),"2,735,826",58.80%
@@ -117,7 +117,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Winning,True,Amy Klobuchar,Minnesota Democratic-Farmer-Labor Party,"1,854,595",65.23%
 2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Candidate,False,Kurt Bills,Republican Party of Minnesota,"867,974",30.53%
 2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Candidate,False,Stephen Williams,Independence Party of Minnesota,"73,539",2.59%
-2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Candidate,False,[[Tim Davis (activist),Grassroots Party,"30,531",1.07%
+2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Candidate,False,Tim Davis,Grassroots Party,"30,531",1.07%
 2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Write-in,False,,,"2,582",0.09%
 2012,Minnesota,"United States Senate election in Minnesota, 2012",General,Total,False,,,"2,843,207",100.00%
 2012,Mississippi,2012 United States Senate election in Mississippi,General,Winning,True,Roger Wicker,Republican Party (United States),"709,626",57.16%
@@ -176,7 +176,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Ohio,"United States Senate election in Ohio, 2012",General,Candidate,False,Scott Rupert,Independent (United States),"250,618",4.60%
 2012,Ohio,"United States Senate election in Ohio, 2012",General,Total,False,,,"5,449,128",100.00%
 2012,Pennsylvania,"United States Senate election in Pennsylvania, 2012",General,Winning,True,"Bob Casey, Jr.",Democratic Party (United States),"3,021,364",53.69%
-2012,Pennsylvania,"United States Senate election in Pennsylvania, 2012",General,Candidate,False,[[Tom Smith (Pennsylvania politician),Republican Party (United States),"2,509,132",44.59%
+2012,Pennsylvania,"United States Senate election in Pennsylvania, 2012",General,Candidate,False,Tom Smith,Republican Party (United States),"2,509,132",44.59%
 2012,Pennsylvania,"United States Senate election in Pennsylvania, 2012",General,Candidate,False,Rayburn Smith,Libertarian Party (United States),"96,926",1.72%
 2012,Pennsylvania,"United States Senate election in Pennsylvania, 2012",General,Total,False,,,"5,627,422",100.00%
 2012,Rhode Island,"United States Senate election in Rhode Island, 2012",General,Winning,True,Sheldon Whitehouse,Democratic Party (United States),"271,034",64.81%
@@ -206,8 +206,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Texas,Libertarian convention approval vote,General,Candidate,False,Robert Butler,Libertarian Party (United States),19,15.4
 2012,Texas,Libertarian convention approval vote,General,Candidate,False,S. Ropal Raju,Libertarian Party (United States),3,2.4
 2012,Texas,Libertarian convention approval vote,General,Candidate,False,Wayne Huffman,Libertarian Party (United States),2,1.6
-2012,Texas,Libertarian convention approval vote,General,Total,False,,,176,"143<ref name=note>Note: percentages add up to 143.1%, which corresponds to an average of 1.431 [[approval voting"
-2012,Texas,Libertarian convention approval vote,General,Total,False,,,123,1.431<ref name=note/>
+2012,Texas,Libertarian convention approval vote,General,Total,False,,,176,143
+2012,Texas,Libertarian convention approval vote,General,Total,False,,,123,1.431
 2012,Texas,2012 United States Senate election in Texas,General,Winning,False,Ted Cruz,Republican Party (United States),"4,440,137",56.46%
 2012,Texas,2012 United States Senate election in Texas,General,Candidate,False,Paul Sadler,Democratic Party (United States),"3,194,927",40.62%
 2012,Texas,2012 United States Senate election in Texas,General,Candidate,False,John Jay Myers,Libertarian Party (United States),"162,354",2.06%
@@ -231,7 +231,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Utah,Democratic convention results,General,Candidate,False,Pete Ashdown,Democratic Party (United States),-,37
 2012,Utah,Democratic convention results,General,Total,False,,,-,100
 2012,Utah,"United States Senate election in Utah, 2012",General,Winning,True,Orrin Hatch,Republican Party (United States),"657,608",65.31%
-2012,Utah,"United States Senate election in Utah, 2012",General,Candidate,False,[[Scott Howell (politician),Democratic Party (United States),"301,873",29.98%
+2012,Utah,"United States Senate election in Utah, 2012",General,Candidate,False,Scott Howell,Democratic Party (United States),"301,873",29.98%
 2012,Utah,"United States Senate election in Utah, 2012",General,Candidate,False,Shaun McCausland,Constitution Party (United States),"31,905",3.17%
 2012,Utah,"United States Senate election in Utah, 2012",General,Candidate,False,Daniel Geery,Justice Party (United States),"8,342",0.83%
 2012,Utah,"United States Senate election in Utah, 2012",General,Candidate,False,Bill Barron,Independent (United States),"7,172",0.71%
@@ -243,7 +243,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Vermont,"United States Senate election in Vermont, 2012",General,Write-in,False,,,252,0.08%
 2012,Vermont,"United States Senate election in Vermont, 2012",General,Total,False,,,"292,762",100.00%
 2012,Virginia,2012 United States Senate election in Virginia,General,Winning,False,Tim Kaine,Democratic Party (United States),"2,010,067",52.83%
-2012,Virginia,2012 United States Senate election in Virginia,General,Candidate,False,[[George Allen (American politician),Republican Party (United States),"1,785,542",46.93%
+2012,Virginia,2012 United States Senate election in Virginia,General,Candidate,False,George Allen,Republican Party (United States),"1,785,542",46.93%
 2012,Virginia,2012 United States Senate election in Virginia,General,Write-in,False,,,"9,410",0.25%
 2012,Virginia,2012 United States Senate election in Virginia,General,Total,False,,,"3,805,019",100.00%
 2012,Washington,2012 United States Senate election in Washington,General,Winning,True,Maria Cantwell,Democratic Party (United States),"1,855,493",60.45%

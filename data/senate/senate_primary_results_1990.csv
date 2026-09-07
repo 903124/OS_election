@@ -8,9 +8,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1990,Idaho,Primary results,Primary,Candidate,False,Jim Jones,Republican Party (US),"45,733",40.99%
 1990,Idaho,Primary results,Primary,Winning,False,Ron Twilegar,Democratic Party (US),"30,154",64.51%
 1990,Idaho,Primary results,Primary,Candidate,False,David C. Steed,Democratic Party (US),"16,587",35.49%
-1990,Illinois,Democratic primary results,Primary,Winning,False,[[Paul Simon (politician),Democratic Party (United States),"811,329",100.00%
+1990,Illinois,Democratic primary results,Primary,Winning,False,Paul Simon,Democratic Party (United States),"811,329",100.00%
 1990,Illinois,Democratic primary results,Primary,Total,False,,,"811,329",100.00%
-1990,Illinois,Republican primary results,Primary,Winning,False,[[Lynn Morley Martin,Republican Party (United States),"572,995",100.00%
+1990,Illinois,Republican primary results,Primary,Winning,False,Lynn Martin,Republican Party (United States),"572,995",100.00%
 1990,Illinois,Republican primary results,Primary,Total,False,,,"572,995",100.00%
 1990,Iowa,Democratic primary results,Primary,Winning,True,Tom Harkin,Democratic Party (United States),"162,661",99.47
 1990,Iowa,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),867,0.53
@@ -28,6 +28,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1990,Massachusetts,"Massachusetts United States Senate Republican primary, 1990",Primary,Candidate,False,Daniel W. Daly,Republican Party (United States),"135,647",33.38%
 1990,Massachusetts,"Massachusetts United States Senate Republican primary, 1990",Primary,Write-in,False,,,202,0.05%
 1990,Massachusetts,"Massachusetts United States Senate Republican primary, 1990",Primary,Total,False,,,"400,740",100.00%
+1990,Michigan,Democratic primary election results,Primary,Winning,True,Carl Levin,Democratic Party (United States),"355,373",99.99%
+1990,Michigan,Democratic primary election results,Primary,Write-in,False,,,27,0.00%
+1990,Michigan,Democratic primary election results,Primary,Total,False,,,355400,100.0%
+1990,Michigan,Republican primary election results,Primary,Winning,False,Bill Schuette,Republican Party (United States),"270,434",59.69%
+1990,Michigan,Republican primary election results,Primary,Candidate,False,Clark Durant,Republican Party (United States),"182,592",40.30%
+1990,Michigan,Republican primary election results,Primary,Write-in,False,,,9,0.00%
+1990,Michigan,Republican primary election results,Primary,Total,False,,,453035,100.0%
 1990,Montana,Democratic Party primary results,Primary,Winning,True,Max Baucus,Democratic Party (United States),"80,622",82.60%
 1990,Montana,Democratic Party primary results,Primary,Candidate,False,John Driscoll,Democratic Party (United States),"12,616",12.93%
 1990,Montana,Democratic Party primary results,Primary,Candidate,False,"""Curly"" Thornton",Democratic Party (United States),"4,367",4.47%
@@ -44,8 +51,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1990,Nebraska,Republican primary results,Primary,Candidate,False,Otis Glebe,Republican Party (United States),"16,367",8.38%
 1990,Nebraska,Republican primary results,Primary,Candidate,False,Write-ins,Republican Party (United States),711,0.36%
 1990,Nebraska,Republican primary results,Primary,Total,False,,,"195,315",100.00%
-1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Winning,False,[[Bob Smith (New Hampshire politician),Republican Party (United States),"56,215",65.00%
-1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Candidate,False,[[Thomas K. Christo,Republican Party (United States),"25,286",29.24%
+1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Winning,False,Bob Smith,Republican Party (United States),"56,215",65.00%
+1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Candidate,False,Tom Christo,Republican Party (United States),"25,286",29.24%
 1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Candidate,False,Theo deWinter,Republican Party (United States),"2,768",3.20%
 1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Candidate,False,Ewing Smith,Republican Party (United States),"2,009",2.32%
 1990,New Hampshire,1990 Republican U.S. Senate primary,Primary,Candidate,False,John Rauh (write-in),Democratic Party (United States),94,0.11%
@@ -67,9 +74,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1990,North Carolina,1990 North Carolina U.S. Senate Republican primary election,Primary,Candidate,False,George Wimbish,Republican Party (United States),"13,895",7.45%
 1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Winning,False,Harvey Gantt,Democratic Party (United States),"260,179",37.52%
 1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Winning,False,Mike Easley,Democratic Party (United States),"209,934",30.27%
-1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Candidate,False,[[John Ingram (politician),Democratic Party (United States),"120,990",17.45%
+1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Candidate,False,John Ingram,Democratic Party (United States),"120,990",17.45%
 1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Candidate,False,R. P. Thomas,Democratic Party (United States),"82,883",11.95%
-1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Candidate,False,[[Lloyd Gardner (politician),Democratic Party (United States),"11,528",1.66%
+1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Candidate,False,Lloyd Gardner,Democratic Party (United States),"11,528",1.66%
 1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – First round,Primary,Candidate,False,Robert Hannan,Democratic Party (United States),"7,982",1.15%
 1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – Second round,Primary,Winning,False,Harvey Gantt,Democratic Party (United States),"273,567",56.89%
 1990,North Carolina,1990 North Carolina U.S. Senate Democratic primary election – Second round,Primary,Candidate,False,Mike Easley,Democratic Party (United States),"207,283",43.11%

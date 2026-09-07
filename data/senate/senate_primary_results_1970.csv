@@ -48,10 +48,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,Hawaii,Democratic Senate primary,Primary,Total,False,,,"126,422",100.00%
 1970,Illinois (special),Republican primary,Primary,Winning,True,Republican Party (United States),Ralph Tyler Smith,"414,489",58.84
 1970,Illinois (special),Republican primary,Primary,Candidate,False,Republican Party (United States),William H. Rentschler,"271,648",38.57
-1970,Illinois (special),Republican primary,Primary,Candidate,False,Republican Party (United States),[[Lawrence Joseph Sarsfield Daly,"18,244",2.59
+1970,Illinois (special),Republican primary,Primary,Candidate,False,Republican Party (United States),"Lar ""America First"" Daly","18,244",2.59
 1970,Illinois (special),Republican primary,Primary,Write-in,False,,,16,0.00
 1970,Illinois (special),Republican primary,Primary,Total,False,,,"704,397",100
-1970,Illinois (special),Democratic primary,Primary,Winning,False,Democratic Party (United States),[[Adlai Stevenson III,"676,689",99.99
+1970,Illinois (special),Democratic primary,Primary,Winning,False,Democratic Party (United States),"Adlai E. Stevenson, III","676,689",99.99
 1970,Illinois (special),Democratic primary,Primary,Write-in,False,,,61,0.01
 1970,Illinois (special),Democratic primary,Primary,Total,False,,,"676,750",100
 1970,Maine,Republican primary results,Primary,Winning,False,Republican Party (United States),Neil S. Bishop,"45,216",59.83
@@ -135,7 +135,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,Ohio,1970 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Jim Rhodes,"466,932",49.72%
 1970,Ohio,1970 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),William L. White (write-in),18,0.00%
 1970,Ohio,1970 Republican Senate primary,Primary,Total,False,,,"939,152",100.00%
-1970,Rhode Island,Democratic primary results,Primary,Winning,False,Democratic Party (US),John Pastore ([[Incumbent,"54,090",88.06
+1970,Rhode Island,Democratic primary results,Primary,Winning,False,Democratic Party (US),John Pastore (inc.),"54,090",88.06
 1970,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (US),John Quattrocchi,"7,332",11.94
 1970,Rhode Island,Democratic primary results,Primary,Total,False,,,"61,422",100.00
 1970,Tennessee,1970 Republican Senate primary,Primary,Winning,False,Republican Party (United States),Bill Brock,"176,073",74.86%
@@ -144,7 +144,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,Texas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Lloyd Bentsen,"841,316",53.7%
 1970,Texas,Democratic primary results,Primary,Candidate,True,Democratic Party (United States),Ralph Yarborough,"726,477",46.3%
 1970,Texas,Democratic primary results,Primary,Total,False,,,"1,567,793",100.0%
-1970,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),Winston L. Prouty ([[Incumbent,"39,007",99.2
+1970,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),Winston L. Prouty (inc.),"39,007",99.2
 1970,Vermont,Republican primary results,Primary,Candidate,False,Republican Party (United States),Other,314,0.8
 1970,Vermont,Republican primary results,Primary,Total,False,,,"39,321",100.0
 1970,Vermont,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Philip H. Hoff,"23,082",69.6

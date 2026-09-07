@@ -1,39 +1,33 @@
-Year,State,Primary_Type,Poll_Source,Date,Sample,MoE,Candidate,Party,Pct,Incumbent
-2002,Texas,Democratic Primary,Zogby International,"November 3–4, 2002",,,John Cornyn,R,50%,False
-2002,Texas,Democratic Primary,Zogby International,"October 30 – November 2, 2002",,± 4.5%,John Cornyn,R,49%,False
-2002,Texas,Democratic Primary,University of Houston,Late–October 2002,656 (LV),± 3.6%,John Cornyn,R,45%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"October 7–29, 2002","1,000 (A)",± 4.3%,John Cornyn,R,44%,False
-2002,Texas,Democratic Primary,KXAS-TV,"October 21–27, 2002",550 (LV),± 4.3%,John Cornyn,R,43%,False
-2002,Texas,Democratic Primary,KXAS-TV,"October 15–20, 2002",600 (LV),± 4.1%,John Cornyn,R,46%,False
-2002,Texas,Democratic Primary,KXAS-TV,"October 8–13, 2002",600 (LV),± 4.1%,John Cornyn,R,46%,False
-2002,Texas,Democratic Primary,Zogby International,"October 9–11, 2002",,,John Cornyn,R,45%,False
-2002,Texas,Democratic Primary,KXAS-TV,"September 30 – October 6, 2002",600 (LV),± 4.1%,John Cornyn,R,56%,False
-2002,Texas,Democratic Primary,RealClearPolitics,"September 22–24, 2002",,± 3.6,John Cornyn,R,35%,False
-2002,Texas,Democratic Primary,Zogby International,"September 17–18, 2002",,,John Cornyn,R,42%,False
-2002,Texas,Democratic Primary,University of Houston,"September 3–15, 2002",879 (LV),± 4.1%,John Cornyn,R,42%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"August 7–27, 2002",756 (LV),± 3.5%,John Cornyn,R,37%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"July 31 – August 7, 2002",,,John Cornyn,R,46%,False
-2002,Texas,Democratic Primary,University of Houston,"June 20–29, 2002",739 (LV),± 3.5%,John Cornyn,R,28%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"May 20 – June 9, 2002",668 (LV),± 3.8%,John Cornyn,R,35%,False
-2002,Texas,Democratic Primary,The Texas Tribune,"May 7–13, 2002","1,066 (LV)",± 3.0%,John Cornyn,R,46%,False
-2002,Texas,Democratic Primary,Zogby International,"November 3–4, 2002",,,Ron Kirk,D,46%,False
-2002,Texas,Democratic Primary,Zogby International,"October 30 – November 2, 2002",,± 4.5%,Ron Kirk,D,48%,False
-2002,Texas,Democratic Primary,University of Houston,Late–October 2002,656 (LV),± 3.6%,Ron Kirk,D,39%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"October 7–29, 2002","1,000 (A)",± 4.3%,Ron Kirk,D,35%,False
-2002,Texas,Democratic Primary,KXAS-TV,"October 21–27, 2002",550 (LV),± 4.3%,Ron Kirk,D,40%,False
-2002,Texas,Democratic Primary,KXAS-TV,"October 15–20, 2002",600 (LV),± 4.1%,Ron Kirk,D,36%,False
-2002,Texas,Democratic Primary,KXAS-TV,"October 8–13, 2002",600 (LV),± 4.1%,Ron Kirk,D,36%,False
-2002,Texas,Democratic Primary,Zogby International,"October 9–11, 2002",,,Ron Kirk,D,37%,False
-2002,Texas,Democratic Primary,KXAS-TV,"September 30 – October 6, 2002",600 (LV),± 4.1%,Ron Kirk,D,30%,False
-2002,Texas,Democratic Primary,RealClearPolitics,"September 22–24, 2002",,± 3.6,Ron Kirk,D,39%,False
-2002,Texas,Democratic Primary,Zogby International,"September 17–18, 2002",,,Ron Kirk,D,30%,False
-2002,Texas,Democratic Primary,University of Houston,"September 3–15, 2002",879 (LV),± 4.1%,Ron Kirk,D,36%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"August 7–27, 2002",756 (LV),± 3.5%,Ron Kirk,D,32%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"July 31 – August 7, 2002",,,Ron Kirk,D,46%,False
-2002,Texas,Democratic Primary,University of Houston,"June 20–29, 2002",739 (LV),± 3.5%,Ron Kirk,D,36%,False
-2002,Texas,Democratic Primary,Scripps-Howard,"May 20 – June 9, 2002",668 (LV),± 3.8%,Ron Kirk,D,30%,False
-2002,Texas,Democratic Primary,The Texas Tribune,"May 7–13, 2002","1,066 (LV)",± 3.0%,Ron Kirk,D,44%,False
-2002,Texas,Republican Primary,The Texas Tribune,"Before September 10, 2001",,,Henry Bonilla,R,14%,False
-2002,Texas,Republican Primary,The Texas Tribune,"Before September 10, 2001",,,John Cornyn,R,27%,False
-2002,Texas,Republican Primary,The Texas Tribune,"Before September 10, 2001",,,Tony Garza,R,7%,False
-2002,Texas,Republican Primary,The Texas Tribune,"Before September 10, 2001",,,David Dewhurst,R,16%,False
+Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-08-26 to 2002-09-03,2002-08-26,2002-09-03,335 (LV),± 5.0%,Bob Smith,R,34%,True,"August 26 – September 3, 2002"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-06-23 to 2002-07-01,2002-06-23,2002-07-01,230 (LV),± 6.0%,Bob Smith,R,40%,True,"June 23 – July 1, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-06-21 to 2002-06-25,2002-06-21,2002-06-25,600 (LV),± 4.0%,Bob Smith,R,41%,True,"June 21–25, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-06-03 to 2002-06-05,2002-06-03,2002-06-05,600 (LV),± 4.0%,Bob Smith,R,38%,True,"June 3–5, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-04-30 to 2002-05-02,2002-04-30,2002-05-02,600 (LV),± 4.0%,Bob Smith,R,29%,True,"April 30 – May 2, 2002"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-04-10 to 2002-04-14,2002-04-10,2002-04-14,237 (LV),± 6.4%,Bob Smith,R,30%,True,April 10–14 2002
+2002,New Hampshire,Republican Primary,American Research Group,2002-04,2002-04-01,2002-04-30,600 (LV),± 4.0%,Bob Smith,R,33%,True,April 2002
+2002,New Hampshire,Republican Primary,American Research Group,2002-02-06 to 2002-02-10,2002-02-06,2002-02-10,600 (LV),± 4.0%,Bob Smith,R,34%,True,"February 6–10, 2002"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-01-25 to 2002-02-05,2002-01-25,2002-02-05,230 (LV),± 6.5%,Bob Smith,R,37%,True,"January 25 – February 5, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-01-05,2002-01-05,2002-01-05,600 (LV),± 4.0%,Bob Smith,R,27%,True,"January 5, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2001-11-16 to 2001-11-20,2001-11-16,2001-11-20,600 (LV),± 4.0%,Bob Smith,R,47%,True,November 16–20 2001
+2002,New Hampshire,Republican Primary,University of New Hampshire,2001-10-19 to 2001-10-29,2001-10-19,2001-10-29,202 (LV),± 6.7%,Bob Smith,R,35%,True,"October 19–29, 2001"
+2002,New Hampshire,Republican Primary,American Research Group,2001-10-16 to 2001-10-18,2001-10-16,2001-10-18,600 (LV),± 4.0%,Bob Smith,R,47%,True,"October 16–18, 2001"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-08-26 to 2002-09-03,2002-08-26,2002-09-03,335 (LV),± 5.0%,John Sununu,R,56%,False,"August 26 – September 3, 2002"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-06-23 to 2002-07-01,2002-06-23,2002-07-01,230 (LV),± 6.0%,John Sununu,R,52%,False,"June 23 – July 1, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-06-21 to 2002-06-25,2002-06-21,2002-06-25,600 (LV),± 4.0%,John Sununu,R,48%,False,"June 21–25, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-06-03 to 2002-06-05,2002-06-03,2002-06-05,600 (LV),± 4.0%,John Sununu,R,55%,False,"June 3–5, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-04-30 to 2002-05-02,2002-04-30,2002-05-02,600 (LV),± 4.0%,John Sununu,R,56%,False,"April 30 – May 2, 2002"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-04-10 to 2002-04-14,2002-04-10,2002-04-14,237 (LV),± 6.4%,John Sununu,R,59%,False,April 10–14 2002
+2002,New Hampshire,Republican Primary,American Research Group,2002-04,2002-04-01,2002-04-30,600 (LV),± 4.0%,John Sununu,R,51%,False,April 2002
+2002,New Hampshire,Republican Primary,American Research Group,2002-02-06 to 2002-02-10,2002-02-06,2002-02-10,600 (LV),± 4.0%,John Sununu,R,44%,False,"February 6–10, 2002"
+2002,New Hampshire,Republican Primary,University of New Hampshire,2002-01-25 to 2002-02-05,2002-01-25,2002-02-05,230 (LV),± 6.5%,John Sununu,R,51%,False,"January 25 – February 5, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2002-01-05,2002-01-05,2002-01-05,600 (LV),± 4.0%,John Sununu,R,51%,False,"January 5, 2002"
+2002,New Hampshire,Republican Primary,American Research Group,2001-11-16 to 2001-11-20,2001-11-16,2001-11-20,600 (LV),± 4.0%,John Sununu,R,39%,False,November 16–20 2001
+2002,New Hampshire,Republican Primary,University of New Hampshire,2001-10-19 to 2001-10-29,2001-10-19,2001-10-29,202 (LV),± 6.7%,John Sununu,R,53%,False,"October 19–29, 2001"
+2002,New Hampshire,Republican Primary,American Research Group,2001-10-16 to 2001-10-18,2001-10-16,2001-10-18,600 (LV),± 4.0%,John Sununu,R,41%,False,"October 16–18, 2001"
+2002,Texas,Republican Primary,The Texas Tribune,through 2001-09-10,,2001-09-10,,,Henry Bonilla,R,14%,False,"Before September 10, 2001"
+2002,Texas,Republican Primary,Montgomery & Associates (D),through 2001-09-10,,2001-09-10,,,Henry Bonilla,R,24%,False,"Before September 10, 2001"
+2002,Texas,Republican Primary,The Texas Tribune,through 2001-09-10,,2001-09-10,,,John Cornyn,R,27%,False,"Before September 10, 2001"
+2002,Texas,Republican Primary,The Texas Tribune,through 2001-09-10,,2001-09-10,,,Tony Garza,R,7%,False,"Before September 10, 2001"
+2002,Texas,Republican Primary,The Texas Tribune,through 2001-09-10,,2001-09-10,,,David Dewhurst,R,16%,False,"Before September 10, 2001"
+2002,Texas,Republican Primary,Montgomery & Associates (D),through 2001-09-10,,2001-09-10,,,David Dewhurst,R,44%,False,"Before September 10, 2001"

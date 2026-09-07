@@ -10,7 +10,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Alaska,Primary results,Primary,Candidate,False,Jacob Seth Kern,Democratic Party (United States),"6,913",19.71%
 2010,Alaska,Primary results,Primary,Candidate,False,Frank Vondersaar,Democratic Party (United States),"5,339",15.22%
 2010,Alaska,Primary results,Primary,Total,False,,,"36,080",100.00%
-2010,Alaska,Republican primary results,Primary,Winning,False,[[Joe Miller (Alaska politician),Republican Party (United States),"55,878",50.91%
+2010,Alaska,Republican primary results,Primary,Winning,False,Joe Miller,Republican Party (United States),"55,878",50.91%
 2010,Alaska,Republican primary results,Primary,Candidate,True,Lisa Murkowski,Republican Party (United States),"53,872",49.09%
 2010,Alaska,Republican primary results,Primary,Total,False,,,"109,750",100.00%
 2010,Arizona,Republican primary results,Primary,Winning,True,John McCain,Republican Party (US),"284,374",56.2%
@@ -30,8 +30,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Arkansas,Democratic primary runoff results,Primary,Candidate,False,Bill Halter,Democratic Party (United States),"124,405",48.00%
 2010,Arkansas,Democratic primary runoff results,Primary,Total,False,,,"259,161",100.00%
 2010,Arkansas,Republican primary results,Primary,Winning,False,John Boozman,Republican Party (United States),"75,010",52.73%
-2010,Arkansas,Republican primary results,Primary,Candidate,False,[[Jim Holt (Arkansas politician),Republican Party (United States),"24,826",17.45%
-2010,Arkansas,Republican primary results,Primary,Candidate,False,[[Gilbert Baker (politician),Republican Party (United States),"16,540",11.63%
+2010,Arkansas,Republican primary results,Primary,Candidate,False,Jim Holt,Republican Party (United States),"24,826",17.45%
+2010,Arkansas,Republican primary results,Primary,Candidate,False,Gilbert Baker,Republican Party (United States),"16,540",11.63%
 2010,Arkansas,Republican primary results,Primary,Candidate,False,Conrad Reynolds,Republican Party (United States),"7,128",5.01%
 2010,Arkansas,Republican primary results,Primary,Candidate,False,Curtis Coleman,Republican Party (United States),"6,928",4.87%
 2010,Arkansas,Republican primary results,Primary,Candidate,False,Kim Hendren,Republican Party (United States),"5,551",3.90%
@@ -128,7 +128,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Kansas,Democratic primary results,Primary,Total,False,,,"81,371",100.00%
 2010,Kentucky,Republican primary results,Primary,Winning,False,Rand Paul,Republican Party (United States),"206,986",58.8%
 2010,Kentucky,Republican primary results,Primary,Candidate,False,Trey Grayson,Republican Party (United States),"124,864",35.4%
-2010,Kentucky,Republican primary results,Primary,Candidate,False,Bill Johnson<nowiki>*</nowiki>,Republican Party (United States),"7,861",2.2%
+2010,Kentucky,Republican primary results,Primary,Candidate,False,Bill Johnson *,Republican Party (United States),"7,861",2.2%
 2010,Kentucky,Republican primary results,Primary,Candidate,False,John Stephenson,Republican Party (United States),"6,885",2.0%
 2010,Kentucky,Republican primary results,Primary,Candidate,False,Gurley L. Martin,Republican Party (United States),"2,850",0.8%
 2010,Kentucky,Republican primary results,Primary,Candidate,False,Jon J. Scribner,Republican Party (United States),"2,829",0.8%

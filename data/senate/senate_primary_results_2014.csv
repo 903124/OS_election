@@ -7,8 +7,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Candidate,False,Mark Fish,Alaska Libertarian Party,"1,290",1.85%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Candidate,False,Scott Kohlhaas,Alaska Libertarian Party,734,1.05%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Total,False,,,"69,733",100.00%
-2014,Alaska,Republican primary results,Primary,Winning,False,[[Dan Sullivan (U.S. senator),Republican Party (United States),"44,740",40.05%
-2014,Alaska,Republican primary results,Primary,Candidate,False,[[Joe Miller (Alaska politician),Republican Party (United States),"35,904",32.14%
+2014,Alaska,Republican primary results,Primary,Winning,False,Dan Sullivan,Republican Party (United States),"44,740",40.05%
+2014,Alaska,Republican primary results,Primary,Candidate,False,Joe Miller,Republican Party (United States),"35,904",32.14%
 2014,Alaska,Republican primary results,Primary,Candidate,False,Mead Treadwell,Republican Party (United States),"27,807",24.90%
 2014,Alaska,Republican primary results,Primary,Candidate,False,John Jaramillo,Republican Party (United States),"3,246",2.91%
 2014,Alaska,Republican primary results,Primary,Total,False,,,"111,697",100.00%
@@ -38,23 +38,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Hawaii (special),Democratic primary results,Primary,Winning,True,Brian Schatz,Democratic Party (United States),"115,445",48.52%
 2014,Hawaii (special),Democratic primary results,Primary,Candidate,False,Colleen Hanabusa,Democratic Party (United States),"113,663",47.77%
 2014,Hawaii (special),Democratic primary results,Primary,Candidate,False,Brian Evans,Democratic Party (United States),"4,842",2.03%
-2014,Hawaii (special),Democratic primary results,Primary,Candidate,False,[[Undervote,Democratic Party (United States),"3,842",1.61%
-2014,Hawaii (special),Democratic primary results,Primary,Candidate,False,[[Overvote,Democratic Party (United States),150,0.06%
+2014,Hawaii (special),Democratic primary results,Primary,Candidate,False,Blank vote,Democratic Party (United States),"3,842",1.61%
+2014,Hawaii (special),Democratic primary results,Primary,Candidate,False,Over vote,Democratic Party (United States),150,0.06%
 2014,Hawaii (special),Democratic primary results,Primary,Total,False,,,"237,942",100.00%
 2014,Hawaii (special),Republican primary results,Primary,Winning,False,Campbell Cavasso,Republican Party (United States),"25,874",58.61%
 2014,Hawaii (special),Republican primary results,Primary,Candidate,False,John P. Roco,Republican Party (United States),"4,425",10.02%
 2014,Hawaii (special),Republican primary results,Primary,Candidate,False,"Harry J. Friel, Jr.",Republican Party (United States),"3,477",7.88%
 2014,Hawaii (special),Republican primary results,Primary,Candidate,False,Eddie Pirkowski,Republican Party (United States),"2,033",4.60%
-2014,Hawaii (special),Republican primary results,Primary,Candidate,False,[[Undervote,Republican Party (United States),"8,306",18.81%
-2014,Hawaii (special),Republican primary results,Primary,Candidate,False,[[Overvote,Republican Party (United States),34,0.08%
+2014,Hawaii (special),Republican primary results,Primary,Candidate,False,Blank vote,Republican Party (United States),"8,306",18.81%
+2014,Hawaii (special),Republican primary results,Primary,Candidate,False,Over vote,Republican Party (United States),34,0.08%
 2014,Hawaii (special),Republican primary results,Primary,Total,False,,,"44,149",100.00%
 2014,Hawaii (special),Libertarian primary results,Primary,Winning,False,Michael Kokoski,Libertarian Party (United States),568,79.89%
-2014,Hawaii (special),Libertarian primary results,Primary,Candidate,False,[[Undervote,Libertarian Party (United States),143,20.11%
+2014,Hawaii (special),Libertarian primary results,Primary,Candidate,False,Blank vote,Libertarian Party (United States),143,20.11%
 2014,Hawaii (special),Libertarian primary results,Primary,Total,False,,,711,100.00%
 2014,Hawaii (special),Independent primary results,Primary,Candidate,False,Joy Allison,Independent politician,388,34.80%
 2014,Hawaii (special),Independent primary results,Primary,Candidate,False,Arturo Pacheco Reyes,Independent politician,184,16.50%
-2014,Hawaii (special),Independent primary results,Primary,Winning,False,[[Undervote,Independent politician,540,48.43%
-2014,Hawaii (special),Independent primary results,Primary,Candidate,False,[[Overvote,Independent politician,3,0.27%
+2014,Hawaii (special),Independent primary results,Primary,Winning,False,Blank vote,Independent politician,540,48.43%
+2014,Hawaii (special),Independent primary results,Primary,Candidate,False,Over vote,Independent politician,3,0.27%
 2014,Hawaii (special),Independent primary results,Primary,Total,False,,,"1,115",100.00%
 2014,Idaho,Republican primary results,Primary,Winning,True,Jim Risch,Republican Party (United States),"118,927",79.91%
 2014,Idaho,Republican primary results,Primary,Candidate,False,Jeremy Anderson,Republican Party (United States),"29,897",20.09%
@@ -141,7 +141,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Mississippi,Democratic primary results,Primary,Candidate,False,William Compton,Democratic Party (United States),"8,465",9.9%
 2014,Mississippi,Democratic primary results,Primary,Candidate,False,Jonathan Rawl,Democratic Party (United States),"3,492",4.1%
 2014,Mississippi,Democratic primary results,Primary,Total,False,,,"85,866",100.0%
-2014,Montana,Democratic primary results,Primary,Winning,False,[[John Walsh (U.S. senator),Democratic Party (United States),"48,665",64.04%
+2014,Montana,Democratic primary results,Primary,Winning,False,John Walsh,Democratic Party (United States),"48,665",64.04%
 2014,Montana,Democratic primary results,Primary,Candidate,False,John Bohlinger,Democratic Party (United States),"17,187",22.62%
 2014,Montana,Democratic primary results,Primary,Candidate,False,Dirk Adams,Democratic Party (United States),"10,139",13.34%
 2014,Montana,Democratic primary results,Primary,Total,False,,,"75,991",100.00%
@@ -159,9 +159,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Nebraska,Democratic primary results,Primary,Candidate,False,Larry Marvin,Democratic Party (United States),"21,904",32.43%
 2014,Nebraska,Democratic primary results,Primary,Total,False,,,"67,552",100.00%
 2014,New Hampshire,Democratic primary results,Primary,Winning,True,Jeanne Shaheen,Democratic Party (United States),"74,504",100.00%
-2014,New Hampshire,Republican primary results,Primary,Winning,False,[[Scott Brown (politician),Republican Party (United States),"58,775",49.86%
+2014,New Hampshire,Republican primary results,Primary,Winning,False,Scott Brown,Republican Party (United States),"58,775",49.86%
 2014,New Hampshire,Republican primary results,Primary,Candidate,False,Jim Rubens,Republican Party (United States),"27,089",22.98%
-2014,New Hampshire,Republican primary results,Primary,Candidate,False,[[Bob Smith (New Hampshire politician),Republican Party (United States),"26,593",22.56%
+2014,New Hampshire,Republican primary results,Primary,Candidate,False,Bob Smith,Republican Party (United States),"26,593",22.56%
 2014,New Hampshire,Republican primary results,Primary,Candidate,False,Walter W. Kelly,Republican Party (United States),"1,376",1.17%
 2014,New Hampshire,Republican primary results,Primary,Candidate,False,Bob Heghmann,Republican Party (United States),784,0.67%
 2014,New Hampshire,Republican primary results,Primary,Candidate,False,Andy Martin,Republican Party (United States),734,0.62%
@@ -173,7 +173,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,New Hampshire,Republican primary results,Primary,Total,False,,,"117,884",100.00%
 2014,New Jersey,Democratic primary results,Primary,Winning,True,Cory Booker,Democratic Party (United States),"197,158",100.00%
 2014,New Jersey,Democratic primary results,Primary,Total,False,,,"197,158",100.00%
-2014,New Jersey,Republican primary results,Primary,Winning,False,[[Jeff Bell (politician),Republican Party (United States),"42,728",29.41%
+2014,New Jersey,Republican primary results,Primary,Winning,False,Jeff Bell,Republican Party (United States),"42,728",29.41%
 2014,New Jersey,Republican primary results,Primary,Candidate,False,Richard J. Pezzullo,Republican Party (United States),"38,130",26.24%
 2014,New Jersey,Republican primary results,Primary,Candidate,False,Brian D. Goldberg,Republican Party (United States),"36,266",24.96%
 2014,New Jersey,Republican primary results,Primary,Candidate,False,Murray Sabrin,Republican Party (United States),"28,183",19.40%
@@ -181,7 +181,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,New Mexico,Democratic primary results,Primary,Winning,True,Tom Udall,Democratic Party (United States),"113,502",100.00%
 2014,New Mexico,Democratic primary results,Primary,Total,False,,,"113,502",100.00%
 2014,New Mexico,Republican primary results,Primary,Winning,False,Allen Weh,Republican Party (United States),"41,566",63.0%
-2014,New Mexico,Republican primary results,Primary,Candidate,False,[[David Clements (lawyer),Republican Party (United States),"24,413",37.0%
+2014,New Mexico,Republican primary results,Primary,Candidate,False,David Clements,Republican Party (United States),"24,413",37.0%
 2014,New Mexico,Republican primary results,Primary,Total,False,,,"65,979",100.0%
 2014,North Carolina,Democratic primary election results,Primary,Winning,True,Kay Hagan,Democratic Party (United States),"372,209",77.16%
 2014,North Carolina,Democratic primary election results,Primary,Candidate,False,Will Stewart,Democratic Party (United States),"66,903",13.87%
@@ -235,7 +235,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Rhode Island,Republican primary results,Primary,Winning,False,Mark Zaccaria,Republican Party (United States),"23,780",100.00%
 2014,South Carolina,Republican primary results,Primary,Winning,True,Lindsey Graham,Republican Party (United States),"178,833",56.42%
 2014,South Carolina,Republican primary results,Primary,Candidate,False,Lee Bright,Republican Party (United States),"48,904",15.53%
-2014,South Carolina,Republican primary results,Primary,Candidate,False,[[Richard Cash (politician),Republican Party (United States),"26,325",8.30%
+2014,South Carolina,Republican primary results,Primary,Candidate,False,Richard Cash,Republican Party (United States),"26,325",8.30%
 2014,South Carolina,Republican primary results,Primary,Candidate,False,Det Bowers,Republican Party (United States),"23,172",7.31%
 2014,South Carolina,Republican primary results,Primary,Candidate,False,Nancy Mace,Republican Party (United States),"19,634",6.19%
 2014,South Carolina,Republican primary results,Primary,Candidate,False,Bill Connor,Republican Party (United States),"16,912",5.34%
@@ -258,7 +258,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,South Dakota,Republican primary results,Primary,Candidate,False,Jason Ravnsborg,Republican Party (United States),"2,066",2.77%
 2014,South Dakota,Republican primary results,Primary,Total,False,,,"74,490",100.00%
 2014,Tennessee,Republican primary results,Primary,Winning,True,Lamar Alexander,Republican Party (United States),"331,705",49.65%
-2014,Tennessee,Republican primary results,Primary,Candidate,False,[[Joe S. Carr,Republican Party (United States),"271,324",40.61%
+2014,Tennessee,Republican primary results,Primary,Candidate,False,Joe Carr,Republican Party (United States),"271,324",40.61%
 2014,Tennessee,Republican primary results,Primary,Candidate,False,George Shea Flinn,Republican Party (United States),"34,668",5.19%
 2014,Tennessee,Republican primary results,Primary,Candidate,False,Christian Agnew,Republican Party (United States),"11,320",1.69%
 2014,Tennessee,Republican primary results,Primary,Candidate,False,Brenda S. Lenard,Republican Party (United States),"7,908",1.18%
@@ -302,14 +302,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Wyoming,Republican primary results,Primary,Candidate,False,Thomas Bleming,Republican Party (United States),"2,504",2.52%
 2014,Wyoming,Republican primary results,Primary,Candidate,False,Arthur Bruce Clifton,Republican Party (United States),"1,403",1.41%
 2014,Wyoming,Republican primary results,Primary,Candidate,False,Write-in,Republican Party (United States),346,0.35%
-2014,Wyoming,Republican primary results,Primary,Candidate,False,[[Overvote,Republican Party (United States),51,0.05%
-2014,Wyoming,Republican primary results,Primary,Candidate,False,[[Undervote,Republican Party (United States),"3,973",4.00%
+2014,Wyoming,Republican primary results,Primary,Candidate,False,Over Votes,Republican Party (United States),51,0.05%
+2014,Wyoming,Republican primary results,Primary,Candidate,False,Under Votes,Republican Party (United States),"3,973",4.00%
 2014,Wyoming,Republican primary results,Primary,Total,False,,,"99,312",100.00%
 2014,Wyoming,Democratic primary results,Primary,Winning,False,Charlie Hardy,Democratic Party (United States),"7,200",39.33%
 2014,Wyoming,Democratic primary results,Primary,Candidate,False,Rex Wilde,Democratic Party (United States),"3,012",16.46%
 2014,Wyoming,Democratic primary results,Primary,Candidate,False,Al Hamburg,Democratic Party (United States),"2,988",16.32%
 2014,Wyoming,Democratic primary results,Primary,Candidate,False,William Bryk,Democratic Party (United States),"1,670",9.12%
 2014,Wyoming,Democratic primary results,Primary,Candidate,False,Write-in,Democratic Party (United States),216,1.18%
-2014,Wyoming,Democratic primary results,Primary,Candidate,False,[[Overvote,Democratic Party (United States),31,0.17%
-2014,Wyoming,Democratic primary results,Primary,Candidate,False,[[Undervote,Democratic Party (United States),"3,189",17.42%
+2014,Wyoming,Democratic primary results,Primary,Candidate,False,Over Votes,Democratic Party (United States),31,0.17%
+2014,Wyoming,Democratic primary results,Primary,Candidate,False,Under Votes,Democratic Party (United States),"3,189",17.42%
 2014,Wyoming,Democratic primary results,Primary,Total,False,,,"18,306",100.00%

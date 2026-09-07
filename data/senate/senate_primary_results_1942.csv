@@ -19,17 +19,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Francis M. Bistline,Democratic Party (United States),"4,550",14.18
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Owen T. Stratton,Democratic Party (United States),"1,706",5.31
 1942,Idaho,Democratic primary results,Primary,Total,False,,,"32,098",
-1942,Idaho,Republican primary results,Primary,Winning,False,[[John Thomas (Idaho politician),Republican Party (United States),"18,947",63.19
+1942,Idaho,Republican primary results,Primary,Winning,False,John Thomas,Republican Party (United States),"18,947",63.19
 1942,Idaho,Republican primary results,Primary,Candidate,False,John C. Sanborn,Republican Party (United States),"5,582",18.62
 1942,Idaho,Republican primary results,Primary,Candidate,False,Presley F. Horne,Republican Party (United States),"5,455",18.19
 1942,Idaho,Republican primary results,Primary,Total,False,,,"29,984",
 1942,Illinois,Democratic primary,Primary,Winning,False,Raymond S. McKeough,Democratic Party (United States),"578,231",63.90
-1942,Illinois,Democratic primary,Primary,Candidate,False,[[Paul Douglas (Illinois politician),Democratic Party (United States),"284,210",31.41
-1942,Illinois,Democratic primary,Primary,Candidate,False,[[Lawrence Joseph Sarsfield Daly,Democratic Party (United States),"42,418",4.69
+1942,Illinois,Democratic primary,Primary,Candidate,False,Paul Douglas,Democratic Party (United States),"284,210",31.41
+1942,Illinois,Democratic primary,Primary,Candidate,False,Lar Daly,Democratic Party (United States),"42,418",4.69
 1942,Illinois,Democratic primary,Primary,Write-in,False,,,1,0.00
 1942,Illinois,Democratic primary,Primary,Total,False,,,"904,860",100
 1942,Illinois,Republican primary,Primary,Winning,True,C. Wayland Brooks,Republican Party (United States),"696,024",80.41
-1942,Illinois,Republican primary,Primary,Candidate,False,[[Warren Wright (politician),Republican Party (United States),"142,025",16.41
+1942,Illinois,Republican primary,Primary,Candidate,False,Warren Wright,Republican Party (United States),"142,025",16.41
 1942,Illinois,Republican primary,Primary,Candidate,False,William J. Baker,Republican Party (United States),"27,571",3.19
 1942,Illinois,Republican primary,Primary,Write-in,False,,,1,0.00
 1942,Illinois,Republican primary,Primary,Total,False,,,"865,621",100
@@ -70,7 +70,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Massachusetts,Republican primary,Primary,Total,False,,,"197,912",100.00%
 1942,Massachusetts,Democratic primary,Primary,Winning,False,Joseph E. Casey,Democratic Party (US),"108,251",45.47%
 1942,Massachusetts,Democratic primary,Primary,Candidate,False,John F. Fitzgerald,Democratic Party (US),"80,456",33.79%
-1942,Massachusetts,Democratic primary,Primary,Candidate,False,[[Joseph Lee (American politician),Democratic Party (US),"32,260",13.55%
+1942,Massachusetts,Democratic primary,Primary,Candidate,False,Joseph Lee,Democratic Party (US),"32,260",13.55%
 1942,Massachusetts,Democratic primary,Primary,Candidate,False,Daniel H. Coakley,Democratic Party (US),"17,105",7.18%
 1942,Massachusetts,Democratic primary,Primary,Write-in,False,,,18,0.00%
 1942,Massachusetts,Democratic primary,Primary,Total,False,,,"238,090",100.00%
@@ -124,12 +124,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Nebraska,Democratic primary results,Primary,Candidate,False,George W. Olsen,Democratic Party (United States),"1,105",1.24%
 1942,Nebraska,Democratic primary results,Primary,Candidate,False,Lawrence W. Moore,Democratic Party (United States),784,0.88%
 1942,Nebraska,Democratic primary results,Primary,Total,False,,,"89,263",100.00%
-1942,New Hampshire,1942 Republican U.S. Senate primary{{sfn|Manual for the General Court|1943|p=284,Primary,Winning,True,Styles Bridges,Republican Party (United States),"37,045",92.42%
-1942,New Hampshire,1942 Republican U.S. Senate primary{{sfn|Manual for the General Court|1943|p=284,Primary,Candidate,False,Alfred J. Gruenlin,Republican Party (United States),"3,040",7.58%
-1942,New Hampshire,1942 Republican U.S. Senate primary{{sfn|Manual for the General Court|1943|p=284,Primary,Total,False,,,"40,085",100.00%
-1942,New Hampshire,1942 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1943|p=284,Primary,Winning,False,Francis P. Murphy,Democratic Party (United States),"16,653",68.70%
-1942,New Hampshire,1942 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1943|p=284,Primary,Candidate,False,Joseph A. Millimet,Democratic Party (United States),"7,588",31.30%
-1942,New Hampshire,1942 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1943|p=284,Primary,Total,False,,,"24,241",100.00%
+1942,New Hampshire,1942 Republican U.S. Senate primary,Primary,Winning,True,Styles Bridges,Republican Party (United States),"37,045",92.42%
+1942,New Hampshire,1942 Republican U.S. Senate primary,Primary,Candidate,False,Alfred J. Gruenlin,Republican Party (United States),"3,040",7.58%
+1942,New Hampshire,1942 Republican U.S. Senate primary,Primary,Total,False,,,"40,085",100.00%
+1942,New Hampshire,1942 Democratic U.S. Senate primary,Primary,Winning,False,Francis P. Murphy,Democratic Party (United States),"16,653",68.70%
+1942,New Hampshire,1942 Democratic U.S. Senate primary,Primary,Candidate,False,Joseph A. Millimet,Democratic Party (United States),"7,588",31.30%
+1942,New Hampshire,1942 Democratic U.S. Senate primary,Primary,Total,False,,,"24,241",100.00%
 1942,New Jersey,1942 Democratic Senate primary,Primary,Winning,True,William Smathers,Democratic Party (US),"170,621",100.00%
 1942,New Jersey,1942 Democratic Senate primary,Primary,Total,False,,,"170,621",100.00%
 1942,New Jersey,1942 Republican Senate primary,Primary,Winning,False,Albert W. Hawkes,Republican Party (US),"130,885",43.97%
@@ -161,7 +161,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,South Dakota,Republican primary,Primary,Winning,False,Harlan J. Bushfield,Republican Party (United States),"52,342",63.32%
 1942,South Dakota,Republican primary,Primary,Candidate,False,Olive A. Ringsrud,Republican Party (United States),"30,325",36.68%
 1942,South Dakota,Republican primary,Primary,Total,False,,,"82,667",100.00%
-1942,Tennessee,Democratic Party primary results,Primary,Winning,False,[[Tom Stewart (politician),Democratic Party (United States),"136,415",51.89%
+1942,Tennessee,Democratic Party primary results,Primary,Winning,False,Tom Stewart,Democratic Party (United States),"136,415",51.89%
 1942,Tennessee,Democratic Party primary results,Primary,Candidate,False,Edward W. Carmack Jr.,Democratic Party (United States),"116,841",44.44%
 1942,Tennessee,Democratic Party primary results,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"9,653",3.67%
 1942,Tennessee,Democratic Party primary results,Primary,Total,False,,,"262,909",100.00%

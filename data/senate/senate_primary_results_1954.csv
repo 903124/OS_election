@@ -9,16 +9,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Arkansas,1954 Democratic U.S. Senate primary results,Primary,Candidate,False,Democratic Party (United States),Paul Chambers,"31,286",9.55%
 1954,Arkansas,1954 Democratic U.S. Senate primary results,Primary,Candidate,False,Democratic Party (United States),Leonard Ellis,"3,391",1.04%
 1954,Arkansas,1954 Democratic U.S. Senate primary results,Primary,Total,False,,,"327,523",100.00%
-1954,California (special),Republican primary results{{sfn|CA Primary 1954|p=13,Primary,Winning,True,Republican Party (United States),Thomas Kuchel,"1,118,312",88.57
-1954,California (special),Republican primary results{{sfn|CA Primary 1954|p=13,Primary,Candidate,False,Democratic Party (United States),Sam Yorty,"100,746",7.98
-1954,California (special),Republican primary results{{sfn|CA Primary 1954|p=13,Primary,Candidate,False,Republican Party (United States),William T. Hooley,"32,684",2.59
-1954,California (special),Republican primary results{{sfn|CA Primary 1954|p=13,Primary,Total,False,,,"1,262,568",100.00
-1954,California (special),Democratic primary results{{sfn|CA Primary 1954|p=13,Primary,Winning,False,Democratic Party (United States),Sam Yorty,"829,977",52.38
-1954,California (special),Democratic primary results{{sfn|CA Primary 1954|p=13,Primary,Candidate,True,Republican Party (United States),Thomas Kuchel,"455,530",28.75
-1954,California (special),Democratic primary results{{sfn|CA Primary 1954|p=13,Primary,Candidate,False,Democratic Party (United States),Leo Gallagher,"168,970",10.66
-1954,California (special),Democratic primary results{{sfn|CA Primary 1954|p=13,Primary,Candidate,False,Democratic Party (United States),Adam C. Derkum,"103,484",6.53
-1954,California (special),Democratic primary results{{sfn|CA Primary 1954|p=13,Primary,Total,False,,,"1,584,628",100.00
-1954,California (special),Independent–Progressive primary results{{sfn|CA Primary 1954|p=13,Primary,Total,False,,,"3,405",100.00
+1954,California (special),Republican primary results,Primary,Winning,True,Republican Party (United States),Thomas Kuchel,"1,118,312",88.57
+1954,California (special),Republican primary results,Primary,Candidate,False,Democratic Party (United States),Sam Yorty,"100,746",7.98
+1954,California (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),William T. Hooley,"32,684",2.59
+1954,California (special),Republican primary results,Primary,Total,False,,,"1,262,568",100.00
+1954,California (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Sam Yorty,"829,977",52.38
+1954,California (special),Democratic primary results,Primary,Candidate,True,Republican Party (United States),Thomas Kuchel,"455,530",28.75
+1954,California (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Leo Gallagher,"168,970",10.66
+1954,California (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Adam C. Derkum,"103,484",6.53
+1954,California (special),Democratic primary results,Primary,Total,False,,,"1,584,628",100.00
+1954,California (special),Independent–Progressive primary results,Primary,Total,False,,,"3,405",100.00
 1954,Colorado,1954 U.S. Senate Democratic primary,Primary,Winning,False,Democratic Party (United States),John A. Carroll,"82,360",60.19%
 1954,Colorado,1954 U.S. Senate Democratic primary,Primary,Candidate,False,Democratic Party (United States),J. Quigg Newton,"54,467",39.81%
 1954,Colorado,1954 U.S. Senate Democratic primary,Primary,Total,False,,,"136,827",100.00%
@@ -29,7 +29,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Idaho,Republican primary results,Primary,Winning,True,Republican Party (United States),Henry Dworshak,"56,333",87.57
 1954,Idaho,Republican primary results,Primary,Candidate,False,Republican Party (United States),Les Lambson,"7,998",12.43
 1954,Idaho,Republican primary results,Primary,Total,False,,,"64,331",
-1954,Illinois,Democratic primary results,Primary,Winning,False,Democratic Party (United States),[[Paul Douglas (Illinois politician),"587,084",100
+1954,Illinois,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Paul H. Douglas,"587,084",100
 1954,Illinois,Democratic primary results,Primary,Write-in,False,,,5,0.00
 1954,Illinois,Democratic primary results,Primary,Total,False,,,"587,089",100
 1954,Illinois,Republican primary results,Primary,Winning,False,Republican Party (United States),Joseph T. Meek,"283,843",33.61
@@ -84,20 +84,20 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Nebraska (special),Republican primary,Primary,Winning,False,Republican Party (United States),Roman Hruska,"118,084",99.77%
 1954,Nebraska (special),Republican primary,Primary,Candidate,False,Republican Party (United States),Scattering,272,0.23%
 1954,Nebraska (special),Republican primary,Primary,Total,False,,,"118,356",100.00%
-1954,New Hampshire,1954 Republican U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Winning,True,Republican Party (United States),Styles Bridges,"62,524",100.00%
-1954,New Hampshire,1954 Republican U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Total,False,,,"62,524",100.00%
-1954,New Hampshire,1954 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Winning,False,Democratic Party (United States),Gerald L. Morin,"9,839",40.01%
-1954,New Hampshire,1954 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Candidate,False,Democratic Party (United States),Frank L. Sullivan,"7,317",29.76%
-1954,New Hampshire,1954 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Candidate,False,Democratic Party (United States),Eugene S. Daniell Jr.,"4,675",19.01%
-1954,New Hampshire,1954 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Candidate,False,Democratic Party (United States),Albert Courtois,"2,759",11.22%
-1954,New Hampshire,1954 Democratic U.S. Senate primary{{sfn|Manual for the General Court|1955|p=304,Primary,Total,False,,,"24,590",100.00%
-1954,New Hampshire (special),Democratic primary results{{sfn|Manual for the General Court|1955|p=305,Primary,Winning,False,Democratic Party (United States),Stanley J. Betley,"12,486",54.89
-1954,New Hampshire (special),Democratic primary results{{sfn|Manual for the General Court|1955|p=305,Primary,Candidate,False,Democratic Party (United States),Laurence M. Pickett,"10,262",45.11
-1954,New Hampshire (special),Democratic primary results{{sfn|Manual for the General Court|1955|p=305,Primary,Total,False,,,"22,748",100.00
-1954,New Hampshire (special),Republican primary results{{sfn|Manual for the General Court|1955|p=304,Primary,Winning,False,Republican Party (United States),Norris Cotton,29.761,40.63
-1954,New Hampshire (special),Republican primary results{{sfn|Manual for the General Court|1955|p=304,Primary,Candidate,True,Republican Party (United States),Robert W. Upton,"23,778",32.47
-1954,New Hampshire (special),Republican primary results{{sfn|Manual for the General Court|1955|p=304,Primary,Candidate,False,Republican Party (United States),Wesley Powell,"19,704",26.90
-1954,New Hampshire (special),Republican primary results{{sfn|Manual for the General Court|1955|p=304,Primary,Total,False,,,"73,243",100.00
+1954,New Hampshire,1954 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (United States),Styles Bridges,"62,524",100.00%
+1954,New Hampshire,1954 Republican U.S. Senate primary,Primary,Total,False,,,"62,524",100.00%
+1954,New Hampshire,1954 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Gerald L. Morin,"9,839",40.01%
+1954,New Hampshire,1954 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Frank L. Sullivan,"7,317",29.76%
+1954,New Hampshire,1954 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Eugene S. Daniell Jr.,"4,675",19.01%
+1954,New Hampshire,1954 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Albert Courtois,"2,759",11.22%
+1954,New Hampshire,1954 Democratic U.S. Senate primary,Primary,Total,False,,,"24,590",100.00%
+1954,New Hampshire (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Stanley J. Betley,"12,486",54.89
+1954,New Hampshire (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Laurence M. Pickett,"10,262",45.11
+1954,New Hampshire (special),Democratic primary results,Primary,Total,False,,,"22,748",100.00
+1954,New Hampshire (special),Republican primary results,Primary,Winning,False,Republican Party (United States),Norris Cotton,29.761,40.63
+1954,New Hampshire (special),Republican primary results,Primary,Candidate,True,Republican Party (United States),Robert W. Upton,"23,778",32.47
+1954,New Hampshire (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Wesley Powell,"19,704",26.90
+1954,New Hampshire (special),Republican primary results,Primary,Total,False,,,"73,243",100.00
 1954,New Jersey,1954 Republican Senate primary,Primary,Winning,False,Republican Party (US),Clifford Case,"336,514",100.00%
 1954,New Jersey,1954 Republican Senate primary,Primary,Total,False,,,"336,514",100.00%
 1954,New Jersey,1954 Democratic Senate primary,Primary,Winning,False,Democratic Party (US),Charles R. Howell,"230,250",100.00%
@@ -138,8 +138,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Oklahoma,Republican primary runoff,Primary,Winning,False,Republican Party (United States),Fred M. Mock,"22,340",53.43%
 1954,Oklahoma,Republican primary runoff,Primary,Candidate,False,Republican Party (United States),Raymond H. Fields,"19,471",46.57%
 1954,Oklahoma,Republican primary runoff,Primary,Total,False,,,"41,811",100.00%
-1954,Rhode Island,Democratic primary results{{sfn|Rhode Island Count Book|1954|p=5,Primary,Winning,True,Democratic Party (United States),Theodore F. Green,unopposed,
-1954,Rhode Island,Republican primary results{{sfn|Rhode Island Count Book|1954|p=10,Primary,Winning,False,Republican Party (United States),Walter I. Sundlun,unopposed,
+1954,Rhode Island,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Theodore F. Green,unopposed,
+1954,Rhode Island,Republican primary results,Primary,Winning,False,Republican Party (United States),Walter I. Sundlun,unopposed,
 1954,Tennessee,Democratic Party primary results,Primary,Winning,True,Democratic Party (United States),Estes Kefauver,"440,497",68.19%
 1954,Tennessee,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),James Patrick Sutton,"186,363",28.85%
 1954,Tennessee,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Edward Brown,"9,644",1.49%
@@ -148,11 +148,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1954,Tennessee,Republican Party primary results,Primary,Winning,False,Republican Party (United States),Ray H. Jenkins,"45,015",81.74%
 1954,Tennessee,Republican Party primary results,Primary,Candidate,False,Republican Party (United States),Robert C. Gregory,"10,053",18.26%
 1954,Tennessee,Republican Party primary results,Primary,Total,False,,,"55,068",100.00%
-1954,West Virginia,Democratic primary results{{sfn|West Virginia Blue Book|1954|p=636,Primary,Winning,True,Democratic Party (United States),Matthew M. Neely,"165,207",75.10
-1954,West Virginia,Democratic primary results{{sfn|West Virginia Blue Book|1954|p=636,Primary,Candidate,False,Democratic Party (United States),Sam B. Chilton,"34,288",15.59
-1954,West Virginia,Democratic primary results{{sfn|West Virginia Blue Book|1954|p=636,Primary,Candidate,False,Democratic Party (United States),Homer H. May,"10,270",4.67
-1954,West Virginia,Democratic primary results{{sfn|West Virginia Blue Book|1954|p=636,Primary,Candidate,False,Democratic Party (United States),Roy A. Warden,"10,211",4.64
-1954,West Virginia,Democratic primary results{{sfn|West Virginia Blue Book|1954|p=636,Primary,Total,False,,,"219,976",100.00
-1954,West Virginia,Republican primary results{{sfn|West Virginia Blue Book|1954|p=643,Primary,Winning,False,Republican Party (United States),[[Thomas Sweeney (West Virginia politician),"72,891",66.06
-1954,West Virginia,Republican primary results{{sfn|West Virginia Blue Book|1954|p=643,Primary,Candidate,False,Republican Party (United States),Latelle M. LaFollette,"37,449",33.94
-1954,West Virginia,Republican primary results{{sfn|West Virginia Blue Book|1954|p=643,Primary,Total,False,,,"110,340",100.00
+1954,West Virginia,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Matthew M. Neely,"165,207",75.10
+1954,West Virginia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Sam B. Chilton,"34,288",15.59
+1954,West Virginia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Homer H. May,"10,270",4.67
+1954,West Virginia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Roy A. Warden,"10,211",4.64
+1954,West Virginia,Democratic primary results,Primary,Total,False,,,"219,976",100.00
+1954,West Virginia,Republican primary results,Primary,Winning,False,Republican Party (United States),Thomas Sweeney,"72,891",66.06
+1954,West Virginia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Latelle M. LaFollette,"37,449",33.94
+1954,West Virginia,Republican primary results,Primary,Total,False,,,"110,340",100.00

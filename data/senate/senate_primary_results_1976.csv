@@ -20,7 +20,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1976,California,1976 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Michael A. Hirt,"9,941",0.43%
 1976,California,1976 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Hannibal C. Burchette V,"6,222",0.27%
 1976,California,1976 Republican U.S. Senate primary,Primary,Total,False,,,"2,318,594",100.00%
-1976,Florida,"Republican Primary – September 7, 1976",Primary,Candidate,False,Republican Party (United States),John Grady,"164,644",54.51%
+1976,Florida,"Republican Primary – September 7, 1976",Primary,Winning,False,Republican Party (United States),John Grady,"164,644",54.51%
 1976,Florida,"Republican Primary – September 7, 1976",Primary,Candidate,False,Republican Party (United States),Walter Sims,"74,684",24.73%
 1976,Florida,"Republican Primary – September 7, 1976",Primary,Candidate,False,Republican Party (United States),Helen S. Hansel,"62,718",20.76%
 1976,Florida,"Republican Primary – September 7, 1976",Primary,Total,False,,,"414,207",100
@@ -49,19 +49,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1976,Minnesota,Democratic primary election results,Primary,Winning,True,Minnesota Democratic–Farmer–Labor Party,Hubert H. Humphrey,"317,632",91.3%
 1976,Minnesota,Democratic primary election results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,Dick Bullock,"30,262",8.7%
 1976,Minnesota,Democratic primary election results,Primary,Total,False,,,"347,894",100.0%
-1976,Minnesota,Republican primary election results,Primary,Winning,False,Independent-Republicans of Minnesota,[[Gerald Brekke,"76,183",54.5%
+1976,Minnesota,Republican primary election results,Primary,Winning,False,Independent-Republicans of Minnesota,Jerry Brekke,"76,183",54.5%
 1976,Minnesota,Republican primary election results,Primary,Candidate,False,Independent-Republicans of Minnesota,"Richard ""Dick"" Franson","32,115",23.0%
 1976,Minnesota,Republican primary election results,Primary,Candidate,False,Independent-Republicans of Minnesota,John H. Glover,"13,014",9.3%
-1976,Minnesota,Republican primary election results,Primary,Candidate,False,Independent-Republicans of Minnesota,[[Roland Riemers,"9,307",6.7%
+1976,Minnesota,Republican primary election results,Primary,Candidate,False,Independent-Republicans of Minnesota,"Roland ""Butch"" Riemers","9,307",6.7%
 1976,Minnesota,Republican primary election results,Primary,Candidate,False,Independent-Republicans of Minnesota,Bea Mooney,"9,150",6.5%
 1976,Minnesota,Republican primary election results,Primary,Total,False,,,"139,769",100.0%
 1976,Mississippi,1976 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),John C. Stennis,"157,943",85.39
 1976,Mississippi,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),E. Michael Marks,"27,016",14.61
 1976,Mississippi,1976 Democratic U.S. Senate primary,Primary,Total,False,,,"184,959",100.00%
-1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Jerry Litton †,"401,822",45.40%
+1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Winning,False,Jerry Litton,Democratic Party (United States),"401,822",45.40%
 1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Warren Hearnes,"233,544",26.38%
-1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),[[James W. Symington,"222,681",25.16%
-1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),[[Charles Wheeler (politician),"10,894",1.23%
+1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),James Symington,"222,681",25.16%
+1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Charles Wheeler,"10,894",1.23%
 1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),William McKinley Thomas,"4,865",0.55%
 1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Lee C. Sutton,"4,784",0.54%
 1976,Missouri,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Norman Tucker,"1,923",0.22%
@@ -92,15 +92,15 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1976,New Jersey,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Harrison A. Williams,"378,553",85.12
 1976,New Jersey,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Stephen J. Foley,"66,178",14.88
 1976,New Jersey,Democratic primary results,Primary,Total,False,,,"444,731",100.00
-1976,New Jersey,Republican primary results,Primary,Winning,False,Republican Party (United States),[[David A. Norcross,"196,457",68.34%
+1976,New Jersey,Republican primary results,Primary,Winning,False,Republican Party (United States),David F. Norcross,"196,457",68.34%
 1976,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),Martin E. Wendelken,"45,472",15.82%
 1976,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),James E. Parker,"27,672",9.63%
 1976,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),N. Leonard Smith,"17,892",6.22%
 1976,New Jersey,Republican primary results,Primary,Total,False,,,"287,493",100.00
 1976,New York,1976 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (United States),James L. Buckley,"242,257",70.45
-1976,New York,1976 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),[[Peter A. Peyser,"101,629",29.55
+1976,New York,1976 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Peter Peyser,"101,629",29.55
 1976,New York,1976 Republican U.S. Senate primary,Primary,Total,False,,,"343,886",100.00
-1976,New York,1976 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),[[Daniel Patrick Moynihan,"333,697",36.41%
+1976,New York,1976 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Pat Moynihan,"333,697",36.41%
 1976,New York,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Bella Abzug,"323,705",35.32%
 1976,New York,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Ramsey Clark,"94,191",10.28%
 1976,New York,1976 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Paul O'Dwyer,"82,689",9.02%

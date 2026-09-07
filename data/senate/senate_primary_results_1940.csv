@@ -26,7 +26,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,California,Primary election results,Primary,Winning,False,Prohibition Party (United States),Fred Dyster,"1,314",77.66%
 1940,California,Primary election results,Primary,Candidate,False,Republican Party (United States),Hiram Johnson (incumbent) (write-in),378,22.34%
 1940,California,Primary election results,Primary,Total,False,,,"1,692",100.00%
-1940,Florida,1940 Democratic U.S. Senate primary,Primary,Candidate,True,Democratic Party (United States),Charles O. Andrews,"179,195",40.92%
+1940,Florida,1940 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),Charles O. Andrews,"179,195",40.92%
 1940,Florida,1940 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Jerry W. Carter,"80,869",18.47%
 1940,Florida,1940 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Bernarr Macfadden,"14,553",16.32%
 1940,Florida,1940 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Fred P. Cone,"68,584",15.66%
@@ -37,7 +37,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Idaho (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),James R. Bothwell,"17,935",33.80
 1940,Idaho (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),George E. Donart,"16,145",30.42
 1940,Idaho (special),Democratic primary results,Primary,Total,False,,,"53,064",
-1940,Idaho (special),Republican primary results,Primary,Winning,False,Republican Party (United States),[[John Thomas (Idaho politician),"32,732",60.66
+1940,Idaho (special),Republican primary results,Primary,Winning,False,Republican Party (United States),John Thomas,"32,732",60.66
 1940,Idaho (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Abe McGregor Goff,"7,476",13.86
 1940,Idaho (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),"J. D. ""Cy"" Price","4,647",8.61
 1940,Idaho (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),E. W. Sinclair,"4,021",7.45
@@ -58,7 +58,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Kentucky (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Jack Harrod,4189,1.88
 1940,Kentucky (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John J. Thobe,3439,1.54
 1940,Kentucky (special),Democratic primary results,Primary,Total,False,,,222906,100.00
-1940,Maine,1940 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),[[Ralph Owen Brewster,"70,623",58.88%
+1940,Maine,1940 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Owen Brewster,"70,623",58.88%
 1940,Maine,1940 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Lewis O. Barrows,"49,327",41.12%
 1940,Maine,1940 Republican U.S. Senate primary,Primary,Total,False,,,"119,950",100.00%
 1940,Maine,1940 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Louis J. Brann,"23,015",100.00%
@@ -79,7 +79,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,Michigan,1940 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (US),Arthur Vandenberg,"467,314",89.88%
 1940,Michigan,1940 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Bowen R. Gover,"52,645",10.13%
 1940,Michigan,1940 Republican U.S. Senate primary,Primary,Total,False,,,"519,959",100.00%
-1940,Michigan,1940 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),[[Frank FitzGerald (judge),"209,809",63.22%
+1940,Michigan,1940 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),Frank FitzGerald,"209,809",63.22%
 1940,Michigan,1940 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Michael J. Hart,"38,658",11.65%
 1940,Michigan,1940 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Louis B. Ward,"37,258",11.23%
 1940,Michigan,1940 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Ralph W. Liddy,"27,498",8.29%
@@ -146,14 +146,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1940,North Dakota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Lynn Frazier (inc.),"48,441",31.82%
 1940,North Dakota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Thomas E. Whelan,"42,271",27.76%
 1940,North Dakota,Republican primary results,Primary,Total,False,,,"152,250",100.00%
-1940,Ohio,1940 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),[[John McSweeney (Ohio politician),"272,690",61.62%
+1940,Ohio,1940 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),John McSweeney,"272,690",61.62%
 1940,Ohio,1940 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Herbert S. Bigelow,"169,818",38.38%
 1940,Ohio,1940 Democratic Senate primary,Primary,Total,False,,,"442,508",100.00%
 1940,Ohio,1940 Republican Senate primary,Primary,Winning,False,Republican Party (United States),Harold Hitz Burton,"303,339",52.85%
 1940,Ohio,1940 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Dudley A. White,"235,344",41.01%
 1940,Ohio,1940 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Charles E. Wharton,"35,258",6.14%
 1940,Ohio,1940 Republican Senate primary,Primary,Total,False,,,"573,941",100.00%
-1940,Tennessee,1940 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),[[Kenneth McKellar (politician),"230,055",91.54%
+1940,Tennessee,1940 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Kenneth McKellar,"230,055",91.54%
 1940,Tennessee,1940 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),John Randolph Neal Jr.,"14,583",5.80%
 1940,Tennessee,1940 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Claude C. Tolen,"6,671",2.66%
 1940,Tennessee,1940 Democratic Senate primary,Primary,Total,False,,,"251,309",100.00%

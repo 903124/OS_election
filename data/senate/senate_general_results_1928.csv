@@ -1,12 +1,22 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
 1928,Arizona,"United States Senate election in Arizona, 1928",General,Winning,True,Democratic Party (United States),Henry F. Ashurst,"47,013",54.25%
 1928,Arizona,"United States Senate election in Arizona, 1928",General,Candidate,False,Republican Party (United States),Ralph H. Cameron,"39,651",45.75%
+1928,California,1928 United States Senate election in California,General,Winning,True,Republican Party (United States),Hiram Johnson,"1,148,397",74.11%
+1928,California,1928 United States Senate election in California,General,Candidate,False,Democratic Party (United States),Minor Moore,"282,411",18.23%
+1928,California,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (United States),Charles H. Randall,"92,106",5.94%
+1928,California,1928 United States Senate election in California,General,Candidate,False,Socialist Party USA,Lena Morrow Lewis,"26,624",1.72%
 1928,California,1928 United States Senate election in California,General,Total,False,,,"1,549,538",100.00%
+1928,Connecticut,1928 U.S. Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
+1928,Connecticut,1928 U.S. Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.14%
+1928,Connecticut,1928 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F. Plunkett,"3,014",0.55%
 1928,Connecticut,1928 U.S. Senate election in Connecticut,General,Total,False,,,"551,401",100.00%
+1928,Delaware,1928 U.S. Senate election in Delaware,General,Winning,False,Republican Party (United States),John G. Townsend Jr.,"63,725",60.95%
+1928,Delaware,1928 U.S. Senate election in Delaware,General,Candidate,True,Democratic Party (United States),Thomas F. Bayard Jr.,"40,828",39.05%
 1928,Delaware,1928 U.S. Senate election in Delaware,General,Total,False,,,"104,553",100.00%
-1928,Florida,1928 U.S. Senate election in Florida,General,Candidate,False,Republican Party (United States),[[Barclay Harding Warburton I,"70,633",31.47%
+1928,Florida,1928 U.S. Senate election in Florida,General,Winning,True,Democratic Party (United States),Park Trammell,"153,816",68.53%
+1928,Florida,1928 U.S. Senate election in Florida,General,Candidate,False,Republican Party (United States),Barclay Warburton,"70,633",31.47%
 1928,Florida,1928 U.S. Senate election in Florida,General,Total,False,,,"224,449",100.00%
-1928,Idaho (special),1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56
+1928,Idaho (special),1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),John Thomas,"90,922",62.56
 1928,Idaho (special),1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase Clark,"53,399",36.74
 1928,Idaho (special),1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,C. J. Lundt,"1,016",0.70
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (United States),Otis F. Glenn,"1,594,031",54.46
@@ -14,11 +24,24 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (United States),G. A. Jenning,"1,463",0.05
+1928,Indiana,1928 U.S. Senate election in Indiana,General,Winning,False,Republican Party (United States),Arthur R. Robinson,"782,144",55.30%
+1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Democratic Party (United States),Albert Stump,"623,996",44.12%
+1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Prohibition Party (United States),William H. Harris,"4,033",0.29%
+1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Socialist Party USA,Philip K. Reinbold,"3,346",0.24%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Socialist Labor Party (United States),Charles Ginsberg,443,0.03%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Communist Party USA,William F. Jackson,327,0.02%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Total,False,,,"1,414,440",100.00%
+1928,Maine,1928 U.S. Senate election in Maine,General,Winning,False,Republican Party (United States),Frederick Hale,"145,501",69.64%
+1928,Maine,1928 U.S. Senate election in Maine,General,Candidate,False,Democratic Party (United States),Herbert E. Holmes,"63,429",30.36%
 1928,Maine,1928 U.S. Senate election in Maine,General,Total,False,,,"208,930",100.00%
+1928,Maryland,1928 U.S. Senate election in Maryland,General,Winning,False,Republican Party (United States),Phillips Lee Goldsborough,"256,224",54.05%
+1928,Maryland,1928 U.S. Senate election in Maryland,General,Candidate,False,Democratic Party (United States),William Cabell Bruce (inc.),"214,447",45.24%
+1928,Maryland,1928 U.S. Senate election in Maryland,General,Candidate,False,Socialist Party (United States),William A. Toole,"2,026",0.43%
 1928,Maryland,1928 U.S. Senate election in Maryland,General,Total,False,,,"474,067",100.00%
+1928,Massachusetts,1928 U.S. Senate election in Massachusetts,General,Winning,True,Democratic Party (United States),David I. Walsh,"818,055",53.65
+1928,Massachusetts,1928 U.S. Senate election in Massachusetts,General,Candidate,False,Republican Party (United States),Benjamin Loring Young,"693,563",45.48
+1928,Massachusetts,1928 U.S. Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred Baker Lewis,"7,675",0.50
+1928,Massachusetts,1928 U.S. Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
 1928,Massachusetts,1928 U.S. Senate election in Massachusetts,General,Total,False,,,"1,524,914",100.00%
 1928,Michigan,1928 U.S. Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur H. Vandenberg,"977,893",71.79%
 1928,Michigan,1928 U.S. Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
@@ -46,912 +69,67 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Minnesota,General election results,General,Candidate,False,Republican Party of Minnesota,Arthur E. Nelson,"342,992",33.71%
 1928,Minnesota,General election results,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,280",0.91%
 1928,Minnesota,General election results,General,Total,False,,,"1,017,441",100.00%
-1928,Mississippi,1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,Mississippi,1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,Mississippi,1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,Mississippi,1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,Mississippi,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,Mississippi,1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,Mississippi,1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,Mississippi,1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,Mississippi,1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,Mississippi,1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,Mississippi,1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,Mississippi,1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,Mississippi,1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,Mississippi,1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,Mississippi,1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,Mississippi,1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,Mississippi,1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,Mississippi,1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,Mississippi,1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,Mississippi,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,Mississippi,1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,Mississippi,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,Mississippi,1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,Mississippi,1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,Mississippi,1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,Mississippi,1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,Mississippi,1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,Mississippi,1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,Mississippi,1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,Mississippi,1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,Mississippi,1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,Mississippi,1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,Mississippi,1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,Mississippi,1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,Mississippi,1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,Mississippi,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,Mississippi,1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,Mississippi,1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,Mississippi,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,Mississippi,1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,Mississippi,1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,Mississippi,1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,Mississippi,1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,Mississippi,1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,Mississippi,1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,Mississippi,1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,Mississippi,1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,Mississippi,1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,Mississippi,1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,Mississippi,1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,Mississippi,1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,Mississippi,1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,Mississippi,1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,Mississippi,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,Mississippi,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,Mississippi,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,Mississippi,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,Mississippi,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,Mississippi,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,Mississippi,1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,Mississippi,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,Mississippi,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,Mississippi,1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,Mississippi,1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,Mississippi,1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,Mississippi,1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,Mississippi,1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,Mississippi,1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,Mississippi,1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,Mississippi,1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,Mississippi,1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,Mississippi,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,Mississippi,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,Mississippi,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,Mississippi,Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,Mississippi,Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,Mississippi,Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,Mississippi,Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,Mississippi,Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,Mississippi,Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,Mississippi,Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,Mississippi,Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,Mississippi,Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,Mississippi,General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,Mississippi,General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,Mississippi,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,Mississippi,General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,Mississippi,General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,Mississippi,General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,Mississippi,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,Mississippi,General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,Mississippi,General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,Mississippi,General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,Mississippi,1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,Mississippi,1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,Mississippi,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,Mississippi,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,Mississippi,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,Mississippi,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,Mississippi,1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,Mississippi,1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,Mississippi,1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,Mississippi,1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,Mississippi,1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,Mississippi,1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,Mississippi,1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,Mississippi,1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,Mississippi,1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,Mississippi,1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,Mississippi,1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,Mississippi,1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,Mississippi,1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,Mississippi,1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,Mississippi,1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,Mississippi,1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,Mississippi,1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,Mississippi,1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,Mississippi,1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
+1928,Missouri,1928 U.S. Senate election in Missouri,General,Winning,False,Republican Party (United States),Roscoe C. Patterson,"787,499",51.91%
+1928,Missouri,1928 U.S. Senate election in Missouri,General,Candidate,False,Democratic Party (United States),Charles M. Hay,"726,322",47.88%
+1928,Missouri,1928 U.S. Senate election in Missouri,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
+1928,Missouri,1928 U.S. Senate election in Missouri,General,Candidate,False,Socialist Labor Party of America,William Wesley Cox,257,0.02%
 1928,Missouri,1928 U.S. Senate election in Missouri,General,Total,False,,,"1,516,923",100.00%
-1928,Montana,"United States Senate election in Montana, 1928",General,Winning,False,Democratic Party (United States),Burton K. Wheeler ([[incumbent,"103,655",53.20%
+1928,Montana,"United States Senate election in Montana, 1928",General,Winning,False,Democratic Party (United States),Burton K. Wheeler (inc.),"103,655",53.20%
 1928,Montana,"United States Senate election in Montana, 1928",General,Candidate,False,Republican Party (United States),Joseph M. Dixon,"91,185",46.80%
-1928,Nebraska,1928 United States Senate election in Nebraska,General,Winning,False,Republican Party (United States),Robert B. Howell ([[incumbent,"324,014",61.28%
+1928,Nebraska,1928 United States Senate election in Nebraska,General,Winning,False,Republican Party (United States),Robert B. Howell (inc.),"324,014",61.28%
 1928,Nebraska,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),Richard Lee Metcalfe,"204,737",38.72%
 1928,Nebraska,1928 United States Senate election in Nebraska,General,Write-in,False,,,1,0.00%
 1928,Nebraska,1928 United States Senate election in Nebraska,General,Total,False,,,"528,752",100.00%
-1928,Nevada,1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,Nevada,1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,Nevada,1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,Nevada,1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,Nevada,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,Nevada,1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,Nevada,1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,Nevada,1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,Nevada,1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,Nevada,1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,Nevada,1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,Nevada,1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,Nevada,1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,Nevada,1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,Nevada,1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,Nevada,1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,Nevada,1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,Nevada,1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,Nevada,1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,Nevada,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,Nevada,1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,Nevada,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,Nevada,1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,Nevada,1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,Nevada,1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,Nevada,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,Nevada,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,Nevada,1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,Nevada,1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,Nevada,1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,Nevada,1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,Nevada,1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,Nevada,1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,Nevada,1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,Nevada,1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,Nevada,1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,Nevada,1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,Nevada,1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,Nevada,1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,Nevada,1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,Nevada,1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,Nevada,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,Nevada,1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,Nevada,1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,Nevada,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,Nevada,1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,Nevada,1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,Nevada,1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,Nevada,1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,Nevada,1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,Nevada,1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,Nevada,1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,Nevada,1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,Nevada,1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,Nevada,1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,Nevada,1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,Nevada,1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,Nevada,1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,Nevada,1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,Nevada,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,Nevada,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,Nevada,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,Nevada,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,Nevada,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,Nevada,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,Nevada,1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,Nevada,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,Nevada,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,Nevada,1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,Nevada,1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,Nevada,1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,Nevada,1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,Nevada,1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,Nevada,1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,Nevada,1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,Nevada,1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,Nevada,1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,Nevada,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,Nevada,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,Nevada,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,Nevada,Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,Nevada,Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,Nevada,Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,Nevada,Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,Nevada,Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,Nevada,Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,Nevada,Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,Nevada,Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,Nevada,Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,Nevada,General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,Nevada,General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,Nevada,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,Nevada,General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,Nevada,General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,Nevada,General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,Nevada,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,Nevada,General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,Nevada,General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,Nevada,General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,Nevada,1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,Nevada,1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,Nevada,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,Nevada,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,Nevada,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,Nevada,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,Nevada,1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,Nevada,1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,Nevada,1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,Nevada,1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,Nevada,1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,Nevada,1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,Nevada,1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,Nevada,1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,Nevada,1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,Nevada,1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,Nevada,1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,Nevada,1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,Nevada,1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,Nevada,1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,Nevada,1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,Nevada,1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,Nevada,1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,Nevada,1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,Nevada,1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party (US),Charlotte L. Bohlin,"2,267",0.16%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
 1928,New Jersey,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,New Mexico (special),1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,New Mexico (special),1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,New Mexico (special),1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,New Mexico (special),1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,New Mexico (special),1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,New Mexico (special),1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,New Mexico (special),1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,New Mexico (special),1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,New Mexico (special),1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,New Mexico (special),1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,New Mexico (special),1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,New Mexico (special),1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,New Mexico (special),1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,New Mexico (special),1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,New Mexico (special),1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,New Mexico (special),1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,New Mexico (special),1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,New Mexico (special),1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,New Mexico (special),1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,New Mexico (special),1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,New Mexico (special),1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,New Mexico (special),1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,New Mexico (special),1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,New Mexico (special),1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,New Mexico (special),1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,New Mexico (special),1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,New Mexico (special),1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,New Mexico (special),1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,New Mexico (special),1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,New Mexico (special),1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,New Mexico (special),1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,New Mexico (special),1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,New Mexico (special),1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,New Mexico (special),1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,New Mexico (special),1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,New Mexico (special),1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,New Mexico (special),1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,New Mexico (special),1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,New Mexico (special),1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,New Mexico (special),1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,New Mexico (special),1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,New Mexico (special),1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,New Mexico (special),1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,New Mexico (special),1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,New Mexico (special),1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,New Mexico (special),1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,New Mexico (special),1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,New Mexico (special),1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,New Mexico (special),1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,New Mexico (special),1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,New Mexico (special),1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,New Mexico (special),1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,New Mexico (special),1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,New Mexico (special),1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,New Mexico (special),1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,New Mexico (special),1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,New Mexico (special),1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,New Mexico (special),1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,New Mexico (special),1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,New Mexico (special),1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,New Mexico (special),1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,New Mexico (special),1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,New Mexico (special),1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,New Mexico (special),1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,New Mexico (special),1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,New Mexico (special),1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,New Mexico (special),1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,New Mexico (special),1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,New Mexico (special),1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,New Mexico (special),1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,New Mexico (special),1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,New Mexico (special),1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,New Mexico (special),1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,New Mexico (special),1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,New Mexico (special),Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,New Mexico (special),Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,New Mexico (special),Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,New Mexico (special),Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,New Mexico (special),Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,New Mexico (special),Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,New Mexico (special),Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,New Mexico (special),Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,New Mexico (special),Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,New Mexico (special),General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,New Mexico (special),General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,New Mexico (special),General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,New Mexico (special),General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,New Mexico (special),General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,New Mexico (special),General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,New Mexico (special),General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,New Mexico (special),General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,New Mexico (special),General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,New Mexico (special),General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,New Mexico (special),1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,New Mexico (special),1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,New Mexico (special),1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,New Mexico (special),1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,New Mexico (special),1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,New Mexico (special),1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,New Mexico (special),1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,New Mexico (special),1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,New Mexico (special),1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,New Mexico (special),1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,New Mexico (special),1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,New Mexico (special),1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,New Mexico (special),1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,New Mexico (special),1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,New Mexico (special),1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,New Mexico (special),1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,New Mexico (special),1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,New Mexico (special),1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,New Mexico (special),1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,New Mexico (special),1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,New Mexico (special),1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,New Mexico (special),1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,New Mexico (special),1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,New Mexico (special),1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,New Mexico (special),1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
-1928,New Mexico,1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,New Mexico,1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,New Mexico,1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,New Mexico,1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,New Mexico,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,New Mexico,1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,New Mexico,1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,New Mexico,1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,New Mexico,1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,New Mexico,1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,New Mexico,1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,New Mexico,1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,New Mexico,1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,New Mexico,1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,New Mexico,1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,New Mexico,1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,New Mexico,1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,New Mexico,1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,New Mexico,1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,New Mexico,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,New Mexico,1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,New Mexico,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,New Mexico,1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,New Mexico,1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,New Mexico,1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,New Mexico,1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,New Mexico,1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,New Mexico,1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,New Mexico,1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,New Mexico,1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,New Mexico,1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,New Mexico,1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,New Mexico,1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,New Mexico,1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,New Mexico,1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,New Mexico,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,New Mexico,1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,New Mexico,1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,New Mexico,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,New Mexico,1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,New Mexico,1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,New Mexico,1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,New Mexico,1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,New Mexico,1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,New Mexico,1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,New Mexico,1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,New Mexico,1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,New Mexico,1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,New Mexico,1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,New Mexico,1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,New Mexico,1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,New Mexico,1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,New Mexico,1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,New Mexico,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,New Mexico,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,New Mexico,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,New Mexico,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,New Mexico,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,New Mexico,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,New Mexico,1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,New Mexico,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,New Mexico,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,New Mexico,1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,New Mexico,1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,New Mexico,1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,New Mexico,1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,New Mexico,1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,New Mexico,1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,New Mexico,1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,New Mexico,1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,New Mexico,1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,New Mexico,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,New Mexico,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,New Mexico,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,New Mexico,Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,New Mexico,Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,New Mexico,Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,New Mexico,Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,New Mexico,Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,New Mexico,Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,New Mexico,Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,New Mexico,Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,New Mexico,Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,New Mexico,General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,New Mexico,General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,New Mexico,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,New Mexico,General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,New Mexico,General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,New Mexico,General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,New Mexico,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,New Mexico,General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,New Mexico,General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,New Mexico,General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,New Mexico,1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,New Mexico,1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,New Mexico,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,New Mexico,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,New Mexico,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,New Mexico,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,New Mexico,1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,New Mexico,1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,New Mexico,1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,New Mexico,1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,New Mexico,1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,New Mexico,1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,New Mexico,1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,New Mexico,1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,New Mexico,1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,New Mexico,1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,New Mexico,1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,New Mexico,1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,New Mexico,1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,New Mexico,1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,New Mexico,1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,New Mexico,1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,New Mexico,1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,New Mexico,1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,New Mexico,1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
-1928,North Dakota,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
+1928,North Dakota,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier (inc.),"159,940",79.63%
 1928,North Dakota,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
 1928,North Dakota,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
+1928,Ohio,1928 U.S. Senate election in Ohio,General,Winning,True,Republican Party (United States),Simeon Fess,"1,412,805",60.73%
+1928,Ohio,1928 U.S. Senate election in Ohio,General,Candidate,False,Democratic Party (United States),Charles Truax,"908,952",39.07%
 1928,Ohio,1928 U.S. Senate election in Ohio,General,Candidate,False,Communist Party (United States),Joseph Willnecker,"2,061",0.09%
 1928,Ohio,1928 U.S. Senate election in Ohio,General,Candidate,False,Socialist Labor Party (United States),James Goward,"1,384",0.06%
 1928,Ohio,1928 U.S. Senate election in Ohio,General,Candidate,False,Prohibition Party (United States),J. Wetherell Hutton,"1,003",0.04%
 1928,Ohio,1928 U.S. Senate election in Ohio,General,Total,False,,,"2,326,205",100.00%
+1928,Ohio (special),1928 U.S. Senate special election in Ohio,General,Winning,False,Republican Party (United States),Theodore E. Burton,"1,429,554",62.43%
+1928,Ohio (special),1928 U.S. Senate special election in Ohio,General,Candidate,False,Democratic Party (United States),Graham P. Hunt,"856,807",37.42%
 1928,Ohio (special),1928 U.S. Senate special election in Ohio,General,Candidate,False,Communist Party (United States),Israel Amter,"2,062",0.09%
+1928,Ohio (special),1928 U.S. Senate special election in Ohio,General,Candidate,False,Socialist Labor Party (United States),Anna K. Storck,"1,389",0.06%
 1928,Ohio (special),1928 U.S. Senate special election in Ohio,General,Total,False,,,"2,289,812",100.00%
+1928,Pennsylvania,General election results,General,Winning,False,Republican Party (US),David A. Reed (inc.),"1,948,646",64.38%
+1928,Pennsylvania,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
+1928,Pennsylvania,General election results,General,Candidate,False,Socialist Party USA,William J. Van Essen,"23,100",0.76%
+1928,Pennsylvania,General election results,General,Candidate,False,Prohibition Party (United States),Elisha K. Kane,"14,866",0.49%
 1928,Pennsylvania,General election results,General,Candidate,False,Socialist Labor Party of America,Charles Kutz,"7,524",0.25%
 1928,Pennsylvania,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
 1928,Pennsylvania,General election results,General,Candidate,False,Socialist Labor Party of America,William H. Thomas,"1,234",0.04%
 1928,Pennsylvania,General election results,General,Total,False,,,"3,026,864",100.00%
-1928,Rhode Island,1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,Rhode Island,1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,Rhode Island,1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,Rhode Island,1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,Rhode Island,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,Rhode Island,1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,Rhode Island,1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,Rhode Island,1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,Rhode Island,1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,Rhode Island,1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,Rhode Island,1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,Rhode Island,1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,Rhode Island,1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,Rhode Island,1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,Rhode Island,1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,Rhode Island,1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,Rhode Island,1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,Rhode Island,1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,Rhode Island,1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,Rhode Island,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,Rhode Island,1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,Rhode Island,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,Rhode Island,1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,Rhode Island,1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,Rhode Island,1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,Rhode Island,1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,Rhode Island,1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,Rhode Island,1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,Rhode Island,1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,Rhode Island,1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,Rhode Island,1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,Rhode Island,1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,Rhode Island,1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,Rhode Island,1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,Rhode Island,1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,Rhode Island,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,Rhode Island,1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,Rhode Island,1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,Rhode Island,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,Rhode Island,1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,Rhode Island,1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,Rhode Island,1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,Rhode Island,1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,Rhode Island,1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,Rhode Island,1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,Rhode Island,1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,Rhode Island,1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,Rhode Island,1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,Rhode Island,1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,Rhode Island,1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,Rhode Island,1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,Rhode Island,1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,Rhode Island,1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,Rhode Island,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,Rhode Island,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,Rhode Island,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,Rhode Island,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,Rhode Island,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,Rhode Island,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,Rhode Island,1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,Rhode Island,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,Rhode Island,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,Rhode Island,1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,Rhode Island,1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,Rhode Island,1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,Rhode Island,1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,Rhode Island,1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,Rhode Island,1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,Rhode Island,1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,Rhode Island,1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,Rhode Island,1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,Rhode Island,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,Rhode Island,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,Rhode Island,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,Rhode Island,Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,Rhode Island,Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,Rhode Island,Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,Rhode Island,Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,Rhode Island,Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,Rhode Island,Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,Rhode Island,Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,Rhode Island,Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,Rhode Island,Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,Rhode Island,General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,Rhode Island,General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,Rhode Island,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,Rhode Island,General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,Rhode Island,General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,Rhode Island,General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,Rhode Island,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,Rhode Island,General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,Rhode Island,General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,Rhode Island,General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,Rhode Island,1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,Rhode Island,1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,Rhode Island,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,Rhode Island,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,Rhode Island,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,Rhode Island,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,Rhode Island,1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,Rhode Island,1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,Rhode Island,1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,Rhode Island,1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,Rhode Island,1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,Rhode Island,1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,Rhode Island,1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,Rhode Island,1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,Rhode Island,1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,Rhode Island,1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,Rhode Island,1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,Rhode Island,1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,Rhode Island,1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,Rhode Island,1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,Rhode Island,1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,Rhode Island,1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,Rhode Island,1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,Rhode Island,1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,Rhode Island,1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
+1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Winning,False,Democratic Party (United States),Kenneth McKellar,"175,431",59.32%
+1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),James Alexander Fowler,"120,289",40.68%
 1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Total,False,,,"295,720",100.00%
 1928,Texas,1928 Democratic U.S. Senate runoff,General,Winning,False,Democratic Party (United States),Tom Connally,"320,071",55.39%
 1928,Texas,1928 Democratic U.S. Senate runoff,General,Candidate,True,Democratic Party (United States),Earle B. Mayfield,"257,747",44.61%
 1928,Texas,1928 Democratic U.S. Senate runoff,General,Total,False,,,"577,818",100.00%
+1928,Texas,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (United States),Tom Connally,"566,139",81.24%
+1928,Texas,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (United States),Thomas M. Kennerly,"129,910",18.64%
 1928,Texas,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party (United States),David Curran,690,0.10%
 1928,Texas,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (United States),John Rust,114,0.02%
 1928,Texas,1928 United States Senate election in Texas,General,Total,False,,,"696,853",100.00%
-1928,Utah,1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,Utah,1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,Utah,1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,Utah,1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,Utah,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,Utah,1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,Utah,1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,Utah,1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,Utah,1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,Utah,1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,Utah,1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,Utah,1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,Utah,1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,Utah,1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,Utah,1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,Utah,1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,Utah,1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,Utah,1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,Utah,1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,Utah,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,Utah,1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,Utah,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,Utah,1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,Utah,1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,Utah,1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,Utah,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,Utah,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,Utah,1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,Utah,1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,Utah,1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,Utah,1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,Utah,1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,Utah,1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,Utah,1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,Utah,1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,Utah,1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,Utah,1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,Utah,1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,Utah,1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,Utah,1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,Utah,1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,Utah,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,Utah,1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,Utah,1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,Utah,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,Utah,1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,Utah,1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,Utah,1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,Utah,1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,Utah,1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,Utah,1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,Utah,1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,Utah,1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,Utah,1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,Utah,1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,Utah,1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,Utah,1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,Utah,1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,Utah,1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,Utah,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,Utah,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,Utah,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,Utah,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,Utah,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,Utah,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,Utah,1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,Utah,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,Utah,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,Utah,1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,Utah,1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,Utah,1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,Utah,1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,Utah,1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,Utah,1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,Utah,1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,Utah,1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,Utah,1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,Utah,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,Utah,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,Utah,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,Utah,Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,Utah,Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,Utah,Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,Utah,Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,Utah,Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,Utah,Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,Utah,Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,Utah,Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,Utah,Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,Utah,General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,Utah,General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,Utah,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,Utah,General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,Utah,General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,Utah,General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,Utah,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,Utah,General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,Utah,General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,Utah,General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,Utah,1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,Utah,1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,Utah,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,Utah,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,Utah,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,Utah,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,Utah,1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,Utah,1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,Utah,1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,Utah,1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,Utah,1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,Utah,1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,Utah,1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,Utah,1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,Utah,1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,Utah,1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,Utah,1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,Utah,1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,Utah,1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,Utah,1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,Utah,1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,Utah,1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,Utah,1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,Utah,1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,Utah,1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
-1928,Vermont,"United States Senate election in Vermont, 1928",General,Winning,False,Republican Party (United States),Frank L. Greene ([[Incumbent,"93,136",71.55%
+1928,Vermont,"United States Senate election in Vermont, 1928",General,Winning,False,Republican Party (United States),Frank L. Greene (inc.),"93,136",71.55%
 1928,Vermont,"United States Senate election in Vermont, 1928",General,Candidate,False,Democratic Party (United States),Fred C. Martin,"37,030",28.45%
 1928,Vermont,"United States Senate election in Vermont, 1928",General,Total,False,,,"130,166",100.00%
-1928,Virginia,"United States Senate election in Virginia, 1928",General,Winning,False,Democratic Party (United States),Claude A. Swanson ([[incumbent,"275,425",99.84%
+1928,Virginia,"United States Senate election in Virginia, 1928",General,Winning,False,Democratic Party (United States),Claude A. Swanson (inc.),"275,425",99.84%
+1928,Washington,1928 U.S. Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence C. Dill,"261,524",53.42%
+1928,Washington,1928 U.S. Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
+1928,Washington,1928 U.S. Senate election in Washington,General,Candidate,False,Communist Party (US),Alex Noral,666,0.14%
 1928,Washington,1928 U.S. Senate election in Washington,General,Total,False,,,"496,688",100.00%
-1928,West Virginia,1928 United States Senate election in Arizona,General,Winning,True,Democratic Party (US),Henry F. Ashurst,"47,013",54.25%
-1928,West Virginia,1928 United States Senate election in Arizona,General,Candidate,False,Republican Party (US),Ralph H. Cameron,"39,651",45.75%
-1928,West Virginia,1928 United States Senate election in California,General,Winning,True,Republican Party (US),Hiram Johnson,"1,148,397",74.10%
-1928,West Virginia,1928 United States Senate election in California,General,Candidate,False,Democratic Party (US),Minor Moore,"282,411",18.22%
-1928,West Virginia,1928 United States Senate election in California,General,Candidate,False,Prohibition Party (US),Charles Hiram Randall,"92,106",5.94%
-1928,West Virginia,1928 United States Senate election in California,General,Candidate,False,Socialist Party of America,Lena Morrow Lewis,"26,624",1.72%
-1928,West Virginia,1928 United States Senate election in California,General,Candidate,False,Independent,[[Charlotte Anita Whitney,154,0.01%
-1928,West Virginia,1928 United States Senate election in Connecticut,General,Winning,False,Republican Party (US),Frederic C. Walcott,"296,958",53.86%
-1928,West Virginia,1928 United States Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Augustine Lonergan,"251,429",45.60%
-1928,West Virginia,1928 United States Senate election in Connecticut,General,Candidate,False,Socialist Party of America,Martin F Plunkett,"3,014",0.55%
-1928,West Virginia,1928 United States Senate election in Delaware,General,Winning,False,Republican Party (US),John G. Townsend Jr.,"63,725",60.95%
-1928,West Virginia,1928 United States Senate election in Delaware,General,Candidate,True,Democratic Party (US),Thomas F. Bayard Jr.,"40,828",39.05%
-1928,West Virginia,1928 United States Senate election in Florida,General,Winning,True,Democratic Party (US),Park Trammell,"153,816",68.53%
-1928,West Virginia,1928 United States Senate election in Florida,General,Candidate,False,Republican Party (US),Barclay H. Warburton,"70,633",31.47%
-1928,West Virginia,1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),[[John Thomas (Idaho politician),"90,922",62.56%
-1928,West Virginia,1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase A. Clark,"53,399",36.74%
-1928,West Virginia,1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,Lundt,"1,016",0.70%
-1928,West Virginia,1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (US),Otis F. Glenn,"1,594,031",54.46%
-1928,West Virginia,1928 United States Senate special election in Illinois,General,Candidate,False,Democratic Party (US),Anton Cermak,"1,315,338",44.94%
-1928,West Virginia,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44%
-1928,West Virginia,1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11%
-1928,West Virginia,1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (US),G. A. Jenning,"1,463",0.05%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Winning,True,Republican Party (US),Arthur Raymond Robinson,"782,144",55.30%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Candidate,False,Democratic Party (US),Albert Stump,"623,996",44.12%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (US),William H. Harris,"4,033",0.29%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Party of America,Philip K. Reinbold,"3,346",0.24%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Candidate,False,Socialist Labor Party (US),Charles Ginsberg,443,0.03%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Candidate,False,Workers Party of America,William F. Jackson,327,0.02%
-1928,West Virginia,1928 United States Senate election in Indiana,General,Candidate,False,National Party (United States),John Zalind,151,0.01%
-1928,West Virginia,1928 United States Senate election in Maine,General,Winning,False,Republican Party (US),[[Frederick Hale (U.S. senator),"245,501",79.47%
-1928,West Virginia,1928 United States Senate election in Maine,General,Candidate,False,Democratic Party (US),Herbert E. Holmes,"63,429",20.53%
-1928,West Virginia,1928 United States Senate election in Maryland,General,Winning,False,Republican Party (US),Phillips Lee Goldsborough,"256,224",54.05%
-1928,West Virginia,1928 United States Senate election in Maryland,General,Candidate,True,Democratic Party (US),William Cabell Bruce,"214,447",45.24%
-1928,West Virginia,1928 United States Senate election in Maryland,General,Candidate,False,Socialist Party of America,William A Toole,"2,026",0.43%
-1928,West Virginia,1928 United States Senate election in Maryland,General,Candidate,False,Labor Party of the United States,Robert W. Stevens,"1,370",0.29%
-1928,West Virginia,1928 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),David I. Walsh,"818,055",53.65
-1928,West Virginia,1928 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Benjamin Loring Young,"693,563",45.48
-1928,West Virginia,1928 United States Senate election in Massachusetts,General,Candidate,False,Socialist Party of America,Alfred B. Lewis,"7,675",0.50
-1928,West Virginia,1928 United States Senate election in Massachusetts,General,Candidate,False,Workers Party of America,John J. Ballam,"5,621",0.37
-1928,West Virginia,1928 United States Senate election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"977,893",71.79%
-1928,West Virginia,1928 United States Senate election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"376,592",27.65%
-1928,West Virginia,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Party of America,William L. Krieghoff,"2,796",0.21%
-1928,West Virginia,1928 United States Senate election in Michigan,General,Candidate,False,Workers Party of America,Ben A. Faulkner,"2,249",0.17%
-1928,West Virginia,1928 United States Senate election in Michigan,General,Candidate,False,Prohibition Party (US),Duly McCone,"1,927",0.14%
-1928,West Virginia,1928 United States Senate election in Michigan,General,Candidate,False,Socialist Labor Party (US),David Boyd,689,0.05%
-1928,West Virginia,1928 United States Senate special election in Michigan,General,Winning,True,Republican Party (US),Arthur Vandenberg,"974,203",72.03%
-1928,West Virginia,1928 United States Senate special election in Michigan,General,Candidate,False,Democratic Party (US),John W. Bailey,"375,673",27.77%
-1928,West Virginia,1928 United States Senate special election in Michigan,General,Candidate,False,Socialist Party of America,Francis W. Elliott,"2,682",0.20%
-1928,West Virginia,1928 United States Senate election in Minnesota,General,Winning,True,Farmer–Labor Party (Minnesota),Henrik Shipstead,"665,169",65.37%
-1928,West Virginia,1928 United States Senate election in Minnesota,General,Candidate,False,Republican Party (Minnesota),Arthur E. Nelson,"342,992",33.71%
-1928,West Virginia,1928 United States Senate election in Minnesota,General,Candidate,False,Workers (Communist) Party,Vincent R. Dunne,"9,380",0.92%
-1928,West Virginia,1928 United States Senate election in Mississippi,General,Winning,True,Democratic Party (US),Hubert D. Stephens,"111,180",100.00%
-1928,West Virginia,1928 Missouri United States Senate election,General,Winning,False,Republican Party (US),Roscoe C. Patterson,"787,499",51.91%
-1928,West Virginia,1928 Missouri United States Senate election,General,Candidate,False,Democratic Party (US),Charles M. Hay,"726,322",47.88%
-1928,West Virginia,1928 Missouri United States Senate election,General,Candidate,False,Socialist Party of America,Charles H. Harrison,"2,845",0.19%
-1928,West Virginia,1928 Missouri United States Senate election,General,Candidate,False,Socialist Labor Party (US),William Wesley Cox,257,0.02%
-1928,West Virginia,1928 United States Senate election in Montana,General,Winning,True,Democratic Party (US),Burton K. Wheeler,"103,655",53.20%
-1928,West Virginia,1928 United States Senate election in Montana,General,Candidate,False,Republican Party (US),Joseph M. Dixon,"91,185",46.80%
-1928,West Virginia,1928 United States Senate election in Nebraska,General,Winning,True,Republican Party (US),Robert B. Howell,"324,014",61.28%
-1928,West Virginia,1928 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (US),Richard L. Metcalfe,"204,737",38.72%
-1928,West Virginia,1928 United States Senate election in Nevada,General,Winning,True,Democratic Party (US),Key Pittman,"19,515",59.26%
-1928,West Virginia,1928 United States Senate election in Nevada,General,Candidate,False,Republican Party (US),Samuel Platt,"13,414",40.74%
-1928,West Virginia,1928 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),Hamilton Fish Kean,"841,752",57.87%
-1928,West Virginia,1928 United States Senate election in New Jersey,General,Candidate,True,Democratic Party (US),Edward I. Edwards,"608,623",41.84%
-1928,West Virginia,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Party of America,Charlotte L. Bohlin,"2,267",0.16%
-1928,West Virginia,1928 United States Senate election in New Jersey,General,Candidate,False,Workers Party of America,Albert Weisbrod,"1,333",0.09%
-1928,West Virginia,1928 United States Senate election in New Jersey,General,Candidate,False,Prohibition Party (US),Will D. Martin,372,0.03%
-1928,West Virginia,1928 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party (US),Frank Sanders,280,0.02%
-1928,West Virginia,1928 United States Senate special election in New Mexico,General,Winning,False,Republican Party (US),Octavio A. Larrazolo,"64,623",55.65%
-1928,West Virginia,1928 United States Senate special election in New Mexico,General,Candidate,False,Democratic Party (US),Juan N. Vigil,"51,495",44.35%
-1928,West Virginia,1928 United States Senate election in New Mexico,General,Winning,True,Republican Party (US),Bronson M. Cutting,"68,070",57.69%
-1928,West Virginia,1928 United States Senate election in New Mexico,General,Candidate,False,Democratic Party (US),Jethro S. Vaught,"49,913",42.31%
-1928,West Virginia,1928 United States Senate election in New York,General,Winning,True,Democratic Party (US),Royal S. Copeland,"2,084,273",49.08%
-1928,West Virginia,1928 United States Senate election in New York,General,Candidate,False,Republican Party (US),Alanson B. Houghton,"2,034,014",47.89%
-1928,West Virginia,1928 United States Senate election in New York,General,Candidate,False,Socialist Party of America,McAlister Coleman,"111,208",2.62%
-1928,West Virginia,1928 United States Senate election in New York,General,Candidate,False,Workers Party of America,Robert Minor,"11,956",0.28%
-1928,West Virginia,1928 United States Senate election in New York,General,Candidate,False,Socialist Labor Party (US),Henry Kuhn,"5,543",0.13%
-1928,West Virginia,1928 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Lynn Frazier ([[incumbent,"159,940",79.63%
-1928,West Virginia,1928 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"38,856",19.35%
-1928,West Virginia,1928 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,Alfred Knutson,"2,047",1.02%
-1928,West Virginia,Ohio General election,General,Winning,True,Republican Party (US),Simeon D. Fess,"1,412,805",60.73%
-1928,West Virginia,Ohio General election,General,Candidate,False,Democratic Party (US),Charles V. Truax,"908,952",39.07%
-1928,West Virginia,Ohio General election,General,Candidate,False,Independent,Joseph Willnecker,"2,061",0.09%
-1928,West Virginia,Ohio General election,General,Candidate,False,Independent,James Goward,"1,384",0.06%
-1928,West Virginia,Ohio General election,General,Candidate,False,Independent,J. Wetherell Hutton,"1,003",0.04%
-1928,West Virginia,Ohio special election,General,Winning,False,Republican Party (US),Theodore E. Burton,"1,429,554",62.43%
-1928,West Virginia,Ohio special election,General,Candidate,False,Democratic Party (US),Graham P. Hunt,"856,807",37.42%
-1928,West Virginia,Ohio special election,General,Candidate,False,Independent,Israel Amter,"2,062",0.09%
-1928,West Virginia,Ohio special election,General,Candidate,False,Independent,Anna K. Storck,"1,389",0.06%
-1928,West Virginia,General election results,General,Winning,False,Republican Party (US),David A. Reed ([[Incumbent,"1,948,646",64.38%
-1928,West Virginia,General election results,General,Winning,False,Republican Party (US),Felix Hebert,"119,228",50.57%
-1928,West Virginia,General election results,General,Candidate,False,Democratic Party (US),William N. McNair,"1,029,055",34.00%
-1928,West Virginia,General election results,General,Candidate,False,Socialist Party of America,William J. Van Essen,"23,100",0.76%
-1928,West Virginia,General election results,General,Candidate,False,Prohibition Party (US),Elisha K. Kane,"14,866",0.49%
-1928,West Virginia,General election results,General,Candidate,False,Socialist Labor Party (United States),Charles Kutz,"7,524",0.25%
-1928,West Virginia,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
-1928,West Virginia,General election results,General,Candidate,False,Socialist Labor Party (United States),William H. Thomas,"1,234",0.04%
-1928,West Virginia,General election results,General,Candidate,True,Democratic Party (US),Peter G. Gerry,"116,234",49.30%
-1928,West Virginia,General election results,General,Candidate,False,Workers Party of America,James P. Reid,313,0.13%
-1928,West Virginia,1928 United States Senate election in Tennessee,General,Winning,False,Democratic Party (US),[[Kenneth McKellar (politician),"175,329",59.32%
-1928,West Virginia,1928 United States Senate election in Tennessee,General,Candidate,False,Republican Party (US),James Alexander Fowler,"120,259",40.68%
-1928,West Virginia,1928 United States Senate election in Texas,General,Winning,False,Democratic Party (US),Tom Connally,"566,139",81.24%
-1928,West Virginia,1928 United States Senate election in Texas,General,Candidate,False,Republican Party (US),Thomas Martin Kennerly,"129,910",18.64%
-1928,West Virginia,1928 United States Senate election in Texas,General,Candidate,False,Socialist Party of America,David Curran,690,0.10%
-1928,West Virginia,1928 United States Senate election in Texas,General,Candidate,False,Communist Party (US),John Rust,114,0.02%
-1928,West Virginia,1928 United States Senate election in Utah,General,Winning,True,Democratic Party (US),William H. King,"97,436",55.52%
-1928,West Virginia,1928 United States Senate election in Utah,General,Candidate,False,Republican Party (US),Ernest Bamberger,"77,073",43.91%
-1928,West Virginia,1928 United States Senate election in Utah,General,Candidate,False,Socialist Party of America,Charles T. Stoney,998,0.57%
-1928,West Virginia,1928 United States Senate election in Vermont,General,Winning,True,Republican Party (US),Frank L. Greene,"93,136",71.55%
-1928,West Virginia,1928 United States Senate election in Vermont,General,Candidate,False,Democratic Party (US),Fred C. Martin,"37,030",28.45%
-1928,West Virginia,1928 United States Senate election in Virginia,General,Winning,False,Democratic Party (US),Claude A. Swanson ([[incumbent,"275,425",99.84%
-1928,West Virginia,1928 United States Senate election in Washington,General,Winning,True,Democratic Party (US),Clarence Dill,"261,524",53.42%
-1928,West Virginia,1928 United States Senate election in Washington,General,Candidate,False,Republican Party (US),Kenneth Mackintosh,"227,415",46.45%
-1928,West Virginia,1928 United States Senate election in Washington,General,Candidate,False,Workers (Communist) Party,Alex Noral,666,0.14%
-1928,West Virginia,1928 United States Senate election in West Virginia,General,Winning,False,Republican Party (US),Henry D. Hatfield,"327,266",50.68%
-1928,West Virginia,1928 United States Senate election in West Virginia,General,Candidate,True,Democratic Party (US),Matthew M. Neely,"317,620",49.18%
-1928,West Virginia,1928 United States Senate election in West Virginia,General,Candidate,False,Socialist Party of America,M. S. Holt,919,0.14%
-1928,West Virginia,1928 United States Senate election in Wisconsin,General,Winning,True,Republican Party (US),Robert M. La Follette Jr.,"635,379",85.56%
-1928,West Virginia,1928 United States Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
-1928,West Virginia,1928 United States Senate election in Wisconsin,General,Candidate,False,Prohibition Party (US),David W. Emerson,"21,359",2.88%
-1928,West Virginia,1928 United States Senate election in Wisconsin,General,Candidate,False,Workers Party of America,John Kasun,"1,463",0.20%
-1928,West Virginia,1928 United States Senate election in Wyoming,General,Winning,True,Democratic Party (US),John B. Kendrick,"43,032",53.50%
-1928,West Virginia,1928 United States Senate election in Wyoming,General,Candidate,False,Republican Party (US),Charles E. Winter,"37,076",46.09%
-1928,West Virginia,1928 United States Senate election in Wyoming,General,Candidate,False,Socialist Party of America,W. W. Wolfe,333,0.41%
+1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Winning,True,Republican Party (United States),Robert La Follette Jr.,"635,376",85.57%
+1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),William H. Markham,"81,302",10.95%
 1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Candidate,False,Prohibition Party (United States),David W. Emerson,"21,359",2.88%
+1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Candidate,False,Socialist Labor Party (United States),Richard Koeppel,"3,053",0.41%
 1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Candidate,False,Communist Party (United States),John Kasun,"1,463",0.20%
 1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Write-in,False,,,92,100.00%
 1928,Wisconsin,1928 U.S. Senate election in Wisconsin,General,Total,False,,,"742,645",100.00%

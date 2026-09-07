@@ -20,18 +20,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Colorado,Democratic primary results,Primary,Total,False,,,"153,525",100.00
 1984,Colorado,Republican primary results,Primary,Winning,True,Republican Party (United States),William L. Armstrong,"105,870",100.00
 1984,Colorado,Republican primary results,Primary,Total,False,,,"105,870",100.00
-1984,Idaho,1984 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),[[Peter M. Busch,"27,871",62.02%
-1984,Idaho,1984 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Louis<!-- A.--> Hatheway,"17,065",37.98%
+1984,Idaho,1984 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Pete Busch,"27,871",62.02%
+1984,Idaho,1984 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Louis Hatheway,"17,065",37.98%
 1984,Idaho,1984 Democratic U.S. Senate primary,Primary,Total,False,,,"44,936",100.00%
-1984,Illinois,1984 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),[[Paul Simon (politician),"556,757",35.56
-1984,Illinois,1984 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),[[Roland Burris,"360,182",23.01
+1984,Illinois,1984 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Paul Simon,"556,757",35.56
+1984,Illinois,1984 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Roland W. Burris,"360,182",23.01
 1984,Illinois,1984 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Alex Seith,"327,125",20.90
 1984,Illinois,1984 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Philip J. Rock,"303,397",19.38
 1984,Illinois,1984 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Gerald M. Rose,"17,985",1.15
 1984,Illinois,1984 Democratic Senate primary,Primary,Write-in,False,,,49,0.00
 1984,Illinois,1984 Democratic Senate primary,Primary,Total,False,,,"1,565,495",100.00
 1984,Illinois,1984 Republican Senate primary,Primary,Winning,True,Republican Party (United States),Charles H. Percy,"387,865",59.30
-1984,Illinois,1984 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),[[Tom Corcoran (politician),"239,847",36.67
+1984,Illinois,1984 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Tom Corcoran,"239,847",36.67
 1984,Illinois,1984 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),John E. Roche,"13,533",2.07
 1984,Illinois,1984 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),V. A. Kelley,"9,236",1.41
 1984,Illinois,1984 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Richard J. Castic,"3,607",0.55
@@ -52,16 +52,16 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Louisiana,1984 U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Robert M. Ross,"86,546",8.85%
 1984,Louisiana,1984 U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),"Larry Napoleon ""Boogaloo"" Cooper","52,746",5.40%
 1984,Louisiana,1984 U.S. Senate primary,Primary,Total,False,,,"977,473",100%
-1984,Massachusetts,Democratic Primary,Primary,Winning,False,Democratic Party (United States),John Kerry,"322,470",40.83
-1984,Massachusetts,Democratic Primary,Primary,Candidate,False,Democratic Party (United States),[[James Shannon (Massachusetts politician),"297,941",37.72
-1984,Massachusetts,Democratic Primary,Primary,Candidate,False,Democratic Party (United States),David M. Bartley,"85,910",10.88
-1984,Massachusetts,Democratic Primary,Primary,Candidate,False,Democratic Party (United States),[[Michael J. Connolly,"82,999",10.51
-1984,Massachusetts,Democratic Primary,Primary,Write-in,False,Write-in,All others,502,0.06
-1984,Massachusetts,Democratic Primary,Primary,Total,False,,,"789,822",100
-1984,Massachusetts,Republican Primary,Primary,Winning,False,Republican Party (United States),Ray Shamie,"173,851",62.38
-1984,Massachusetts,Republican Primary,Primary,Candidate,False,Republican Party (United States),Elliot Richardson,"104,761",37.59
-1984,Massachusetts,Republican Primary,Primary,Write-in,False,Write-in,All others,70,0.03
-1984,Massachusetts,Republican Primary,Primary,Total,False,,,"278,682",100
+1984,Massachusetts,1984 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),John Kerry,"322,470",40.83%
+1984,Massachusetts,1984 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),James Shannon,"297,941",37.72%
+1984,Massachusetts,1984 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),David M. Bartley,"85,910",10.88%
+1984,Massachusetts,1984 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Michael Connolly,"82,999",10.51%
+1984,Massachusetts,1984 Democratic U.S. Senate primary,Primary,Write-in,False,,,502,0.06%
+1984,Massachusetts,1984 Democratic U.S. Senate primary,Primary,Total,False,,,"789,822",100.00%
+1984,Massachusetts,1984 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Ray Shamie,"173,851",62.38%
+1984,Massachusetts,1984 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Elliot Richardson,"104,761",37.59%
+1984,Massachusetts,1984 Republican U.S. Senate primary,Primary,Write-in,False,,,70,0.03%
+1984,Massachusetts,1984 Republican U.S. Senate primary,Primary,Total,False,,,"278,682",100.00%
 1984,Minnesota,1984 Republican U.S. Senate primary,Primary,Winning,True,Independent-Republican Party,Rudy Boschwitz,"162,555",96.59%
 1984,Minnesota,1984 Republican U.S. Senate primary,Primary,Candidate,False,Independent-Republican Party,John Barcelona,"3,277",1.95%
 1984,Minnesota,1984 Republican U.S. Senate primary,Primary,Candidate,False,Independent-Republican Party,Carlan Lesch,"2,462",1.46%
@@ -163,7 +163,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,West Virginia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Frederick Weiland,"5,308",4.14%
 1984,West Virginia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Henry C. Vigilianco,"3,113",2.43%
 1984,West Virginia,Republican primary results,Primary,Total,False,,,"128,337",100.00%
-1984,Wyoming,Republican primary results,Primary,Winning,False,Republican Party (United States),[[Alan Simpson (American politician),"66,178",87.87%
+1984,Wyoming,Republican primary results,Primary,Winning,False,Republican Party (United States),Alan Simpson,"66,178",87.87%
 1984,Wyoming,Republican primary results,Primary,Candidate,False,Republican Party (United States),Stephen Tarver,"9,137",12.13%
 1984,Wyoming,Republican primary results,Primary,Total,False,,,"75,315",100.00%
 1984,Wyoming,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Victor Ryan,"17,608",45.29%

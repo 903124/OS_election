@@ -34,13 +34,16 @@ from typing import Dict, List, Optional, Tuple
 
 import pandas as pd
 
+import wiki_utils
 from wiki_utils import (
     WikiAPIClient,
     clean_wikitext,
     even_years,
     extract_incumbent_flag,
     fetch_articles_batch,
+    normalize_polling_date,
     remove_wikilinks,
+    unwrap_format_templates,
 )
 
 logger = logging.getLogger(__name__)
@@ -160,7 +163,8 @@ _MONTHS = (
 
 #: Substrings that identify a polling-table header as metadata (not a candidate).
 _SKIP_HEADERS = ("poll source", "source", "date", "sample", "margin", "other",
-                 "undecided", "vs.", "moe", "round")
+                 "undecided", "vs.", "moe", "round",
+                 "error", "lead", "spread", "pollster")
 
 _DASH_CHARS = ("-", "–", "—")
 
@@ -171,7 +175,12 @@ _ATTR_RE = re.compile(r"^\s*(?:[a-zA-Z-]+\s*=\s*\"[^\"]*\"\s*)+")
 def _strip_cell_markup(cell: str) -> str:
     """Strip leading attributes and inline templates, then any structural pipe."""
     cell = _ATTR_RE.sub("", cell)
+    cell = unwrap_format_templates(cell)       # {{Small|x}} → x (keep content!)
     cell = re.sub(r"\{\{[^}]+\}\}", "", cell)  # inline templates, e.g. {{efn|...|name="Key"}}
+    # Resolve wikilinks BEFORE dropping the structural pipe: rsplit on '|'
+    # first would keep only the text after the last inner pipe of a piped
+    # link ([[Scott Brown (politician)|Scott Brown]] → "Scott Brown]]").
+    cell = remove_wikilinks(cell)
     if "|" in cell:
         cell = cell.rsplit("|", 1)[1]
     return cell
@@ -223,11 +232,22 @@ def _clean_cell(cell: str) -> str:
     """Plain text out of a table cell (templates, refs, party shading, bold)."""
     cell = html.unescape(cell)
     cell = re.sub(r"<ref[^>]*>.*?</ref>", "", cell, flags=re.DOTALL)
+    cell = unwrap_format_templates(cell)       # {{nowrap|date}} → date
     cell = re.sub(r"\{\{[^}]+\}\}", "", cell)
+    # malformed source markup: an unclosed whitelisted wrapper — keep the
+    # content; any other dangling '{{…' fragment is dropped
+    cell = re.sub(
+        r"^\s*\{\{\s*(?:small|sm|nowrap|nowrapr|nobr|sort)\s*\|",
+        "", cell, flags=re.IGNORECASE,
+    )
+    cell = re.sub(r"\{\{[^}]*$", " ", cell)
     cell = cell.replace("'''", "")
+    # Resolve wikilinks BEFORE dropping the structural pipe: rsplit on '|'
+    # first would keep only the text after the last inner pipe of a piped
+    # link ([[John James (politician)|John James]] → "John James]]").
+    cell = remove_wikilinks(cell)
     if "|" in cell:  # e.g. '{{party shading/D}} |67%'
         cell = cell.rsplit("|", 1)[1]
-    cell = remove_wikilinks(cell)
     cell = re.sub(r"<[^>]+>", " ", cell)
     return re.sub(r"\s+", " ", cell).strip()
 
@@ -275,10 +295,10 @@ def _parse_modern_row(
     sample = moe = ""
     candidate_values: List[str] = []
     for header, cell in zip(headers[date_idx + 1:], cells[date_idx + 1:]):
-        hl = header.lower()
+        hl = header.lower().replace(".", "")   # 'M.o.E.' → 'moe'
         if "sample" in hl:
             sample = _clean_cell(cell)
-        elif "margin" in hl or "moe" in hl:
+        elif "moe" in hl or "error" in hl:
             moe = _clean_cell(cell)
         elif hl == "none" or any(s in hl for s in _SKIP_HEADERS):
             continue
@@ -298,6 +318,73 @@ def _parse_modern_row(
     return source, parsed
 
 
+
+# ──────────────────────────────────────────────
+# POLLING SECTION DISCOVERY
+# ──────────────────────────────────────────────
+
+#: A polling heading at any level: '== Polling ==', '=== Polls ===',
+#: '===Opinion polling===', '==== Public opinion polling ===='.
+POLLING_HEADING_RE = re.compile(
+    r"^(=+)\s*(?:opinion\s+|public\s+opinion\s+)?poll(?:s|ing)\s*\1\s*$",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+#: Any wikitext section heading (used to bound a polling section's scope).
+_ANY_HEADING_RE = re.compile(r"^(=+)\s*[^=\n].*?\1\s*$", re.MULTILINE)
+
+
+def _scope_end_from(text: str, from_pos: int, level: int) -> int:
+    """
+    End offset of a section at heading *level* whose content starts at
+    *from_pos*: the next heading of the same or higher level (or end of
+    text).  Deeper sub-headings — e.g. ``==== Graphical summary ====""
+    under ``=== Polling ===`` — stay inside the scope so tables below them
+    are still parsed.
+    """
+    for m in _ANY_HEADING_RE.finditer(text, from_pos):
+        if len(m.group(1)) <= level:
+            return m.start()
+    return len(text)
+
+
+def iter_polling_spans(text: str) -> List[Tuple[int, int, int, int]]:
+    """
+    Locate every polling section in an article.
+
+    Returns a list of ``(heading_start, heading_end, scope_end, level)``
+    tuples, in document order.  *scope_end* is where the polling section's
+    content stops: the next heading of the same or higher level.  Nested
+    polling headings (e.g. ``==== Polling ====`` inside a scope already
+    covered) are skipped to keep every table parsed exactly once.
+    """
+    spans: List[Tuple[int, int, int, int]] = []
+    for m in POLLING_HEADING_RE.finditer(text):
+        level = len(m.group(1))
+        scope_end = _scope_end_from(text, m.end(), level)
+        # skip headings nested inside a previous (wider) polling scope
+        if spans and m.start() < spans[-1][2]:
+            continue
+        spans.append((m.start(), m.end(), scope_end, level))
+    return spans
+
+
+def _extract_tables(segment: str) -> List[str]:
+    """Return every ``{| ... |}`` wikitable inside *segment*, in order."""
+    tables: List[str] = []
+    pos = 0
+    while True:
+        start = segment.find("{|", pos)
+        if start == -1:
+            break
+        end = segment.find("|}", start + 2)
+        if end == -1:
+            break
+        tables.append(segment[start : end + 2])
+        pos = end + 2
+    return tables
+
+
 def parse_polling_table_universal(
     section_text: str,
     state_name: str,
@@ -305,39 +392,118 @@ def parse_polling_table_universal(
     primary_party: Optional[str] = None,
 ) -> pd.DataFrame:
     """
-    Universal polling table parser (primary and general election formats).
+    Universal polling parser (primary and general election formats).
+
+    Finds the polling heading (``Polling`` / ``Polls`` / ``Opinion polling``,
+    any heading level) inside *section_text* and parses **every** wikitable in
+    the heading's scope — older articles split polls across several tables,
+    and the previous implementation silently kept only the first.
 
     Supports two table generations:
       * 2018 style — cells carry ``align=center|`` markers; columns are
-        inferred positionally (Sample, MoE, candidates).
+        aligned against the header row (positional guessing only as a
+        fallback, which previously mis-shifted Sample/MoE/candidate values).
       * 2020+ style — plain cells, ``sortable`` tables with colspan/attribute
-        headers; columns are aligned against the header row instead.
+        headers; columns are aligned against the header row.
 
     Primary polls have headers like 'Joe<br />Arpaio' (party inferred from the
     section context); general polls carry suffixes like 'Martha McSally (R)'.
     Returns a wide-format DataFrame.
     """
-    polling_match = re.search(r"===+\s*Polling\s*===+", section_text)
-    if polling_match is None:
+    span = POLLING_HEADING_RE.search(section_text)
+    if span is None:
         return pd.DataFrame()
-    polling_section = section_text[polling_match.start():]
+    scope = section_text[span.end() : _scope_end_from(section_text, span.end(), len(span.group(1)))]
 
-    table_start = polling_section.find("{|")
-    table_end = polling_section.find("|}", table_start)
-    if table_start == -1 or table_end == -1:
+    frames: List[pd.DataFrame] = []
+    for table_content in _extract_tables(scope):
+        df = _parse_one_polling_table(table_content, state_name)
+        if not df.empty:
+            frames.append(df)
+
+    if not frames:
         return pd.DataFrame()
-    table_content = polling_section[table_start : table_end + 2]
+    return pd.concat(frames, ignore_index=True) if len(frames) > 1 else frames[0]
 
+
+def _first_pipe_cell_text(row: str) -> Optional[str]:
+    """Cleaned text of a row's first ``|`` cell (the pollster in multi-line
+    tables where the source column carries no wikilink, e.g. 'Quinnipiac')."""
+    for line in row.split("\n"):
+        s = line.strip()
+        if not s.startswith("|") or s.startswith(("|-", "|}", "+")):
+            continue
+        body = _ATTR_RE.sub("", s[1:]).split("||")[0]
+        return _clean_cell(body) or None
+    return None
+
+
+def _plausible_source(text: Optional[str]) -> bool:
+    """True when *text* looks like a pollster name rather than a date/value."""
+    if not text:
+        return False
+    if any(m in text for m in _MONTHS):
+        return False
+    if re.match(r"^[\d.,]+%?$", text.strip()):
+        return False
+    return True
+
+
+def _protect_template_pipes(text: str) -> str:
+    """
+    Replace ``|`` characters inside ``{{…}}`` templates with a placeholder so
+    cell-splitting regexes don't truncate cells at template-internal pipes
+    (e.g. ``align=center| {{nowrap|May 23, 2015}}`` used to capture only
+    ``{{nowrap`` — losing the date and shifting every later column).
+    """
+    out: List[str] = []
+    i, in_tpl = 0, False
+    while i < len(text):
+        if text.startswith("{{", i):
+            in_tpl = True
+            out.append("{{")
+            i += 2
+            continue
+        if in_tpl and text.startswith("}}", i):
+            in_tpl = False
+            out.append("}}")
+            i += 2
+            continue
+        ch = text[i]
+        out.append("\x00" if (in_tpl and ch == "|") else ch)
+        i += 1
+    return "".join(out)
+
+
+def _parse_one_polling_table(table_content: str, state_name: str) -> pd.DataFrame:
+    """Parse a single polling wikitable into a wide-format DataFrame."""
     # ── Header cells (ordered, metadata included) ─────────────────
     headers = _parse_header_cells(table_content)
 
     def _is_candidate_header(h: str) -> bool:
-        hl = h.lower()
+        # dot-normalised so dotted spellings like 'M.o.E.' match 'moe'
+        hl = h.lower().replace(".", "")
         # 'None' alone is a junk placeholder column; 'None of these' (Nevada's
         # ballot option) is kept as a real column.
         return bool(h) and hl != "none" and not any(s in hl for s in _SKIP_HEADERS)
 
     candidate_headers = [h for h in headers if _is_candidate_header(h)]
+    meta_kinds = []
+    for h in headers:
+        hl = h.lower().replace(".", "")   # 'M.o.E.' → 'moe'
+        if "date" in hl:
+            kind = "date"
+        elif "sample" in hl:
+            kind = "sample"
+        elif "moe" in hl or "error" in hl:
+            kind = "moe"
+        elif "poll source" in hl or hl.startswith("source"):
+            kind = "source"
+        elif hl == "none" or any(s in hl for s in _SKIP_HEADERS):
+            kind = "skip"          # lead/margin/other/undecided… — value ignored
+        else:
+            kind = None            # candidate column
+        meta_kinds.append(kind)
     if not candidate_headers:
         logger.warning("No candidate headers found in %s polling table", state_name)
         return pd.DataFrame()
@@ -358,16 +524,57 @@ def parse_polling_table_universal(
                 source_raw.split("|")[-1].strip() if "|" in source_raw else source_raw.strip()
             )
 
-        fields = re.findall(r"align=center\|\s*([^\n|]+)", row)
+        row_protected = _protect_template_pipes(row)
+        fields = re.findall(r"align=center\|\s*([^\n|]+)", row_protected)
         if not fields:
             fields = re.findall(
-                r"(?:\{\{party shading/[^}]+\}\}\s*)?align=center\|\s*([^\n|]+)", row
+                r"(?:\{\{party shading/[^}]+\}\}\s*)?align=center\|\s*([^\n|]+)",
+                row_protected,
             )
+        if fields:
+            fields = [f.replace("\x00", "|") for f in fields]
 
         if fields:
-            # ── 2018-style positional parsing ──────────────────────
+            # ── 2018-style parsing, header-aligned where possible ──
             clean_fields = [clean_wikitext(f.replace("'''", "")).strip() for f in
-                            (re.sub(r"\{\{[^}]+\}\}\s*", "", f) for f in fields)]
+                            (unwrap_format_templates(f) for f in fields)]
+
+            # Map fields onto header columns when the counts line up: the
+            # poll-source cell often carries no align=center marker, so try
+            # both offsets before falling back to the positional heuristic.
+            date_idx_hdr = next(
+                (i for i, k in enumerate(meta_kinds) if k == "date"), None
+            )
+            aligned: Optional[Dict] = None
+            for offset in (1, 0):
+                if date_idx_hdr is None or len(clean_fields) != len(headers) - offset:
+                    continue
+                vals = ([None] * offset) + clean_fields
+                if not any(m in (vals[date_idx_hdr] or "") for m in _MONTHS):
+                    continue
+                aligned = {"Poll_Source": current_poll_source or ""}
+                for i, kind in enumerate(meta_kinds):
+                    if kind == "date":
+                        aligned["Date"] = vals[i] or ""
+                    elif kind == "sample":
+                        aligned["Sample"] = vals[i] or ""
+                    elif kind == "moe":
+                        aligned["MoE"] = vals[i] or None
+                cand_vals = [vals[i] for i, k in enumerate(meta_kinds) if k is None]
+                cand_vals = [v for v in cand_vals if v is not None]
+                for i, header in enumerate(candidate_headers):
+                    aligned[header] = cand_vals[i] if i < len(cand_vals) else None
+                break
+
+            if aligned is not None:
+                if not aligned.get("Poll_Source"):
+                    first = _first_pipe_cell_text(row)
+                    if _plausible_source(first):
+                        current_poll_source = first
+                if not aligned.get("Poll_Source"):
+                    continue
+                rows.append(aligned)
+                continue
 
             first_field = clean_fields[0]
             if not any(month in first_field for month in _MONTHS):
@@ -410,6 +617,11 @@ def parse_polling_table_universal(
         source, parsed = _parse_modern_row(row, headers)
         if source:
             current_poll_source = source
+        if parsed is not None and not current_poll_source:
+            # plain-text pollster cell (no wikilink) — e.g. 1998-era tables
+            first = _first_pipe_cell_text(row)
+            if _plausible_source(first):
+                current_poll_source = first
         if parsed is None or not current_poll_source:
             continue
 
@@ -479,10 +691,27 @@ def wide_to_long_polls(
     df_long["State"] = state_name
     df_long["Primary_Type"] = primary_type
 
-    df_long["Pct"] = df_long["Pct"].replace(["-", "", "–", "—"], pd.NA)
+    # Placeholder / junk values seen in real polling tables — treat as missing
+    # rather than letting '?' or '± ?' leak into the CSV.
+    _MISSING = ["-", "", "–", "—", "?", "± ?", "n/a", "N/A", "NA", "unknown", "Unknown"]
+    _DASH_ONLY_RE = re.compile(r"^[\s\-–—―‒–?±%]*$")   # dashes, '?', '±', '%' only
+    for col in ("Pct", "MoE", "Sample"):
+        if col in df_long.columns:
+            s = df_long[col].astype(str)
+            df_long.loc[s.apply(lambda v: bool(_DASH_ONLY_RE.match(v))), col] = pd.NA
+    df_long["Pct"] = df_long["Pct"].replace(_MISSING, pd.NA)
     df_long = df_long.dropna(subset=["Pct"])
     if "MoE" in df_long.columns:
-        df_long["MoE"] = df_long["MoE"].replace(["-", "–", "—", "", "N/A", "n/a"], pd.NA)
+        df_long["MoE"] = df_long["MoE"].replace(_MISSING, pd.NA)
+    if "Sample" in df_long.columns:
+        df_long["Sample"] = df_long["Sample"].replace(_MISSING, pd.NA)
+
+    # Multiple tables per polling section can repeat the same poll row; drop
+    # exact duplicates so combined CSVs stay tidy.
+    df_long = df_long.drop_duplicates(
+        subset=[c for c in ("State", "Primary_Type", "Poll_Source", "Date",
+                            "Candidate", "Pct") if c in df_long.columns]
+    )
 
     col_order = ["State", "Primary_Type", "Poll_Source", "Date", "Sample",
                  "MoE", "Candidate", "Party", "Pct", "Incumbent"]
@@ -539,7 +768,16 @@ def parse_election_boxes(
                     "Incumbent": False,
                     "_box": box_idx,
                 }
-                for key, val in re.findall(r"(?:^|\|)\s*(\w+)\s*=\s*([^|\n]+)", params):
+                # Value must tolerate '|' inside [[link|display]] and
+                # {{template|arg}} spans — a naive [^|\n]+ truncates the value
+                # at the first inner pipe (e.g. candidate = [[John Buckley
+                # (Virginia politician)|John Buckley]] → "[[John Buckley
+                # (Virginia politician)"), corrupting names and losing markup.
+                for key, val in re.findall(
+                    r"(?:^|\|)\s*(\w+)\s*=\s*"
+                    r"((?:\{\{[^{}]*\}\}|\[\[[^\]]*\]\]|[^\|\n{])+)",
+                    params,
+                ):
                     val = clean_wikitext(val.strip())
                     if key.lower() == "candidate":
                         val = remove_wikilinks(val)
@@ -597,6 +835,14 @@ def parse_election_boxes(
 # UNIVERSAL PARSER (per state)
 # ──────────────────────────────────────────────
 
+#: Heading lookups tolerate spaces and any heading level
+#: (``==General election==`` *and* ``== General election ==``).
+def _find_heading(text: str, name: str) -> int:
+    """Offset of the first level-2 heading matching *name*, or -1."""
+    m = re.search(rf"^==\s*{re.escape(name)}\s*==\s*$", text, re.MULTILINE | re.IGNORECASE)
+    return m.start() if m else -1
+
+
 def parse_election_data_universal(text: str, state_name: str, year: Optional[int] = None) -> Dict:
     """
     Parse one state's Senate election article.
@@ -604,10 +850,18 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
     Detects the primary structure (two_party / single_party / jungle /
     no_primary), extracts long-format polling data and election-box results.
     When *year* is given, a ``Year`` column is added to every output frame.
+
+    Polling sections are discovered positionally: every ``Polling``/``Polls``
+    heading found in the article is classified as primary or general
+    according to where it sits relative to the primary and general-election
+    sections.  This also captures articles whose polling section is *not*
+    nested under a ``== General election ==`` heading (previously those
+    polling tables were skipped entirely).
     """
     results: Dict = {
         "primary_type": "no_primary",
         "incumbent": None,
+        "polling_sections_found": 0,
         "primary_polling": pd.DataFrame(),
         "primary_results": pd.DataFrame(),
         "general_polling": pd.DataFrame(),
@@ -619,10 +873,10 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
     logger.info("  Incumbent from infobox: %s", incumbent_name)
 
     # ── STEP 1: detect primary structure ──────────────────────────
-    dem_start = text.find("==Democratic primary==")
-    rep_start = text.find("==Republican primary==")
-    jungle_start = text.find("==Primary election==")   # jungle-primary format (CA/WA/LA)
-    general_start = text.find("==General election==")
+    dem_start = _find_heading(text, "Democratic primary")
+    rep_start = _find_heading(text, "Republican primary")
+    jungle_start = _find_heading(text, "Primary election")   # jungle format (CA/WA/LA)
+    general_start = _find_heading(text, "General election")
     if general_start == -1:
         general_start = len(text)
 
@@ -653,10 +907,61 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
                 [results["primary_polling"], df_long], ignore_index=True
             )
 
-    if primary_section_start is not None:
+    # Classify every polling heading as primary or general by position.
+    poll_spans = iter_polling_spans(text)
+    results["polling_sections_found"] = len(poll_spans)
+
+    dem_end = rep_start if (dem_start != -1 and rep_start > dem_start) else general_start
+    rep_end = dem_start if (rep_start != -1 and dem_start > rep_start) else general_start
+
+    def _primary_context(pos: int) -> Optional[Tuple[str, Optional[str]]]:
+        """(Primary_Type, party) when *pos* lies inside a primary section."""
+        if primary_section_start is None or pos >= general_start:
+            return None
+        if dem_start != -1 and dem_start <= pos < dem_end:
+            return ("Democratic Primary", "D")
+        if rep_start != -1 and rep_start <= pos < rep_end:
+            return ("Republican Primary", "R")
+        return (results["primary_type"], primary_party)
+
+    parsed_any_polling = False
+    for head_start, head_end, scope_end, _level in poll_spans:
+        ctx = _primary_context(head_start)
+        if ctx is not None:
+            # a primary-classified polling section must never swallow
+            # general-election content (possible when an unusually high
+            # heading level widens the scope)
+            scope_end = min(scope_end, general_start)
+            if head_start >= scope_end:
+                continue
+        wide = parse_polling_table_universal(
+            text[head_start:scope_end], state_name,
+            is_primary=ctx is not None,
+            primary_party=ctx[1] if ctx else None,
+        )
+        if wide.empty:
+            continue
+        parsed_any_polling = True
+        if ctx is not None:
+            _append_long(wide_to_long_polls(
+                wide, state_name, ctx[0],
+                is_primary=True, primary_party=ctx[1],
+                incumbent_name=incumbent_name,
+            ))
+        else:
+            general_long = wide_to_long_polls(
+                wide, state_name, "General",
+                is_primary=False, incumbent_name=incumbent_name,
+            )
+            results["general_polling"] = pd.concat(
+                [results["general_polling"], general_long], ignore_index=True
+            ) if len(results["general_polling"]) or len(general_long) else general_long
+
+    # Legacy fallback: slices-based polling discovery for articles whose
+    # polling tables sit under headings this module's regexes don't match.
+    if not parsed_any_polling and not poll_spans and primary_section_start is not None:
         if results["primary_type"] == "two_party":
             if dem_start != -1:
-                dem_end = rep_start if rep_start > dem_start else general_start
                 dem_wide = parse_polling_table_universal(
                     text[dem_start:dem_end], state_name, is_primary=True, primary_party="D"
                 )
@@ -666,7 +971,6 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
                         is_primary=True, primary_party="D", incumbent_name=incumbent_name,
                     ))
             if rep_start != -1:
-                rep_end = dem_start if dem_start > rep_start else general_start
                 rep_wide = parse_polling_table_universal(
                     text[rep_start:rep_end], state_name, is_primary=True, primary_party="R"
                 )
@@ -687,7 +991,7 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
                     incumbent_name=incumbent_name,
                 )
 
-    if general_start != -1 and general_start < len(text):
+    if general_start != -1 and general_start < len(text) and not parsed_any_polling:
         general_wide = parse_polling_table_universal(
             text[general_start:], state_name, is_primary=False
         )
@@ -709,7 +1013,41 @@ def parse_election_data_universal(text: str, state_name: str, year: Optional[int
                 df = df.copy()
                 df.insert(0, "Year", year)
                 results[key] = df
+    for key in ("primary_polling", "general_polling"):
+        df = results.get(key)
+        if df is not None and len(df):
+            results[key] = normalize_polling_date_columns(df)
     return results
+
+
+def normalize_polling_date_columns(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Normalise the free-text ``Date`` column of a polling DataFrame to ISO
+    8601 (see :func:`wiki_utils.normalize_polling_date`).
+
+    Adds ``Date_Start`` / ``Date_End`` (pure ISO, machine-sortable) right
+    after ``Date``, canonicalises ``Date`` itself (``2002-10-16`` /
+    ``2002-10-28 to 2002-10-30`` / ``through 2024-11-04`` / ``2017-09``) and
+    preserves the raw source text in ``Date_Original`` (last column).
+    """
+    if "Date" not in df.columns or "Date_Start" in df.columns:
+        return df
+    df = df.copy()
+    fallback_year = int(df["Year"].iloc[0]) if "Year" in df.columns else None
+    originals = df["Date"].astype(str).tolist()
+    starts, ends, canonical = [], [], []
+    for raw in originals:
+        s, e, c = normalize_polling_date(raw, fallback_year=fallback_year)
+        starts.append(s)
+        ends.append(e)
+        canonical.append(c)
+    df["Date"] = canonical
+    pos = df.columns.get_loc("Date") + 1
+    df.insert(pos, "Date_Start", starts)
+    df.insert(pos + 1, "Date_End", ends)
+    # keep the raw Wikipedia text for provenance / re-processing
+    df["Date_Original"] = originals
+    return df
 
 
 # ──────────────────────────────────────────────
@@ -843,6 +1181,7 @@ def process_senate_cycles(
                 "state": state,
                 "primary_type": parsed["primary_type"],
                 "content_length": len(content),
+                "polling_sections_found": parsed.get("polling_sections_found", 0),
                 "primary_polling_count": len(parsed["primary_polling"]),
                 "primary_results_count": len(parsed["primary_results"]),
                 "general_polling_count": len(parsed["general_polling"]),
@@ -909,8 +1248,15 @@ def run(
     end_year: int = 2024,
     output_dir: str = "data",
     client: Optional[WikiAPIClient] = None,
+    run_qc: bool = True,
 ) -> Dict:
-    """CLI entry point: process Senate cycles from *start_year* to *end_year*."""
+    """
+    CLI entry point: process Senate cycles from *start_year* to *end_year*.
+
+    When *run_qc* is set (default), a polling quality check — file sizes,
+    row coverage, value sanity — runs over the written polling CSVs and a
+    ``polling_qc_report.json`` is saved next to them.
+    """
     logger.info("U.S. Senate cycles %d–%d", start_year, end_year)
     results = process_senate_cycles(start_year, end_year, client=client)
     save_results(results, output_dir)
@@ -919,6 +1265,12 @@ def run(
         "Senate done: %d races processed, %d ok, %d failed -> %s/senate",
         meta["total_processed"], meta["successful"], meta["failed"], output_dir,
     )
+    if run_qc:
+        try:
+            import polling_qc
+            polling_qc.check_pipeline(output_dir, pipeline="senate")
+        except Exception:  # QC must never break the data run
+            logger.exception("Polling QC failed (non-fatal)")
     return results
 
 

@@ -1,8 +1,8 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
-1922,Arizona,Democratic primary results{{sfn|Arizona Election Returns|1923|p=4,Primary,Winning,True,Henry F. Ashurst,Democratic Party (United States),"30,408",100.00
-1922,Arizona,Democratic primary results{{sfn|Arizona Election Returns|1923|p=4,Primary,Total,False,,,"30,408",
-1922,Arizona,Republican primary results{{sfn|Arizona Election Returns|1923|p=4,Primary,Winning,False,James P. Boyle,Republican Party (United States),839,100.00
-1922,Arizona,Republican primary results{{sfn|Arizona Election Returns|1923|p=4,Primary,Total,False,,,839,
+1922,Arizona,Democratic primary results,Primary,Winning,True,Henry F. Ashurst,Democratic Party (United States),"30,408",100.00
+1922,Arizona,Democratic primary results,Primary,Total,False,,,"30,408",
+1922,Arizona,Republican primary results,Primary,Winning,False,James P. Boyle,Republican Party (United States),839,100.00
+1922,Arizona,Republican primary results,Primary,Total,False,,,839,
 1922,California,Primary election results,Primary,Winning,True,Hiram Johnson,Republican Party (United States),"313,539",56.71%
 1922,California,Primary election results,Primary,Candidate,False,Charles C. Moore,Republican Party (United States),"239,320",43.29%
 1922,California,Primary election results,Primary,Total,False,,,"552,859",100.00%
@@ -10,10 +10,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,California,Primary election results,Primary,Candidate,False,Hiram W. Johnson (incumbent) (write-in),Republican Party (United States),"3,760",4.10%
 1922,California,Primary election results,Primary,Candidate,False,Charles C. Moore (write-in),Republican Party (United States),"2,666",2.90%
 1922,California,Primary election results,Primary,Total,False,,,"97,442",100.00%
-1922,Georgia (special),1922 United States Senate special Democratic primary in Georgia,Primary,Winning,False,Walter F. George,Democratic Party (US),"60,436",54.64%
-1922,Georgia (special),1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Thomas W. Hardwick,Democratic Party (US),"36,328",32.85%
-1922,Georgia (special),1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Seaborn Wright,Democratic Party (US),"12,820",11.59%
-1922,Georgia (special),1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,John R. Cooper,Democratic Party (US),"1,018",0.92%
 1922,Indiana,1922 Republican Senate primary,Primary,Winning,False,Albert J. Beveridge,Republican Party (United States),"206,165",52.77%
 1922,Indiana,1922 Republican Senate primary,Primary,Candidate,True,Harry Stewart New,Republican Party (United States),"184,505",47.23%
 1922,Indiana,1922 Republican Senate primary,Primary,Total,False,,,"390,670",100.00%
@@ -30,28 +26,28 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Candidate,False,Burton E. Sweet,Republican Party (United States),"35,406",10.94%
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Candidate,False,Claude M. Stanley,Republican Party (United States),"12,593",3.89%
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Total,False,,,"323,622",100.00%
-1922,Maine,1922 Republican U.S. Senate primary,Primary,Winning,False,[[Frederick Hale (U.S. senator),Republican Party (United States),"40,151",59.83%
+1922,Maine,1922 Republican U.S. Senate primary,Primary,Winning,False,Frederick Hale,Republican Party (United States),"40,151",59.83%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Candidate,False,Frank E. Guernsey,Republican Party (United States),"18,937",28.22%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Candidate,False,Howard Davies,Republican Party (United States),"8,039",11.95%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Total,False,,,"67,107",100.00%
 1922,Maine,1922 Democratic U.S. Senate primary,Primary,Winning,False,Oakley C. Curtis,Democratic Party (United States),"9,004",100.00%
 1922,Maine,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"9,004",100.00%
 1922,Maryland,1922 Republican U.S. Senate primary,Primary,Winning,False,Joseph I. France (inc.),Republican Party (US),"38,587",59.15%
-1922,Maryland,1922 Republican U.S. Senate primary,Primary,Candidate,False,[[John W. Garrett (diplomat),Republican Party (US),"26,648",40.85%
+1922,Maryland,1922 Republican U.S. Senate primary,Primary,Candidate,False,John W. Garrett,Republican Party (US),"26,648",40.85%
 1922,Maryland,1922 Republican U.S. Senate primary,Primary,Total,False,,,"65,235",100.00%
 1922,Maryland,1922 Republican U.S. Senate primary,Primary,Winning,False,William Cabell Bruce,Democratic Party (US),"41,368",48.15%
 1922,Maryland,1922 Republican U.S. Senate primary,Primary,Candidate,False,William I. Norris,Democratic Party (US),"26,261",30.57%
 1922,Maryland,1922 Republican U.S. Senate primary,Primary,Candidate,False,David John Lewis,Democratic Party (US),"18,283",21.28%
 1922,Maryland,1922 Republican U.S. Senate primary,Primary,Total,False,,,"85,912",100.00%
 1922,Massachusetts,Republican Primary,Primary,Winning,True,Henry Cabot Lodge,Republican Party (United States),"209,599",75.27%
-1922,Massachusetts,Republican Primary,Primary,Candidate,False,[[Joseph H. Walker (Massachusetts speaker),Republican Party (United States),"68,848",24.78%
+1922,Massachusetts,Republican Primary,Primary,Candidate,False,Joseph H. Walker,Republican Party (United States),"68,848",24.78%
 1922,Massachusetts,Republican Primary,Primary,Total,False,,,"278,447",100.00%
 1922,Massachusetts,Democratic Primary,Primary,Winning,False,William A. Gaston,Democratic Party (United States),"88,134",51.48%
 1922,Massachusetts,Democratic Primary,Primary,Candidate,False,Sherman L. Whipple,Democratic Party (United States),"62,847",36.81%
 1922,Massachusetts,Democratic Primary,Primary,Candidate,False,John Jackson Walsh,Democratic Party (United States),"18,571",10.84%
 1922,Massachusetts,Democratic Primary,Primary,Candidate,False,Dallas Lore Sharp,Democratic Party (United States),"1,626",0.94%
 1922,Massachusetts,Democratic Primary,Primary,Total,False,,,"171,178",100.00%
-1922,Minnesota,Democratic primary election results,Primary,Winning,False,[[Anna Dickie Olesen,Democratic Party of Minnesota,"28,745",47.68%
+1922,Minnesota,Democratic primary election results,Primary,Winning,False,Anna D. Olesen,Democratic Party of Minnesota,"28,745",47.68%
 1922,Minnesota,Democratic primary election results,Primary,Candidate,False,Thomas J. Meighen,Democratic Party of Minnesota,"19,941",33.08%
 1922,Minnesota,Democratic primary election results,Primary,Candidate,False,Homer Morris,Democratic Party of Minnesota,"11,596",19.24%
 1922,Minnesota,Democratic primary election results,Primary,Total,False,,,"60,282",100.00%
@@ -59,11 +55,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Minnesota,Republican primary election results,Primary,Candidate,False,Ernest Lundeen,Republican Party of Minnesota,"123,765",33.54%
 1922,Minnesota,Republican primary election results,Primary,Candidate,False,Richard E. Titus,Republican Party of Minnesota,"28,399",7.70%
 1922,Minnesota,Republican primary election results,Primary,Total,False,,,"368,980",100.00%
-1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,James K. Vardaman,Democratic Party (United States),"74,597",46.95%
+1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Winning,False,James K. Vardaman,Democratic Party (United States),"74,597",46.95%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Hubert D. Stephens,Democratic Party (United States),"65,980",41.53%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Belle Kearney,Democratic Party (United States),"18,303",11.52%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"158,880",100.00%
-1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Winning,False,[[James A. Reed (politician),Democratic Party (United States),"195,955",49.49%
+1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Winning,False,James A. Reed,Democratic Party (United States),"195,955",49.49%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Breckinridge Long,Democratic Party (United States),"190,013",47.99%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Robert I. Young,Democratic Party (United States),"9,979",2.52%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"395,947",100.00%
@@ -103,10 +99,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Nebraska,Progressive primary results,Primary,Candidate,False,Anson H. Bigelow,"Progressive Party (United States, 1924–1934)","2,215",27.48%
 1922,Nebraska,Progressive primary results,Primary,Candidate,False,Scattering,"Progressive Party (United States, 1924–1934)",21,0.26%
 1922,Nebraska,Progressive primary results,Primary,Total,False,,,"8,059",100.00%
-1922,Nevada,1922 United States Senate special Democratic primary in Georgia,Primary,Winning,False,Walter F. George,Democratic Party (US),"60,436",54.64%
-1922,Nevada,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Thomas W. Hardwick,Democratic Party (US),"36,328",32.85%
-1922,Nevada,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Seaborn Wright,Democratic Party (US),"12,820",11.59%
-1922,Nevada,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,John R. Cooper,Democratic Party (US),"1,018",0.92%
 1922,North Dakota,Democratic primary results,Primary,Winning,False,James Francis Thaddeus O'Connor,Democratic Party (United States),"9,140",78.08%
 1922,North Dakota,Democratic primary results,Primary,Candidate,False,Frank O. Hellstrom,Democratic Party (United States),"2,566",21.92%
 1922,North Dakota,Democratic primary results,Primary,Total,False,,,"11,706",100.00%
@@ -114,26 +106,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,North Dakota,Republican primary results,Primary,Candidate,False,Porter J. McCumber (inc.),Republican Party (United States),"80,821",45.54%
 1922,North Dakota,Republican primary results,Primary,Candidate,False,Ormsby McHarg,Republican Party (United States),"5,263",2.97%
 1922,North Dakota,Republican primary results,Primary,Total,False,,,"177,471",100.00%
-1922,Rhode Island,1922 United States Senate special Democratic primary in Georgia,Primary,Winning,False,Walter F. George,Democratic Party (US),"60,436",54.64%
-1922,Rhode Island,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Thomas W. Hardwick,Democratic Party (US),"36,328",32.85%
-1922,Rhode Island,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Seaborn Wright,Democratic Party (US),"12,820",11.59%
-1922,Rhode Island,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,John R. Cooper,Democratic Party (US),"1,018",0.92%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Winning,False,Earle B. Mayfield,Democratic Party (United States),"153,538",26.78%
-1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,[[James E. Ferguson,Democratic Party (United States),"127,071",22.16%
-1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,[[Charles Allen Culberson,Democratic Party (United States),"99,635",17.38%
+1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Pa Ferguson,Democratic Party (United States),"127,071",22.16%
+1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Charles Culberson,Democratic Party (United States),"99,635",17.38%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Cullen F. Thomas,Democratic Party (United States),"88,026",15.35%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Charles Ousley,Democratic Party (United States),"62,451",10.89%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Robert Lee Henry,Democratic Party (United States),"41,567",7.25%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Sterling P. Strong (withdrew),Democratic Party (United States),"1,085",0.19%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"573,373",100.00%
-1922,Utah,1922 United States Senate special Democratic primary in Georgia,Primary,Winning,False,Walter F. George,Democratic Party (US),"60,436",54.64%
-1922,Utah,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Thomas W. Hardwick,Democratic Party (US),"36,328",32.85%
-1922,Utah,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Seaborn Wright,Democratic Party (US),"12,820",11.59%
-1922,Utah,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,John R. Cooper,Democratic Party (US),"1,018",0.92%
 1922,Vermont,Republican primary results,Primary,Winning,False,Frank L. Greene,Republican Party (United States),"41,974",99.7
 1922,Vermont,Republican primary results,Primary,Candidate,False,Other,Republican Party (United States),129,0.3
 1922,Vermont,Republican primary results,Primary,Total,False,,,"42,103",100.0
-1922,Vermont,Democratic primary results,Primary,Winning,False,[[William B. Mayo (politician),Democratic Party (United States),"2,960",99.4
+1922,Vermont,Democratic primary results,Primary,Winning,False,William B. Mayo,Democratic Party (United States),"2,960",99.4
 1922,Vermont,Democratic primary results,Primary,Candidate,False,Other,Democratic Party (United States),17,0.6
 1922,Vermont,Democratic primary results,Primary,Total,False,,,"2,977",100.0
 1922,Washington,1922 Republican Senate primary,Primary,Winning,True,Miles Poindexter,Republican Party (US),"84,695",43.05%
@@ -149,10 +133,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Washington,1922 Democratic Senate primary,Primary,Total,False,,,"14,991",100.00%
 1922,Washington,1922 Farmer-Labor Senate primary,Primary,Winning,False,James A. Duncan,Farmer-Labor Party,"6,817",100.00%
 1922,Washington,1922 Farmer-Labor Senate primary,Primary,Total,False,,,"6,817",100.00%
-1922,West Virginia,1922 United States Senate special Democratic primary in Georgia,Primary,Winning,False,Walter F. George,Democratic Party (US),"60,436",54.64%
-1922,West Virginia,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Thomas W. Hardwick,Democratic Party (US),"36,328",32.85%
-1922,West Virginia,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,Seaborn Wright,Democratic Party (US),"12,820",11.59%
-1922,West Virginia,1922 United States Senate special Democratic primary in Georgia,Primary,Candidate,False,John R. Cooper,Democratic Party (US),"1,018",0.92%
 1922,Wisconsin,1922 Republican U.S. Senate primary,Primary,Winning,True,Robert M. La Follette,Republican Party (US),"362,445",72.23%
 1922,Wisconsin,1922 Republican U.S. Senate primary,Primary,Candidate,False,William Arthur Ganfield,Republican Party (US),"139,327",27.77%
 1922,Wisconsin,1922 Republican U.S. Senate primary,Primary,Total,False,,,"484,135",100.00%

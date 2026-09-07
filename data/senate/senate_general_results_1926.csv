@@ -1,6 +1,6 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
 1926,Arizona,"United States Senate election in Arizona, 1926",General,Winning,False,Democratic Party (United States),Carl T. Hayden,"44,591",58.34%
-1926,Arizona,"United States Senate election in Arizona, 1926",General,Candidate,False,Republican Party (United States),[[Ralph H. Cameron,"31,845",41.66%
+1926,Arizona,"United States Senate election in Arizona, 1926",General,Candidate,False,Republican Party (United States),Ralph H. Cameron,"31,845",41.66%
 1926,California,1926 United States Senate election in California,General,Winning,True,Republican Party (United States),Samuel Morgan Shortridge,"670,128",63.12%
 1926,California,1926 United States Senate election in California,General,Candidate,False,Democratic Party (United States),John B. Elliott,"391,599",36.88%
 1926,California,1926 United States Senate election in California,General,Total,False,,,"1,061,727",100.00%
@@ -9,9 +9,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Colorado,1926 United States Senate election in Colorado,General,Candidate,False,Farmer–Labor Party,Morton Alexander,"5,829",1.96%
 1926,Colorado,1926 United States Senate election in Colorado,General,Candidate,False,Socialist Party (United States),Frank H. Rice,"2,218",0.75%
 1926,Colorado,1926 United States Senate election in Colorado,General,Candidate,False,Communist Party USA,James A. Ayres,859,0.29%
+1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Winning,True,Republican Party (US),Hiram Bingham III,"191,401",63.31%
+1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Rollin U. Tyler,"107,753",35.64%
+1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party (US),Morris Rice,"3,173",1.05%
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Total,False,,,"302,327",100.0%
+1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Winning,False,Republican Party (United States),Arthur R. Robinson,"519,401",50.62%
+1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Democratic Party (United States),Evans Woollen,"496,540",48.40%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Prohibition Party (United States),Albert Stanley,"5,205",0.51%
+1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Socialist Party USA,William O. Fogleson,"4,864",0.47%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Total,False,,,"1,026,010",100.00%
+1926,Indiana,1926 United States Senate election in Indiana,General,Winning,True,Republican Party (United States),James E. Watson,"522,837",50.04%
+1926,Indiana,1926 United States Senate election in Indiana,General,Candidate,False,Democratic Party (United States),Albert Stump,"511,454",48.95%
+1926,Indiana,1926 United States Senate election in Indiana,General,Candidate,False,Prohibition Party (United States),William H. Harris,"5,420",0.52%
+1926,Indiana,1926 United States Senate election in Indiana,General,Candidate,False,Socialist Party (United States),Forrest Wallace,"5,106",0.49%
 1926,Indiana,1926 United States Senate election in Indiana,General,Total,False,,,"1,044,817",100.00%
 1926,Iowa (special),1926 U.S. Senate special election in Iowa,General,Winning,True,Republican Party (US),David W. Stewart,"336,410",100.00%
 1926,Iowa (special),1926 U.S. Senate special election in Iowa,General,Total,False,,,"336,410",100.00%
@@ -23,7 +33,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Iowa,1926 U.S. Senate election in Iowa,General,Winning,False,Republican Party (United States),Smith W. Brookhart,"323,409",56.61%
 1926,Iowa,1926 U.S. Senate election in Iowa,General,Candidate,False,Democratic Party (United States),Claude Porter,"247,869",43.39%
 1926,Iowa,1926 U.S. Senate election in Iowa,General,Total,False,,,"571,278",100.00%
-1926,Kansas,1926 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Charles Curtis ([[incumbent,"308,222",63.57%
+1926,Kansas,1926 United States Senate election in Kansas,General,Winning,False,Republican Party (United States),Charles Curtis (inc.),"308,222",63.57%
 1926,Kansas,1926 United States Senate election in Kansas,General,Candidate,False,Democratic Party (United States),Charles Stephens,"168,446",34.74%
 1926,Kansas,1926 United States Senate election in Kansas,General,Candidate,False,Socialist Party (United States),M. L. Phillips,"8,208",1.69%
 1926,Kansas,1926 United States Senate election in Kansas,General,Write-in,False,,,2,0.00%
@@ -31,54 +41,72 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Kentucky,1926 U.S. Senate election in Kentucky,General,Winning,False,Democratic Party (US),Alben W. Barkley,"286,997",51.84%
 1926,Kentucky,1926 U.S. Senate election in Kentucky,General,Candidate,True,Republican Party (US),Richard P. Ernst,"266,657",48.16%
 1926,Kentucky,1926 U.S. Senate election in Kentucky,General,Total,False,,,"553,654",100.00%
+1926,Louisiana,1926 United States Senate election,General,Winning,True,Democratic Party (United States),Edwin S. Broussard,"54,180",100.00%
 1926,Louisiana,1926 United States Senate election,General,Total,False,,,"54,180",100.00%
 1926,Maryland,1926 U.S. Senate election in Maryland,General,Winning,False,Democratic Party (United States),Millard Tydings,"195,410",57.51%
 1926,Maryland,1926 U.S. Senate election in Maryland,General,Candidate,False,Republican Party (United States),Ovington Weller (inc.),"140,695",41.41%
 1926,Maryland,1926 U.S. Senate election in Maryland,General,Candidate,False,Socialist Party (United States),William A. Toole,"3,659",1.08%
 1926,Maryland,1926 U.S. Senate election in Maryland,General,Total,False,,,"339,764",100.00%
+1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Winning,False,Democratic Party (United States),David I. Walsh,"525,303",52.01%
+1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Candidate,True,Republican Party (United States),William M. Butler,"469,989",46.54%
+1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Candidate,False,Communist Party USA,John J. Ballam,"5,167",0.51%
+1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Candidate,False,Socialist Party of America,Alfred Baker Lewis,"4,730",0.47%
 1926,Massachusetts (special),"United States Senate election in Massachusetts, 1926",General,Total,False,,,"1,009,955",100.0%
+1926,New Hampshire,1926 U.S. Senate election in New Hampshire,General,Winning,True,Republican Party (US),George H. Moses,"79,279",62.32%
+1926,New Hampshire,1926 U.S. Senate election in New Hampshire,General,Candidate,False,Democratic Party (US),Robert C. Murchie,"47,935",37.68%
 1926,New Hampshire,1926 U.S. Senate election in New Hampshire,General,Total,False,,,"127,214",100.00%
 1926,New York,1926 Republican Convention,General,Winning,True,Republican Party (United States),James Wolcott Wadsworth Jr.,"1,235",93.77%
 1926,New York,1926 Republican Convention,General,Candidate,False,Republican Party (United States),Franklin W. Cristman,58,4.40%
 1926,New York,1926 Republican Convention,General,Candidate,False,Republican Party (United States),Charles Evans Hughes,1,0.08%
 1926,New York,1926 Republican Convention,General,Total,False,,,"1,317",100.00%
 1926,New York,1920 United States Senate election in New York,General,Winning,False,Democratic Party (United States),Robert F. Wagner,"1,321,463",46.48%
-1926,New York,1920 United States Senate election in New York,General,Candidate,False,Republican Party (United States),[[James Wolcott Wadsworth Jr.,"1,205,246",42.40%
+1926,New York,1920 United States Senate election in New York,General,Candidate,False,Republican Party (United States),James Wadsworth,"1,205,246",42.40%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Independent Republican (US),Franklin W. Cristman,"231,906",8.16%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Socialist Party of America,Jessie Wallace Hughan,"73,412",2.58%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Communist Party (US),William F. Dunne,"6,444",0.23%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Socialist Labor Party of America,Joseph Brandon,"3,064",0.15%
 1926,New York,1920 United States Senate election in New York,General,Total,False,,,"2,842,813",100.00%
+1926,North Carolina,1926 U.S. Senate election in North Carolina,General,Winning,True,Democratic Party (United States),Lee Slater Overman,"218,934",60.51%
+1926,North Carolina,1926 U.S. Senate election in North Carolina,General,Candidate,False,Republican Party (United States),Jacob F. Newell,"142,891",39.49%
 1926,North Carolina,1926 U.S. Senate election in North Carolina,General,Total,False,,,"361,825",100.00%
-1926,North Dakota (special),1926 United States Senate special election in North Dakota,General,Winning,False,Nonpartisan League,Gerald Nye ([[incumbent,"79,709",50.19%
-1926,North Dakota (special),1926 United States Senate special election in North Dakota,General,Candidate,False,Republican Party (United States),[[L. B. Hanna,"59,499",37.46%
+1926,North Dakota (special),1926 United States Senate special election in North Dakota,General,Winning,False,Nonpartisan League,Gerald Nye (inc.),"79,709",50.19%
+1926,North Dakota (special),1926 United States Senate special election in North Dakota,General,Candidate,False,Republican Party (United States),Louis B. Hanna,"59,499",37.46%
 1926,North Dakota (special),1926 United States Senate special election in North Dakota,General,Candidate,False,Independent Republican (United States),C. P. Stone,"19,586",12.33%
-1926,North Dakota,1926 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Gerald Nye ([[incumbent,"107,921",69.58%
+1926,North Dakota,1926 United States Senate election in North Dakota,General,Winning,False,Republican Party (United States),Gerald Nye (inc.),"107,921",69.58%
 1926,North Dakota,1926 United States Senate election in North Dakota,General,Candidate,False,Independent Republican (United States),Norris H. Nelson,"18,951",12.22%
 1926,North Dakota,1926 United States Senate election in North Dakota,General,Candidate,False,Democratic Party (United States),F. F. Burchard,"13,519",8.72%
 1926,North Dakota,1926 United States Senate election in North Dakota,General,Candidate,False,Independent Republican (United States),C. P. Stone,"9,738",6.28%
 1926,North Dakota,1926 United States Senate election in North Dakota,General,Candidate,False,Farmer–Labor Party,William Lemke,"4,977",3.21%
+1926,Ohio,1926 U.S. Senate special election in Ohio,General,Winning,True,Republican Party (United States),Frank B. Willis,"711,359",53.19%
+1926,Ohio,1926 U.S. Senate special election in Ohio,General,Candidate,False,Democratic Party (United States),Atlee Pomerene,"623,221",46.60%
 1926,Ohio,1926 U.S. Senate special election in Ohio,General,Candidate,False,Socialist Labor Party (United States),John D. Goerke,"2,846",0.21%
 1926,Ohio,1926 U.S. Senate special election in Ohio,General,Total,False,,,"1,337,426",100.00%
 1926,Oklahoma,1926 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Elmer Thomas,"195,312",54.78%
-1926,Oklahoma,1926 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),John W. Harreld ([[incumbent,"159,287",44.67%
+1926,Oklahoma,1926 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),John W. Harreld (inc.),"159,287",44.67%
 1926,Oklahoma,1926 United States Senate election in Oklahoma,General,Candidate,False,Socialist Party (United States),J. A. Hart,"1,012",0.28%
 1926,Oklahoma,1926 United States Senate election in Oklahoma,General,Candidate,False,Farmer–Labor Party,J. Edwin Spurr,791,0.22%
 1926,Oklahoma,1926 United States Senate election in Oklahoma,General,Candidate,False,Independent (politician),Thomas P. Hopley,152,0.04%
+1926,Pennsylvania,General election results,General,Winning,False,Republican Party (US),William Scott Vare,"822,187",54.64%
+1926,Pennsylvania,General election results,General,Candidate,False,Democratic Party (US),William B. Wilson,"648,680",43.11%
+1926,Pennsylvania,General election results,General,Candidate,False,Prohibition Party,Elisha K. Kane,"19,523",1.30%
+1926,Pennsylvania,General election results,General,Candidate,False,Socialist Party of America,George W. Snyder,"9,869",0.66%
 1926,Pennsylvania,General election results,General,Candidate,False,Workers Party of America,A. J. Carey,"3,094",0.21%
 1926,Pennsylvania,General election results,General,Candidate,False,Commonwealth Land Party (United States),"Robert Colvin Macauley, Jr.","1,053",0.07%
 1926,Pennsylvania,General election results,General,Write-in,False,,,290,0.02%
 1926,Pennsylvania,General election results,General,Total,False,,,"1,504,696",100.00%
 1926,South Carolina,"South Carolina U.S. Senate Election, 1926",General,Winning,True,Democratic Party (United States),Ellison D. Smith,"14,560",100.00%
-1926,South Dakota,1920 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Peter Norbeck ([[incumbent,"105,756",59.52%
+1926,South Dakota,1920 United States Senate election in South Dakota,General,Winning,False,Republican Party (United States),Peter Norbeck (inc.),"105,756",59.52%
 1926,South Dakota,1920 United States Senate election in South Dakota,General,Candidate,False,Democratic Party (United States),Carl J. Gunderson,"59,128",33.28%
 1926,South Dakota,1920 United States Senate election in South Dakota,General,Candidate,False,Farmer–Labor Party,Howard Platt,"12,797",7.20%
-1926,Vermont,"United States Senate election in Vermont, 1926",General,Candidate,True,Republican Party (United States),Porter H. Dale,"50,364",70.76%
+1926,Vermont,"United States Senate election in Vermont, 1926",General,Winning,True,Republican Party (United States),Porter H. Dale,"50,364",70.76%
 1926,Vermont,"United States Senate election in Vermont, 1926",General,Candidate,True,Prohibition Party,Porter H. Dale,"1,922",2.70%
 1926,Vermont,"United States Senate election in Vermont, 1926",General,Candidate,False,Democratic Party (United States),James E. Kennedy,"18,878",26.52%
 1926,Vermont,"United States Senate election in Vermont, 1926",General,Candidate,False,Republican Party (United States),James E. Kennedy,12,0.02%
 1926,Vermont,"United States Senate election in Vermont, 1926",General,Total,False,,,"71,176",100.00%
+1926,Washington,1926 United States Senate election in Washington,General,Winning,True,Republican Party (US),Wesley Livsey Jones,"164,130",51.31%
+1926,Washington,1926 United States Senate election in Washington,General,Candidate,False,Democratic Party (US),A. Scott Bullitt,"148,783",46.52%
 1926,Washington,1926 United States Senate election in Washington,General,Candidate,False,Socialist Labor Party (US),David D. Burgess,"3,513",1.10%
+1926,Washington,1926 United States Senate election in Washington,General,Candidate,False,Farmer–Labor Party,J. L. Freeman,"3,437",1.55%
 1926,Washington,1926 United States Senate election in Washington,General,Total,False,,,"319,863",100.00%
 1926,Wisconsin,1926 U.S. Senate election in Wisconsin,General,Winning,False,Republican Party (United States),John J. Blaine,"299,759",54.94%
 1926,Wisconsin,1926 U.S. Senate election in Wisconsin,General,Candidate,False,Independent Republican (United States),Charles D. Rosa,"111,122",20.37%

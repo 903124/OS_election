@@ -26,9 +26,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Delaware,General election results,General,Candidate,False,Raymond J. Clatworthy,Republican Party (United States),"105,088",38.13%
 1996,Delaware,General election results,General,Candidate,False,Mark Jones,Libertarian Party (United States),"3,340",1.21%
 1996,Delaware,General election results,General,Candidate,False,Jacqueline Kossoff,Natural Law Party (United States),"1,698",0.62%
-1996,Georgia,1996 Republican U.S. Senate runoff{{citation needed|date=September 2022,General,Winning,False,Guy Millner,Republican Party (United States),"169,240",52.76%
-1996,Georgia,1996 Republican U.S. Senate runoff{{citation needed|date=September 2022,General,Candidate,False,Johnny Isakson,Republican Party (United States),"151,560",47.24%
-1996,Georgia,1996 Republican U.S. Senate runoff{{citation needed|date=September 2022,General,Total,False,,,"320,800",100.00%
+1996,Georgia,1996 Republican U.S. Senate runoff,General,Winning,False,Guy Millner,Republican Party (United States),"169,240",52.76%
+1996,Georgia,1996 Republican U.S. Senate runoff,General,Candidate,False,Johnny Isakson,Republican Party (United States),"151,560",47.24%
+1996,Georgia,1996 Republican U.S. Senate runoff,General,Total,False,,,"320,800",100.00%
 1996,Georgia,General election results,General,Winning,False,Max Cleland,Democratic Party (United States),"1,103,993",48.87%
 1996,Georgia,General election results,General,Candidate,False,Guy Millner,Republican Party (United States),"1,073,969",47.54%
 1996,Georgia,General election results,General,Candidate,False,Jack Cashin,Libertarian Party (United States),"81,262",3.60%
@@ -69,8 +69,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Maine,"United States Senate election in Maine, 1996",General,Candidate,False,John Rensenbrink,Independent (United States),"23,441",3.86%
 1996,Maine,"United States Senate election in Maine, 1996",General,Candidate,False,William P. Clarke,Constitution Party (United States),"18,618",3.07%
 1996,Maine,"United States Senate election in Maine, 1996",General,Write-in,False,,,70,0.01%
+1996,Massachusetts,1996 U.S. Senate election in Massachusetts,General,Winning,True,John Kerry,Democratic Party (United States),"1,334,345",52.21%
+1996,Massachusetts,1996 U.S. Senate election in Massachusetts,General,Candidate,False,Bill Weld,Republican Party (United States),"1,142,837",44.41%
 1996,Massachusetts,1996 U.S. Senate election in Massachusetts,General,Candidate,False,Susan C. Gallagher,Conservative Party (United States),"70,013",2.74%
 1996,Massachusetts,1996 U.S. Senate election in Massachusetts,General,Candidate,False,Robert C. Stowe,Natural Law Party,"7,176",0.28%
+1996,Massachusetts,1996 U.S. Senate election in Massachusetts,General,Write-in,False,,,"1,515",0.06%
 1996,Massachusetts,1996 U.S. Senate election in Massachusetts,General,Total,False,,,"2,555,886",100.00%
 1996,Michigan,General election results,General,Winning,True,Carl Levin,Democratic Party (United States),"2,195,738",58.36%
 1996,Michigan,General election results,General,Candidate,False,Ronna Romney,Republican Party (United States),"1,500,450",39.88%
@@ -82,7 +85,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Minnesota,General election results,General,Winning,True,Paul Wellstone,Minnesota Democratic–Farmer–Labor Party,"1,098,430",50.32%
 1996,Minnesota,General election results,General,Candidate,False,Rudy Boschwitz,Republican Party of Minnesota,"901,194",41.28%
 1996,Minnesota,General election results,General,Candidate,False,Dean Barkley,Reform Party (Minnesota),"152,328",6.98%
-1996,Minnesota,General election results,General,Candidate,False,[[Tim Davis (activist),Grassroots Party,"14,139",0.65%
+1996,Minnesota,General election results,General,Candidate,False,Tim Davis,Grassroots Party,"14,139",0.65%
 1996,Minnesota,General election results,General,Candidate,False,Roy Ezra Carlton,Libertarian Party (United States),"5,428",0.25%
 1996,Minnesota,General election results,General,Candidate,False,Steve Johnson,Natural Law Party (United States),"4,321",0.20%
 1996,Minnesota,General election results,General,Candidate,False,Thomas A. Fiske,Socialist Workers Party (United States),"1,554",0.07%
@@ -101,6 +104,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Nebraska,1996 United States Senate election in Nebraska,General,Candidate,False,Bill Dunn,Natural Law Party (United States),"4,806",0.71%
 1996,Nebraska,1996 United States Senate election in Nebraska,General,Write-in,False,,,663,0.10%
 1996,Nebraska,1996 United States Senate election in Nebraska,General,Total,False,,,"676,958",100.00%
+1996,New Hampshire,General election results,General,Winning,True,Bob Smith,Republican Party (United States),"242,304",49.25%
+1996,New Hampshire,General election results,General,Candidate,False,Dick Swett,Democratic Party (United States),"227,397",46.22%
+1996,New Hampshire,General election results,General,Candidate,False,Ken Blevens,Libertarian Party (United States),"22,265",4.53%
 1996,New Hampshire,General election results,General,Total,False,,,"491,966",100.00%
 1996,New Jersey,General election results,General,Winning,False,Robert Torricelli,Democratic Party (United States),"1,519,328",53.12%
 1996,New Jersey,General election results,General,Candidate,False,Dick Zimmer,Republican Party (United States),"1,227,817",42.93%
@@ -139,7 +145,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Oregon,"United States Senate election in Oregon, 1996",General,Candidate,False,Stormy Mohn,Libertarian Party (United States),"12,697",0.93%
 1996,Oregon,"United States Senate election in Oregon, 1996",General,Candidate,False,Christopher Phelps,Socialist Party USA,"5,426",0.40%
 1996,Oregon,"United States Senate election in Oregon, 1996",General,Candidate,False,Michael L. Hoyes,Natural Law Party (United States),"4,425",0.33%
-1996,Rhode Island,General election results,General,Winning,False,[[Jack Reed (Rhode Island politician),Democratic Party (United States),"230,676",63.31%
+1996,Rhode Island,General election results,General,Winning,False,Jack Reed,Democratic Party (United States),"230,676",63.31%
 1996,Rhode Island,General election results,General,Candidate,False,Nancy Mayer,Republican Party (United States),"127,368",34.96%
 1996,Rhode Island,General election results,General,Candidate,False,Donald W. Lovejoy,Independent (United States),"6,327",1.74%
 1996,South Carolina,"South Carolina U.S. Senate Election, 1996",General,Winning,True,Strom Thurmond,Republican Party (United States),"620,326",53.38%
@@ -149,7 +155,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,South Carolina,"South Carolina U.S. Senate Election, 1996",General,Candidate,False,Annette C. Estes,Natural Law Party (United States),"7,697",0.66%
 1996,South Carolina,"South Carolina U.S. Senate Election, 1996",General,Write-in,False,,,141,0.01%
 1996,South Carolina,"South Carolina U.S. Senate Election, 1996",General,Total,False,,,"1,162,125",100.00%
-1996,South Dakota,General election results,General,Winning,False,[[Tim Johnson (South Dakota politician),Democratic Party (United States),"166,533",51.32%
+1996,South Dakota,General election results,General,Winning,False,Tim Johnson,Democratic Party (United States),"166,533",51.32%
 1996,South Dakota,General election results,General,Candidate,True,Larry Pressler,Republican Party (United States),"157,954",48.68%
 1996,South Dakota,General election results,General,Total,False,,,"324,487",100.00%
 1996,Tennessee,"United States Senate election in Tennessee, 1996",General,Winning,True,Fred Thompson,Republican Party (United States),"1,091,554",61.37%
@@ -159,8 +165,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Tennessee,"United States Senate election in Tennessee, 1996",General,Candidate,False,Robert O. Watson,Independent (United States),"5,569",0.31%
 1996,Tennessee,"United States Senate election in Tennessee, 1996",General,Candidate,False,Greg Samples,Independent (United States),"4,104",0.23%
 1996,Tennessee,"United States Senate election in Tennessee, 1996",General,Candidate,False,Philip L. Kienlen,Independent (United States),"2,173",0.12%
-1996,Texas,Democratic runoff results,General,Winning,False,[[Victor Morales (politician),Texas Democratic Party,"246,614",51.18%
-1996,Texas,Democratic runoff results,General,Candidate,False,[[John Wiley Bryant,Texas Democratic Party,"235,281",48.82%
+1996,Texas,Democratic runoff results,General,Winning,False,Victor Morales,Texas Democratic Party,"246,614",51.18%
+1996,Texas,Democratic runoff results,General,Candidate,False,John Bryant,Texas Democratic Party,"235,281",48.82%
 1996,Texas,Democratic runoff results,General,Total,False,,,"481,895",100.00%
 1996,Texas,General election results,General,Winning,True,Phil Gramm,Republican Party (United States),"3,027,680",54.78%
 1996,Texas,General election results,General,Candidate,False,Victor M. Morales,Democratic Party (United States),"2,428,776",43.94%

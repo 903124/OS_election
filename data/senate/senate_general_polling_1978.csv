@@ -1,5 +1,5 @@
-Year,State,Primary_Type,Poll_Source,Date,Sample,MoE,Candidate,Party,Pct,Incumbent
-1978,New Jersey,General,Rutgers-Eagleton,"May 7–16, 1978",793 RV,36%,Bill Bradley,D,17%,False
-1978,New Jersey,General,Rutgers-Eagleton,"October 23–29, 1978",946 RV,50%,Bill Bradley,D,32%,False
-1978,New Jersey,General,Rutgers-Eagleton,"May 7–16, 1978",793 RV,36%,Jeffrey Bell,R,47%,False
-1978,New Jersey,General,Rutgers-Eagleton,"October 23–29, 1978",946 RV,50%,Jeffrey Bell,R,18%,False
+Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,Candidate,Party,Pct,Incumbent,Date_Original
+1978,New Jersey,General,Rutgers-Eagleton,1978-05-07 to 1978-05-16,1978-05-07,1978-05-16,793 RV,Bill Bradley,D,36%,False,"May 7–16, 1978"
+1978,New Jersey,General,Rutgers-Eagleton,1978-10-23 to 1978-10-29,1978-10-23,1978-10-29,946 RV,Bill Bradley,D,50%,False,"October 23–29, 1978"
+1978,New Jersey,General,Rutgers-Eagleton,1978-05-07 to 1978-05-16,1978-05-07,1978-05-16,793 RV,Jeffrey Bell,R,17%,False,"May 7–16, 1978"
+1978,New Jersey,General,Rutgers-Eagleton,1978-10-23 to 1978-10-29,1978-10-23,1978-10-29,946 RV,Jeffrey Bell,R,32%,False,"October 23–29, 1978"

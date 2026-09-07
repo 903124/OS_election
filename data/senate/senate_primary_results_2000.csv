@@ -2,7 +2,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,California,2000 U.S. Senate Democratic primary,Primary,Winning,True,Dianne Feinstein,Democratic Party (US),"3,759,560",95.50%
 2000,California,2000 U.S. Senate Democratic primary,Primary,Candidate,False,Michael Schmier,Democratic Party (US),"181,104",4.50%
 2000,California,2000 U.S. Senate Democratic primary,Primary,Total,False,,,"3,940,664",100.00%
-2000,California,2000 U.S. Senate Republican Party primary in California,Primary,Winning,False,[[Tom Campbell (California politician),Republican Party (US),"1,697,208",56.17%
+2000,California,2000 U.S. Senate Republican Party primary in California,Primary,Winning,False,Tom Campbell,Republican Party (US),"1,697,208",56.17%
 2000,California,2000 U.S. Senate Republican Party primary in California,Primary,Candidate,False,Ray Haynes,Republican Party (US),"679,034",22.47%
 2000,California,2000 U.S. Senate Republican Party primary in California,Primary,Candidate,False,Bill Horn,Republican Party (US),"453,630",15.01%
 2000,California,2000 U.S. Senate Republican Party primary in California,Primary,Candidate,False,John M. Brown,Republican Party (US),"68,415",2.26%
@@ -80,7 +80,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,New Mexico,Democratic primary results,Primary,Winning,True,Jeff Bingaman,Democratic Party (United States),"124,887",100.00
 2000,New Mexico,Democratic primary results,Primary,Total,False,,,"124,887",100.00
 2000,New Mexico,Republican primary results,Primary,Winning,False,Bill Redmond,Republican Party (United States),"43,780",60.39
-2000,New Mexico,Republican primary results,Primary,Candidate,False,[[Steve Pearce (politician),Republican Party (United States),"15,628",21.56
+2000,New Mexico,Republican primary results,Primary,Candidate,False,Steve Pearce,Republican Party (United States),"15,628",21.56
 2000,New Mexico,Republican primary results,Primary,Candidate,False,William F. Davis,Republican Party (United States),"13,083",18.05
 2000,New Mexico,Republican primary results,Primary,Total,False,,,"72,491",100.00
 2000,New York,Democratic primary,Primary,Winning,False,Hillary Rodham Clinton,Democratic Party (United States),"565,353",81.97%
@@ -99,8 +99,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2000,Pennsylvania,2000 Republican U.S. Senate primary,Primary,Total,False,,,"545,687",100.00
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Winning,False,Ron Klink,Democratic Party (US),"299,219",40.73
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Allyson Schwartz,Democratic Party (US),"194,763",26.52
-2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,[[Tom Foley (Pennsylvania politician),Democratic Party (US),"184,003",25.05
-2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,[[Robert A. Rovner,Democratic Party (US),"28,031",3.82
+2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Tom Foley,Democratic Party (US),"184,003",25.05
+2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Bob Rovner,Democratic Party (US),"28,031",3.82
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Murray Levin,Democratic Party (US),"18,903",2.57
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Candidate,False,Phil Berg,Democratic Party (US),"9,636",1.31
 2000,Pennsylvania,2000 Democratic U.S. Senate primary,Primary,Total,False,,,"734,575",100.00

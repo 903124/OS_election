@@ -2,17 +2,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1938,Alabama,"Alabama special Democratic primary, January 4, 1938",Primary,Winning,False,Democratic Party (US),J. Lister Hill,"90,601",61.81%
 1938,Alabama,"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (US),James Thomas Heflin,"50,189",34.24%
 1938,Alabama,"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (US),Charles W. Williams,"5,783",3.95%
-1938,Alabama (special),"Alabama special Democratic primary, January 4, 1938",Primary,Winning,False,Democratic Party (United States),J. Lister Hill,"90,601",61.81%
-1938,Alabama (special),"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (United States),James Thomas Heflin,"50,189",34.24%
-1938,Alabama (special),"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (United States),Charles W. Williams,"5,783",3.95%
-1938,Alabama (special),Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"68,328",65.48%
-1938,Alabama (special),Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"82,714",76.52%
-1938,Alabama (special),Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Hattie Wyatt Caraway,"122,883",89.58%
-1938,Alabama (special),Arizona Democratic primary,Primary,Candidate,False,Democratic Party (United States),Robert E. Miller,"22,154",21.23%
-1938,Alabama (special),Arizona Democratic primary,Primary,Candidate,False,Democratic Party (United States),Whit I. Hughes,"13,867",13.29%
-1938,Alabama (special),Arizona Democratic primary,Primary,Candidate,False,Republican Party (United States),Burt H. Clingan,"25,378",23.48%
-1938,Alabama (special),Arizona Democratic primary,Primary,Candidate,False,Republican Party (United States),C. T. Atkinson,"14,290",10.42%
-1938,Alabama (special),Arizona Democratic primary,Primary,Total,False,,,"104,349",100.00
 1938,Arizona,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"68,328",65.48%
 1938,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Robert E. Miller,"22,154",21.23%
 1938,Arizona,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Whit I. Hughes,"13,867",13.29%
@@ -141,35 +130,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1938,Oklahoma,Prohibition primary,Primary,Winning,False,Prohibition Party (United States),P. C. Nelson,91,54.49%
 1938,Oklahoma,Prohibition primary,Primary,Candidate,False,Prohibition Party (United States),A. B. Lamb,76,45.51%
 1938,Oklahoma,Prohibition primary,Primary,Total,False,,,167,100.00%
-1938,Oregon (special),"Alabama special Democratic primary, January 4, 1938",Primary,Winning,False,Democratic Party (United States),J. Lister Hill,"90,601",61.81%
-1938,Oregon (special),"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (United States),James Thomas Heflin,"50,189",34.24%
-1938,Oregon (special),"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (United States),Charles W. Williams,"5,783",3.95%
-1938,Oregon (special),Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"68,328",65.48%
-1938,Oregon (special),Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"82,714",76.52%
-1938,Oregon (special),Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Hattie Wyatt Caraway,"122,883",89.58%
-1938,Oregon (special),Arizona Democratic primary,Primary,Candidate,False,Democratic Party (United States),Robert E. Miller,"22,154",21.23%
-1938,Oregon (special),Arizona Democratic primary,Primary,Candidate,False,Democratic Party (United States),Whit I. Hughes,"13,867",13.29%
-1938,Oregon (special),Arizona Democratic primary,Primary,Candidate,False,Republican Party (United States),Burt H. Clingan,"25,378",23.48%
-1938,Oregon (special),Arizona Democratic primary,Primary,Candidate,False,Republican Party (United States),C. T. Atkinson,"14,290",10.42%
-1938,Oregon (special),Arizona Democratic primary,Primary,Total,False,,,"104,349",100.00
-1938,Oregon,"Alabama special Democratic primary, January 4, 1938",Primary,Winning,False,Democratic Party (United States),J. Lister Hill,"90,601",61.81%
-1938,Oregon,"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (United States),James Thomas Heflin,"50,189",34.24%
-1938,Oregon,"Alabama special Democratic primary, January 4, 1938",Primary,Candidate,False,Democratic Party (United States),Charles W. Williams,"5,783",3.95%
-1938,Oregon,Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"68,328",65.48%
-1938,Oregon,Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Carl T. Hayden,"82,714",76.52%
-1938,Oregon,Arizona Democratic primary,Primary,Winning,True,Democratic Party (United States),Hattie Wyatt Caraway,"122,883",89.58%
-1938,Oregon,Arizona Democratic primary,Primary,Candidate,False,Democratic Party (United States),Robert E. Miller,"22,154",21.23%
-1938,Oregon,Arizona Democratic primary,Primary,Candidate,False,Democratic Party (United States),Whit I. Hughes,"13,867",13.29%
-1938,Oregon,Arizona Democratic primary,Primary,Candidate,False,Republican Party (United States),Burt H. Clingan,"25,378",23.48%
-1938,Oregon,Arizona Democratic primary,Primary,Candidate,False,Republican Party (United States),C. T. Atkinson,"14,290",10.42%
-1938,Oregon,Arizona Democratic primary,Primary,Total,False,,,"104,349",100.00
-1938,Tennessee (special),Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),[[Tom Stewart (politician),"174,940",49.26%
+1938,Tennessee (special),Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),Tom Stewart,"174,940",49.26%
 1938,Tennessee (special),Democratic Party primary results,Primary,Candidate,True,Democratic Party (United States),George L. Berry,"101,966",28.71%
 1938,Tennessee (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John Ridley Mitchell,"70,393",19.82%
 1938,Tennessee (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John Randolph Neal Jr.,"4,689",1.32%
 1938,Tennessee (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),C. L. Powell,"3,171",0.89%
 1938,Tennessee (special),Democratic Party primary results,Primary,Total,False,,,"355,159",100.00%
-1938,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),[[Ernest Willard Gibson,"38,872",81.8%
+1938,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),"Ernest W. Gibson, Sr. (inc.)","38,872",81.8%
 1938,Vermont,Republican primary results,Primary,Candidate,False,Republican Party (United States),Martin S. Vilas,"8,630",18.2%
 1938,Vermont,Republican primary results,Primary,Candidate,False,Republican Party (United States),Other,14,0.0%
 1938,Vermont,Republican primary results,Primary,Total,False,,,"47,516",100.0%

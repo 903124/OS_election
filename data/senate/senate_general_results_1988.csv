@@ -4,6 +4,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1988,Arizona,General election results,General,Candidate,False,Arizona Libertarian Party,Rick Tompkins,"20,849",1.79%
 1988,Arizona,General election results,General,Candidate,False,New Alliance Party,Ed Finkelstein,"5,195",0.45%
 1988,Arizona,General election results,General,Write-in,False,,,32,0.00%
+1988,California,1988 U.S. Senate election in California,General,Winning,True,Republican Party (United States),Pete Wilson,"5,143,409",52.79%
+1988,California,1988 U.S. Senate election in California,General,Candidate,False,Democratic Party (United States),Leo T. McCarthy,"4,287,253",44.00%
+1988,California,1988 U.S. Senate election in California,General,Candidate,False,Peace and Freedom Party,Maria Elizabeth Muñoz,"166,600",1.71%
+1988,California,1988 U.S. Senate election in California,General,Candidate,False,Libertarian Party (United States),Jack Dean,"79,997",0.82%
+1988,California,1988 U.S. Senate election in California,General,Candidate,False,American Independent Party,Merton D. Short,"66,291",0.68%
 1988,California,1988 U.S. Senate election in California,General,Candidate,False,Independent (United States),Joel Britton,51,0.00%
 1988,California,1988 U.S. Senate election in California,General,Total,False,,,"9,743,601",100.00%
 1988,Connecticut,General election results,General,Winning,False,Democratic Party (United States),Joe Lieberman,"688,499",49.76%
@@ -28,9 +33,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1988,Maine,General election results,General,Total,False,,,"556,745",100.00%
 1988,Maryland,General election results,General,Winning,True,Democratic Party (United States),Paul Sarbanes,"999,166",61.79%
 1988,Maryland,General election results,General,Candidate,False,Republican Party (United States),Alan Keyes,"617,537",38.19%
-1988,Maryland,General election results,General,Candidate,False,Independent (United States),[[Imad-ad-Dean Ahmad,349,0.02%
+1988,Maryland,General election results,General,Candidate,False,Independent (United States),Imad A. Ahmad (Write-in),349,0.02%
 1988,Maryland,General election results,General,Candidate,False,Independent (United States),Rashaad Ali (Write-in),13,0.00%
 1988,Maryland,General election results,General,Total,False,,,"1,617,065",100.0%
+1988,Massachusetts,1988 United States Senate election in Massachusetts,General,Winning,True,Democratic Party (US),Ted Kennedy,"1,693,344",64.97%
+1988,Massachusetts,1988 United States Senate election in Massachusetts,General,Candidate,False,Republican Party (US),Joe Malone,"884,267",33.93%
+1988,Massachusetts,1988 United States Senate election in Massachusetts,General,Candidate,False,Libertarian Party (US),Freda Lee Nason,"13,199",0.51%
 1988,Massachusetts,1988 United States Senate election in Massachusetts,General,Write-in,False,,,207,0.01
 1988,Massachusetts,1988 United States Senate election in Massachusetts,General,Total,False,,,"2,606,225",100.00%
 1988,Michigan,General election results,General,Winning,True,Democratic Party (United States),Donald Riegle,"2,116,865",60.38%
@@ -53,7 +61,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1988,Montana,"United States Senate election in Montana, 1988",General,Winning,False,Republican Party (United States),Conrad Burns,"189,445",51.87%
 1988,Montana,"United States Senate election in Montana, 1988",General,Candidate,True,Democratic Party (United States),John Melcher,"175,809",48.13%
 1988,Nebraska,1988 United States Senate election in Nebraska,General,Winning,False,Democratic Party (United States),Bob Kerrey,"378,717",56.71%
-1988,Nebraska,1988 United States Senate election in Nebraska,General,Candidate,False,Republican Party (United States),David Karnes ([[incumbent,"278,250",41.66%
+1988,Nebraska,1988 United States Senate election in Nebraska,General,Candidate,False,Republican Party (United States),David Karnes (inc.),"278,250",41.66%
 1988,Nebraska,1988 United States Senate election in Nebraska,General,Candidate,False,New Alliance Party,Ernie Chambers,"10,372",1.55%
 1988,Nebraska,1988 United States Senate election in Nebraska,General,Write-in,False,,,521,0.08%
 1988,Nebraska,1988 United States Senate election in Nebraska,General,Total,False,,,"667,860",100.00%
@@ -61,7 +69,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1988,Nevada,General election results,General,Candidate,True,Republican Party (United States),Chic Hecht,"161,336",46.14%
 1988,Nevada,General election results,General,Candidate,False,Libertarian Party (United States),James Frye,"5,523",1.58%
 1988,Nevada,General election results,General,Total,False,,,"349,649",100.00%
+1988,New Jersey,"United States Senate election in New Jersey, 1988",General,Winning,True,Democratic Party (United States),Frank Lautenberg,"1,599,905",53.55%
+1988,New Jersey,"United States Senate election in New Jersey, 1988",General,Candidate,False,Republican Party (United States),Pete Dawkins,"1,349,937",45.18%
 1988,New Jersey,"United States Senate election in New Jersey, 1988",General,Candidate,False,Independent (United States),Joseph F. Job,"20,091",0.67%
+1988,New Jersey,"United States Senate election in New Jersey, 1988",General,Candidate,False,Libertarian Party (United States),Jerry Zeldin,"12,354",0.41%
+1988,New Jersey,"United States Senate election in New Jersey, 1988",General,Candidate,False,Socialist Workers Party (United States),Thomas A. Fiske,"5,347",0.18%
 1988,New Jersey,"United States Senate election in New Jersey, 1988",General,Total,False,,,"2,987,634",100.00%
 1988,New Mexico,General election results,General,Winning,True,Democratic Party (United States),Jeff Bingaman,"321,983",63.31%
 1988,New Mexico,General election results,General,Candidate,False,Republican Party (United States),Bill Valentine,"186,579",36.68%
@@ -86,12 +98,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1988,Pennsylvania,General election results,General,Candidate,False,New Alliance Party,Sam Blancato,"4,569",0.11%
 1988,Pennsylvania,General election results,General,Total,False,,,"4,366,598",100%
 1988,Rhode Island,General election results,General,Winning,True,Republican Party (United States),John Chafee,"217,273",54.59%
-1988,Rhode Island,General election results,General,Candidate,False,Democratic Party (United States),[[Richard A. Licht,"180,717",45.41%
-1988,Tennessee,1988 United States Senate election in Tennessee{{sfn|Thomas|1989|p=23,General,Winning,True,Democratic Party (United States),Jim Sasser,"1,020,061",65.09%
-1988,Tennessee,1988 United States Senate election in Tennessee{{sfn|Thomas|1989|p=23,General,Candidate,False,Republican Party (United States),Bill Andersen,"541,033",34.52%
-1988,Tennessee,1988 United States Senate election in Tennessee{{sfn|Thomas|1989|p=23,General,Candidate,False,Independent politician,Khalil-Ullah Al-Muhaymin,"6,042",0.39%
-1988,Tennessee,1988 United States Senate election in Tennessee{{sfn|Thomas|1989|p=23,General,Candidate,False,Independent politician,Write-ins,45,0.39%
-1988,Tennessee,1988 United States Senate election in Tennessee{{sfn|Thomas|1989|p=23,General,Total,False,,,"1,567,181",100.00%
+1988,Rhode Island,General election results,General,Candidate,False,Democratic Party (United States),Richard Licht,"180,717",45.41%
+1988,Tennessee,1988 United States Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Jim Sasser,"1,020,061",65.09%
+1988,Tennessee,1988 United States Senate election in Tennessee,General,Candidate,False,Republican Party (United States),Bill Andersen,"541,033",34.52%
+1988,Tennessee,1988 United States Senate election in Tennessee,General,Candidate,False,Independent politician,Khalil-Ullah Al-Muhaymin,"6,042",0.39%
+1988,Tennessee,1988 United States Senate election in Tennessee,General,Candidate,False,Independent politician,Write-ins,45,0.39%
+1988,Tennessee,1988 United States Senate election in Tennessee,General,Total,False,,,"1,567,181",100.00%
 1988,Texas,April 12 Republican run-off results,General,Winning,False,Republican Party (United States),Beau Boulter,"111,134",60.2
 1988,Texas,April 12 Republican run-off results,General,Candidate,False,Republican Party (United States),Wes Gilbreath,"73,573",39.8
 1988,Texas,April 12 Republican run-off results,General,Total,False,,,"184,707",100
@@ -104,7 +116,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1988,Utah,1988 United States Senate election in Utah,General,Candidate,False,Socialist Workers Party (United States),William M. Arth,"1,233",0.19%
 1988,Utah,1988 United States Senate election in Utah,General,Total,False,,,"640,697",100.00%
 1988,Vermont,"United States Senate election in Vermont, 1988",General,Winning,False,Republican Party (United States),Jim Jeffords,"163,203",67.97%
-1988,Vermont,"United States Senate election in Vermont, 1988",General,Candidate,False,Democratic Party (United States),[[William B. Gray,"71,469",29.76%
+1988,Vermont,"United States Senate election in Vermont, 1988",General,Candidate,False,Democratic Party (United States),Bill Gray,"71,469",29.76%
 1988,Vermont,"United States Senate election in Vermont, 1988",General,Candidate,False,Liberty Union Party,Jerry Levy,"2,506",1.04%
 1988,Vermont,"United States Senate election in Vermont, 1988",General,Candidate,False,Independent (United States),King Milne,"2,424",1.01%
 1988,Vermont,"United States Senate election in Vermont, 1988",General,Total,False,,,"240,111",100.00%

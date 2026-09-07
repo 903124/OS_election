@@ -10,17 +10,30 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1930,Colorado,1930 United States Senate special election in Colorado,General,Candidate,False,H. H. Marrs,Farmer–Labor Party,"1,367",0.42%
 1930,Colorado,1930 United States Senate special election in Colorado,General,Candidate,False,James Allander,Communist Party USA,924,0.29%
 1930,Colorado,1930 United States Senate special election in Colorado,General,Candidate,False,Frank H. Rice,Liberal Party,451,0.14%
+1930,Iowa,1930 U.S. Senate election in Iowa,General,Winning,False,Lester J. Dickinson,Republican Party (United States),"307,613",56.29%
+1930,Iowa,1930 U.S. Senate election in Iowa,General,Candidate,True,Daniel F. Steck,Democratic Party (United States),"235,186",43.03%
 1930,Iowa,1930 U.S. Senate election in Iowa,General,Candidate,False,Arthur A. Wells,Farmer–Labor Party,"2,668",0.49%
+1930,Iowa,1930 U.S. Senate election in Iowa,General,Candidate,False,L.E. Eickelberg,Independent (politician),"1,405",0.19%
 1930,Iowa,1930 U.S. Senate election in Iowa,General,Total,False,,,"546,512",100.00%
-1930,Kansas,1930 United States Senate election in Kansas,General,Winning,False,Arthur Capper ([[incumbent,Republican Party (United States),"364,548",61.09%
+1930,Kansas,1930 United States Senate election in Kansas,General,Winning,False,Arthur Capper (inc.),Republican Party (United States),"364,548",61.09%
 1930,Kansas,1930 United States Senate election in Kansas,General,Candidate,False,Jonathan M. Davis,Democratic Party (United States),"232,161",38.91%
 1930,Kansas,1930 United States Senate election in Kansas,General,Total,False,,,"596,709",100.00%
+1930,Louisiana,1930 United States Senate election,General,Winning,False,Huey Long,Democratic Party (United States),"130,536",99.98%
 1930,Louisiana,1930 United States Senate election,General,Total,False,,,"130,560",100.00%
+1930,Maine,1930 U.S. Senate election in Maine,General,Winning,False,Wallace H. White Jr.,Republican Party (United States),"88,262",60.95%
+1930,Maine,1930 U.S. Senate election in Maine,General,Candidate,False,Frank H. Haskell,Democratic Party (United States),"56,559",39.05%
 1930,Maine,1930 U.S. Senate election in Maine,General,Total,False,,,"147,821",100.00%
+1930,Massachusetts,General election,General,Winning,False,Marcus A. Coolidge,Democratic Party (US),"651,939",54.01%
+1930,Massachusetts,General election,General,Candidate,False,William M. Butler,Republican Party (US),"539,226",44.67%
 1930,Massachusetts,General election,General,Candidate,False,Sylvester J. McBride,Socialist Party of America,"7,244",0.60%
 1930,Massachusetts,General election,General,Candidate,False,Oscar Kinsalas,Socialist Labor Party of America,"4,640",0.38%
+1930,Massachusetts,General election,General,Candidate,False,Max Lerner,Communist Party USA,"3,962",0.34%
 1930,Massachusetts,General election,General,Total,False,,,"1,207,011",100.00%
+1930,Michigan,1930 U.S. Senate election in Michigan,General,Winning,True,James J. Couzens,Republican Party (US),"634,577",78.15%
+1930,Michigan,1930 U.S. Senate election in Michigan,General,Candidate,False,Thomas A. E. Weadock,Democratic Party (US),"169,757",20.91%
 1930,Michigan,1930 U.S. Senate election in Michigan,General,Candidate,False,George Powers,Communist Party (United States),"3,523",0.43%
+1930,Michigan,1930 U.S. Senate election in Michigan,General,Candidate,False,Milton E. Depew,Socialist Party (United States),"2,419",0.30%
+1930,Michigan,1930 U.S. Senate election in Michigan,General,Candidate,False,Charles Rennels,Prohibition Party (United States),"1,718",0.21%
 1930,Michigan,1930 U.S. Senate election in Michigan,General,Total,False,,,"811,994",100.00%
 1930,Minnesota,General election results,General,Winning,True,Thomas D. Schall,Republican Party of Minnesota,"293,626",37.61%
 1930,Minnesota,General election results,General,Candidate,False,Einar Hoidale,Democratic Party of Minnesota,"282,018",36.13%
@@ -30,44 +43,48 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1930,Minnesota,General election results,General,Total,False,,,"780,629",100.00%
 1930,Montana,"United States Senate election in Montana, 1930",General,Winning,True,Thomas J. Walsh,Democratic Party (United States),"106,274",60.33%
 1930,Montana,"United States Senate election in Montana, 1930",General,Candidate,False,Albert J. Galen,Republican Party (United States),"66,724",37.88%
-1930,Montana,"United States Senate election in Montana, 1930",General,Candidate,False,[[Charles E. Taylor (politician),Farmer–Labor Party (US),"1,789",1.02%
+1930,Montana,"United States Senate election in Montana, 1930",General,Candidate,False,Charles E. Taylor,Farmer–Labor Party (US),"1,789",1.02%
 1930,Montana,"United States Senate election in Montana, 1930",General,Candidate,False,John F. McKay,Socialist Party (United States),"1,006",0.57%
 1930,Montana,"United States Senate election in Montana, 1930",General,Candidate,False,Willis L. Wright,Communist Party (United States),368,0.21%
-1930,Nebraska,1930 United States Senate election in Nebraska,General,Winning,False,George W. Norris ([[incumbent,Republican Party (United States),"247,118",56.84%
+1930,Nebraska,1930 United States Senate election in Nebraska,General,Winning,False,George W. Norris (inc.),Republican Party (United States),"247,118",56.84%
 1930,Nebraska,1930 United States Senate election in Nebraska,General,Candidate,False,Gilbert Hitchcock,Democratic Party (United States),"172,795",39.74%
 1930,Nebraska,1930 United States Senate election in Nebraska,General,Candidate,False,Beatrice Fenton Craig,Independent (politician),"14,884",3.42%
 1930,Nebraska,1930 United States Senate election in Nebraska,General,Write-in,False,,,7,0.00%
 1930,Nebraska,1930 United States Senate election in Nebraska,General,Total,False,,,"434,804",100.00%
 1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Winning,False,Dwight W. Morrow,Republican Party (United States),"601,497",58.50%
-1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Candidate,False,[[Alexander Simpson (politician),Democratic Party (United States),"401,007",39.00%
+1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Candidate,False,Alexander Simpson,Democratic Party (United States),"401,007",39.00%
 1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Candidate,False,Esther Hill Elfeth,Prohibition Party (United States),"18,903",1.84%
 1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Candidate,False,Henry Jager,Socialist Party of America,"4,519",0.44%
 1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Candidate,False,Dozier W. Graham,Communist Party USA,"1,627",0.16%
 1930,New Jersey,"United States Senate election in New Jersey, 1930",General,Candidate,False,Alexander Kudlik,Socialist Labor Party of America,670,0.07%
+1930,Ohio (special),1930 U.S. Senate election in Ohio,General,Winning,False,Robert J. Bulkley,Democratic Party (United States),"1,046,561",54.78%
+1930,Ohio (special),1930 U.S. Senate election in Ohio,General,Candidate,True,Roscoe C. McCulloch,Republican Party (United States),"863,944",45.22%
 1930,Ohio (special),1930 U.S. Senate election in Ohio,General,Total,False,,,"1,910,505",100.00%
 1930,Oklahoma,1930 United States Senate election in Oklahoma,General,Winning,False,Thomas Gore,Democratic Party (United States),"255,838",52.29%
-1930,Oklahoma,1930 United States Senate election in Oklahoma,General,Candidate,False,William B. Pine ([[incumbent,Republican Party (United States),"232,589",47.54%
+1930,Oklahoma,1930 United States Senate election in Oklahoma,General,Candidate,False,William B. Pine (inc.),Republican Party (United States),"232,589",47.54%
 1930,Oklahoma,1930 United States Senate election in Oklahoma,General,Candidate,False,Edward D. Evans,Independent (politician),614,0.13%
 1930,Oklahoma,1930 United States Senate election in Oklahoma,General,Candidate,False,Thomas P. Hopley,Independent (politician),218,0.04%
-1930,Pennsylvania (special),General election results,General,Candidate,False,James J. Davis,Republican Party (US),"1,462,186",71.54%
+1930,Pennsylvania (special),General election results,General,Winning,False,James J. Davis,Republican Party (US),"1,462,186",71.54%
 1930,Pennsylvania (special),General election results,General,Candidate,False,Sedgwick Kistler,Democratic Party (US),"523,338",25.61%
 1930,Pennsylvania (special),General election results,General,Candidate,False,William J. Van Essen,Socialist Party USA,"26,796",1.31%
 1930,Pennsylvania (special),General election results,General,Candidate,False,S. W. Bierer,Prohibition Party,"24,498",1.20%
 1930,Pennsylvania (special),General election results,General,Candidate,False,Emmett Patrick Cush,Communist Party USA,"6,960",0.34%
 1930,South Carolina,1930 U.S. Senate election in South Carolina,General,Winning,False,James F. Byrnes,Democratic Party (United States),"16,211",100.0
 1930,South Dakota,1930 United States Senate election in South Dakota,General,Winning,False,William J. Bulow,Democratic Party (United States),"106,317",51.63%
-1930,South Dakota,1930 United States Senate election in South Dakota,General,Candidate,False,William H. McMaster ([[incumbent,Republican Party (United States),"99,595",48.37%
+1930,South Dakota,1930 United States Senate election in South Dakota,General,Candidate,False,William H. McMaster (inc.),Republican Party (United States),"99,595",48.37%
 1930,Texas,1930 United States Senate election in Texas,General,Winning,True,Morris Sheppard,Democratic Party (United States),"526,293",71.06%
 1930,Texas,1930 United States Senate election in Texas,General,Candidate,False,Robert Lee Henry,Democratic Party (United States),"174,260",23.53%
 1930,Texas,1930 United States Senate election in Texas,General,Candidate,False,C. A. Mitchner,Democratic Party (United States),"40,130",5.42%
 1930,Texas,1930 United States Senate election in Texas,General,Total,False,,,"740,683",100.00%
+1930,Texas,1930 United States Senate election in Texas,General,Winning,True,Morris Sheppard,Democratic Party (United States),"266,550",86.91%
+1930,Texas,1930 United States Senate election in Texas,General,Candidate,False,Doran J. Haesly,Republican Party (United States),"39,047",12.73%
 1930,Texas,1930 United States Senate election in Texas,General,Candidate,False,Guy L. Smith,Socialist Party (United States),808,0.26%
 1930,Texas,1930 United States Senate election in Texas,General,Candidate,False,W.A. Berry,Communist Party (United States),296,0.10%
 1930,Texas,1930 United States Senate election in Texas,General,Total,False,,,"306,701",100.00%
-1930,Virginia,"United States Senate election in Virginia, 1930",General,Winning,False,Carter Glass ([[incumbent,Democratic Party (United States),"112,002",76.67%
+1930,Virginia,"United States Senate election in Virginia, 1930",General,Winning,False,Carter Glass (inc.),Democratic Party (United States),"112,002",76.67%
 1930,Virginia,"United States Senate election in Virginia, 1930",General,Candidate,False,J. Cloyd Byars,Independent Democrat,"26,091",17.86%
 1930,Virginia,"United States Senate election in Virginia, 1930",General,Candidate,False,Joe C. Morgan,Socialist Party of America,"7,944",5.44%
 1930,Wyoming (special),1930 United States Senate election in Wyoming,General,Winning,False,Robert D. Carey,Republican Party (United States),"43,626",59.05%
-1930,Wyoming (special),1930 United States Senate election in Wyoming,General,Candidate,False,[[Harry Schwartz (U.S. senator),Democratic Party (United States),"30,259",40.95%
+1930,Wyoming (special),1930 United States Senate election in Wyoming,General,Candidate,False,Harry Schwartz,Democratic Party (United States),"30,259",40.95%
 1930,Wyoming,1930 United States Senate election in Wyoming,General,Winning,False,Robert D. Carey,Republican Party (United States),"43,626",59.05%
-1930,Wyoming,1930 United States Senate election in Wyoming,General,Candidate,False,[[Harry Schwartz (U.S. senator),Democratic Party (United States),"30,259",40.95%
+1930,Wyoming,1930 United States Senate election in Wyoming,General,Candidate,False,Harry Schwartz,Democratic Party (United States),"30,259",40.95%

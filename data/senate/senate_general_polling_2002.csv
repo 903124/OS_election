@@ -1,49 +1,190 @@
-Year,State,Primary_Type,Poll_Source,Date,Sample,MoE,Candidate,Party,Pct,Incumbent
-2002,Iowa,General,SurveyUSA,"October 27–29, 2002",605 (LV),± 4.1%,Tom Harkin,D,60%,True
-2002,Iowa,General,SurveyUSA,"October 27–29, 2002",605 (LV),± 4.1%,Greg Ganske,R,38%,False
-2002,Missouri (special),General,SurveyUSA,"October 31 – November 3, 2002",958 (LV),± 3.3%,Jean Carnahan,D,49%,True
-2002,Missouri (special),General,SurveyUSA,"October 31 – November 3, 2002",958 (LV),± 3.3%,Jim Talent,R,47%,False
-2002,New Hampshire,General,American Research Group,"November 2–3, 2002",600 (LV),± 4.0%,John Sununu,R,48%,False
-2002,New Hampshire,General,UNH,"October 30 – November 2, 2002",644 (LV),± 3.8%,John Sununu,R,46%,False
-2002,New Hampshire,General,Concord Monitor,"October 29–31, 2002",,,John Sununu,R,46%,False
-2002,New Hampshire,General,American Research Group,"October 28–30, 2002",600 (LV),± 4.0%,John Sununu,R,48%,False
-2002,New Hampshire,General,Franklin Pierce College,"October 27–30, 2002",926 (RV),± 3.0%,John Sununu,R,40%,False
-2002,New Hampshire,General,University of New Hampshire,"October 23–29, 2002",648 (LV),± 3.8%,John Sununu,R,42%,False
-2002,New Hampshire,General,American Research Group,"October 20–22, 2002",600 (LV),± 4.0%,John Sununu,R,48%,False
-2002,New Hampshire,General,American Research Group,"October 16, 2002",600 (LV),± 4.0%,John Sununu,R,51%,False
-2002,New Hampshire,General,University of New Hampshire,"October 3–10, 2002",651 (LV),± 4.0%,John Sununu,R,44%,False
-2002,New Hampshire,General,American Research Group,"October 2, 2002",600 (LV),± 4.0%,John Sununu,R,55%,False
-2002,New Hampshire,General,RealClearPolitics,"September 18–19, 2002",,,John Sununu,R,46%,False
-2002,New Hampshire,General,American Research Group,"September 14–18, 2002",600 (LV),± 4.0%,John Sununu,R,47%,False
-2002,New Hampshire,General,University of New Hampshire,"June 23 – July 1, 2002",529 (LV),± 4.0%,John Sununu,R,51%,False
-2002,New Hampshire,General,American Research Group,June 2002,600 (LV),± 4.0%,John Sununu,R,37%,False
-2002,New Hampshire,General,University of New Hampshire,"April 10–14, 2002",526 (LV),± 4.3%,John Sununu,R,50%,False
-2002,New Hampshire,General,American Research Group,March 2002,600 (LV),± 4.0%,John Sununu,R,40%,False
-2002,New Hampshire,General,University of New Hampshire,"January 25 – February 5, 2002",554 (RV),± 4.1%,John Sununu,R,49%,False
-2002,New Hampshire,General,American Research Group,December 2001,600 (LV),± 4.0%,John Sununu,R,39%,False
-2002,New Hampshire,General,University of New Hampshire,"October 19–29, 2001",505 (RV),± 4.4%,John Sununu,R,50%,False
-2002,New Hampshire,General,American Research Group,September 2001,600 (LV),± 4.0%,John Sununu,R,47%,False
-2002,New Hampshire,General,American Research Group,July 2001,600 (LV),± 4.0%,John Sununu,R,49%,False
-2002,New Hampshire,General,American Research Group,June 2001,600 (LV),± 4.0%,John Sununu,R,50%,False
-2002,New Hampshire,General,American Research Group,"November 2–3, 2002",600 (LV),± 4.0%,Jeanne Shaheen,D,44%,False
-2002,New Hampshire,General,UNH,"October 30 – November 2, 2002",644 (LV),± 3.8%,Jeanne Shaheen,D,45%,False
-2002,New Hampshire,General,Concord Monitor,"October 29–31, 2002",,,Jeanne Shaheen,D,47%,False
-2002,New Hampshire,General,American Research Group,"October 28–30, 2002",600 (LV),± 4.0%,Jeanne Shaheen,D,46%,False
-2002,New Hampshire,General,Franklin Pierce College,"October 27–30, 2002",926 (RV),± 3.0%,Jeanne Shaheen,D,45%,False
-2002,New Hampshire,General,University of New Hampshire,"October 23–29, 2002",648 (LV),± 3.8%,Jeanne Shaheen,D,46%,False
-2002,New Hampshire,General,American Research Group,"October 20–22, 2002",600 (LV),± 4.0%,Jeanne Shaheen,D,46%,False
-2002,New Hampshire,General,American Research Group,"October 16, 2002",600 (LV),± 4.0%,Jeanne Shaheen,D,43%,False
-2002,New Hampshire,General,University of New Hampshire,"October 3–10, 2002",651 (LV),± 4.0%,Jeanne Shaheen,D,47%,False
-2002,New Hampshire,General,American Research Group,"October 2, 2002",600 (LV),± 4.0%,Jeanne Shaheen,D,34%,False
-2002,New Hampshire,General,RealClearPolitics,"September 18–19, 2002",,,Jeanne Shaheen,D,43%,False
-2002,New Hampshire,General,American Research Group,"September 14–18, 2002",600 (LV),± 4.0%,Jeanne Shaheen,D,38%,False
-2002,New Hampshire,General,University of New Hampshire,"June 23 – July 1, 2002",529 (LV),± 4.0%,Jeanne Shaheen,D,42%,False
-2002,New Hampshire,General,American Research Group,June 2002,600 (LV),± 4.0%,Jeanne Shaheen,D,33%,False
-2002,New Hampshire,General,University of New Hampshire,"April 10–14, 2002",526 (LV),± 4.3%,Jeanne Shaheen,D,42%,False
-2002,New Hampshire,General,American Research Group,March 2002,600 (LV),± 4.0%,Jeanne Shaheen,D,36%,False
-2002,New Hampshire,General,University of New Hampshire,"January 25 – February 5, 2002",554 (RV),± 4.1%,Jeanne Shaheen,D,42%,False
-2002,New Hampshire,General,American Research Group,December 2001,600 (LV),± 4.0%,Jeanne Shaheen,D,29%,False
-2002,New Hampshire,General,University of New Hampshire,"October 19–29, 2001",505 (RV),± 4.4%,Jeanne Shaheen,D,38%,False
-2002,New Hampshire,General,American Research Group,September 2001,600 (LV),± 4.0%,Jeanne Shaheen,D,39%,False
-2002,New Hampshire,General,American Research Group,July 2001,600 (LV),± 4.0%,Jeanne Shaheen,D,35%,False
-2002,New Hampshire,General,American Research Group,June 2001,600 (LV),± 4.0%,Jeanne Shaheen,D,35%,False
+Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
+2002,Colorado,General,SurveyUSA,2002-10-31 to 2002-11-02,2002-10-31,2002-11-02,739 (LV),± 3.7%,Wayne Allard,R,50%,True,"October 31 – November 2, 2002"
+2002,Colorado,General,SurveyUSA,2002-10-31 to 2002-11-02,2002-10-31,2002-11-02,739 (LV),± 3.7%,Tom Strickland,D,46%,False,"October 31 – November 2, 2002"
+2002,Illinois,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,528 (LV),± 4.3%,Dick Durbin,D,56%,True,"October 28–30, 2002"
+2002,Illinois,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,528 (LV),± 4.3%,Jim Durkin,R,37%,False,"October 28–30, 2002"
+2002,Illinois,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,528 (LV),± 4.3%,Steven Burgauer,L,3%,False,"October 28–30, 2002"
+2002,Iowa,General,SurveyUSA,2002-10-27 to 2002-10-29,2002-10-27,2002-10-29,605 (LV),± 4.1%,Tom Harkin,D,60%,True,"October 27–29, 2002"
+2002,Iowa,General,SurveyUSA,2002-10-27 to 2002-10-29,2002-10-27,2002-10-29,605 (LV),± 4.1%,Greg Ganske,R,38%,False,"October 27–29, 2002"
+2002,Kentucky,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,705 (LV),± 3.8%,Mitch McConnell,R,66%,True,"October 28–30, 2002"
+2002,Kentucky,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,705 (LV),± 3.8%,Lois Weinberg,D,29%,False,"October 28–30, 2002"
+2002,Missouri (special),General,SurveyUSA,2002-10-31 to 2002-11-03,2002-10-31,2002-11-03,958 (LV),± 3.3%,Jean Carnahan,D,49%,True,"October 31 – November 3, 2002"
+2002,Missouri (special),General,SurveyUSA,2002-10-31 to 2002-11-03,2002-10-31,2002-11-03,958 (LV),± 3.3%,Jim Talent,R,47%,False,"October 31 – November 3, 2002"
+2002,New Hampshire,General,American Research Group,2002-11-02 to 2002-11-03,2002-11-02,2002-11-03,600 (LV),± 4.0%,John Sununu,R,48%,False,"November 2–3, 2002"
+2002,New Hampshire,General,UNH,2002-10-30 to 2002-11-02,2002-10-30,2002-11-02,644 (LV),± 3.8%,John Sununu,R,46%,False,"October 30 – November 2, 2002"
+2002,New Hampshire,General,Concord Monitor,2002-10-29 to 2002-10-31,2002-10-29,2002-10-31,,,John Sununu,R,46%,False,"October 29–31, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,600 (LV),± 4.0%,John Sununu,R,48%,False,"October 28–30, 2002"
+2002,New Hampshire,General,Franklin Pierce College,2002-10-27 to 2002-10-30,2002-10-27,2002-10-30,926 (RV),± 3.0%,John Sununu,R,40%,False,"October 27–30, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-10-23 to 2002-10-29,2002-10-23,2002-10-29,648 (LV),± 3.8%,John Sununu,R,42%,False,"October 23–29, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-20 to 2002-10-22,2002-10-20,2002-10-22,600 (LV),± 4.0%,John Sununu,R,48%,False,"October 20–22, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-16,2002-10-16,2002-10-16,600 (LV),± 4.0%,John Sununu,R,51%,False,"October 16, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-10-03 to 2002-10-10,2002-10-03,2002-10-10,651 (LV),± 4.0%,John Sununu,R,44%,False,"October 3–10, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-02,2002-10-02,2002-10-02,600 (LV),± 4.0%,John Sununu,R,55%,False,"October 2, 2002"
+2002,New Hampshire,General,RealClearPolitics,2002-09-18 to 2002-09-19,2002-09-18,2002-09-19,,,John Sununu,R,46%,False,"September 18–19, 2002"
+2002,New Hampshire,General,American Research Group,2002-09-14 to 2002-09-18,2002-09-14,2002-09-18,600 (LV),± 4.0%,John Sununu,R,47%,False,"September 14–18, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-06-23 to 2002-07-01,2002-06-23,2002-07-01,529 (LV),± 4.0%,John Sununu,R,51%,False,"June 23 – July 1, 2002"
+2002,New Hampshire,General,American Research Group,2002-06,2002-06-01,2002-06-30,600 (LV),± 4.0%,John Sununu,R,37%,False,June 2002
+2002,New Hampshire,General,University of New Hampshire,2002-04-10 to 2002-04-14,2002-04-10,2002-04-14,526 (LV),± 4.3%,John Sununu,R,50%,False,"April 10–14, 2002"
+2002,New Hampshire,General,American Research Group,2002-03,2002-03-01,2002-03-31,600 (LV),± 4.0%,John Sununu,R,40%,False,March 2002
+2002,New Hampshire,General,University of New Hampshire,2002-01-25 to 2002-02-05,2002-01-25,2002-02-05,554 (RV),± 4.1%,John Sununu,R,49%,False,"January 25 – February 5, 2002"
+2002,New Hampshire,General,American Research Group,2001-12,2001-12-01,2001-12-31,600 (LV),± 4.0%,John Sununu,R,39%,False,December 2001
+2002,New Hampshire,General,University of New Hampshire,2001-10-19 to 2001-10-29,2001-10-19,2001-10-29,505 (RV),± 4.4%,John Sununu,R,50%,False,"October 19–29, 2001"
+2002,New Hampshire,General,American Research Group,2001-09,2001-09-01,2001-09-30,600 (LV),± 4.0%,John Sununu,R,47%,False,September 2001
+2002,New Hampshire,General,American Research Group,2001-07,2001-07-01,2001-07-31,600 (LV),± 4.0%,John Sununu,R,49%,False,July 2001
+2002,New Hampshire,General,American Research Group,2001-06,2001-06-01,2001-06-30,600 (LV),± 4.0%,John Sununu,R,50%,False,June 2001
+2002,New Hampshire,General,American Research Group,2002-11-02 to 2002-11-03,2002-11-02,2002-11-03,600 (LV),± 4.0%,Jeanne Shaheen,D,44%,False,"November 2–3, 2002"
+2002,New Hampshire,General,UNH,2002-10-30 to 2002-11-02,2002-10-30,2002-11-02,644 (LV),± 3.8%,Jeanne Shaheen,D,45%,False,"October 30 – November 2, 2002"
+2002,New Hampshire,General,Concord Monitor,2002-10-29 to 2002-10-31,2002-10-29,2002-10-31,,,Jeanne Shaheen,D,47%,False,"October 29–31, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,600 (LV),± 4.0%,Jeanne Shaheen,D,46%,False,"October 28–30, 2002"
+2002,New Hampshire,General,Franklin Pierce College,2002-10-27 to 2002-10-30,2002-10-27,2002-10-30,926 (RV),± 3.0%,Jeanne Shaheen,D,45%,False,"October 27–30, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-10-23 to 2002-10-29,2002-10-23,2002-10-29,648 (LV),± 3.8%,Jeanne Shaheen,D,46%,False,"October 23–29, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-20 to 2002-10-22,2002-10-20,2002-10-22,600 (LV),± 4.0%,Jeanne Shaheen,D,46%,False,"October 20–22, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-16,2002-10-16,2002-10-16,600 (LV),± 4.0%,Jeanne Shaheen,D,43%,False,"October 16, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-10-03 to 2002-10-10,2002-10-03,2002-10-10,651 (LV),± 4.0%,Jeanne Shaheen,D,47%,False,"October 3–10, 2002"
+2002,New Hampshire,General,American Research Group,2002-10-02,2002-10-02,2002-10-02,600 (LV),± 4.0%,Jeanne Shaheen,D,34%,False,"October 2, 2002"
+2002,New Hampshire,General,RealClearPolitics,2002-09-18 to 2002-09-19,2002-09-18,2002-09-19,,,Jeanne Shaheen,D,43%,False,"September 18–19, 2002"
+2002,New Hampshire,General,American Research Group,2002-09-14 to 2002-09-18,2002-09-14,2002-09-18,600 (LV),± 4.0%,Jeanne Shaheen,D,38%,False,"September 14–18, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-06-23 to 2002-07-01,2002-06-23,2002-07-01,529 (LV),± 4.0%,Jeanne Shaheen,D,42%,False,"June 23 – July 1, 2002"
+2002,New Hampshire,General,American Research Group,2002-06,2002-06-01,2002-06-30,600 (LV),± 4.0%,Jeanne Shaheen,D,33%,False,June 2002
+2002,New Hampshire,General,University of New Hampshire,2002-04-10 to 2002-04-14,2002-04-10,2002-04-14,526 (LV),± 4.3%,Jeanne Shaheen,D,42%,False,"April 10–14, 2002"
+2002,New Hampshire,General,American Research Group,2002-03,2002-03-01,2002-03-31,600 (LV),± 4.0%,Jeanne Shaheen,D,36%,False,March 2002
+2002,New Hampshire,General,University of New Hampshire,2002-01-25 to 2002-02-05,2002-01-25,2002-02-05,554 (RV),± 4.1%,Jeanne Shaheen,D,42%,False,"January 25 – February 5, 2002"
+2002,New Hampshire,General,American Research Group,2001-12,2001-12-01,2001-12-31,600 (LV),± 4.0%,Jeanne Shaheen,D,29%,False,December 2001
+2002,New Hampshire,General,University of New Hampshire,2001-10-19 to 2001-10-29,2001-10-19,2001-10-29,505 (RV),± 4.4%,Jeanne Shaheen,D,38%,False,"October 19–29, 2001"
+2002,New Hampshire,General,American Research Group,2001-09,2001-09-01,2001-09-30,600 (LV),± 4.0%,Jeanne Shaheen,D,39%,False,September 2001
+2002,New Hampshire,General,American Research Group,2001-07,2001-07-01,2001-07-31,600 (LV),± 4.0%,Jeanne Shaheen,D,35%,False,July 2001
+2002,New Hampshire,General,American Research Group,2001-06,2001-06-01,2001-06-30,600 (LV),± 4.0%,Jeanne Shaheen,D,35%,False,June 2001
+2002,New Hampshire,General,University of New Hampshire,2002-06-23 to 2002-07-01,2002-06-23,2002-07-01,529 (LV),± 4.0%,Jeanne Shaheen,D,47%,False,"June 23 – July 1, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-04-10 to 2002-04-14,2002-04-10,2002-04-14,526 (LV),± 4.3%,Jeanne Shaheen,D,49%,False,April 10–14 2002
+2002,New Hampshire,General,University of New Hampshire,2002-01-25 to 2002-02-05,2002-01-25,2002-02-05,558 (RV),± 4.1%,Jeanne Shaheen,D,46%,False,"January 25 – February 5, 2002"
+2002,New Hampshire,General,University of New Hampshire,2001-10-19 to 2001-10-29,2001-10-19,2001-10-29,505 (RV),± 4.4%,Jeanne Shaheen,D,45%,False,"October 19–29, 2001"
+2002,New Hampshire,General,University of New Hampshire,2002-06-23 to 2002-07-01,2002-06-23,2002-07-01,529 (LV),± 4.0%,Bob Smith,R,45%,True,"June 23 – July 1, 2002"
+2002,New Hampshire,General,University of New Hampshire,2002-04-10 to 2002-04-14,2002-04-10,2002-04-14,526 (LV),± 4.3%,Bob Smith,R,42%,True,April 10–14 2002
+2002,New Hampshire,General,University of New Hampshire,2002-01-25 to 2002-02-05,2002-01-25,2002-02-05,558 (RV),± 4.1%,Bob Smith,R,43%,True,"January 25 – February 5, 2002"
+2002,New Hampshire,General,University of New Hampshire,2001-10-19 to 2001-10-29,2001-10-19,2001-10-29,505 (RV),± 4.4%,Bob Smith,R,44%,True,"October 19–29, 2001"
+2002,New Jersey,General,Quinnipiac,2002-01-22 to 2002-01-28,2002-01-22,2002-01-28,"1,018 RV",±3.1%,Bob Torricelli,D,50%,False,"January 22–28, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Bob Torricelli,D,53%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,Bob Torricelli,D,47%,False,"April 17–22, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-06-05 to 2002-06-09,2002-06-05,2002-06-09,626 RV,±4.0%,Bob Torricelli,D,43%,False,"June 5–9, 2002"
+2002,New Jersey,General,Quinnipiac,2002-06-11 to 2002-06-17,2002-06-11,2002-06-17,736 RV,±3.6%,Bob Torricelli,D,44%,False,"June 11–17, 2002"
+2002,New Jersey,General,Quinnipiac,2002-07-31 to 2002-08-06,2002-07-31,2002-08-06,879 RV,±3.3%,Bob Torricelli,D,37%,False,"July 31–August 6, 2002"
+2002,New Jersey,General,Quinnipiac,2002-08,2002-08-01,2002-08-31,? LV,,Bob Torricelli,D,40%,False,August 2002
+2002,New Jersey,General,Quinnipiac,2002-08-19,2002-08-19,2002-08-19,? LV,,Bob Torricelli,D,35%,False,"August 19, 2002"
+2002,New Jersey,General,Quinnipiac,2002-08-21,2002-08-21,2002-08-21,978 RV,±3.3%,Bob Torricelli,D,37%,False,"August 21, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-09-03 to 2002-09-08,2002-09-03,2002-09-08,537 LV,±4.0%,Bob Torricelli,D,37%,False,"September 3–8, 2002"
+2002,New Jersey,General,Quinnipiac,2002-09-03 to 2002-09-10,2002-09-03,2002-09-10,"1,341 LV",±2.7%,Bob Torricelli,D,45%,False,"September 3–10, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-09-18 to 2002-09-25,2002-09-18,2002-09-25,547 RV,,Bob Torricelli,D,34%,False,"September 18–25, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-02 to 2002-10-06,2002-10-02,2002-10-06,514 LV,,Bob Torricelli,D,4.3%,False,"October 2–6, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-10-03 to 2002-10-06,2002-10-03,2002-10-06,801 A,±4.0%,Bob Torricelli,D,46%,False,"October 3–6, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-10-13 to 2002-10-17,2002-10-13,2002-10-17,793 RV,±3.5%,Bob Torricelli,D,44%,False,"October 13–17, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-16 to 2002-10-20,2002-10-16,2002-10-20,603 LV,±4.0%,Bob Torricelli,D,52%,False,"October 16–20, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-19 to 2002-10-24,2002-10-19,2002-10-24,772 RV,,Bob Torricelli,D,46%,False,"October 19–24, 2002"
+2002,New Jersey,General,SurveyUSA,2002-10-27 to 2002-10-29,2002-10-27,2002-10-29,732 LV,±3.7%,Bob Torricelli,D,51%,False,"October 27–29, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-10-27 to 2002-10-31,2002-10-27,2002-10-31,909 RV,±3.5%,Bob Torricelli,D,51%,False,"October 27–31, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-28 to 2002-11-03,2002-10-28,2002-11-03,574 LV,±4.1%,Bob Torricelli,D,50%,False,"October 28–November 3, 2002"
+2002,New Jersey,General,Quinnipiac,2002-11-01 to 2002-11-02,2002-11-01,2002-11-02,600 LV,±4.0%,Bob Torricelli,D,51%,False,"November 1–2, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-02 to 2002-10-06,2002-10-02,2002-10-06,514 LV,,Doug Forrester,R,6%,False,"October 2–6, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-03 to 2002-10-04,2002-10-03,2002-10-04,,,Doug Forrester,R,40%,False,"October 3–4, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-04,2002-10-04,2002-10-04,,,Doug Forrester,R,45%,False,"October 4, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-03 to 2002-10-05,2002-10-03,2002-10-05,,,Doug Forrester,R,45%,False,"October 3–5, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-03 to 2002-10-06,2002-10-03,2002-10-06,,,Doug Forrester,R,44%,False,"October 3–6, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-08 to 2002-10-10,2002-10-08,2002-10-10,,,Doug Forrester,R,39%,False,"October 8–10, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-09 to 2002-10-11,2002-10-09,2002-10-11,,,Doug Forrester,R,36%,False,"October 9–11, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-10 to 2002-10-15,2002-10-10,2002-10-15,,,Doug Forrester,R,41%,False,"October 10–15, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-17 to 2002-10-19,2002-10-17,2002-10-19,,,Doug Forrester,R,42%,False,"October 17–19, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-20 to 2002-10-22,2002-10-20,2002-10-22,,,Doug Forrester,R,40%,False,"October 20–22, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-22 to 2002-10-24,2002-10-22,2002-10-24,,,Doug Forrester,R,40%,False,"October 22–24, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-26,2002-10-26,2002-10-26,,,Doug Forrester,R,36%,False,"October 26, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-11-02 to 2002-11-04,2002-11-02,2002-11-04,,,Doug Forrester,R,42%,False,"November 2–4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-01-22 to 2002-01-28,2002-01-22,2002-01-28,"1,018 RV",±3.1%,Frank Lautenberg,D,22%,False,"January 22–28, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Frank Lautenberg,D,21%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,Frank Lautenberg,D,24%,False,"April 17–22, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-06-05 to 2002-06-09,2002-06-05,2002-06-09,626 RV,±4.0%,Frank Lautenberg,D,21%,False,"June 5–9, 2002"
+2002,New Jersey,General,Quinnipiac,2002-06-11 to 2002-06-17,2002-06-11,2002-06-17,736 RV,±3.6%,Frank Lautenberg,D,21%,False,"June 11–17, 2002"
+2002,New Jersey,General,Quinnipiac,2002-07-31 to 2002-08-06,2002-07-31,2002-08-06,879 RV,±3.3%,Frank Lautenberg,D,28%,False,"July 31–August 6, 2002"
+2002,New Jersey,General,Quinnipiac,2002-08,2002-08-01,2002-08-31,? LV,,Frank Lautenberg,D,20%,False,August 2002
+2002,New Jersey,General,Quinnipiac,2002-08-19,2002-08-19,2002-08-19,? LV,,Frank Lautenberg,D,18%,False,"August 19, 2002"
+2002,New Jersey,General,Quinnipiac,2002-08-21,2002-08-21,2002-08-21,978 RV,±3.3%,Frank Lautenberg,D,15%,False,"August 21, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-09-03 to 2002-09-08,2002-09-03,2002-09-08,537 LV,±4.0%,Frank Lautenberg,D,30%,False,"September 3–8, 2002"
+2002,New Jersey,General,Quinnipiac,2002-09-03 to 2002-09-10,2002-09-03,2002-09-10,"1,341 LV",±2.7%,Frank Lautenberg,D,14%,False,"September 3–10, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-09-18 to 2002-09-25,2002-09-18,2002-09-25,547 RV,,Frank Lautenberg,D,26%,False,"September 18–25, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-02 to 2002-10-06,2002-10-02,2002-10-06,514 LV,,Frank Lautenberg,D,45%,False,"October 2–6, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-10-03 to 2002-10-06,2002-10-03,2002-10-06,801 A,±4.0%,Frank Lautenberg,D,14%,False,"October 3–6, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-10-13 to 2002-10-17,2002-10-13,2002-10-17,793 RV,±3.5%,Frank Lautenberg,D,22%,False,"October 13–17, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-16 to 2002-10-20,2002-10-16,2002-10-20,603 LV,±4.0%,Frank Lautenberg,D,4%,False,"October 16–20, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-19 to 2002-10-24,2002-10-19,2002-10-24,772 RV,,Frank Lautenberg,D,21%,False,"October 19–24, 2002"
+2002,New Jersey,General,SurveyUSA,2002-10-27 to 2002-10-29,2002-10-27,2002-10-29,732 LV,±3.7%,Frank Lautenberg,D,8%,False,"October 27–29, 2002"
+2002,New Jersey,General,Rutgers-Eagleton,2002-10-27 to 2002-10-31,2002-10-27,2002-10-31,909 RV,±3.5%,Frank Lautenberg,D,14%,False,"October 27–31, 2002"
+2002,New Jersey,General,Quinnipiac,2002-10-28 to 2002-11-03,2002-10-28,2002-11-03,574 LV,±4.1%,Frank Lautenberg,D,11%,False,"October 28–November 3, 2002"
+2002,New Jersey,General,Quinnipiac,2002-11-01 to 2002-11-02,2002-11-01,2002-11-02,600 LV,±4.0%,Frank Lautenberg,D,8%,False,"November 1–2, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-03 to 2002-10-04,2002-10-03,2002-10-04,,,Frank Lautenberg,D,46%,False,"October 3–4, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-04,2002-10-04,2002-10-04,,,Frank Lautenberg,D,49%,False,"October 4, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-03 to 2002-10-05,2002-10-03,2002-10-05,,,Frank Lautenberg,D,52%,False,"October 3–5, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-03 to 2002-10-06,2002-10-03,2002-10-06,,,Frank Lautenberg,D,44%,False,"October 3–6, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-08 to 2002-10-10,2002-10-08,2002-10-10,,,Frank Lautenberg,D,50%,False,"October 8–10, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-09 to 2002-10-11,2002-10-09,2002-10-11,,,Frank Lautenberg,D,48%,False,"October 9–11, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-10 to 2002-10-15,2002-10-10,2002-10-15,,,Frank Lautenberg,D,48%,False,"October 10–15, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-17 to 2002-10-19,2002-10-17,2002-10-19,,,Frank Lautenberg,D,47%,False,"October 17–19, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-20 to 2002-10-22,2002-10-20,2002-10-22,,,Frank Lautenberg,D,51%,False,"October 20–22, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-22 to 2002-10-24,2002-10-22,2002-10-24,,,Frank Lautenberg,D,47%,False,"October 22–24, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-10-26,2002-10-26,2002-10-26,,,Frank Lautenberg,D,48%,False,"October 26, 2002"
+2002,New Jersey,General,Mellman Group (D),2002-11-02 to 2002-11-04,2002-11-02,2002-11-04,,,Frank Lautenberg,D,55%,False,"November 2–4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Robert Torricelli,D,49%,True,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,Robert Torricelli,D,44%,True,"April 17–22, 2002"
+2002,New Jersey,General,Quinnipiac,2002-01-22 to 2002-01-28,2002-01-22,2002-01-28,"1,018 RV",±3.1%,Robert Torricelli,D,51%,True,"January 22–28, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Robert Torricelli,D,52%,True,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,Robert Torricelli,D,46%,True,"April 17–22, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Robert Torricelli,D,53%,True,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-01-22 to 2002-01-28,2002-01-22,2002-01-28,"1,018 RV",±3.1%,Robert Torricelli,D,49%,True,"January 22–28, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Robert Torricelli,D,51%,True,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,Robert Torricelli,D,45%,True,"April 17–22, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Diane Allen,R,30%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,Diane Allen,R,32%,False,"April 17–22, 2002"
+2002,New Jersey,General,Quinnipiac,2002-01-22 to 2002-01-28,2002-01-22,2002-01-28,"1,018 RV",±3.1%,Guy Gregg,R,25%,False,"January 22–28, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Guy Gregg,R,26%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,John Matheussen,R,28%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,John Matheussen,R,31%,False,"April 17–22, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,Robert Ray,R,28%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-01-22 to 2002-01-28,2002-01-22,2002-01-28,"1,018 RV",±3.1%,James Treffinger,R,28%,False,"January 22–28, 2002"
+2002,New Jersey,General,Quinnipiac,2002-02-28 to 2002-03-04,2002-02-28,2002-03-04,"1,005 RV",±3.1%,James Treffinger,R,27%,False,"February 28–March 4, 2002"
+2002,New Jersey,General,Quinnipiac,2002-04-17 to 2002-04-22,2002-04-17,2002-04-22,837 RV,±3.4%,James Treffinger,R,29%,False,"April 17–22, 2002"
+2002,North Carolina,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,611 (LV),± 4.0%,Elizabeth Dole,R,50%,False,"October 28–30, 2002"
+2002,North Carolina,General,SurveyUSA,2002-10-28 to 2002-10-30,2002-10-28,2002-10-30,611 (LV),± 4.0%,Erskine Bowles,D,46%,False,"October 28–30, 2002"
+2002,Oklahoma,General,SurveyUSA,2002-11-01 to 2002-11-03,2002-11-01,2002-11-03,710 (LV),± 3.8%,James Inhofe,R,53%,True,"November 1–3, 2002"
+2002,Oklahoma,General,SurveyUSA,2002-11-01 to 2002-11-03,2002-11-01,2002-11-03,710 (LV),± 3.8%,David Walters,D,36%,False,"November 1–3, 2002"
+2002,Tennessee,General,SurveyUSA,2002-10-26 to 2002-10-28,2002-10-26,2002-10-28,726 (LV),± 3.8%,Lamar Alexander,R,52%,False,"October 26–28, 2002"
+2002,Tennessee,General,SurveyUSA,2002-10-26 to 2002-10-28,2002-10-26,2002-10-28,726 (LV),± 3.8%,Bob Clement,D,41%,False,"October 26–28, 2002"
+2002,Texas,General,Zogby International,2002-11-03 to 2002-11-04,2002-11-03,2002-11-04,,,John Cornyn,R,50%,False,"November 3–4, 2002"
+2002,Texas,General,Zogby International,2002-10-30 to 2002-11-02,2002-10-30,2002-11-02,,± 4.5%,John Cornyn,R,49%,False,"October 30 – November 2, 2002"
+2002,Texas,General,University of Houston,2002-10,2002-10-01,2002-10-31,656 (LV),± 3.6%,John Cornyn,R,45%,False,Late–October 2002
+2002,Texas,General,Scripps-Howard,2002-10-07 to 2002-10-29,2002-10-07,2002-10-29,"1,000 (A)",± 4.3%,John Cornyn,R,44%,False,"October 7–29, 2002"
+2002,Texas,General,KXAS-TV,2002-10-21 to 2002-10-27,2002-10-21,2002-10-27,550 (LV),± 4.3%,John Cornyn,R,43%,False,"October 21–27, 2002"
+2002,Texas,General,KXAS-TV,2002-10-15 to 2002-10-20,2002-10-15,2002-10-20,600 (LV),± 4.1%,John Cornyn,R,46%,False,"October 15–20, 2002"
+2002,Texas,General,KXAS-TV,2002-10-08 to 2002-10-13,2002-10-08,2002-10-13,600 (LV),± 4.1%,John Cornyn,R,46%,False,"October 8–13, 2002"
+2002,Texas,General,Zogby International,2002-10-09 to 2002-10-11,2002-10-09,2002-10-11,,,John Cornyn,R,45%,False,"October 9–11, 2002"
+2002,Texas,General,KXAS-TV,2002-09-30 to 2002-10-06,2002-09-30,2002-10-06,600 (LV),± 4.1%,John Cornyn,R,56%,False,"September 30 – October 6, 2002"
+2002,Texas,General,RealClearPolitics,2002-09-22 to 2002-09-24,2002-09-22,2002-09-24,,± 3.6,John Cornyn,R,35%,False,"September 22–24, 2002"
+2002,Texas,General,Zogby International,2002-09-17 to 2002-09-18,2002-09-17,2002-09-18,,,John Cornyn,R,42%,False,"September 17–18, 2002"
+2002,Texas,General,University of Houston,2002-09-03 to 2002-09-15,2002-09-03,2002-09-15,879 (LV),± 4.1%,John Cornyn,R,42%,False,"September 3–15, 2002"
+2002,Texas,General,Scripps-Howard,2002-08-07 to 2002-08-27,2002-08-07,2002-08-27,756 (LV),± 3.5%,John Cornyn,R,37%,False,"August 7–27, 2002"
+2002,Texas,General,Scripps-Howard,2002-07-31 to 2002-08-07,2002-07-31,2002-08-07,,,John Cornyn,R,46%,False,"July 31 – August 7, 2002"
+2002,Texas,General,University of Houston,2002-06-20 to 2002-06-29,2002-06-20,2002-06-29,739 (LV),± 3.5%,John Cornyn,R,28%,False,"June 20–29, 2002"
+2002,Texas,General,Scripps-Howard,2002-05-20 to 2002-06-09,2002-05-20,2002-06-09,668 (LV),± 3.8%,John Cornyn,R,35%,False,"May 20 – June 9, 2002"
+2002,Texas,General,The Texas Tribune,2002-05-07 to 2002-05-13,2002-05-07,2002-05-13,"1,066 (LV)",± 3.0%,John Cornyn,R,46%,False,"May 7–13, 2002"
+2002,Texas,General,Zogby International,2002-11-03 to 2002-11-04,2002-11-03,2002-11-04,,,Ron Kirk,D,46%,False,"November 3–4, 2002"
+2002,Texas,General,Zogby International,2002-10-30 to 2002-11-02,2002-10-30,2002-11-02,,± 4.5%,Ron Kirk,D,48%,False,"October 30 – November 2, 2002"
+2002,Texas,General,University of Houston,2002-10,2002-10-01,2002-10-31,656 (LV),± 3.6%,Ron Kirk,D,39%,False,Late–October 2002
+2002,Texas,General,Scripps-Howard,2002-10-07 to 2002-10-29,2002-10-07,2002-10-29,"1,000 (A)",± 4.3%,Ron Kirk,D,35%,False,"October 7–29, 2002"
+2002,Texas,General,KXAS-TV,2002-10-21 to 2002-10-27,2002-10-21,2002-10-27,550 (LV),± 4.3%,Ron Kirk,D,40%,False,"October 21–27, 2002"
+2002,Texas,General,KXAS-TV,2002-10-15 to 2002-10-20,2002-10-15,2002-10-20,600 (LV),± 4.1%,Ron Kirk,D,36%,False,"October 15–20, 2002"
+2002,Texas,General,KXAS-TV,2002-10-08 to 2002-10-13,2002-10-08,2002-10-13,600 (LV),± 4.1%,Ron Kirk,D,36%,False,"October 8–13, 2002"
+2002,Texas,General,Zogby International,2002-10-09 to 2002-10-11,2002-10-09,2002-10-11,,,Ron Kirk,D,37%,False,"October 9–11, 2002"
+2002,Texas,General,KXAS-TV,2002-09-30 to 2002-10-06,2002-09-30,2002-10-06,600 (LV),± 4.1%,Ron Kirk,D,30%,False,"September 30 – October 6, 2002"
+2002,Texas,General,RealClearPolitics,2002-09-22 to 2002-09-24,2002-09-22,2002-09-24,,± 3.6,Ron Kirk,D,39%,False,"September 22–24, 2002"
+2002,Texas,General,Zogby International,2002-09-17 to 2002-09-18,2002-09-17,2002-09-18,,,Ron Kirk,D,30%,False,"September 17–18, 2002"
+2002,Texas,General,University of Houston,2002-09-03 to 2002-09-15,2002-09-03,2002-09-15,879 (LV),± 4.1%,Ron Kirk,D,36%,False,"September 3–15, 2002"
+2002,Texas,General,Scripps-Howard,2002-08-07 to 2002-08-27,2002-08-07,2002-08-27,756 (LV),± 3.5%,Ron Kirk,D,32%,False,"August 7–27, 2002"
+2002,Texas,General,Scripps-Howard,2002-07-31 to 2002-08-07,2002-07-31,2002-08-07,,,Ron Kirk,D,46%,False,"July 31 – August 7, 2002"
+2002,Texas,General,University of Houston,2002-06-20 to 2002-06-29,2002-06-20,2002-06-29,739 (LV),± 3.5%,Ron Kirk,D,36%,False,"June 20–29, 2002"
+2002,Texas,General,Scripps-Howard,2002-05-20 to 2002-06-09,2002-05-20,2002-06-09,668 (LV),± 3.8%,Ron Kirk,D,30%,False,"May 20 – June 9, 2002"
+2002,Texas,General,The Texas Tribune,2002-05-07 to 2002-05-13,2002-05-07,2002-05-13,"1,066 (LV)",± 3.0%,Ron Kirk,D,44%,False,"May 7–13, 2002"

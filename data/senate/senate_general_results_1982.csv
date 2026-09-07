@@ -16,7 +16,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1982,Connecticut,General election results,General,Winning,True,Lowell Weicker,Republican Party (United States),"545,987",50.39%
 1982,Connecticut,General election results,General,Candidate,False,Toby Moffett,Democratic Party (United States),"499,146",46.07%
 1982,Connecticut,General election results,General,Candidate,False,Lucien DiFazio,Conservative Party (United States),"30,212",2.79%
-1982,Connecticut,General election results,General,Candidate,False,[[James A. Lewis (politician),Libertarian Party (United States),"8,163",0.75%
+1982,Connecticut,General election results,General,Candidate,False,James A. Lewis,Libertarian Party (United States),"8,163",0.75%
 1982,Delaware,General election results,General,Winning,True,William V. Roth,Republican Party (United States),"105,357",55.17%
 1982,Delaware,General election results,General,Candidate,False,David N. Levinson,Democratic Party (United States),"84,413",44.20%
 1982,Delaware,General election results,General,Candidate,False,Lawrence Sullivan,Libertarian Party (United States),653,0.34%
@@ -39,8 +39,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1982,Massachusetts,General election,General,Candidate,False,Ray Shamie,Republican Party (United States),"784,602",38.26
 1982,Massachusetts,General election,General,Candidate,False,Howard S. Katz,Libertarian Party (United States),"18,878",0.92
 1982,Massachusetts,General election,General,Total,False,,,"2,050,769",70.26%
+1982,Michigan,1982 United States Senate election in Michigan,General,Winning,True,Don Riegle,Democratic Party (United States),"1,728,793",57.74%
+1982,Michigan,1982 United States Senate election in Michigan,General,Candidate,False,Philip Ruppe,Republican Party (United States),"1,223,288",40.85%
+1982,Michigan,1982 United States Senate election in Michigan,General,Candidate,False,Bette Erwin,Libertarian Party (United States),"19,131",0.64%
 1982,Michigan,1982 United States Senate election in Michigan,General,Candidate,False,Daniel Eller,American Independent Party,"12,660",0.42%
 1982,Michigan,1982 United States Senate election in Michigan,General,Candidate,False,Helen Halyard,Socialist Equality Party (United States),"6,085",0.20%
+1982,Michigan,1982 United States Senate election in Michigan,General,Candidate,False,Steve Beumer,Socialist Workers Party (US),"4,335",0.15%
 1982,Michigan,1982 United States Senate election in Michigan,General,Total,False,,,"2,994,292",100.00%
 1982,Minnesota,General election results,General,Winning,True,David Durenberger,Independent-Republican Party,"949,207",52.60%
 1982,Minnesota,General election results,General,Candidate,False,Mark Dayton,Minnesota Democratic–Farmer–Labor Party,"840,401",46.57%
@@ -49,25 +53,31 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1982,Minnesota,General election results,General,Total,False,,,"1,804,675",100.00%
 1982,Mississippi,General election results,General,Winning,True,John Stennis,Democratic Party (United States),"414,099",64.20%
 1982,Mississippi,General election results,General,Candidate,False,Haley Barbour,Republican Party (United States),"230,927",35.80%
+1982,Missouri,General election results,General,Winning,True,John Danforth,Republican Party (United States),"784,876",50.85%
+1982,Missouri,General election results,General,Candidate,False,Harriett L. Woods,Democratic Party (United States),"758,629",49.15%
 1982,Missouri,General election results,General,Candidate,False,"Joanne ""Judy"" Curran",Write-in,9,0.00%
 1982,Missouri,General election results,General,Candidate,False,Nell Elizabeth Pierce,Write-in,7,0.00%
 1982,Missouri,General election results,General,Total,False,,,"1,543,521",100.00%
 1982,Montana,"United States Senate election in Montana, 1982",General,Winning,True,John Melcher,Democratic Party (United States),"174,861",54.46%
 1982,Montana,"United States Senate election in Montana, 1982",General,Candidate,False,Larry R. Williams,Republican Party (United States),"133,789",41.67%
 1982,Montana,"United States Senate election in Montana, 1982",General,Candidate,False,Larry Dodge,Libertarian Party (United States),"12,412",3.87%
-1982,Nebraska,1982 United States Senate election in Nebraska,General,Winning,False,Edward Zorinsky ([[incumbent,Democratic Party (United States),"363,350",66.59%
+1982,Nebraska,1982 United States Senate election in Nebraska,General,Winning,False,Edward Zorinsky (inc.),Democratic Party (United States),"363,350",66.59%
 1982,Nebraska,1982 United States Senate election in Nebraska,General,Candidate,False,Jim Keck,Republican Party (United States),"155,760",28.55%
 1982,Nebraska,1982 United States Senate election in Nebraska,General,Candidate,False,Virginia Walsh,Independent (politician),"26,443",4.85%
 1982,Nebraska,1982 United States Senate election in Nebraska,General,Write-in,False,,,94,0.02%
 1982,Nebraska,1982 United States Senate election in Nebraska,General,Total,False,,,"545,647",100.00%
 1982,Nevada,General election results,General,Winning,False,Chic Hecht,Republican Party (United States),"120,377",50.07%
 1982,Nevada,General election results,General,Candidate,True,Howard Cannon,Democratic Party (United States),"114,720",47.72%
+1982,New Jersey,General election results,General,Winning,False,Frank Lautenberg,Democratic Party (United States),"1,117,549",50.94%
+1982,New Jersey,General election results,General,Candidate,False,Millicent Fenwick,Republican Party (United States),"1,047,626",47.75%
+1982,New Jersey,General election results,General,Candidate,False,Henry Koch,Libertarian Party (United States),"9,934",0.45%
+1982,New Jersey,General election results,General,Candidate,False,Julius Levin,Socialist Labor Party (US),"5,580",0.25%
 1982,New Jersey,General election results,General,Candidate,False,Martin E. Wendelken,Independent politician,"4,745",0.22%
 1982,New Jersey,General election results,General,Candidate,False,Claire Moriarty,Socialist Workers Party (US),"3,726",0.17%
 1982,New Jersey,General election results,General,Total,False,,,"2,193,945",100.00%
 1982,New Mexico,"United States Senate election in New Mexico, 1982",General,Winning,False,Jeff Bingaman,Democratic Party (United States),"217,682",53.77%
 1982,New Mexico,"United States Senate election in New Mexico, 1982",General,Candidate,True,Harrison Schmitt,Republican Party (United States),"187,128",46.23%
-1982,New York,General election results,General,Candidate,True,Daniel Patrick Moynihan,Democratic Party (United States),"3,089,871",62.20%
+1982,New York,General election results,General,Winning,True,Daniel Patrick Moynihan,Democratic Party (United States),"3,089,871",62.20%
 1982,New York,General election results,General,Candidate,True,Daniel Patrick Moynihan,Liberal Party of New York,"142,275",2.86%
 1982,New York,General election results,General,Candidate,False,Florence M. Sullivan,Republican Party (United States),"1,415,749",28.50%
 1982,New York,General election results,General,Candidate,False,Florence M. Sullivan,Conservative Party of New York,"175,650",3.54%
@@ -78,6 +88,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1982,North Dakota,"1982 United States Senate election, North Dakota",General,Winning,True,Quentin Burdick,Democratic Party (United States),"164,873",62.84
 1982,North Dakota,"1982 United States Senate election, North Dakota",General,Candidate,False,Gene Knorr,Republican Party (United States),"89,304",34.03
 1982,North Dakota,"1982 United States Senate election, North Dakota",General,Candidate,False,Anna B. Bourgois,Independent (politician),"8,288",3.13
+1982,Ohio,1982 United States Senate election in Ohio,General,Winning,True,Howard Metzenbaum,Democratic Party (United States),"1,923,767",56.66%
+1982,Ohio,1982 United States Senate election in Ohio,General,Candidate,False,Paul Pfeifer,Republican Party (United States),"1,396,790",41.14%
 1982,Ohio,1982 United States Senate election in Ohio,General,Candidate,False,Alicia Merel,Independent politician,"38,803",1.14%
 1982,Ohio,1982 United States Senate election in Ohio,General,Candidate,False,Philip Herzing,Libertarian Party (United States),"36,103",1.06%
 1982,Ohio,1982 United States Senate election in Ohio,General,Candidate,False,Fay Treffert Ellis (write-in),Independent politician,35,0.00%
@@ -93,6 +105,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1982,Tennessee,General election results,General,Winning,True,Jim Sasser,Democratic Party (United States),"780,113",61.93%
 1982,Tennessee,General election results,General,Candidate,False,Robin Beard,Republican Party (United States),"479,642",38.07%
 1982,Tennessee,General election results,General,Total,False,,,,100.00%
+1982,Texas,1982 United States Senate election in Texas,General,Winning,True,Lloyd Bentsen,Democratic Party (United States),"1,818,223",58.59%
+1982,Texas,1982 United States Senate election in Texas,General,Candidate,False,James M. Collins,Republican Party (United States),"1,256,759",40.50%
 1982,Texas,1982 United States Senate election in Texas,General,Candidate,False,John E. Ford,Libertarian Party (United States),"23,494",0.76%
 1982,Texas,1982 United States Senate election in Texas,General,Candidate,False,Lineaus Hooper Lorette,Citizens Party (United States),"4,564",0.15%
 1982,Texas,1982 United States Senate election in Texas,General,Total,False,,,"3,103,167",100.00%
@@ -107,7 +121,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1982,Vermont,"United States Senate election in Vermont, 1982",General,Candidate,False,Bo Adlerbert,Libertarian Party (United States),892,0.53%
 1982,Vermont,"United States Senate election in Vermont, 1982",General,Total,False,,,"168,003",100.00%
 1982,Virginia,"United States Senate election in Virginia, 1982",General,Winning,False,Paul Trible,Republican Party (United States),"724,571",51.18%
-1982,Virginia,"United States Senate election in Virginia, 1982",General,Candidate,False,[[Dick Davis (politician),Democratic Party (United States),"690,839",48.80%
+1982,Virginia,"United States Senate election in Virginia, 1982",General,Candidate,False,Dick Davis,Democratic Party (United States),"690,839",48.80%
 1982,Washington,1982 United States Senate election in Washington,General,Winning,True,Henry M. Jackson,Democratic Party (US),"943,665",68.96%
 1982,Washington,1982 United States Senate election in Washington,General,Candidate,False,Douglas Jewett,Republican Party (US),"332,273",24.28%
 1982,Washington,1982 United States Senate election in Washington,General,Candidate,False,King Lysen,Independent,"72,297",5.28%

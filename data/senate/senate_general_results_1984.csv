@@ -1,4 +1,7 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+1984,Alabama,General election results,General,Winning,True,Democratic Party (United States),Howell Heflin,"857,535",62.68%
+1984,Alabama,General election results,General,Candidate,False,Republican Party (United States),Albert L. Smith Jr.,"498,508",36.43%
+1984,Alabama,General election results,General,Candidate,False,Libertarian Party (United States),S. D. Davis,"12,191",0.89%
 1984,Alabama,General election results,General,Total,False,,,"1,368,234",100.00%
 1984,Alaska,1984 United States Senate election in Alaska,General,Winning,True,Republican Party (United States),Ted Stevens,"146,919",71.17%
 1984,Alaska,1984 United States Senate election in Alaska,General,Candidate,False,Democratic Party (United States),John E. Havelock,"58,804",28.49%
@@ -14,13 +17,27 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Delaware,General election results,General,Candidate,False,Republican Party (United States),John M. Burris,"98,101",39.89%
 1984,Georgia,General election results,General,Winning,True,Democratic Party (United States),Sam Nunn,"1,344,104",79.94%
 1984,Georgia,General election results,General,Candidate,False,Republican Party (United States),Mike Hicks,"337,196",20.06%
+1984,Idaho,General election results,General,Winning,False,Republican Party (United States),Jim McClure,"293,193",72.19%
+1984,Idaho,General election results,General,Candidate,False,Democratic Party (United States),Pete Busch,"105,591",26.00%
+1984,Idaho,General election results,General,Candidate,False,Libertarian Party (United States),Donald Billings,"7,384",1.82%
 1984,Idaho,General election results,General,Total,False,,,"406,168",100.00%
+1984,Illinois,"United States Senate election in Illinois, 1984",General,Winning,False,Democratic Party (United States),Paul Simon,"2,397,165",50.07%
+1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Republican Party (United States),Charles Percy,"2,308,039",48.21%
+1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Libertarian Party (United States),Steve I. Givot,"59,777",1.25%
 1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Citizens Party (United States),Marjorie H. Pries,"12,366",0.26%
+1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Socialist Workers Party (United States),Nelson Gonzalez,"4,913",0.10%
 1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Communist Party USA,Ishmael Flory,"4,802",0.10%
+1984,Illinois,"United States Senate election in Illinois, 1984",General,Write-in,False,,,273,0.01%
 1984,Iowa,"United States Senate election in Iowa, 1984",General,Winning,False,Democratic Party (United States),Tom Harkin,"716,883",55.46%
 1984,Iowa,"United States Senate election in Iowa, 1984",General,Candidate,True,Republican Party (United States),Roger Jepsen,"564,381",43.66%
 1984,Iowa,"United States Senate election in Iowa, 1984",General,Candidate,False,Independent (politician),Garry De Young,"11,014",0.85%
 1984,Iowa,"United States Senate election in Iowa, 1984",General,Write-in,False,,,422,0.03%
+1984,Kansas,General election results,General,Winning,True,Republican Party (United States),Nancy Kassebaum,"757,402",75.99%
+1984,Kansas,General election results,General,Candidate,False,Democratic Party (United States),James R. Maher,"211,664",21.24%
+1984,Kansas,General election results,General,Candidate,False,Conservative Party (United States),Marian R. Jackson,"9,380",0.94%
+1984,Kansas,General election results,General,Candidate,False,American Party (1969),Marian R. Jackson,"6,918",0.69%
+1984,Kansas,General election results,General,Candidate,False,Libertarian Party (United States),Douglas N. Merritt,"6,755",0.68%
+1984,Kansas,General election results,General,Candidate,False,Prohibition Party (United States),Freda H. Steele,"4,610",0.46%
 1984,Kansas,General election results,General,Total,False,,,"996,729",100.00%
 1984,Kentucky,General election results,General,Winning,False,Republican Party (United States),Mitch McConnell,"644,990",49.90%
 1984,Kentucky,General election results,General,Candidate,True,Democratic Party (United States),Walter Dee Huddleston,"639,721",49.50%
@@ -29,14 +46,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Maine,General election results,General,Winning,True,Republican Party (United States),William Cohen,"404,414",73.34%
 1984,Maine,General election results,General,Candidate,False,Democratic Party (United States),Libby Mitchell,"142,626",25.87%
 1984,Maine,General election results,General,Total,False,,,"551,378",100.00%
+1984,Massachusetts,1984 U.S. Senate election in Massachusetts,General,Winning,False,Democratic Party (United States),John Kerry,"1,392,981",55.05
+1984,Massachusetts,1984 U.S. Senate election in Massachusetts,General,Candidate,False,Republican Party (United States),Ray Shamie,"1,136,806",44.93
+1984,Massachusetts,1984 U.S. Senate election in Massachusetts,General,Write-in,False,,,408,0.02
 1984,Massachusetts,1984 U.S. Senate election in Massachusetts,General,Total,False,,,"2,530,195",100
 1984,Michigan,General election results,General,Winning,True,Democratic Party (United States),Carl Levin,"1,915,831",51.77%
-1984,Michigan,General election results,General,Candidate,False,Republican Party (United States),[[Jack R. Lousma,"1,745,302",47.16%
+1984,Michigan,General election results,General,Candidate,False,Republican Party (United States),Jack Lousma,"1,745,302",47.16%
 1984,Michigan,General election results,General,Candidate,False,Libertarian Party (United States),Lynn Johnston,"7,786",0.21%
 1984,Michigan,General election results,General,Candidate,False,Socialist Party,Helen Meyers,"2,686",0.07%
 1984,Michigan,General election results,General,Candidate,False,Workers World Party,William Roundtree,"2,279",0.06%
 1984,Michigan,General election results,General,Candidate,False,Independent (politician),Max Dean,"2,135",0.06%
-1984,Michigan,General election results,General,Candidate,False,Communist Party USA,[[Sam Webb (communist),"1,196",0.03%
+1984,Michigan,General election results,General,Candidate,False,Communist Party USA,Samuel L. Webb,"1,196",0.03%
 1984,Michigan,General election results,General,Candidate,False,Workers League Party (United States),Fred Mazelis,818,0.02%
 1984,Michigan,General election results,General,Total,False,,,"3,700,915",100.00%
 1984,Minnesota,General election results,General,Winning,True,Independent-Republican Party,Rudy Boschwitz,"1,199,926",58.08%
@@ -46,15 +66,18 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Minnesota,General election results,General,Candidate,False,Libertarian Party (United States),Richard Putman,"3,129",0.15%
 1984,Minnesota,General election results,General,Total,False,,,"2,065,903",100.00%
 1984,Mississippi,"Mississippi U.S. Senate Election, 1984",General,Winning,True,Republican Party (United States),Thad Cochran,"580,314",60.94%
-1984,Mississippi,"Mississippi U.S. Senate Election, 1984",General,Candidate,False,Democratic Party (United States),[[William Winter (politician),"371,926",39.06%
+1984,Mississippi,"Mississippi U.S. Senate Election, 1984",General,Candidate,False,Democratic Party (United States),William Winter,"371,926",39.06%
 1984,Mississippi,"Mississippi U.S. Senate Election, 1984",General,Total,False,,,"952,240",100.00%
 1984,Montana,"United States Senate election in Montana, 1984",General,Winning,True,Democratic Party (United States),Max Baucus,"215,704",56.89%
 1984,Montana,"United States Senate election in Montana, 1984",General,Candidate,False,Republican Party (United States),Chuck Cozzens,"154,308",40.70%
 1984,Montana,"United States Senate election in Montana, 1984",General,Candidate,False,Libertarian Party (United States),Neil Haprin,"9,143",2.41%
-1984,Nebraska,1984 United States Senate election in Nebraska,General,Winning,False,Democratic Party (United States),J. James Exon ([[incumbent,"332,217",51.94%
+1984,Nebraska,1984 United States Senate election in Nebraska,General,Winning,False,Democratic Party (United States),J. James Exon (inc.),"332,217",51.94%
 1984,Nebraska,1984 United States Senate election in Nebraska,General,Candidate,False,Republican Party (United States),Nancy Hoch,"307,147",48.02%
 1984,Nebraska,1984 United States Senate election in Nebraska,General,Write-in,False,,,304,0.05%
 1984,Nebraska,1984 United States Senate election in Nebraska,General,Total,False,,,"639,668",100.00%
+1984,New Hampshire,General election results,General,Winning,True,Republican Party (United States),Gordon J. Humphrey,"225,828",58.75%
+1984,New Hampshire,General election results,General,Candidate,False,Democratic Party (United States),Norman D'Amours,"157,447",40.96%
+1984,New Hampshire,General election results,General,Candidate,False,Libertarian Party (United States),Saunder Primack,"1,094",0.29%
 1984,New Hampshire,General election results,General,Total,False,,,"384,369",100.00%
 1984,New Jersey,1984 United States Senate election in New Jersey,General,Winning,True,Democratic Party (United States),Bill Bradley,"1,986,644",64.16%
 1984,New Jersey,1984 United States Senate election in New Jersey,General,Candidate,False,Republican Party (United States),Mary V. Mochary,"1,080,100",34.88%
@@ -74,17 +97,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Oklahoma,1984 Republican U.S. Senate runoff,General,Winning,False,Republican Party (United States),Will Crozier,"101,194",50.05%
 1984,Oklahoma,1984 Republican U.S. Senate runoff,General,Candidate,False,Republican Party (United States),George L. Mothershed,"100,995",49.95%
 1984,Oklahoma,1984 Republican U.S. Senate runoff,General,Total,False,,,"202,189",100.00%
+1984,Oklahoma,General election results,General,Winning,True,Democratic Party (United States),David Boren,"906,131",75.64%
+1984,Oklahoma,General election results,General,Candidate,False,Republican Party (United States),Will Crozier,"280,638",23.43%
+1984,Oklahoma,General election results,General,Candidate,False,Libertarian Party (United States),Robert T. Murphy,"11,168",0.93%
 1984,Oklahoma,General election results,General,Total,False,,,"1,197,937",100.00%
+1984,Oregon,1984 United States Senate election in Oregon,General,Winning,False,Democratic Party (United States),Margie Hendriksen,"406,122",33.43%
 1984,Oregon,1984 United States Senate election in Oregon,General,Candidate,False,Independent Republican (United States),Ralph H. Preston,461,0.04%
 1984,Oregon,1984 United States Senate election in Oregon,General,Total,False,,,"1,214,735",100.00%
 1984,Rhode Island,General election results,General,Winning,True,Democratic Party (United States),Claiborne Pell,"285,811",72.66%
-1984,Rhode Island,General election results,General,Candidate,False,Republican Party (United States),[[Barbara Leonard (politician),"107,545",27.34%
+1984,Rhode Island,General election results,General,Candidate,False,Republican Party (United States),Barbara Leonard,"107,545",27.34%
 1984,Rhode Island,General election results,General,Total,False,,,"393,356",100.00%
 1984,South Carolina,"South Carolina U.S. Senate Election, 1984",General,Winning,True,Republican Party (United States),Strom Thurmond,"644,814",66.79%
 1984,South Carolina,"South Carolina U.S. Senate Election, 1984",General,Candidate,False,Democratic Party (United States),Melvin Purvis,"306,982",31.80%
 1984,South Carolina,"South Carolina U.S. Senate Election, 1984",General,Candidate,False,Libertarian Party (United States),Stephen Davis,"13,323",1.38%
 1984,South Carolina,"South Carolina U.S. Senate Election, 1984",General,Write-in,False,,,335,0.03%
 1984,South Carolina,"South Carolina U.S. Senate Election, 1984",General,Total,False,,,"965,454",100.00%
+1984,South Dakota,General election results,General,Winning,True,Republican Party (United States),Larry Pressler,"235,176",74.49%
+1984,South Dakota,General election results,General,Candidate,False,Democratic Party (United States),George V. Cunningham,"80,537",25.51%
 1984,South Dakota,General election results,General,Total,False,,,"315,713",100.00%
 1984,Tennessee,General election results,General,Winning,False,Democratic Party (United States),Al Gore,"1,000,607",60.72%
 1984,Tennessee,General election results,General,Candidate,False,Republican Party (United States),Victor Ashe,"557,016",33.80%
@@ -96,6 +125,10 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Texas,General election results,General,Total,False,,,"5,313,905",100.00%
 1984,Virginia,"United States Senate election in Virginia, 1984",General,Winning,True,Republican Party (United States),John Warner,"1,406,194",70.05%
 1984,Virginia,"United States Senate election in Virginia, 1984",General,Candidate,False,Democratic Party (United States),Edythe C. Harrison,"601,142",29.95%
+1984,West Virginia,General election results,General,Winning,False,Democratic Party (United States),Jay Rockefeller,"374,233",51.82%
+1984,West Virginia,General election results,General,Candidate,False,Republican Party (United States),John Raese,"344,680",47.73%
 1984,West Virginia,General election results,General,Candidate,False,Socialist Workers Party (United States),Mary E. Radin,"3,299",0.46%
 1984,West Virginia,General election results,General,Total,False,,,"722,212",100.00%
+1984,Wyoming,1984 United States Senate election in Wyoming,General,Winning,False,Republican Party (United States),Alan Simpson,"146,373",78.32%
+1984,Wyoming,1984 United States Senate election in Wyoming,General,Candidate,False,Democratic Party (United States),Victor Ryan,"40,525",21.68%
 1984,Wyoming,1984 United States Senate election in Wyoming,General,Total,False,,,"186,898",100.00%

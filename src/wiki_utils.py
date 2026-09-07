@@ -27,6 +27,8 @@ Environment variables:
 from __future__ import annotations
 
 import html
+import calendar
+import datetime
 import logging
 import os
 import random
@@ -322,9 +324,47 @@ def fetch_articles_batch(titles: List[str]) -> Dict[str, Optional[str]]:
 # WIKITEXT CLEANING HELPERS
 # ──────────────────────────────────────────────
 
+#: Formatting-wrapper templates whose *content* should be kept when the
+#: template itself is removed (e.g. ``{{Small|Sample size}}`` → ``Sample size``).
+#: Anything else ({{efn}}, {{party shading}}, …) is deleted outright.
+FORMAT_TEMPLATE_NAMES = ("small", "sm", "nowrap", "nowrapr", "nobr", "sort")
+
+_FMT_TEMPLATE_RE = re.compile(
+    r"\{\{\s*(?:" + "|".join(FORMAT_TEMPLATE_NAMES) + r")\s*\|([^{}]*)\}\}",
+    re.IGNORECASE,
+)
+
+
+def unwrap_format_templates(text: str) -> str:
+    """
+    Replace formatting-wrapper templates with their content, keeping the text.
+
+    ``{{Small|Date(s)<br />administered}}`` → ``Date(s)<br />administered``
+    ``{{nowrap|1=September 16–18, 2011}}``  → ``September 16–18, 2011``
+
+    Runs twice so simple one-level nesting is resolved.  Without this, the
+    blanket template-removal step would delete header labels such as
+    ``{{Small|Paul<br />Broun}}`` entirely, leaving empty (and misaligned)
+    polling-table columns.
+    """
+    if not text or "{{" not in text:
+        return text
+    for _ in range(2):
+        text = _FMT_TEMPLATE_RE.sub(
+            lambda m: re.sub(r"^\s*1\s*=\s*", "", m.group(1)), text
+        )
+    return text
+
+
 def remove_wikilinks(text: str) -> str:
-    """``[[Target|Display]]`` → ``Display``;  ``[[Target]]`` → ``Target``."""
-    return re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", text or "")
+    """``[[Target|Display]]`` → ``Display``;  ``[[Target]]`` → ``Target``.
+
+    A safety net afterwards strips any residual ``[[`` / ``]]`` so truncated
+    links (e.g. a value cut at the inner pipe before this function runs) can
+    never leak raw bracket markup into parsed values.
+    """
+    text = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", text or "")
+    return text.replace("[[", "").replace("]]", "")
 
 
 def clean_wikitext(text: str) -> str:
@@ -332,12 +372,13 @@ def clean_wikitext(text: str) -> str:
     if not text:
         return ""
     text = html.unescape(text)                               # &nbsp; &amp; ...
-    text = re.sub(r"\{\{nowrap\|([^}]+)\}\}", r"\1", text)   # {{nowrap|x}} → x
-    text = re.sub(r"\{\{[^}]+\}\}", "", text)                # remove other templates
     text = re.sub(r"<ref[^>]*>.*?</ref>", "", text, flags=re.DOTALL)
+    text = unwrap_format_templates(text)                     # {{Small|x}} → x
+    text = re.sub(r"\{\{[^}]+\}\}", "", text)                # remove other templates
     text = re.sub(r"<br\s*/?>", " ", text)                   # <br> → space
     text = text.replace("'''", "").replace("''", "")         # bold / italic
     text = remove_wikilinks(text)
+    text = re.sub(r"<[^>]+>", " ", text)                     # residual HTML tags
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
@@ -357,3 +398,176 @@ def extract_incumbent_flag(name: str) -> Tuple[str, bool]:
         if re.search(pat, name or "", re.IGNORECASE):
             return re.sub(pat, "", name, flags=re.IGNORECASE).strip(), True
     return name, False
+
+
+# ──────────────────────────────────────────────
+# POLLING DATE NORMALISATION
+# ──────────────────────────────────────────────
+
+_MONTHS = {
+    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5,
+    "june": 6, "july": 7, "august": 8, "september": 9, "october": 10,
+    "november": 11, "december": 12,
+    # common abbreviations used on Wikipedia polling tables
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "jun": 6, "jul": 7,
+    "aug": 8, "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12,
+}
+_MONTH_RE = r"(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)"
+
+# "October 28–30, 2002" / "October 31 – November 2, 2002" / "April 10–14 2002"
+_RANGE_RE = re.compile(
+    rf"({_MONTH_RE})\.?\s+(\d{{1,2}})(?:\s*[–—−-]\s*(?:(\d{{1,2}})|({_MONTH_RE})\.?\s+(\d{{1,2}})))?\s*,?\s*(\d{{4}})",
+    re.IGNORECASE,
+)
+# "June 2002" / "September, 2017" / "Early February 2022" / "Released in February 2019"
+_MONTH_YEAR_RE = re.compile(
+    rf"({_MONTH_RE})\.?\s*,?\s*(\d{{4}})", re.IGNORECASE
+)
+# "January–9, 2018" (day lost in source article — read as Jan 1–9)
+_MONTH_DASH_DAY_RE = re.compile(
+    rf"({_MONTH_RE})\.?\s*[–—−-]\s*(\d{{1,2}})\s*,\s*(\d{{4}})", re.IGNORECASE,
+)
+
+
+def _iso(y: int, m: int, d: int) -> str:
+    try:
+        return datetime.date(y, m, d).isoformat()
+    except ValueError:
+        return ""
+
+
+def _last_day(y: int, m: int) -> int:
+    return calendar.monthrange(y, m)[1]
+
+
+def normalize_polling_date(
+    raw: str, fallback_year: Optional[int] = None
+) -> Tuple[str, str, str]:
+    """
+    Normalise the free-text dates found in Wikipedia polling tables to ISO
+    8601.  Returns ``(date_start, date_end, canonical)`` where the two dates
+    are ``YYYY-MM-DD`` (or ``""`` when unknown) and ``canonical`` is the
+    display value stored in the ``Date`` column:
+
+    * single day            → ``2002-10-16``
+    * range                 → ``2002-10-28 to 2002-10-30``
+    * open-ended (through)  → ``through 2024-11-04``
+    * month precision       → ``2002-06 to 2002-06`` is avoided; the month is
+      expanded to its first/last day and flagged in ``Date_Start``/``Date_End``.
+
+    Handles: en/em-dash and hyphen range separators, cross-month and
+    cross-year ranges, abbreviated months (``Sept.``), ``&``/``,``/``and``
+    disjoint day lists, ``through X``, ``Before X``, ``Released (on|in) X``,
+    ``~X``, ``Early M Y``, month-year only, and missing year (falls back to
+    ``fallback_year``).
+    """
+    if raw is None:
+        return "", "", ""
+    text = str(raw).strip()
+    if not text:
+        return "", "", ""
+
+    # separators: unicode dashes → '-', '&' / ' and ' → ', '
+    text = text.replace("–", "-").replace("—", "-").replace("−", "-").replace("―", "-")
+    text = re.sub(r"\s*&\s*", " , ", text)
+    text = re.sub(r"\s+and\s+", " , ", text, flags=re.IGNORECASE)
+
+    # open-ended prefixes: 'through X' / 'Before X' → end-only
+    open_ended = False
+    m = re.match(r"^(?:through|before)\s+(.*)$", text, re.IGNORECASE)
+    if m:
+        open_ended = True
+        text = m.group(1).strip()
+
+    # 'Released on October 5, 2019' / 'Released in February 2019' → plain date
+    text = re.sub(r"^released\s+(?:on\s+|in\s+)?", "", text, flags=re.IGNORECASE)
+
+    # '~' (approx.) — parse the date, precision marker is dropped
+    text = text.lstrip("~ ").strip()
+    # 'Early February 2022' — modifier carries no reliable day, use month bounds
+    text = re.sub(r"^(?:early|late|mid|early-mid)\s+", "", text, flags=re.IGNORECASE)
+
+    year: Optional[int] = None
+    ym = re.search(r"\b(\d{4})\b", text)
+    if ym:
+        year = int(ym.group(1))
+    elif fallback_year:
+        year = int(fallback_year)
+    if year is None:
+        return "", "", ""
+
+    # ── tokenize the remaining date text ─────────────────────────────
+    # events accumulate as (start_month, start_day, end_month, end_day)
+    _TOKEN_RE = re.compile(
+        rf"({_MONTH_RE})\.?"          # 1: month name
+        r"|(?<!\d)(\d{1,2})(?!\d)"    # 2: 1–2 digit day
+        r"|(?<!\d)(\d{4})(?!\d)"      # 3: year
+        r"|([,–\-—−&])",              # 4: separator (dashes normalised above)
+        re.IGNORECASE,
+    )
+    events: List[List[Optional[int]]] = []   # [sm, sd, em, ed]
+    cur_month: Optional[int] = None
+    dash_pending = False    # just saw '-'
+    extend_next = False     # dash then month → next day extends last event
+
+    def _flush_extend(day: int) -> None:
+        if events:
+            events[-1][2] = cur_month if cur_month is not None else events[-1][0]
+            events[-1][3] = day
+        else:  # 'January–9' style: no start day given → treat as day 1
+            events.append([cur_month, 1, cur_month, day])
+
+    for m in _TOKEN_RE.finditer(text):
+        month_name, day_tok, year_tok, sep = m.groups()
+        if month_name:
+            cur_month = _MONTHS.get(month_name.lower())
+            if dash_pending:
+                extend_next = True
+                dash_pending = False
+        elif day_tok is not None:
+            day = int(day_tok)
+            if not 1 <= day <= 31:
+                continue
+            if dash_pending or extend_next:
+                _flush_extend(day)
+                dash_pending = extend_next = False
+            else:
+                events.append([cur_month, day, cur_month, day])
+        elif year_tok is not None:
+            continue
+        elif sep == "-":
+            dash_pending = True
+        elif sep == ",":
+            dash_pending = extend_next = False
+
+    if not events:
+        # month name with no day at all → month precision
+        if cur_month:
+            start = _iso(year, cur_month, 1)
+            end = _iso(year, cur_month, _last_day(year, cur_month))
+            return start, end, f"{year}-{cur_month:02d}"
+        return "", "", ""
+
+    sm, sd, em, ed = events[0][0], events[0][1], events[-1][2], events[-1][3]
+    if sm is None or sd is None:
+        return "", "", ""
+    if em is None or ed is None:          # only one day mention
+        em, ed = sm, sd
+    start = _iso(year, sm, sd)
+    end_year = year
+    years_in_text = [int(y) for y in re.findall(r"\b(\d{4})\b", text)]
+    if len(years_in_text) >= 2:
+        end_year = years_in_text[-1]      # 'December 15, 2015 – January 3, 2016'
+    elif em < sm:
+        end_year = year + 1               # 'December 28 – January 2' spans years
+    end = _iso(end_year, em, ed)
+    if not start:
+        start = end
+    if not end:
+        end = start
+
+    if open_ended:
+        return "", end, f"through {end}"
+    if start == end:
+        return start, end, start
+    return start, end, f"{start} to {end}"

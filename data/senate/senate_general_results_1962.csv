@@ -1,6 +1,7 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
 1962,Alabama,1962 United States Senate election in Alabama,General,Winning,True,Alabama Democratic Party,J. Lister Hill,"201,937",50.86
 1962,Alabama,1962 United States Senate election in Alabama,General,Candidate,False,Alabama Republican Party,James D. Martin,"195,134",49.14
+1962,Alabama,1962 United States Senate election in Alabama,General,Candidate,False,Independent (politician),Write-in candidates,8{{efn,0.00
 1962,Alabama,1962 United States Senate election in Alabama,General,Total,False,,,"397,079",100.00
 1962,Alaska,1962 United States Senate election in Alaska,General,Winning,False,Democratic Party (United States),Ernest Gruening (inc.),"33,827",58.14%
 1962,Alaska,1962 United States Senate election in Alaska,General,Candidate,False,Republican Party (United States),Ted Stevens,"24,354",41.86%
@@ -10,10 +11,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1962,Arkansas,1962 Democratic U.S. Senate election,General,Winning,False,Democratic Party (United States),J. William Fulbright (inc.),"214,867",68.67%
 1962,Arkansas,1962 Democratic U.S. Senate election,General,Candidate,False,Republican Party (United States),Kenneth G. Jones,"98,013",31.33%
 1962,Arkansas,1962 Democratic U.S. Senate election,General,Total,False,,,"312,880",100.00%
+1962,California,1962 United States Senate election in California,General,Winning,True,Republican Party (United States),Thomas Kuchel,"3,180,483",56.31%
+1962,California,1962 United States Senate election in California,General,Candidate,False,Democratic Party (United States),Richard B. Richards,"2,452,839",43.43%
 1962,California,1962 United States Senate election in California,General,Candidate,False,Independent (politician),Howard Jarvis (write-in),"9,963",0.18%
 1962,California,1962 United States Senate election in California,General,Candidate,False,Independent (politician),Linus Pauling (write-in),"2,694",0.04%
 1962,California,1962 United States Senate election in California,General,Candidate,False,Independent (politician),Edward Brothers (write-in),284,0.00%
 1962,California,1962 United States Senate election in California,General,Total,False,,,"5,647,952",100.00%
+1962,Colorado,1962 United States Senate election in Colorado,General,Winning,False,Republican Party (United States),Peter Dominick,"328,655",53.58%
+1962,Colorado,1962 United States Senate election in Colorado,General,Candidate,False,Democratic Party (United States),John A. Carroll (inc.),"279,586",45.58%
 1962,Colorado,1962 United States Senate election in Colorado,General,Candidate,False,Socialist Party USA,Charlotte Benson,"3,546",0.58%
 1962,Colorado,1962 United States Senate election in Colorado,General,Candidate,False,Independent (politician),Henry John Olshaw,"1,217",0.20%
 1962,Colorado,1962 United States Senate election in Colorado,General,Candidate,False,Socialist Workers Party (US),Tom Leonard,440,0.07%
@@ -24,8 +29,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1962,Connecticut,1962 Connecticut Democratic Convention,General,Winning,False,Democratic Party (United States),Abraham Ribicoff,786,82.82%
 1962,Connecticut,1962 Connecticut Democratic Convention,General,Candidate,False,Democratic Party (United States),Frank Kowalski,163,17.18%
 1962,Connecticut,1962 Connecticut Democratic Convention,General,Total,False,,,949,100.00%
+1962,Connecticut,General election results,General,Winning,False,Democratic Party (United States),Abraham Ribicoff,"527,522",51.26%
+1962,Connecticut,General election results,General,Candidate,False,Republican Party (United States),Horace Seely-Brown Jr.,"501,694",48.74%
 1962,Connecticut,General election results,General,Total,False,,,"1,029,216",100.00%
+1962,Georgia,1962 United States Senate election in Georgia,General,Winning,True,Democratic Party (United States),Herman Talmadge,"306,250",100.00%
 1962,Georgia,1962 United States Senate election in Georgia,General,Total,False,,,"306,250",100.00%
+1962,Hawaii,1962 United States Senate election in Hawaii,General,Winning,False,Democratic Party (United States),Daniel Inouye,"136,294",69.41%
+1962,Hawaii,1962 United States Senate election in Hawaii,General,Candidate,False,Republican Party (US),Ben Dillingham II,"60,067",30.59%
 1962,Hawaii,1962 United States Senate election in Hawaii,General,Total,False,,,"196,361",100.00%
 1962,Idaho (special),"Republican nomination, 1st ballot",General,Winning,True,Republican Party (United States),Len Jordan,61,46.2
 1962,Idaho (special),"Republican nomination, 1st ballot",General,Candidate,False,Republican Party (United States),Hamer Budge,31,23.5
@@ -39,26 +49,43 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1962,Illinois,General election,General,Winning,True,Republican Party (United States),Everett McKinley Dirksen,"1,961,202",52.87
 1962,Illinois,General election,General,Candidate,False,Democratic Party (United States),Sidney R. Yates,"1,748,007",47.13
 1962,Illinois,General election,General,Total,False,,,"3,709,209",100
+1962,Indiana,1962 United States Senate election in Indiana,General,Winning,False,Democratic Party (United States),Birch Bayh,"905,491",50.30%
+1962,Indiana,1962 United States Senate election in Indiana,General,Candidate,True,Republican Party (United States),Homer Capehart,"894,547",49.70%
 1962,Indiana,1962 United States Senate election in Indiana,General,Total,False,,,"1,800,038",100.00%
+1962,Iowa,General election results,General,Winning,True,Republican Party (United States),Bourke B. Hickenlooper,"431,364",53.39%
+1962,Iowa,General election results,General,Candidate,False,Democratic Party (United States),E.B. Smith,"376,602",46.61%
 1962,Iowa,General election results,General,Total,False,,,"807,966",100.00%
+1962,Louisiana,1962 United States Senate election,General,Winning,True,Democratic Party (United States),Russell Long,"318,838",75.46%
+1962,Louisiana,1962 United States Senate election,General,Candidate,False,Republican Party (United States),Taylor W. O'Hearn,"103,666",24.54%
 1962,Louisiana,1962 United States Senate election,General,Total,False,,,"422,504",100.00%
 1962,Maryland,1962 U.S. Senate election in Maryland,General,Winning,False,Democratic Party (United States),Daniel Brewster,"439,723",62.03%
 1962,Maryland,1962 U.S. Senate election in Maryland,General,Candidate,False,Republican Party (United States),Edward Tylor Miller,"269,131",37.97%
 1962,Maryland,1962 U.S. Senate election in Maryland,General,Total,False,,,"708,854",100.00%
+1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Winning,False,Democratic Party (United States),Ted Kennedy,"1,162,611",55.44%
+1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Candidate,False,Republican Party (United States),George C. Lodge,"877,669",41.85%
 1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Candidate,False,Independent (politician),H. Stuart Hughes,"50,013",2.38%
+1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Candidate,False,Socialist Labor Party of America,Lawrence Gilfedder,"5,330",0.25%
+1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Candidate,False,Prohibition Party,Mark R. Shaw,"1,439",0.07%
 1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Write-in,False,,,23,0.00%
 1962,Massachusetts (special),1962 U.S. Senate special election in Massachusetts,General,Total,False,,,"2,097,061",100.00%
 1962,Missouri,1962 United States Senate election in Missouri,General,Winning,True,Democratic Party (United States),Edward V. Long,"663,301",54.43
 1962,Missouri,1962 United States Senate election in Missouri,General,Candidate,False,Republican Party (United States),R. Crosby Kemper Jr.,"555,330",45.57
+1962,New York,General election results,General,Winning,True,Republican Party (United States),Jacob K. Javits,"3,272,417",57.38%
+1962,New York,General election results,General,Candidate,False,Democratic Party (United States),James B. Donovan,"2,113,772",37.06%
+1962,New York,General election results,General,Candidate,False,Liberal Party of New York,James B. Donovan,"175,551",3.08%
 1962,New York,General election results,General,Candidate,False,Conservative Party of New York,Kieran O'Doherty,"116,151",2.04%
 1962,New York,General election results,General,Candidate,False,Socialist Workers Party (United States),Carl Feingold,"17,440",0.31%
 1962,New York,General election results,General,Candidate,False,Socialist Labor Party of America,Stephen Emery,"7,786",0.14%
 1962,New York,General election results,General,Total,False,,,"5,703,117",100.00%
+1962,North Carolina,1962 U.S. Senate election in North Carolina,General,Winning,True,Democratic Party (United States),Sam Ervin,"491,520",60.45%
+1962,North Carolina,1962 U.S. Senate election in North Carolina,General,Candidate,False,Republican Party (United States),"Claude Greene, Jr.","321,635",39.55%
 1962,North Carolina,1962 U.S. Senate election in North Carolina,General,Total,False,,,"813,155",100.00%
 1962,North Dakota,1962 United States Senate election in North Dakota,General,Winning,True,Republican Party (US),Milton Young,"135,705",60.65%
 1962,North Dakota,1962 United States Senate election in North Dakota,General,Candidate,False,North Dakota Democratic-NPL Party,William Lanier,"88,032",39.35%
+1962,Ohio,1962 United States Senate election in Ohio,General,Winning,True,Democratic Party (United States),Frank Lausche,"1,843,813",61.56%
+1962,Ohio,1962 United States Senate election in Ohio,General,Candidate,False,Republican Party (United States),John Marshall Briley,"1,151,173",38.44%
 1962,Ohio,1962 United States Senate election in Ohio,General,Total,False,,,"3,743,120",100.0%
-1962,Oklahoma,1962 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Mike Monroney ([[incumbent,"353,890",53.24%
+1962,Oklahoma,1962 United States Senate election in Oklahoma,General,Winning,False,Democratic Party (United States),Mike Monroney (inc.),"353,890",53.24%
 1962,Oklahoma,1962 United States Senate election in Oklahoma,General,Candidate,False,Republican Party (United States),B. Hayden Crawford,"307,966",46.33%
 1962,Oregon,"United States Senate election in Oregon, 1962",General,Winning,True,Democratic Party (US),Wayne Morse,"344,716",54.15%
 1962,Oregon,"United States Senate election in Oregon, 1962",General,Candidate,False,Republican Party (US),Sig Unander,"291,587",45.81%
@@ -70,13 +97,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1962,South Carolina,"South Carolina U.S. Senate Election, 1962",General,Candidate,False,Republican Party (United States),W. D. Workman Jr.,"133,930",42.84%
 1962,South Dakota,1962 United States Senate election in South Dakota,General,Winning,False,Democratic Party (United States),George McGovern,"127,458",50.12%
 1962,South Dakota,1962 United States Senate election in South Dakota,General,Candidate,True,Republican Party (United States),Joseph H. Bottum,"126,861",49.88%
-1962,Vermont,"United States Senate election in Vermont, 1962",General,Winning,False,Republican Party (United States),George Aiken ([[Incumbent,"81,241",66.83%
+1962,Vermont,"United States Senate election in Vermont, 1962",General,Winning,False,Republican Party (United States),George Aiken (inc.),"81,241",66.83%
 1962,Vermont,"United States Senate election in Vermont, 1962",General,Candidate,False,Democratic Party (United States),W. Robert Johnson,"40,134",33.17%
 1962,Vermont,"United States Senate election in Vermont, 1962",General,Total,False,,,"121,571",100.00%
-1962,Wisconsin,General election results,General,Candidate,True,Republican Party (United States),Alexander Wiley,"594,846",47.21
-1962,Wisconsin,General election results,General,Candidate,False,Independent (politician),William O. Hart,"1,428",0.11
-1962,Wisconsin,General election results,General,Candidate,False,Socialist Labor Party of America,Georgia Cozzini,"1,096",0.09
-1962,Wisconsin,General election results,General,Candidate,False,Socialist Workers Party (United States),Wayne Leverenz,368,0.03
 1962,Wisconsin,General election results,General,Total,False,,,,
 1962,Wyoming (special),1962 United States Senate election in Wyoming,General,Winning,False,Republican Party (United States),Milward Simpson,"69,043",57.84%
-1962,Wyoming (special),1962 United States Senate election in Wyoming,General,Candidate,False,Democratic Party (United States),John J. Hickey ([[incumbent,"50,329",42.16%
+1962,Wyoming (special),1962 United States Senate election in Wyoming,General,Candidate,False,Democratic Party (United States),John J. Hickey (inc.),"50,329",42.16%

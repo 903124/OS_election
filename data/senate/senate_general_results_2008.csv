@@ -5,7 +5,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Alabama,2008 United States Senate election in Alabama,General,Total,False,,,"2,060,191",100.00%
 2008,Alaska,2008 United States Senate election in Alaska,General,Winning,False,Mark Begich,Democratic Party (United States),"151,767",47.77%
 2008,Alaska,2008 United States Senate election in Alaska,General,Candidate,True,Ted Stevens,Republican Party (United States),"147,814",46.52%
-2008,Alaska,2008 United States Senate election in Alaska,General,Candidate,False,[[Bob Bird (politician),Alaskan Independence Party,"13,197",4.15%
+2008,Alaska,2008 United States Senate election in Alaska,General,Candidate,False,Bob Bird,Alaskan Independence Party,"13,197",4.15%
 2008,Alaska,2008 United States Senate election in Alaska,General,Candidate,False,Fredrick Haase,Alaska Libertarian Party,"2,483",0.78%
 2008,Alaska,2008 United States Senate election in Alaska,General,Candidate,False,Ted Gianoutsos,Independent,"1,385",0.44%
 2008,Alaska,2008 United States Senate election in Alaska,General,Write-in,False,,,"1,077",0.34%
@@ -23,17 +23,17 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Delaware,2008 United States Senate election in Delaware,General,Candidate,False,Christine O'Donnell,Republican Party (United States),"140,595",35.31%
 2008,Delaware,2008 United States Senate election in Delaware,General,Total,False,,,"398,134",100%
 2008,Georgia,2008 United States Senate general election in Georgia,General,Winning,True,Saxby Chambliss,Republican Party (United States),"1,867,097",49.76%
-2008,Georgia,2008 United States Senate general election in Georgia,General,Winning,False,[[Jim Martin (Georgia politician),Democratic Party (United States),"1,757,393",46.83%
+2008,Georgia,2008 United States Senate general election in Georgia,General,Winning,False,Jim Martin,Democratic Party (United States),"1,757,393",46.83%
 2008,Georgia,2008 United States Senate general election in Georgia,General,Candidate,False,Allen Buckley,Libertarian Party (United States),"127,923",3.41%
-2008,Georgia,2008 United States Senate general election in Georgia,General,Candidate,False,Eleanor Garcia ([[Write-in candidate,Socialist Workers Party (United States),43,0.00%
-2008,Georgia,2008 United States Senate general election in Georgia,General,Candidate,False,"William Salomone, Jr. ([[Write-in candidate",Independent,29,0.00%
+2008,Georgia,2008 United States Senate general election in Georgia,General,Candidate,False,Eleanor Garcia (write-in),Socialist Workers Party (United States),43,0.00%
+2008,Georgia,2008 United States Senate general election in Georgia,General,Candidate,False,"William Salomone, Jr. (write-in)",Independent,29,0.00%
 2008,Georgia,Runoff results,General,Winning,True,Saxby Chambliss,Republican Party (United States),"1,228,033",57.44%
 2008,Georgia,Runoff results,General,Candidate,False,Jim Martin,Democratic Party (United States),"909,923",42.56%
 2008,Idaho,General election results,General,Winning,False,Jim Risch,Republican Party (United States),"371,744",57.65%
 2008,Idaho,General election results,General,Candidate,False,Larry LaRocco,Democratic Party (United States),"219,903",34.11%
 2008,Idaho,General election results,General,Candidate,False,Rex Rammell,Independent,"34,510",5.35%
 2008,Idaho,General election results,General,Candidate,False,Kent Marmon,Libertarian Party (United States),"9,958",1.54%
-2008,Idaho,General election results,General,Candidate,False,[[Pro-Life (politician),Independent,"8,662",1.35%
+2008,Idaho,General election results,General,Candidate,False,Pro-Life,Independent,"8,662",1.35%
 2008,Idaho,General election results,General,Write-in,False,,,3,0.00%
 2008,Illinois,2008 United States Senate election in Illinois,General,Winning,True,Dick Durbin,Democratic Party (United States),"3,615,844",67.84%
 2008,Illinois,2008 United States Senate election in Illinois,General,Candidate,False,Steve Sauerberg,Republican Party (United States),"1,520,621",28.53%
@@ -52,12 +52,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Kentucky,General election results,General,Candidate,False,Bruce Lunsford,Democratic Party (United States),"847,005",47.03%
 2008,Kentucky,General election results,General,Total,False,,,"1,800,821",100.0%
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Winning,True,Mary Landrieu,Democratic Party (United States),"988,298",52.11%
-2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,[[John Kennedy (Louisiana politician),Republican Party (United States),"867,177",45.72%
+2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,John Kennedy,Republican Party (United States),"867,177",45.72%
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,Richard Fontanesi,Libertarian Party (United States),"18,590",0.98%
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,Jay Patel,Independent (United States),"13,729",0.72%
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,Robert Stewart,Independent (United States),"8,780",0.46%
-2008,Maine,General election results,General,Winning,False,[[Susan Collins (politician),Republican Party (United States),"444,300",61.33%
-2008,Maine,General election results,General,Candidate,False,[[Tom Allen (Maine politician),Democratic Party (United States),"279,510",38.58%
+2008,Maine,General election results,General,Winning,False,Susan Collins,Republican Party (United States),"444,300",61.33%
+2008,Maine,General election results,General,Candidate,False,Tom Allen,Democratic Party (United States),"279,510",38.58%
 2008,Maine,General election results,General,Write-in,False,,,620,0.09%
 2008,Maine,General election results,General,Total,False,,,"724,430",100.00%
 2008,Massachusetts,General election results,General,Winning,True,John Kerry,Democratic Party (United States),"1,971,974",65.86%
@@ -65,7 +65,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Massachusetts,General election results,General,Candidate,False,Robert J. Underwood,Libertarian Party (United States),"93,713",3.13%
 2008,Michigan,General election results,General,Winning,True,Carl Levin,Democratic Party (United States),"3,038,386",62.66%
 2008,Michigan,General election results,General,Candidate,False,Jack Hoogendyk,Republican Party (United States),"1,641,070",33.85%
-2008,Michigan,General election results,General,Candidate,False,[[Scott Boman,Libertarian Party (United States),"76,347",1.57%
+2008,Michigan,General election results,General,Candidate,False,Scotty Boman,Libertarian Party (United States),"76,347",1.57%
 2008,Michigan,General election results,General,Candidate,False,Harley Mikkelson,Green Party (United States),"43,440",0.90%
 2008,Michigan,General election results,General,Candidate,False,Doug Dern,Natural Law Party (United States),"18,550",0.38%
 2008,Minnesota,"2008 United States Senate election in Minnesota: Results certified November 18, 2008",General,Winning,True,Norm Coleman,Republican Party of Minnesota,"1,211,590",41.988%
@@ -101,7 +101,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Nebraska,2008 United States Senate election in Nebraska,General,Candidate,False,Steve Larrick,Green Party (United States),"7,763",0.98%
 2008,Nebraska,2008 United States Senate election in Nebraska,General,Total,False,,,"792,511",100.00%
 2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Winning,False,Jeanne Shaheen,Democratic Party (United States),"358,438",51.62%
-2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Candidate,False,[[John E. Sununu,Republican Party (United States),"314,403",45.28%
+2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Candidate,False,John Sununu,Republican Party (United States),"314,403",45.28%
 2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Candidate,False,Ken Blevens,Libertarian Party (United States),"21,516",3.10%
 2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Total,False,,,"694,357",100.0%
 2008,New Jersey,2008 United States Senate election in New Jersey,General,Winning,True,Frank Lautenberg,Democratic Party (United States),"1,951,218",56.03%
@@ -113,7 +113,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,New Jersey,2008 United States Senate election in New Jersey,General,Candidate,False,Sara Lobman,Socialist Workers Party (United States),"9,187",0.26%
 2008,New Jersey,2008 United States Senate election in New Jersey,General,Total,False,,,"3,482,445",100.00%
 2008,New Mexico,2008 United States Senate election in New Mexico,General,Winning,False,Tom Udall,Democratic Party (United States),"505,128",61.33%
-2008,New Mexico,2008 United States Senate election in New Mexico,General,Candidate,False,[[Steve Pearce (politician),Republican Party (United States),"318,522",38.67%
+2008,New Mexico,2008 United States Senate election in New Mexico,General,Candidate,False,Steve Pearce,Republican Party (United States),"318,522",38.67%
 2008,New Mexico,2008 United States Senate election in New Mexico,General,Total,False,,,"823,650",100.00%
 2008,North Carolina,2008 United States Senate election in North Carolina,General,Winning,False,Kay Hagan,Democratic Party (United States),"2,249,311",52.65%
 2008,North Carolina,2008 United States Senate election in North Carolina,General,Candidate,True,Elizabeth Dole,Republican Party (United States),"1,887,510",44.18%
@@ -124,7 +124,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Oklahoma,"United States Senate election in Oklahoma, 2008",General,Candidate,False,Andrew Rice,Democratic Party (United States),"527,736",39.18%
 2008,Oklahoma,"United States Senate election in Oklahoma, 2008",General,Candidate,False,Stephen Wallace,Independent (United States),"55,708",4.14%
 2008,Oregon,2008 United States Senate election in Oregon,General,Winning,False,Jeff Merkley,Democratic Party (United States),"864,392",48.90%
-2008,Oregon,2008 United States Senate election in Oregon,General,Candidate,False,[[Gordon H. Smith,Republican Party (United States),"805,159",45.55%
+2008,Oregon,2008 United States Senate election in Oregon,General,Candidate,False,Gordon Smith,Republican Party (United States),"805,159",45.55%
 2008,Oregon,2008 United States Senate election in Oregon,General,Candidate,False,David Brownlow,Constitution Party (United States),"92,565",5.24%
 2008,Oregon,2008 United States Senate election in Oregon,General,Write-in,False,,,"5,388",0.30%
 2008,Oregon,2008 United States Senate election in Oregon,General,Total,False,,,"1,767,504",100.00%
@@ -134,7 +134,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,South Carolina,General election results,General,Candidate,False,Bob Conley,Democratic Party (United States),"790,621",42.25%
 2008,South Carolina,General election results,General,Write-in,False,,,"4,276",0.23%
 2008,South Carolina,General election results,General,Total,False,,,"1,871,431",100.00%
-2008,South Dakota,General election results,General,Winning,False,[[Tim Johnson (South Dakota politician),Democratic Party (United States),"237,889",62.49%
+2008,South Dakota,General election results,General,Winning,False,Tim Johnson,Democratic Party (United States),"237,889",62.49%
 2008,South Dakota,General election results,General,Candidate,False,Joel Dykstra,Republican Party (United States),"142,784",37.51%
 2008,South Dakota,General election results,General,Total,False,,,"380,673",100.00%
 2008,Tennessee,"United States Senate election in Tennessee, 2008",General,Winning,True,Lamar Alexander,Republican Party (United States),"1,579,477",65.14%

@@ -13,7 +13,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2004,Arkansas,Republican Primary results,Primary,Candidate,False,Rosemarie Clampitt,Republican Party (United States),"6,078",11.3%
 2004,Arkansas,Republican Primary results,Primary,Total,False,,,"54,041",100.0%
 2004,California,"2004 United States Senate Democratic primary, California",Primary,Winning,True,Barbara Boxer,Democratic Party (United States),"2,566,298",100.00%
-2004,California,2004 California Republican primary,Primary,Winning,False,[[Bill Jones (California politician),Republican Party (US),"1,015,748",44.81%
+2004,California,2004 California Republican primary,Primary,Winning,False,Bill Jones,Republican Party (US),"1,015,748",44.81%
 2004,California,2004 California Republican primary,Primary,Candidate,False,Rosario Marin,Republican Party (US),"454,176",20.03%
 2004,California,2004 California Republican primary,Primary,Candidate,False,Howard Kaloogian,Republican Party (US),"253,331",11.17%
 2004,California,2004 California Republican primary,Primary,Candidate,False,Toni Casey,Republican Party (US),"142,080",6.27%
@@ -62,7 +62,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2004,Georgia,Republican Primary Election,Primary,Candidate,False,Mac Collins,Republican Party (United States),"134,053",20.6%
 2004,Idaho,Republican Party primary results,Primary,Winning,True,Mike Crapo,Republican Party (United States),"118,286",100.00%
 2004,Idaho,Republican Party primary results,Primary,Total,False,,,"118,286",100.00%
-2004,Illinois,Republican primary results,Primary,Winning,False,[[Jack Ryan (politician),Republican Party (United States),"234,791",35.5%
+2004,Illinois,Republican primary results,Primary,Winning,False,Jack Ryan,Republican Party (United States),"234,791",35.5%
 2004,Illinois,Republican primary results,Primary,Candidate,False,Jim Oberweis,Republican Party (United States),"155,794",23.5%
 2004,Illinois,Republican primary results,Primary,Candidate,False,Steve Rauschenberger,Republican Party (United States),"132,655",20.0%
 2004,Illinois,Republican primary results,Primary,Candidate,False,Andrew McKenna,Republican Party (United States),"97,238",14.7%
@@ -72,13 +72,13 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2004,Illinois,Republican primary results,Primary,Candidate,False,Chirinjeev Kathuria,Republican Party (United States),"5,110",0.8%
 2004,Illinois,Republican primary results,Primary,Total,False,,,"661,804",100.0%
 2004,Illinois,Democratic primary results,Primary,Winning,False,Barack Obama,Democratic Party (United States),"655,923",52.8%
-2004,Illinois,Democratic primary results,Primary,Candidate,False,[[Daniel Hynes,Democratic Party (United States),"294,717",23.7%
-2004,Illinois,Democratic primary results,Primary,Candidate,False,[[Blair Hull,Democratic Party (United States),"134,453",10.8%
+2004,Illinois,Democratic primary results,Primary,Candidate,False,Daniel W. Hynes,Democratic Party (United States),"294,717",23.7%
+2004,Illinois,Democratic primary results,Primary,Candidate,False,M. Blair Hull,Democratic Party (United States),"134,453",10.8%
 2004,Illinois,Democratic primary results,Primary,Candidate,False,Maria Pappas,Democratic Party (United States),"74,987",6.0%
 2004,Illinois,Democratic primary results,Primary,Candidate,False,Gery Chico,Democratic Party (United States),"53,433",4.3%
-2004,Illinois,Democratic primary results,Primary,Candidate,False,[[Nancy Skinner (commentator),Democratic Party (United States),"16,098",1.3%
+2004,Illinois,Democratic primary results,Primary,Candidate,False,Nancy Skinner,Democratic Party (United States),"16,098",1.3%
 2004,Illinois,Democratic primary results,Primary,Candidate,False,Joyce Washington,Democratic Party (United States),"13,375",1.1%
-2004,Illinois,Democratic primary results,Primary,Candidate,False,Estella Johnson-Hunt ([[write-in candidate,Democratic Party (United States),10,0.0%
+2004,Illinois,Democratic primary results,Primary,Candidate,False,Estella Johnson-Hunt (write-in),Democratic Party (United States),10,0.0%
 2004,Illinois,Democratic primary results,Primary,Total,False,,,"1,242,996",100.0%
 2004,Iowa,Democratic primary results,Primary,Winning,False,Arthur A. Small,Democratic Party (United States),"52,318",99.25%
 2004,Iowa,Democratic primary results,Primary,Candidate,False,Write-ins,Democratic Party (United States),398,0.75%

@@ -3,8 +3,8 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Alabama,2010 United States Senate election in Alabama,General,Candidate,False,William G. Barnes,Democratic Party (United States),"515,619",34.71%
 2010,Alabama,2010 United States Senate election in Alabama,General,Write-in,False,,,"1,699",0.11%
 2010,Alabama,2010 United States Senate election in Alabama,General,Total,False,,,"1,485,499",100.00%
-2010,Alaska,Final/certified general election results,General,Winning,False,{{nowrap,Republican Party (United States),"101,091",39.49%
-2010,Alaska,Final/certified general election results,General,Candidate,False,[[Joe Miller (Alaska politician),Republican Party (United States),"90,839",35.49%
+2010,Alaska,Final/certified general election results,General,Winning,False,"Lisa Murkowski (incumbent, write-in)",Republican Party (United States),"101,091",39.49%
+2010,Alaska,Final/certified general election results,General,Candidate,False,Joe Miller,Republican Party (United States),"90,839",35.49%
 2010,Alaska,Final/certified general election results,General,Candidate,False,Scott McAdams,Democratic Party (United States),"60,045",23.46%
 2010,Alaska,Final/certified general election results,General,Candidate,False,David Haase,Libertarian Party (United States),"1,459",0.57%
 2010,Alaska,Final/certified general election results,General,Candidate,False,Timothy Carter,Independent,927,0.36%
@@ -12,7 +12,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Alaska,Final/certified general election results,General,Total,False,,,"255,962",100.0%
 2010,Arizona,2010 United States Senate election in Arizona,General,Winning,True,John McCain,Republican Party (US),"1,005,615",59.07%
 2010,Arizona,2010 United States Senate election in Arizona,General,Candidate,False,Rodney Glassman,Democratic Party (US),"592,011",34.78%
-2010,Arizona,2010 United States Senate election in Arizona,General,Candidate,False,[[David Nolan (libertarian),Libertarian Party (US),"80,097",4.71%
+2010,Arizona,2010 United States Senate election in Arizona,General,Candidate,False,David Nolan,Libertarian Party (US),"80,097",4.71%
 2010,Arizona,2010 United States Senate election in Arizona,General,Candidate,False,Jerry Joslyn,Green Party (US),"24,603",1.45%
 2010,Arizona,2010 United States Senate election in Arizona,General,Total,False,,,"1,702,326",100.0%
 2010,Arkansas,"United States Senate election in Arkansas, 2010",General,Winning,False,John Boozman,Republican Party (United States),"451,618",57.90%
@@ -69,7 +69,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Florida,2010 United States Senate election in Florida,General,Write-in,False,,,108,0.00%
 2010,Florida,2010 United States Senate election in Florida,General,Total,False,,,"5,411,106",100.00%
 2010,Georgia,"United States Senate election in Georgia, 2010",General,Winning,True,Johnny Isakson,Republican Party (United States),"1,489,904",58.31%
-2010,Georgia,"United States Senate election in Georgia, 2010",General,Candidate,False,[[Mike Thurmond,Democratic Party (United States),"996,516",39.00%
+2010,Georgia,"United States Senate election in Georgia, 2010",General,Candidate,False,Michael Thurmond,Democratic Party (United States),"996,516",39.00%
 2010,Georgia,"United States Senate election in Georgia, 2010",General,Candidate,False,Chuck Donovan,Libertarian Party (United States),"68,750",2.69%
 2010,Georgia,"United States Senate election in Georgia, 2010",General,Write-in,False,,,88,0.00%
 2010,Georgia,"United States Senate election in Georgia, 2010",General,Total,False,,,"2,555,258",100.00%
@@ -100,7 +100,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Kansas,"United States Senate election in Kansas, 2010",General,Candidate,False,Joe Bellis,Reform Party (United States),"11,624",1.39%
 2010,Kansas,"United States Senate election in Kansas, 2010",General,Total,False,,,"837,692",100.0%
 2010,Kentucky,"United States Senate election in Kentucky, 2010",General,Winning,False,Rand Paul,Republican Party (United States),"755,706",55.73%
-2010,Kentucky,"United States Senate election in Kentucky, 2010",General,Candidate,False,[[Jack Conway (politician),Democratic Party (United States),"600,052",44.25%
+2010,Kentucky,"United States Senate election in Kentucky, 2010",General,Candidate,False,Jack Conway,Democratic Party (United States),"600,052",44.25%
 2010,Kentucky,"United States Senate election in Kentucky, 2010",General,Candidate,False,Billy Ray Wilson (write-in),Independent,338,0.02%
 2010,Kentucky,"United States Senate election in Kentucky, 2010",General,Total,False,,,"1,356,096",100.0%
 2010,Louisiana,"United States Senate election in Louisiana, 2010",General,Winning,True,David Vitter,Republican Party (United States),"715,415",56.56%
@@ -122,7 +122,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Maryland,"United States Senate election in Maryland, 2010",General,Candidate,False,Richard Shawver,Constitution Party (United States),"14,746",0.80%
 2010,Maryland,"United States Senate election in Maryland, 2010",General,Write-in,False,,,"2,213",0.11%
 2010,Maryland,"United States Senate election in Maryland, 2010",General,Total,False,,,"1,833,873",100.0%
-2010,Massachusetts (special),2010 Massachusetts U.S. Senate special election,General,Winning,False,[[Scott Brown (politician),Republican Party (United States),"1,168,178",51.86%
+2010,Massachusetts (special),2010 Massachusetts U.S. Senate special election,General,Winning,False,Scott Brown,Republican Party (United States),"1,168,178",51.86%
 2010,Massachusetts (special),2010 Massachusetts U.S. Senate special election,General,Candidate,False,Martha Coakley,Democratic Party (United States),"1,060,861",47.10%
 2010,Massachusetts (special),2010 Massachusetts U.S. Senate special election,General,Candidate,False,Joseph L. Kennedy,Libertarian Party (United States),"22,388",0.99%
 2010,Massachusetts (special),2010 Massachusetts U.S. Senate special election,General,Total,False,,,"2,252,582",100.00%
@@ -173,11 +173,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,North Dakota,General election results,General,Candidate,False,Keith Hanson,Libertarian Party (United States),"3,890",1.63%
 2010,North Dakota,General election results,General,Write-in,False,,,278,0.12%
 2010,North Dakota,General election results,General,Total,False,,,"238,814",100.00%
-2010,Ohio,"United States Senate election in Ohio, 2010",General,Winning,False,[[Rob Portman,Republican Party (United States),"2,168,742",56.85%
-2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,[[Lee Fisher,Democratic Party (United States),"1,503,297",39.40%
+2010,Ohio,"United States Senate election in Ohio, 2010",General,Winning,False,Robert Jones Portman,Republican Party (United States),"2,168,742",56.85%
+2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,Lee Irwin Fisher,Democratic Party (United States),"1,503,297",39.40%
 2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,Eric Deaton,Constitution Party (United States),"65,856",1.72%
 2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,Michael Pryce,Independent,"50,101",1.31%
-2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,[[Dan La Botz,Socialist Party USA,"26,454",0.69%
+2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,Daniel LaBotz,Socialist Party USA,"26,454",0.69%
 2010,Ohio,"United States Senate election in Ohio, 2010",General,Candidate,False,Arthur Sullivan (write-in),N/A,648,0.02%
 2010,Ohio,"United States Senate election in Ohio, 2010",General,Total,False,,,"3,815,098",100.00%
 2010,Oklahoma,"United States Senate election in Oklahoma, 2010",General,Winning,True,Tom Coburn,Republican Party (United States),"718,482",70.64%
@@ -206,7 +206,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Utah,State Democratic Convention results (first round),General,Total,False,,,100,100.0%
 2010,Utah,"United States Senate election in Utah, 2010",General,Winning,False,Mike Lee,Republican Party (United States),"390,179",61.56%
 2010,Utah,"United States Senate election in Utah, 2010",General,Candidate,False,Sam Granato,Democratic Party (United States),"207,685",32.77%
-2010,Utah,"United States Senate election in Utah, 2010",General,Candidate,False,[[Scott Bradley (politician),Constitution Party (United States),"35,937",5.67%
+2010,Utah,"United States Senate election in Utah, 2010",General,Candidate,False,Scott Bradley,Constitution Party (United States),"35,937",5.67%
 2010,Utah,"United States Senate election in Utah, 2010",General,Total,False,,,"633,801",100.00%
 2010,Vermont,"United States Senate election in Vermont, 2010",General,Winning,True,Patrick Leahy,Democratic Party (United States),"151,281",64.36%
 2010,Vermont,"United States Senate election in Vermont, 2010",General,Candidate,False,Len Britton,Republican Party (United States),"72,699",30.93%
@@ -221,7 +221,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2010,Washington,2010 United States Senate election in Washington,General,Total,False,,,"2,511,094",100.00%
 2010,West Virginia (special),"United States Senate special election in West Virginia, 2010 results",General,Winning,False,Joe Manchin,Democratic Party (United States),"283,358",53.47%
 2010,West Virginia (special),"United States Senate special election in West Virginia, 2010 results",General,Candidate,False,John Raese,Republican Party (United States),"230,013",43.40%
-2010,West Virginia (special),"United States Senate special election in West Virginia, 2010 results",General,Candidate,False,[[Jesse Johnson (West Virginia politician),Mountain Party,"10,152",1.92%
+2010,West Virginia (special),"United States Senate special election in West Virginia, 2010 results",General,Candidate,False,Jesse Johnson,Mountain Party,"10,152",1.92%
 2010,West Virginia (special),"United States Senate special election in West Virginia, 2010 results",General,Candidate,False,Jeff Becker,Constitution Party (United States),"6,425",1.21%
 2010,West Virginia (special),"United States Senate special election in West Virginia, 2010 results",General,Total,False,,,"529,948",100
 2010,Wisconsin,General election results,General,Winning,False,Ron Johnson,Republican Party (United States),"1,125,999",51.86%

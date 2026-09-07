@@ -7,9 +7,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Arizona,Republican primary results,Primary,Winning,False,Republican Party (United States),Ralph H. Cameron,"10,350",59.3%
 1932,Arizona,Republican primary results,Primary,Candidate,False,Republican Party (United States),Hoval A. Smith,"7,105",40.7%
 1932,Arizona,Republican primary results,Primary,Total,False,,,"17,455",100.0
-1932,Arkansas (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,Arkansas (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,Arkansas (special),Democratic primary results,Primary,Total,False,,,"281,938",100.00
 1932,Arkansas,1932 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (United States),Hattie Caraway,"127,702",44.73%
 1932,Arkansas,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),O. L. Bodenhamer,"63,858",22.37%
 1932,Arkansas,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Vincent M. Miles,"30,423",10.66%
@@ -43,20 +40,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Colorado,Republican primary,Primary,Winning,False,Republican Party (United States),Karl C. Schuyler,"66,179",58.43%
 1932,Colorado,Republican primary,Primary,Candidate,False,Republican Party (United States),Nate C. Warren,"47,080",41.57%
 1932,Colorado,Republican primary,Primary,Total,False,,,"113,259",100.00%
-1932,Florida,Democratic Party primary results{{sfn|Congressional Quarterly|2005|p=1375,Primary,Winning,True,Democratic Party (United States),Duncan U. Fletcher,unopposed,
-1932,Georgia,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,Georgia,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,Georgia,Democratic primary results,Primary,Total,False,,,"281,938",100.00
-1932,Georgia (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,Georgia (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,Georgia (special),Democratic primary results,Primary,Total,False,,,"281,938",100.00
+1932,Florida,Democratic Party primary results,Primary,Winning,True,Democratic Party (United States),Duncan U. Fletcher,unopposed,
 1932,Idaho,Democratic primary results,Primary,Winning,False,Democratic Party (United States),James P. Pope,"14,910",37.53
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),W. Orr Chapman,"8,494",21.38
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),G. P. Mix,"7,455",18.77
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Harry S. Kessler,"4,647",11.70
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Owen T. Stratton,"4,219",10.62
 1932,Idaho,Democratic primary results,Primary,Total,False,,,"39,725",
-1932,Idaho,Republican primary results,Primary,Winning,False,Republican Party (United States),[[John Thomas (Idaho politician),"32,812",66.65
+1932,Idaho,Republican primary results,Primary,Winning,False,Republican Party (United States),John Thomas,"32,812",66.65
 1932,Idaho,Republican primary results,Primary,Candidate,False,Republican Party (United States),J. Wesley Holden,"16,418",33.35
 1932,Idaho,Republican primary results,Primary,Total,False,,,"49,230",
 1932,Illinois,Democratic primary,Primary,Winning,False,Democratic Party (United States),William H. Dieterich,"342,360",51.04
@@ -81,7 +72,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Iowa,1932 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),L.E. Eickelberg,"8,513",1.95%
 1932,Iowa,1932 Republican U.S. Senate primary,Primary,Write-in,False,,,44,0.01%
 1932,Iowa,1932 Republican U.S. Senate primary,Primary,Total,False,,,"436,562",100.00%
-1932,Iowa,1932 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),[[Richard L. Murphy,"51,537",38.72%
+1932,Iowa,1932 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Louis Murphy,"51,537",38.72%
 1932,Iowa,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Daniel F. Steck,"32,439",24.37%
 1932,Iowa,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Nelson G. Kraschel,"18,208",13.68%
 1932,Iowa,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Charles F. Lytle,"17,876",13.43%
@@ -129,18 +120,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Missouri,"Socialist primary August 2, 1932",Primary,Total,False,,,535,100
 1932,Missouri,"Socialist Labour primary August 2, 1932",Primary,Winning,False,Socialist Labor Party of America,Karl L. Oberhue,38,100
 1932,Missouri,"Socialist Labour primary August 2, 1932",Primary,Total,False,,,38,100
-1932,Nevada,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,Nevada,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,Nevada,Democratic primary results,Primary,Total,False,,,"281,938",100.00
 1932,New Hampshire,1932 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (US),George H. Moses,"45,443",100.00%
 1932,New Hampshire,1932 Republican U.S. Senate primary,Primary,Total,False,,,"45,443",100.00%
 1932,New Hampshire,1932 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),Fred H. Brown,"14,598",57.13%
 1932,New Hampshire,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Timothy F. O'Connor,"8,239",32.24%
 1932,New Hampshire,1932 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Joseph A. Coutremarsh,"2,715",10.63%
 1932,New Hampshire,1932 Democratic U.S. Senate primary,Primary,Total,False,,,"25,552",100.00%
-1932,North Carolina (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,North Carolina (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,North Carolina (special),Democratic primary results,Primary,Total,False,,,"281,938",100.00
 1932,North Carolina,1932 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Robert Rice Reynolds,"315,316",42.33%
 1932,North Carolina,1932 Democratic Senate primary,Primary,Winning,True,Democratic Party (United States),Cameron A. Morrison,"135,632",38.08%
 1932,North Carolina,1932 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Thomas C. Bowie,"36,414",10.22%
@@ -176,9 +161,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Oklahoma,Republican primary runoff,Primary,Winning,False,Republican Party (United States),Wirt Franklin,"42,090",59.04%
 1932,Oklahoma,Republican primary runoff,Primary,Candidate,False,Republican Party (United States),James A. Harris,"29,195",40.96%
 1932,Oklahoma,Republican primary runoff,Primary,Total,False,,,"71,285",100.00%
-1932,Oregon,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,Oregon,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,Oregon,Democratic primary results,Primary,Total,False,,,"281,938",100.00
 1932,South Dakota,Democratic primary,Primary,Winning,False,Democratic Party (United States),Ulysses Simpson Grant Cherry,"17,567",42.60%
 1932,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Lewis W. Bicknell,"15,718",38.12%
 1932,South Dakota,Democratic primary,Primary,Candidate,False,Democratic Party (United States),"Mark Sheafe, Jr.","7,949",19.28%
@@ -187,10 +169,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Harry F. Brownell,"27,777",21.61%
 1932,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Charles Hartsough,"5,233",4.07%
 1932,South Dakota,Republican primary,Primary,Total,False,,,"128,508",100.00%
-1932,Utah,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Russell Jr.,"162,745",57.72
-1932,Utah,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Charles R. Crisp,"119,193",42.28
-1932,Utah,Democratic primary results,Primary,Total,False,,,"281,938",100.00
-1932,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),Porter H. Dale ([[Incumbent,"68,465",99.8%
+1932,Vermont,Republican primary results,Primary,Winning,False,Republican Party (United States),Porter H. Dale (inc.),"68,465",99.8%
 1932,Vermont,Republican primary results,Primary,Candidate,False,Republican Party (United States),Others,158,0.2%
 1932,Vermont,Republican primary results,Primary,Total,False,,,"68,623",100.0%
 1932,Vermont,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Fred C. Martin,"4,030",99.7%
