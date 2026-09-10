@@ -693,12 +693,21 @@ def wide_to_long_polls(
 
     # Placeholder / junk values seen in real polling tables — treat as missing
     # rather than letting '?' or '± ?' leak into the CSV.
+    #
+    # pandas 3 gotcha: ``astype(str)`` no longer coerces missing values to the
+    # literal string 'nan' — NA stays NA (float NaN / pd.NA), so the row-wise
+    # regex below would receive a non-string and raise
+    # "expected string or bytes-like object, got 'float'".  Guard with an
+    # isinstance check so both pandas 2.x and 3.x behave identically.
     _MISSING = ["-", "", "–", "—", "?", "± ?", "n/a", "N/A", "NA", "unknown", "Unknown"]
     _DASH_ONLY_RE = re.compile(r"^[\s\-–—―‒–?±%]*$")   # dashes, '?', '±', '%' only
     for col in ("Pct", "MoE", "Sample"):
         if col in df_long.columns:
             s = df_long[col].astype(str)
-            df_long.loc[s.apply(lambda v: bool(_DASH_ONLY_RE.match(v))), col] = pd.NA
+            df_long.loc[
+                s.apply(lambda v: bool(_DASH_ONLY_RE.match(v)) if isinstance(v, str) else False),
+                col,
+            ] = pd.NA
     df_long["Pct"] = df_long["Pct"].replace(_MISSING, pd.NA)
     df_long = df_long.dropna(subset=["Pct"])
     if "MoE" in df_long.columns:
@@ -1208,6 +1217,46 @@ def process_senate_cycles(
     return _assemble()
 
 
+def _rebuild_combined_from_disk(senate_dir: str, key: str) -> Optional[pd.DataFrame]:
+    """
+    Rebuild the ``senate_{key}_all.csv`` combined frame from every
+    ``senate_{key}_{year}.csv`` present in *senate_dir*.
+
+    A run that processes only the current cycle (e.g. ``--start-year 2026
+    --end-year 2026``) must NOT overwrite the combined CSV with just its own
+    rows — that used to silently wipe the 1914–2024 history from the _all
+    files.  The per-year files are the source of truth: every year ever
+    processed by any run leaves a ``_{year}.csv`` behind, so concatenating
+    them (sorted by Year) always yields the full-history combined file.
+    """
+    import glob
+    import os
+
+    parts: List[pd.DataFrame] = []
+    for path in sorted(glob.glob(os.path.join(senate_dir, f"senate_{key}_*.csv"))):
+        name = os.path.basename(path)
+        # match the per-year files only ('senate_{key}_1914.csv', ..., not '_all')
+        m = re.fullmatch(rf"senate_{key}_(\d{{4}})\.csv", name)
+        if not m:
+            continue
+        try:
+            df_year = pd.read_csv(path, dtype=str, keep_default_na=False, na_values=[""])
+        except Exception:
+            logger.warning("Could not read %s for the combined file — skipping", path)
+            continue
+        if len(df_year):
+            parts.append(df_year)
+    if not parts:
+        return None
+    combined = pd.concat(parts, ignore_index=True)
+    if "Year" in combined.columns:
+        combined = combined.sort_values(
+            ["Year"] + [c for c in ("State", "Date") if c in combined.columns],
+            kind="stable",
+        ).reset_index(drop=True)
+    return combined
+
+
 def save_results(results: Dict, output_dir: str = "data") -> str:
     """Write per-year and combined CSVs + metadata JSON under *output_dir*/senate."""
     import os
@@ -1222,11 +1271,15 @@ def save_results(results: Dict, output_dir: str = "data") -> str:
                 path = os.path.join(senate_dir, f"senate_{key}_{year}.csv")
                 df_year.to_csv(path, index=False)
                 logger.info("Saved: %s", path)
-        combined = results.get(key)
+        # Rebuild the combined file from ALL per-year files on disk (not just
+        # the years of this run) so single-cycle runs can never clobber the
+        # multi-decade history in senate_{key}_all.csv.
+        combined = _rebuild_combined_from_disk(senate_dir, key)
         if combined is not None and len(combined):
             path = os.path.join(senate_dir, f"senate_{key}_all.csv")
             combined.to_csv(path, index=False)
-            logger.info("Saved: %s", path)
+            results[key] = combined   # keep in-memory result consistent
+            logger.info("Saved: %s (%d rows, rebuilt from per-year files)", path, len(combined))
 
     timestamp = time.strftime("%Y%m%d_%H%M%S")
     metadata_path = os.path.join(senate_dir, f"senate_metadata_{timestamp}.json")

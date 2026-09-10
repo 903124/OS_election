@@ -388,14 +388,21 @@ def extract_incumbent_flag(name: str) -> Tuple[str, bool]:
     Strip a trailing '(incumbent)' / '- incumbent' marker from *name*.
 
     Returns ``(clean_name, is_incumbent)``.
+
+    Tolerates non-string input (NaN from half-populated DataFrames): NaN is
+    truthy, so the original ``name or ""`` fallback would still hand the raw
+    float to ``re.search`` and raise
+    ``TypeError: expected string or bytes-like object, got 'float'``.
     """
+    if not isinstance(name, str):
+        return name, False
     patterns = [
         r"\s*\(incumbent\)\s*$",
         r"\s*[-–]\s*incumbent\s*$",
         r"\s+incumbent\s*$",
     ]
     for pat in patterns:
-        if re.search(pat, name or "", re.IGNORECASE):
+        if re.search(pat, name, re.IGNORECASE):
             return re.sub(pat, "", name, flags=re.IGNORECASE).strip(), True
     return name, False
 
