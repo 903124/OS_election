@@ -1,6 +1,7 @@
-# wiki-elections-pipeline
+# Open Source Election
 
-Automated extraction of U.S. election results from Wikipedia into tidy,
+The repo contains open source data for U.S. election using 
+automated extraction of  results from Wikipedia into tidy,
 analysis-ready CSV datasets. Six pipelines cover federal, state, and
 presidential races; a companion pipeline derives a Cook-PVI-style partisan
 lean for every congressional district. All data is fetched through the
