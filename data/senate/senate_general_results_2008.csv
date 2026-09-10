@@ -56,7 +56,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,Richard Fontanesi,Libertarian Party (United States),"18,590",0.98%
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,Jay Patel,Independent (United States),"13,729",0.72%
 2008,Louisiana,2008 United States Senate election in Louisiana,General,Candidate,False,Robert Stewart,Independent (United States),"8,780",0.46%
-2008,Maine,General election results,General,Winning,False,Susan Collins,Republican Party (United States),"444,300",61.33%
+2008,Maine,General election results,General,Winning,True,Susan Collins,Republican Party (United States),"444,300",61.33%
 2008,Maine,General election results,General,Candidate,False,Tom Allen,Democratic Party (United States),"279,510",38.58%
 2008,Maine,General election results,General,Write-in,False,,,620,0.09%
 2008,Maine,General election results,General,Total,False,,,"724,430",100.00%
@@ -101,7 +101,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Nebraska,2008 United States Senate election in Nebraska,General,Candidate,False,Steve Larrick,Green Party (United States),"7,763",0.98%
 2008,Nebraska,2008 United States Senate election in Nebraska,General,Total,False,,,"792,511",100.00%
 2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Winning,False,Jeanne Shaheen,Democratic Party (United States),"358,438",51.62%
-2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Candidate,False,John Sununu,Republican Party (United States),"314,403",45.28%
+2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Candidate,True,John Sununu,Republican Party (United States),"314,403",45.28%
 2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Candidate,False,Ken Blevens,Libertarian Party (United States),"21,516",3.10%
 2008,New Hampshire,2008 United States Senate election in New Hampshire,General,Total,False,,,"694,357",100.0%
 2008,New Jersey,2008 United States Senate election in New Jersey,General,Winning,True,Frank Lautenberg,Democratic Party (United States),"1,951,218",56.03%
@@ -124,7 +124,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,Oklahoma,"United States Senate election in Oklahoma, 2008",General,Candidate,False,Andrew Rice,Democratic Party (United States),"527,736",39.18%
 2008,Oklahoma,"United States Senate election in Oklahoma, 2008",General,Candidate,False,Stephen Wallace,Independent (United States),"55,708",4.14%
 2008,Oregon,2008 United States Senate election in Oregon,General,Winning,False,Jeff Merkley,Democratic Party (United States),"864,392",48.90%
-2008,Oregon,2008 United States Senate election in Oregon,General,Candidate,False,Gordon Smith,Republican Party (United States),"805,159",45.55%
+2008,Oregon,2008 United States Senate election in Oregon,General,Candidate,True,Gordon Smith,Republican Party (United States),"805,159",45.55%
 2008,Oregon,2008 United States Senate election in Oregon,General,Candidate,False,David Brownlow,Constitution Party (United States),"92,565",5.24%
 2008,Oregon,2008 United States Senate election in Oregon,General,Write-in,False,,,"5,388",0.30%
 2008,Oregon,2008 United States Senate election in Oregon,General,Total,False,,,"1,767,504",100.00%
@@ -134,7 +134,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2008,South Carolina,General election results,General,Candidate,False,Bob Conley,Democratic Party (United States),"790,621",42.25%
 2008,South Carolina,General election results,General,Write-in,False,,,"4,276",0.23%
 2008,South Carolina,General election results,General,Total,False,,,"1,871,431",100.00%
-2008,South Dakota,General election results,General,Winning,False,Tim Johnson,Democratic Party (United States),"237,889",62.49%
+2008,South Dakota,General election results,General,Winning,True,Tim Johnson,Democratic Party (United States),"237,889",62.49%
 2008,South Dakota,General election results,General,Candidate,False,Joel Dykstra,Republican Party (United States),"142,784",37.51%
 2008,South Dakota,General election results,General,Total,False,,,"380,673",100.00%
 2008,Tennessee,"United States Senate election in Tennessee, 2008",General,Winning,True,Lamar Alexander,Republican Party (United States),"1,579,477",65.14%

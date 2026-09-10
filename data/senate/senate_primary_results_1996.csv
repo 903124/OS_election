@@ -150,7 +150,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1996,Nebraska,Libertarian primary results,Primary,Candidate,False,Chuck Hagel (write-in),Libertarian Party (United States),14,23.33%
 1996,Nebraska,Libertarian primary results,Primary,Candidate,False,Write-ins,Libertarian Party (United States),35,58.33%
 1996,Nebraska,Libertarian primary results,Primary,Total,False,,,60,100.00%
-1996,New Hampshire,1996 Republican U.S. Senate primary,Primary,Winning,False,Bob Smith,Republican Party (US),"85,223",100.00%
+1996,New Hampshire,1996 Republican U.S. Senate primary,Primary,Winning,True,Bob Smith,Republican Party (US),"85,223",100.00%
 1996,New Hampshire,1996 Republican U.S. Senate primary,Primary,Total,False,,,"85,223",100.00%
 1996,New Hampshire,1996 Democratic U.S. Senate primary,Primary,Winning,False,Dick Swett,Democratic Party (US),"32,443",52.47%
 1996,New Hampshire,1996 Democratic U.S. Senate primary,Primary,Candidate,False,John Rauh,Democratic Party (US),"29,393",47.53%

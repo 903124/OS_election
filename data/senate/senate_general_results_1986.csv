@@ -30,7 +30,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Connecticut,"Connecticut United States Senate election, 1986",General,Candidate,False,Roger Eddy,Republican Party (United States),"340,438",34.85%
 1986,Connecticut,"Connecticut United States Senate election, 1986",General,Candidate,False,Edward J. McCallum Jr.,Independent,"3,800",0.39%
 1986,Florida,General election results,General,Winning,False,Bob Graham,Democratic Party (United States),"1,877,543",54.74%
-1986,Florida,General election results,General,Candidate,False,Paula Hawkins,Republican Party (United States),"1,552,376",45.26%
+1986,Florida,General election results,General,Candidate,True,Paula Hawkins,Republican Party (United States),"1,552,376",45.26%
 1986,Florida,General election results,General,Write-in,False,,,77,0.00%
 1986,Florida,General election results,General,Total,False,,,"3,429,996",100.00%
 1986,Georgia,1986 United States Senate election in Georgia,General,Winning,False,Wyche Fowler,Democratic Party (United States),"623,707",50.92%
@@ -82,7 +82,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,New York,1986 U.S. Senate election in New York,General,Candidate,False,Michael Shur,Socialist Workers Party (United States),"7,376",0.16%
 1986,New York,1986 U.S. Senate election in New York,General,Total,False,,,"4,484,859",100.00%
 1986,North Dakota,General election results,General,Winning,False,Kent Conrad,North Dakota Democratic-NPL Party,"143,932",49.80%
-1986,North Dakota,General election results,General,Candidate,False,Mark Andrews,Republican Party (United States),"141,812",49.07%
+1986,North Dakota,General election results,General,Candidate,True,Mark Andrews,Republican Party (United States),"141,812",49.07%
 1986,North Dakota,General election results,General,Candidate,False,Anna B. Bourgois,Independent (United States),"3,269",1.13%
 1986,North Dakota,General election results,General,Total,False,,,"289,013",100.00%
 1986,Ohio,1986 United States Senate election in Ohio,General,Winning,True,John Glenn,Democratic Party (United States),"1,949,208",62.45%
@@ -97,7 +97,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Pennsylvania,General election results,General,Winning,True,Arlen Specter,Republican Party (United States),"1,906,537",56.44%
 1986,Pennsylvania,General election results,General,Candidate,False,Robert W. Edgar,Democratic Party (United States),"1,448,219",42.87%
 1986,Pennsylvania,General election results,General,Candidate,False,Lance S. Haver,Citizens Party (United States),"23,470",0.69%
-1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Winning,False,Fritz Hollings,Democratic Party (United States),"465,511",63.07%
+1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Winning,True,Fritz Hollings,Democratic Party (United States),"465,511",63.07%
 1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Candidate,False,Henry McMaster,Republican Party (United States),"262,976",35.63%
 1986,South Carolina,"South Carolina U.S. Senate Election, 1986",General,Candidate,False,Steven B. Vandervelde,Libertarian Party (United States),"4,788",0.65%
 1986,South Dakota,General election results,General,Winning,False,Tom Daschle,Democratic Party (United States),"152,657",51.60%

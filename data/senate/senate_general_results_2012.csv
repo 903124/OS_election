@@ -103,7 +103,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Massachusetts,Democratic convention vote,General,Candidate,False,Marisa DeFranco,Democratic Party (United States),148,4.23
 2012,Massachusetts,Democratic convention vote,General,Total,False,,,"3,500",100.00
 2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Winning,False,Elizabeth Warren,Democratic Party (United States),"1,696,346",53.74
-2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Candidate,False,Scott Brown,Republican Party (United States),"1,458,048",46.19
+2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Candidate,True,Scott Brown,Republican Party (United States),"1,458,048",46.19
 2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Write-in,False,,,"2,159",0.07
 2012,Massachusetts,"United States Senate election in Massachusetts, 2012",General,Total,False,,,"3,156,553",100.00
 2012,Michigan,"United States Senate election in Michigan, 2012",General,Winning,True,Debbie Stabenow,Democratic Party (United States),"2,735,826",58.80%

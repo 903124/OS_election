@@ -141,7 +141,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2014,Mississippi,Democratic primary results,Primary,Candidate,False,William Compton,Democratic Party (United States),"8,465",9.9%
 2014,Mississippi,Democratic primary results,Primary,Candidate,False,Jonathan Rawl,Democratic Party (United States),"3,492",4.1%
 2014,Mississippi,Democratic primary results,Primary,Total,False,,,"85,866",100.0%
-2014,Montana,Democratic primary results,Primary,Winning,False,John Walsh,Democratic Party (United States),"48,665",64.04%
+2014,Montana,Democratic primary results,Primary,Winning,True,John Walsh,Democratic Party (United States),"48,665",64.04%
 2014,Montana,Democratic primary results,Primary,Candidate,False,John Bohlinger,Democratic Party (United States),"17,187",22.62%
 2014,Montana,Democratic primary results,Primary,Candidate,False,Dirk Adams,Democratic Party (United States),"10,139",13.34%
 2014,Montana,Democratic primary results,Primary,Total,False,,,"75,991",100.00%

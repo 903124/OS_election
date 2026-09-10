@@ -8,7 +8,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1990,Idaho,Primary results,Primary,Candidate,False,Jim Jones,Republican Party (US),"45,733",40.99%
 1990,Idaho,Primary results,Primary,Winning,False,Ron Twilegar,Democratic Party (US),"30,154",64.51%
 1990,Idaho,Primary results,Primary,Candidate,False,David C. Steed,Democratic Party (US),"16,587",35.49%
-1990,Illinois,Democratic primary results,Primary,Winning,False,Paul Simon,Democratic Party (United States),"811,329",100.00%
+1990,Illinois,Democratic primary results,Primary,Winning,True,Paul Simon,Democratic Party (United States),"811,329",100.00%
 1990,Illinois,Democratic primary results,Primary,Total,False,,,"811,329",100.00%
 1990,Illinois,Republican primary results,Primary,Winning,False,Lynn Martin,Republican Party (United States),"572,995",100.00%
 1990,Illinois,Republican primary results,Primary,Total,False,,,"572,995",100.00%

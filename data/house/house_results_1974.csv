@@ -1,191 +1,302 @@
 year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
 1974,house,Alabama,AL,1,Jack Edwards,Republican,59.5,True,True,False
+1974,house,Alabama,AL,1,Augusta A. Wilson,Democratic,37.0,False,False,False
+1974,house,Alabama,AL,1,Mary B. McCarthy,Unknown,3.6,False,False,False
 1974,house,Alabama,AL,2,William Louis Dickinson,Republican,66.1,True,True,False
+1974,house,Alabama,AL,2,Clair Chisler,Democratic,33.9,False,False,False
 1974,house,Alabama,AL,3,William Flynt Nichols,Democratic,95.9,True,True,False
-1974,house,Alabama,AL,3,Prohibition,Unknown,4.1,False,False,False
+1974,house,Alabama,AL,3,James R. Connell,Prohibition,4.1,False,False,False
 1974,house,Alabama,AL,4,Tom Bevill,Democratic,100.0,True,True,False
 1974,house,Alabama,AL,5,Robert E. Jones Jr.,Democratic,100.0,True,True,False
 1974,house,Alabama,AL,6,John Hall Buchanan Jr.,Republican,57.0,True,True,False
-1974,house,Alabama,AL,6,Prohibition,Unknown,1.7,False,False,False
+1974,house,Alabama,AL,6,Nina Miglionico,Democratic,41.3,False,False,False
+1974,house,Alabama,AL,6,Elizabeth S. Dillard,Prohibition,1.7,False,False,False
 1974,house,Alabama,AL,7,Walter Flowers,Democratic,91.0,True,True,False
+1974,house,Alabama,AL,7,Frank P. Walls,Unknown,6.4,False,False,False
+1974,house,Alabama,AL,7,Lewis Black,Unknown,2.6,False,False,False
 1974,house,Alaska,AK,AL,Don Young,Republican,53.8,True,True,False
+1974,house,Alaska,AK,AL,William L. Hensley,Democratic,46.2,False,False,False
 1974,house,Arizona,AZ,1,John Jacob Rhodes,Republican,51.1,True,True,False
+1974,house,Arizona,AZ,1,Pat Fullinwider,Democratic,42.3,False,False,False
+1974,house,Arizona,AZ,1,J. M. Sanders,Independent,6.6,False,False,False
 1974,house,Arizona,AZ,2,Mo Udall,Democratic,62.0,True,True,False
+1974,house,Arizona,AZ,2,Keith Dolgaard,Republican,38.0,False,False,False
 1974,house,Arizona,AZ,3,Sam Steiger,Republican,51.1,True,True,False
+1974,house,Arizona,AZ,3,Pat Bosch,Democratic,48.9,False,False,False
 1974,house,Arizona,AZ,4,John Bertrand Conlan,Republican,55.3,True,True,False
+1974,house,Arizona,AZ,4,"Byron T. ""Bud"" Brown",Democratic,44.7,False,False,False
 1974,house,Arkansas,AR,1,William Vollie Alexander Jr.,Democratic,90.6,True,True,False
+1974,house,Arkansas,AR,1,James Lawrence Dauer,Republican,9.4,False,False,False
 1974,house,Arkansas,AR,2,Wilbur Mills,Democratic,58.9,True,True,False
 1974,house,Arkansas,AR,2,Judy Petty,Republican,41.1,False,False,False
 1974,house,Arkansas,AR,3,John Paul Hammerschmidt,Republican,51.8,True,True,False
 1974,house,Arkansas,AR,3,Bill Clinton,Democratic,48.2,False,False,False
 1974,house,Arkansas,AR,4,Ray Thornton,Democratic,100.0,True,True,False
 1974,house,California,CA,1,Bizz Johnson,Democratic,85.9,True,False,False
-1974,house,California,CA,1,American Independent,Unknown,14.1,False,False,False
+1974,house,California,CA,1,Dorothy D. Paradis,American Independent,14.1,False,False,False
 1974,house,California,CA,2,Don Clausen,Republican,53.0,True,False,False
-1974,house,California,CA,2,Peace and Freedom,Unknown,4.3,False,False,False
+1974,house,California,CA,2,Oscar Klee,Democratic,42.7,False,False,False
+1974,house,California,CA,2,Carole J. Glass,Peace and Freedom,4.3,False,False,False
 1974,house,California,CA,3,John E. Moss,Democratic,72.3,True,True,False
+1974,house,California,CA,3,Ivaldo Lenci,Republican,27.7,False,False,False
 1974,house,California,CA,4,Robert Leggett,Democratic,100.0,True,True,False
 1974,house,California,CA,5,John Burton,Democratic,59.3,True,False,False
-1974,house,California,CA,5,Peace and Freedom,Unknown,2.7,False,False,False
+1974,house,California,CA,5,Thomas Caylor,Republican,38.0,False,False,False
+1974,house,California,CA,5,Raymond Broshears,Peace and Freedom,2.7,False,False,False
 1974,house,California,CA,6,Phillip Burton,Democratic,71.4,True,False,False
-1974,house,California,CA,6,Peace and Freedom,Unknown,4.0,False,False,False
-1974,house,California,CA,6,American Independent,Unknown,2.9,False,False,False
+1974,house,California,CA,6,Tom Spinosa,Republican,21.7,False,False,False
+1974,house,California,CA,6,Emily L. Siegel,Peace and Freedom,4.0,False,False,False
+1974,house,California,CA,6,Carl Richard Davis,American Independent,2.9,False,False,False
 1974,house,California,CA,7,George Miller,Democratic,55.6,True,False,True
+1974,house,California,CA,7,Gary Fernandez,Republican,44.4,False,False,True
 1974,house,California,CA,8,Ron Dellums,Democratic,56.5,True,False,False
-1974,house,California,CA,8,American Independent,Unknown,3.8,False,False,False
+1974,house,California,CA,8,Jack Redden,Republican,39.7,False,False,False
+1974,house,California,CA,8,John Holland,American Independent,3.8,False,False,False
 1974,house,California,CA,9,Pete Stark,Democratic,70.6,True,False,False
+1974,house,California,CA,9,Edson Adams,Republican,29.4,False,False,False
 1974,house,California,CA,10,Don Edwards,Democratic,77.0,True,False,False
+1974,house,California,CA,10,John M. Enright,Republican,23.0,False,False,False
 1974,house,California,CA,11,Leo Ryan,Democratic,75.7,True,True,False
-1974,house,California,CA,11,American Independent,Unknown,3.1,False,False,False
+1974,house,California,CA,11,"Brainard ""Bee"" Merdinger",Republican,21.3,False,False,False
+1974,house,California,CA,11,Nicholas W. Kudrovzeff,American Independent,3.1,False,False,False
 1974,house,California,CA,12,Pete McCloskey,Republican,69.1,True,False,False
+1974,house,California,CA,12,Gary G. Gillmor,Democratic,30.9,False,False,False
 1974,house,California,CA,13,Norman Mineta,Democratic,52.6,True,False,True
 1974,house,California,CA,13,George W. Milias,Republican,42.4,False,False,True
-1974,house,California,CA,13,Peace and Freedom,Unknown,2.6,False,False,True
-1974,house,California,CA,13,American Independent,Unknown,2.5,False,False,True
+1974,house,California,CA,13,Elizabeth Cervantes Barron,Peace and Freedom,2.6,False,False,True
+1974,house,California,CA,13,Floyd S. Stancliffe,American Independent,2.5,False,False,True
 1974,house,California,CA,14,John J. McFall,Democratic,70.8,True,False,False
-1974,house,California,CA,14,American Independent,Unknown,5.1,False,False,False
+1974,house,California,CA,14,"Charles M. ""Chuck"" Gibson",Republican,24.1,False,False,False
+1974,house,California,CA,14,Roger A. Blain,American Independent,5.1,False,False,False
 1974,house,California,CA,15,B. F. Sisk,Democratic,71.9,True,False,False
+1974,house,California,CA,15,Carol O. Harner,Republican,28.1,False,False,False
 1974,house,California,CA,16,Burt Talcott,Republican,49.2,True,False,False
-1974,house,California,CA,16,American Independent,Unknown,3.0,False,False,False
+1974,house,California,CA,16,Julian Camacho,Democratic,47.9,False,False,False
+1974,house,California,CA,16,D. Jeff Mauro,American Independent,3.0,False,False,False
 1974,house,California,CA,17,John Hans Krebs,Democratic,51.9,True,False,False
 1974,house,California,CA,17,Bob Mathias,Republican,48.1,False,False,False
 1974,house,California,CA,18,William M. Ketchum,Republican,52.6,True,False,False
+1974,house,California,CA,18,George A. Seielstad,Democratic,47.4,False,False,False
 1974,house,California,CA,19,Robert Lagomarsino,Republican,56.5,True,False,False
+1974,house,California,CA,19,James D. Loebl,Democratic,43.5,False,False,False
 1974,house,California,CA,20,Barry Goldwater Jr.,Republican,61.2,True,False,False
+1974,house,California,CA,20,Arline Mathews,Democratic,38.8,False,False,False
 1974,house,California,CA,21,James C. Corman,Democratic,73.5,True,False,False
+1974,house,California,CA,21,Mel Nadell,Republican,26.5,False,False,False
 1974,house,California,CA,22,Carlos Moorhead,Republican,55.7,True,False,False
+1974,house,California,CA,22,Richard Hallin,Democratic,44.3,False,False,False
 1974,house,California,CA,23,Thomas M. Rees,Democratic,71.5,True,False,False
+1974,house,California,CA,23,Jack E. Roberts,Republican,28.5,False,False,False
 1974,house,California,CA,24,Henry Waxman,Democratic,64.2,True,False,True
-1974,house,California,CA,24,American Independent,Unknown,3.0,False,False,True
+1974,house,California,CA,24,Elliott Stone Graham,Republican,32.8,False,False,True
+1974,house,California,CA,24,David E. Davis,American Independent,3.0,False,False,True
 1974,house,California,CA,25,Edward R. Roybal,Democratic,100.0,True,False,False
 1974,house,California,CA,26,John H. Rousselot,Republican,58.8,True,False,False
+1974,house,California,CA,26,Paul A. Conforti,Democratic,41.2,False,False,False
 1974,house,California,CA,27,Alphonzo E. Bell Jr.,Republican,63.8,True,False,False
-1974,house,California,CA,27,Peace and Freedom,Unknown,3.6,False,False,False
+1974,house,California,CA,27,Michael Shapiro,Democratic,32.6,False,False,False
+1974,house,California,CA,27,Jack Hampton,Peace and Freedom,3.6,False,False,False
 1974,house,California,CA,28,Yvonne Brathwaite Burke,Democratic,80.3,True,False,False
+1974,house,California,CA,28,Tom Neddy,Republican,19.7,False,False,False
 1974,house,California,CA,29,Augustus Hawkins,Democratic,100.0,True,False,False
 1974,house,California,CA,30,George E. Danielson,Democratic,74.2,True,False,True
+1974,house,California,CA,30,Richard E. Ferraro Jr.,Republican,25.8,False,False,True
 1974,house,California,CA,31,Charles H. Wilson,Democratic,70.5,True,True,False
-1974,house,California,CA,31,Peace and Freedom,Unknown,2.7,False,False,False
+1974,house,California,CA,31,Norman A. Hodges,Republican,26.8,False,False,False
+1974,house,California,CA,31,William C. Taylor,Peace and Freedom,2.7,False,False,False
 1974,house,California,CA,32,Glenn M. Anderson,Democratic,87.7,True,False,False
-1974,house,California,CA,32,American Independent,Unknown,9.3,False,False,False
-1974,house,California,CA,32,Peace and Freedom,Unknown,3.1,False,False,False
+1974,house,California,CA,32,Virgil V. Badalich,American Independent,9.3,False,False,False
+1974,house,California,CA,32,Frank H. Walker,Peace and Freedom,3.1,False,False,False
 1974,house,California,CA,33,Del M. Clawson,Republican,53.4,True,False,False
-1974,house,California,CA,33,American Independent,Unknown,3.5,False,False,False
+1974,house,California,CA,33,Robert E. White,Democratic,43.1,False,False,False
+1974,house,California,CA,33,James C. Griffin,American Independent,3.5,False,False,False
 1974,house,California,CA,34,Mark W. Hannaford,Democratic,49.7,True,False,True
-1974,house,California,CA,34,American Independent,Unknown,2.0,False,False,True
-1974,house,California,CA,34,Peace and Freedom,Unknown,1.9,False,False,True
+1974,house,California,CA,34,Bill Bond,Republican,46.3,False,False,True
+1974,house,California,CA,34,James Manis,American Independent,2.0,False,False,True
+1974,house,California,CA,34,John S. Donohue,Peace and Freedom,1.9,False,False,True
 1974,house,California,CA,35,James F. Lloyd,Democratic,50.3,True,False,False
 1974,house,California,CA,35,Victor Veysey,Republican,49.7,False,False,False
 1974,house,California,CA,36,George Brown Jr.,Democratic,62.6,True,False,True
-1974,house,California,CA,36,American Independent,Unknown,5.1,False,False,True
+1974,house,California,CA,36,Jim Osgood,Republican,32.3,False,False,True
+1974,house,California,CA,36,William Emery Pasley,American Independent,5.1,False,False,True
 1974,house,California,CA,37,Jerry Pettis,Republican,63.0,True,False,False
-1974,house,California,CA,37,American Independent,Unknown,3.9,False,False,False
+1974,house,California,CA,37,Bobby Ray Vincent,Democratic,33.1,False,False,False
+1974,house,California,CA,37,John H. Ortman,American Independent,3.9,False,False,False
 1974,house,California,CA,38,Jerry M. Patterson,Democratic,54.0,True,False,True
-1974,house,California,CA,38,American Independent,Unknown,3.2,False,False,True
-1974,house,California,CA,38,Peace and Freedom,Unknown,1.5,False,False,True
+1974,house,California,CA,38,David Rehmann,Republican,41.3,False,False,True
+1974,house,California,CA,38,Lee R. Rayburn,American Independent,3.2,False,False,True
+1974,house,California,CA,38,Larry B. Kallenberger,Peace and Freedom,1.5,False,False,True
 1974,house,California,CA,39,Charles E. Wiggins,Republican,55.2,True,False,False
-1974,house,California,CA,39,American Independent,Unknown,4.4,False,False,False
+1974,house,California,CA,39,"William E. ""Bill"" Farris",Democratic,40.4,False,False,False
+1974,house,California,CA,39,Pat P. Scalera,American Independent,4.4,False,False,False
 1974,house,California,CA,40,Andrew J. Hinshaw,Republican,63.3,True,False,False
-1974,house,California,CA,40,American Independent,Unknown,5.7,False,False,False
+1974,house,California,CA,40,"Roderick J. ""Rod"" Wilson",Democratic,31.0,False,False,False
+1974,house,California,CA,40,Grayson L. Watkins,American Independent,5.7,False,False,False
 1974,house,California,CA,41,Bob Wilson,Republican,54.4,True,False,False
-1974,house,California,CA,41,American Independent,Unknown,2.5,False,False,False
+1974,house,California,CA,41,Colleen Marie O'Connor,Democratic,43.1,False,False,False
+1974,house,California,CA,41,Robert W. Franson,American Independent,2.5,False,False,False
 1974,house,California,CA,42,Lionel Van Deerlin,Democratic,68.9,True,False,False
+1974,house,California,CA,42,Wes Marden,Republican,31.1,False,False,False
 1974,house,California,CA,43,Clair Burgener,Republican,60.4,True,False,False
+1974,house,California,CA,43,Bill Bandes,Democratic,39.6,False,False,False
 1974,house,Colorado,CO,1,Patricia Schroeder,Democratic,58.5,True,True,False
-1974,house,Colorado,CO,1,American,Unknown,0.7,False,False,False
+1974,house,Colorado,CO,1,Frank Southworth,Republican,40.8,False,False,False
+1974,house,Colorado,CO,1,Elmer B. Sachs,Unknown,0.7,False,False,False
 1974,house,Colorado,CO,2,Tim Wirth,Democratic,51.9,True,False,False
 1974,house,Colorado,CO,2,Donald G. Brotzman,Republican,48.1,False,True,False
 1974,house,Colorado,CO,3,Frank Evans,Democratic,67.9,True,True,False
+1974,house,Colorado,CO,3,E. Keith Records,Republican,32.1,False,False,False
 1974,house,Colorado,CO,4,James Paul Johnson,Republican,52.0,True,True,False
+1974,house,Colorado,CO,4,John Carroll,Democratic,48.0,False,False,False
 1974,house,Colorado,CO,5,William L. Armstrong,Republican,57.7,True,True,False
+1974,house,Colorado,CO,5,Ben Galloway,Democratic,38.5,False,False,False
+1974,house,Colorado,CO,5,Stan Johnson,Independent,3.8,False,False,False
 1974,house,Connecticut,CT,1,William R. Cotter,Democratic,62.7,True,True,False
+1974,house,Connecticut,CT,1,Francis M. Buckley,Republican,35.9,False,False,False
+1974,house,Connecticut,CT,1,Charlie A. Burke,Unknown,1.4,False,False,False
 1974,house,Connecticut,CT,2,Chris Dodd,Democratic,59.0,True,False,True
+1974,house,Connecticut,CT,2,Samuel B. Hellier,Republican,39.2,False,False,True
+1974,house,Connecticut,CT,2,Anthony Discepolo,Republican,1.8,False,False,True
 1974,house,Connecticut,CT,3,Robert Giaimo,Democratic,65.1,True,True,False
-1974,house,Connecticut,CT,3,Communist,Unknown,1.3,False,False,False
+1974,house,Connecticut,CT,3,James Altham Jr.,Republican,31.4,False,False,False
+1974,house,Connecticut,CT,3,Peter Koltypin,Unknown,2.1,False,False,False
+1974,house,Connecticut,CT,3,Joelle R. Fishman,Unknown,1.3,False,False,False
 1974,house,Connecticut,CT,4,Stewart McKinney,Republican,53.2,True,True,False
+1974,house,Connecticut,CT,4,James G. Kellis,Democratic,45.2,False,False,False
+1974,house,Connecticut,CT,4,Alan B. Fodeman,Unknown,1.6,False,False,False
 1974,house,Connecticut,CT,5,Ronald A. Sarasin,Republican,50.4,True,True,False
 1974,house,Connecticut,CT,5,William Ratchford,Democratic,48.0,False,False,False
+1974,house,Connecticut,CT,5,Virginia A. Knauf,Unknown,1.6,False,False,False
 1974,house,Connecticut,CT,6,Toby Moffett,Democratic,63.4,True,False,True
+1974,house,Connecticut,CT,6,Patsy J. Piscopo,Republican,36.1,False,False,True
+1974,house,Connecticut,CT,6,Louis J. Marietta,Independent,0.4,False,False,True
 1974,house,Delaware,DE,AL,Pierre S. du Pont IV,Republican,58.5,True,True,False
-1974,house,Delaware,DE,AL,American Independent,Unknown,0.8,False,False,False
-1974,house,Delaware,DE,AL,Prohibition,Unknown,0.2,False,False,False
+1974,house,Delaware,DE,AL,James R. Soles,Democratic,39.6,False,False,False
+1974,house,Delaware,DE,AL,Donald G. Gies,American Independent,0.8,False,False,False
+1974,house,Delaware,DE,AL,John Trager,Unknown,0.8,False,False,False
+1974,house,Delaware,DE,AL,George C. Brown,Prohibition,0.2,False,False,False
+1974,house,Delaware,DE,AL,Melvin Dillard,Labor,0.09,False,False,False
 1974,house,Florida,FL,1,Bob Sikes,Democratic,100.0,True,True,True
 1974,house,Florida,FL,2,Don Fuqua,Democratic,100.0,True,True,False
 1974,house,Florida,FL,3,Charles Edward Bennett,Democratic,100.0,True,True,False
 1974,house,Florida,FL,4,Bill Chappell,Democratic,68.2,True,True,False
+1974,house,Florida,FL,4,Warren Hauser,Republican,31.8,False,False,False
 1974,house,Florida,FL,5,Richard Kelly,Republican,52.8,True,False,True
-1974,house,Florida,FL,5,Write-in,Unknown,2.5,False,False,True
+1974,house,Florida,FL,5,JoAnn Saunders,Democratic,44.8,False,False,True
+1974,house,Florida,FL,5,Others,Unknown,2.5,False,False,True
 1974,house,Florida,FL,6,Bill Young,Republican,75.8,True,True,False
+1974,house,Florida,FL,6,Mickey Monrose,Democratic,24.2,False,False,False
 1974,house,Florida,FL,7,Sam M. Gibbons,Democratic,100.0,True,True,False
 1974,house,Florida,FL,8,James A. Haley,Democratic,56.7,True,True,False
+1974,house,Florida,FL,8,Joe Z. Lovingood,Republican,43.3,False,False,False
 1974,house,Florida,FL,9,Louis Frey Jr.,Republican,76.7,True,True,False
+1974,house,Florida,FL,9,William D. Rowland,Democratic,23.3,False,False,False
 1974,house,Florida,FL,10,Skip Bafalis,Republican,73.7,True,True,False
+1974,house,Florida,FL,10,Evelyn Tucker,Democratic,26.3,False,False,False
 1974,house,Florida,FL,11,Paul Rogers,Democratic,100.0,True,True,False
 1974,house,Florida,FL,12,J. Herbert Burke,Republican,51.0,True,True,False
+1974,house,Florida,FL,12,Charles Friedman,Democratic,49.0,False,False,False
 1974,house,Florida,FL,13,William Lehman,Democratic,100.0,True,True,False
 1974,house,Florida,FL,14,Claude Pepper,Democratic,69.1,True,True,False
+1974,house,Florida,FL,14,Michael A. Carricarte,Republican,30.9,False,False,False
 1974,house,Florida,FL,15,Dante Fascell,Democratic,70.5,True,True,False
+1974,house,Florida,FL,15,S. Peter Capua,Republican,29.5,False,False,False
 1974,house,Georgia,GA,1,"Ronald ""Bo"" Ginn",Democratic,86.1,True,True,False
+1974,house,Georgia,GA,1,Bill Gowan,Republican,13.9,False,False,False
 1974,house,Georgia,GA,2,Dawson Mathis,Democratic,100.0,True,True,False
 1974,house,Georgia,GA,3,Jack Thomas Brinkley,Democratic,87.7,True,True,False
+1974,house,Georgia,GA,3,Carl P. Savage Jr.,Republican,12.3,False,False,False
 1974,house,Georgia,GA,4,Elliott H. Levitas,Democratic,55.1,True,False,False
 1974,house,Georgia,GA,4,Benjamin B. Blackburn,Republican,44.9,False,True,False
 1974,house,Georgia,GA,5,Andrew Young,Democratic,71.6,True,True,False
+1974,house,Georgia,GA,5,Wyman C. Lowe,Republican,28.4,False,False,False
 1974,house,Georgia,GA,6,Jack Flynt,Democratic,51.5,True,True,False
 1974,house,Georgia,GA,6,Newt Gingrich,Republican,48.5,False,False,False
 1974,house,Georgia,GA,7,Larry McDonald,Democratic,50.3,True,False,False
+1974,house,Georgia,GA,7,Quincy Collins,Republican,49.7,False,False,False
 1974,house,Georgia,GA,8,W. S. Stuckey Jr.,Democratic,100.0,True,True,False
 1974,house,Georgia,GA,9,Phillip M. Landrum,Democratic,74.8,True,True,False
+1974,house,Georgia,GA,9,Ronald D. Reeves,Republican,25.2,False,False,False
 1974,house,Georgia,GA,10,Robert Grier Stephens Jr.,Democratic,68.4,True,True,False
+1974,house,Georgia,GA,10,Gary Pleger,Republican,31.6,False,False,False
 1974,house,Hawaii,HI,1,Spark Matsunaga,Democratic,59.3,True,True,False
+1974,house,Hawaii,HI,1,William B. Paul,Republican,40.7,False,False,False
 1974,house,Hawaii,HI,2,Patsy Mink,Democratic,62.6,True,True,False
+1974,house,Hawaii,HI,2,Carla W. Coray,Republican,37.4,False,False,False
 1974,house,Idaho,ID,1,Steve Symms,Republican,58.3,True,True,False
+1974,house,Idaho,ID,1,J. Ray Cox,Democratic,41.7,False,False,False
 1974,house,Idaho,ID,2,George V. Hansen,Republican,55.7,True,False,False
+1974,house,Idaho,ID,2,Max Hanson,Democratic,44.3,False,False,False
 1974,house,Illinois,IL,1,Ralph H. Metcalfe,Democratic,93.7,True,True,False
-1974,house,Illinois,IL,1,Socialist Workers,Unknown,0.8,False,False,False
+1974,house,Illinois,IL,1,Oscar H. Haynes,Republican,5.5,False,False,False
+1974,house,Illinois,IL,1,Willie Mae Reid,Unknown,0.8,False,False,False
 1974,house,Illinois,IL,2,Morgan F. Murphy,Democratic,87.5,True,True,False
+1974,house,Illinois,IL,2,James J. Ginderske,Republican,12.5,False,False,False
 1974,house,Illinois,IL,3,Marty Russo,Democratic,52.6,True,False,False
 1974,house,Illinois,IL,3,Robert P. Hanrahan,Republican,47.4,False,True,False
 1974,house,Illinois,IL,4,Ed Derwinski,Republican,59.2,True,True,False
+1974,house,Illinois,IL,4,Ronald A. Rodger,Democratic,40.8,False,False,False
 1974,house,Illinois,IL,5,John C. Kluczynski,Democratic,86.0,True,True,False
+1974,house,Illinois,IL,5,William H. G. Toms,Republican,14.0,False,False,False
 1974,house,Illinois,IL,6,Henry Hyde,Republican,53.4,True,False,True
 1974,house,Illinois,IL,6,Edward V. Hanrahan,Democratic,46.6,False,False,True
 1974,house,Illinois,IL,7,Cardiss Collins,Democratic,87.9,True,True,False
+1974,house,Illinois,IL,7,Donald L. Metzger,Republican,12.1,False,False,False
 1974,house,Illinois,IL,8,Dan Rostenkowski,Democratic,86.5,True,True,False
+1974,house,Illinois,IL,8,Salvatore E. Oddo,Republican,13.5,False,False,False
 1974,house,Illinois,IL,9,Sidney R. Yates,Democratic,100.0,True,True,True
 1974,house,Illinois,IL,10,Abner J. Mikva,Democratic,50.9,True,False,False
 1974,house,Illinois,IL,10,Samuel H. Young,Republican,49.1,False,True,False
 1974,house,Illinois,IL,11,Frank Annunzio,Democratic,72.4,True,True,False
+1974,house,Illinois,IL,11,Mitchell G. Zadrozny,Republican,27.6,False,False,False
 1974,house,Illinois,IL,12,Phil Crane,Republican,61.1,True,True,False
+1974,house,Illinois,IL,12,Betty C. Spence,Democratic,38.9,False,False,False
 1974,house,Illinois,IL,13,Robert McClory,Republican,54.5,True,True,False
+1974,house,Illinois,IL,13,Stanley W. Beetham,Democratic,45.5,False,False,False
 1974,house,Illinois,IL,14,John N. Erlenborn,Republican,66.6,True,True,False
+1974,house,Illinois,IL,14,Robert H. Renshaw,Democratic,33.4,False,False,False
 1974,house,Illinois,IL,15,Tim Lee Hall,Democratic,52.0,True,False,True
 1974,house,Illinois,IL,15,Cliffard D. Carlson,Republican,45.6,False,False,True
+1974,house,Illinois,IL,15,K. Douglas Lassiter,Independent,2.4,False,False,True
 1974,house,Illinois,IL,16,John B. Anderson,Republican,55.5,True,True,False
+1974,house,Illinois,IL,16,Marshall Hungness,Democratic,28.7,False,False,False
+1974,house,Illinois,IL,16,W. John Schade Jr.,Independent,15.8,False,False,False
 1974,house,Illinois,IL,17,George M. O'Brien,Republican,51.5,True,True,False
 1974,house,Illinois,IL,17,John J. Houlihan,Democratic,48.5,False,False,False
 1974,house,Illinois,IL,18,Robert H. Michel,Republican,54.8,True,True,False
+1974,house,Illinois,IL,18,Steven L. Nordvall,Democratic,45.2,False,False,False
 1974,house,Illinois,IL,19,Tom Railsback,Republican,65.3,True,True,False
+1974,house,Illinois,IL,19,Jim Gende,Democratic,34.7,False,False,False
 1974,house,Illinois,IL,20,Paul Findley,Republican,54.8,True,True,False
 1974,house,Illinois,IL,20,Peter F. Mack,Democratic,45.2,False,False,False
 1974,house,Illinois,IL,21,Edward Rell Madigan,Republican,65.8,True,True,False
+1974,house,Illinois,IL,21,Richard N. Small,Democratic,34.2,False,False,False
 1974,house,Illinois,IL,22,George E. Shipley,Democratic,59.8,True,True,False
+1974,house,Illinois,IL,22,William A. Young,Republican,40.2,False,False,False
 1974,house,Illinois,IL,23,Melvin Price,Democratic,80.5,True,True,False
+1974,house,Illinois,IL,23,Scott Randolph,Republican,19.5,False,False,False
 1974,house,Illinois,IL,24,Paul Simon,Democratic,59.5,True,False,True
+1974,house,Illinois,IL,24,Val Oshel,Republican,40.5,False,False,True
 1974,house,Indiana,IN,1,Ray J. Madden,Democratic,68.6,True,True,False
+1974,house,Indiana,IN,1,Joseph D. Harkin,Republican,31.4,False,False,False
 1974,house,Indiana,IN,2,Floyd Fithian,Democratic,61.1,True,False,False
 1974,house,Indiana,IN,2,Earl F. Landgrebe,Republican,38.9,False,True,False
 1974,house,Indiana,IN,3,John Brademas,Democratic,64.1,True,True,False
+1974,house,Indiana,IN,3,Virginia R. Black,Republican,35.9,False,False,False
 1974,house,Indiana,IN,4,J. Edward Roush,Democratic,51.9,True,True,False
-1974,house,Indiana,IN,4,American,Unknown,1.6,False,False,False
+1974,house,Indiana,IN,4,Walter P. Helmke,Republican,46.5,False,False,False
+1974,house,Indiana,IN,4,Donald L. Harris,Unknown,1.6,False,False,False
 1974,house,Indiana,IN,5,Elwood Hillis,Republican,56.6,True,True,False
+1974,house,Indiana,IN,5,William T. Sebree,Democratic,43.4,False,False,False
 1974,house,Indiana,IN,6,David W. Evans,Democratic,52.4,True,False,False
 1974,house,Indiana,IN,6,William G. Bray,Republican,47.6,False,True,False
 1974,house,Indiana,IN,7,John T. Myers,Republican,57.1,True,True,False
-1974,house,Indiana,IN,7,Socialist Workers,Unknown,0.8,False,False,False
+1974,house,Indiana,IN,7,Eldon Creasy Tipton,Democratic,42.1,False,False,False
+1974,house,Indiana,IN,7,Harold P. Schlechtweg,Unknown,0.8,False,False,False
 1974,house,Indiana,IN,8,Philip H. Hayes,Democratic,53.4,True,False,False
 1974,house,Indiana,IN,8,Roger H. Zion,Republican,46.6,False,True,False
 1974,house,Indiana,IN,9,Lee H. Hamilton,Democratic,71.1,True,True,False
+1974,house,Indiana,IN,9,Delson Cox Jr.,Republican,28.9,False,False,False
 1974,house,Indiana,IN,10,Philip R. Sharp,Democratic,54.4,True,False,False
 1974,house,Indiana,IN,10,David W. Dennis,Republican,45.6,False,True,False
 1974,house,Indiana,IN,11,Andrew Jacobs Jr.,Democratic,52.5,True,False,False
@@ -194,45 +305,63 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1974,house,Iowa,IA,1,Jim Leach,Republican,45.6,False,False,False
 1974,house,Iowa,IA,2,Mike Blouin,Democratic,51.1,True,False,True
 1974,house,Iowa,IA,2,Tom Riley,Republican,48.1,False,False,True
-1974,house,Iowa,IA,2,American,Unknown,0.8,False,False,True
+1974,house,Iowa,IA,2,James W. Whitford,Unknown,0.8,False,False,True
 1974,house,Iowa,IA,3,Chuck Grassley,Republican,50.8,True,False,True
 1974,house,Iowa,IA,3,Stephen J. Rapp,Democratic,49.2,False,False,True
 1974,house,Iowa,IA,4,Neal Smith,Democratic,63.9,True,True,False
-1974,house,Iowa,IA,4,American,Unknown,0.6,False,False,False
+1974,house,Iowa,IA,4,Chuck Dick,Republican,35.5,False,False,False
+1974,house,Iowa,IA,4,Donna Le Porte,Unknown,0.6,False,False,False
 1974,house,Iowa,IA,5,Tom Harkin,Democratic,51.1,True,False,False
 1974,house,Iowa,IA,5,William J. Scherle,Republican,48.9,False,True,False
 1974,house,Iowa,IA,6,Berkley Bedell,Democratic,54.6,True,False,False
 1974,house,Iowa,IA,6,Wiley Mayne,Republican,45.4,False,True,False
 1974,house,Kansas,KS,1,Keith Sebelius,Republican,58.4,True,True,False
-1974,house,Kansas,KS,1,American,Unknown,7.5,False,False,False
-1974,house,Kansas,KS,1,Prohibition,Unknown,1.1,False,False,False
+1974,house,Kansas,KS,1,Don Smith,Democratic,33.0,False,False,False
+1974,house,Kansas,KS,1,Thelma Morgan,Unknown,7.5,False,False,False
+1974,house,Kansas,KS,1,Lorin P. Miller,Prohibition,1.1,False,False,False
 1974,house,Kansas,KS,2,Martha Keys,Democratic,55.0,True,False,True
 1974,house,Kansas,KS,2,John C. Peterson,Republican,43.9,False,False,True
-1974,house,Kansas,KS,2,Prohibition,Unknown,1.1,False,False,True
+1974,house,Kansas,KS,2,David Scoggin,Prohibition,1.1,False,False,True
 1974,house,Kansas,KS,3,Larry Winn,Republican,62.9,True,True,False
-1974,house,Kansas,KS,3,American,Unknown,2.1,False,False,False
+1974,house,Kansas,KS,3,Samuel J. Wells,Democratic,35.0,False,False,False
+1974,house,Kansas,KS,3,Ted E. Oakes,Unknown,2.1,False,False,False
 1974,house,Kansas,KS,4,Garner E. Shriver,Republican,48.8,True,True,False
-1974,house,Kansas,KS,4,American,Unknown,8.7,False,False,False
+1974,house,Kansas,KS,4,Bert Chaney,Democratic,42.5,False,False,False
+1974,house,Kansas,KS,4,John S. Stevens,Unknown,8.7,False,False,False
 1974,house,Kansas,KS,5,Joe Skubitz,Republican,55.2,True,True,False
+1974,house,Kansas,KS,5,Frank Gaines,Democratic,44.8,False,False,False
 1974,house,Kentucky,KY,1,Carroll Hubbard,Democratic,78.2,True,False,False
-1974,house,Kentucky,KY,1,American,Unknown,3.1,False,False,False
+1974,house,Kentucky,KY,1,Charles Thurman Banken Jr.,Republican,18.7,False,False,False
+1974,house,Kentucky,KY,1,Robert W. Yoak,Unknown,3.1,False,False,False
 1974,house,Kentucky,KY,2,William Natcher,Democratic,73.0,True,True,False
-1974,house,Kentucky,KY,2,American,Unknown,3.3,False,False,False
+1974,house,Kentucky,KY,2,Art Eddleman,Republican,23.7,False,False,False
+1974,house,Kentucky,KY,2,Leland Neville,Unknown,3.3,False,False,False
 1974,house,Kentucky,KY,3,Romano L. Mazzoli,Democratic,69.7,True,True,False
-1974,house,Kentucky,KY,3,American,Unknown,3.1,False,False,False
+1974,house,Kentucky,KY,3,Vincent N. Barclay,Republican,26.6,False,False,False
+1974,house,Kentucky,KY,3,William P. Chambers,Unknown,3.1,False,False,False
+1974,house,Kentucky,KY,3,Luther J. Wilson,Independent,0.7,False,False,False
 1974,house,Kentucky,KY,4,Gene Snyder,Republican,51.7,True,True,False
+1974,house,Kentucky,KY,4,Kyle T. Hubbard,Democratic,48.3,False,False,False
 1974,house,Kentucky,KY,5,Tim Lee Carter,Republican,68.2,True,True,False
-1974,house,Kentucky,KY,5,American,Unknown,2.5,False,False,False
+1974,house,Kentucky,KY,5,Lyle L. Willis,Democratic,29.3,False,False,False
+1974,house,Kentucky,KY,5,Albert G. J. Cullum,Unknown,2.5,False,False,False
 1974,house,Kentucky,KY,6,John B. Breckinridge,Democratic,72.1,True,True,False
-1974,house,Kentucky,KY,6,American,Unknown,3.9,False,False,False
+1974,house,Kentucky,KY,6,Thomas F. Rogers III,Republican,24.1,False,False,False
+1974,house,Kentucky,KY,6,Fred Kerestesy,Unknown,3.9,False,False,False
 1974,house,Kentucky,KY,7,Carl D. Perkins,Democratic,75.6,True,True,False
+1974,house,Kentucky,KY,7,Granville Thomas,Republican,24.4,False,False,False
 1974,house,Louisiana,LA,1,F. Edward Hébert,Democratic,100.0,True,True,False
 1974,house,Louisiana,LA,2,Lindy Boggs,Democratic,81.8,True,True,False
+1974,house,Louisiana,LA,2,Diane Morphos,Republican,14.6,False,False,False
+1974,house,Louisiana,LA,2,"Jules W. ""Ted"" Hillery",Independent,3.5,False,False,False
 1974,house,Louisiana,LA,3,Dave Treen,Republican,58.5,True,True,False
+1974,house,Louisiana,LA,3,Charles Grisbaum Jr.,Democratic,41.5,False,False,False
 1974,house,Louisiana,LA,4,Joe Waggonner,Democratic,100.0,True,True,False
 1974,house,Louisiana,LA,5,Otto Passman,Democratic,100.0,True,True,False
 1974,house,Louisiana,LA,6,Henson Moore,Republican,54.1,True,False,False
+1974,house,Louisiana,LA,6,Jeff La Caze,Democratic,45.9,False,False,False
 1974,house,Louisiana,LA,7,John Breaux,Democratic,89.3,True,True,False
+1974,house,Louisiana,LA,7,Jeremy J. Millett,Independent,10.7,False,False,False
 1974,house,Louisiana,LA,8,Gillis William Long,Democratic,100.0,True,True,False
 1974,house,Maine,ME,1,David F. Emery,Republican,50.2,True,False,False
 1974,house,Maine,ME,1,Peter N. Kyros,Democratic,49.8,False,True,False
@@ -241,362 +370,590 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1974,house,Maryland,MD,1,Robert Bauman,Republican,53.0,True,True,False
 1974,house,Maryland,MD,1,Thomas J. Hatem,Democratic,47.0,False,False,False
 1974,house,Maryland,MD,2,Clarence Long,Democratic,77.1,True,True,False
+1974,house,Maryland,MD,2,John M. Seney,Republican,22.9,False,False,False
 1974,house,Maryland,MD,3,Paul Sarbanes,Democratic,83.8,True,True,False
+1974,house,Maryland,MD,3,William H. Mathews,Republican,16.2,False,False,False
 1974,house,Maryland,MD,4,Marjorie Holt,Republican,58.1,True,True,False
+1974,house,Maryland,MD,4,Fred L. Wineland,Democratic,41.9,False,False,False
 1974,house,Maryland,MD,5,Gladys Spellman,Democratic,52.6,True,False,True
+1974,house,Maryland,MD,5,John B. Burcham Jr.,Republican,47.4,False,False,True
 1974,house,Maryland,MD,6,Goodloe Byron,Democratic,73.7,True,True,False
+1974,house,Maryland,MD,6,Elton R. Wampler,Republican,26.3,False,False,False
 1974,house,Maryland,MD,7,Parren Mitchell,Democratic,100.0,True,True,False
 1974,house,Maryland,MD,8,Gilbert Gude,Republican,65.9,True,True,False
 1974,house,Maryland,MD,8,Sidney Kramer,Democratic,34.1,False,False,False
 1974,house,Massachusetts,MA,1,Silvio Conte,Republican,71.1,True,True,False
+1974,house,Massachusetts,MA,1,Thomas R. Manning,Democratic,28.9,False,False,False
 1974,house,Massachusetts,MA,2,Edward Boland,Democratic,100.0,True,True,False
 1974,house,Massachusetts,MA,3,Joseph D. Early,Democratic,49.5,True,False,True
+1974,house,Massachusetts,MA,3,David J. Lionett,Republican,38.4,False,False,True
+1974,house,Massachusetts,MA,3,Douglas J. Rowe,Independent,12.0,False,False,True
 1974,house,Massachusetts,MA,4,Robert Drinan,Democratic,50.8,True,True,False
+1974,house,Massachusetts,MA,4,Jon Rotenberg,Independent,34.7,False,False,False
+1974,house,Massachusetts,MA,4,Alvin Mandell,Republican,14.4,False,False,False
 1974,house,Massachusetts,MA,5,Paul Tsongas,Democratic,60.6,True,False,False
 1974,house,Massachusetts,MA,5,Paul W. Cronin,Republican,39.4,False,True,False
 1974,house,Massachusetts,MA,6,Michael J. Harrington,Democratic,100.0,True,True,False
 1974,house,Massachusetts,MA,7,Torbert H. MacDonald,Democratic,79.8,True,True,False
+1974,house,Massachusetts,MA,7,James J. Murphy,Independent,20.2,False,False,False
 1974,house,Massachusetts,MA,8,Tip O'Neill,Democratic,87.9,True,True,False
-1974,house,Massachusetts,MA,8,Communist,Unknown,5.3,False,False,False
+1974,house,Massachusetts,MA,8,James H. Kiggen,Labor,6.9,False,False,False
+1974,house,Massachusetts,MA,8,Laura Ross,Unknown,5.3,False,False,False
 1974,house,Massachusetts,MA,9,Joe Moakley,Democratic,89.3,True,True,False
+1974,house,Massachusetts,MA,9,Laurence R. Sherman,Labor,10.7,False,False,False
 1974,house,Massachusetts,MA,10,Margaret Heckler,Republican,64.2,True,True,False
+1974,house,Massachusetts,MA,10,Barry F. Monahan,Democratic,35.8,False,False,False
 1974,house,Massachusetts,MA,11,James A. Burke,Democratic,100.0,True,True,False
 1974,house,Massachusetts,MA,12,Gerry E. Studds,Democratic,74.8,True,True,False
+1974,house,Massachusetts,MA,12,J. Alan Mackay,Republican,25.2,False,False,False
 1974,house,Michigan,MI,1,John Conyers Jr.,Democratic,90.7,True,True,False
-1974,house,Michigan,MI,1,Socialist Workers,Unknown,0.4,False,False,False
+1974,house,Michigan,MI,1,Walter F. Girardot,Republican,8.7,False,False,False
+1974,house,Michigan,MI,1,Hattie L. McCutcheon,Unknown,0.4,False,False,False
+1974,house,Michigan,MI,1,Jacqueline M. Cotton,Labor,0.2,False,False,False
 1974,house,Michigan,MI,2,Marvin L. Esch,Republican,52.3,True,True,False
-1974,house,Michigan,MI,2,American Independent,Unknown,0.7,False,False,False
-1974,house,Michigan,MI,2,Socialist Workers,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,2,John S. Reuther,Democratic,45.4,False,False,False
+1974,house,Michigan,MI,2,Philip S. Carroll,Unknown,1.3,False,False,False
+1974,house,Michigan,MI,2,Roy S. Jones,American Independent,0.7,False,False,False
+1974,house,Michigan,MI,2,Martha E. Pettit,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,2,Ronald G. Ziegler,Labor,0.1,False,False,False
 1974,house,Michigan,MI,3,Garry E. Brown,Republican,51.2,True,True,False
 1974,house,Michigan,MI,3,Paul H. Todd Jr.,Democratic,47.6,False,False,False
-1974,house,Michigan,MI,3,American Independent,Unknown,0.7,False,False,False
-1974,house,Michigan,MI,3,Socialist Workers,Unknown,0.07,False,False,False
+1974,house,Michigan,MI,3,Marvin P. Lightvoet,American Independent,0.7,False,False,False
+1974,house,Michigan,MI,3,Bryce F. Zender Jr.,Unknown,0.6,False,False,False
+1974,house,Michigan,MI,3,Steve Beumer,Unknown,0.07,False,False,False
 1974,house,Michigan,MI,4,J. Edward Hutchinson,Republican,53.1,True,True,False
-1974,house,Michigan,MI,4,American Independent,Unknown,1.3,False,False,False
-1974,house,Michigan,MI,4,Socialist Workers,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,4,Charles Jameson,Democratic,45.5,False,False,False
+1974,house,Michigan,MI,4,Harold Snyder,American Independent,1.3,False,False,False
+1974,house,Michigan,MI,4,Leslie E. Craine,Unknown,0.1,False,False,False
 1974,house,Michigan,MI,5,Richard F. Vander Veen,Democratic,52.6,True,True,False
-1974,house,Michigan,MI,5,American Independent,Unknown,3.7,False,False,False
-1974,house,Michigan,MI,5,Socialist Labor,Unknown,0.1,False,False,False
-1974,house,Michigan,MI,5,Socialist Workers,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,5,Paul G. Goebel Jr.,Republican,43.4,False,False,False
+1974,house,Michigan,MI,5,Dwight W. Johnson,American Independent,3.7,False,False,False
+1974,house,Michigan,MI,5,Frank Girard,Socialist Labor,0.1,False,False,False
+1974,house,Michigan,MI,5,Ann Riley Owens,Unknown,0.1,False,False,False
 1974,house,Michigan,MI,6,Milton Robert Carr,Democratic,49.3,True,False,True
 1974,house,Michigan,MI,6,Clifford W. Taylor,Republican,48.9,False,False,True
-1974,house,Michigan,MI,6,Socialist Workers,Unknown,0.2,False,False,True
-1974,house,Michigan,MI,6,Socialist Labor,Unknown,0.1,False,False,True
+1974,house,Michigan,MI,6,Howard Jones,Unknown,1.4,False,False,True
+1974,house,Michigan,MI,6,Margaret M. Hayes,Unknown,0.2,False,False,True
+1974,house,Michigan,MI,6,Michael Ballard,Socialist Labor,0.1,False,False,True
+1974,house,Michigan,MI,6,Randolph A. Wedler,Labor,0.06,False,False,True
 1974,house,Michigan,MI,7,Donald W. Riegle Jr.,Democratic,64.7,True,True,False
-1974,house,Michigan,MI,7,American Independent,Unknown,1.0,False,False,False
-1974,house,Michigan,MI,7,Socialist Workers,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,7,Robert E. Eastman,Republican,33.2,False,False,False
+1974,house,Michigan,MI,7,Jimmy L. Sabin,American Independent,1.0,False,False,False
+1974,house,Michigan,MI,7,John P. Freeman,Unknown,0.8,False,False,False
+1974,house,Michigan,MI,7,John F. Dicks,Labor,0.1,False,False,False
+1974,house,Michigan,MI,7,Sheila Ostrow,Unknown,0.1,False,False,False
 1974,house,Michigan,MI,8,J. Bob Traxler,Democratic,54.8,True,True,False
-1974,house,Michigan,MI,8,American Independent,Unknown,1.7,False,False,False
-1974,house,Michigan,MI,8,Socialist Workers,Unknown,0.06,False,False,False
+1974,house,Michigan,MI,8,James M. Sparling Jr.,Republican,43.4,False,False,False
+1974,house,Michigan,MI,8,Mark Nelson,American Independent,1.7,False,False,False
+1974,house,Michigan,MI,8,Nicolee E. Brorsen,Unknown,0.06,False,False,False
 1974,house,Michigan,MI,9,Guy Vander Jagt,Republican,56.6,True,True,False
-1974,house,Michigan,MI,9,American Independent,Unknown,1.1,False,False,False
-1974,house,Michigan,MI,9,Socialist Workers,Unknown,0.2,False,False,False
+1974,house,Michigan,MI,9,Norman Halbower,Democratic,42.1,False,False,False
+1974,house,Michigan,MI,9,Craig R. Kessler,American Independent,1.1,False,False,False
+1974,house,Michigan,MI,9,Connie Allen,Unknown,0.2,False,False,False
 1974,house,Michigan,MI,10,Elford Albin Cederberg,Republican,52.5,True,True,False
-1974,house,Michigan,MI,10,Socialist Workers,Unknown,0.4,False,False,False
+1974,house,Michigan,MI,10,Samuel D. Marble,Democratic,47.1,False,False,False
+1974,house,Michigan,MI,10,Kathryn Ropert,Unknown,0.4,False,False,False
 1974,house,Michigan,MI,11,Philip Ruppe,Republican,50.9,True,True,False
-1974,house,Michigan,MI,11,Socialist Workers,Unknown,0.05,False,False,False
+1974,house,Michigan,MI,11,Francis D. Brouillette,Democratic,48.8,False,False,False
+1974,house,Michigan,MI,11,Theodore G. Albert,Unknown,0.2,False,False,False
+1974,house,Michigan,MI,11,Brian Elam,Unknown,0.05,False,False,False
 1974,house,Michigan,MI,12,James G. O'Hara,Democratic,72.2,True,True,False
-1974,house,Michigan,MI,12,Socialist Workers,Unknown,0.2,False,False,False
+1974,house,Michigan,MI,12,Eugene J. Tyza,Republican,27.6,False,False,False
+1974,house,Michigan,MI,12,Richard Orawiec,Unknown,0.2,False,False,False
 1974,house,Michigan,MI,13,Charles Diggs,Democratic,87.4,True,True,False
-1974,house,Michigan,MI,13,Socialist Workers,Unknown,1.1,False,False,False
-1974,house,Michigan,MI,13,American Labor,Unknown,0.4,False,False,False
+1974,house,Michigan,MI,13,George E. McCall,Republican,11.1,False,False,False
+1974,house,Michigan,MI,13,Judith Hagans,Unknown,1.1,False,False,False
+1974,house,Michigan,MI,13,Percy Ray Wheeler,American Labor,0.4,False,False,False
 1974,house,Michigan,MI,14,Lucien Nedzi,Democratic,71.2,True,True,False
-1974,house,Michigan,MI,14,American Independent,Unknown,1.3,False,False,False
-1974,house,Michigan,MI,14,Socialist Workers,Unknown,0.2,False,False,False
+1974,house,Michigan,MI,14,Herbert O. Steiger,Republican,27.1,False,False,False
+1974,house,Michigan,MI,14,Leonard J. Lukomski,American Independent,1.3,False,False,False
+1974,house,Michigan,MI,14,Mark Severs,Unknown,0.2,False,False,False
+1974,house,Michigan,MI,14,Joseph A. Spaniolo,Labor,0.1,False,False,False
 1974,house,Michigan,MI,15,William D. Ford,Democratic,78.1,True,True,False
-1974,house,Michigan,MI,15,American Independent,Unknown,0.9,False,False,False
-1974,house,Michigan,MI,15,Socialist Workers,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,15,Jack A. Underwood,Republican,20.8,False,False,False
+1974,house,Michigan,MI,15,Aldi C. Fuhrmann,American Independent,0.9,False,False,False
+1974,house,Michigan,MI,15,James R. Eades,Labor,0.1,False,False,False
+1974,house,Michigan,MI,15,Claytee O. Artz,Unknown,0.1,False,False,False
 1974,house,Michigan,MI,16,John D. Dingell Jr.,Democratic,77.7,True,True,False
-1974,house,Michigan,MI,16,American Independent,Unknown,1.3,False,False,False
-1974,house,Michigan,MI,16,Socialist Workers,Unknown,0.3,False,False,False
+1974,house,Michigan,MI,16,Wallace D. English,Republican,20.5,False,False,False
+1974,house,Michigan,MI,16,Virginia Crawford,American Independent,1.3,False,False,False
+1974,house,Michigan,MI,16,Donald A. Bechler,Unknown,0.3,False,False,False
+1974,house,Michigan,MI,16,Lewis Steinhardt,Labor,0.2,False,False,False
 1974,house,Michigan,MI,17,William M. Brodhead,Democratic,69.5,True,False,True
-1974,house,Michigan,MI,17,American Independent,Unknown,0.8,False,False,True
-1974,house,Michigan,MI,17,Socialist Workers,Unknown,0.3,False,False,True
+1974,house,Michigan,MI,17,Kenneth C. Gallagher,Republican,29.4,False,False,True
+1974,house,Michigan,MI,17,Bruce E. Duke,American Independent,0.8,False,False,True
+1974,house,Michigan,MI,17,Christy L. Wallace,Unknown,0.3,False,False,True
+1974,house,Michigan,MI,17,Harry Jock,Labor,0.07,False,False,True
 1974,house,Michigan,MI,18,James J. Blanchard,Democratic,59.0,True,False,False
 1974,house,Michigan,MI,18,Robert J. Huber,Republican,40.4,False,True,False
-1974,house,Michigan,MI,18,American Independent,Unknown,0.4,False,False,False
-1974,house,Michigan,MI,18,Socialist Workers,Unknown,0.2,False,False,False
+1974,house,Michigan,MI,18,James Gordon Lott,American Independent,0.4,False,False,False
+1974,house,Michigan,MI,18,Sandra L. Peck,Unknown,0.2,False,False,False
 1974,house,Michigan,MI,19,William Broomfield,Republican,62.6,True,True,False
-1974,house,Michigan,MI,19,Socialist Workers,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,19,George Montgomery,Democratic,36.7,False,False,False
+1974,house,Michigan,MI,19,Maurice Geary,Unknown,0.4,False,False,False
+1974,house,Michigan,MI,19,Rudolf Zeller,Unknown,0.1,False,False,False
+1974,house,Michigan,MI,19,James Jaber,Labor,0.08,False,False,False
+1974,house,Michigan,MI,19,Matthew Moriarty,Labor,0.07,False,False,False
 1974,house,Minnesota,MN,1,Al Quie,Republican,62.6,True,True,False
+1974,house,Minnesota,MN,1,Ulric Scott,DFL,37.4,False,False,False
 1974,house,Minnesota,MN,2,Tom Hagedorn,Republican,53.1,True,False,True
+1974,house,Minnesota,MN,2,Steve Babcock,DFL,46.9,False,False,True
 1974,house,Minnesota,MN,3,Bill Frenzel,Republican,60.4,True,True,False
-1974,house,Minnesota,MN,4,Joseph Karth,Unknown,76.0,True,True,False
-1974,house,Minnesota,MN,5,Donald M. Fraser,Unknown,73.8,True,True,False
-1974,house,Minnesota,MN,5,Socialist Workers,Unknown,1.5,False,False,False
-1974,house,Minnesota,MN,6,Richard Nolan,Unknown,55.4,True,False,True
+1974,house,Minnesota,MN,3,Bob Riggs,DFL,39.6,False,False,False
+1974,house,Minnesota,MN,4,Joseph Karth,DFL,76.0,True,True,False
+1974,house,Minnesota,MN,4,Joseph A. Rheinberger,Republican,24.0,False,False,False
+1974,house,Minnesota,MN,5,Donald M. Fraser,DFL,73.8,True,True,False
+1974,house,Minnesota,MN,5,Phil Ratte,Republican,24.7,False,False,False
+1974,house,Minnesota,MN,5,Edmund A. Jurenas,Unknown,1.5,False,False,False
+1974,house,Minnesota,MN,6,Richard Nolan,DFL,55.4,True,False,True
 1974,house,Minnesota,MN,6,Jon Grunseth,Republican,44.6,False,False,True
-1974,house,Minnesota,MN,7,Bob Bergland,Unknown,75.0,True,True,False
-1974,house,Minnesota,MN,8,Jim Oberstar,Unknown,62.0,True,False,True
+1974,house,Minnesota,MN,7,Bob Bergland,DFL,75.0,True,True,False
+1974,house,Minnesota,MN,7,Dan Reber,Republican,25.0,False,False,False
+1974,house,Minnesota,MN,8,Jim Oberstar,DFL,62.0,True,False,True
+1974,house,Minnesota,MN,8,Jerome Arnold,Republican,26.2,False,False,True
 1974,house,Minnesota,MN,8,William R. Ojala,Unknown,10.0,False,False,True
+1974,house,Minnesota,MN,8,Robert C. Bester,Independent,1.8,False,False,True
 1974,house,Mississippi,MS,1,Jamie Whitten,Democratic,88.2,True,True,False
+1974,house,Mississippi,MS,1,Jack Benney,Independent,11.8,False,False,False
 1974,house,Mississippi,MS,2,David R. Bowen,Democratic,66.1,True,True,False
+1974,house,Mississippi,MS,2,Ben F. Hilbun Jr.,Republican,27.7,False,False,False
+1974,house,Mississippi,MS,2,H. B. Wells,Independent,6.2,False,False,False
 1974,house,Mississippi,MS,3,Gillespie V. Montgomery,Democratic,100.0,True,True,False
 1974,house,Mississippi,MS,4,Thad Cochran,Republican,70.2,True,True,False
+1974,house,Mississippi,MS,4,Kenneth L. Dean,Democratic,28.8,False,False,False
+1974,house,Mississippi,MS,4,Leonard R. Young,Independent,1.0,False,False,False
 1974,house,Mississippi,MS,5,Trent Lott,Republican,73.0,True,True,False
+1974,house,Mississippi,MS,5,Walter Wilson Murphey,Democratic,14.4,False,False,False
+1974,house,Mississippi,MS,5,Karl Mertz,Independent,8.9,False,False,False
+1974,house,Mississippi,MS,5,Glenn E. Gilley,Independent,2.7,False,False,False
+1974,house,Mississippi,MS,5,Earnest J. Creel,Independent,1.0,False,False,False
 1974,house,Missouri,MO,1,Bill Clay,Democratic,68.3,True,True,False
+1974,house,Missouri,MO,1,Arthur O. Martin,Republican,31.7,False,False,False
 1974,house,Missouri,MO,2,James W. Symington,Democratic,61.0,True,True,False
+1974,house,Missouri,MO,2,Howard C. Ohlendorf,Republican,39.0,False,False,False
 1974,house,Missouri,MO,3,Leonor Sullivan,Democratic,74.3,True,True,False
+1974,house,Missouri,MO,3,Jo Ann P. Raisch,Republican,24.3,False,False,False
+1974,house,Missouri,MO,3,Marie S. Nowak,Independent,1.4,False,False,False
 1974,house,Missouri,MO,4,William J. Randall,Democratic,67.9,True,True,False
+1974,house,Missouri,MO,4,Claude Patterson,Republican,32.1,False,False,False
 1974,house,Missouri,MO,5,Richard Bolling,Democratic,69.1,True,True,False
+1974,house,Missouri,MO,5,John McDonough,Republican,29.9,False,False,False
+1974,house,Missouri,MO,5,Edward Verburg,Independent,1.0,False,False,False
 1974,house,Missouri,MO,6,Jerry Litton,Democratic,78.9,True,True,False
+1974,house,Missouri,MO,6,Grover H. Speers,Republican,21.1,False,False,False
 1974,house,Missouri,MO,7,Gene Taylor,Republican,52.3,True,True,False
+1974,house,Missouri,MO,7,Richard L. Franks,Democratic,47.7,False,False,False
 1974,house,Missouri,MO,8,Richard Howard Ichord Jr.,Democratic,69.9,True,True,False
+1974,house,Missouri,MO,8,James A. Noland Jr.,Republican,30.1,False,False,False
 1974,house,Missouri,MO,9,William L. Hungate,Democratic,66.4,True,True,False
+1974,house,Missouri,MO,9,Milton Bischof Jr.,Republican,33.6,False,False,False
 1974,house,Missouri,MO,10,Bill Burlison,Democratic,72.8,True,True,False
+1974,house,Missouri,MO,10,Truman Farrow,Republican,27.2,False,False,False
 1974,house,Montana,MT,1,Max Baucus,Democratic,54.8,True,False,False
 1974,house,Montana,MT,1,Richard G. Shoup,Republican,45.2,False,True,False
 1974,house,Montana,MT,2,John Melcher,Democratic,63.0,True,True,False
+1974,house,Montana,MT,2,Jack McDonald,Republican,37.0,False,False,False
 1974,house,Nebraska,NE,1,Charles Thone,Republican,53.3,True,True,False
+1974,house,Nebraska,NE,1,Hess Dyas,Democratic,46.7,False,False,False
 1974,house,Nebraska,NE,2,John Y. McCollister,Republican,55.2,True,True,False
+1974,house,Nebraska,NE,2,Daniel C. Lynch,Democratic,44.8,False,False,False
 1974,house,Nebraska,NE,3,Virginia D. Smith,Republican,50.2,True,False,True
+1974,house,Nebraska,NE,3,Wayne W. Ziebarth,Democratic,49.8,False,False,True
 1974,house,Nevada,NV,AL,James David Santini,Democratic,55.8,True,False,False
 1974,house,Nevada,NV,AL,David Towell,Republican,36.4,False,True,False
+1974,house,Nevada,NV,AL,Joel F. Hansen,Independent,7.8,False,False,False
 1974,house,New Hampshire,NH,1,Norman D'Amours,Democratic,52.1,True,False,True
+1974,house,New Hampshire,NH,1,David A. Banks,Republican,47.9,False,False,True
 1974,house,New Hampshire,NH,2,James Colgate Cleveland,Republican,64.2,True,True,False
+1974,house,New Hampshire,NH,2,Helen L. Bliss,Democratic,35.8,False,False,False
 1974,house,New Jersey,NJ,1,James J. Florio,Democratic,57.5,True,False,False
 1974,house,New Jersey,NJ,1,John E. Hunt,Republican,38.5,False,True,False
-1974,house,New Jersey,NJ,1,Socialist Labor,Unknown,0.2,False,False,False
+1974,house,New Jersey,NJ,1,James Perry,Independent,2.3,False,False,False
+1974,house,New Jersey,NJ,1,Bradley L. Kirsch,Independent,0.6,False,False,False
+1974,house,New Jersey,NJ,1,Elizabeth L. Drevs,Independent,0.5,False,False,False
+1974,house,New Jersey,NJ,1,Raymond Carotenuto,Independent,0.3,False,False,False
+1974,house,New Jersey,NJ,1,Julius Levin,Socialist Labor,0.2,False,False,False
+1974,house,New Jersey,NJ,1,Pedro J. Torres,Independent,0.1,False,False,False
 1974,house,New Jersey,NJ,2,William J. Hughes,Democratic,57.3,True,False,False
 1974,house,New Jersey,NJ,2,Charles W. Sandman Jr.,Republican,41.3,False,True,False
+1974,house,New Jersey,NJ,2,Andrew Wender,Independent,1.4,False,False,False
 1974,house,New Jersey,NJ,3,James J. Howard,Democratic,68.9,True,True,False
+1974,house,New Jersey,NJ,3,Kenneth W. Clark,Republican,29.8,False,False,False
+1974,house,New Jersey,NJ,3,Joseph A. Rogers,Independent,0.8,False,False,False
+1974,house,New Jersey,NJ,3,Thomas W. Palven,Independent,0.5,False,False,False
 1974,house,New Jersey,NJ,4,Frank Thompson,Democratic,66.8,True,True,False
+1974,house,New Jersey,NJ,4,Henry J. Keller,Republican,33.2,False,False,False
 1974,house,New Jersey,NJ,5,Millicent Fenwick,Republican,53.4,True,False,True
-1974,house,New Jersey,NJ,5,American Independent,Unknown,2.0,False,False,True
+1974,house,New Jersey,NJ,5,Frederick M. Bohen,Democratic,43.5,False,False,True
+1974,house,New Jersey,NJ,5,John Giammarco,American Independent,2.0,False,False,True
+1974,house,New Jersey,NJ,5,Leonard F. Newton,Independent,1.2,False,False,True
 1974,house,New Jersey,NJ,6,Edwin B. Forsythe,Republican,52.5,True,True,False
 1974,house,New Jersey,NJ,6,Charles B. Yates,Democratic,45.5,False,False,False
-1974,house,New Jersey,NJ,6,Socialist Labor,Unknown,0.7,False,False,False
+1974,house,New Jersey,NJ,6,John V. Mahalchik,Independent,0.9,False,False,False
+1974,house,New Jersey,NJ,6,Bernardo S. Doganiero,Socialist Labor,0.7,False,False,False
+1974,house,New Jersey,NJ,6,Joseph Alfons Nowak,Unknown,0.4,False,False,False
 1974,house,New Jersey,NJ,7,Andrew Maguire,Democratic,49.7,True,False,False
 1974,house,New Jersey,NJ,7,William B. Widnall,Republican,44.4,False,True,False
+1974,house,New Jersey,NJ,7,Milton Gralla,Independent,5.9,False,False,False
 1974,house,New Jersey,NJ,8,Robert A. Roe,Democratic,73.9,True,True,False
-1974,house,New Jersey,NJ,8,Socialist Labor,Unknown,1.6,False,False,False
+1974,house,New Jersey,NJ,8,Herman Schmidt,Republican,24.6,False,False,False
+1974,house,New Jersey,NJ,8,Kenneth Kowalczyk,Socialist Labor,1.6,False,False,False
 1974,house,New Jersey,NJ,9,Henry Helstoski,Democratic,64.5,True,True,False
+1974,house,New Jersey,NJ,9,Harold A. Pareti,Republican,32.9,False,False,False
+1974,house,New Jersey,NJ,9,Herbert H. Shaw,Independent,2.2,False,False,False
+1974,house,New Jersey,NJ,9,Robert W. Funsch,Independent,0.3,False,False,False
 1974,house,New Jersey,NJ,10,Peter W. Rodino,Democratic,81.0,True,True,False
+1974,house,New Jersey,NJ,10,John R. Taliferro,Republican,15.2,False,False,False
+1974,house,New Jersey,NJ,10,Sandra Hill,Independent,3.8,False,False,False
 1974,house,New Jersey,NJ,11,Joseph G. Minish,Democratic,69.2,True,True,False
-1974,house,New Jersey,NJ,11,Socialist Labor,Unknown,1.3,False,False,False
+1974,house,New Jersey,NJ,11,William B. Grant,Republican,29.4,False,False,False
+1974,house,New Jersey,NJ,11,Robert Clement,Socialist Labor,1.3,False,False,False
 1974,house,New Jersey,NJ,12,Matthew John Rinaldo,Republican,65.0,True,True,False
+1974,house,New Jersey,NJ,12,Adam K. Levin,Democratic,32.4,False,False,False
+1974,house,New Jersey,NJ,12,Anthony Carbone,Independent,1.1,False,False,False
+1974,house,New Jersey,NJ,12,Catherine O'Toole French,Independent,0.8,False,False,False
+1974,house,New Jersey,NJ,12,Robert A. Steiner,Independent,0.7,False,False,False
 1974,house,New Jersey,NJ,13,Helen Stevenson Meyner,Democratic,57.3,True,False,False
 1974,house,New Jersey,NJ,13,Joseph J. Maraziti,Republican,42.7,False,True,False
 1974,house,New Jersey,NJ,14,Dominick V. Daniels,Democratic,79.9,True,True,False
+1974,house,New Jersey,NJ,14,Claire J. Sheridan,Republican,16.1,False,False,False
+1974,house,New Jersey,NJ,14,John A. Alston,Independent,4.0,False,False,False
 1974,house,New Jersey,NJ,15,Edward J. Patten,Democratic,71.0,True,True,False
-1974,house,New Jersey,NJ,15,Communist,Unknown,1.5,False,False,False
+1974,house,New Jersey,NJ,15,Ernest J. Hammesfahr,Republican,27.5,False,False,False
+1974,house,New Jersey,NJ,15,Paul M. Schiff,Unknown,1.5,False,False,False
 1974,house,New Mexico,NM,1,Manuel Lujan Jr.,Republican,58.6,True,True,False
 1974,house,New Mexico,NM,1,Roberto A. Mondragón,Democratic,39.7,False,False,False
-1974,house,New Mexico,NM,1,American Independent,Unknown,1.7,False,False,False
+1974,house,New Mexico,NM,1,Martin Molloy,American Independent,1.7,False,False,False
 1974,house,New Mexico,NM,2,Harold L. Runnels,Democratic,66.7,True,True,False
-1974,house,New Mexico,NM,2,American Independent,Unknown,1.4,False,False,False
+1974,house,New Mexico,NM,2,Donald W. Trubey,Republican,31.9,False,False,False
+1974,house,New Mexico,NM,2,"Herbert ""Hub"" Horton",American Independent,1.4,False,False,False
 1974,house,New York,NY,1,Otis G. Pike,Democratic,65.0,True,True,False
-1974,house,New York,NY,1,Conservative,Unknown,6.4,False,False,False
+1974,house,New York,NY,1,Donald R. Sallah,Republican,28.6,False,False,False
+1974,house,New York,NY,1,Seth Morgan,Conservative,6.4,False,False,False
 1974,house,New York,NY,2,Thomas J. Downey,Democratic,48.8,True,False,False
 1974,house,New York,NY,2,James R. Grover Jr.,Republican,44.7,False,True,False
-1974,house,New York,NY,2,Conservative,Unknown,6.5,False,False,False
+1974,house,New York,NY,2,Neil Greene,Conservative,6.5,False,False,False
 1974,house,New York,NY,3,Jerome Ambro,Democratic,51.8,True,False,False
 1974,house,New York,NY,3,Angelo D. Roncallo,Republican,46.1,False,True,False
-1974,house,New York,NY,3,Liberal,Unknown,2.2,False,False,False
+1974,house,New York,NY,3,Arthur Hoffer,Liberal,2.2,False,False,False
 1974,house,New York,NY,4,Norman F. Lent,Republican,56.3,True,True,False
+1974,house,New York,NY,4,Franklin Ornstein,Democratic,43.7,False,False,False
 1974,house,New York,NY,5,John W. Wydler,Republican,57.1,True,True,False
 1974,house,New York,NY,5,Allard K. Lowenstein,Democratic,42.9,False,False,False
 1974,house,New York,NY,6,Lester L. Wolff,Democratic,61.0,True,True,False
+1974,house,New York,NY,6,Edythe Layne,Republican,39.0,False,False,False
 1974,house,New York,NY,7,Joseph P. Addabbo,Democratic,100.0,True,True,False
 1974,house,New York,NY,8,Benjamin Stanley Rosenthal,Democratic,68.8,True,True,False
+1974,house,New York,NY,8,Albert Lemishow,Republican,31.2,False,False,False
 1974,house,New York,NY,9,James J. Delaney,Democratic,93.0,True,True,False
-1974,house,New York,NY,9,Liberal,Unknown,7.0,False,False,False
+1974,house,New York,NY,9,Theodore E. Garrison,Liberal,7.0,False,False,False
 1974,house,New York,NY,10,Mario Biaggi,Democratic,82.4,True,True,False
-1974,house,New York,NY,10,Conservative,Unknown,11.2,False,False,False
-1974,house,New York,NY,10,Liberal,Unknown,6.3,False,False,False
+1974,house,New York,NY,10,Francis L. McHugh,Conservative,11.2,False,False,False
+1974,house,New York,NY,10,Michael S. Bank,Liberal,6.3,False,False,False
 1974,house,New York,NY,11,James H. Scheuer,Democratic,72.2,True,False,True
-1974,house,New York,NY,11,Conservative,Unknown,8.3,False,False,True
-1974,house,New York,NY,11,Liberal,Unknown,5.2,False,False,True
+1974,house,New York,NY,11,Edward G. Desborough,Republican,14.2,False,False,True
+1974,house,New York,NY,11,Christopher T. Acer,Conservative,8.3,False,False,True
+1974,house,New York,NY,11,Tibby Blum,Liberal,5.2,False,False,True
 1974,house,New York,NY,12,Shirley Chisholm,Democratic,80.2,True,True,False
-1974,house,New York,NY,12,Conservative,Unknown,4.6,False,False,False
-1974,house,New York,NY,12,Socialist Labor,Unknown,0.9,False,False,False
-1974,house,New York,NY,12,Socialist Workers,Unknown,0.4,False,False,False
+1974,house,New York,NY,12,Francis J. Voyticky,Republican,13.9,False,False,False
+1974,house,New York,NY,12,Martin S. Shepherd Jr.,Conservative,4.6,False,False,False
+1974,house,New York,NY,12,Teresa Delgado,Socialist Labor,0.9,False,False,False
+1974,house,New York,NY,12,Maxine Williams,Unknown,0.4,False,False,False
 1974,house,New York,NY,13,Stephen J. Solarz,Democratic,81.8,True,False,False
+1974,house,New York,NY,13,Jack N. Dobosh,Republican,18.2,False,False,False
 1974,house,New York,NY,14,Fred Richmond,Democratic,71.3,True,False,True
-1974,house,New York,NY,14,Liberal,Unknown,13.3,False,False,True
-1974,house,New York,NY,14,Conservative,Unknown,3.1,False,False,True
-1974,house,New York,NY,14,Socialist Workers,Unknown,0.8,False,False,True
+1974,house,New York,NY,14,Donald H. Elliott,Liberal,13.3,False,False,True
+1974,house,New York,NY,14,Michael Carbajal Jr.,Republican,11.5,False,False,True
+1974,house,New York,NY,14,Alexander W. Nojovits,Conservative,3.1,False,False,True
+1974,house,New York,NY,14,Helen Halyard,Unknown,0.8,False,False,True
 1974,house,New York,NY,15,Leo C. Zeferetti,Democratic,49.9,True,False,True
-1974,house,New York,NY,15,Liberal,Unknown,12.2,False,False,True
+1974,house,New York,NY,15,Austen D. Canade,Republican,37.9,False,False,True
+1974,house,New York,NY,15,Herbert M. Feinsod,Liberal,12.2,False,False,True
 1974,house,New York,NY,16,Elizabeth Holtzman,Democratic,78.9,True,True,False
+1974,house,New York,NY,16,Joseph L. Gentili,Republican,21.1,False,False,False
 1974,house,New York,NY,17,John M. Murphy,Democratic,57.7,True,True,False
-1974,house,New York,NY,17,Liberal,Unknown,9.6,False,False,False
-1974,house,New York,NY,17,Conservative,Unknown,7.1,False,False,False
+1974,house,New York,NY,17,Frank J. Biondolillo,Republican,25.6,False,False,False
+1974,house,New York,NY,17,Jerome Kretchmer,Liberal,9.6,False,False,False
+1974,house,New York,NY,17,Michael Ajello,Conservative,7.1,False,False,False
 1974,house,New York,NY,18,Ed Koch,Democratic,76.7,True,True,False
-1974,house,New York,NY,18,Conservative,Unknown,3.7,False,False,False
-1974,house,New York,NY,18,Socialist Workers,Unknown,0.8,False,False,False
+1974,house,New York,NY,18,John Boogaerts Jr.,Republican,18.8,False,False,False
+1974,house,New York,NY,18,Gilliam M. Drummond,Conservative,3.7,False,False,False
+1974,house,New York,NY,18,Katherine Sojourner,Unknown,0.8,False,False,False
 1974,house,New York,NY,19,Charles B. Rangel,Democratic,96.9,True,True,False
-1974,house,New York,NY,19,Conservative,Unknown,3.1,False,False,False
+1974,house,New York,NY,19,Charles G. Mills IV,Conservative,3.1,False,False,False
 1974,house,New York,NY,20,Bella Abzug,Democratic,78.7,True,True,False
-1974,house,New York,NY,20,Conservative,Unknown,4.9,False,False,False
-1974,house,New York,NY,20,Socialist Labor,Unknown,0.4,False,False,False
-1974,house,New York,NY,20,Socialist Workers,Unknown,0.4,False,False,False
+1974,house,New York,NY,20,Stephen Posner,Republican,15.6,False,False,False
+1974,house,New York,NY,20,Timothy A. Mitchell,Conservative,4.9,False,False,False
+1974,house,New York,NY,20,Christiana A. Nelson,Socialist Labor,0.4,False,False,False
+1974,house,New York,NY,20,Claire Moriarty,Unknown,0.4,False,False,False
 1974,house,New York,NY,21,Herman Badillo,Democratic,96.7,True,True,False
-1974,house,New York,NY,21,Conservative,Unknown,3.3,False,False,False
+1974,house,New York,NY,21,Mary C. Lynch,Conservative,3.3,False,False,False
 1974,house,New York,NY,22,Jonathan Brewster Bingham,Democratic,76.6,True,True,False
-1974,house,New York,NY,22,Conservative,Unknown,14.4,False,False,False
+1974,house,New York,NY,22,John DiGiovanni,Conservative,14.4,False,False,False
+1974,house,New York,NY,22,Robert Black,Republican,9.0,False,False,False
 1974,house,New York,NY,23,Peter A. Peyser,Republican,57.6,True,True,False
+1974,house,New York,NY,23,William S. Greenawalt,Democratic,42.4,False,False,False
 1974,house,New York,NY,24,Richard Ottinger,Democratic,57.8,True,False,True
+1974,house,New York,NY,24,Charles Stephens,Republican,42.2,False,False,True
 1974,house,New York,NY,25,Hamilton Fish IV,Republican,65.3,True,True,False
-1974,house,New York,NY,25,Liberal,Unknown,1.2,False,False,False
+1974,house,New York,NY,25,Nicholas Angell,Democratic,33.6,False,False,False
+1974,house,New York,NY,25,Sanford P. Cohen,Liberal,1.2,False,False,False
 1974,house,New York,NY,26,Benjamin A. Gilman,Republican,54.0,True,True,False
 1974,house,New York,NY,26,John G. Dow,Democratic,38.5,False,False,False
-1974,house,New York,NY,26,Conservative,Unknown,7.5,False,False,False
+1974,house,New York,NY,26,Thomas Moore,Conservative,7.5,False,False,False
 1974,house,New York,NY,27,Matthew F. McHugh,Democratic,52.8,True,False,True
-1974,house,New York,NY,27,Conservative,Unknown,4.1,False,False,True
+1974,house,New York,NY,27,Alfred J. Libous,Republican,43.1,False,False,True
+1974,house,New York,NY,27,Franklin B. Resseguie,Conservative,4.1,False,False,True
 1974,house,New York,NY,28,Samuel S. Stratton,Democratic,80.6,True,True,False
-1974,house,New York,NY,28,Conservative,Unknown,2.1,False,False,False
+1974,house,New York,NY,28,Wayne E. Wagner,Republican,17.3,False,False,False
+1974,house,New York,NY,28,Edward Breitenbach,Conservative,2.1,False,False,False
 1974,house,New York,NY,29,Edward W. Pattison,Democratic,54.2,True,False,False
 1974,house,New York,NY,29,Carleton J. King,Republican,45.8,False,True,False
 1974,house,New York,NY,30,Robert C. McEwen,Republican,55.0,True,True,False
+1974,house,New York,NY,30,Roger W. Tubby,Democratic,45.0,False,False,False
 1974,house,New York,NY,31,Donald J. Mitchell,Republican,59.6,True,True,False
-1974,house,New York,NY,31,Liberal,Unknown,2.7,False,False,False
+1974,house,New York,NY,31,Donald J. Reile,Democratic,37.7,False,False,False
+1974,house,New York,NY,31,Theodore L. Tolles,Liberal,2.7,False,False,False
 1974,house,New York,NY,32,James M. Hanley,Democratic,59.1,True,True,False
+1974,house,New York,NY,32,William E. Bush,Republican,40.9,False,False,False
 1974,house,New York,NY,33,William F. Walsh,Republican,65.3,True,True,False
-1974,house,New York,NY,33,Conservative,Unknown,3.3,False,False,False
-1974,house,New York,NY,33,Liberal,Unknown,1.2,False,False,False
+1974,house,New York,NY,33,Robert H. Bockman,Democratic,30.2,False,False,False
+1974,house,New York,NY,33,Francis H. Aspinwall,Conservative,3.3,False,False,False
+1974,house,New York,NY,33,Bessie C. Noble,Liberal,1.2,False,False,False
 1974,house,New York,NY,34,Frank Horton,Republican,67.5,True,True,False
-1974,house,New York,NY,34,Conservative,Unknown,2.8,False,False,False
-1974,house,New York,NY,34,Liberal,Unknown,0.7,False,False,False
+1974,house,New York,NY,34,Irene Gossin,Democratic,29.0,False,False,False
+1974,house,New York,NY,34,J. Warren McGee,Conservative,2.8,False,False,False
+1974,house,New York,NY,34,Virginia Tadio,Liberal,0.7,False,False,False
 1974,house,New York,NY,35,Barber Conable,Republican,56.8,True,True,False
 1974,house,New York,NY,35,Margaret Costanza,Democratic,39.6,False,False,False
-1974,house,New York,NY,35,Conservative,Unknown,2.9,False,False,False
-1974,house,New York,NY,35,Liberal,Unknown,0.7,False,False,False
+1974,house,New York,NY,35,Clarence E. Carman Jr.,Conservative,2.9,False,False,False
+1974,house,New York,NY,35,David L. MacAdam,Liberal,0.7,False,False,False
 1974,house,New York,NY,36,John J. LaFalce,Democratic,59.6,True,False,True
+1974,house,New York,NY,36,Russell A. Rourke,Republican,40.4,False,False,True
 1974,house,New York,NY,37,Henry J. Nowak,Democratic,75.0,True,False,True
-1974,house,New York,NY,37,Socialist Labor,Unknown,0.5,False,False,True
+1974,house,New York,NY,37,Joseph R. Bala,Republican,24.6,False,False,True
+1974,house,New York,NY,37,Ira Liebowitz,Socialist Labor,0.5,False,False,True
 1974,house,New York,NY,38,Jack Kemp,Republican,72.1,True,True,False
+1974,house,New York,NY,38,Barbara C. Wicks,Democratic,27.9,False,False,False
 1974,house,New York,NY,39,James F. Hastings,Republican,60.2,True,True,False
 1974,house,New York,NY,39,William L. Parment,Democratic,37.1,False,False,False
-1974,house,New York,NY,39,Conservative,Unknown,2.6,False,False,False
+1974,house,New York,NY,39,Joseph V. Damiano,Conservative,2.6,False,False,False
 1974,house,North Carolina,NC,1,Walter B. Jones Sr.,Democratic,77.5,True,True,False
+1974,house,North Carolina,NC,1,Harry McMullan,Republican,22.5,False,False,False
 1974,house,North Carolina,NC,2,Lawrence H. Fountain,Democratic,100.0,True,True,False
 1974,house,North Carolina,NC,3,David N. Henderson,Democratic,100.0,True,True,False
 1974,house,North Carolina,NC,4,Ike Franklin Andrews,Democratic,64.7,True,True,False
-1974,house,North Carolina,NC,4,Socialist Labor,Unknown,0.7,False,False,False
+1974,house,North Carolina,NC,4,Ward Purrington,Republican,34.6,False,False,False
+1974,house,North Carolina,NC,4,Michael Henderson Smedberg,Socialist Labor,0.7,False,False,False
 1974,house,North Carolina,NC,5,Stephen L. Neal,Democratic,52.0,True,False,False
 1974,house,North Carolina,NC,5,Wilmer Mizell,Republican,47.6,False,True,False
-1974,house,North Carolina,NC,5,Socialist Labor,Unknown,0.3,False,False,False
+1974,house,North Carolina,NC,5,Lauren Eugene Brubaker,Socialist Labor,0.3,False,False,False
 1974,house,North Carolina,NC,6,L. Richardson Preyer,Democratic,63.7,True,True,False
-1974,house,North Carolina,NC,6,Socialist Labor,Unknown,0.4,False,False,False
+1974,house,North Carolina,NC,6,"R. S. ""Steve"" Ritchie",Republican,35.9,False,False,False
+1974,house,North Carolina,NC,6,Harry Allen Frigg,Socialist Labor,0.4,False,False,False
 1974,house,North Carolina,NC,7,Charlie Rose,Democratic,100.0,True,True,False
 1974,house,North Carolina,NC,8,Bill Hefner,Democratic,57.0,True,False,False
 1974,house,North Carolina,NC,8,Earl B. Ruth,Republican,43.0,False,True,False
 1974,house,North Carolina,NC,9,James G. Martin,Republican,54.4,True,True,False
-1974,house,North Carolina,NC,9,Socialist Labor,Unknown,1.6,False,False,False
+1974,house,North Carolina,NC,9,Milton Short,Democratic,44.1,False,False,False
+1974,house,North Carolina,NC,9,Geoffrey Michael Hooks,Socialist Labor,1.6,False,False,False
 1974,house,North Carolina,NC,10,James T. Broyhill,Republican,54.4,True,True,False
+1974,house,North Carolina,NC,10,Jack L. Rhyne,Democratic,45.6,False,False,False
 1974,house,North Carolina,NC,11,Roy A. Taylor,Democratic,66.0,True,True,False
+1974,house,North Carolina,NC,11,"Albert F. ""Doc"" Gilman",Republican,34.0,False,False,False
 1974,house,North Dakota,ND,AL,Mark Andrews,Republican,55.7,True,True,False
 1974,house,North Dakota,ND,AL,Byron Dorgan,Democratic,44.3,False,False,False
 1974,house,Ohio,OH,1,Bill Gradison,Republican,50.9,True,False,False
 1974,house,Ohio,OH,1,Tom Luken,Democratic,49.1,False,True,False
 1974,house,Ohio,OH,2,Donald D. Clancy,Republican,53.4,True,True,False
+1974,house,Ohio,OH,2,Edward W. Wolterman,Democratic,46.6,False,False,False
 1974,house,Ohio,OH,3,Charles W. Whalen Jr.,Republican,100.0,True,True,False
 1974,house,Ohio,OH,4,Tennyson Guyer,Republican,61.5,True,True,False
+1974,house,Ohio,OH,4,James L. Gehrlich,Democratic,38.5,False,False,False
 1974,house,Ohio,OH,5,Del Latta,Republican,62.5,True,True,False
+1974,house,Ohio,OH,5,Bruce Edwards,Democratic,37.5,False,False,False
 1974,house,Ohio,OH,6,Bill Harsha,Republican,68.8,True,True,False
+1974,house,Ohio,OH,6,Lloyd Allan Wood,Democratic,31.2,False,False,False
 1974,house,Ohio,OH,7,Bud Brown,Republican,60.5,True,True,False
+1974,house,Ohio,OH,7,Patrick L. Nelson,Democratic,28.7,False,False,False
+1974,house,Ohio,OH,7,Dorothy Franke,Independent,10.8,False,False,False
 1974,house,Ohio,OH,8,Tom Kindness,Republican,42.4,True,False,True
+1974,house,Ohio,OH,8,T. Edward Strinko,Democratic,38.0,False,False,True
+1974,house,Ohio,OH,8,Don Gingerich,Independent,19.6,False,False,True
 1974,house,Ohio,OH,9,Thomas L. Ashley,Democratic,52.8,True,True,False
 1974,house,Ohio,OH,9,Carleton S. Finkbeiner Jr.,Republican,47.2,False,False,False
 1974,house,Ohio,OH,10,Clarence E. Miller,Republican,70.4,True,True,False
+1974,house,Ohio,OH,10,H. Kent Bumpass,Democratic,29.6,False,False,False
 1974,house,Ohio,OH,11,J. William Stanton,Republican,60.5,True,True,False
+1974,house,Ohio,OH,11,Michael D. Coffey,Democratic,39.5,False,False,False
 1974,house,Ohio,OH,12,Samuel L. Devine,Republican,50.9,True,True,False
+1974,house,Ohio,OH,12,Fran Ryan,Democratic,49.1,False,False,False
 1974,house,Ohio,OH,13,Charles Adams Mosher,Republican,57.5,True,True,False
+1974,house,Ohio,OH,13,Fred M. Ritenauer,Democratic,42.5,False,False,False
 1974,house,Ohio,OH,14,John F. Seiberling,Democratic,75.4,True,True,False
+1974,house,Ohio,OH,14,Mark Figetakis,Republican,24.6,False,False,False
 1974,house,Ohio,OH,15,Chalmers P. Wylie,Republican,61.5,True,True,False
+1974,house,Ohio,OH,15,Manley L. McGee,Republican,38.5,False,False,False
 1974,house,Ohio,OH,16,Ralph Regula,Republican,65.6,True,True,False
+1974,house,Ohio,OH,16,John G. Freedom,Democratic,34.4,False,False,False
 1974,house,Ohio,OH,17,John M. Ashbrook,Republican,52.7,True,True,False
+1974,house,Ohio,OH,17,David D. Noble,Democratic,47.3,False,False,False
+1974,house,Ohio,OH,17,Clifford J. Simpson,Independent,0.002,False,False,False
 1974,house,Ohio,OH,18,Wayne L. Hays,Democratic,65.6,True,True,False
+1974,house,Ohio,OH,18,Ralph H. Romig,Republican,34.4,False,False,False
 1974,house,Ohio,OH,19,Charles J. Carney,Democratic,72.7,True,True,False
+1974,house,Ohio,OH,19,James L. Ripple,Republican,27.3,False,False,False
 1974,house,Ohio,OH,20,James V. Stanton,Democratic,86.9,True,True,False
+1974,house,Ohio,OH,20,Robert A. Frantz,Republican,13.1,False,False,False
 1974,house,Ohio,OH,21,Louis Stokes,Democratic,82.0,True,True,False
+1974,house,Ohio,OH,21,Bill Mack,Republican,18.0,False,False,False
 1974,house,Ohio,OH,22,Charles Vanik,Democratic,78.7,True,True,False
+1974,house,Ohio,OH,22,William J. Franz,Republican,21.3,False,False,False
 1974,house,Ohio,OH,23,Ronald M. Mottl,Democratic,34.8,True,False,True
+1974,house,Ohio,OH,23,George E. Mastics,Republican,30.5,False,False,True
 1974,house,Ohio,OH,23,Dennis J. Kucinich,Independent,29.4,False,False,True
+1974,house,Ohio,OH,23,Hugh J. Gallagher,Independent,2.3,False,False,True
 1974,house,Ohio,OH,23,Bohdan A. Futey,Independent,1.7,False,False,True
+1974,house,Ohio,OH,23,Arthur L. Cain,Independent,1.3,False,False,True
 1974,house,Oklahoma,OK,1,James R. Jones,Democratic,67.9,True,True,False
+1974,house,Oklahoma,OK,1,George Alfred Mizer Jr.,Republican,32.1,False,False,False
 1974,house,Oklahoma,OK,2,Ted Risenhoover,Democratic,59.1,True,False,True
+1974,house,Oklahoma,OK,2,Ralph F. Keen,Republican,40.9,False,False,True
 1974,house,Oklahoma,OK,3,Carl Albert,Democratic,100.0,True,True,False
 1974,house,Oklahoma,OK,4,Tom Steed,Democratic,100.0,True,True,False
 1974,house,Oklahoma,OK,5,John Jarman,Democratic,51.7,True,True,False
 1974,house,Oklahoma,OK,5,Mickey Edwards,Republican,48.3,False,False,False
 1974,house,Oklahoma,OK,6,Glenn English,Democratic,53.2,True,False,False
 1974,house,Oklahoma,OK,6,John Newbold Camp,Republican,44.4,False,True,False
+1974,house,Oklahoma,OK,6,Bennett L. Basore,Independent,2.3,False,False,False
 1974,house,Oregon,OR,1,Les AuCoin,Democratic,56.1,True,False,True
 1974,house,Oregon,OR,1,Diarmuid O'Scannlain,Republican,43.9,False,False,True
 1974,house,Oregon,OR,2,Albert C. Ullman,Democratic,78.1,True,True,False
+1974,house,Oregon,OR,2,Kenneth Brown,Republican,21.9,False,False,False
 1974,house,Oregon,OR,3,Robert B. Duncan,Democratic,70.5,True,False,True
+1974,house,Oregon,OR,3,John Piacentini,Republican,29.5,False,False,True
 1974,house,Oregon,OR,4,Jim Weaver,Democratic,52.9,True,False,False
 1974,house,Oregon,OR,4,John R. Dellenback,Republican,47.1,False,True,False
 1974,house,Pennsylvania,PA,1,William A. Barrett,Democratic,75.8,True,True,False
-1974,house,Pennsylvania,PA,1,Socialist Labor,Unknown,0.9,False,False,False
+1974,house,Pennsylvania,PA,1,Russel M. Nigro,Republican,23.3,False,False,False
+1974,house,Pennsylvania,PA,1,Bernard Salera,Socialist Labor,0.9,False,False,False
 1974,house,Pennsylvania,PA,2,Robert N. C. Nix Sr.,Democratic,74.0,True,True,False
+1974,house,Pennsylvania,PA,2,Jesse W. Woods Jr.,Republican,26.0,False,False,False
 1974,house,Pennsylvania,PA,3,William J. Green III,Democratic,75.4,True,True,False
+1974,house,Pennsylvania,PA,3,Richard P. Colbert,Republican,24.6,False,False,False
 1974,house,Pennsylvania,PA,4,Joshua Eilberg,Democratic,71.0,True,True,False
+1974,house,Pennsylvania,PA,4,Isadore Einhorn,Republican,29.0,False,False,False
 1974,house,Pennsylvania,PA,5,Richard T. Schulze,Republican,59.6,True,False,True
+1974,house,Pennsylvania,PA,5,Leo D. McDermott,Democratic,40.4,False,False,True
 1974,house,Pennsylvania,PA,6,Gus Yatron,Democratic,74.6,True,True,False
-1974,house,Pennsylvania,PA,6,Constitution,Unknown,1.4,False,False,False
+1974,house,Pennsylvania,PA,6,Stephen Postupack,Republican,24.0,False,False,False
+1974,house,Pennsylvania,PA,6,Frank E. Huet,Unknown,1.4,False,False,False
 1974,house,Pennsylvania,PA,7,Robert W. Edgar,Democratic,55.3,True,False,False
-1974,house,Pennsylvania,PA,7,Constitution,Unknown,1.1,False,False,False
+1974,house,Pennsylvania,PA,7,Stephen J. McEwen Jr.,Republican,43.7,False,False,False
+1974,house,Pennsylvania,PA,7,Ralph F. Johns,Unknown,1.1,False,False,False
 1974,house,Pennsylvania,PA,8,Edward G. Biester Jr.,Republican,56.2,True,True,False
-1974,house,Pennsylvania,PA,8,Constitution,Unknown,2.8,False,False,False
+1974,house,Pennsylvania,PA,8,William B. Moyer,Democratic,40.9,False,False,False
+1974,house,Pennsylvania,PA,8,Robert D. McKenney,Unknown,2.8,False,False,False
 1974,house,Pennsylvania,PA,9,Bud Shuster,Republican,56.5,True,True,False
+1974,house,Pennsylvania,PA,9,Robert D. Ford,Democratic,43.5,False,False,False
 1974,house,Pennsylvania,PA,10,Joseph M. McDade,Republican,64.9,True,True,False
+1974,house,Pennsylvania,PA,10,Thomas J. Hanlon,Democratic,35.1,False,False,False
 1974,house,Pennsylvania,PA,11,Daniel J. Flood,Democratic,74.5,True,True,False
+1974,house,Pennsylvania,PA,11,Richard A. Muzyka,Republican,25.5,False,False,False
 1974,house,Pennsylvania,PA,12,John Murtha,Democratic,58.1,True,True,False
+1974,house,Pennsylvania,PA,12,Harry M. Fox,Republican,41.9,False,False,False
 1974,house,Pennsylvania,PA,13,R. Lawrence Coughlin,Republican,62.5,True,True,False
+1974,house,Pennsylvania,PA,13,Lawrence H. Curry,Democratic,37.5,False,False,False
 1974,house,Pennsylvania,PA,14,William S. Moorhead,Democratic,77.5,True,True,False
+1974,house,Pennsylvania,PA,14,Zachary T. Davis,Republican,22.5,False,False,False
 1974,house,Pennsylvania,PA,15,Fred B. Rooney,Democratic,100.0,True,True,False
 1974,house,Pennsylvania,PA,16,Edwin D. Eshleman,Republican,63.5,True,True,False
-1974,house,Pennsylvania,PA,16,Constitution,Unknown,1.5,False,False,False
+1974,house,Pennsylvania,PA,16,Michael J. Minney,Democratic,35.0,False,False,False
+1974,house,Pennsylvania,PA,16,Arlene R. Wenger,Unknown,1.5,False,False,False
 1974,house,Pennsylvania,PA,17,Herman T. Schneebeli,Republican,52.1,True,True,False
+1974,house,Pennsylvania,PA,17,Peter C. Wambach,Democratic,47.9,False,False,False
 1974,house,Pennsylvania,PA,18,H. John Heinz III,Republican,72.1,True,True,False
+1974,house,Pennsylvania,PA,18,Francis J. McArdle,Democratic,27.9,False,False,False
 1974,house,Pennsylvania,PA,19,William F. Goodling,Republican,51.4,True,False,True
-1974,house,Pennsylvania,PA,19,Constitution,Unknown,1.0,False,False,True
+1974,house,Pennsylvania,PA,19,Arthur L. Berger,Democratic,47.5,False,False,True
+1974,house,Pennsylvania,PA,19,Joseph Paul,Unknown,1.0,False,False,True
 1974,house,Pennsylvania,PA,20,Joseph M. Gaydos,Democratic,81.7,True,True,False
+1974,house,Pennsylvania,PA,20,Joseph J. Anderko,Republican,18.3,False,False,False
 1974,house,Pennsylvania,PA,21,John H. Dent,Democratic,69.9,True,True,False
+1974,house,Pennsylvania,PA,21,Charles L. Sconing,Republican,30.1,False,False,False
 1974,house,Pennsylvania,PA,22,Thomas E. Morgan,Democratic,63.6,True,True,False
-1974,house,Pennsylvania,PA,22,Constitution,Unknown,4.7,False,False,False
+1974,house,Pennsylvania,PA,22,James R. Montgomery,Republican,31.7,False,False,False
+1974,house,Pennsylvania,PA,22,John Bove,Unknown,4.7,False,False,False
 1974,house,Pennsylvania,PA,23,Albert W. Johnson,Republican,52.7,True,True,False
+1974,house,Pennsylvania,PA,23,Yates Mast,Democratic,47.3,False,False,False
 1974,house,Pennsylvania,PA,24,Joseph P. Vigorito,Democratic,58.6,True,True,False
+1974,house,Pennsylvania,PA,24,Clement R. Scalzitti,Republican,41.4,False,False,False
 1974,house,Pennsylvania,PA,25,Gary A. Myers,Republican,53.8,True,False,False
 1974,house,Pennsylvania,PA,25,Frank M. Clark,Democratic,46.2,False,True,False
 1974,house,Rhode Island,RI,1,Fernand St. Germain,Democratic,72.9,True,True,False
+1974,house,Rhode Island,RI,1,Ernest Barone,Republican,27.1,False,False,False
 1974,house,Rhode Island,RI,2,Edward Beard,Democratic,78.2,True,False,False
+1974,house,Rhode Island,RI,2,Vincent J. Rotondo,Republican,21.8,False,False,False
 1974,house,South Carolina,SC,1,Mendel Jackson Davis,Democratic,72.7,True,True,False
+1974,house,South Carolina,SC,1,George B. Rast,Republican,25.9,False,False,False
+1974,house,South Carolina,SC,1,Charles Amaker,Independent,0.8,False,False,False
+1974,house,South Carolina,SC,1,Benjamin Frasier,Unknown,0.6,False,False,False
 1974,house,South Carolina,SC,2,Floyd Spence,Republican,56.1,True,True,False
+1974,house,South Carolina,SC,2,Matthew J. Perry,Democratic,43.0,False,False,False
+1974,house,South Carolina,SC,2,Paul Proveaux,Independent,0.9,False,False,False
 1974,house,South Carolina,SC,3,Butler Derrick,Democratic,61.8,True,False,True
 1974,house,South Carolina,SC,3,Marshall J. Parker,Republican,38.2,False,False,True
 1974,house,South Carolina,SC,4,James R. Mann,Democratic,63.3,True,True,False
+1974,house,South Carolina,SC,4,Robert L. Watkins,Republican,36.7,False,False,False
 1974,house,South Carolina,SC,5,Kenneth Lamar Holland,Democratic,61.4,True,False,True
+1974,house,South Carolina,SC,5,Lenard Phillips,Republican,37.8,False,False,True
+1974,house,South Carolina,SC,5,Bert Sumner,Independent,0.8,False,False,True
 1974,house,South Carolina,SC,6,John Jenrette,Democratic,52.0,True,False,False
 1974,house,South Carolina,SC,6,Edward Lunn Young,Republican,48.0,False,True,False
 1974,house,South Dakota,SD,1,Larry Pressler,Republican,55.3,True,False,False
 1974,house,South Dakota,SD,1,Frank E. Denholm,Democratic,44.7,False,True,False
 1974,house,South Dakota,SD,2,James Abdnor,Republican,67.8,True,True,False
+1974,house,South Dakota,SD,2,Jack M. Weiland,Democratic,32.2,False,False,False
 1974,house,Tennessee,TN,1,Jimmy Quillen,Republican,64.2,True,True,False
+1974,house,Tennessee,TN,1,Lloyd Blevins,Democratic,35.8,False,False,False
 1974,house,Tennessee,TN,2,John Duncan Sr.,Republican,70.9,True,True,False
+1974,house,Tennessee,TN,2,Jesse James Brown,Democratic,29.1,False,False,False
 1974,house,Tennessee,TN,3,Marilyn Lloyd,Democratic,51.5,True,False,False
 1974,house,Tennessee,TN,3,LaMar Baker,Republican,46.2,False,True,False
+1974,house,Tennessee,TN,3,Sarah Delaney,Independent,2.2,False,False,False
 1974,house,Tennessee,TN,4,Joe L. Evins,Democratic,100.0,True,True,False
 1974,house,Tennessee,TN,5,Richard Fulton,Democratic,99.8,True,True,False
+1974,house,Tennessee,TN,5,Bill Tankard,Independent,0.2,False,False,False
 1974,house,Tennessee,TN,6,Robin Beard,Republican,56.7,True,True,False
+1974,house,Tennessee,TN,6,Tim Schaeffer,Democratic,43.3,False,False,False
 1974,house,Tennessee,TN,7,Ed Jones,Democratic,100.0,True,True,False
 1974,house,Tennessee,TN,8,Harold Ford Sr.,Democratic,49.9,True,False,False
 1974,house,Tennessee,TN,8,Dan Kuykendall,Republican,49.4,False,True,False
+1974,house,Tennessee,TN,8,Louis L. Porter,Independent,0.7,False,False,False
 1974,house,Texas,TX,1,Wright Patman,Democratic,68.6,True,True,False
+1974,house,Texas,TX,1,James W. Farris,Republican,31.4,False,False,False
 1974,house,Texas,TX,2,Charles Wilson,Democratic,100.0,True,True,False
 1974,house,Texas,TX,3,James M. Collins,Republican,64.7,True,True,False
+1974,house,Texas,TX,3,Harold Collum,Democratic,35.3,False,False,False
 1974,house,Texas,TX,4,Ray Roberts,Democratic,74.9,True,True,False
+1974,house,Texas,TX,4,Dick LeTourneau,Republican,25.1,False,False,False
 1974,house,Texas,TX,5,Alan Steelman,Republican,52.1,True,True,False
+1974,house,Texas,TX,5,Mike McKool,Democratic,47.9,False,False,False
 1974,house,Texas,TX,6,Olin E. Teague,Democratic,83.0,True,True,False
+1974,house,Texas,TX,6,Carl Nigliazzo,Republican,17.0,False,False,False
 1974,house,Texas,TX,7,William Reynolds Archer Jr.,Republican,79.2,True,True,False
+1974,house,Texas,TX,7,Jim Brady,Democratic,20.8,False,False,False
 1974,house,Texas,TX,8,Robert C. Eckhardt,Democratic,72.2,True,True,False
+1974,house,Texas,TX,8,Donald D. Whitefield,Republican,27.8,False,False,False
 1974,house,Texas,TX,9,Jack Brooks,Democratic,61.9,True,True,False
+1974,house,Texas,TX,9,Coleman R. Ferguson,Republican,38.1,False,False,False
 1974,house,Texas,TX,10,J. J. Pickle,Democratic,80.4,True,True,False
+1974,house,Texas,TX,10,Paul A. Weiss,Republican,19.6,False,False,False
 1974,house,Texas,TX,11,William R. Poage,Democratic,81.6,True,True,False
+1974,house,Texas,TX,11,Don Clements,Republican,17.2,False,False,False
+1974,house,Texas,TX,11,Laurel N. Dunn,Independent,1.1,False,False,False
 1974,house,Texas,TX,12,Jim Wright,Democratic,78.7,True,True,False
+1974,house,Texas,TX,12,James S. Garvey,Republican,21.3,False,False,False
 1974,house,Texas,TX,13,Jack Hightower,Democratic,57.6,True,False,False
 1974,house,Texas,TX,13,Robert Price,Republican,42.4,False,True,False
 1974,house,Texas,TX,14,John Andrew Young,Democratic,100.0,True,True,False
@@ -604,67 +961,100 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1974,house,Texas,TX,16,Richard Crawford White,Democratic,100.0,True,True,False
 1974,house,Texas,TX,17,Omar Burleson,Democratic,100.0,True,True,False
 1974,house,Texas,TX,18,Barbara Jordan,Democratic,84.8,True,True,False
-1974,house,Texas,TX,18,Socialist Workers,Unknown,1.2,False,False,False
+1974,house,Texas,TX,18,Robbins Mitchell,Republican,14.0,False,False,False
+1974,house,Texas,TX,18,Kris Vasquez,Unknown,1.2,False,False,False
 1974,house,Texas,TX,19,George H. Mahon,Democratic,100.0,True,True,False
 1974,house,Texas,TX,20,Henry B. González,Democratic,100.0,True,True,False
 1974,house,Texas,TX,21,Bob Krueger,Democratic,52.6,True,False,True
 1974,house,Texas,TX,21,Doug Harlan,Republican,45.2,False,False,True
-1974,house,Texas,TX,21,American,Unknown,2.2,False,False,True
+1974,house,Texas,TX,21,Ed Gallion,Unknown,2.2,False,False,True
 1974,house,Texas,TX,22,Robert R. Casey,Democratic,69.5,True,True,False
 1974,house,Texas,TX,22,Ron Paul,Republican,28.4,False,False,False
-1974,house,Texas,TX,22,American,Unknown,1.2,False,False,False
-1974,house,Texas,TX,22,Socialist Workers,Unknown,0.9,False,False,False
+1974,house,Texas,TX,22,James T. Smith,Unknown,1.2,False,False,False
+1974,house,Texas,TX,22,Jill Fein,Unknown,0.9,False,False,False
 1974,house,Texas,TX,23,Abraham Kazen,Democratic,100.0,True,True,False
 1974,house,Texas,TX,24,Dale Milford,Democratic,76.1,True,True,False
-1974,house,Texas,TX,24,American,Unknown,3.5,False,False,False
+1974,house,Texas,TX,24,Joseph Beaman Jr.,Republican,20.4,False,False,False
+1974,house,Texas,TX,24,Earl W. Armstrong,Unknown,3.5,False,False,False
 1974,house,Utah,UT,1,K. Gunn McKay,Democratic,62.6,True,True,False
-1974,house,Utah,UT,1,American,Unknown,5.9,False,False,False
+1974,house,Utah,UT,1,Ronald W. Inkley,Republican,31.5,False,False,False
+1974,house,Utah,UT,1,L. S. Brown,Unknown,5.9,False,False,False
 1974,house,Utah,UT,2,Allan Howe,Democratic,49.5,True,False,True
-1974,house,Utah,UT,2,American,Unknown,3.0,False,False,True
-1974,house,Utah,UT,2,Libertarian,Unknown,0.6,False,False,True
+1974,house,Utah,UT,2,Stephen Harmsen,Republican,46.9,False,False,True
+1974,house,Utah,UT,2,Bruce R. Bangerter,Unknown,3.0,False,False,True
+1974,house,Utah,UT,2,Karl J. Bray,Unknown,0.6,False,False,True
 1974,house,Vermont,VT,AL,Jim Jeffords,Republican,52.9,True,False,True
 1974,house,Vermont,VT,AL,Francis J. Cain,Democratic,38.1,False,False,True
 1974,house,Vermont,VT,AL,Michael Parenti,Unknown,7.1,False,False,True
 1974,house,Vermont,VT,AL,Francis J. Cain,Independent,1.9,False,False,True
 1974,house,Virginia,VA,1,Thomas N. Downing,Democratic,100.0,True,True,False
 1974,house,Virginia,VA,2,G. William Whitehurst,Republican,60.0,True,True,False
+1974,house,Virginia,VA,2,Robert Richards,Democratic,40.0,False,False,False
 1974,house,Virginia,VA,3,David E. Satterfield III,Democratic,89.5,True,True,False
+1974,house,Virginia,VA,3,Alan Robert Ogden,Independent,10.5,False,False,False
 1974,house,Virginia,VA,4,Robert Daniel,Republican,47.2,True,True,False
+1974,house,Virginia,VA,4,Lester E. Schlitz,Democratic,35.9,False,False,False
+1974,house,Virginia,VA,4,Curtis W. Harris,Independent,16.9,False,False,False
 1974,house,Virginia,VA,5,Dan Daniel,Democratic,100.0,True,True,False
 1974,house,Virginia,VA,6,M. Caldwell Butler,Republican,45.1,True,True,False
+1974,house,Virginia,VA,6,Paul J. Puckett,Democratic,27.0,False,False,False
+1974,house,Virginia,VA,6,Warren D. Saunders,Independent,26.1,False,False,False
+1974,house,Virginia,VA,6,Timothy A. McGay,Independent,1.8,False,False,False
 1974,house,Virginia,VA,7,J. Kenneth Robinson,Republican,52.7,True,True,False
+1974,house,Virginia,VA,7,George H. Gilliam,Democratic,47.3,False,False,False
 1974,house,Virginia,VA,8,Herbert Harris,Democratic,57.6,True,False,False
 1974,house,Virginia,VA,8,Stanford Parris,Republican,42.4,False,True,False
 1974,house,Virginia,VA,9,William C. Wampler,Republican,50.9,True,True,False
+1974,house,Virginia,VA,9,Charles J. Horne,Democratic,49.1,False,False,False
 1974,house,Virginia,VA,10,Joseph L. Fisher,Democratic,53.6,True,False,False
 1974,house,Virginia,VA,10,Joel T. Broyhill,Republican,45.2,False,True,False
+1974,house,Virginia,VA,10,Francis J. Speh,Independent,1.2,False,False,False
 1974,house,Washington,WA,1,Joel Pritchard,Republican,69.5,True,True,False
-1974,house,Washington,WA,1,Socialist Workers,Unknown,1.1,False,False,False
+1974,house,Washington,WA,1,W. R. Knedlik,Democratic,28.6,False,False,False
+1974,house,Washington,WA,1,Fred Lovgren,Unknown,1.1,False,False,False
+1974,house,Washington,WA,1,Patricia Dolbeare,Labor,0.8,False,False,False
 1974,house,Washington,WA,2,Lloyd Meeds,Democratic,59.7,True,True,False
+1974,house,Washington,WA,2,Ronald C. Reed,Republican,38.9,False,False,False
+1974,house,Washington,WA,2,Paul Roberts,Labor,1.3,False,False,False
 1974,house,Washington,WA,3,Don Bonker,Democratic,60.9,True,False,True
+1974,house,Washington,WA,3,A. Ludlow Kramer,Republican,38.1,False,False,True
+1974,house,Washington,WA,3,Evelyn K. Olafson,Labor,1.0,False,False,True
 1974,house,Washington,WA,4,Mike McCormack,Democratic,58.9,True,True,False
 1974,house,Washington,WA,4,Floyd Paxton,Republican,41.1,False,False,False
 1974,house,Washington,WA,5,Tom Foley,Democratic,64.3,True,True,False
+1974,house,Washington,WA,5,Gary G. Gage,Republican,35.7,False,False,False
 1974,house,Washington,WA,6,Floyd Hicks,Democratic,71.8,True,True,False
+1974,house,Washington,WA,6,George M. Nalley,Republican,28.2,False,False,False
 1974,house,Washington,WA,7,Brock Adams,Democratic,71.1,True,True,False
+1974,house,Washington,WA,7,Raymond Pritchard,Republican,28.9,False,False,False
 1974,house,West Virginia,WV,1,Bob Mollohan,Democratic,59.7,True,True,True
+1974,house,West Virginia,WV,1,Joe Laurita Jr.,Republican,40.3,False,False,True
 1974,house,West Virginia,WV,2,Harley O. Staggers,Democratic,64.4,True,True,False
+1974,house,West Virginia,WV,2,"William H. ""Bill"" Loy",Republican,35.6,False,False,False
 1974,house,West Virginia,WV,3,John M. Slack Jr.,Democratic,69.8,True,True,False
+1974,house,West Virginia,WV,3,William L. Larcamp,Republican,30.2,False,False,False
 1974,house,West Virginia,WV,4,Ken Hechler,Democratic,100.0,True,True,False
 1974,house,Wisconsin,WI,1,Les Aspin,Democratic,70.5,True,True,False
+1974,house,Wisconsin,WI,1,Leonard W. Smith,Republican,29.5,False,False,False
 1974,house,Wisconsin,WI,2,Robert W. Kastenmeier,Democratic,64.8,True,True,False
+1974,house,Wisconsin,WI,2,Elizabeth T. Miller,Republican,35.2,False,False,False
 1974,house,Wisconsin,WI,3,Alvin Baldus,Democratic,51.1,True,False,False
 1974,house,Wisconsin,WI,3,Vernon Wallace Thomson,Republican,47.4,False,True,False
-1974,house,Wisconsin,WI,3,American,Unknown,1.4,False,False,False
+1974,house,Wisconsin,WI,3,Keith Ellison,Unknown,1.4,False,False,False
 1974,house,Wisconsin,WI,4,Clement J. Zablocki,Democratic,72.5,True,True,False
-1974,house,Wisconsin,WI,4,American,Unknown,3.8,False,False,False
+1974,house,Wisconsin,WI,4,Lewis H. Collison,Republican,23.8,False,False,False
+1974,house,Wisconsin,WI,4,Herbert O. Jahnke,Unknown,3.8,False,False,False
 1974,house,Wisconsin,WI,5,Henry S. Reuss,Democratic,80.0,True,True,False
+1974,house,Wisconsin,WI,5,Mildred A. Morries,Republican,20.0,False,False,False
 1974,house,Wisconsin,WI,6,William A. Steiger,Republican,59.5,True,True,False
-1974,house,Wisconsin,WI,6,American,Unknown,5.1,False,False,False
+1974,house,Wisconsin,WI,6,Nancy J. Simenz,Democratic,35.4,False,False,False
+1974,house,Wisconsin,WI,6,Harvey C. LeRoy,Unknown,5.1,False,False,False
 1974,house,Wisconsin,WI,7,Dave Obey,Democratic,70.6,True,True,False
+1974,house,Wisconsin,WI,7,Josef Burger,Republican,29.4,False,False,False
 1974,house,Wisconsin,WI,8,Robert John Cornell,Democratic,54.4,True,False,False
 1974,house,Wisconsin,WI,8,Harold Vernon Froehlich,Republican,45.6,False,True,False
 1974,house,Wisconsin,WI,9,Bob Kasten,Republican,52.9,True,False,True
 1974,house,Wisconsin,WI,9,Lynn S. Adelman,Democratic,45.0,False,False,True
-1974,house,Wisconsin,WI,9,American,Unknown,2.1,False,False,True
+1974,house,Wisconsin,WI,9,William D. Quirk,Unknown,2.1,False,False,True
 1974,house,Wyoming,WY,AL,Teno Roncalio,Democratic,54.7,True,True,True
+1974,house,Wyoming,WY,AL,Tom Strock,Republican,45.3,False,False,True

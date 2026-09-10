@@ -33,6 +33,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Arkansas,AR,4,Roy Rood,Republican,27.6,False,False,False
 1990,house,California,CA,1,Frank Riggs,Republican,43.3,True,False,False
 1990,house,California,CA,1,Douglas H. Bosco,Democratic,41.9,False,True,False
+1990,house,California,CA,1,Darlene Comingore,Peace and Freedom,14.8,False,False,False
 1990,house,California,CA,2,Wally Herger,Republican,63.7,True,True,False
 1990,house,California,CA,2,Bill Rush,Democratic,31.2,False,False,False
 1990,house,California,CA,2,Ross Crain,Libertarian,5.1,False,False,False
@@ -84,10 +85,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,California,CA,22,Carlos Moorhead,Republican,60.0,True,True,False
 1990,house,California,CA,22,David Bayer,Democratic,34.1,False,False,False
 1990,house,California,CA,22,William H. Wilson,Libertarian,3.7,False,False,False
+1990,house,California,CA,22,Jan B. Tucker,Peace and Freedom,2.2,False,False,False
 1990,house,California,CA,23,Anthony Beilenson,Democratic,61.7,True,True,False
 1990,house,California,CA,23,Jim Salomon,Republican,34.2,False,False,False
+1990,house,California,CA,23,John Honigsfeld,Peace and Freedom,4.1,False,False,False
 1990,house,California,CA,24,Henry Waxman,Democratic,68.9,True,True,False
 1990,house,California,CA,24,John N. Cowles,Republican,25.6,False,False,False
+1990,house,California,CA,24,Maggie Phair,Peace and Freedom,5.5,False,False,False
 1990,house,California,CA,25,Edward R. Roybal,Democratic,70.0,True,True,False
 1990,house,California,CA,25,Steven J. Renshaw,Republican,24.8,False,False,False
 1990,house,California,CA,25,Robert H. Scott,Libertarian,5.2,False,False,False
@@ -96,9 +100,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,California,CA,26,Bernard Zimring,Libertarian,4.1,False,False,False
 1990,house,California,CA,27,Mel Levine,Democratic,58.2,True,True,False
 1990,house,California,CA,27,David Barrett Cohen,Republican,37.2,False,False,False
+1990,house,California,CA,27,Edward E. Ferrer,Peace and Freedom,4.5,False,False,False
 1990,house,California,CA,28,Julian Dixon,Democratic,72.7,True,True,False
 1990,house,California,CA,28,George Z. Adams,Republican,22.2,False,False,False
 1990,house,California,CA,28,Bob Weber,Libertarian,2.2,False,False,False
+1990,house,California,CA,28,William R. Williams,Peace and Freedom,2.8,False,False,False
 1990,house,California,CA,29,Maxine Waters,Democratic,79.4,True,False,True
 1990,house,California,CA,29,Bill DeWitt,Republican,18.6,False,False,True
 1990,house,California,CA,29,Waheed R. Boctor,Libertarian,2.0,False,False,True
@@ -121,22 +127,27 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,California,CA,36,Bob Hammock,Republican,47.3,False,False,True
 1990,house,California,CA,37,Al McCandless,Republican,49.8,True,True,False
 1990,house,California,CA,37,Ralph Waite,Democratic,44.8,False,False,False
+1990,house,California,CA,37,Gary R. Odom,American Independent,2.8,False,False,False
 1990,house,California,CA,37,Bonnie Flickinger,Libertarian,2.7,False,False,False
 1990,house,California,CA,38,Bob Dornan,Republican,58.1,True,True,True
 1990,house,California,CA,38,Barbara Jackson,Democratic,41.9,False,False,True
 1990,house,California,CA,39,William E. Dannemeyer,Republican,65.3,True,True,False
 1990,house,California,CA,39,Frank Hoffman,Democratic,30.8,False,False,False
+1990,house,California,CA,39,Maxine Bell Quirk,Peace and Freedom,3.9,False,False,False
 1990,house,California,CA,40,Christopher Cox,Republican,67.6,True,True,False
 1990,house,California,CA,40,Eugene Gratz,Democratic,32.4,False,False,False
 1990,house,California,CA,41,Bill Lowery,Republican,49.2,True,True,False
 1990,house,California,CA,41,Dan Kripke,Democratic,43.6,False,False,False
+1990,house,California,CA,41,Karen S. R. Works,Peace and Freedom,7.2,False,False,False
 1990,house,California,CA,42,Dana Rohrabacher,Republican,59.3,True,True,False
 1990,house,California,CA,42,Guy C. Kimbrough,Democratic,36.5,False,False,False
 1990,house,California,CA,42,Richard Gibb Martin,Libertarian,4.2,False,False,False
 1990,house,California,CA,43,Ron Packard,Republican,68.0,True,True,False
+1990,house,California,CA,43,Doug Hansen,Peace and Freedom,18.1,False,False,False
 1990,house,California,CA,43,Rick Arnold,Libertarian,13.8,False,False,False
 1990,house,California,CA,44,Duke Cunningham,Republican,46.3,True,False,False
 1990,house,California,CA,44,Jim Bates,Democratic,44.8,False,True,False
+1990,house,California,CA,44,Donna White,Peace and Freedom,4.8,False,False,False
 1990,house,California,CA,44,John Wallner,Libertarian,4.0,False,False,False
 1990,house,California,CA,45,Duncan L. Hunter,Republican,72.8,True,True,False
 1990,house,California,CA,45,Joseph B. Shea,Libertarian,27.2,False,False,False
@@ -146,6 +157,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Colorado,CO,2,Jason Lewis,Republican,39.3,False,False,False
 1990,house,Colorado,CO,3,Ben Nighthorse Campbell,Democratic,70.2,True,True,False
 1990,house,Colorado,CO,3,Bob Ellis,Republican,28.2,False,False,False
+1990,house,Colorado,CO,3,Howard E. Fields,"Populist Party (US, 1984)",1.6,False,False,False
 1990,house,Colorado,CO,4,Wayne Allard,Republican,54.1,True,False,True
 1990,house,Colorado,CO,4,Dick Bond,Democratic,45.9,False,False,True
 1990,house,Colorado,CO,5,Joel Hefley,Republican,66.4,True,True,False
@@ -163,6 +175,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Connecticut,CT,4,Al Smith,Democratic,23.4,False,False,False
 1990,house,Connecticut,CT,5,Gary Franks,Republican,51.7,True,False,True
 1990,house,Connecticut,CT,5,Toby Moffett,Democratic,47.2,False,False,True
+1990,house,Connecticut,CT,5,William G. Hare,Liberty,1.0,False,False,True
 1990,house,Connecticut,CT,6,Nancy Johnson,Republican,74.4,True,True,False
 1990,house,Connecticut,CT,6,Paul Kulas,Democratic,25.6,False,False,False
 1990,house,Delaware,DE,AL,Tom Carper,Democratic,65.5,True,True,False
@@ -240,7 +253,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Illinois,IL,4,Manny Hoffman,Republican,40.8,False,False,False
 1990,house,Illinois,IL,5,Bill Lipinski,Democratic,66.3,True,True,False
 1990,house,Illinois,IL,5,David J. Shestokas,Republican,31.0,False,False,False
-1990,house,Illinois,IL,5,Solidarity,Solidarity Party (Illinois),2.7,False,False,False
+1990,house,Illinois,IL,5,Ron Bartos,Solidarity Party (Illinois),2.7,False,False,False
 1990,house,Illinois,IL,6,Henry Hyde,Republican,66.7,True,True,False
 1990,house,Illinois,IL,6,Robert J. Cassidy,Democratic,33.3,False,False,False
 1990,house,Illinois,IL,7,Cardiss Collins,Democratic,79.9,True,True,False
@@ -251,9 +264,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Illinois,IL,9,Herb Sohn,Republican,28.8,False,False,True
 1990,house,Illinois,IL,10,John Porter,Republican,67.8,True,True,False
 1990,house,Illinois,IL,10,Peg McNamara,Democratic,30.8,False,False,False
+1990,house,Illinois,IL,10,Herbert L. Gorrell,Solidarity Party (Illinois),1.5,False,False,False
 1990,house,Illinois,IL,11,Frank Annunzio,Democratic,53.6,True,True,False
 1990,house,Illinois,IL,11,Walter Dudycz,Republican,44.6,False,False,False
+1990,house,Illinois,IL,11,Larry Saska,Solidarity Party (Illinois),1.7,False,False,False
 1990,house,Illinois,IL,12,Phil Crane,Republican,82.2,True,True,False
+1990,house,Illinois,IL,12,Steve Pedersen,Solidarity Party (Illinois),17.8,False,False,False
 1990,house,Illinois,IL,13,Harris Fawell,Republican,65.8,True,True,False
 1990,house,Illinois,IL,13,Steven K. Thomas,Democratic,34.2,False,False,False
 1990,house,Illinois,IL,14,Dennis Hastert,Republican,66.9,True,True,False
@@ -266,6 +282,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Illinois,IL,18,Robert H. Michel,Republican,98.4,True,True,False
 1990,house,Illinois,IL,19,Terry L. Bruce,Democratic,66.3,True,True,False
 1990,house,Illinois,IL,19,Robert F. Kerans,Republican,32.4,False,False,False
+1990,house,Illinois,IL,19,Brian James O'Neill II,Solidarity Party (Illinois),1.4,False,False,False
 1990,house,Illinois,IL,20,Dick Durbin,Democratic,66.2,True,True,False
 1990,house,Illinois,IL,20,Paul Jurgens,Republican,33.8,False,False,False
 1990,house,Illinois,IL,21,Jerry Costello,Democratic,66.0,True,True,False
@@ -313,6 +330,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Kansas,KS,5,Dick Nichols,Republican,59.3,True,False,True
 1990,house,Kansas,KS,5,George D. Wingert,Democratic,40.7,False,False,True
 1990,house,Kentucky,KY,1,Carroll Hubbard,Democratic,86.9,True,True,False
+1990,house,Kentucky,KY,1,Marvin Seat,"Populist Party (US, 1984)",13.1,False,False,False
 1990,house,Kentucky,KY,2,William Natcher,Democratic,66.0,True,True,False
 1990,house,Kentucky,KY,2,Martin Tori,Republican,34.0,False,False,False
 1990,house,Kentucky,KY,3,Romano Mazzoli,Democratic,60.6,True,True,False
@@ -388,6 +406,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Massachusetts,MA,7,Ed Markey,Democratic,99.9,True,True,False
 1990,house,Massachusetts,MA,8,Joseph P. Kennedy II,Democratic,72.2,True,True,False
 1990,house,Massachusetts,MA,8,Glenn W. Fiscus,Republican,22.6,False,False,False
+1990,house,Massachusetts,MA,8,Susan C. Davies,New Alliance,5.1,False,False,False
 1990,house,Massachusetts,MA,9,Joe Moakley,Democratic,70.3,True,True,False
 1990,house,Massachusetts,MA,9,Robert W. Horan,Independent,29.7,False,False,False
 1990,house,Massachusetts,MA,10,Gerry Studds,Democratic,53.4,True,True,False
@@ -399,6 +418,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Michigan,MI,1,Jonathan Paul Flint,Libertarian,0.9,False,False,False
 1990,house,Michigan,MI,2,Carl Pursell,Republican,64.1,True,True,False
 1990,house,Michigan,MI,2,Elmer White,Democratic,33.2,False,False,False
+1990,house,Michigan,MI,2,Paul Steven Jensen,US Taxpayers,2.8,False,False,False
 1990,house,Michigan,MI,3,Howard Wolpe,Democratic,57.9,True,True,False
 1990,house,Michigan,MI,3,Brad Haskins,Republican,42.1,False,False,False
 1990,house,Michigan,MI,4,Fred Upton,Republican,57.8,True,True,False
@@ -422,8 +442,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Michigan,MI,12,Robert W. Roddis,Libertarian,1.6,False,False,False
 1990,house,Michigan,MI,13,Barbara-Rose Collins,Democratic,80.1,True,False,True
 1990,house,Michigan,MI,13,Carl R. Edwards. Sr.,Republican,16.5,False,False,True
+1990,house,Michigan,MI,13,Joyce Ann Griffin,Workers World,1.6,False,False,True
 1990,house,Michigan,MI,14,Dennis Hertel,Democratic,63.6,True,True,False
 1990,house,Michigan,MI,14,Kenneth C. McNealy,Republican,32.8,False,False,False
+1990,house,Michigan,MI,14,Robert John Gale,US Taxpayers,2.2,False,False,False
 1990,house,Michigan,MI,14,Kenneth G. Morris,Libertarian,1.4,False,False,False
 1990,house,Michigan,MI,15,William D. Ford,Democratic,61.2,True,True,False
 1990,house,Michigan,MI,15,Burl C. Adkins,Republican,36.6,False,False,False
@@ -436,17 +458,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Michigan,MI,18,William Broomfield,Republican,66.4,True,True,False
 1990,house,Michigan,MI,18,Walter Briggs,Democratic,33.6,False,False,False
 1990,house,Minnesota,MN,1,Tim Penny,DFL,78.1,True,True,False
+1990,house,Minnesota,MN,1,Doug Andersen,Republican,21.9,False,False,False
 1990,house,Minnesota,MN,2,Vin Weber,Republican,61.8,True,True,False
 1990,house,Minnesota,MN,2,Jim Stone,DFL,38.1,False,False,False
 1990,house,Minnesota,MN,3,Jim Ramstad,Republican,66.9,True,False,True
 1990,house,Minnesota,MN,3,Lou DeMars,DFL,32.9,False,False,True
 1990,house,Minnesota,MN,4,Bruce Vento,DFL,64.8,True,True,False
+1990,house,Minnesota,MN,4,Ian Maitland,Republican,35.1,False,False,False
 1990,house,Minnesota,MN,5,Martin Olav Sabo,DFL,72.7,True,True,False
+1990,house,Minnesota,MN,5,Raymond C. Gilbertson,Republican,27.0,False,False,False
 1990,house,Minnesota,MN,6,Gerry Sikorski,DFL,64.6,True,True,False
 1990,house,Minnesota,MN,6,Bruce Anderson,Republican,35.3,False,False,False
 1990,house,Minnesota,MN,7,Collin Peterson,DFL,53.5,True,False,False
 1990,house,Minnesota,MN,7,Arlan Stangeland,Republican,46.4,False,True,False
 1990,house,Minnesota,MN,8,Jim Oberstar,DFL,72.9,True,True,False
+1990,house,Minnesota,MN,8,Jerry Shuster,Republican,27.1,False,False,False
 1990,house,Mississippi,MS,1,Jamie Whitten,Democratic,64.9,True,True,False
 1990,house,Mississippi,MS,1,Bill Bowlin,Republican,35.1,False,False,False
 1990,house,Mississippi,MS,2,Mike Espy,Democratic,84.1,True,True,False
@@ -498,39 +524,51 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,New Jersey,NJ,1,Daniel J. Mangini,Republican,42.8,False,False,True
 1990,house,New Jersey,NJ,1,Jerry Zeldin,Libertarian,1.2,False,False,True
 1990,house,New Jersey,NJ,1,Walter E. Konstanty,Independent,1.1,False,False,True
+1990,house,New Jersey,NJ,1,William Henry Harris,"Populist Party (US, 1984)",0.8,False,False,True
 1990,house,New Jersey,NJ,2,William J. Hughes,Democratic,88.2,True,True,False
+1990,house,New Jersey,NJ,2,William A. Kanengiser,"Populist Party (US, 1984)",11.8,False,False,False
 1990,house,New Jersey,NJ,3,Frank Pallone,Democratic,49.1,True,True,False
 1990,house,New Jersey,NJ,3,Paul A. Kapalko,Republican,46.5,False,False,False
 1990,house,New Jersey,NJ,3,Richard D. McKean,Independent,2.8,False,False,False
 1990,house,New Jersey,NJ,3,William Stewart,Libertarian,1.2,False,False,False
+1990,house,New Jersey,NJ,3,Joseph A. Plonski,"Populist Party (US, 1984)",0.5,False,False,False
 1990,house,New Jersey,NJ,4,Chris Smith,Republican,62.7,True,True,False
 1990,house,New Jersey,NJ,4,Mark Setaro,Democratic,34.5,False,False,False
 1990,house,New Jersey,NJ,4,Carl Peters,Libertarian,1.4,False,False,False
 1990,house,New Jersey,NJ,5,Marge Roukema,Republican,75.7,True,True,False
 1990,house,New Jersey,NJ,5,Lawrence Wayne Olsen,Democratic,22.4,False,False,False
+1990,house,New Jersey,NJ,5,Mark Richards,"Populist Party (US, 1984)",1.9,False,False,False
 1990,house,New Jersey,NJ,6,Bernard J. Dwyer,Democratic,50.6,True,True,False
 1990,house,New Jersey,NJ,6,Paul Danielczyk,Republican,46.1,False,False,False
+1990,house,New Jersey,NJ,6,Randolph Waller,"Populist Party (US, 1984)",1.9,False,False,False
 1990,house,New Jersey,NJ,6,Howard F. Schoen,Libertarian,1.4,False,False,False
 1990,house,New Jersey,NJ,7,Matthew John Rinaldo,Republican,74.6,True,True,False
 1990,house,New Jersey,NJ,7,Bruce Bergen,Democratic,23.2,False,False,False
+1990,house,New Jersey,NJ,7,Thomas V. Sarnowski,"Populist Party (US, 1984)",2.2,False,False,False
 1990,house,New Jersey,NJ,8,Robert A. Roe,Democratic,76.9,True,True,False
 1990,house,New Jersey,NJ,8,Stephen Sibilia,Independent,18.2,False,False,False
+1990,house,New Jersey,NJ,8,Bruce Eden,"Populist Party (US, 1984)",4.9,False,False,False
 1990,house,New Jersey,NJ,9,Robert Torricelli,Democratic,53.3,True,True,False
 1990,house,New Jersey,NJ,9,Peter J. Russo,Republican,45.0,False,False,False
+1990,house,New Jersey,NJ,9,Chester Grabowski,"Populist Party (US, 1984)",1.7,False,False,False
 1990,house,New Jersey,NJ,10,Donald M. Payne,Democratic,81.4,True,True,False
 1990,house,New Jersey,NJ,10,Howard E. Berkeley,Republican,17.3,False,False,False
+1990,house,New Jersey,NJ,10,George Mehrabian,Socialist Workers,1.2,False,False,False
 1990,house,New Jersey,NJ,11,Dean Gallo,Republican,64.5,True,True,False
 1990,house,New Jersey,NJ,11,Michael Gordon,Democratic,33.0,False,False,False
+1990,house,New Jersey,NJ,11,Jasper C. Gould,"Populist Party (US, 1984)",2.5,False,False,False
 1990,house,New Jersey,NJ,12,Dick Zimmer,Republican,64.0,True,False,True
 1990,house,New Jersey,NJ,12,Marguerite Chandler,Democratic,31.0,False,False,True
 1990,house,New Jersey,NJ,12,Joan I. Bottchor,Independent,2.6,False,False,True
 1990,house,New Jersey,NJ,12,C. Max Kortepeter,Independent,1.4,False,False,True
+1990,house,New Jersey,NJ,12,Joseph J. Notarangelo,"Populist Party (US, 1984)",0.8,False,False,True
 1990,house,New Jersey,NJ,13,Jim Saxton,Republican,58.2,True,True,False
 1990,house,New Jersey,NJ,13,John Adler,Democratic,39.4,False,False,False
 1990,house,New Jersey,NJ,13,Howard Scott Pearlman,Independent,2.4,False,False,False
 1990,house,New Jersey,NJ,14,Frank Joseph Guarini,Democratic,66.2,True,True,False
 1990,house,New Jersey,NJ,14,Fred J. Theemling Jr.,Republican,29.2,False,False,False
 1990,house,New Jersey,NJ,14,Michael Ziruolo,Independent,2.1,False,False,False
+1990,house,New Jersey,NJ,14,Jane Harris,Socialist Workers,1.5,False,False,False
 1990,house,New Mexico,NM,1,Steven Schiff,Republican,70.2,True,True,False
 1990,house,New Mexico,NM,1,Rebecca Vigil-Giron,Democratic,29.8,False,False,False
 1990,house,New Mexico,NM,2,Joe Skeen,Republican,100.0,True,True,False
@@ -538,16 +576,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,New Mexico,NM,3,Phil T. Archuletta,Republican,25.5,False,False,False
 1990,house,New York,NY,1,George J. Hochbrueckner,Democratic,56.3,True,True,False
 1990,house,New York,NY,1,Francis W. Creighton,Republican,34.7,False,False,False
+1990,house,New York,NY,1,Jerry Zeldin,Conservative,5.2,False,False,False
+1990,house,New York,NY,1,Peter J. O'Hara,Right to Life,3.8,False,False,False
 1990,house,New York,NY,2,Thomas Downey,Democratic,55.8,True,False,False
 1990,house,New York,NY,2,John W. Bugler,Republican,36.2,False,False,False
+1990,house,New York,NY,2,Dominic A. Curcio,Conservative,8.0,False,False,False
 1990,house,New York,NY,3,Robert J. Mrazek,Democratic,53.3,True,True,False
 1990,house,New York,NY,3,Robert Previdi,Republican,43.1,False,False,False
+1990,house,New York,NY,3,Francis A. Dreger,Right to Life,3.6,False,False,False
 1990,house,New York,NY,4,Norman F. Lent,Republican,61.2,True,True,False
 1990,house,New York,NY,4,Francis T. Goban,Democratic,31.9,False,False,False
+1990,house,New York,NY,4,John J. Dunkle,Right to Life,5.2,False,False,False
+1990,house,New York,NY,4,Ben-Zion J. Heyman,Liberal Party (New York),1.8,False,False,False
 1990,house,New York,NY,5,Raymond J. McGrath,Republican,54.6,True,True,False
 1990,house,New York,NY,5,Mark S. Epstein,Democratic,40.9,False,False,False
+1990,house,New York,NY,5,Edward K. Kitt,Right to Life,4.6,False,False,False
 1990,house,New York,NY,6,Floyd Flake,Democratic,73.1,True,True,False
 1990,house,New York,NY,6,William Sampol,Republican,21.8,False,False,False
+1990,house,New York,NY,6,John Cronin,Right to Life,5.1,False,False,False
 1990,house,New York,NY,7,Gary Ackerman,Democratic,100.0,True,True,False
 1990,house,New York,NY,8,James H. Scheuer,Democratic,72.3,True,True,False
 1990,house,New York,NY,8,Gustave A. Reifenkugel,Republican,27.7,False,False,False
@@ -557,26 +603,40 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,New York,NY,10,Chuck Schumer,Democratic,80.4,True,True,False
 1990,house,New York,NY,10,Patrick J. Kinsella,Republican,19.6,False,False,False
 1990,house,New York,NY,11,Edolphus Towns,Democratic,92.9,True,True,False
+1990,house,New York,NY,11,Ernest Johnson,Conservative,4.3,False,False,False
+1990,house,New York,NY,11,Lorraine Stevens,New Alliance,2.8,False,False,False
 1990,house,New York,NY,12,Major Owens,Democratic,94.9,True,True,False
+1990,house,New York,NY,12,Joseph Caesar,Conservative,2.7,False,False,False
+1990,house,New York,NY,12,Mamie Moore,New Alliance,2.4,False,False,False
 1990,house,New York,NY,13,Stephen J. Solarz,Democratic,80.4,True,True,False
 1990,house,New York,NY,13,Edwin Ramos,Republican,19.6,False,False,False
 1990,house,New York,NY,14,Susan Molinari,Republican,60.1,True,True,False
 1990,house,New York,NY,14,Anthony J. Pocchia,Democratic,35.5,False,False,False
+1990,house,New York,NY,14,Christine Sacchi,Right to Life,4.5,False,False,False
 1990,house,New York,NY,15,Bill Green,Republican,61.3,True,True,False
 1990,house,New York,NY,15,Frances L. Reiter,Democratic,38.7,False,False,False
 1990,house,New York,NY,16,Charles Rangel,Democratic,97.2,True,True,False
+1990,house,New York,NY,16,Alvaader Frazier,New Alliance,2.8,False,False,False
 1990,house,New York,NY,17,Theodore S. Weiss,Democratic,80.5,True,True,False
 1990,house,New York,NY,17,William Koeppel,Republican,15.5,False,False,False
+1990,house,New York,NY,17,Mark Goret,Conservative,3.0,False,False,False
+1990,house,New York,NY,17,John Patterson,New Alliance,1.1,False,False,False
 1990,house,New York,NY,18,José E. Serrano,Democratic,93.2,True,True,False
 1990,house,New York,NY,18,Joseph Chiavaro,Republican,2.9,False,False,False
+1990,house,New York,NY,18,Mary Rivera,New Alliance,2.1,False,False,False
+1990,house,New York,NY,18,Anna Johnson,Conservative,1.8,False,False,False
 1990,house,New York,NY,19,Eliot Engel,Democratic,61.2,True,True,False
 1990,house,New York,NY,19,William J. Gouldman,Republican,22.9,False,False,False
+1990,house,New York,NY,19,Kevin Brawley,Conservative,15.9,False,False,False
 1990,house,New York,NY,20,Nita Lowey,Democratic,62.8,True,True,False
 1990,house,New York,NY,20,Glenn D. Bellitto,Republican,27.2,False,False,False
+1990,house,New York,NY,20,John M. Schafer,Conservative,10.0,False,False,False
 1990,house,New York,NY,21,Hamilton Fish IV,Republican,71.4,True,True,False
 1990,house,New York,NY,21,Richard L. Barbuto,Democratic,24.4,False,False,False
+1990,house,New York,NY,21,Richard S. Curtin,Right to Life,4.2,False,False,False
 1990,house,New York,NY,22,Benjamin Gilman,Republican,68.6,True,True,False
 1990,house,New York,NY,22,John G. Dow,Democratic,26.6,False,False,False
+1990,house,New York,NY,22,Margaret M. Beirne,Right to Life,4.8,False,False,False
 1990,house,New York,NY,23,Michael R. McNulty,Democratic,64.1,True,True,False
 1990,house,New York,NY,23,Margaret B. Buhrmaster,Republican,35.9,False,False,False
 1990,house,New York,NY,24,Gerald Solomon,Republican,68.1,True,True,False
@@ -586,18 +646,23 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,New York,NY,26,David O'Brien Martin,Republican,100.0,True,True,False
 1990,house,New York,NY,27,James T. Walsh,Republican,63.2,True,True,False
 1990,house,New York,NY,27,Peggy L. Murray,Democratic,34.8,False,False,False
+1990,house,New York,NY,27,Stephen K. Hoff,Right to Life,2.1,False,False,False
 1990,house,New York,NY,28,Matthew F. McHugh,Democratic,64.8,True,True,False
 1990,house,New York,NY,28,Seymour Krieger,Republican,35.2,False,False,False
 1990,house,New York,NY,29,Frank Horton,Republican,63.0,True,True,False
 1990,house,New York,NY,29,Alton F. Eber,Democratic,24.6,False,False,False
+1990,house,New York,NY,29,Peter DeMauro,Conservative,8.9,False,False,False
+1990,house,New York,NY,29,Donald M. Peters,Right to Life,3.4,False,False,False
 1990,house,New York,NY,30,Louise Slaughter,Democratic,59.0,True,True,False
 1990,house,New York,NY,30,John M. Regan Jr.,Republican,41.0,False,False,False
 1990,house,New York,NY,31,Bill Paxon,Republican,57.3,True,True,False
 1990,house,New York,NY,31,Kevin P. Gaughan,Democratic,42.7,False,False,False
 1990,house,New York,NY,32,John J. LaFalce,Democratic,55.0,True,True,False
 1990,house,New York,NY,32,Michael T. Waring,Republican,31.4,False,False,False
+1990,house,New York,NY,32,Kenneth J. Kowalski,Conservative,13.6,False,False,False
 1990,house,New York,NY,33,Henry J. Nowak,Democratic,67.5,True,True,False
 1990,house,New York,NY,33,Thomas Kepfer,Republican,14.4,False,False,False
+1990,house,New York,NY,33,Louis P. Corrigan Jr.,Conservative,15.1,False,False,False
 1990,house,New York,NY,34,Amo Houghton,Republican,63.4,True,True,False
 1990,house,New York,NY,34,Joseph P. Leahey,Republican,26.4,False,False,False
 1990,house,New York,NY,34,Nevin K. Eklund,Libertarian,1.3,False,False,False
@@ -777,12 +842,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Texas,TX,2,Charles Wilson,Democratic,55.6,True,True,False
 1990,house,Texas,TX,2,Donna Peterson,Republican,44.4,False,False,False
 1990,house,Texas,TX,3,Steve Bartlett,Republican,99.6,True,True,False
+1990,house,Texas,TX,3,Noel Kopala,Write-in,0.4,False,False,False
 1990,house,Texas,TX,4,Ralph Hall,Democratic,99.6,True,True,False
+1990,house,Texas,TX,4,Tim J. McCord,Write-in,0.4,False,False,False
 1990,house,Texas,TX,5,John Wiley Bryant,Democratic,59.6,True,True,False
 1990,house,Texas,TX,5,Jerry Rucker,Republican,37.7,False,False,False
 1990,house,Texas,TX,5,Ken Ashby,Libertarian,2.7,False,False,False
 1990,house,Texas,TX,6,Joe Barton,Republican,66.5,True,True,False
 1990,house,Texas,TX,6,John E. Welch,Democratic,33.1,False,False,False
+1990,house,Texas,TX,6,Michael Worsham,Write-in,0.4,False,False,False
 1990,house,Texas,TX,7,Bill Archer,Republican,100.0,True,True,False
 1990,house,Texas,TX,8,Jack Fields,Republican,100.0,True,True,False
 1990,house,Texas,TX,9,Jack Brooks,Democratic,57.7,True,True,False
@@ -800,6 +868,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Texas,TX,14,Joe Dial,Republican,45.7,False,False,False
 1990,house,Texas,TX,15,Kika de la Garza,Democratic,100.0,True,True,False
 1990,house,Texas,TX,16,Ronald D. Coleman,Democratic,96.0,True,True,False
+1990,house,Texas,TX,16,William Burgett,Write-in,4.0,False,False,False
 1990,house,Texas,TX,17,Charles Stenholm,Democratic,100.0,True,True,False
 1990,house,Texas,TX,18,Craig Washington,Democratic,99.6,True,True,False
 1990,house,Texas,TX,19,Larry Combest,Republican,100.0,True,True,False
@@ -817,11 +886,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Texas,TX,27,Solomon Ortiz,Democratic,100.0,True,True,False
 1990,house,Utah,UT,1,Jim Hansen,Republican,52.2,True,True,False
 1990,house,Utah,UT,1,Kenley W. Brunsdale,Democratic,43.8,False,False,False
+1990,house,Utah,UT,1,Reva Marx Wadsworth,American Party (1969),4.1,False,False,False
 1990,house,Utah,UT,2,Wayne Owens,Democratic,57.6,True,True,True
 1990,house,Utah,UT,2,Genevieve Atwood,Republican,39.8,False,False,True
 1990,house,Utah,UT,2,Lawrence Rey Topham,Independent,2.3,False,False,True
+1990,house,Utah,UT,2,Eleanor Garcia,Socialist Workers,0.3,False,False,True
 1990,house,Utah,UT,3,Bill Orton,Democratic,58.3,True,False,True
 1990,house,Utah,UT,3,Karl Snow,Republican,36.4,False,False,True
+1990,house,Utah,UT,3,Robert J. Smith,American Party (1969),4.8,False,False,True
+1990,house,Utah,UT,3,Anthony Dutrow,Socialist Workers,0.4,False,False,True
 1990,house,Vermont,VT,AL,Bernie Sanders,Independent,56.0,True,False,False
 1990,house,Vermont,VT,AL,Peter Plympton Smith,Republican,39.5,False,True,False
 1990,house,Vermont,VT,AL,Dolores Sandoval,Democratic,3.0,False,False,False
@@ -864,6 +937,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1990,house,Washington,WA,6,Norman Mueller,Republican,38.6,False,False,False
 1990,house,Washington,WA,7,Jim McDermott,Democratic,72.3,True,True,False
 1990,house,Washington,WA,7,Larry Penberthy,Republican,24.1,False,False,False
+1990,house,Washington,WA,7,Robbie Scherr,Socialist Workers,3.6,False,False,False
 1990,house,Washington,WA,8,Rod Chandler,Republican,56.2,True,True,False
 1990,house,Washington,WA,8,David Giles,Democratic,43.8,False,False,False
 1990,house,West Virginia,WV,1,Alan Mollohan,Democratic,67.1,True,True,False

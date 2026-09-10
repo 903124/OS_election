@@ -28,6 +28,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Arizona,AZ,5,Jim McNulty,Democratic,48.2,False,True,False
 1984,house,Arizona,AZ,5,Herb Johnson,Libertarian,0.9,False,False,False
 1984,house,Arkansas,AR,1,Bill Alexander,Democratic,97.2,True,True,False
+1984,house,Arkansas,AR,1,Pete Cochran,Unknown,2.8,False,False,False
 1984,house,Arkansas,AR,2,Tommy F. Robinson,Democratic,47.1,True,False,True
 1984,house,Arkansas,AR,2,Judy Petty,Republican,41.5,False,False,True
 1984,house,Arkansas,AR,2,Jim Taylor,Independent,11.4,False,False,True
@@ -44,6 +45,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,California,CA,5,Sala Burton,Democratic,72.3,True,True,False
 1984,house,California,CA,5,Tom Spinosa,Republican,23.8,False,False,False
 1984,house,California,CA,5,Joseph Fuhrig,Libertarian,2.1,False,False,False
+1984,house,California,CA,5,Henry Clark,Peace and Freedom,1.8,False,False,False
 1984,house,California,CA,6,Barbara Boxer,Democratic,68.0,True,True,False
 1984,house,California,CA,6,Douglas Binderup,Republican,29.7,False,False,False
 1984,house,California,CA,6,Howard C. Creighton,Libertarian,2.3,False,False,False
@@ -57,8 +59,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,California,CA,10,Don Edwards,Democratic,62.4,True,True,False
 1984,house,California,CA,10,Bob Herriott,Republican,34.3,False,False,False
 1984,house,California,CA,10,Perr Cardestam,Libertarian,1.7,False,False,False
+1984,house,California,CA,10,Edmon V. Kaiser,American Independent,1.6,False,False,False
 1984,house,California,CA,11,Tom Lantos,Democratic,69.9,True,True,False
 1984,house,California,CA,11,Jack Hickey,Republican,28.2,False,False,False
+1984,house,California,CA,11,Nicholas Kudrovzeff,American Independent,1.8,False,False,False
 1984,house,California,CA,12,Ed Zschau,Republican,61.7,True,True,False
 1984,house,California,CA,12,Martin Carnoy,Democratic,36.0,False,False,False
 1984,house,California,CA,12,Bill White,Libertarian,2.3,False,False,False
@@ -80,6 +84,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,California,CA,18,Dale L. Ewen,Republican,32.7,False,False,False
 1984,house,California,CA,19,Bob Lagomarsino,Republican,67.3,True,True,False
 1984,house,California,CA,19,James C. Carey Jr.,Democratic,30.9,False,False,False
+1984,house,California,CA,19,Charles John Zekan,Peace and Freedom,1.8,False,False,False
 1984,house,California,CA,20,Bill Thomas,Republican,70.9,True,True,False
 1984,house,California,CA,20,Michael T. LeSage,Democratic,29.1,False,False,False
 1984,house,California,CA,21,Bobbi Fiedler,Republican,72.3,True,True,False
@@ -92,6 +97,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,California,CA,23,Larry Leathers,Libertarian,1.6,False,False,False
 1984,house,California,CA,24,Henry Waxman,Democratic,63.4,True,True,False
 1984,house,California,CA,24,Jerry Zerg,Republican,33.2,False,False,False
+1984,house,California,CA,24,James Green,Peace and Freedom,1.8,False,False,False
 1984,house,California,CA,24,Tim Custer,Libertarian,1.6,False,False,False
 1984,house,California,CA,25,Edward R. Roybal,Democratic,71.7,True,True,False
 1984,house,California,CA,25,Bill Bloxom,Republican,24.1,False,False,False
@@ -100,6 +106,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,California,CA,26,Miriam Ojeda,Republican,37.2,False,False,False
 1984,house,California,CA,27,Mel Levine,Democratic,55.0,True,True,False
 1984,house,California,CA,27,Robert B. Scribner,Republican,41.8,False,False,False
+1984,house,California,CA,27,Thomas O'Connor,Peace and Freedom,1.8,False,False,False
 1984,house,California,CA,27,Jeff Avrech,Libertarian,1.5,False,False,False
 1984,house,California,CA,28,Julian Dixon,Democratic,75.6,True,True,False
 1984,house,California,CA,28,Beatrice M. Jett,Republican,22.4,False,False,False
@@ -108,32 +115,39 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,California,CA,29,Echo Y. Goto,Republican,13.4,False,False,False
 1984,house,California,CA,30,Matthew G. Martínez,Democratic,51.8,True,True,False
 1984,house,California,CA,30,Richard Gomez,Republican,43.4,False,False,False
+1984,house,California,CA,30,Houston A. Myers,American Independent,4.9,False,False,False
 1984,house,California,CA,31,Mervyn Dymally,Democratic,70.7,True,True,False
 1984,house,California,CA,31,Henry C. Minturn,Republican,29.3,False,False,False
 1984,house,California,CA,32,Glenn M. Anderson,Democratic,60.7,True,True,False
 1984,house,California,CA,32,Roger E. Fiola,Republican,36.6,False,False,False
 1984,house,California,CA,32,Marc F. Denny,Libertarian,1.5,False,False,False
+1984,house,California,CA,32,Patrick J. McCoy,Peace and Freedom,1.2,False,False,False
 1984,house,California,CA,33,David Dreier,Republican,70.6,True,True,False
 1984,house,California,CA,33,Claire K. McDonald,Democratic,26.0,False,False,False
 1984,house,California,CA,33,Gail Lightfoot,Libertarian,2.3,False,False,False
+1984,house,California,CA,33,Mike Noonan,Peace and Freedom,1.1,False,False,False
 1984,house,California,CA,34,Esteban Torres,Democratic,59.8,True,True,False
 1984,house,California,CA,34,Paul R. Jackson,Republican,40.2,False,False,False
 1984,house,California,CA,35,Jerry Lewis,Republican,85.5,True,True,False
+1984,house,California,CA,35,Kevin Akin,Peace and Freedom,14.5,False,False,False
 1984,house,California,CA,36,George Brown Jr.,Democratic,56.6,True,True,True
 1984,house,California,CA,36,John Paul Stark,Republican,43.4,False,False,True
 1984,house,California,CA,37,Al McCandless,Republican,63.6,True,True,False
 1984,house,California,CA,37,Dave Skinner,Democratic,36.4,False,False,False
 1984,house,California,CA,38,Bob Dornan,Republican,53.2,True,False,False
 1984,house,California,CA,38,Jerry M. Patterson,Democratic,45.0,False,True,False
+1984,house,California,CA,38,Michael S. Bright,Peace and Freedom,1.9,False,False,False
 1984,house,California,CA,39,Bill Dannemeyer,Republican,76.2,True,True,False
 1984,house,California,CA,39,Robert E. Ward,Democratic,23.8,False,False,False
 1984,house,California,CA,40,Robert Badham,Republican,64.4,True,True,False
 1984,house,California,CA,40,Carol Ann Bradford,Democratic,34.0,False,False,False
+1984,house,California,CA,40,Maxine Bell Quirk,Peace and Freedom,1.6,False,False,False
 1984,house,California,CA,41,Bill Lowery,Republican,63.5,True,True,False
 1984,house,California,CA,41,Bob Simmons,Democratic,33.7,False,False,False
 1984,house,California,CA,41,Sara Baase,Libertarian,2.9,False,False,False
 1984,house,California,CA,42,Dan Lungren,Republican,73.0,True,True,False
 1984,house,California,CA,42,Mary Lou Brophy,Democratic,24.6,False,False,False
+1984,house,California,CA,42,John S. Donohue,Peace and Freedom,2.4,False,False,False
 1984,house,California,CA,43,Ron Packard,Republican,74.1,True,True,False
 1984,house,California,CA,43,Lois E. Humphreys,Democratic,22.8,False,False,False
 1984,house,California,CA,43,Phyllis Avery,Libertarian,3.1,False,False,False
@@ -317,8 +331,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Iowa,IA,6,Darrel Resink,Republican,38.0,False,False,False
 1984,house,Kansas,KS,1,Pat Roberts,Republican,75.9,True,True,False
 1984,house,Kansas,KS,1,Darrel T. Ringer,Democratic,23.3,False,False,False
+1984,house,Kansas,KS,1,Clement Scoggin,Prohibition,0.9,False,False,False
 1984,house,Kansas,KS,2,Jim Slattery,Democratic,60.0,True,True,False
 1984,house,Kansas,KS,2,Jim Van Slyke,Republican,39.1,False,False,False
+1984,house,Kansas,KS,2,Ken Peterson,Prohibition,0.9,False,False,False
 1984,house,Kansas,KS,3,Jan Meyers,Republican,54.8,True,False,True
 1984,house,Kansas,KS,3,Jack Reardon,Democratic,39.9,False,False,True
 1984,house,Kansas,KS,3,John S. Ralph Jr.,Libertarian,5.3,False,False,True
@@ -326,11 +342,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Kansas,KS,4,William V. Krause,Republican,25.6,False,False,False
 1984,house,Kansas,KS,5,Bob Whittaker,Republican,73.5,True,True,False
 1984,house,Kansas,KS,5,John A. Barnes,Democratic,25.2,False,False,False
+1984,house,Kansas,KS,5,Vearl A. Bacon,Prohibition,1.2,False,False,False
 1984,house,Kentucky,KY,1,Carroll Hubbard,Democratic,100.0,True,True,False
 1984,house,Kentucky,KY,2,William Natcher,Democratic,62.1,True,True,False
 1984,house,Kentucky,KY,2,Timothy A. Morrison,Republican,37.9,False,False,False
 1984,house,Kentucky,KY,3,Ron Mazzoli,Democratic,67.7,True,True,False
 1984,house,Kentucky,KY,3,Suzanne M. Warner,Republican,31.7,False,False,False
+1984,house,Kentucky,KY,3,Peggy Kreiner,Socialist Workers,0.6,False,False,False
 1984,house,Kentucky,KY,4,Gene Snyder,Republican,53.7,True,True,False
 1984,house,Kentucky,KY,4,William Patrick Mulloy II,Democratic,46.3,False,False,False
 1984,house,Kentucky,KY,5,Hal Rogers,Republican,75.9,True,True,False
@@ -358,6 +376,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Maine,ME,1,Barry J. Hobbins,Democratic,36.5,False,False,False
 1984,house,Maine,ME,2,Olympia Snowe,Republican,75.7,True,True,False
 1984,house,Maine,ME,2,Chipman C. Bull,Democratic,22.6,False,False,False
+1984,house,Maine,ME,2,Kenneth E. Stoddard,Constitution,1.7,False,False,False
 1984,house,Maryland,MD,1,Roy Dyson,Democratic,58.4,True,True,False
 1984,house,Maryland,MD,1,Harlan C. Williams,Republican,41.6,False,False,False
 1984,house,Maryland,MD,2,Helen Delich Bentley,Republican,51.4,True,False,False
@@ -391,6 +410,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Massachusetts,MA,7,Ed Markey,Democratic,71.4,True,True,False
 1984,house,Massachusetts,MA,7,S. Lester Ralph,Republican,28.6,False,False,False
 1984,house,Massachusetts,MA,8,Tip O'Neill,Democratic,91.9,True,True,False
+1984,house,Massachusetts,MA,8,Laura Ross,Communist,8.1,False,False,False
 1984,house,Massachusetts,MA,9,Joe Moakley,Democratic,99.9,True,True,False
 1984,house,Massachusetts,MA,10,Gerry Studds,Democratic,55.7,True,True,False
 1984,house,Massachusetts,MA,10,Lewis Crampton,Republican,44.3,False,False,False
@@ -439,16 +459,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Michigan,MI,18,Vivian H. Smargon,Democratic,19.7,False,False,False
 1984,house,Michigan,MI,18,Timothy J. O'Brien,Libertarian,0.9,False,False,False
 1984,house,Minnesota,MN,1,Tim Penny,DFL,57.0,True,True,False
+1984,house,Minnesota,MN,1,Keith Spicer,Republican,43.0,False,False,False
 1984,house,Minnesota,MN,2,Vin Weber,Republican,63.1,True,True,False
 1984,house,Minnesota,MN,2,Todd Lundquist,DFL,36.9,False,False,False
 1984,house,Minnesota,MN,3,Bill Frenzel,Republican,73.2,True,True,False
 1984,house,Minnesota,MN,3,Dave Peterson,DFL,26.8,False,False,False
 1984,house,Minnesota,MN,4,Bruce Vento,DFL,73.5,True,True,False
+1984,house,Minnesota,MN,4,Mary Jane Rachner,Republican,25.2,False,False,False
+1984,house,Minnesota,MN,4,Peter Brandli,Socialist Workers,1.3,False,False,False
 1984,house,Minnesota,MN,5,Martin Olav Sabo,DFL,70.1,True,True,False
+1984,house,Minnesota,MN,5,Richard D. Weiblen,Republican,26.6,False,False,False
+1984,house,Minnesota,MN,5,Kathryn Anderson,Citizens,3.3,False,False,False
 1984,house,Minnesota,MN,6,Gerry Sikorski,DFL,60.5,True,True,False
+1984,house,Minnesota,MN,6,Patrick Trueman,Republican,39.5,False,False,False
 1984,house,Minnesota,MN,7,Arlan Stangeland,Republican,57.0,True,True,False
 1984,house,Minnesota,MN,7,Collin Peterson,DFL,43.0,False,False,False
 1984,house,Minnesota,MN,8,Jim Oberstar,DFL,67.2,True,True,False
+1984,house,Minnesota,MN,8,Dave Rued,Republican,32.1,False,False,False
+1984,house,Minnesota,MN,8,David Salner,Socialist Workers,0.6,False,False,False
 1984,house,Mississippi,MS,1,Jamie Whitten,Democratic,88.4,True,True,False
 1984,house,Mississippi,MS,1,John Hargett,Independent,11.6,False,False,False
 1984,house,Mississippi,MS,2,Webb Franklin,Republican,50.6,True,True,False
@@ -548,10 +576,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,New York,NY,2,Paul Aniboli,Republican,45.3,False,False,False
 1984,house,New York,NY,3,Robert J. Mrazek,Democratic,51.0,True,True,False
 1984,house,New York,NY,3,Robert P. Quinn,Republican,47.9,False,False,False
+1984,house,New York,NY,3,Elizabeth E. Capazzi,Right to Life,1.1,False,False,False
 1984,house,New York,NY,4,Norman F. Lent,Republican,68.9,True,True,False
 1984,house,New York,NY,4,Sheldon Engelhard,Democratic,29.2,False,False,False
+1984,house,New York,NY,4,John J. Dunkle,Right to Life,1.8,False,False,False
 1984,house,New York,NY,5,Ray McGrath,Republican,62.4,True,True,False
 1984,house,New York,NY,5,Michael D'Innocenzo,Democratic,35.3,False,False,False
+1984,house,New York,NY,5,Paul F. Callahan,Right to Life,1.6,False,False,False
+1984,house,New York,NY,5,Jack Olchin,Liberal Party (New York),0.7,False,False,False
 1984,house,New York,NY,6,Joseph P. Addabbo,Democratic,82.7,True,True,False
 1984,house,New York,NY,6,Philip J. Veltre,Republican,17.3,False,False,False
 1984,house,New York,NY,7,Gary Ackerman,Democratic,69.3,True,True,False
@@ -562,8 +594,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,New York,NY,9,Serphin R. Maltese,Republican,47.2,False,False,True
 1984,house,New York,NY,10,Chuck Schumer,Democratic,72.4,True,True,False
 1984,house,New York,NY,10,John H. Fox,Republican,26.3,False,False,False
+1984,house,New York,NY,10,Alfred F. Donohue Jr.,Right to Life,1.3,False,False,False
 1984,house,New York,NY,11,Edolphus Towns,Democratic,85.2,True,True,False
 1984,house,New York,NY,11,Nathaniel Hendricks,Republican,13.1,False,False,False
+1984,house,New York,NY,11,Alfred Hamel,Conservative Party (New York),1.6,False,False,False
 1984,house,New York,NY,12,Major Owens,Democratic,90.5,True,True,False
 1984,house,New York,NY,12,Joseph N. O. Caesar,Republican,9.5,False,False,False
 1984,house,New York,NY,13,Stephen Solarz,Democratic,65.9,True,True,False
@@ -573,19 +607,27 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,New York,NY,15,Bill Green,Republican,56.1,True,True,False
 1984,house,New York,NY,15,Andrew J. Stein,Democratic,43.9,False,False,False
 1984,house,New York,NY,16,Charles Rangel,Democratic,97.0,True,True,False
+1984,house,New York,NY,16,Michael T. Berns,Conservative,2.1,False,False,False
+1984,house,New York,NY,16,Nan Bailey,Socialist Workers,0.9,False,False,False
 1984,house,New York,NY,17,Ted Weiss,Democratic,81.5,True,True,False
 1984,house,New York,NY,17,Kenneth Katzman,Republican,16.7,False,False,False
+1984,house,New York,NY,17,Leonard Steinman,Conservative,1.8,False,False,False
 1984,house,New York,NY,18,Robert García,Democratic,89.2,True,True,False
 1984,house,New York,NY,18,Curtis Johnson,Republican,9.3,False,False,False
+1984,house,New York,NY,18,John W. Farrell,Conservative,1.5,False,False,False
 1984,house,New York,NY,19,Mario Biaggi,Democratic,94.8,True,True,False
+1984,house,New York,NY,19,Alice Farrell,Conservative,5.2,False,False,False
 1984,house,New York,NY,20,Joe DioGuardi,Republican,50.1,True,False,True
 1984,house,New York,NY,20,Oren J. Teicher,Democratic,48.2,False,False,True
+1984,house,New York,NY,20,Florence T. O'Grady,Right to Life,1.7,False,False,True
 1984,house,New York,NY,21,Hamilton Fish IV,Republican,78.3,True,True,False
 1984,house,New York,NY,21,Lawrence W. Grunberger,Democratic,21.7,False,False,False
 1984,house,New York,NY,22,Benjamin Gilman,Republican,68.5,True,True,False
 1984,house,New York,NY,22,Bruce M. Levine,Democratic,27.5,False,False,False
+1984,house,New York,NY,22,Robert De Maggio,Right to Life,3.9,False,False,False
 1984,house,New York,NY,23,Samuel S. Stratton,Democratic,77.8,True,True,False
 1984,house,New York,NY,23,Frank Wicks,Republican,21.9,False,False,False
+1984,house,New York,NY,23,Richard Ariza,Socialist Workers,0.3,False,False,False
 1984,house,New York,NY,24,Gerald Solomon,Republican,73.2,True,True,False
 1984,house,New York,NY,24,Edward James Bloch,Democratic,26.8,False,False,False
 1984,house,New York,NY,25,Sherwood Boehlert,Republican,72.8,True,True,False
@@ -596,8 +638,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,New York,NY,27,Thomas C. Buckel Jr.,Democratic,43.4,False,False,False
 1984,house,New York,NY,28,Matt McHugh,Democratic,56.6,True,True,False
 1984,house,New York,NY,28,Constance E. Cook,Republican,41.4,False,False,False
+1984,house,New York,NY,28,Mark R. Masterson,Right to Life,2.0,False,False,False
 1984,house,New York,NY,29,Frank Horton,Republican,69.6,True,True,False
 1984,house,New York,NY,29,James R. Toole,Democratic,24.3,False,False,False
+1984,house,New York,NY,29,James L. Hale,Conservative,4.0,False,False,False
+1984,house,New York,NY,29,Donald M. Peters,Right to Life,2.0,False,False,False
 1984,house,New York,NY,30,Fred J. Eckert,Republican,54.4,True,False,True
 1984,house,New York,NY,30,W. Douglas Call,Democratic,45.4,False,False,True
 1984,house,New York,NY,30,Erskine Nero,Independent,0.2,False,False,True
@@ -609,6 +654,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,New York,NY,33,David S. Lewandowski,Republican,22.4,False,False,False
 1984,house,New York,NY,34,Stan Lundine,Democratic,54.2,True,True,False
 1984,house,New York,NY,34,Jill Houghton Emery,Republican,44.5,False,False,False
+1984,house,New York,NY,34,Carol L. Fisher,Right to Life,1.3,False,False,False
 1984,house,North Carolina,NC,1,Walter B. Jones Sr.,Democratic,67.1,True,True,False
 1984,house,North Carolina,NC,1,Herbert W. Lee,Republican,32.9,False,False,False
 1984,house,North Carolina,NC,2,Tim Valentine,Democratic,67.7,True,True,False
@@ -621,6 +667,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,North Carolina,NC,5,Stuart Epperson,Republican,49.3,False,False,False
 1984,house,North Carolina,NC,6,Howard Coble,Republican,50.6,True,False,False
 1984,house,North Carolina,NC,6,Robin Britt,Democratic,49.3,False,True,False
+1984,house,North Carolina,NC,6,Meryl Lynn Farber,Socialist Workers,0.1,False,False,False
 1984,house,North Carolina,NC,7,Charlie Rose,Democratic,59.2,True,True,False
 1984,house,North Carolina,NC,7,S. Thomas Rhodes,Republican,40.8,False,False,False
 1984,house,North Carolina,NC,8,Bill Hefner,Democratic,50.9,True,True,False
@@ -707,6 +754,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Pennsylvania,PA,1,Carmine Di Biase,Republican,25.1,False,False,False
 1984,house,Pennsylvania,PA,2,William H. Gray III,Democratic,91.0,True,True,False
 1984,house,Pennsylvania,PA,2,Ronald J. Sharper,Republican,8.3,False,False,False
+1984,house,Pennsylvania,PA,2,Katherine L. Karlin,Socialist Workers,0.7,False,False,False
 1984,house,Pennsylvania,PA,3,Robert Borski,Democratic,63.9,True,True,False
 1984,house,Pennsylvania,PA,3,Flora L. Becker,Republican,35.7,False,False,False
 1984,house,Pennsylvania,PA,3,John J. Hughes,Independent,0.3,False,False,False
@@ -733,6 +781,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Pennsylvania,PA,14,William J. Coyne,Democratic,76.6,True,True,False
 1984,house,Pennsylvania,PA,14,John Robert Clark,Republican,19.9,False,False,False
 1984,house,Pennsylvania,PA,14,Richard Edward Caligiuri,Libertarian,3.1,False,False,False
+1984,house,Pennsylvania,PA,14,Alfred Duncan Jr.,Socialist Workers,0.3,False,False,False
 1984,house,Pennsylvania,PA,15,Donald L. Ritter,Republican,58.1,True,True,False
 1984,house,Pennsylvania,PA,15,Jane Wells-Schooley,Democratic,41.9,False,False,False
 1984,house,Pennsylvania,PA,16,Bob Walker,Republican,77.8,True,True,False
@@ -752,6 +801,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Pennsylvania,PA,21,Edward J. Hammer,Independent,0.4,False,False,False
 1984,house,Pennsylvania,PA,22,Austin Murphy,Democratic,79.0,True,True,False
 1984,house,Pennsylvania,PA,22,Nancy S. Pryor,Republican,20.4,False,False,False
+1984,house,Pennsylvania,PA,22,Clare M. Fraenzl,Socialist Workers,0.6,False,False,False
 1984,house,Pennsylvania,PA,23,William Clinger,Republican,51.6,True,True,False
 1984,house,Pennsylvania,PA,23,Bill Wachob,Democratic,48.4,False,False,False
 1984,house,Rhode Island,RI,1,Fernand St Germain,Democratic,68.5,True,True,False
@@ -874,6 +924,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Washington,WA,1,Brock Evans,Democratic,43.7,False,False,True
 1984,house,Washington,WA,2,Al Swift,Democratic,58.6,True,True,False
 1984,house,Washington,WA,2,Jim Klauder,Republican,38.6,False,False,False
+1984,house,Washington,WA,2,Gary Franco,Populist,2.8,False,False,False
 1984,house,Washington,WA,3,Don Bonker,Democratic,71.1,True,True,False
 1984,house,Washington,WA,3,Herb Elder,Republican,28.9,False,False,False
 1984,house,Washington,WA,4,Sid Morrison,Republican,76.1,True,True,False
@@ -885,6 +936,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Washington,WA,6,Dan Blachly,Libertarian,1.6,False,False,False
 1984,house,Washington,WA,7,Mike Lowry,Democratic,70.4,True,True,False
 1984,house,Washington,WA,7,Bob Dorse,Republican,28.9,False,False,False
+1984,house,Washington,WA,7,Mark Manning,Socialist Workers,0.7,False,False,False
 1984,house,Washington,WA,8,Rod Chandler,Republican,62.4,True,True,False
 1984,house,Washington,WA,8,Bob Lamson,Democratic,37.6,False,False,False
 1984,house,West Virginia,WV,1,Alan Mollohan,Democratic,54.4,True,True,False
@@ -903,7 +955,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Wisconsin,WI,3,Charles F. Dahl,Democratic,31.6,False,False,False
 1984,house,Wisconsin,WI,4,Jerry Kleczka,Democratic,66.6,True,True,False
 1984,house,Wisconsin,WI,4,Robert V. Nolan,Republican,32.8,False,False,False
+1984,house,Wisconsin,WI,4,K. Rick Kissell,Labor,0.6,False,False,False
 1984,house,Wisconsin,WI,5,Jim Moody,Democratic,98.1,True,True,False
+1984,house,Wisconsin,WI,5,William C. Breihan,Socialist Workers,1.9,False,False,False
 1984,house,Wisconsin,WI,6,Tom Petri,Republican,75.8,True,True,False
 1984,house,Wisconsin,WI,6,David L. Iaquinta,Democratic,24.2,False,False,False
 1984,house,Wisconsin,WI,7,Dave Obey,Democratic,61.2,True,True,False
@@ -911,8 +965,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1984,house,Wisconsin,WI,8,Toby Roth,Republican,67.9,True,True,False
 1984,house,Wisconsin,WI,8,Paul Willems,Democratic,30.8,False,False,False
 1984,house,Wisconsin,WI,8,Gary L. Barnes,Libertarian,0.8,False,False,False
+1984,house,Wisconsin,WI,8,Cornelius D. Van Handel,Labor,0.4,False,False,False
 1984,house,Wisconsin,WI,9,Jim Sensenbrenner,Republican,73.4,True,True,False
 1984,house,Wisconsin,WI,9,John Krause,Democratic,26.1,False,False,False
+1984,house,Wisconsin,WI,9,Stephen K. Hauser,Constitution,0.5,False,False,False
 1984,house,Wyoming,WY,AL,Dick Cheney,Republican,73.6,True,True,False
 1984,house,Wyoming,WY,AL,Hugh B. McFadden Jr.,Democratic,24.4,False,False,False
 1984,house,Wyoming,WY,AL,Craig Alan McCune,Libertarian,2.0,False,False,False

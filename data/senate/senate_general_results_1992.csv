@@ -23,7 +23,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,California,1992 U.S. Senate election in California,General,Candidate,False,Libertarian Party (United States),June R. Genis,"235,919",2.18%
 1992,California,1992 U.S. Senate election in California,General,Total,False,,,"10,799,647",100.00
 1992,California (special),1992 United States Senate special election in California,General,Winning,False,Democratic Party (US),Dianne Feinstein,"5,853,651",54.29%
-1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Republican Party (US),John Seymour,"4,093,501",37.96%
+1992,California (special),1992 United States Senate special election in California,General,Candidate,True,Republican Party (US),John Seymour,"4,093,501",37.96%
 1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Peace and Freedom Party (US),Gerald Horne,"305,697",2.84%
 1992,California (special),1992 United States Senate special election in California,General,Candidate,False,American Independent Party,Paul Meeuwenberg,"281,973",2.62%
 1992,California (special),1992 United States Senate special election in California,General,Candidate,False,Libertarian Party (US),Richard Benjamin Boddie,"247,799",2.30%
@@ -140,7 +140,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1992,Pennsylvania,1992 U.S. Senate election in Pennsylvania,General,Candidate,False,Democratic Party (United States),Lynn Yeakel,"2,224,966",46.33%
 1992,Pennsylvania,1992 U.S. Senate election in Pennsylvania,General,Candidate,False,Libertarian Party (United States),John Perry,"219,319",4.57%
 1992,Pennsylvania,1992 U.S. Senate election in Pennsylvania,General,Total,False,,,"4,822,410",100.00%
-1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Winning,False,Democratic Party (United States),Ernest Hollings,"591,030",50.1%
+1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Winning,True,Democratic Party (United States),Ernest Hollings,"591,030",50.1%
 1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Candidate,False,Republican Party (United States),Thomas F. Hartnett,"554,175",46.9%
 1992,South Carolina,"South Carolina U.S. Senate election, 1992",General,Candidate,False,Libertarian Party (United States),Mark Johnson,"16,987",1.9%
 1992,South Dakota,General election results,General,Winning,True,Democratic Party (United States),Tom Daschle,"217,095",64.90%

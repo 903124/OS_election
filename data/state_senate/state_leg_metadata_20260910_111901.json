@@ -1,0 +1,3736 @@
+{
+  "years": {
+    "1970": {
+      "error": "overview missing"
+    },
+    "1972": {
+      "error": "overview missing"
+    },
+    "1974": {
+      "error": "overview missing"
+    },
+    "1976": {
+      "error": "overview missing"
+    },
+    "1978": {
+      "error": "overview missing"
+    },
+    "1980": {
+      "error": "overview missing"
+    },
+    "1982": {
+      "error": "overview missing"
+    },
+    "1984": {
+      "error": "overview missing"
+    },
+    "1986": {
+      "error": "overview missing"
+    },
+    "1988": {
+      "error": "overview missing"
+    },
+    "1990": {
+      "error": "overview missing"
+    },
+    "1992": {
+      "error": "overview missing"
+    },
+    "1994": {
+      "error": "overview missing"
+    },
+    "1996": {
+      "error": "overview missing"
+    },
+    "1998": {
+      "senate": {},
+      "house": {},
+      "missing": []
+    },
+    "2000": {
+      "senate": {
+        "2000 Arizona Senate election": {
+          "rows": 57,
+          "districts": 30
+        },
+        "2000 California State Senate election": {
+          "rows": 63,
+          "districts": 20
+        },
+        "2000 Delaware Senate election": {
+          "rows": 19,
+          "districts": 11
+        },
+        "2000 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 Iowa Senate election": {
+          "rows": 47,
+          "districts": 25
+        },
+        "2000 Minnesota Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 New Mexico Senate election": {
+          "rows": 68,
+          "districts": 42
+        },
+        "2000 North Carolina Senate election": {
+          "rows": 90,
+          "districts": 42
+        },
+        "2000 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 West Virginia Senate election": {
+          "rows": 28,
+          "districts": 16
+        },
+        "2000 Wisconsin Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 Wyoming Senate election": {
+          "rows": 24,
+          "districts": 15
+        }
+      },
+      "house": {
+        "2000 Arizona House of Representatives election": {
+          "rows": 101,
+          "districts": 30
+        },
+        "2000 California State Assembly election": {
+          "rows": 236,
+          "districts": 80
+        },
+        "2000 Delaware House of Representatives election": {
+          "rows": 66,
+          "districts": 41
+        },
+        "2000 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 Michigan House of Representatives election": {
+          "rows": 270,
+          "districts": 110
+        },
+        "2000 Minnesota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 North Carolina House of Representatives election": {
+          "rows": 212,
+          "districts": 98
+        },
+        "2000 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2000 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2000 Alaska Senate election",
+        "2000 Arkansas State Senate election",
+        "2000 Colorado Senate election",
+        "2000 Connecticut State Senate election",
+        "2000 Florida Senate election",
+        "2000 Georgia State Senate election",
+        "2000 Hawaii Senate election",
+        "2000 Idaho Senate election",
+        "2000 Indiana State Senate election",
+        "2000 Kansas Senate election",
+        "2000 Kentucky Senate election",
+        "2000 Maine State Senate election",
+        "2000 Massachusetts Senate election",
+        "2000 Missouri State Senate election",
+        "2000 Montana Senate election",
+        "2000 Nevada State Senate election",
+        "2000 New Hampshire Senate election",
+        "2000 New York State Senate election",
+        "2000 North Dakota Senate election",
+        "2000 Ohio Senate election",
+        "2000 Oklahoma Senate election",
+        "2000 Oregon State Senate election",
+        "2000 Rhode Island Senate election",
+        "2000 South Carolina State Senate election",
+        "2000 South Dakota Senate election",
+        "2000 Tennessee Senate election",
+        "2000 Utah Senate election",
+        "2000 Vermont Senate election",
+        "2000 Washington State Senate election",
+        "2000 Puerto Rico Senate election",
+        "2000 Alaska House of Representatives election",
+        "2000 Arkansas House of Representatives election",
+        "2000 Colorado House of Representatives election",
+        "2000 Connecticut House of Representatives election",
+        "2000 Florida House of Representatives election",
+        "2000 Georgia House of Representatives election",
+        "2000 Hawaii House of Representatives election",
+        "2000 Idaho House of Representatives election",
+        "2000 Indiana House of Representatives election",
+        "2000 Iowa House of Representatives election",
+        "2000 Kansas House of Representatives election",
+        "2000 Kentucky House of Representatives election",
+        "2000 Maine House of Representatives election",
+        "2000 Massachusetts House of Representatives election",
+        "2000 Missouri House of Representatives election",
+        "2000 Nevada Assembly election",
+        "2000 New Hampshire House of Representatives election",
+        "2000 New Mexico House of Representatives election",
+        "2000 New York State Assembly election",
+        "2000 North Dakota House of Representatives election",
+        "2000 Ohio House of Representatives election",
+        "2000 Oklahoma House of Representatives election",
+        "2000 Oregon House of Representatives election",
+        "2000 Rhode Island House of Representatives election",
+        "2000 South Carolina House of Representatives election",
+        "2000 South Dakota House of Representatives election",
+        "2000 Tennessee House of Representatives election",
+        "2000 Utah House of Representatives election",
+        "2000 Vermont House of Representatives election",
+        "2000 Washington House of Representatives election",
+        "2000 West Virginia House of Delegates election",
+        "2000 Wisconsin State Assembly election",
+        "2000 Wyoming House of Representatives election",
+        "2000 Puerto Rico House of Representatives election"
+      ]
+    },
+    "2002": {
+      "senate": {
+        "2002 Alabama Senate election": {
+          "rows": 64,
+          "districts": 35
+        },
+        "2002 Arizona Senate election": {
+          "rows": 52,
+          "districts": 30
+        },
+        "2002 California State Senate election": {
+          "rows": 46,
+          "districts": 20
+        },
+        "2002 Connecticut Senate election": {
+          "rows": 74,
+          "districts": 36
+        },
+        "2002 Delaware Senate election": {
+          "rows": 36,
+          "districts": 21
+        },
+        "2002 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 Iowa Senate election": {
+          "rows": 69,
+          "districts": 35
+        },
+        "2002 Maryland Senate election": {
+          "rows": 78,
+          "districts": 47
+        },
+        "2002 Michigan Senate election": {
+          "rows": 88,
+          "districts": 38
+        },
+        "2002 Minnesota Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 North Carolina Senate election": {
+          "rows": 118,
+          "districts": 50
+        },
+        "2002 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 Tennessee Senate election": {
+          "rows": 32,
+          "districts": 17
+        },
+        "2002 Texas Senate election": {
+          "rows": 6,
+          "districts": 2
+        },
+        "2002 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 West Virginia Senate election": {
+          "rows": 31,
+          "districts": 17
+        },
+        "2002 Wisconsin Senate election": {
+          "rows": 30,
+          "districts": 17
+        },
+        "2002 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2002 Arizona House of Representatives election": {
+          "rows": 98,
+          "districts": 30
+        },
+        "2002 California State Assembly election": {
+          "rows": 195,
+          "districts": 80
+        },
+        "2002 Delaware House of Representatives election": {
+          "rows": 72,
+          "districts": 41
+        },
+        "2002 Georgia House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 Maryland House of Delegates election": {
+          "rows": 243,
+          "districts": 65
+        },
+        "2002 Michigan House of Representatives election": {
+          "rows": 252,
+          "districts": 110
+        },
+        "2002 Minnesota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 North Carolina House of Representatives election": {
+          "rows": 243,
+          "districts": 120
+        },
+        "2002 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2002 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2002 Alaska Senate election",
+        "2002 Arkansas State Senate election",
+        "2002 Colorado Senate election",
+        "2002 Florida Senate election",
+        "2002 Georgia State Senate election",
+        "2002 Hawaii Senate election",
+        "2002 Idaho Senate election",
+        "2002 Indiana State Senate election",
+        "2002 Kentucky Senate election",
+        "2002 Maine State Senate election",
+        "2002 Massachusetts Senate election",
+        "2002 Missouri State Senate election",
+        "2002 Montana Senate election",
+        "2002 Nevada State Senate election",
+        "2002 New Hampshire Senate election",
+        "2002 New York State Senate election",
+        "2002 North Dakota Senate election",
+        "2002 Ohio Senate election",
+        "2002 Oklahoma Senate election",
+        "2002 Oregon State Senate election",
+        "2002 Rhode Island Senate election",
+        "2002 South Dakota Senate election",
+        "2002 Utah Senate election",
+        "2002 Vermont Senate election",
+        "2002 Alabama House of Representatives election",
+        "2002 Alaska House of Representatives election",
+        "2002 Arkansas House of Representatives election",
+        "2002 Colorado House of Representatives election",
+        "2002 Connecticut House of Representatives election",
+        "2002 Florida House of Representatives election",
+        "2002 Hawaii House of Representatives election",
+        "2002 Idaho House of Representatives election",
+        "2002 Indiana House of Representatives election",
+        "2002 Iowa House of Representatives election",
+        "2002 Kansas House of Representatives election",
+        "2002 Kentucky House of Representatives election",
+        "2002 Maine House of Representatives election",
+        "2002 Massachusetts House of Representatives election",
+        "2002 Missouri House of Representatives election",
+        "2002 Nevada Assembly election",
+        "2002 New Hampshire House of Representatives election",
+        "2002 New Mexico House of Representatives election",
+        "2002 New York State Assembly election",
+        "2002 North Dakota House of Representatives election",
+        "2002 Ohio House of Representatives election",
+        "2002 Oklahoma House of Representatives election",
+        "2002 Oregon House of Representatives election",
+        "2002 Rhode Island House of Representatives election",
+        "2002 South Carolina House of Representatives election",
+        "2002 South Dakota House of Representatives election",
+        "2002 Tennessee House of Representatives election",
+        "2002 Utah House of Representatives election",
+        "2002 Vermont House of Representatives election",
+        "2002 Washington House of Representatives election",
+        "2002 West Virginia House of Delegates election",
+        "2002 Wisconsin State Assembly election",
+        "2002 Wyoming House of Representatives election"
+      ]
+    },
+    "2004": {
+      "senate": {
+        "2004 Arizona Senate election": {
+          "rows": 50,
+          "districts": 30
+        },
+        "2004 California State Senate election": {
+          "rows": 53,
+          "districts": 20
+        },
+        "2004 Connecticut State Senate election": {
+          "rows": 84,
+          "districts": 36
+        },
+        "2004 Delaware Senate election": {
+          "rows": 16,
+          "districts": 10
+        },
+        "2004 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 Iowa Senate election": {
+          "rows": 44,
+          "districts": 25
+        },
+        "2004 Kentucky Senate election": {
+          "rows": 35,
+          "districts": 20
+        },
+        "2004 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 New Mexico Senate election": {
+          "rows": 61,
+          "districts": 42
+        },
+        "2004 North Carolina Senate election": {
+          "rows": 97,
+          "districts": 50
+        },
+        "2004 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 West Virginia Senate election": {
+          "rows": 35,
+          "districts": 17
+        },
+        "2004 Wisconsin Senate election": {
+          "rows": 26,
+          "districts": 16
+        },
+        "2004 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2004 Arizona House of Representatives election": {
+          "rows": 100,
+          "districts": 30
+        },
+        "2004 California State Assembly election": {
+          "rows": 199,
+          "districts": 80
+        },
+        "2004 Delaware House of Representatives election": {
+          "rows": 66,
+          "districts": 41
+        },
+        "2004 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 Kentucky House of Representatives election": {
+          "rows": 152,
+          "districts": 100
+        },
+        "2004 Michigan House of Representatives election": {
+          "rows": 257,
+          "districts": 110
+        },
+        "2004 Minnesota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 North Carolina House of Representatives election": {
+          "rows": 194,
+          "districts": 120
+        },
+        "2004 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2004 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2004 Alaska Senate election",
+        "2004 Arkansas State Senate election",
+        "2004 Colorado Senate election",
+        "2004 Florida Senate election",
+        "2004 Georgia State Senate election",
+        "2004 Hawaii Senate election",
+        "2004 Idaho Senate election",
+        "2004 Indiana State Senate election",
+        "2004 Kansas Senate election",
+        "2004 Maine State Senate election",
+        "2004 Missouri State Senate election",
+        "2004 Montana Senate election",
+        "2004 Nevada State Senate election",
+        "2004 New York State Senate election",
+        "2004 North Dakota Senate election",
+        "2004 Ohio Senate election",
+        "2004 Oklahoma Senate election",
+        "2004 Oregon State Senate election",
+        "2004 Rhode Island Senate election",
+        "2004 South Dakota Senate election",
+        "2004 Tennessee Senate election",
+        "2004 Utah Senate election",
+        "2004 Vermont Senate election",
+        "2004 Puerto Rico Senate election",
+        "2004 Alaska House of Representatives election",
+        "2004 Arkansas House of Representatives election",
+        "2004 Colorado House of Representatives election",
+        "2004 Connecticut House of Representatives election",
+        "2004 Florida House of Representatives election",
+        "2004 Georgia House of Representatives election",
+        "2004 Hawaii House of Representatives election",
+        "2004 Idaho House of Representatives election",
+        "2004 Indiana House of Representatives election",
+        "2004 Iowa House of Representatives election",
+        "2004 Kansas House of Representatives election",
+        "2004 Maine House of Representatives election",
+        "2004 Massachusetts House of Representatives election",
+        "2004 Missouri House of Representatives election",
+        "2004 Nevada Assembly election",
+        "2004 New Mexico House of Representatives election",
+        "2004 New York State Assembly election",
+        "2004 North Dakota House of Representatives election",
+        "2004 Ohio House of Representatives election",
+        "2004 Oklahoma House of Representatives election",
+        "2004 Oregon House of Representatives election",
+        "2004 Rhode Island House of Representatives election",
+        "2004 South Carolina House of Representatives election",
+        "2004 South Dakota House of Representatives election",
+        "2004 Tennessee House of Representatives election",
+        "2004 Utah House of Representatives election",
+        "2004 Vermont House of Representatives election",
+        "2004 Washington House of Representatives election",
+        "2004 West Virginia House of Delegates election",
+        "2004 Wisconsin State Assembly election",
+        "2004 Wyoming House of Representatives election",
+        "2004 Puerto Rico House of Representatives election"
+      ]
+    },
+    "2006": {
+      "senate": {
+        "2006 Alabama Senate election": {
+          "rows": 58,
+          "districts": 35
+        },
+        "2006 Arizona Senate election": {
+          "rows": 57,
+          "districts": 30
+        },
+        "2006 California State Senate election": {
+          "rows": 48,
+          "districts": 20
+        },
+        "2006 Connecticut State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Delaware Senate election": {
+          "rows": 19,
+          "districts": 11
+        },
+        "2006 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Iowa Senate election": {
+          "rows": 44,
+          "districts": 25
+        },
+        "2006 Kentucky Senate election": {
+          "rows": 31,
+          "districts": 20
+        },
+        "2006 Maryland Senate election": {
+          "rows": 80,
+          "districts": 47
+        },
+        "2006 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Michigan Senate election": {
+          "rows": 94,
+          "districts": 38
+        },
+        "2006 Minnesota Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 New York State Senate election": {
+          "rows": 115,
+          "districts": 62
+        },
+        "2006 North Carolina Senate election": {
+          "rows": 78,
+          "districts": 50
+        },
+        "2006 Oklahoma Senate election": {
+          "rows": 39,
+          "districts": 24
+        },
+        "2006 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Texas Senate election": {
+          "rows": 32,
+          "districts": 16
+        },
+        "2006 Washington State Senate election": {
+          "rows": 32,
+          "districts": 16
+        },
+        "2006 West Virginia Senate election": {
+          "rows": 29,
+          "districts": 17
+        },
+        "2006 Wisconsin Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2006 Arizona House of Representatives election": {
+          "rows": 101,
+          "districts": 30
+        },
+        "2006 California State Assembly election": {
+          "rows": 190,
+          "districts": 80
+        },
+        "2006 Delaware House of Representatives election": {
+          "rows": 68,
+          "districts": 41
+        },
+        "2006 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Iowa House of Representatives election": {
+          "rows": 168,
+          "districts": 100
+        },
+        "2006 Maryland House of Delegates election": {
+          "rows": 246,
+          "districts": 65
+        },
+        "2006 Massachusetts House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Michigan House of Representatives election": {
+          "rows": 246,
+          "districts": 110
+        },
+        "2006 Minnesota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 New Mexico House of Representatives election": {
+          "rows": 100,
+          "districts": 69
+        },
+        "2006 New York State Assembly election": {
+          "rows": 274,
+          "districts": 150
+        },
+        "2006 North Carolina House of Representatives election": {
+          "rows": 178,
+          "districts": 120
+        },
+        "2006 Oklahoma House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Tennessee House of Representatives election": {
+          "rows": 158,
+          "districts": 99
+        },
+        "2006 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2006 Washington House of Representatives election": {
+          "rows": 14,
+          "districts": 4
+        }
+      },
+      "missing": [
+        "2006 Alaska Senate election",
+        "2006 Arkansas State Senate election",
+        "2006 Colorado Senate election",
+        "2006 Florida Senate election",
+        "2006 Georgia State Senate election",
+        "2006 Hawaii Senate election",
+        "2006 Indiana State Senate election",
+        "2006 Maine State Senate election",
+        "2006 Missouri State Senate election",
+        "2006 Montana Senate election",
+        "2006 Nevada State Senate election",
+        "2006 New Hampshire Senate election",
+        "2006 North Dakota Senate election",
+        "2006 Ohio Senate election",
+        "2006 Oregon State Senate election",
+        "2006 Rhode Island Senate election",
+        "2006 South Dakota Senate election",
+        "2006 Tennessee Senate election",
+        "2006 Utah Senate election",
+        "2006 Vermont Senate election",
+        "2006 Alabama House of Representatives election",
+        "2006 Alaska House of Representatives election",
+        "2006 Arkansas House of Representatives election",
+        "2006 Colorado House of Representatives election",
+        "2006 Connecticut House of Representatives election",
+        "2006 Florida House of Representatives election",
+        "2006 Georgia House of Representatives election",
+        "2006 Hawaii House of Representatives election",
+        "2006 Indiana House of Representatives election",
+        "2006 Kansas House of Representatives election",
+        "2006 Kentucky House of Representatives election",
+        "2006 Maine House of Representatives election",
+        "2006 Missouri House of Representatives election",
+        "2006 Nevada Assembly election",
+        "2006 New Hampshire House of Representatives election",
+        "2006 North Dakota House of Representatives election",
+        "2006 Ohio House of Representatives election",
+        "2006 Oregon House of Representatives election",
+        "2006 Rhode Island House of Representatives election",
+        "2006 South Carolina House of Representatives election",
+        "2006 South Dakota House of Representatives election",
+        "2006 Utah House of Representatives election",
+        "2006 Vermont House of Representatives election",
+        "2006 West Virginia House of Delegates election",
+        "2006 Wisconsin State Assembly election",
+        "2006 Wyoming House of Representatives election"
+      ]
+    },
+    "2008": {
+      "senate": {
+        "2008 Arizona Senate election": {
+          "rows": 55,
+          "districts": 30
+        },
+        "2008 California State Senate election": {
+          "rows": 48,
+          "districts": 20
+        },
+        "2008 Connecticut State Senate election": {
+          "rows": 36,
+          "districts": 36
+        },
+        "2008 Delaware Senate election": {
+          "rows": 16,
+          "districts": 10
+        },
+        "2008 Georgia State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Illinois Senate election": {
+          "rows": 63,
+          "districts": 39
+        },
+        "2008 Iowa Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Kentucky Senate election": {
+          "rows": 33,
+          "districts": 20
+        },
+        "2008 Massachusetts Senate election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2008 New Mexico Senate election": {
+          "rows": 55,
+          "districts": 42
+        },
+        "2008 North Carolina Senate election": {
+          "rows": 87,
+          "districts": 50
+        },
+        "2008 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 South Carolina Senate election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2008 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Washington State Senate election": {
+          "rows": 45,
+          "districts": 26
+        },
+        "2008 West Virginia Senate election": {
+          "rows": 31,
+          "districts": 17
+        },
+        "2008 Wisconsin Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2008 Arizona House of Representatives election": {
+          "rows": 104,
+          "districts": 30
+        },
+        "2008 California State Assembly election": {
+          "rows": 173,
+          "districts": 80
+        },
+        "2008 Delaware House of Representatives election": {
+          "rows": 74,
+          "districts": 41
+        },
+        "2008 Georgia House of Representatives election": {
+          "rows": 8,
+          "districts": 3
+        },
+        "2008 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Iowa House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Massachusetts House of Representatives election": {
+          "rows": 1,
+          "districts": 1
+        },
+        "2008 Michigan House of Representatives election": {
+          "rows": 262,
+          "districts": 110
+        },
+        "2008 Minnesota House of Representatives election": {
+          "rows": 83,
+          "districts": 36
+        },
+        "2008 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 New Mexico House of Representatives election": {
+          "rows": 103,
+          "districts": 70
+        },
+        "2008 North Carolina House of Representatives election": {
+          "rows": 194,
+          "districts": 120
+        },
+        "2008 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Washington House of Representatives election": {
+          "rows": 179,
+          "districts": 49
+        },
+        "2008 West Virginia House of Delegates election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2008 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2008 Alaska Senate election",
+        "2008 Arkansas State Senate election",
+        "2008 Colorado Senate election",
+        "2008 Florida Senate election",
+        "2008 Hawaii Senate election",
+        "2008 Idaho Senate election",
+        "2008 Indiana State Senate election",
+        "2008 Kansas Senate election",
+        "2008 Maine State Senate election",
+        "2008 Missouri State Senate election",
+        "2008 Montana Senate election",
+        "2008 Nevada State Senate election",
+        "2008 New Hampshire Senate election",
+        "2008 North Dakota Senate election",
+        "2008 Ohio Senate election",
+        "2008 Oklahoma Senate election",
+        "2008 Rhode Island Senate election",
+        "2008 South Dakota Senate election",
+        "2008 Tennessee Senate election",
+        "2008 Utah Senate election",
+        "2008 Vermont Senate election",
+        "2008 Puerto Rico Senate election",
+        "2008 Alaska House of Representatives election",
+        "2008 Arkansas House of Representatives election",
+        "2008 Colorado House of Representatives election",
+        "2008 Connecticut House of Representatives election",
+        "2008 Florida House of Representatives election",
+        "2008 Hawaii House of Representatives election",
+        "2008 Idaho House of Representatives election",
+        "2008 Indiana House of Representatives election",
+        "2008 Kansas House of Representatives election",
+        "2008 Kentucky House of Representatives election",
+        "2008 Maine House of Representatives election",
+        "2008 Missouri House of Representatives election",
+        "2008 Nevada Assembly election",
+        "2008 New Hampshire House of Representatives election",
+        "2008 North Dakota House of Representatives election",
+        "2008 Ohio House of Representatives election",
+        "2008 Oklahoma House of Representatives election",
+        "2008 Rhode Island House of Representatives election",
+        "2008 South Carolina House of Representatives election",
+        "2008 South Dakota House of Representatives election",
+        "2008 Tennessee House of Representatives election",
+        "2008 Utah House of Representatives election",
+        "2008 Vermont House of Representatives election",
+        "2008 Wyoming House of Representatives election",
+        "2008 Puerto Rico House of Representatives election"
+      ]
+    },
+    "2010": {
+      "senate": {
+        "2010 Alabama Senate election": {
+          "rows": 57,
+          "districts": 35
+        },
+        "2010 Arizona Senate election": {
+          "rows": 61,
+          "districts": 30
+        },
+        "2010 California State Senate election": {
+          "rows": 49,
+          "districts": 20
+        },
+        "2010 Connecticut State Senate election": {
+          "rows": 36,
+          "districts": 36
+        },
+        "2010 Delaware Senate election": {
+          "rows": 17,
+          "districts": 11
+        },
+        "2010 Georgia State Senate election": {
+          "rows": 56,
+          "districts": 56
+        },
+        "2010 Hawaii Senate election": {
+          "rows": 29,
+          "districts": 15
+        },
+        "2010 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Iowa Senate election": {
+          "rows": 44,
+          "districts": 25
+        },
+        "2010 Kentucky Senate election": {
+          "rows": 43,
+          "districts": 19
+        },
+        "2010 Maryland Senate election": {
+          "rows": 74,
+          "districts": 46
+        },
+        "2010 Massachusetts Senate election": {
+          "rows": 8,
+          "districts": 6
+        },
+        "2010 Michigan Senate election": {
+          "rows": 103,
+          "districts": 38
+        },
+        "2010 Minnesota Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Missouri Senate election": {
+          "rows": 31,
+          "districts": 17
+        },
+        "2010 New York State Senate election": {
+          "rows": 128,
+          "districts": 62
+        },
+        "2010 North Carolina Senate election": {
+          "rows": 92,
+          "districts": 50
+        },
+        "2010 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 West Virginia Senate election": {
+          "rows": 33,
+          "districts": 16
+        },
+        "2010 Wisconsin Senate election": {
+          "rows": 13,
+          "districts": 7
+        },
+        "2010 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2010 Alabama House of Representatives election": {
+          "rows": 155,
+          "districts": 105
+        },
+        "2010 Arizona House of Representatives election": {
+          "rows": 107,
+          "districts": 30
+        },
+        "2010 California State Assembly election": {
+          "rows": 185,
+          "districts": 80
+        },
+        "2010 Connecticut House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Delaware House of Representatives election": {
+          "rows": 78,
+          "districts": 41
+        },
+        "2010 Georgia House of Representatives election": {
+          "rows": 180,
+          "districts": 180
+        },
+        "2010 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Iowa House of Representatives election": {
+          "rows": 174,
+          "districts": 100
+        },
+        "2010 Maryland House of Delegates election": {
+          "rows": 252,
+          "districts": 65
+        },
+        "2010 Michigan House of Representatives election": {
+          "rows": 238,
+          "districts": 110
+        },
+        "2010 Minnesota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Missouri House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 New Mexico House of Representatives election": {
+          "rows": 107,
+          "districts": 70
+        },
+        "2010 New York State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 North Carolina House of Representatives election": {
+          "rows": 201,
+          "districts": 120
+        },
+        "2010 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Washington House of Representatives election": {
+          "rows": 177,
+          "districts": 49
+        },
+        "2010 West Virginia House of Delegates election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2010 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2010 Alaska Senate election",
+        "2010 Arkansas State Senate election",
+        "2010 Colorado Senate election",
+        "2010 Florida Senate election",
+        "2010 Idaho Senate election",
+        "2010 Indiana State Senate election",
+        "2010 Maine State Senate election",
+        "2010 Montana Senate election",
+        "2010 Nevada State Senate election",
+        "2010 New Hampshire Senate election",
+        "2010 North Dakota Senate election",
+        "2010 Ohio Senate election",
+        "2010 Oklahoma Senate election",
+        "2010 Rhode Island Senate election",
+        "2010 South Dakota Senate election",
+        "2010 Tennessee Senate election",
+        "2010 Utah Senate election",
+        "2010 Vermont Senate election",
+        "2010 Alaska House of Representatives election",
+        "2010 Arkansas House of Representatives election",
+        "2010 Colorado House of Representatives election",
+        "2010 Florida House of Representatives election",
+        "2010 Hawaii House of Representatives election",
+        "2010 Idaho House of Representatives election",
+        "2010 Indiana House of Representatives election",
+        "2010 Kansas House of Representatives election",
+        "2010 Kentucky House of Representatives election",
+        "2010 Maine House of Representatives election",
+        "2010 Massachusetts House of Representatives election",
+        "2010 Nevada Assembly election",
+        "2010 New Hampshire House of Representatives election",
+        "2010 North Dakota House of Representatives election",
+        "2010 Ohio House of Representatives election",
+        "2010 Oklahoma House of Representatives election",
+        "2010 Rhode Island House of Representatives election",
+        "2010 South Carolina House of Representatives election",
+        "2010 South Dakota House of Representatives election",
+        "2010 Tennessee House of Representatives election",
+        "2010 Utah House of Representatives election",
+        "2010 Vermont House of Representatives election",
+        "2010 Wyoming House of Representatives election"
+      ]
+    },
+    "2012": {
+      "senate": {
+        "2012 Alaska Senate election": {
+          "rows": 35,
+          "districts": 1
+        },
+        "2012 Arizona Senate election": {
+          "rows": 56,
+          "districts": 30
+        },
+        "2012 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Colorado Senate election": {
+          "rows": 53,
+          "districts": 20
+        },
+        "2012 Connecticut State Senate election": {
+          "rows": 16,
+          "districts": 8
+        },
+        "2012 Delaware Senate election": {
+          "rows": 41,
+          "districts": 21
+        },
+        "2012 Florida Senate election": {
+          "rows": 73,
+          "districts": 40
+        },
+        "2012 Hawaii Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Iowa Senate election": {
+          "rows": 51,
+          "districts": 26
+        },
+        "2012 Kentucky Senate election": {
+          "rows": 32,
+          "districts": 20
+        },
+        "2012 Massachusetts State Senate election": {
+          "rows": 55,
+          "districts": 12
+        },
+        "2012 Minnesota Senate election": {
+          "rows": 138,
+          "districts": 67
+        },
+        "2012 New Mexico Senate election": {
+          "rows": 65,
+          "districts": 42
+        },
+        "2012 New York State Senate election": {
+          "rows": 121,
+          "districts": 63
+        },
+        "2012 North Carolina Senate election": {
+          "rows": 83,
+          "districts": 50
+        },
+        "2012 Oklahoma Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 South Carolina Senate election": {
+          "rows": 4,
+          "districts": 3
+        },
+        "2012 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Vermont Senate election": {
+          "rows": 54,
+          "districts": 1
+        },
+        "2012 Washington State Senate election": {
+          "rows": 46,
+          "districts": 26
+        },
+        "2012 West Virginia Senate election": {
+          "rows": 26,
+          "districts": 17
+        },
+        "2012 Wisconsin Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Puerto Rico Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2012 Arizona House of Representatives election": {
+          "rows": 103,
+          "districts": 30
+        },
+        "2012 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Delaware House of Representatives election": {
+          "rows": 69,
+          "districts": 41
+        },
+        "2012 Florida House of Representatives election": {
+          "rows": 34,
+          "districts": 34
+        },
+        "2012 Hawaii House of Representatives election": {
+          "rows": 51,
+          "districts": 51
+        },
+        "2012 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Michigan House of Representatives election": {
+          "rows": 250,
+          "districts": 110
+        },
+        "2012 Minnesota House of Representatives election": {
+          "rows": 278,
+          "districts": 134
+        },
+        "2012 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 New Mexico House of Representatives election": {
+          "rows": 109,
+          "districts": 70
+        },
+        "2012 New York State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 North Carolina House of Representatives election": {
+          "rows": 194,
+          "districts": 120
+        },
+        "2012 Oklahoma House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2012 Washington House of Representatives election": {
+          "rows": 177,
+          "districts": 49
+        },
+        "2012 West Virginia House of Delegates election": {
+          "rows": 179,
+          "districts": 67
+        },
+        "2012 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2012 Arkansas State Senate election",
+        "2012 Georgia State Senate election",
+        "2012 Idaho Senate election",
+        "2012 Indiana State Senate election",
+        "2012 Kansas Senate election",
+        "2012 Maine State Senate election",
+        "2012 Missouri State Senate election",
+        "2012 Montana Senate election",
+        "2012 Nevada State Senate election",
+        "2012 New Hampshire Senate election",
+        "2012 North Dakota Senate election",
+        "2012 Ohio Senate election",
+        "2012 Rhode Island Senate election",
+        "2012 South Dakota Senate election",
+        "2012 Tennessee Senate election",
+        "2012 Utah Senate election",
+        "2012 Alaska House of Representatives election",
+        "2012 Arkansas House of Representatives election",
+        "2012 Colorado House of Representatives election",
+        "2012 Connecticut House of Representatives election",
+        "2012 Georgia House of Representatives election",
+        "2012 Idaho House of Representatives election",
+        "2012 Indiana House of Representatives election",
+        "2012 Iowa House of Representatives election",
+        "2012 Kansas House of Representatives election",
+        "2012 Kentucky House of Representatives election",
+        "2012 Maine House of Representatives election",
+        "2012 Massachusetts House of Representatives election",
+        "2012 Missouri House of Representatives election",
+        "2012 Nevada Assembly election",
+        "2012 New Hampshire House of Representatives election",
+        "2012 North Dakota House of Representatives election",
+        "2012 Ohio House of Representatives election",
+        "2012 Rhode Island House of Representatives election",
+        "2012 South Carolina House of Representatives election",
+        "2012 South Dakota House of Representatives election",
+        "2012 Tennessee House of Representatives election",
+        "2012 Utah House of Representatives election",
+        "2012 Vermont House of Representatives election",
+        "2012 Wyoming House of Representatives election",
+        "2012 Puerto Rico House of Representatives election"
+      ]
+    },
+    "2014": {
+      "senate": {
+        "2014 Alabama Senate election": {
+          "rows": 55,
+          "districts": 35
+        },
+        "2014 Alaska Senate election": {
+          "rows": 25,
+          "districts": 14
+        },
+        "2014 Arizona Senate election": {
+          "rows": 57,
+          "districts": 30
+        },
+        "2014 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Colorado Senate election": {
+          "rows": 40,
+          "districts": 18
+        },
+        "2014 Connecticut State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Delaware Senate election": {
+          "rows": 19,
+          "districts": 10
+        },
+        "2014 Florida Senate election": {
+          "rows": 33,
+          "districts": 20
+        },
+        "2014 Georgia State Senate election": {
+          "rows": 71,
+          "districts": 56
+        },
+        "2014 Hawaii Senate election": {
+          "rows": 46,
+          "districts": 11
+        },
+        "2014 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Iowa Senate election": {
+          "rows": 42,
+          "districts": 25
+        },
+        "2014 Kentucky Senate election": {
+          "rows": 32,
+          "districts": 20
+        },
+        "2014 Maryland Senate election": {
+          "rows": 80,
+          "districts": 47
+        },
+        "2014 Massachusetts Senate election": {
+          "rows": 63,
+          "districts": 12
+        },
+        "2014 Michigan Senate election": {
+          "rows": 84,
+          "districts": 1
+        },
+        "2014 Montana Senate election": {
+          "rows": 49,
+          "districts": 25
+        },
+        "2014 Nevada Senate election": {
+          "rows": 22,
+          "districts": 11
+        },
+        "2014 New Hampshire Senate election": {
+          "rows": 46,
+          "districts": 24
+        },
+        "2014 New York State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 North Carolina Senate election": {
+          "rows": 81,
+          "districts": 50
+        },
+        "2014 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Rhode Island Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Utah Senate election": {
+          "rows": 27,
+          "districts": 14
+        },
+        "2014 Vermont Senate election": {
+          "rows": 56,
+          "districts": 13
+        },
+        "2014 Washington State Senate election": {
+          "rows": 54,
+          "districts": 25
+        },
+        "2014 West Virginia Senate election": {
+          "rows": 39,
+          "districts": 17
+        },
+        "2014 Wisconsin Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2014 Alabama House of Representatives election": {
+          "rows": 149,
+          "districts": 105
+        },
+        "2014 Alaska House of Representatives election": {
+          "rows": 73,
+          "districts": 40
+        },
+        "2014 Arizona House of Representatives election": {
+          "rows": 99,
+          "districts": 30
+        },
+        "2014 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Connecticut House of Representatives election": {
+          "rows": 297,
+          "districts": 151
+        },
+        "2014 Delaware House of Representatives election": {
+          "rows": 70,
+          "districts": 41
+        },
+        "2014 Florida House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Georgia House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Kentucky House of Representatives election": {
+          "rows": 159,
+          "districts": 100
+        },
+        "2014 Maryland House of Delegates election": {
+          "rows": 252,
+          "districts": 66
+        },
+        "2014 Michigan House of Representatives election": {
+          "rows": 233,
+          "districts": 110
+        },
+        "2014 Minnesota House of Representatives election": {
+          "rows": 143,
+          "districts": 134
+        },
+        "2014 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 New Hampshire House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 New Mexico House of Representatives election": {
+          "rows": 106,
+          "districts": 70
+        },
+        "2014 New York State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 North Carolina House of Representatives election": {
+          "rows": 181,
+          "districts": 120
+        },
+        "2014 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 South Carolina House of Representatives election": {
+          "rows": 121,
+          "districts": 54
+        },
+        "2014 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 West Virginia House of Delegates election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2014 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "missing": [
+        "2014 Arkansas State Senate election",
+        "2014 Idaho Senate election",
+        "2014 Indiana State Senate election",
+        "2014 Maine State Senate election",
+        "2014 Missouri State Senate election",
+        "2014 North Dakota Senate election",
+        "2014 Ohio Senate election",
+        "2014 Oklahoma Senate election",
+        "2014 South Dakota Senate election",
+        "2014 Tennessee Senate election",
+        "2014 Arkansas House of Representatives election",
+        "2014 Colorado House of Representatives election",
+        "2014 Hawaii House of Representatives election",
+        "2014 Idaho House of Representatives election",
+        "2014 Indiana House of Representatives election",
+        "2014 Iowa House of Representatives election",
+        "2014 Kansas House of Representatives election",
+        "2014 Maine House of Representatives election",
+        "2014 Massachusetts House of Representatives election",
+        "2014 Missouri House of Representatives election",
+        "2014 Nevada Assembly election",
+        "2014 North Dakota House of Representatives election",
+        "2014 Ohio House of Representatives election",
+        "2014 Oklahoma House of Representatives election",
+        "2014 Rhode Island House of Representatives election",
+        "2014 South Dakota House of Representatives election",
+        "2014 Tennessee House of Representatives election",
+        "2014 Utah House of Representatives election",
+        "2014 Vermont House of Representatives election",
+        "2014 Wyoming House of Representatives election"
+      ]
+    },
+    "2016": {
+      "senate": {
+        "2016 Alaska Senate election": {
+          "rows": 16,
+          "districts": 10
+        },
+        "2016 Arizona Senate election": {
+          "rows": 50,
+          "districts": 30
+        },
+        "2016 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Colorado Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Connecticut Senate election": {
+          "rows": 78,
+          "districts": 36
+        },
+        "2016 Delaware Senate election": {
+          "rows": 18,
+          "districts": 11
+        },
+        "2016 Florida Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Georgia State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Hawaii Senate election": {
+          "rows": 38,
+          "districts": 9
+        },
+        "2016 Illinois Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Indiana Senate election": {
+          "rows": 47,
+          "districts": 25
+        },
+        "2016 Iowa Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Kansas Senate election": {
+          "rows": 78,
+          "districts": 40
+        },
+        "2016 Kentucky Senate election": {
+          "rows": 27,
+          "districts": 19
+        },
+        "2016 Maine Senate election": {
+          "rows": 71,
+          "districts": 35
+        },
+        "2016 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Minnesota Senate election": {
+          "rows": 134,
+          "districts": 67
+        },
+        "2016 Missouri Senate election": {
+          "rows": 36,
+          "districts": 18
+        },
+        "2016 Montana Senate election": {
+          "rows": 46,
+          "districts": 25
+        },
+        "2016 Nevada Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 New Hampshire Senate election": {
+          "rows": 28,
+          "districts": 14
+        },
+        "2016 New Mexico Senate election": {
+          "rows": 57,
+          "districts": 42
+        },
+        "2016 New York State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 North Carolina Senate election": {
+          "rows": 88,
+          "districts": 50
+        },
+        "2016 Ohio Senate election": {
+          "rows": 29,
+          "districts": 16
+        },
+        "2016 Oklahoma Senate election": {
+          "rows": 48,
+          "districts": 25
+        },
+        "2016 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 South Carolina Senate election": {
+          "rows": 56,
+          "districts": 46
+        },
+        "2016 Tennessee Senate election": {
+          "rows": 23,
+          "districts": 16
+        },
+        "2016 Texas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Utah Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Vermont Senate election": {
+          "rows": 55,
+          "districts": 13
+        },
+        "2016 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 West Virginia Senate election": {
+          "rows": 16,
+          "districts": 7
+        },
+        "2016 Wisconsin Senate election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2016 Wyoming Senate election": {
+          "rows": 27,
+          "districts": 15
+        }
+      },
+      "house": {
+        "2016 Alaska House of Representatives election": {
+          "rows": 76,
+          "districts": 40
+        },
+        "2016 Arizona House of Representatives election": {
+          "rows": 91,
+          "districts": 30
+        },
+        "2016 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Colorado House of Representatives election": {
+          "rows": 133,
+          "districts": 65
+        },
+        "2016 Connecticut House of Representatives election": {
+          "rows": 298,
+          "districts": 151
+        },
+        "2016 Delaware House of Representatives election": {
+          "rows": 65,
+          "districts": 41
+        },
+        "2016 Florida House of Representatives election": {
+          "rows": 22,
+          "districts": 11
+        },
+        "2016 Georgia House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Iowa House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Kentucky House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Massachusetts House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Michigan House of Representatives election": {
+          "rows": 13,
+          "districts": 6
+        },
+        "2016 Minnesota House of Representatives election": {
+          "rows": 258,
+          "districts": 134
+        },
+        "2016 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 New Hampshire House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 New Mexico House of Representatives election": {
+          "rows": 99,
+          "districts": 70
+        },
+        "2016 New York State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 North Carolina House of Representatives election": {
+          "rows": 190,
+          "districts": 120
+        },
+        "2016 Ohio House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Pennsylvania House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 South Carolina House of Representatives election": {
+          "rows": 182,
+          "districts": 124
+        },
+        "2016 Texas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Utah House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 West Virginia House of Delegates election": {
+          "rows": 8,
+          "districts": 1
+        },
+        "2016 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2016 Wyoming House of Representatives election": {
+          "rows": 109,
+          "districts": 60
+        }
+      },
+      "missing": [
+        "2016 Arkansas State Senate election",
+        "2016 Idaho Senate election",
+        "2016 North Dakota Senate election",
+        "2016 Rhode Island Senate election",
+        "2016 South Dakota Senate election",
+        "2016 Puerto Rico Senate election",
+        "2016 Arkansas House of Representatives election",
+        "2016 Hawaii House of Representatives election",
+        "2016 Idaho House of Representatives election",
+        "2016 Indiana House of Representatives election",
+        "2016 Kansas House of Representatives election",
+        "2016 Maine House of Representatives election",
+        "2016 Missouri House of Representatives election",
+        "2016 Nevada Assembly election",
+        "2016 North Dakota House of Representatives election",
+        "2016 Oklahoma House of Representatives election",
+        "2016 Rhode Island House of Representatives election",
+        "2016 South Dakota House of Representatives election",
+        "2016 Tennessee House of Representatives election",
+        "2016 Vermont House of Representatives election",
+        "2016 Puerto Rico House of Representatives election"
+      ]
+    },
+    "2018": {
+      "senate": {
+        "2018 Alabama Senate election": {
+          "rows": 53,
+          "districts": 35
+        },
+        "2018 Alaska Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Arizona Senate election": {
+          "rows": 59,
+          "districts": 30
+        },
+        "2018 Arkansas Senate election": {
+          "rows": 29,
+          "districts": 18
+        },
+        "2018 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Colorado State Senate election": {
+          "rows": 41,
+          "districts": 17
+        },
+        "2018 Connecticut State Senate election": {
+          "rows": 74,
+          "districts": 36
+        },
+        "2018 Delaware State Senate election": {
+          "rows": 18,
+          "districts": 10
+        },
+        "2018 Florida Senate election": {
+          "rows": 43,
+          "districts": 19
+        },
+        "2018 Georgia State Senate election": {
+          "rows": 79,
+          "districts": 56
+        },
+        "2018 Hawaii Senate election": {
+          "rows": 21,
+          "districts": 13
+        },
+        "2018 Idaho Senate election": {
+          "rows": 59,
+          "districts": 35
+        },
+        "2018 Illinois Senate election": {
+          "rows": 60,
+          "districts": 39
+        },
+        "2018 Indiana State Senate election": {
+          "rows": 47,
+          "districts": 25
+        },
+        "2018 Iowa Senate election": {
+          "rows": 44,
+          "districts": 25
+        },
+        "2018 Kentucky Senate election": {
+          "rows": 39,
+          "districts": 19
+        },
+        "2018 Maine State Senate election": {
+          "rows": 70,
+          "districts": 35
+        },
+        "2018 Maryland Senate election": {
+          "rows": 87,
+          "districts": 47
+        },
+        "2018 Massachusetts Senate election": {
+          "rows": 1,
+          "districts": 1
+        },
+        "2018 Michigan Senate election": {
+          "rows": 102,
+          "districts": 38
+        },
+        "2018 Missouri Senate election": {
+          "rows": 37,
+          "districts": 17
+        },
+        "2018 Montana Senate election": {
+          "rows": 49,
+          "districts": 25
+        },
+        "2018 Nevada State Senate election": {
+          "rows": 23,
+          "districts": 11
+        },
+        "2018 New Hampshire Senate election": {
+          "rows": 40,
+          "districts": 19
+        },
+        "2018 New York State Senate election": {
+          "rows": 122,
+          "districts": 63
+        },
+        "2018 North Carolina Senate election": {
+          "rows": 115,
+          "districts": 50
+        },
+        "2018 North Dakota Senate election": {
+          "rows": 45,
+          "districts": 24
+        },
+        "2018 Ohio Senate election": {
+          "rows": 36,
+          "districts": 17
+        },
+        "2018 Oklahoma Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Rhode Island Senate election": {
+          "rows": 62,
+          "districts": 38
+        },
+        "2018 South Dakota Senate election": {
+          "rows": 69,
+          "districts": 35
+        },
+        "2018 Tennessee State Senate election": {
+          "rows": 36,
+          "districts": 18
+        },
+        "2018 Texas Senate election": {
+          "rows": 43,
+          "districts": 16
+        },
+        "2018 Utah Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Vermont Senate election": {
+          "rows": 61,
+          "districts": 13
+        },
+        "2018 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 West Virginia Senate election": {
+          "rows": 35,
+          "districts": 17
+        },
+        "2018 Wisconsin State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Wyoming Senate election": {
+          "rows": 22,
+          "districts": 15
+        }
+      },
+      "house": {
+        "2018 Alabama House of Representatives election": {
+          "rows": 160,
+          "districts": 103
+        },
+        "2018 Alaska House of Representatives election": {
+          "rows": 84,
+          "districts": 40
+        },
+        "2018 Arizona State House of Representatives election": {
+          "rows": 105,
+          "districts": 30
+        },
+        "2018 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Colorado House of Representatives election": {
+          "rows": 141,
+          "districts": 65
+        },
+        "2018 Connecticut House of Representatives election": {
+          "rows": 306,
+          "districts": 151
+        },
+        "2018 Delaware House of Representatives election": {
+          "rows": 73,
+          "districts": 41
+        },
+        "2018 Florida House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Georgia House of Representatives election": {
+          "rows": 257,
+          "districts": 180
+        },
+        "2018 Hawaii House of Representatives election": {
+          "rows": 71,
+          "districts": 51
+        },
+        "2018 Illinois House of Representatives election": {
+          "rows": 182,
+          "districts": 118
+        },
+        "2018 Iowa House of Representatives election": {
+          "rows": 91,
+          "districts": 44
+        },
+        "2018 Kentucky House of Representatives election": {
+          "rows": 202,
+          "districts": 100
+        },
+        "2018 Maine House of Representatives election": {
+          "rows": 300,
+          "districts": 151
+        },
+        "2018 Maryland House of Delegates election": {
+          "rows": 246,
+          "districts": 67
+        },
+        "2018 Michigan House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Minnesota House of Representatives election": {
+          "rows": 270,
+          "districts": 134
+        },
+        "2018 Montana House of Representatives election": {
+          "rows": 180,
+          "districts": 100
+        },
+        "2018 Nevada Assembly election": {
+          "rows": 78,
+          "districts": 42
+        },
+        "2018 New Hampshire House of Representatives election": {
+          "rows": 756,
+          "districts": 197
+        },
+        "2018 New Mexico House of Representatives election": {
+          "rows": 107,
+          "districts": 70
+        },
+        "2018 New York State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 North Carolina House of Representatives election": {
+          "rows": 263,
+          "districts": 120
+        },
+        "2018 Ohio House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Oklahoma House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Pennsylvania House of Representatives election": {
+          "rows": 9,
+          "districts": 4
+        },
+        "2018 South Carolina House of Representatives election": {
+          "rows": 182,
+          "districts": 124
+        },
+        "2018 Texas House of Representatives election": {
+          "rows": 274,
+          "districts": 150
+        },
+        "2018 Utah House of Representatives election": {
+          "rows": 167,
+          "districts": 75
+        },
+        "2018 Vermont House of Representatives election": {
+          "rows": 278,
+          "districts": 104
+        },
+        "2018 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 West Virginia House of Delegates election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2018 Wisconsin State Assembly election": {
+          "rows": 174,
+          "districts": 99
+        },
+        "2018 Wyoming House of Representatives election": {
+          "rows": 87,
+          "districts": 60
+        }
+      },
+      "missing": [
+        "2018 Arkansas House of Representatives election",
+        "2018 Idaho House of Representatives election",
+        "2018 Indiana House of Representatives election",
+        "2018 Kansas House of Representatives election",
+        "2018 Massachusetts House of Representatives election",
+        "2018 Missouri House of Representatives election",
+        "2018 North Dakota House of Representatives election",
+        "2018 Rhode Island House of Representatives election",
+        "2018 South Dakota House of Representatives election",
+        "2018 Tennessee House of Representatives election"
+      ]
+    },
+    "2020": {
+      "senate": {
+        "2020 Alaska Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Arizona Senate election": {
+          "rows": 50,
+          "districts": 30
+        },
+        "2020 Arkansas State Senate election": {
+          "rows": 25,
+          "districts": 17
+        },
+        "2020 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Colorado Senate election": {
+          "rows": 40,
+          "districts": 18
+        },
+        "2020 Connecticut State Senate election": {
+          "rows": 81,
+          "districts": 36
+        },
+        "2020 Delaware Senate election": {
+          "rows": 18,
+          "districts": 11
+        },
+        "2020 Florida Senate election": {
+          "rows": 47,
+          "districts": 20
+        },
+        "2020 Georgia State Senate election": {
+          "rows": 85,
+          "districts": 56
+        },
+        "2020 Hawaii Senate election": {
+          "rows": 17,
+          "districts": 8
+        },
+        "2020 Idaho Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Illinois Senate election": {
+          "rows": 33,
+          "districts": 22
+        },
+        "2020 Indiana Senate election": {
+          "rows": 41,
+          "districts": 25
+        },
+        "2020 Iowa Senate election": {
+          "rows": 45,
+          "districts": 25
+        },
+        "2020 Kansas Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Kentucky Senate election": {
+          "rows": 41,
+          "districts": 21
+        },
+        "2020 Maine State Senate election": {
+          "rows": 52,
+          "districts": 27
+        },
+        "2020 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Minnesota Senate election": {
+          "rows": 146,
+          "districts": 67
+        },
+        "2020 Missouri State Senate election": {
+          "rows": 30,
+          "districts": 17
+        },
+        "2020 Montana Senate election": {
+          "rows": 45,
+          "districts": 25
+        },
+        "2020 Nevada State Senate election": {
+          "rows": 18,
+          "districts": 10
+        },
+        "2020 New Hampshire Senate election": {
+          "rows": 48,
+          "districts": 24
+        },
+        "2020 New Mexico State Senate election": {
+          "rows": 80,
+          "districts": 42
+        },
+        "2020 New York State Senate election": {
+          "rows": 117,
+          "districts": 63
+        },
+        "2020 North Carolina Senate election": {
+          "rows": 108,
+          "districts": 50
+        },
+        "2020 North Dakota Senate election": {
+          "rows": 39,
+          "districts": 23
+        },
+        "2020 Ohio Senate election": {
+          "rows": 34,
+          "districts": 16
+        },
+        "2020 Oklahoma Senate election": {
+          "rows": 38,
+          "districts": 25
+        },
+        "2020 Oregon State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Pennsylvania Senate election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2020 Rhode Island Senate election": {
+          "rows": 58,
+          "districts": 38
+        },
+        "2020 South Carolina Senate election": {
+          "rows": 83,
+          "districts": 46
+        },
+        "2020 South Dakota Senate election": {
+          "rows": 61,
+          "districts": 35
+        },
+        "2020 Tennessee Senate election": {
+          "rows": 30,
+          "districts": 16
+        },
+        "2020 Texas Senate election": {
+          "rows": 46,
+          "districts": 18
+        },
+        "2020 Utah Senate election": {
+          "rows": 25,
+          "districts": 15
+        },
+        "2020 Vermont Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 West Virginia Senate election": {
+          "rows": 34,
+          "districts": 17
+        },
+        "2020 Wisconsin State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Wyoming Senate election": {
+          "rows": 21,
+          "districts": 15
+        },
+        "2020 Puerto Rico Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Alaska Senate election#M District (special)": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Hawaii Senate election#District 16 (special)": {
+          "rows": 17,
+          "districts": 8
+        },
+        "2020 Oregon State Senate election#10th District (special)": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Pennsylvania Senate election#Special election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2020 Texas State Senate election#Special elections": {
+          "rows": 46,
+          "districts": 18
+        }
+      },
+      "house": {
+        "2020 Alaska House of Representatives election": {
+          "rows": 77,
+          "districts": 40
+        },
+        "2020 Arizona House of Representatives election": {
+          "rows": 85,
+          "districts": 30
+        },
+        "2020 Arkansas House of Representatives election": {
+          "rows": 143,
+          "districts": 98
+        },
+        "2020 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Colorado House of Representatives election": {
+          "rows": 151,
+          "districts": 65
+        },
+        "2020 Connecticut House of Representatives election": {
+          "rows": 291,
+          "districts": 151
+        },
+        "2020 Delaware House of Representatives election": {
+          "rows": 63,
+          "districts": 41
+        },
+        "2020 Florida House of Representatives election": {
+          "rows": 204,
+          "districts": 96
+        },
+        "2020 Georgia House of Representatives election": {
+          "rows": 267,
+          "districts": 180
+        },
+        "2020 Hawaii House of Representatives election": {
+          "rows": 77,
+          "districts": 34
+        },
+        "2020 Idaho House of Representatives election": {
+          "rows": 119,
+          "districts": 35
+        },
+        "2020 Illinois House of Representatives election": {
+          "rows": 193,
+          "districts": 118
+        },
+        "2020 Indiana House of Representatives election": {
+          "rows": 174,
+          "districts": 100
+        },
+        "2020 Iowa House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Kansas House of Representatives election": {
+          "rows": 212,
+          "districts": 125
+        },
+        "2020 Kentucky House of Representatives election": {
+          "rows": 184,
+          "districts": 100
+        },
+        "2020 Maine House of Representatives election": {
+          "rows": 276,
+          "districts": 151
+        },
+        "2020 Massachusetts House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Michigan House of Representatives election": {
+          "rows": 255,
+          "districts": 110
+        },
+        "2020 Minnesota House of Representatives election": {
+          "rows": 273,
+          "districts": 67
+        },
+        "2020 Missouri House of Representatives election": {
+          "rows": 255,
+          "districts": 163
+        },
+        "2020 Montana House of Representatives election": {
+          "rows": 176,
+          "districts": 100
+        },
+        "2020 Nevada Assembly election": {
+          "rows": 81,
+          "districts": 42
+        },
+        "2020 New Hampshire House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 New Mexico House of Representatives election": {
+          "rows": 132,
+          "districts": 70
+        },
+        "2020 New York State Assembly election": {
+          "rows": 11,
+          "districts": 5
+        },
+        "2020 North Carolina House of Representatives election": {
+          "rows": 244,
+          "districts": 120
+        },
+        "2020 North Dakota House of Representatives election": {
+          "rows": 85,
+          "districts": 23
+        },
+        "2020 Ohio House of Representatives election": {
+          "rows": 195,
+          "districts": 99
+        },
+        "2020 Oklahoma House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Oregon House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Pennsylvania House of Representatives election": {
+          "rows": 9,
+          "districts": 4
+        },
+        "2020 Rhode Island House of Representatives election": {
+          "rows": 109,
+          "districts": 75
+        },
+        "2020 South Carolina House of Representatives election": {
+          "rows": 188,
+          "districts": 124
+        },
+        "2020 South Dakota House of Representatives election": {
+          "rows": 109,
+          "districts": 37
+        },
+        "2020 Tennessee House of Representatives election": {
+          "rows": 149,
+          "districts": 99
+        },
+        "2020 Texas House of Representatives election": {
+          "rows": 121,
+          "districts": 69
+        },
+        "2020 Utah House of Representatives election": {
+          "rows": 151,
+          "districts": 74
+        },
+        "2020 Vermont House of Representatives election": {
+          "rows": 257,
+          "districts": 53
+        },
+        "2020 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 West Virginia House of Delegates election": {
+          "rows": 190,
+          "districts": 67
+        },
+        "2020 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2020 Wyoming House of Representatives election": {
+          "rows": 84,
+          "districts": 60
+        },
+        "2020 Puerto Rico House of Representatives election": {
+          "rows": 156,
+          "districts": 40
+        },
+        "2020 Alabama elections#State House of Representatives": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2020 Louisiana elections#Louisiana House of Representatives (special)": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2020 Michigan's 34th House of Representatives district special election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2020 Pennsylvania House of Representatives election#Special elections": {
+          "rows": 9,
+          "districts": 4
+        }
+      },
+      "missing": []
+    },
+    "2022": {
+      "senate": {
+        "2022 Alabama Senate election": {
+          "rows": 54,
+          "districts": 35
+        },
+        "2022 Alaska Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Arizona Senate election": {
+          "rows": 54,
+          "districts": 30
+        },
+        "2022 Arkansas Senate election": {
+          "rows": 58,
+          "districts": 35
+        },
+        "2022 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Colorado Senate election": {
+          "rows": 34,
+          "districts": 17
+        },
+        "2022 Connecticut State Senate election": {
+          "rows": 74,
+          "districts": 36
+        },
+        "2022 Delaware Senate election": {
+          "rows": 34,
+          "districts": 21
+        },
+        "2022 Florida Senate election": {
+          "rows": 66,
+          "districts": 40
+        },
+        "2022 Georgia State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Hawaii Senate election": {
+          "rows": 51,
+          "districts": 25
+        },
+        "2022 Idaho Senate election": {
+          "rows": 58,
+          "districts": 35
+        },
+        "2022 Illinois Senate election": {
+          "rows": 84,
+          "districts": 59
+        },
+        "2022 Indiana Senate election": {
+          "rows": 42,
+          "districts": 25
+        },
+        "2022 Iowa Senate election": {
+          "rows": 62,
+          "districts": 34
+        },
+        "2022 Kentucky Senate election": {
+          "rows": 32,
+          "districts": 19
+        },
+        "2022 Maine State Senate election": {
+          "rows": 71,
+          "districts": 35
+        },
+        "2022 Maryland Senate election": {
+          "rows": 78,
+          "districts": 47
+        },
+        "2022 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Michigan Senate election": {
+          "rows": 87,
+          "districts": 38
+        },
+        "2022 Minnesota Senate election": {
+          "rows": 131,
+          "districts": 67
+        },
+        "2022 Missouri State Senate election": {
+          "rows": 31,
+          "districts": 17
+        },
+        "2022 Montana Senate election": {
+          "rows": 47,
+          "districts": 27
+        },
+        "2022 Nevada State Senate election": {
+          "rows": 22,
+          "districts": 11
+        },
+        "2022 New Hampshire Senate election": {
+          "rows": 46,
+          "districts": 24
+        },
+        "2022 New York State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 North Carolina Senate election": {
+          "rows": 94,
+          "districts": 50
+        },
+        "2022 North Dakota Senate election": {
+          "rows": 46,
+          "districts": 32
+        },
+        "2022 Ohio Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Oklahoma Senate election": {
+          "rows": 14,
+          "districts": 7
+        },
+        "2022 Oregon State Senate election": {
+          "rows": 33,
+          "districts": 16
+        },
+        "2022 Pennsylvania Senate election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2022 Rhode Island Senate election": {
+          "rows": 72,
+          "districts": 38
+        },
+        "2022 South Dakota Senate election": {
+          "rows": 51,
+          "districts": 35
+        },
+        "2022 Tennessee Senate election": {
+          "rows": 29,
+          "districts": 17
+        },
+        "2022 Texas State Senate election": {
+          "rows": 55,
+          "districts": 31
+        },
+        "2022 Utah Senate election": {
+          "rows": 29,
+          "districts": 15
+        },
+        "2022 Vermont Senate election": {
+          "rows": 31,
+          "districts": 10
+        },
+        "2022 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 West Virginia Senate election": {
+          "rows": 33,
+          "districts": 17
+        },
+        "2022 Wisconsin Senate election": {
+          "rows": 30,
+          "districts": 17
+        },
+        "2022 Wyoming Senate election": {
+          "rows": 25,
+          "districts": 16
+        }
+      },
+      "house": {
+        "2022 Alabama House of Representatives election": {
+          "rows": 159,
+          "districts": 105
+        },
+        "2022 Alaska House of Representatives election": {
+          "rows": 69,
+          "districts": 33
+        },
+        "2022 Arizona House of Representatives election": {
+          "rows": 86,
+          "districts": 30
+        },
+        "2022 Arkansas House of Representatives election": {
+          "rows": 168,
+          "districts": 100
+        },
+        "2022 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Colorado House of Representatives election": {
+          "rows": 148,
+          "districts": 65
+        },
+        "2022 Connecticut House of Representatives election": {
+          "rows": 274,
+          "districts": 151
+        },
+        "2022 Delaware House of Representatives election": {
+          "rows": 74,
+          "districts": 41
+        },
+        "2022 Florida House of Representatives election": {
+          "rows": 182,
+          "districts": 102
+        },
+        "2022 Georgia House of Representatives election": {
+          "rows": 289,
+          "districts": 180
+        },
+        "2022 Hawaii House of Representatives election": {
+          "rows": 99,
+          "districts": 51
+        },
+        "2022 Idaho House of Representatives election": {
+          "rows": 110,
+          "districts": 35
+        },
+        "2022 Illinois House of Representatives election": {
+          "rows": 196,
+          "districts": 118
+        },
+        "2022 Indiana House of Representatives election": {
+          "rows": 163,
+          "districts": 100
+        },
+        "2022 Iowa House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Kansas House of Representatives election": {
+          "rows": 191,
+          "districts": 125
+        },
+        "2022 Kentucky House of Representatives election": {
+          "rows": 158,
+          "districts": 100
+        },
+        "2022 Maine House of Representatives election": {
+          "rows": 281,
+          "districts": 151
+        },
+        "2022 Maryland House of Delegates election": {
+          "rows": 211,
+          "districts": 71
+        },
+        "2022 Massachusetts House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Michigan House of Representatives election": {
+          "rows": 236,
+          "districts": 110
+        },
+        "2022 Minnesota House of Representatives election": {
+          "rows": 258,
+          "districts": 134
+        },
+        "2022 Missouri House of Representatives election": {
+          "rows": 244,
+          "districts": 163
+        },
+        "2022 Montana House of Representatives election": {
+          "rows": 180,
+          "districts": 100
+        },
+        "2022 Nevada Assembly election": {
+          "rows": 89,
+          "districts": 42
+        },
+        "2022 New Hampshire House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 New Mexico House of Representatives election": {
+          "rows": 112,
+          "districts": 70
+        },
+        "2022 New York State Assembly election": {
+          "rows": 11,
+          "districts": 7
+        },
+        "2022 North Carolina House of Representatives election": {
+          "rows": 216,
+          "districts": 120
+        },
+        "2022 North Dakota House of Representatives election": {
+          "rows": 94,
+          "districts": 35
+        },
+        "2022 Ohio House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Oklahoma House of Representatives election": {
+          "rows": 59,
+          "districts": 28
+        },
+        "2022 Oregon House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Pennsylvania House of Representatives election": {
+          "rows": 6,
+          "districts": 3
+        },
+        "2022 Rhode Island House of Representatives election": {
+          "rows": 125,
+          "districts": 75
+        },
+        "2022 South Carolina House of Representatives election": {
+          "rows": 184,
+          "districts": 124
+        },
+        "2022 South Dakota House of Representatives election": {
+          "rows": 107,
+          "districts": 37
+        },
+        "2022 Tennessee House of Representatives election": {
+          "rows": 152,
+          "districts": 99
+        },
+        "2022 Texas House of Representatives election": {
+          "rows": 255,
+          "districts": 150
+        },
+        "2022 Utah House of Representatives election": {
+          "rows": 138,
+          "districts": 75
+        },
+        "2022 Vermont House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 West Virginia House of Delegates election": {
+          "rows": 183,
+          "districts": 100
+        },
+        "2022 Wisconsin State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2022 Wyoming House of Representatives election": {
+          "rows": 95,
+          "districts": 62
+        }
+      },
+      "missing": []
+    },
+    "2024": {
+      "senate": {
+        "2024 Alaska Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Arizona Senate election": {
+          "rows": 54,
+          "districts": 30
+        },
+        "2024 Arkansas Senate election": {
+          "rows": 25,
+          "districts": 18
+        },
+        "2024 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Colorado Senate election": {
+          "rows": 42,
+          "districts": 18
+        },
+        "2024 Connecticut State Senate election": {
+          "rows": 72,
+          "districts": 36
+        },
+        "2024 Delaware Senate election": {
+          "rows": 13,
+          "districts": 8
+        },
+        "2024 Florida Senate election": {
+          "rows": 39,
+          "districts": 20
+        },
+        "2024 Georgia State Senate election": {
+          "rows": 86,
+          "districts": 56
+        },
+        "2024 Hawaii Senate election": {
+          "rows": 32,
+          "districts": 8
+        },
+        "2024 Idaho Senate election": {
+          "rows": 67,
+          "districts": 35
+        },
+        "2024 Illinois Senate election": {
+          "rows": 38,
+          "districts": 24
+        },
+        "2024 Indiana Senate election": {
+          "rows": 38,
+          "districts": 25
+        },
+        "2024 Iowa Senate election": {
+          "rows": 46,
+          "districts": 25
+        },
+        "2024 Kansas Senate election": {
+          "rows": 74,
+          "districts": 40
+        },
+        "2024 Kentucky Senate election": {
+          "rows": 41,
+          "districts": 20
+        },
+        "2024 Maine State Senate election": {
+          "rows": 70,
+          "districts": 35
+        },
+        "2024 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Missouri State Senate election": {
+          "rows": 32,
+          "districts": 17
+        },
+        "2024 Montana Senate election": {
+          "rows": 47,
+          "districts": 25
+        },
+        "2024 Nevada State Senate election": {
+          "rows": 20,
+          "districts": 10
+        },
+        "2024 New Hampshire Senate election": {
+          "rows": 48,
+          "districts": 24
+        },
+        "2024 New Mexico Senate election": {
+          "rows": 57,
+          "districts": 42
+        },
+        "2024 New York State Senate election": {
+          "rows": 109,
+          "districts": 63
+        },
+        "2024 North Carolina Senate election": {
+          "rows": 108,
+          "districts": 50
+        },
+        "2024 North Dakota Senate election": {
+          "rows": 40,
+          "districts": 25
+        },
+        "2024 Ohio Senate election": {
+          "rows": 33,
+          "districts": 17
+        },
+        "2024 Oklahoma Senate election": {
+          "rows": 49,
+          "districts": 26
+        },
+        "2024 Oregon Senate election": {
+          "rows": 28,
+          "districts": 15
+        },
+        "2024 Pennsylvania Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Rhode Island Senate election": {
+          "rows": 54,
+          "districts": 38
+        },
+        "2024 South Carolina Senate election": {
+          "rows": 79,
+          "districts": 45
+        },
+        "2024 South Dakota Senate election": {
+          "rows": 53,
+          "districts": 35
+        },
+        "2024 Tennessee Senate election": {
+          "rows": 33,
+          "districts": 16
+        },
+        "2024 Texas Senate election": {
+          "rows": 28,
+          "districts": 15
+        },
+        "2024 Utah Senate election": {
+          "rows": 30,
+          "districts": 15
+        },
+        "2024 Vermont Senate election": {
+          "rows": 58,
+          "districts": 16
+        },
+        "2024 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 West Virginia Senate election": {
+          "rows": 28,
+          "districts": 17
+        },
+        "2024 Wisconsin Senate election": {
+          "rows": 27,
+          "districts": 16
+        },
+        "2024 Wyoming Senate election": {
+          "rows": 18,
+          "districts": 15
+        },
+        "2024 Puerto Rico Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2024 Alaska House of Representatives election": {
+          "rows": 64,
+          "districts": 35
+        },
+        "2024 Arizona House of Representatives election": {
+          "rows": 105,
+          "districts": 30
+        },
+        "2024 Arkansas House of Representatives election": {
+          "rows": 156,
+          "districts": 100
+        },
+        "2024 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Colorado House of Representatives election": {
+          "rows": 133,
+          "districts": 65
+        },
+        "2024 Connecticut House of Representatives election": {
+          "rows": 272,
+          "districts": 151
+        },
+        "2024 Delaware House of Representatives election": {
+          "rows": 62,
+          "districts": 41
+        },
+        "2024 Florida House of Representatives election": {
+          "rows": 243,
+          "districts": 120
+        },
+        "2024 Georgia House of Representatives election": {
+          "rows": 304,
+          "districts": 180
+        },
+        "2024 Hawaii House of Representatives election": {
+          "rows": 144,
+          "districts": 35
+        },
+        "2024 Idaho House of Representatives election": {
+          "rows": 125,
+          "districts": 35
+        },
+        "2024 Illinois House of Representatives election": {
+          "rows": 180,
+          "districts": 117
+        },
+        "2024 Indiana House of Representatives election": {
+          "rows": 166,
+          "districts": 100
+        },
+        "2024 Iowa House of Representatives election": {
+          "rows": 177,
+          "districts": 100
+        },
+        "2024 Kansas House of Representatives election": {
+          "rows": 165,
+          "districts": 100
+        },
+        "2024 Kentucky House of Representatives election": {
+          "rows": 152,
+          "districts": 100
+        },
+        "2024 Maine House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Massachusetts House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Michigan House of Representatives election": {
+          "rows": 235,
+          "districts": 110
+        },
+        "2024 Minnesota House of Representatives election": {
+          "rows": 267,
+          "districts": 134
+        },
+        "2024 Missouri House of Representatives election": {
+          "rows": 285,
+          "districts": 163
+        },
+        "2024 Montana House of Representatives election": {
+          "rows": 192,
+          "districts": 100
+        },
+        "2024 Nevada Assembly election": {
+          "rows": 80,
+          "districts": 42
+        },
+        "2024 New Hampshire House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 New Mexico House of Representatives election": {
+          "rows": 106,
+          "districts": 70
+        },
+        "2024 New York State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 North Carolina House of Representatives election": {
+          "rows": 228,
+          "districts": 120
+        },
+        "2024 North Dakota House of Representatives election": {
+          "rows": 76,
+          "districts": 27
+        },
+        "2024 Ohio House of Representatives election": {
+          "rows": 191,
+          "districts": 99
+        },
+        "2024 Oklahoma House of Representatives election": {
+          "rows": 168,
+          "districts": 101
+        },
+        "2024 Oregon House of Representatives election": {
+          "rows": 32,
+          "districts": 20
+        },
+        "2024 Pennsylvania House of Representatives election": {
+          "rows": 4,
+          "districts": 2
+        },
+        "2024 Rhode Island House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 South Carolina House of Representatives election": {
+          "rows": 177,
+          "districts": 121
+        },
+        "2024 South Dakota House of Representatives election": {
+          "rows": 106,
+          "districts": 37
+        },
+        "2024 Tennessee House of Representatives election": {
+          "rows": 173,
+          "districts": 99
+        },
+        "2024 Texas House of Representatives election": {
+          "rows": 258,
+          "districts": 149
+        },
+        "2024 Utah House of Representatives election": {
+          "rows": 135,
+          "districts": 75
+        },
+        "2024 Vermont House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2024 West Virginia House of Delegates election": {
+          "rows": 159,
+          "districts": 100
+        },
+        "2024 Wisconsin State Assembly election": {
+          "rows": 187,
+          "districts": 99
+        },
+        "2024 Wyoming House of Representatives election": {
+          "rows": 3,
+          "districts": 3
+        },
+        "2024 Puerto Rico House of Representatives election": {
+          "rows": 155,
+          "districts": 40
+        }
+      },
+      "missing": []
+    },
+    "2026": {
+      "senate": {
+        "2026 Alabama Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Alaska Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Arizona Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Arkansas Senate election": {
+          "rows": 22,
+          "districts": 17
+        },
+        "2026 California State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Colorado Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Connecticut State Senate election": {
+          "rows": 66,
+          "districts": 36
+        },
+        "2026 Delaware Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Florida Senate election": {
+          "rows": 51,
+          "districts": 23
+        },
+        "2026 Georgia State Senate election": {
+          "rows": 28,
+          "districts": 6
+        },
+        "2026 Hawaii Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Idaho Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Illinois Senate election": {
+          "rows": 14,
+          "districts": 9
+        },
+        "2026 Indiana Senate election": {
+          "rows": 48,
+          "districts": 23
+        },
+        "2026 Iowa Senate election": {
+          "rows": 39,
+          "districts": 25
+        },
+        "2026 Kentucky Senate election": {
+          "rows": 33,
+          "districts": 20
+        },
+        "2026 Maine State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Maryland Senate election": {
+          "rows": 75,
+          "districts": 47
+        },
+        "2026 Massachusetts Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Michigan Senate election": {
+          "rows": 3,
+          "districts": 1
+        },
+        "2026 Minnesota Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Missouri State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Montana Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Nevada Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 New Hampshire Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 New York State Senate election": {
+          "rows": 6,
+          "districts": 3
+        },
+        "2026 North Carolina Senate election": {
+          "rows": 101,
+          "districts": 50
+        },
+        "2026 North Dakota Senate election": {
+          "rows": 24,
+          "districts": 1
+        },
+        "2026 Ohio Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Oklahoma Senate election": {
+          "rows": 37,
+          "districts": 25
+        },
+        "2026 Oregon State Senate election": {
+          "rows": 30,
+          "districts": 15
+        },
+        "2026 Pennsylvania Senate election": {
+          "rows": 48,
+          "districts": 1
+        },
+        "2026 Rhode Island Senate election": {
+          "rows": 2,
+          "districts": 1
+        },
+        "2026 South Dakota Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Tennessee Senate election": {
+          "rows": 1,
+          "districts": 1
+        },
+        "2026 Texas Senate election": {
+          "rows": 35,
+          "districts": 16
+        },
+        "2026 Utah Senate election": {
+          "rows": 35,
+          "districts": 15
+        },
+        "2026 Vermont Senate election": {
+          "rows": 43,
+          "districts": 14
+        },
+        "2026 Washington State Senate election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 West Virginia Senate election": {
+          "rows": 36,
+          "districts": 17
+        },
+        "2026 Wisconsin Senate election": {
+          "rows": 33,
+          "districts": 17
+        },
+        "2026 Wyoming Senate election": {
+          "rows": 0,
+          "districts": 0
+        }
+      },
+      "house": {
+        "2026 Alabama House of Representatives election": {
+          "rows": 3,
+          "districts": 2
+        },
+        "2026 Alaska House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Arizona House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Arkansas House of Representatives election": {
+          "rows": 6,
+          "districts": 3
+        },
+        "2026 California State Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Colorado House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Connecticut House of Representatives election": {
+          "rows": 267,
+          "districts": 151
+        },
+        "2026 Delaware House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Florida House of Representatives election": {
+          "rows": 11,
+          "districts": 5
+        },
+        "2026 Georgia House of Representatives election": {
+          "rows": 36,
+          "districts": 11
+        },
+        "2026 Hawaii House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Idaho House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Illinois House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Indiana House of Representatives election": {
+          "rows": 13,
+          "districts": 5
+        },
+        "2026 Iowa House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Kansas House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Kentucky House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Maine House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Maryland House of Delegates election": {
+          "rows": 217,
+          "districts": 71
+        },
+        "2026 Massachusetts House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Michigan House of Representatives election": {
+          "rows": 210,
+          "districts": 94
+        },
+        "2026 Minnesota House of Representatives election": {
+          "rows": 3,
+          "districts": 1
+        },
+        "2026 Missouri House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Montana House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Nevada Assembly election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 New Hampshire House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 New Mexico House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 New York State Assembly election": {
+          "rows": 9,
+          "districts": 3
+        },
+        "2026 North Carolina House of Representatives election": {
+          "rows": 218,
+          "districts": 120
+        },
+        "2026 North Dakota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Ohio House of Representatives election": {
+          "rows": 121,
+          "districts": 57
+        },
+        "2026 Oklahoma House of Representatives election": {
+          "rows": 246,
+          "districts": 101
+        },
+        "2026 Oregon House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Pennsylvania House of Representatives election": {
+          "rows": 12,
+          "districts": 6
+        },
+        "2026 Rhode Island House of Representatives election": {
+          "rows": 18,
+          "districts": 14
+        },
+        "2026 South Carolina House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 South Dakota House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Tennessee House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Texas House of Representatives election": {
+          "rows": 279,
+          "districts": 143
+        },
+        "2026 Utah House of Representatives election": {
+          "rows": 1,
+          "districts": 1
+        },
+        "2026 Vermont House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Washington House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 West Virginia House of Delegates election": {
+          "rows": 14,
+          "districts": 6
+        },
+        "2026 Wisconsin State Assembly election": {
+          "rows": 197,
+          "districts": 99
+        },
+        "2026 Wyoming House of Representatives election": {
+          "rows": 0,
+          "districts": 0
+        },
+        "2026 Minnesota House of Representatives election#Special elections": {
+          "rows": 3,
+          "districts": 1
+        }
+      },
+      "missing": []
+    }
+  }
+}

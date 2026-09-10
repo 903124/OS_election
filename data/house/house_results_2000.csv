@@ -19,6 +19,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Alaska,AK,AL,Don Young,Republican,71.0,True,True,False
 2000,house,Alaska,AK,AL,Clifford Greene,Democratic,17.0,False,False,False
 2000,house,Alaska,AK,AL,Anna Young,Green,8.0,False,False,False
+2000,house,Alaska,AK,AL,Jim Dore,Alaskan Independence,4.0,False,False,False
 2000,house,Alaska,AK,AL,Leonard Karpinski,Libertarian,2.0,False,False,False
 2000,house,Arizona,AZ,1,Jeff Flake,Republican,53.6,True,False,True
 2000,house,Arizona,AZ,1,David Mendoza,Democratic,42.4,False,False,True
@@ -26,6 +27,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Arizona,AZ,2,Ed Pastor,Democratic,68.5,True,True,False
 2000,house,Arizona,AZ,2,Bill Barenholtz,Republican,26.9,False,False,False
 2000,house,Arizona,AZ,2,Geoffrey Weber,Libertarian,2.6,False,False,False
+2000,house,Arizona,AZ,2,Barbara Shelor,Natural Law,2.0,False,False,False
 2000,house,Arizona,AZ,3,Bob Stump,Republican,65.7,True,True,False
 2000,house,Arizona,AZ,3,Gene Scharer,Democratic,31.4,False,False,False
 2000,house,Arizona,AZ,3,Edward R. Carlson,Libertarian,3.0,False,False,False
@@ -48,64 +50,85 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Arkansas,AR,4,Jay Dickey,Republican,49.0,False,True,False
 2000,house,California,CA,1,Mike Thompson,Democratic,65.1,True,True,False
 2000,house,California,CA,1,Russel Chase,Republican,28.0,False,False,False
+2000,house,California,CA,1,Cheryl Kreier,Natural Law,3.0,False,False,False
 2000,house,California,CA,1,Emil Rossi,Libertarian,2.6,False,False,False
+2000,house,California,CA,1,Pamela Elizondo,Reform,1.3,False,False,False
 2000,house,California,CA,2,Wally Herger,Republican,65.8,True,True,False
 2000,house,California,CA,2,Stan Morgan,Democratic,28.2,False,False,False
+2000,house,California,CA,2,John McDermott,Natural Law,3.4,False,False,False
 2000,house,California,CA,2,Charles R. Martin,Libertarian,2.6,False,False,False
 2000,house,California,CA,3,Doug Ose,Republican,56.2,True,True,False
 2000,house,California,CA,3,Bob Kent,Democratic,40.5,False,False,False
 2000,house,California,CA,3,Douglas Arthur Tuma,Libertarian,2.2,False,False,False
+2000,house,California,CA,3,Channing Jones,Natural Law,1.1,False,False,False
 2000,house,California,CA,4,John Doolittle,Republican,63.5,True,True,False
 2000,house,California,CA,4,Mark Norberg,Democratic,31.5,False,False,False
 2000,house,California,CA,4,William Fritz Frey,Libertarian,3.0,False,False,False
+2000,house,California,CA,4,Robert Ray,Natural Law,2.0,False,False,False
 2000,house,California,CA,5,Bob Matsui,Democratic,68.7,True,True,False
 2000,house,California,CA,5,Ken Payne,Republican,26.2,False,False,False
 2000,house,California,CA,5,Ken Adams,Green,2.9,False,False,False
 2000,house,California,CA,5,Cullene Lang,Libertarian,1.3,False,False,False
+2000,house,California,CA,5,Charles Kersey,Natural Law,0.9,False,False,False
 2000,house,California,CA,6,Lynn Woolsey,Democratic,64.4,True,True,False
 2000,house,California,CA,6,Ken McAuliffe,Republican,28.4,False,False,False
 2000,house,California,CA,6,Justin Moscoso,Green,4.6,False,False,False
 2000,house,California,CA,6,Richard O. Barton,Libertarian,1.6,False,False,False
+2000,house,California,CA,6,Alan Roy Barreca,Natural Law,1.0,False,False,False
 2000,house,California,CA,7,George Miller,Democratic,76.5,True,True,False
 2000,house,California,CA,7,Christopher Hoffman,Republican,21.2,False,False,False
+2000,house,California,CA,7,Martin Sproul,Natural Law,2.3,False,False,False
 2000,house,California,CA,8,Nancy Pelosi,Democratic,84.5,True,True,False
 2000,house,California,CA,8,Adam Sparks,Republican,11.7,False,False,False
 2000,house,California,CA,8,Erik Bauman,Libertarian,2.6,False,False,False
+2000,house,California,CA,8,David Smithstein,Natural Law,1.2,False,False,False
 2000,house,California,CA,9,Barbara Lee,Democratic,85.0,True,True,False
 2000,house,California,CA,9,Arneze Washington,Republican,9.8,False,False,False
 2000,house,California,CA,9,Fred Foldvary,Libertarian,3.3,False,False,False
+2000,house,California,CA,9,Ellen Jefferds,Natural Law,1.9,False,False,False
 2000,house,California,CA,10,Ellen Tauscher,Democratic,52.7,True,True,False
 2000,house,California,CA,10,Claude B. Hutchison Jr.,Republican,44.2,False,False,False
 2000,house,California,CA,10,Valerie Janlois,Libertarian,3.1,False,False,False
 2000,house,California,CA,11,Richard Pombo,Republican,57.9,True,True,False
 2000,house,California,CA,11,Tom Santos,Democratic,38.1,False,False,False
 2000,house,California,CA,11,Kathryn Russow,Libertarian,2.4,False,False,False
+2000,house,California,CA,11,Jon Kurey,Natural Law,1.6,False,False,False
 2000,house,California,CA,12,Tom Lantos,Democratic,74.6,True,True,False
 2000,house,California,CA,12,Mike Garza,Republican,20.8,False,False,False
 2000,house,California,CA,12,Barbara Less,Libertarian,3.0,False,False,False
+2000,house,California,CA,12,Rifkin Young,Natural Law,1.6,False,False,False
 2000,house,California,CA,13,Pete Stark,Democratic,70.5,True,True,False
 2000,house,California,CA,13,James Goetz,Republican,24.3,False,False,False
 2000,house,California,CA,13,Howard Mora,Libertarian,2.6,False,False,False
+2000,house,California,CA,13,Timothy Hoehner,Natural Law,1.4,False,False,False
+2000,house,California,CA,13,Don Grundmann,American Independent,1.2,False,False,False
 2000,house,California,CA,14,Anna Eshoo,Democratic,70.3,True,True,False
 2000,house,California,CA,14,Bill Quraishi,Republican,25.8,False,False,False
 2000,house,California,CA,14,Joseph Dehn III,Libertarian,2.0,False,False,False
+2000,house,California,CA,14,John H. Black,Natural Law,1.9,False,False,False
 2000,house,California,CA,15,Mike Honda,Democratic,54.3,True,False,True
 2000,house,California,CA,15,Jim Cunneen,Republican,42.2,False,False,True
 2000,house,California,CA,15,Ed Wimmers,Libertarian,2.0,False,False,True
+2000,house,California,CA,15,Douglas Gorney,Natural Law,1.5,False,False,True
 2000,house,California,CA,16,Zoe Lofgren,Democratic,72.1,True,True,False
 2000,house,California,CA,16,Horace Gene Thayn,Republican,23.3,False,False,False
 2000,house,California,CA,16,Dennis Michael Umphress,Libertarian,3.0,False,False,False
+2000,house,California,CA,16,Edward Klein,Natural Law,1.6,False,False,False
 2000,house,California,CA,17,Sam Farr,Democratic,68.7,True,True,False
 2000,house,California,CA,17,Clint Engler,Republican,24.7,False,False,False
 2000,house,California,CA,17,E. Craig Coffin,Green,4.0,False,False,False
 2000,house,California,CA,17,Rick Garrett,Libertarian,1.2,False,False,False
+2000,house,California,CA,17,Larry Fenton,Reform,1.0,False,False,False
+2000,house,California,CA,17,Scott Hartley,Natural Law,0.4,False,False,False
 2000,house,California,CA,18,Gary Condit,Democratic,67.2,True,True,False
 2000,house,California,CA,18,Steve Wilson,Republican,31.3,False,False,False
+2000,house,California,CA,18,Page Roth Riskin,Natural Law,1.5,False,False,False
 2000,house,California,CA,19,George Radanovich,Republican,65.0,True,True,False
 2000,house,California,CA,19,Dan Rosenberg,Democratic,31.8,False,False,False
 2000,house,California,CA,19,Elizabeth Taylor,Libertarian,1.9,False,False,False
 2000,house,California,CA,20,Cal Dooley,Democratic,52.4,True,True,False
 2000,house,California,CA,20,Rich Rodriguez,Republican,45.5,False,False,False
+2000,house,California,CA,20,Walter Kenneth Ruehlig,Natural Law,1.1,False,False,False
 2000,house,California,CA,20,Arnold Kriegbaum,Libertarian,1.0,False,False,False
 2000,house,California,CA,21,Bill Thomas,Republican,71.6,True,True,False
 2000,house,California,CA,21,Pedro Martinez Jr.,Democratic,24.8,False,False,False
@@ -114,90 +137,127 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,California,CA,22,Mike Stoker,Republican,44.4,False,False,False
 2000,house,California,CA,23,Elton Gallegly,Republican,54.1,True,True,False
 2000,house,California,CA,23,Michael Case,Democratic,40.7,False,False,False
+2000,house,California,CA,23,Cary Savitch,Reform,3.0,False,False,False
 2000,house,California,CA,23,Roger Peebles,Libertarian,1.6,False,False,False
+2000,house,California,CA,23,Stephen Hospodar,Natural Law,0.6,False,False,False
 2000,house,California,CA,24,Brad Sherman,Democratic,66.1,True,True,False
 2000,house,California,CA,24,Jerry Doyle,Republican,29.8,False,False,False
 2000,house,California,CA,24,Juan Carlos Ros,Libertarian,2.9,False,False,False
+2000,house,California,CA,24,Michael Cuddehe,Natural Law,1.2,False,False,False
 2000,house,California,CA,25,Buck McKeon,Republican,62.3,True,True,False
 2000,house,California,CA,25,Sid Gold,Democratic,33.2,False,False,False
 2000,house,California,CA,25,Bruce Acker,Libertarian,3.2,False,False,False
+2000,house,California,CA,25,Mews Small,Natural Law,1.3,False,False,False
 2000,house,California,CA,26,Howard Berman,Democratic,84.1,True,True,False
 2000,house,California,CA,26,Bill Farley,Libertarian,11.4,False,False,False
+2000,house,California,CA,26,David Cossak,Natural Law,4.5,False,False,False
 2000,house,California,CA,27,Adam Schiff,Democratic,52.7,True,False,False
 2000,house,California,CA,27,James E. Rogan,Republican,43.9,False,True,False
 2000,house,California,CA,27,Ted Brown,Libertarian,1.7,False,False,False
+2000,house,California,CA,27,Miriam Hospodar,Natural Law,1.7,False,False,False
 2000,house,California,CA,28,David Dreier,Republican,56.9,True,True,False
 2000,house,California,CA,28,Janice Nelson,Democratic,39.9,False,False,False
 2000,house,California,CA,28,Randall Weissbuch,Libertarian,1.3,False,False,False
+2000,house,California,CA,28,M. Lawrence Allison,Natural Law,1.0,False,False,False
+2000,house,California,CA,28,Joe Haytas,American Independent,0.9,False,False,False
 2000,house,California,CA,29,Henry Waxman,Democratic,75.7,True,True,False
 2000,house,California,CA,29,Jim Scileppi,Republican,19.3,False,False,False
 2000,house,California,CA,29,Jack C. Anderson,Libertarian,3.3,False,False,False
+2000,house,California,CA,29,Bruce Currivan,Natural Law,1.7,False,False,False
 2000,house,California,CA,30,Xavier Becerra,Democratic,83.3,True,True,False
 2000,house,California,CA,30,Tony Goss,Republican,11.8,False,False,False
 2000,house,California,CA,30,Jason Heath,Libertarian,2.9,False,False,False
+2000,house,California,CA,30,Gary Hearne,Natural Law,2.0,False,False,False
 2000,house,California,CA,31,Hilda Solis,Democratic,79.4,True,False,False
 2000,house,California,CA,31,Krista Lieberg-Wong,Green,9.1,False,False,False
 2000,house,California,CA,31,Michael McGuire,Libertarian,6.3,False,False,False
+2000,house,California,CA,31,Richard Griffin,Natural Law,5.2,False,False,False
 2000,house,California,CA,32,Julian Dixon,Democratic,83.6,True,True,False
 2000,house,California,CA,32,Kathy Williamson,Republican,12.2,False,False,False
 2000,house,California,CA,32,Bob Weber,Libertarian,2.3,False,False,False
+2000,house,California,CA,32,Rashied Jibri,Natural Law,1.9,False,False,False
 2000,house,California,CA,33,Lucille Roybal-Allard,Democratic,84.6,True,True,False
 2000,house,California,CA,33,Wayne Miller,Republican,11.6,False,False,False
 2000,house,California,CA,33,Nathan Craddock,Libertarian,2.2,False,False,False
+2000,house,California,CA,33,William Harpur,Natural Law,1.6,False,False,False
 2000,house,California,CA,34,Grace Napolitano,Democratic,71.3,True,True,False
 2000,house,California,CA,34,Robert Arthur Canales,Republican,22.5,False,False,False
+2000,house,California,CA,34,Julia Simon,Natural Law,6.2,False,False,False
 2000,house,California,CA,35,Maxine Waters,Democratic,86.6,True,True,False
 2000,house,California,CA,35,Carl McGill,Republican,10.9,False,False,False
+2000,house,California,CA,35,Gordon Mego,American Independent,1.6,False,False,False
+2000,house,California,CA,35,Rick Dunstan,Natural Law,0.9,False,False,False
 2000,house,California,CA,36,Jane Harman,Democratic,48.4,True,False,False
 2000,house,California,CA,36,Steven T. Kuykendall,Republican,46.6,False,True,False
 2000,house,California,CA,36,Daniel Sherman,Libertarian,2.6,False,False,False
+2000,house,California,CA,36,John Konopka,Reform,1.4,False,False,False
+2000,house,California,CA,36,Matt Ornati,Natural Law,0.9,False,False,False
 2000,house,California,CA,37,Juanita Millender-McDonald,Democratic,82.4,True,True,False
 2000,house,California,CA,37,Vernon Van,Republican,11.3,False,False,False
+2000,house,California,CA,37,Margaret Glazer,Natural Law,3.6,False,False,False
 2000,house,California,CA,37,Herb Peters,Libertarian,2.7,False,False,False
 2000,house,California,CA,38,Steve Horn,Republican,48.5,True,True,False
 2000,house,California,CA,38,Gerrie Schipske,Democratic,47.5,False,False,False
 2000,house,California,CA,38,Jack Neglia,Libertarian,2.0,False,False,False
+2000,house,California,CA,38,Karen Blasdell-Wilkinson,Natural Law,2.0,False,False,False
 2000,house,California,CA,39,Ed Royce,Republican,62.8,True,True,False
 2000,house,California,CA,39,Gill Kanel,Democratic,31.5,False,False,False
+2000,house,California,CA,39,Ron Jevning,Natural Law,3.2,False,False,False
 2000,house,California,CA,39,Keith Gann,Libertarian,2.5,False,False,False
 2000,house,California,CA,40,Jerry Lewis,Republican,80.0,True,True,False
 2000,house,California,CA,40,Jay Lindberg,Libertarian,10.0,False,False,False
+2000,house,California,CA,40,Frank Schmit,Natural Law,10.0,False,False,False
 2000,house,California,CA,41,Gary Miller,Republican,59.0,True,True,False
 2000,house,California,CA,41,Rodolfo Favila,Democratic,37.4,False,False,False
+2000,house,California,CA,41,David Kramer,Natural Law,3.6,False,False,False
 2000,house,California,CA,42,Joe Baca,Democratic,59.8,True,True,False
 2000,house,California,CA,42,Eli Pirozzi,Republican,35.2,False,False,False
 2000,house,California,CA,42,John Ballard,Libertarian,2.6,False,False,False
+2000,house,California,CA,42,Gwyn Hartley,Natural Law,2.4,False,False,False
 2000,house,California,CA,43,Ken Calvert,Republican,73.7,True,True,False
 2000,house,California,CA,43,Bill Reed,Libertarian,15.6,False,False,False
+2000,house,California,CA,43,Nathaniel Adam,Natural Law,10.7,False,False,False
 2000,house,California,CA,44,Mary Bono,Republican,59.2,True,True,False
 2000,house,California,CA,44,Ron Oden,Democratic,38.0,False,False,False
+2000,house,California,CA,44,Gene Smith,Reform,1.9,False,False,False
+2000,house,California,CA,44,Jim Meuer,Natural Law,0.9,False,False,False
 2000,house,California,CA,45,Dana Rohrabacher,Republican,62.2,True,True,False
 2000,house,California,CA,45,Ted Crisell,Democratic,32.4,False,False,False
 2000,house,California,CA,45,Don Hull,Libertarian,3.8,False,False,False
+2000,house,California,CA,45,Constance Betton,Natural Law,1.6,False,False,False
 2000,house,California,CA,46,Loretta Sanchez,Democratic,60.3,True,True,False
 2000,house,California,CA,46,Gloria Matta Tuchman,Republican,35.0,False,False,False
 2000,house,California,CA,46,Richard Boddie,Libertarian,2.7,False,False,False
+2000,house,California,CA,46,Larry Engwall,Natural Law,2.0,False,False,False
 2000,house,California,CA,47,Christopher Cox,Republican,65.7,True,True,False
 2000,house,California,CA,47,John Graham,Democratic,30.1,False,False,False
 2000,house,California,CA,47,David Nolan,Libertarian,2.9,False,False,False
+2000,house,California,CA,47,Iris Adam,Natural Law,1.3,False,False,False
 2000,house,California,CA,48,Darrell Issa,Republican,61.5,True,False,True
 2000,house,California,CA,48,Peter Kouvelis,Democratic,28.4,False,False,True
+2000,house,California,CA,48,Eddie Rose,Reform,4.3,False,False,True
+2000,house,California,CA,48,Sharon Miles,Natural Law,3.1,False,False,True
 2000,house,California,CA,48,Joe Michael Cobb,Libertarian,2.7,False,False,True
 2000,house,California,CA,49,Susan Davis,Democratic,49.7,True,False,False
 2000,house,California,CA,49,Brian Bilbray,Republican,46.2,False,True,False
 2000,house,California,CA,49,Doris Ball,Libertarian,2.8,False,False,False
+2000,house,California,CA,49,Tahir Bhatti,Natural Law,1.3,False,False,False
 2000,house,California,CA,50,Bob Filner,Democratic,68.3,True,True,False
 2000,house,California,CA,50,Bob Divine,Republican,27.7,False,False,False
 2000,house,California,CA,50,David Willoughby,Libertarian,2.4,False,False,False
+2000,house,California,CA,50,LeeAnn Kendall,Natural Law,1.6,False,False,False
 2000,house,California,CA,51,Duke Cunningham,Republican,64.4,True,True,False
 2000,house,California,CA,51,George Jorge Barraza,Democratic,30.4,False,False,False
 2000,house,California,CA,51,Daniel L. Muhe,Libertarian,2.7,False,False,False
+2000,house,California,CA,51,Eric Hunter Bourdette,Natural Law,2.5,False,False,False
 2000,house,California,CA,52,Duncan L. Hunter,Republican,64.8,True,True,False
 2000,house,California,CA,52,Craig Barkacs,Democratic,31.3,False,False,False
 2000,house,California,CA,52,Michael Benoit,Libertarian,2.9,False,False,False
+2000,house,California,CA,52,Robert Sherman,Natural Law,1.0,False,False,False
 2000,house,Colorado,CO,1,Diana DeGette,Democratic,68.7,True,True,False
 2000,house,Colorado,CO,1,Jesse Thomas,Republican,27.3,False,False,False
 2000,house,Colorado,CO,1,Richard Combs,Libertarian,2.8,False,False,False
+2000,house,Colorado,CO,1,Lyle Nasser,Reform,1.2,False,False,False
 2000,house,Colorado,CO,2,Mark Udall,Democratic,55.0,True,True,False
 2000,house,Colorado,CO,2,Carolyn Cox,Republican,38.6,False,False,False
 2000,house,Colorado,CO,2,Ron Forthofer,Green,4.4,False,False,False
@@ -205,10 +265,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Colorado,CO,3,Scott McInnis,Republican,65.8,True,True,False
 2000,house,Colorado,CO,3,Curtis Imrie,Democratic,29.0,False,False,False
 2000,house,Colorado,CO,3,Drew Sakson,Libertarian,3.3,False,False,False
+2000,house,Colorado,CO,3,Victor Good,Reform,1.8,False,False,False
 2000,house,Colorado,CO,4,Bob Schaffer,Republican,79.5,True,True,False
+2000,house,Colorado,CO,4,Dan Sewell Ward,Natural Law,7.5,False,False,False
 2000,house,Colorado,CO,4,Kordon Baker,Libertarian,7.5,False,False,False
+2000,house,Colorado,CO,4,Leslie J. Hanks,Constitution,3.8,False,False,False
 2000,house,Colorado,CO,5,Joel Hefley,Republican,82.7,True,True,False
 2000,house,Colorado,CO,5,Kerry Kantor,Libertarian,12.3,False,False,False
+2000,house,Colorado,CO,5,Randy MacKenzie,Natural Law,5.0,False,False,False
 2000,house,Colorado,CO,6,Tom Tancredo,Republican,53.9,True,True,False
 2000,house,Colorado,CO,6,Ken Toltz,Democratic,42.1,False,False,False
 2000,house,Colorado,CO,6,Adam D. Katz,Libertarian,2.6,False,False,False
@@ -261,6 +325,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Florida,FL,15,Gerry L Newby,Independent,1.9,False,False,False
 2000,house,Florida,FL,16,Mark Foley,Republican,60.2,True,True,False
 2000,house,Florida,FL,16,Jean Elliott Brown,Democratic,37.2,False,False,False
+2000,house,Florida,FL,16,John A. McGuire,Reform,2.6,False,False,False
 2000,house,Florida,FL,17,Carrie Meek,Democratic,100.0,True,True,False
 2000,house,Florida,FL,18,Ileana Ros-Lehtinen,Republican,100.0,True,True,False
 2000,house,Florida,FL,19,Robert Wexler,Democratic,72.0,True,True,False
@@ -524,19 +589,26 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Minnesota,MN,2,David Minge,DFL,48.0,False,True,False
 2000,house,Minnesota,MN,2,Gerald W. Brekke,Independence,2.7,False,False,False
 2000,house,Minnesota,MN,2,Ron Helwig,Libertarian,0.7,False,False,False
+2000,house,Minnesota,MN,2,Dennis A. Burda,Constitution,0.5,False,False,False
 2000,house,Minnesota,MN,3,Jim Ramstad,Republican,67.6,True,True,False
 2000,house,Minnesota,MN,3,Sue Shuff,DFL,29.9,False,False,False
 2000,house,Minnesota,MN,3,Bob Odden,Libertarian,1.6,False,False,False
+2000,house,Minnesota,MN,3,Arne Niksa,Constitution,0.9,False,False,False
 2000,house,Minnesota,MN,4,Betty McCollum,DFL,48.0,True,False,True
 2000,house,Minnesota,MN,4,Linda Runbeck,Republican,30.9,False,False,True
 2000,house,Minnesota,MN,4,Tom Foley,Independence,20.6,False,False,True
+2000,house,Minnesota,MN,4,Nicholas Skrivanek,Constitution,0.5,False,False,True
 2000,house,Minnesota,MN,5,Martin Olav Sabo,DFL,69.2,True,True,False
 2000,house,Minnesota,MN,5,Frank Taylor,Republican,22.8,False,False,False
+2000,house,Minnesota,MN,5,Rob Tomich,Independence,4.4,False,False,False
+2000,house,Minnesota,MN,5,Renee Lavoi,Constitution,1.8,False,False,False
 2000,house,Minnesota,MN,5,Chuck P. Charnstrom,Libertarian,1.8,False,False,False
 2000,house,Minnesota,MN,6,Bill Luther,DFL,49.6,True,True,False
 2000,house,Minnesota,MN,6,John Kline,Republican,48.0,False,False,False
+2000,house,Minnesota,MN,6,Ralph A. Hubbard,Constitution,2.4,False,False,False
 2000,house,Minnesota,MN,7,Collin Peterson,DFL,68.7,True,True,False
 2000,house,Minnesota,MN,7,Glen Menze,Republican,29.3,False,False,False
+2000,house,Minnesota,MN,7,Owen Siverston,Constitution,2.1,False,False,False
 2000,house,Minnesota,MN,8,Jim Oberstar,DFL,67.9,True,True,False
 2000,house,Minnesota,MN,8,Bob Lemen,Republican,25.8,False,False,False
 2000,house,Minnesota,MN,8,Mike Darling,Independent,6.4,False,False,False
@@ -610,12 +682,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,New Jersey,NJ,1,Charlene Cathcart,Republican,21.2,False,False,False
 2000,house,New Jersey,NJ,1,Catherine Parrish,Green,1.4,False,False,False
 2000,house,New Jersey,NJ,1,Ed Forchion,Legalize Marijuana,0.9,False,False,False
+2000,house,New Jersey,NJ,1,Joseph A Patalivo,New Jersey Conservative,0.4,False,False,False
 2000,house,New Jersey,NJ,2,Frank LoBiondo,Republican,66.4,True,True,False
 2000,house,New Jersey,NJ,2,Edward Janosik,Democratic,31.9,False,False,False
 2000,house,New Jersey,NJ,2,Robert Gabrielsky,Green,1.4,False,False,False
+2000,house,New Jersey,NJ,2,Costantino Rozzo,Socialist Party USA,0.3,False,False,False
 2000,house,New Jersey,NJ,3,Jim Saxton,Republican,57.3,True,True,False
 2000,house,New Jersey,NJ,3,Susan Bass Levin,Democratic,41.2,False,False,False
 2000,house,New Jersey,NJ,3,Aaron M. Kromash,Green,0.9,False,False,False
+2000,house,New Jersey,NJ,3,Ken Feduniewicz,Reform Party of the United States of America,0.4,False,False,False
+2000,house,New Jersey,NJ,3,Norman Wahner,New Jersey Conservative,0.3,False,False,False
 2000,house,New Jersey,NJ,4,Chris Smith,Republican,63.2,True,True,False
 2000,house,New Jersey,NJ,4,Reed Gusciora,Democratic,35.1,False,False,False
 2000,house,New Jersey,NJ,4,Stuart Chaifetz,Green,1.5,False,False,False
@@ -624,13 +700,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,New Jersey,NJ,5,Linda Mercurio,Democratic,30.4,False,False,False
 2000,house,New Jersey,NJ,5,Michael King,Green Party of the United States,2.0,False,False,False
 2000,house,New Jersey,NJ,5,Robert J. McCafferty,Independent politician,1.5,False,False,False
+2000,house,New Jersey,NJ,5,Ira W. Goodman,Reform Party of the United States of America,0.5,False,False,False
+2000,house,New Jersey,NJ,5,Helen Hamilton,Natural Law,0.2,False,False,False
 2000,house,New Jersey,NJ,6,Frank Pallone,Democratic,67.5,True,True,False
 2000,house,New Jersey,NJ,6,Brian T. Kennedy,Republican,29.8,False,False,False
 2000,house,New Jersey,NJ,6,Earl Gray,Green,2.0,False,False,False
+2000,house,New Jersey,NJ,6,Karen Zaletel,Reform Party of the United States of America,0.5,False,False,False
+2000,house,New Jersey,NJ,6,Sylvia Kuzmak,New Jersey Conservative,0.2,False,False,False
 2000,house,New Jersey,NJ,7,Mike Ferguson,Republican,51.8,True,False,True
 2000,house,New Jersey,NJ,7,Maryanne Connelly,Democratic,45.3,False,False,True
 2000,house,New Jersey,NJ,7,Jerry L. Coleman,Green,2.2,False,False,True
 2000,house,New Jersey,NJ,7,Darren Young,Libertarian,0.4,False,False,True
+2000,house,New Jersey,NJ,7,Shawn Gianella,New Jersey Conservative,0.2,False,False,True
+2000,house,New Jersey,NJ,7,Mary T. Johnson,Natural Law,0.1,False,False,True
 2000,house,New Jersey,NJ,8,Bill Pascrell,Democratic,67.0,True,True,False
 2000,house,New Jersey,NJ,8,Anthony Fusco,Republican,30.3,False,False,False
 2000,house,New Jersey,NJ,8,Joseph Fortunato,Green,2.2,False,False,False
@@ -639,20 +721,26 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,New Jersey,NJ,9,Joseph Tedeschi,Republican,30.0,False,False,False
 2000,house,New Jersey,NJ,9,Lewis Pell,Green,1.1,False,False,False
 2000,house,New Jersey,NJ,9,Michael Perrone Jr.,Independent politician,0.5,False,False,False
+2000,house,New Jersey,NJ,9,Robert Corriston,New Jersey Conservative,0.5,False,False,False
 2000,house,New Jersey,NJ,10,Donald M. Payne,Democratic,87.5,True,True,False
 2000,house,New Jersey,NJ,10,Dirk Weber,Republican,12.1,False,False,False
+2000,house,New Jersey,NJ,10,Maurice Williams,Socialist Workers,0.4,False,False,False
 2000,house,New Jersey,NJ,11,Rodney Frelinghuysen,Republican,68.0,True,True,False
 2000,house,New Jersey,NJ,11,John Scollo,Democratic,29.6,False,False,False
 2000,house,New Jersey,NJ,11,John Piekarski,Green,1.9,False,False,False
+2000,house,New Jersey,NJ,11,James E. Spinosa,New Jersey Conservative,0.6,False,False,False
 2000,house,New Jersey,NJ,12,Rush Holt Jr.,Democratic,48.7,True,True,False
 2000,house,New Jersey,NJ,12,Dick Zimmer,Republican,48.5,False,False,False
 2000,house,New Jersey,NJ,12,Carl Mayer,Green,1.9,False,False,False
+2000,house,New Jersey,NJ,12,John P. Desmond,New Jersey Conservative,0.4,False,False,False
 2000,house,New Jersey,NJ,12,Worth Winslow,Libertarian,0.4,False,False,False
 2000,house,New Jersey,NJ,13,Bob Menendez,Democratic,78.7,True,True,False
 2000,house,New Jersey,NJ,13,Theresa de Leon,Republican,18.6,False,False,False
 2000,house,New Jersey,NJ,13,Claudette Meliere,Green,1.8,False,False,False
+2000,house,New Jersey,NJ,13,Dick Hester,Constitution,0.4,False,False,False
 2000,house,New Jersey,NJ,13,Herbert Shaw,Independent politician,0.2,False,False,False
 2000,house,New Jersey,NJ,13,Alina Fonteboa,Independent politician,0.2,False,False,False
+2000,house,New Jersey,NJ,13,Kari Sachs,Socialist Workers,0.1,False,False,False
 2000,house,New Mexico,NM,1,Heather Wilson,Republican,51.0,True,True,False
 2000,house,New Mexico,NM,1,John Kelly,Democratic,44.0,False,False,False
 2000,house,New Mexico,NM,1,Dan Kerlinsky,Green,6.0,False,False,False
@@ -905,6 +993,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Tennessee,TN,9,Harold Ford Jr.,Democratic,100.0,True,True,False
 2000,house,Texas,TX,1,Max Sandlin,Democratic,56.0,True,True,False
 2000,house,Texas,TX,1,Noble Willingham,Republican,44.0,False,False,False
+2000,house,Texas,TX,2,Jim Turner,Democratic,92.0,True,True,False
 2000,house,Texas,TX,3,Sam Johnson,Republican,72.0,True,True,False
 2000,house,Texas,TX,3,Billy Wayne Zachary,Democratic,26.0,False,False,False
 2000,house,Texas,TX,4,Ralph Hall,Democratic,61.0,True,True,False
@@ -973,6 +1062,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Vermont,VT,AL,Karen Ann Kerin,Republican,18.3,False,False,False
 2000,house,Vermont,VT,AL,Peter Diamondstone,Liberty Union,5.3,False,False,False
 2000,house,Vermont,VT,AL,Stewart Skrill,Independent,4.2,False,False,False
+2000,house,Vermont,VT,AL,Jack Rogers,Grassroots,1.7,False,False,False
 2000,house,Vermont,VT,AL,Daniel H. Krymkowski,Libertarian,1.0,False,False,False
 2000,house,Virginia,VA,1,Jo Ann Davis,Republican,57.6,True,False,True
 2000,house,Virginia,VA,1,Lawrence Davies,Democratic,37.0,False,False,True
@@ -1000,6 +1090,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2000,house,Washington,WA,2,Rick Larsen,Democratic,50.0,True,False,True
 2000,house,Washington,WA,2,John Koster,Republican,45.9,False,False,True
 2000,house,Washington,WA,2,Stuart Andrews,Libertarian,2.6,False,False,True
+2000,house,Washington,WA,2,Glen S. Johnson,Natural Law,1.5,False,False,True
 2000,house,Washington,WA,3,Brian Baird,Democratic,56.4,True,True,False
 2000,house,Washington,WA,3,Trent Matson,Republican,40.6,False,False,False
 2000,house,Washington,WA,3,Erne Lewis,Libertarian,3.0,False,False,False

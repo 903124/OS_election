@@ -42,7 +42,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1986,Florida,Democratic primary results,Primary,Winning,False,Bob Graham,Democratic Party (United States),"850,560",85.04%
 1986,Florida,Democratic primary results,Primary,Candidate,False,Bob Kunst,Democratic Party (United States),"149,657",14.96%
 1986,Florida,Democratic primary results,Primary,Total,False,,,"1,000,217",100.00%
-1986,Florida,Republican primary results,Primary,Winning,False,Paula Hawkins,Republican Party (United States),"491,767",88.73%
+1986,Florida,Republican primary results,Primary,Winning,True,Paula Hawkins,Republican Party (United States),"491,767",88.73%
 1986,Florida,Republican primary results,Primary,Candidate,False,Jon Larsen Shudlick,Republican Party (United States),"62,443",11.27%
 1986,Florida,Republican primary results,Primary,Total,False,,,"554,210",100.00%
 1986,Georgia,Democratic primary results,Primary,Winning,False,Wyche Fowler,Democratic Party (United States),"314,787",50.26%

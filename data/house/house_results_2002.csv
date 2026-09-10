@@ -58,6 +58,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,California,CA,1,Kevin Bastian,Libertarian,3.53,False,False,False
 2002,house,California,CA,2,Wally Herger,Republican,65.79,True,True,False
 2002,house,California,CA,2,Mike Johnson,Democratic,29.31,False,False,False
+2002,house,California,CA,2,Patrice Thiessen,Natural Law,2.72,False,False,False
 2002,house,California,CA,2,Charles R. Martin,Libertarian,2.19,False,False,False
 2002,house,California,CA,3,Doug Ose,Republican,62.45,True,True,False
 2002,house,California,CA,3,Howard Beeman,Democratic,34.44,False,False,False
@@ -71,6 +72,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,California,CA,6,Lynn Woolsey,Democratic,66.69,True,True,False
 2002,house,California,CA,6,Paul L. Erickson,Republican,29.61,False,False,False
 2002,house,California,CA,6,Richard O. Barton,Libertarian,2.36,False,False,False
+2002,house,California,CA,6,Jeff Rainforth,Reform,1.35,False,False,False
 2002,house,California,CA,7,George Miller,Democratic,70.71,True,True,False
 2002,house,California,CA,7,Charles R. Hargrave,Republican,26.44,False,False,False
 2002,house,California,CA,7,Scott A. Wilson,Libertarian,2.85,False,False,False
@@ -91,6 +93,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,California,CA,13,Pete Stark,Democratic,71.06,True,True,False
 2002,house,California,CA,13,Syed Mahmood,Republican,22.06,False,False,False
 2002,house,California,CA,13,Mark Stroberg,Libertarian,3.04,False,False,False
+2002,house,California,CA,13,Don J. Grundmann,American Independent,2.28,False,False,False
+2002,house,California,CA,13,John Bambey,Reform,1.56,False,False,False
 2002,house,California,CA,14,Anna Eshoo,Democratic,68.18,True,True,False
 2002,house,California,CA,14,Joe Nixon,Republican,28.16,False,False,False
 2002,house,California,CA,14,Andrew Carver,Libertarian,3.66,False,False,False
@@ -106,6 +110,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,California,CA,17,Jascha Lee,Libertarian,1.62,False,False,False
 2002,house,California,CA,18,Dennis Cardoza,Democratic,51.26,True,False,False
 2002,house,California,CA,18,Dick Monteith,Republican,43.37,False,False,False
+2002,house,California,CA,18,Kevin Cripe,American Independent,3.32,False,False,False
 2002,house,California,CA,18,Linda De Groat,Libertarian,2.0,False,False,False
 2002,house,California,CA,19,George Radanovich,Republican,67.31,True,True,False
 2002,house,California,CA,19,John Veen,Democratic,30.04,False,False,False
@@ -153,6 +158,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,California,CA,34,Wayne Miller,Republican,25.96,False,False,False
 2002,house,California,CA,35,Maxine Waters,Democratic,77.51,True,True,False
 2002,house,California,CA,35,Ross Moen,Republican,19.37,False,False,False
+2002,house,California,CA,35,Gordon Michael Mego,American Independent,3.12,False,False,False
 2002,house,California,CA,36,Jane Harman,Democratic,61.35,True,True,True
 2002,house,California,CA,36,Stuart Johnson,Republican,35.01,False,False,True
 2002,house,California,CA,36,Mark McSpadden,Libertarian,3.63,False,False,True
@@ -227,6 +233,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Colorado,CO,7,Bob Beauprez,Republican,47.31,True,False,True
 2002,house,Colorado,CO,7,Mike Feeley,Democratic,47.24,False,False,True
 2002,house,Colorado,CO,7,Dave Chandler,Green,1.89,False,False,True
+2002,house,Colorado,CO,7,Victor Good,Natural Law,1.81,False,False,True
 2002,house,Colorado,CO,7,Bud Martin,Libertarian,1.68,False,False,True
 2002,house,Connecticut,CT,1,John B. Larson,Democratic,66.79,True,True,False
 2002,house,Connecticut,CT,1,Phil Steele,Republican,33.2,False,False,False
@@ -239,6 +246,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Connecticut,CT,4,Stephanie Sanchez,Democratic,35.57,False,False,False
 2002,house,Connecticut,CT,5,Nancy Johnson,Republican,54.25,True,False,False
 2002,house,Connecticut,CT,5,James H. Maloney,Democratic,43.26,False,True,False
+2002,house,Connecticut,CT,5,Joseph Zdonczyk,Constitution,1.77,False,False,False
 2002,house,Connecticut,CT,5,Walter Gengarelly,Libertarian,0.72,False,False,False
 2002,house,Delaware,DE,AL,Mike Castle,Republican,72.07,True,True,False
 2002,house,Delaware,DE,AL,Michael Miller,Democratic,26.71,False,False,False
@@ -271,6 +279,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Florida,FL,15,Dave Weldon,Republican,63.15,True,True,False
 2002,house,Florida,FL,15,Jim Tso,Democratic,36.85,False,False,False
 2002,house,Florida,FL,16,Mark Foley,Republican,78.88,True,True,False
+2002,house,Florida,FL,16,Jack McLain,Constitution,21.12,False,False,False
 2002,house,Florida,FL,17,Kendrick Meek,Democratic,100.0,True,False,True
 2002,house,Florida,FL,18,Ileana Ros-Lehtinen,Republican,69.11,True,True,False
 2002,house,Florida,FL,18,Ray Chote,Democratic,28.61,False,False,False
@@ -317,6 +326,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Hawaii,HI,2,Patsy Mink,Democratic,56.16,True,True,True
 2002,house,Hawaii,HI,2,Bob McDermott,Republican,39.98,False,False,True
 2002,house,Hawaii,HI,2,Jeff Mallan,Libertarian,2.63,False,False,True
+2002,house,Hawaii,HI,2,Nicholas Bedworth,Natural Law,1.23,False,False,True
 2002,house,Idaho,ID,1,Butch Otter,Republican,58.57,True,True,False
 2002,house,Idaho,ID,1,Betty Richardson,Democratic,38.94,False,False,False
 2002,house,Idaho,ID,1,Steve Gothard,Libertarian,2.49,False,False,False
@@ -414,6 +424,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Kansas,KS,2,Art Clack,Libertarian,2.06,False,False,False
 2002,house,Kansas,KS,3,Dennis Moore,Democratic,50.18,True,True,False
 2002,house,Kansas,KS,3,Adam Taff,Republican,46.89,False,False,False
+2002,house,Kansas,KS,3,Dawn Bly,Unknown,2.3,False,False,False
 2002,house,Kansas,KS,3,Douglas Martin,Libertarian,0.62,False,False,False
 2002,house,Kansas,KS,4,Todd Tiahrt,Republican,60.58,True,True,False
 2002,house,Kansas,KS,4,Carlos Nolla,Democratic,37.0,False,False,False
@@ -499,6 +510,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Michigan,MI,3,Vern Ehlers,Republican,69.97,True,True,False
 2002,house,Michigan,MI,3,Kathryn Lynnes,Democratic,28.32,False,False,False
 2002,house,Michigan,MI,3,Tom Quinn,Libertarian,1.19,False,False,False
+2002,house,Michigan,MI,3,Richard Lucey,Reform,0.51,False,False,False
 2002,house,Michigan,MI,4,Dave Camp,Republican,68.21,True,True,False
 2002,house,Michigan,MI,4,Lawrence Hollenbeck,Democratic,30.17,False,False,False
 2002,house,Michigan,MI,4,Sterling Johnson,Green,1.03,False,False,False
@@ -508,6 +520,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Michigan,MI,5,Harley Mikkelson,Green,2.99,False,False,True
 2002,house,Michigan,MI,6,Fred Upton,Republican,69.17,True,True,False
 2002,house,Michigan,MI,6,Gary Giguere Jr.,Democratic,29.31,False,False,False
+2002,house,Michigan,MI,6,Harley Mikkelson,Reform,1.52,False,False,False
 2002,house,Michigan,MI,7,Nick Smith,Republican,59.66,True,True,False
 2002,house,Michigan,MI,7,Mike Simpson,Democratic,38.61,False,False,False
 2002,house,Michigan,MI,7,Kenneth L. Proctor,Libertarian,1.73,False,False,False
@@ -523,9 +536,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Michigan,MI,11,Thaddeus McCotter,Republican,57.19,True,False,True
 2002,house,Michigan,MI,11,Kevin Kelley,Democratic,39.66,False,False,True
 2002,house,Michigan,MI,11,William Boyd,Green,1.93,False,False,True
+2002,house,Michigan,MI,11,Dan Malone,US Taxpayers,1.23,False,False,True
 2002,house,Michigan,MI,12,Sander Levin,Democratic,68.26,True,False,True
 2002,house,Michigan,MI,12,Harvey Dean,Republican,29.78,False,False,True
 2002,house,Michigan,MI,12,Dick Gach,Libertarian,1.3,False,False,True
+2002,house,Michigan,MI,12,Steven Revis,US Taxpayers,0.66,False,False,True
 2002,house,Michigan,MI,13,Carolyn Cheeks Kilpatrick,Democratic,91.61,True,False,False
 2002,house,Michigan,MI,13,Raymond Warner,Republican,8.39,False,False,False
 2002,house,Michigan,MI,14,John Conyers,Democratic,83.21,True,True,False
@@ -540,6 +555,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Minnesota,MN,1,Greg Mikkelson,Green,3.75,False,False,False
 2002,house,Minnesota,MN,2,John Kline,Republican,53.33,True,False,False
 2002,house,Minnesota,MN,2,Bill Luther,DFL,42.22,False,False,False
+2002,house,Minnesota,MN,2,Greg Mikkelson,Other,4.33,False,False,False
 2002,house,Minnesota,MN,3,Jim Ramstad,Republican,72.02,True,True,False
 2002,house,Minnesota,MN,3,Darryl Stanton,DFL,27.88,False,False,False
 2002,house,Minnesota,MN,4,Betty McCollum,DFL,62.22,True,True,False
@@ -550,23 +566,28 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Minnesota,MN,5,Tim Davis,Green,6.96,False,False,False
 2002,house,Minnesota,MN,6,Mark Kennedy,Republican,57.34,True,False,False
 2002,house,Minnesota,MN,6,Janet Robert,DFL,35.06,False,False,False
+2002,house,Minnesota,MN,6,Dan Becker,Independence Party (Minnesota),7.48,False,False,False
 2002,house,Minnesota,MN,7,Collin Peterson,DFL,65.27,True,True,False
 2002,house,Minnesota,MN,7,Dan Stevens,Republican,34.64,False,False,False
 2002,house,Minnesota,MN,8,Jim Oberstar,DFL,68.65,True,True,False
 2002,house,Minnesota,MN,8,Bob Lemen,Republican,31.23,False,False,False
 2002,house,Mississippi,MS,1,Roger Wicker,Republican,71.43,True,True,False
 2002,house,Mississippi,MS,1,Rex Weathers,Democratic,24.2,False,False,False
+2002,house,Mississippi,MS,1,Brenda Blackburn,Reform,2.6,False,False,False
 2002,house,Mississippi,MS,1,Harold Taylor,Libertarian,1.77,False,False,False
 2002,house,Mississippi,MS,2,Bennie Thompson,Democratic,55.14,True,True,False
 2002,house,Mississippi,MS,2,Clinton LeSueur,Republican,42.75,False,False,False
+2002,house,Mississippi,MS,2,Lee Dilworth,Reform,2.1,False,False,False
 2002,house,Mississippi,MS,3,Chip Pickering,Republican,63.76,True,True,False
 2002,house,Mississippi,MS,3,Ronnie Shows,Democratic,34.76,False,False,False
 2002,house,Mississippi,MS,3,Jim Giles,Independent,0.65,False,False,False
 2002,house,Mississippi,MS,3,Harvey Darden,Independent,0.43,False,False,False
 2002,house,Mississippi,MS,3,Brad McDonald,Libertarian,0.35,False,False,False
+2002,house,Mississippi,MS,3,Carroll Grantham,Reform,0.23,False,False,False
 2002,house,Mississippi,MS,4,Gene Taylor,Democratic,75.21,True,False,False
 2002,house,Mississippi,MS,4,Karl Mertz,Republican,21.24,False,False,False
 2002,house,Mississippi,MS,4,Wayne Parker,Libertarian,2.05,False,False,False
+2002,house,Mississippi,MS,4,Thomas Huffmaster,Reform,1.51,False,False,False
 2002,house,Missouri,MO,1,Lacy Clay,Democratic,70.11,True,True,False
 2002,house,Missouri,MO,1,Richard Schwadron,Republican,27.09,False,False,False
 2002,house,Missouri,MO,1,Jim Higgins,Libertarian,2.8,False,False,False
@@ -608,14 +629,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Nebraska,NE,3,Jerry Hickman,Libertarian,6.83,False,False,False
 2002,house,Nevada,NV,1,Shelley Berkley,Democratic,53.72,True,True,False
 2002,house,Nevada,NV,1,Lynette Boggs-McDonald,Republican,42.73,False,False,False
+2002,house,Nevada,NV,1,Steven Dempsey,Independent American,2.39,False,False,False
 2002,house,Nevada,NV,1,W. Lane Startin,Green,1.16,False,False,False
 2002,house,Nevada,NV,2,Jim Gibbons,Republican,74.3,True,True,False
 2002,house,Nevada,NV,2,Travis Souza,Democratic,19.97,False,False,False
+2002,house,Nevada,NV,2,Janine Hansen,Independent American,3.6,False,False,False
 2002,house,Nevada,NV,2,Brendan Trainor,Libertarian,1.7,False,False,False
+2002,house,Nevada,NV,2,Robert Winquist,Natural Law,0.39,False,False,False
 2002,house,Nevada,NV,3,Jon Porter,Republican,56.08,True,False,True
 2002,house,Nevada,NV,3,Dario Herrera,Democratic,37.24,False,False,True
 2002,house,Nevada,NV,3,Pete O'Neil,Independent,3.82,False,False,True
 2002,house,Nevada,NV,3,Neil Scott,Libertarian,1.91,False,False,True
+2002,house,Nevada,NV,3,Dick O'Dell,Independent American,0.95,False,False,True
 2002,house,New Hampshire,NH,1,Jeb Bradley,Republican,58.11,True,False,True
 2002,house,New Hampshire,NH,1,Martha Fuller Clark,Democratic,38.48,False,False,True
 2002,house,New Hampshire,NH,1,Dan Belforti,Libertarian,3.33,False,False,True
@@ -628,13 +653,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,New Jersey,NJ,2,Steven Farkas,Democratic,28.28,False,False,False
 2002,house,New Jersey,NJ,2,Roger Merle,Green,1.03,False,False,False
 2002,house,New Jersey,NJ,2,Michael J. Matthews,Libertarian,1.02,False,False,False
+2002,house,New Jersey,NJ,2,Constantino Rozzo,Socialist,0.46,False,False,False
 2002,house,New Jersey,NJ,3,Jim Saxton,Republican,65.02,True,True,False
 2002,house,New Jersey,NJ,3,Richard Strada,Democratic,33.92,False,False,False
 2002,house,New Jersey,NJ,3,Raymond Byrne,Libertarian,0.7,False,False,False
+2002,house,New Jersey,NJ,3,Ken Feduniewicz,America First,0.35,False,False,False
 2002,house,New Jersey,NJ,4,Chris Smith,Republican,66.15,True,True,False
 2002,house,New Jersey,NJ,4,Mary Brennan,Democratic,32.11,False,False,False
 2002,house,New Jersey,NJ,4,Keith Quarles,Libertarian,0.69,False,False,False
 2002,house,New Jersey,NJ,4,Hermann Winkelmann,Independent,0.61,False,False,False
+2002,house,New Jersey,NJ,4,Don Graham,Conservative,0.44,False,False,False
 2002,house,New Jersey,NJ,5,Scott Garrett,Republican,59.48,True,False,True
 2002,house,New Jersey,NJ,5,Anne Sumers,Democratic,38.28,False,False,True
 2002,house,New Jersey,NJ,5,Michael Cino,Independent,2.23,False,False,True
@@ -660,6 +688,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,New Jersey,NJ,12,DeForest Soaries,Republican,36.65,False,False,False
 2002,house,New Jersey,NJ,12,Carl Mayer,Green,1.09,False,False,False
 2002,house,New Jersey,NJ,12,Thomas Abrams,Libertarian,0.73,False,False,False
+2002,house,New Jersey,NJ,12,Karen Anne Zaletel,Conservative,0.49,False,False,False
 2002,house,New Jersey,NJ,13,Bob Menendez,Democratic,78.3,True,True,False
 2002,house,New Jersey,NJ,13,James Geron,Republican,18.17,False,False,False
 2002,house,New Jersey,NJ,13,Pat Henry Faulkner,Green,1.29,False,False,False
@@ -679,15 +708,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,New York,NY,2,John Keenan,Green,1.07,False,False,False
 2002,house,New York,NY,3,Peter King,Republican,71.88,True,True,False
 2002,house,New York,NY,3,Stuart Finz,Democratic,27.22,False,False,False
+2002,house,New York,NY,3,Janeen DePrima,Liberal Party (New York),0.89,False,False,False
 2002,house,New York,NY,4,Carolyn McCarthy,Democratic,56.25,True,True,False
 2002,house,New York,NY,4,Marilyn F. O'Grady,Republican,43.24,False,False,False
 2002,house,New York,NY,4,Tim Derham,Green,0.51,False,False,False
 2002,house,New York,NY,5,Gary Ackerman,Democratic,92.3,True,True,False
+2002,house,New York,NY,5,Perry Reich,Conservative Party (New York),7.68,False,False,False
 2002,house,New York,NY,6,Gregory Meeks,Democratic,96.51,True,True,False
+2002,house,New York,NY,6,Rey Clarke,Independence Party (New York),3.49,False,False,False
 2002,house,New York,NY,7,Joseph Crowley,Democratic,73.29,True,True,False
 2002,house,New York,NY,7,Kevin Brawley,Republican,26.71,False,False,False
 2002,house,New York,NY,8,Jerry Nadler,Democratic,76.07,True,True,False
 2002,house,New York,NY,8,Jim Farrin,Republican,18.48,False,False,False
+2002,house,New York,NY,8,Alan Jay Gerber,Conservative Party (New York),3.16,False,False,False
 2002,house,New York,NY,8,Dan Wentzel,Green,1.8,False,False,False
 2002,house,New York,NY,8,Joseph Dobrian,Libertarian,0.49,False,False,False
 2002,house,New York,NY,9,Anthony Weiner,Democratic,65.71,True,True,False
@@ -696,10 +729,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,New York,NY,10,Herbert F. Ryan,Republican,2.17,False,False,False
 2002,house,New York,NY,11,Major Owens,Democratic,86.56,True,True,False
 2002,house,New York,NY,11,Susan Cleary,Republican,12.55,False,False,False
+2002,house,New York,NY,11,Alice Gaffney,Conservative Party (New York),0.9,False,False,False
 2002,house,New York,NY,12,Nydia Velázquez,Democratic,95.81,True,True,False
 2002,house,New York,NY,12,Cesar Estevez,Republican,4.19,False,False,False
 2002,house,New York,NY,13,Vito Fossella,Republican,69.63,True,True,False
 2002,house,New York,NY,13,Arne Mattsson,Democratic,28.32,False,False,False
+2002,house,New York,NY,13,Anita Lerman,Independence Party (New York),1.38,False,False,False
 2002,house,New York,NY,13,Henry Bardel,Green,0.67,False,False,False
 2002,house,New York,NY,14,Carolyn Maloney,Democratic,75.25,True,True,False
 2002,house,New York,NY,14,Anton Srdanovic,Republican,24.75,False,False,False
@@ -709,10 +744,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,New York,NY,16,Frank Della Valle,Republican,7.93,False,False,False
 2002,house,New York,NY,17,Eliot Engel,Democratic,62.61,True,True,False
 2002,house,New York,NY,17,Scott Vanderhoef,Republican,34.43,False,False,False
+2002,house,New York,NY,17,Arthur Gallagher,Right to Life,1.0,False,False,False
 2002,house,New York,NY,17,Elizabeth Shanklin,Green,1.41,False,False,False
 2002,house,New York,NY,18,Nita Lowey,Democratic,92.04,True,True,False
+2002,house,New York,NY,18,Michael J. Reynolds,Right to Life,7.96,False,False,False
 2002,house,New York,NY,19,Sue Kelly,Republican,69.97,True,True,True
 2002,house,New York,NY,19,Janine Selendy,Democratic,25.98,False,False,True
+2002,house,New York,NY,19,Christine Tighe,Right to Life,2.53,False,False,True
 2002,house,New York,NY,19,Jonathan Wright,Green,1.53,False,False,True
 2002,house,New York,NY,20,John E. Sweeney,Republican,73.32,True,False,False
 2002,house,New York,NY,20,Frank Stoppenbach,Democratic,23.98,False,False,False
@@ -722,22 +760,28 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,New York,NY,22,Maurice Hinchey,Democratic,64.19,True,False,False
 2002,house,New York,NY,22,Eric Hall,Republican,32.87,False,False,False
 2002,house,New York,NY,22,Steven Greenfield,Green,1.54,False,False,False
+2002,house,New York,NY,22,Paul Laux,Right to Life,1.4,False,False,False
 2002,house,New York,NY,23,John M. McHugh,Republican,100.0,True,False,False
 2002,house,New York,NY,24,Sherwood Boehlert,Republican,70.7,True,False,False
+2002,house,New York,NY,24,David L. Walrath,Conservative Party (New York),21.59,False,False,False
 2002,house,New York,NY,24,Mark Dunau,Green,4.36,False,False,False
+2002,house,New York,NY,24,Kathleen Peters,Right to Life,3.34,False,False,False
 2002,house,New York,NY,25,James T. Walsh,Republican,72.29,True,True,False
 2002,house,New York,NY,25,Stephanie Aldersley,Democratic,26.64,False,False,False
 2002,house,New York,NY,25,Francis Gavin,Green,1.07,False,False,False
 2002,house,New York,NY,26,Thomas M. Reynolds,Republican,73.63,True,False,False
 2002,house,New York,NY,26,Ayesha Nariman,Democratic,22.42,False,False,False
+2002,house,New York,NY,26,Shawn Harris,Right to Life,2.23,False,False,False
 2002,house,New York,NY,26,Paul Fallon,Green,1.71,False,False,False
 2002,house,New York,NY,27,Jack Quinn,Republican,69.06,True,False,False
 2002,house,New York,NY,27,Peter Crotty,Democratic,27.49,False,False,False
+2002,house,New York,NY,27,Thomas Casey,Right to Life,2.06,False,False,False
 2002,house,New York,NY,27,Albert LaBruna,Green,1.38,False,False,False
 2002,house,New York,NY,28,Louise Slaughter,Democratic,62.46,True,True,True
 2002,house,New York,NY,28,Henry Wojtaszek,Republican,37.54,False,False,True
 2002,house,New York,NY,29,Amo Houghton,Republican,73.1,True,False,False
 2002,house,New York,NY,29,Kisun Peters,Democratic,21.26,False,False,False
+2002,house,New York,NY,29,Wendy Johnson,Right to Life,3.34,False,False,False
 2002,house,New York,NY,29,Rachel Treichler,Green,2.3,False,False,False
 2002,house,North Carolina,NC,1,Frank Ballance,Democratic,63.74,True,False,True
 2002,house,North Carolina,NC,1,Greg Dority,Republican,34.83,False,False,True
@@ -838,6 +882,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Oregon,OR,3,Sarah Seale,Republican,26.73,False,False,False
 2002,house,Oregon,OR,3,Walt Brown,Socialist,2.8,False,False,False
 2002,house,Oregon,OR,3,Kevin Jones,Libertarian,2.0,False,False,False
+2002,house,Oregon,OR,3,David Brownlow,Constitution,2.49,False,False,False
 2002,house,Oregon,OR,4,Peter DeFazio,Democratic,63.82,True,True,False
 2002,house,Oregon,OR,4,Liz VanLeeuwen,Republican,34.36,False,False,False
 2002,house,Oregon,OR,4,Chris Bigelow,Libertarian,1.75,False,False,False
@@ -866,15 +911,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Pennsylvania,PA,10,Kurt Shotko,Green,7.07,False,False,False
 2002,house,Pennsylvania,PA,11,Paul Kanjorski,Democratic,55.6,True,True,False
 2002,house,Pennsylvania,PA,11,Lou Barletta,Republican,42.43,False,False,False
+2002,house,Pennsylvania,PA,11,Tom McLaughlin,Reform,1.96,False,False,False
 2002,house,Pennsylvania,PA,12,John Murtha,Democratic,73.48,True,True,False
 2002,house,Pennsylvania,PA,12,Bill Choby,Republican,26.52,False,False,False
 2002,house,Pennsylvania,PA,13,Joe Hoeffel,Democratic,50.95,True,True,True
 2002,house,Pennsylvania,PA,13,Melissa Brown,Republican,47.34,False,False,True
+2002,house,Pennsylvania,PA,13,John P. McDermott,Constitution,1.71,False,False,True
 2002,house,Pennsylvania,PA,14,Mike Doyle,Democratic,100.0,True,False,True
 2002,house,Pennsylvania,PA,15,Pat Toomey,Republican,57.36,True,True,False
 2002,house,Pennsylvania,PA,15,Ed O'Brien,Democratic,42.64,False,False,False
 2002,house,Pennsylvania,PA,16,Joe Pitts,Republican,88.45,True,True,False
 2002,house,Pennsylvania,PA,16,Will Todd,Green,6.48,False,False,False
+2002,house,Pennsylvania,PA,16,Kenneth Brenneman,Constitution,5.03,False,False,False
 2002,house,Pennsylvania,PA,17,Tim Holden,Democratic,51.41,True,False,False
 2002,house,Pennsylvania,PA,17,George Gekas,Republican,48.59,False,True,False
 2002,house,Pennsylvania,PA,18,Tim Murphy,Republican,60.14,True,False,True
@@ -889,15 +937,20 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Rhode Island,RI,2,John Matson,Republican,22.27,False,False,False
 2002,house,Rhode Island,RI,2,Dorman Hayes,Independent,1.37,False,False,False
 2002,house,South Carolina,SC,1,Henry Brown,Republican,89.56,True,True,False
+2002,house,South Carolina,SC,1,James E. Dunn,United Citizens,6.91,False,False,False
+2002,house,South Carolina,SC,1,Joe Innella,Natural Law,3.49,False,False,False
 2002,house,South Carolina,SC,2,Joe Wilson,Republican,84.12,True,True,False
+2002,house,South Carolina,SC,2,Mark Whittington,United Citizens,10.03,False,False,False
 2002,house,South Carolina,SC,2,Jim Legg,Libertarian,5.63,False,False,False
 2002,house,South Carolina,SC,3,Gresham Barrett,Republican,67.14,True,False,True
 2002,house,South Carolina,SC,3,George Brightharp,Democratic,31.28,False,False,True
 2002,house,South Carolina,SC,3,Mike Boerste,Libertarian,1.56,False,False,True
 2002,house,South Carolina,SC,4,Jim DeMint,Republican,69.0,True,True,False
 2002,house,South Carolina,SC,4,Peter Ashy,Democratic,29.67,False,False,False
+2002,house,South Carolina,SC,4,Faye Walters,Natural Law,1.23,False,False,False
 2002,house,South Carolina,SC,5,John Spratt,Democratic,85.87,True,True,False
 2002,house,South Carolina,SC,5,Doug Kendall,Libertarian,7.76,False,False,False
+2002,house,South Carolina,SC,5,Steve Lefemine,Constitution,6.29,False,False,False
 2002,house,South Carolina,SC,6,Jim Clyburn,Democratic,66.98,True,True,False
 2002,house,South Carolina,SC,6,Gary McLeod,Republican,32.03,False,False,False
 2002,house,South Carolina,SC,6,Craig Augenstein,Libertarian,0.96,False,False,False
@@ -1037,6 +1090,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Utah,UT,3,Kitty Burton,Libertarian,3.59,False,False,False
 2002,house,Vermont,VT,AL,Bernie Sanders,Independent,64.26,True,True,False
 2002,house,Vermont,VT,AL,Bill Meub,Republican,32.29,False,False,False
+2002,house,Vermont,VT,AL,Jane Newton,Liberty Union,1.41,False,False,False
+2002,house,Vermont,VT,AL,Fawn Skinner,Grassroots,1.04,False,False,False
 2002,house,Vermont,VT,AL,Daniel Krymkowski,Libertarian,0.9,False,False,False
 2002,house,Virginia,VA,1,Jo Ann Davis,Republican,100.0,True,True,False
 2002,house,Virginia,VA,2,Ed Schrock,Republican,83.15,True,True,False
@@ -1056,6 +1111,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 2002,house,Virginia,VA,10,Frank Wolf,Republican,71.72,True,True,False
 2002,house,Virginia,VA,10,John B. Stevens Jr.,Democratic,28.13,False,False,False
 2002,house,Virginia,VA,11,Tom Davis,Republican,82.9,True,True,False
+2002,house,Virginia,VA,11,Frank Creel,Constitution,16.47,False,False,False
 2002,house,Washington,WA,1,Jay Inslee,Democratic,55.64,True,True,False
 2002,house,Washington,WA,1,Joe Marine,Republican,41.31,False,False,False
 2002,house,Washington,WA,1,Mark B. Wilson,Libertarian,3.05,False,False,False

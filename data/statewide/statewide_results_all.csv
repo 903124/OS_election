@@ -1,4 +1,1411 @@
 year,state,state_code,office,candidate,party,percentage,winner,incumbent
+2000,Delaware,DE,governor,Ruth Ann Minner,Democratic,59.2,True,False
+2000,Delaware,DE,governor,John M. Burris,Republican,39.7,False,False
+2000,Delaware,DE,governor,Floyd E. McDowell,Independent,1.0,False,False
+2000,Indiana,IN,governor,Frank O'Bannon,Democratic,56.6,True,True
+2000,Indiana,IN,governor,David M. McIntosh,Republican,41.7,False,False
+2000,Indiana,IN,governor,Andrew Horning,Libertarian,1.8,False,False
+2000,Missouri,MO,governor,Bob Holden,Democratic,49.1,True,False
+2000,Missouri,MO,governor,Jim Talent,Republican,48.2,False,False
+2000,Missouri,MO,governor,Larry Rice,Independent,1.5,False,False
+2000,Montana,MT,governor,Judy Martz,Republican,51.0,True,False
+2000,Montana,MT,governor,Mark O'Keefe (politician)|Mark O'Keefe,Democratic,47.1,False,False
+2000,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,1.9,False,False
+2000,New Hampshire,NH,governor,Jeanne Shaheen,Democratic,48.7,True,True
+2000,New Hampshire,NH,governor,Gordon J. Humphrey,Republican,43.7,False,False
+2000,New Hampshire,NH,governor,Mary Brown,Independent,6.4,False,False
+2000,New Hampshire,NH,governor,John J. Babiarz,Libertarian,1.1,False,False
+2000,North Carolina,NC,governor,Mike Easley,Democratic,52.0,True,False
+2000,North Carolina,NC,governor,Richard Vinroot,Republican,46.3,False,False
+2000,North Carolina,NC,governor,Barbara Howe,Libertarian,1.4,False,False
+2000,North Dakota,ND,governor,John Hoeven,Republican,55.0,True,False
+2000,North Dakota,ND,governor,Heidi Heitkamp,Democratic,45.0,False,False
+2000,Utah,UT,governor,Mike Leavitt,Republican,55.8,True,True
+2000,Utah,UT,governor,Bill Orton,Democratic,42.3,False,False
+2000,Vermont,VT,governor,Howard Dean,Democratic,50.5,True,True
+2000,Vermont,VT,governor,Ruth Dwyer (politician)|Ruth Dwyer,Republican,38.0,False,False
+2000,Vermont,VT,governor,Anthony Pollina,Progressive,9.6,False,False
+2000,Washington,WA,governor,Gary Locke,Democratic,58.4,True,True
+2000,Washington,WA,governor,John Carlson (radio host)|John Carlson,Republican,39.7,False,False
+2000,Washington,WA,governor,Steve LePage,Libertarian,1.9,False,False
+2000,West Virginia,WV,governor,Bob Wise,Democratic,50.1,True,False
+2000,West Virginia,WV,governor,Cecil Underwood,Republican,47.2,False,True
+2000,West Virginia,WV,governor,Denise Giardina,Mountain,1.6,False,False
+2000,American Samoa,AS,governor,Tauese Sunia,Democratic,51.4,True,True
+2000,American Samoa,AS,governor,L. Peter Reid,Independent,48.6,False,False
+2000,Puerto Rico,PR,governor,Sila María Calderón,Popular Democratic Party (puerto Rico),48.6,True,False
+2000,Puerto Rico,PR,governor,Carlos Pesquera,New Progressive Party (puerto Rico),45.7,False,False
+2000,Puerto Rico,PR,governor,Rubén Berríos Martínez,Independence,5.2,False,False
+2002,Alabama,AL,governor,Bob R. Riley,Republican,49.2,True,False
+2002,Alabama,AL,governor,Don Siegelman,Democratic,49.0,False,True
+2002,Alabama,AL,governor,John Sophocleus,Libertarian,1.7,False,False
+2002,Alaska,AK,governor,Frank Murkowski,Republican,55.9,True,False
+2002,Alaska,AK,governor,Fran Ulmer,Democratic,40.7,False,False
+2002,Alaska,AK,governor,Diane E. Benson,Green,1.3,False,False
+2002,Arizona,AZ,governor,Janet Napolitano,Democratic,46.2,True,False
+2002,Arizona,AZ,governor,Matt Salmon,Republican,45.2,False,False
+2002,Arizona,AZ,governor,Richard D. Mahoney,Independent,6.9,False,False
+2002,Arizona,AZ,governor,Barry Hess,Libertarian,1.7,False,False
+2002,Arkansas,AR,governor,Mike Huckabee,Republican,53.0,True,True
+2002,Arkansas,AR,governor,Jimmie Lou Fisher,Democratic,47.0,False,False
+2002,California,CA,governor,Gray Davis,Democratic,47.3,True,True
+2002,California,CA,governor,Bill Simon (politician)|Bill Simon,Politician,42.4,False,False
+2002,California,CA,governor,Peter Camejo,Green,5.3,False,False
+2002,California,CA,governor,Gary Copeland,Libertarian,2.2,False,False
+2002,California,CA,governor,Reinhold Gulke,American Independent,1.7,False,False
+2002,California,CA,governor,Iris Adam,Natural Law,1.2,False,False
+2002,Colorado,CO,governor,Bill Owens,Colorado Politician,62.6,True,True
+2002,Colorado,CO,governor,Rollie Heath,Democratic,33.6,False,False
+2002,Colorado,CO,governor,Ronald Forthofer,Green,2.3,False,False
+2002,Colorado,CO,governor,Ralph Shnelvar,Libertarian,1.4,False,False
+2002,Connecticut,CT,governor,John G. Rowland,Republican,56.1,True,True
+2002,Connecticut,CT,governor,Bill Curry (politician)|Bill Curry,Politician,43.9,False,False
+2002,Florida,FL,governor,Jeb Bush,Republican,56.0,True,True
+2002,Florida,FL,governor,Bill McBride (candidate)|Bill McBride,Candidate,43.2,False,False
+2002,Georgia,GA,governor,Sonny Perdue,Republican,51.4,True,False
+2002,Georgia,GA,governor,Roy Barnes,Democratic,46.3,False,True
+2002,Georgia,GA,governor,Garrett Hayes,Libertarian,2.3,False,False
+2002,Hawaii,HI,governor,Linda Lingle,Republican,51.6,True,False
+2002,Hawaii,HI,governor,Mazie Hirono,Democratic,47.0,False,False
+2002,Idaho,ID,governor,Dirk Kempthorne,Republican,56.3,True,True
+2002,Idaho,ID,governor,Jerry Brady,Democratic,41.7,False,False
+2002,Idaho,ID,governor,Daniel Adams,Libertarian,2.0,False,False
+2002,Illinois,IL,governor,Rod Blagojevich,Democratic,52.2,True,False
+2002,Illinois,IL,governor,Jim Ryan (politician)|Jim Ryan,Politician,45.1,False,False
+2002,Illinois,IL,governor,Calvin Skinner,Libertarian,2.1,False,False
+2002,Iowa,IA,governor,Tom Vilsack,Democratic,52.7,True,True
+2002,Iowa,IA,governor,Doug Gross,Republican,44.5,False,False
+2002,Iowa,IA,governor,Jay Robinson,Green,1.4,False,False
+2002,Iowa,IA,governor,Clyde Cleveland,Libertarian,1.3,False,False
+2002,Kansas,KS,governor,Kathleen Sebelius,Democratic,52.9,True,False
+2002,Kansas,KS,governor,Tim Shallenburger,Republican,45.1,False,False
+2002,Kansas,KS,governor,Theodore Pettibone,Reform,1.1,False,False
+2002,Kansas,KS,governor,Dennis Hawver,Libertarian,1.0,False,False
+2002,Maine,ME,governor,John Baldacci,Democratic,47.1,True,False
+2002,Maine,ME,governor,Peter Cianchette,Republican,41.5,False,False
+2002,Maine,ME,governor,Jonathan Carter (politician)|Jonathan Carter,Politician,9.3,False,False
+2002,Maine,ME,governor,John Michael (politician)|John Michael,Politician,2.1,False,False
+2002,Maryland,MD,governor,Bob Ehrlich,Republican,51.5,True,False
+2002,Maryland,MD,governor,Kathleen Kennedy Townsend|Kathleen K. Townsend,Democratic,47.7,False,False
+2002,Massachusetts,MA,governor,Mitt Romney,Republican,49.8,True,False
+2002,Massachusetts,MA,governor,Shannon O'Brien (Massachusetts politician)|Shannon O'Brien,Massachusetts Politician,44.9,False,False
+2002,Massachusetts,MA,governor,Jill Stein,Green-rainbow,3.5,False,False
+2002,Massachusetts,MA,governor,Carla Howell,Libertarian,1.1,False,False
+2002,Michigan,MI,governor,Jennifer Granholm,Democratic,51.4,True,False
+2002,Michigan,MI,governor,Dick Posthumus,Republican,47.4,False,False
+2002,Minnesota,MN,governor,Tim Pawlenty,Republican,44.4,True,False
+2002,Minnesota,MN,governor,Roger Moe,Democratic,36.5,False,False
+2002,Minnesota,MN,governor,Tim Penny,Independence,16.2,False,False
+2002,Minnesota,MN,governor,Ken Pentel,Green,2.3,False,False
+2002,Nebraska,NE,governor,Mike Johanns,Republican,68.7,True,True
+2002,Nebraska,NE,governor,Stormy Dean,Democratic,27.5,False,False
+2002,Nebraska,NE,governor,Paul A. Rosberg,Nebraska,3.8,False,False
+2002,Nevada,NV,governor,Kenny Guinn,Republican,68.2,True,True
+2002,Nevada,NV,governor,Joe Neal (politician)|Joe Neal,Politician,22.0,False,False
+2002,Nevada,NV,governor,Dick Geyer,Libertarian,1.6,False,False
+2002,Nevada,NV,governor,David G. Holmgren,Independent American,1.4,False,False
+2002,Nevada,NV,governor,Jerry L. Norton,Independent,1.1,False,False
+2002,New Hampshire,NH,governor,Craig Benson,Republican,58.6,True,False
+2002,New Hampshire,NH,governor,Mark Fernald,Democratic,38.2,False,False
+2002,New Hampshire,NH,governor,John Babiarz,Libertarian,2.9,False,False
+2002,New Mexico,NM,governor,Bill Richardson,Democratic,55.5,True,False
+2002,New Mexico,NM,governor,John Sanchez,Republican,39.0,False,False
+2002,New Mexico,NM,governor,David Bacon,Green,5.5,False,False
+2002,New York,NY,governor,George Pataki,Republican,49.4,True,True
+2002,New York,NY,governor,Carl McCall,Democratic,33.5,False,False
+2002,New York,NY,governor,Tom Golisano,Independence,14.3,False,False
+2002,New York,NY,governor,Gerald Cronin,Right To Life,1.0,False,False
+2002,Ohio,OH,governor,Bob Taft,Republican,57.8,True,True
+2002,Ohio,OH,governor,Tim Hagan,Democratic,38.3,False,False
+2002,Ohio,OH,governor,John Eastman,Independent,3.9,False,False
+2002,Oklahoma,OK,governor,Brad Henry,Democratic,43.3,True,False
+2002,Oklahoma,OK,governor,Steve Largent,Republican,42.6,False,False
+2002,Oklahoma,OK,governor,Gary Richardson (lawyer)|Gary Richardson,Lawyer,14.1,False,False
+2002,Oregon,OR,governor,Ted Kulongoski,Democratic,49.0,True,False
+2002,Oregon,OR,governor,Kevin Mannix,Republican,46.2,False,False
+2002,Oregon,OR,governor,Tom Cox,Libertarian,4.6,False,False
+2002,Pennsylvania,PA,governor,Ed Rendell,Democratic,53.4,True,False
+2002,Pennsylvania,PA,governor,D. Michael Fisher|Mike Fisher,Republican,44.4,False,False
+2002,Pennsylvania,PA,governor,Ken Krawchuk,Libertarian,1.1,False,False
+2002,Pennsylvania,PA,governor,Mike Morrill,Green,1.1,False,False
+2002,Rhode Island,RI,governor,Donald Carcieri,Republican,54.8,True,False
+2002,Rhode Island,RI,governor,Myrth York,Democratic,45.2,False,False
+2002,South Carolina,SC,governor,Mark Sanford,Republican,52.9,True,False
+2002,South Carolina,SC,governor,Jim Hodges,Democratic,47.0,False,True
+2002,South Dakota,SD,governor,Mike Rounds,Republican,56.8,True,False
+2002,South Dakota,SD,governor,James W. Abbott|Jim Abbott,Democratic,41.9,False,False
+2002,Tennessee,TN,governor,Phil Bredesen,Democratic,50.6,True,False
+2002,Tennessee,TN,governor,Van Hilleary,Republican,47.6,False,False
+2002,Texas,TX,governor,Rick Perry,Republican,57.8,True,True
+2002,Texas,TX,governor,Tony Sanchez (politician)|Tony Sanchez,Politician,40.0,False,False
+2002,Texas,TX,governor,Jeff Daiell,Libertarian,1.5,False,False
+2002,Vermont,VT,governor,Jim Douglas,Republican,44.9,True,False
+2002,Vermont,VT,governor,Doug Racine,Democratic,42.4,False,False
+2002,Vermont,VT,governor,Cornelius Hogan,Independent,9.7,False,False
+2002,Wisconsin,WI,governor,Jim Doyle,Democratic,45.1,True,False
+2002,Wisconsin,WI,governor,Scott McCallum,Republican,41.4,False,True
+2002,Wisconsin,WI,governor,Ed Thompson (Wisconsin politician)|Ed Thompson,Wisconsin Politician,10.4,False,False
+2002,Wisconsin,WI,governor,Jim Young,Green,2.5,False,False
+2002,Wyoming,WY,governor,Dave Freudenthal,Democratic,50.0,True,False
+2002,Wyoming,WY,governor,Eli Bebout,Republican,47.9,False,False
+2002,Wyoming,WY,governor,Dave Dawson,Libertarian,2.1,False,False
+2002,District of Columbia,DC,governor,Anthony A. Williams,Democratic,60.6,True,True
+2002,District of Columbia,DC,governor,Carol Schwartz,Republican,34.5,False,False
+2002,District of Columbia,DC,governor,Steve Donkin,Statehood Green,2.5,False,False
+2002,Guam,GU,governor,Felix P. Camacho,Republican,55.4,True,False
+2002,Guam,GU,governor,Robert A. Underwood,Democratic,44.6,False,False
+2002,U.S. Virgin Islands,VI,governor,Charles W. Turnbull,Democratic,50.1,True,False
+2002,U.S. Virgin Islands,VI,governor,John P. de Jongh,Independent,24.6,False,False
+2002,U.S. Virgin Islands,VI,governor,Alicia Hansen,Independent,7.8,False,False
+2002,U.S. Virgin Islands,VI,governor,Michael Bornn,Republican,7.2,False,False
+2002,U.S. Virgin Islands,VI,governor,Gerard Luz James II,Independent,5.1,False,False
+2002,U.S. Virgin Islands,VI,governor,Cora Christian,Independent,3.1,False,False
+2002,U.S. Virgin Islands,VI,governor,Lloyd L. Williams,Independent,1.5,False,False
+2004,Delaware,DE,governor,Ruth Ann Minner,Democratic,50.9,True,True
+2004,Delaware,DE,governor,Bill Lee (Delaware politician)|Bill Lee,Republican,45.8,False,False
+2004,Delaware,DE,governor,Frank Infante,Independent,2.9,False,False
+2004,Indiana,IN,governor,Mitch Daniels,Republican,53.2,True,False
+2004,Indiana,IN,governor,Joe Kernan (politician)|Joe Kernan,Democratic,45.5,False,True
+2004,Indiana,IN,governor,Kenn Gividen,Libertarian,1.3,False,False
+2004,Missouri,MO,governor,Matt Blunt,Republican,50.8,True,False
+2004,Missouri,MO,governor,Claire McCaskill,Democratic,47.8,False,False
+2004,Montana,MT,governor,Brian Schweitzer,Democratic,50.4,True,False
+2004,Montana,MT,governor,Bob Brown (Montana politician)|Bob Brown,Republican,46.0,False,False
+2004,Montana,MT,governor,Bob Kelleher,Green,1.9,False,False
+2004,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,1.7,False,False
+2004,New Hampshire,NH,governor,John Lynch,Democratic,51.0,True,False
+2004,New Hampshire,NH,governor,Craig Benson,Republican,48.9,False,True
+2004,North Carolina,NC,governor,Mike Easley,Democratic,55.6,True,True
+2004,North Carolina,NC,governor,Patrick J. Ballantine,Republican,42.9,False,False
+2004,North Carolina,NC,governor,Barbara Howe,Libertarian,1.5,False,False
+2004,North Dakota,ND,governor,John Hoeven,Republican,71.3,True,True
+2004,North Dakota,ND,governor,Joe Satrom,North Dakota Democratic-npl,27.4,False,False
+2004,North Dakota,ND,governor,Roland Riemers,Libertarian,1.3,False,False
+2004,Utah,UT,governor,Jon Huntsman Jr.,Republican,57.7,True,False
+2004,Utah,UT,governor,Scott Matheson Jr.,Democratic,41.3,False,False
+2004,Vermont,VT,governor,Jim Douglas,Republican,58.7,True,True
+2004,Vermont,VT,governor,Peter Clavelle,Democratic,37.9,False,False
+2004,Vermont,VT,governor,Cris Ericson,Marijuana,1.4,False,False
+2004,Washington,WA,governor,Christine Gregoire,Democratic,48.9,True,False
+2004,Washington,WA,governor,Dino Rossi,Republican,48.9,False,False
+2004,Washington,WA,governor,Ruth Bennett,Libertarian,2.3,False,False
+2004,West Virginia,WV,governor,Joe Manchin,Democratic,63.5,True,False
+2004,West Virginia,WV,governor,Monty Warner,Republican,34.0,False,False
+2004,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,2.5,False,False
+2004,American Samoa,AS,governor,Togiola Tulafono,Democratic,55.7,True,True
+2004,American Samoa,AS,governor,Afoa L.S. Lutu,Independent,44.3,False,False
+2004,Puerto Rico,PR,governor,Aníbal Acevedo Vilá,Popular Democratic Party (puerto Rico),48.4,True,False
+2004,Puerto Rico,PR,governor,Pedro Rosselló,New Progressive Party (puerto Rico),48.2,False,False
+2004,Puerto Rico,PR,governor,Rubén Berríos,Independence,2.7,False,False
+2006,Alabama,AL,governor,Bob Riley,Republican,57.5,True,True
+2006,Alabama,AL,governor,Lucy Baxley,Democratic,41.6,False,False
+2006,Alaska,AK,governor,Sarah Palin,Republican,48.3,True,False
+2006,Alaska,AK,governor,Tony Knowles (politician)|Tony Knowles,Democratic,41.0,False,False
+2006,Alaska,AK,governor,Andrew Halcro,Independent,9.5,False,False
+2006,Arizona,AZ,governor,Janet Napolitano,Democratic,62.6,True,True
+2006,Arizona,AZ,governor,Len Munsil,Republican,35.4,False,False
+2006,Arizona,AZ,governor,Barry Hess,Libertarian,2.0,False,False
+2006,Arkansas,AR,governor,Mike Beebe,Democratic,55.6,True,False
+2006,Arkansas,AR,governor,Asa Hutchinson,Republican,40.7,False,False
+2006,Arkansas,AR,governor,Rod Bryan,Independent,2.0,False,False
+2006,Arkansas,AR,governor,Jim Lendall,Green,1.7,False,False
+2006,California,CA,governor,Arnold Schwarzenegger,Republican,55.9,True,True
+2006,California,CA,governor,Phil Angelides,Democratic,38.9,False,False
+2006,California,CA,governor,Peter Camejo,Green,2.4,False,False
+2006,California,CA,governor,Art Olivier,Libertarian,1.3,False,False
+2006,Colorado,CO,governor,Bill Ritter,Democratic,57.0,True,False
+2006,Colorado,CO,governor,Bob Beauprez,Republican,40.2,False,False
+2006,Colorado,CO,governor,Dawn Winkler,Libertarian,1.5,False,False
+2006,Connecticut,CT,governor,Jodi Rell,Republican,63.2,True,True
+2006,Connecticut,CT,governor,John DeStefano Jr.,Democratic,35.5,False,False
+2006,Florida,FL,governor,Charlie Crist,Republican,52.2,True,False
+2006,Florida,FL,governor,Jim Davis (Florida politician)|Jim Davis,Democratic,45.1,False,False
+2006,Florida,FL,governor,Max Linn,Reform,1.9,False,False
+2006,Georgia,GA,governor,Sonny Perdue,Republican,58.0,True,True
+2006,Georgia,GA,governor,Mark Taylor (American politician)|Mark Taylor,Democratic,38.2,False,False
+2006,Georgia,GA,governor,Gary Hayes,Libertarian,3.8,False,False
+2006,Hawaii,HI,governor,Linda Lingle,Republican,62.5,True,True
+2006,Hawaii,HI,governor,Randy Iwase,Democratic,35.4,False,False
+2006,Hawaii,HI,governor,James Brewer Jr.,Green,1.6,False,False
+2006,Idaho,ID,governor,Butch Otter,Republican,52.7,True,False
+2006,Idaho,ID,governor,Jerry Brady,Democratic,44.1,False,False
+2006,Idaho,ID,governor,Pro-Life (politician)|Marvin Richardson,Constitution,1.6,False,False
+2006,Idaho,ID,governor,Ted Dunlap,Libertarian,1.6,False,False
+2006,Illinois,IL,governor,Rod Blagojevich,Democratic,49.8,True,True
+2006,Illinois,IL,governor,Judy Baar Topinka,Republican,39.3,False,False
+2006,Illinois,IL,governor,Rich Whitney,Green,10.4,False,False
+2006,Iowa,IA,governor,Chet Culver,Democratic,54.0,True,False
+2006,Iowa,IA,governor,Jim Nussle,Republican,44.4,False,False
+2006,Kansas,KS,governor,Kathleen Sebelius,Democratic,57.9,True,True
+2006,Kansas,KS,governor,Jim Barnett (Kansas politician)|Jim Barnett,Republican,40.4,False,False
+2006,Kansas,KS,governor,Carl Kramer,Libertarian,1.0,False,False
+2006,Maine,ME,governor,John Baldacci,Democratic,38.1,True,True
+2006,Maine,ME,governor,Chandler Woodcock,Republican,30.2,False,False
+2006,Maine,ME,governor,Barbara Merrill,Independent,21.6,False,False
+2006,Maine,ME,governor,Pat LaMarche,Green,9.6,False,False
+2006,Maryland,MD,governor,'''Martin O'Malley''',Democratic,52.7,True,False
+2006,Maryland,MD,governor,Bob Ehrlich,Republican,46.2,False,True
+2006,Massachusetts,MA,governor,Deval Patrick,Democratic,55.6,True,False
+2006,Massachusetts,MA,governor,Kerry Healey,Republican,35.3,False,False
+2006,Massachusetts,MA,governor,Christy Mihos,Independent,7.0,False,False
+2006,Massachusetts,MA,governor,Grace Ross,Green,2.0,False,False
+2006,Michigan,MI,governor,Jennifer Granholm,Democratic,56.4,True,True
+2006,Michigan,MI,governor,Dick DeVos,Republican,42.3,False,False
+2006,Minnesota,MN,governor,Tim Pawlenty,Republican,46.7,True,True
+2006,Minnesota,MN,governor,Mike Hatch,Minnesota Democratic–farmer–labor,45.7,False,False
+2006,Minnesota,MN,governor,Peter Hutchinson (politician)|Peter Hutchinson,Independence,6.4,False,False
+2006,Nebraska,NE,governor,Dave Heineman,Republican,73.4,True,True
+2006,Nebraska,NE,governor,David Hahn (Nebraska)|David Hahn,Democratic,24.5,False,False
+2006,Nevada,NV,governor,Jim Gibbons,Republican,47.9,True,False
+2006,Nevada,NV,governor,Dina Titus,Democratic,43.9,False,False
+2006,Nevada,NV,governor,None of These Candidates,Write-in,3.6,False,False
+2006,Nevada,NV,governor,Christopher Hansen,American,3.4,False,False
+2006,Nevada,NV,governor,Craig Bergland,Green,1.2,False,False
+2006,New Hampshire,NH,governor,John Lynch,Democratic,74.0,True,True
+2006,New Hampshire,NH,governor,Jim Coburn,Republican,25.8,False,False
+2006,New Mexico,NM,governor,Bill Richardson,Democratic,68.8,True,True
+2006,New Mexico,NM,governor,John Dendahl,Republican,31.2,False,False
+2006,New York,NY,governor,Eliot Spitzer,Democratic,65.7,True,False
+2006,New York,NY,governor,John Faso,Republican,27.1,False,False
+2006,Ohio,OH,governor,Ted Strickland,Democratic,60.5,True,False
+2006,Ohio,OH,governor,Ken Blackwell,Republican,36.7,False,False
+2006,Ohio,OH,governor,Bill Peirce,Libertarian,1.8,False,False
+2006,Ohio,OH,governor,Bob Fitrakis,Green,1.0,False,False
+2006,Oklahoma,OK,governor,Brad Henry,Democratic,66.5,True,True
+2006,Oklahoma,OK,governor,Ernest Istook,Republican,33.5,False,False
+2006,Oregon,OR,governor,Ted Kulongoski,Democratic,50.7,True,True
+2006,Oregon,OR,governor,Ron Saxton,Republican,42.7,False,False
+2006,Oregon,OR,governor,Mary Starrett,Constitution,3.6,False,False
+2006,Oregon,OR,governor,Joe Keating,Green,1.5,False,False
+2006,Oregon,OR,governor,Richard Morley,Libertarian,1.2,False,False
+2006,Pennsylvania,PA,governor,Ed Rendell,Democratic,60.3,True,True
+2006,Pennsylvania,PA,governor,Lynn Swann,Republican,39.6,False,False
+2006,Rhode Island,RI,governor,Donald Carcieri,Republican,51.0,True,True
+2006,Rhode Island,RI,governor,Charles Fogarty,Democratic,49.0,False,False
+2006,South Carolina,SC,governor,Mark Sanford,Republican,55.1,True,True
+2006,South Carolina,SC,governor,Tommy Moore (politician)|Tommy Moore,Democratic,44.8,False,False
+2006,South Dakota,SD,governor,Mike Rounds,Republican,61.7,True,True
+2006,South Dakota,SD,governor,Jack Billion,Democratic,36.1,False,False
+2006,South Dakota,SD,governor,Steven J. Willis,Constitution,1.2,False,False
+2006,Tennessee,TN,governor,Phil Bredesen,Democratic,68.6,True,True
+2006,Tennessee,TN,governor,Jim Bryson (politician)|Jim Bryson,Republican,29.7,False,False
+2006,Texas,TX,governor,Rick Perry,Republican,39.0,True,True
+2006,Texas,TX,governor,Chris Bell (politician)|Chris Bell,Democratic,29.8,False,False
+2006,Texas,TX,governor,Carole Keeton Strayhorn|Carole K. Strayhorn,Independent,18.1,False,False
+2006,Texas,TX,governor,Kinky Friedman|Richard Friedman,Independent,12.4,False,False
+2006,Vermont,VT,governor,Jim Douglas,Republican,56.3,True,True
+2006,Vermont,VT,governor,Scudder Parker,Democratic,41.1,False,False
+2006,Wisconsin,WI,governor,Jim Doyle,Democratic,52.8,True,True
+2006,Wisconsin,WI,governor,Mark Green (Wisconsin politician)|Mark Green,Republican,45.4,False,False
+2006,Wisconsin,WI,governor,Nelson Eisman,Green,1.9,False,False
+2006,Wyoming,WY,governor,Dave Freudenthal,Democratic,70.0,True,True
+2006,Wyoming,WY,governor,Ray Hunkins,Republican,30.0,False,False
+2006,District of Columbia,DC,governor,Adrian Fenty,Democratic,89.7,True,False
+2006,District of Columbia,DC,governor,David Kranich,Republican,6.1,False,False
+2006,District of Columbia,DC,governor,Chris Otten,D.c. Statehood Green,4.1,False,False
+2006,Guam,GU,governor,Felix Perez Camacho,Republican,50.2,True,True
+2006,Guam,GU,governor,Robert A. Underwood|Robert Underwood,Democratic,48.0,False,False
+2006,U.S. Virgin Islands,VI,governor,John de Jongh,Democratic,57.3,True,False
+2006,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,42.7,False,False
+2008,Delaware,DE,governor,Jack Markell,Democratic,67.5,True,False
+2008,Delaware,DE,governor,Bill Lee (Delaware politician)|Bill Lee,Republican,32.1,False,False
+2008,Indiana,IN,governor,Mitch Daniels,Republican,57.8,True,True
+2008,Indiana,IN,governor,Jill Long Thompson,Democratic,40.1,False,False
+2008,Indiana,IN,governor,Andy Horning,Libertarian,2.1,False,False
+2008,Missouri,MO,governor,Jay Nixon,Democratic,58.4,True,False
+2008,Missouri,MO,governor,Kenny Hulshof,Republican,39.5,False,False
+2008,Missouri,MO,governor,Andrew Finkenstadt,Libertarian,1.1,False,False
+2008,Missouri,MO,governor,Gregory Thompson,Constitution,1.0,False,False
+2008,Montana,MT,governor,Brian Schweitzer,Democratic,65.5,True,True
+2008,Montana,MT,governor,Roy Brown (Montana politician)|Roy Brown,Republican,32.5,False,False
+2008,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,2.0,False,False
+2008,New Hampshire,NH,governor,John Lynch,Democratic,70.2,True,True
+2008,New Hampshire,NH,governor,Joseph Kenney,Republican,27.6,False,False
+2008,New Hampshire,NH,governor,Susan Newell,Libertarian,2.2,False,False
+2008,North Carolina,NC,governor,Bev Perdue,Democratic,50.3,True,False
+2008,North Carolina,NC,governor,Pat McCrory,Republican,46.9,False,False
+2008,North Carolina,NC,governor,Michael Munger,Libertarian,2.9,False,False
+2008,North Dakota,ND,governor,John Hoeven,Republican,74.4,True,True
+2008,North Dakota,ND,governor,Tim Mathern,North Dakota Democratic–nonpartisan League,23.5,False,False
+2008,North Dakota,ND,governor,DuWayne Hendrickson,Independent,2.0,False,False
+2008,Utah,UT,governor,Jon Huntsman Jr.,Republican,77.6,True,True
+2008,Utah,UT,governor,Bob Springmeyer,Democratic,19.7,False,False
+2008,Utah,UT,governor,Dell Schanze,Libertarian,2.6,False,False
+2008,Vermont,VT,governor,Jim Douglas,Republican,53.4,True,True
+2008,Vermont,VT,governor,Anthony Pollina,Independent,21.8,False,False
+2008,Vermont,VT,governor,Gaye Symington,Democratic,21.7,False,False
+2008,Washington,WA,governor,Christine Gregoire,Democratic,53.2,True,True
+2008,Washington,WA,governor,Dino Rossi,Republican,46.8,False,False
+2008,West Virginia,WV,governor,Joe Manchin,Democratic,69.8,True,True
+2008,West Virginia,WV,governor,Russ Weeks,Republican,25.7,False,False
+2008,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,4.5,False,False
+2008,American Samoa,AS,governor,Togiola Tulafono,Democratic,56.4,True,True
+2008,American Samoa,AS,governor,Utu Abe Malae,Republican,43.6,False,False
+2008,Puerto Rico,PR,governor,Luis Fortuño,New Progressive Party (puerto Rico),52.8,True,False
+2008,Puerto Rico,PR,governor,Aníbal Acevedo Vilá,Popular Democratic Party (puerto Rico),41.3,False,True
+2008,Puerto Rico,PR,governor,Rogelio Figueroa,Rico,2.8,False,False
+2008,Puerto Rico,PR,governor,Edwin Irizarry Mora,Independence Party (puerto Rico),2.0,False,False
+2010,Alabama,AL,governor,Robert J. Bentley,Republican,57.9,True,False
+2010,Alabama,AL,governor,Ron Sparks (politician)|Ron Sparks,Democratic,42.1,False,False
+2010,Alaska,AK,governor,Sean Parnell,Republican,59.1,True,True
+2010,Alaska,AK,governor,Ethan Berkowitz,Democratic,37.7,False,False
+2010,Alaska,AK,governor,Don Wright (politician)|Don Wright,Independence,1.9,False,False
+2010,Alaska,AK,governor,Billy Toien,Libertarian,1.1,False,False
+2010,Arizona,AZ,governor,Jan Brewer,Republican,54.3,True,True
+2010,Arizona,AZ,governor,Terry Goddard,Democratic,42.4,False,False
+2010,Arizona,AZ,governor,Barry Hess,Libertarian,2.2,False,False
+2010,Arkansas,AR,governor,Mike Beebe,Democratic,64.4,True,True
+2010,Arkansas,AR,governor,Jim Keet,Republican,33.6,False,False
+2010,Arkansas,AR,governor,Jim Lendall,Green,1.9,False,False
+2010,California,CA,governor,Jerry Brown,Democratic,53.8,True,False
+2010,California,CA,governor,Meg Whitman,Republican,40.9,False,False
+2010,California,CA,governor,Chelene Nightingale,Independent,1.7,False,False
+2010,California,CA,governor,Dale Ogden,Libertarian,1.5,False,False
+2010,California,CA,governor,Laura Wells,Green,1.3,False,False
+2010,Colorado,CO,governor,John Hickenlooper,Democratic,51.1,True,False
+2010,Colorado,CO,governor,Tom Tancredo,Constitution,36.4,False,False
+2010,Colorado,CO,governor,Dan Maes,Republican,11.1,False,False
+2010,Connecticut,CT,governor,Dannel Malloy,Democratic,49.5,True,False
+2010,Connecticut,CT,governor,Thomas C. Foley,Republican,49.0,False,False
+2010,Connecticut,CT,governor,Thomas E. Marsh,Independent,1.5,False,False
+2010,Florida,FL,governor,Rick Scott,Republican,48.9,True,False
+2010,Florida,FL,governor,Alex Sink,Democratic,47.7,False,False
+2010,Florida,FL,governor,Peter Allen,Independence,2.3,False,False
+2010,Georgia,GA,governor,Nathan Deal,Republican,53.0,True,False
+2010,Georgia,GA,governor,Roy Barnes,Democratic,43.0,False,False
+2010,Georgia,GA,governor,John Monds,Libertarian,4.0,False,False
+2010,Hawaii,HI,governor,Neil Abercrombie,Democratic,57.8,True,False
+2010,Hawaii,HI,governor,Duke Aiona,Republican,40.8,False,False
+2010,Idaho,ID,governor,Butch Otter,Republican,59.1,True,True
+2010,Idaho,ID,governor,Keith G. Allred,Democratic,32.9,False,False
+2010,Idaho,ID,governor,Jana M. Kemp,Independent,5.9,False,False
+2010,Idaho,ID,governor,Ted Dunlap,Libertarian,1.3,False,False
+2010,Illinois,IL,governor,Pat Quinn,Democratic,46.8,True,True
+2010,Illinois,IL,governor,Bill Brady (politician)|Bill Brady,Republican,45.9,False,False
+2010,Illinois,IL,governor,Scott Lee Cohen,Independent,3.6,False,False
+2010,Illinois,IL,governor,Rich Whitney,Green,2.7,False,False
+2010,Iowa,IA,governor,Terry Branstad,Republican,52.8,True,False
+2010,Iowa,IA,governor,Chet Culver,Democratic,43.2,False,True
+2010,Iowa,IA,governor,Jonathan Narcisse,Iowa,1.9,False,False
+2010,Iowa,IA,governor,Eric Cooper,Libertarian,1.3,False,False
+2010,Kansas,KS,governor,Sam Brownback,Republican,63.3,True,False
+2010,Kansas,KS,governor,Tom Holland (politician)|Tom Holland,Democratic,32.2,False,False
+2010,Kansas,KS,governor,Andrew P. Gray,Libertarian,2.7,False,False
+2010,Kansas,KS,governor,Kenneth W. Cannon,Reform,1.9,False,False
+2010,Maine,ME,governor,Paul LePage,Republican,37.6,True,False
+2010,Maine,ME,governor,Eliot Cutler,Independent,35.9,False,False
+2010,Maine,ME,governor,Libby Mitchell,Democratic,18.8,False,False
+2010,Maine,ME,governor,Shawn Moody,Independent,5.0,False,False
+2010,Maine,ME,governor,Kevin Scott,Independent,1.0,False,False
+2010,Maryland,MD,governor,'''Martin O'Malley''',Democratic,56.2,True,True
+2010,Maryland,MD,governor,Bob Ehrlich,Republican,41.8,False,False
+2010,Massachusetts,MA,governor,Deval Patrick,Democratic,48.4,True,True
+2010,Massachusetts,MA,governor,Charlie Baker,Republican,42.0,False,False
+2010,Massachusetts,MA,governor,Tim Cahill (Massachusetts politician)|Tim Cahill,Independent,8.0,False,False
+2010,Massachusetts,MA,governor,Jill Stein,Green,1.4,False,False
+2010,Michigan,MI,governor,Rick Snyder,Republican,58.1,True,False
+2010,Michigan,MI,governor,Virg Bernero,Democratic,39.9,False,False
+2010,Minnesota,MN,governor,Mark Dayton,Minnesota Democratic–farmer–labor,43.6,True,False
+2010,Minnesota,MN,governor,Tom Emmer,Republican,43.2,False,False
+2010,Minnesota,MN,governor,Tom Horner,Independence,11.9,False,False
+2010,Nebraska,NE,governor,Dave Heineman,Republican,73.9,True,True
+2010,Nebraska,NE,governor,Mike Meister,Democratic,26.1,False,False
+2010,Nevada,NV,governor,Brian Sandoval,Republican,53.4,True,False
+2010,Nevada,NV,governor,Rory Reid (politician)|Rory Reid,Democratic,41.6,False,False
+2010,New Hampshire,NH,governor,John Lynch,Democratic,52.6,True,True
+2010,New Hampshire,NH,governor,John Stephen (New Hampshire politician)|John Stephen,Republican,45.0,False,False
+2010,New Hampshire,NH,governor,John Babiarz,Libertarian,2.2,False,False
+2010,New Mexico,NM,governor,Susana Martinez,Republican,53.3,True,False
+2010,New Mexico,NM,governor,Diane Denish,Democratic,46.6,False,False
+2010,New York,NY,governor,Andrew Cuomo,Democratic,63.1,True,False
+2010,New York,NY,governor,Carl Paladino,Republican,33.5,False,False
+2010,New York,NY,governor,Howie Hawkins,Green,1.3,False,False
+2010,New York,NY,governor,Warren Redlich,Libertarian,1.1,False,False
+2010,Ohio,OH,governor,John Kasich,Republican,49.0,True,False
+2010,Ohio,OH,governor,Ted Strickland,Democratic,47.0,False,True
+2010,Ohio,OH,governor,Ken Matesz,Libertarian,2.4,False,False
+2010,Ohio,OH,governor,Dennis Spisak,Green,1.5,False,False
+2010,Oklahoma,OK,governor,Mary Fallin,Republican,60.5,True,False
+2010,Oklahoma,OK,governor,Jari Askins,Democratic,39.5,False,False
+2010,Oregon,OR,governor,John Kitzhaber,Democratic,49.3,True,False
+2010,Oregon,OR,governor,Chris Dudley,Republican,47.8,False,False
+2010,Oregon,OR,governor,Greg Kord,Constitution,1.4,False,False
+2010,Oregon,OR,governor,Wes Wagner,Libertarian,1.3,False,False
+2010,Pennsylvania,PA,governor,Tom Corbett,Republican,54.5,True,False
+2010,Pennsylvania,PA,governor,Dan Onorato,Democratic,45.5,False,False
+2010,Rhode Island,RI,governor,Lincoln Chafee,Independent,36.1,True,False
+2010,Rhode Island,RI,governor,John Robitaille,Republican,33.6,False,False
+2010,Rhode Island,RI,governor,Frank T. Caprio,Democratic,23.1,False,False
+2010,Rhode Island,RI,governor,Ken Block (politician)|Ken Block,Moderate,6.5,False,False
+2010,South Carolina,SC,governor,Nikki Haley,Republican,51.4,True,False
+2010,South Carolina,SC,governor,Vincent Sheheen,Democratic,46.9,False,False
+2010,South Carolina,SC,governor,Morgan B. Reeves,Citizens,1.5,False,False
+2010,South Dakota,SD,governor,Dennis Daugaard,Republican,61.5,True,False
+2010,South Dakota,SD,governor,Scott Heidepriem,Democratic,38.5,False,False
+2010,Tennessee,TN,governor,Bill Haslam,Republican,65.0,True,False
+2010,Tennessee,TN,governor,Mike McWherter,Democratic,33.1,False,False
+2010,Texas,TX,governor,Rick Perry,Republican,55.0,True,True
+2010,Texas,TX,governor,Bill White (Texas politician)|Bill White,Democratic,42.3,False,False
+2010,Texas,TX,governor,Kathie Glass,Libertarian,2.2,False,False
+2010,Utah {{small|,,governor,Gary Herbert,Republican,64.1,True,True
+2010,Utah {{small|,,governor,Peter Corroon,Democratic,31.9,False,False
+2010,Utah {{small|,,governor,Farley Anderson,Independent,2.0,False,False
+2010,Utah {{small|,,governor,Andrew McCullough,Libertarian,2.0,False,False
+2010,Vermont,VT,governor,Peter Shumlin,Democratic,49.4,True,False
+2010,Vermont,VT,governor,Brian Dubie,Republican,47.7,False,False
+2010,Wisconsin,WI,governor,Scott Walker,Republican,52.3,True,False
+2010,Wisconsin,WI,governor,Tom Barrett (Wisconsin politician)|Tom Barrett,Democratic,46.5,False,False
+2010,Wyoming,WY,governor,Matt Mead,Republican,65.7,True,False
+2010,Wyoming,WY,governor,Leslie Petersen,Democratic,22.9,False,False
+2010,Wyoming,WY,governor,Taylor Haynes,Independent,7.3,False,False
+2010,Wyoming,WY,governor,Mike Wheeler,Libertarian,2.9,False,False
+2010,District of Columbia,DC,governor,Vincent C. Gray,Democratic,74.2,True,False
+2010,District of Columbia,DC,governor,Write-ins,Write-in,22.4,False,False
+2010,District of Columbia,DC,governor,Carlos Allen,Independent,1.7,False,False
+2010,District of Columbia,DC,governor,Faith Dane,D.c. Statehood Green,1.1,False,False
+2010,Guam,GU,governor,Eddie Calvo,Republican,50.6,True,False
+2010,Guam,GU,governor,Carl Gutierrez,Democratic,49.4,False,False
+2010,U.S. Virgin Islands,VI,governor,John de Jongh,Democratic,56.3,True,True
+2010,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,43.6,False,False
+2012,Delaware,DE,governor,Jack Markell,Democratic,69.3,True,True
+2012,Delaware,DE,governor,Jeff Cragg,Republican,28.6,False,False
+2012,Delaware,DE,governor,Mark Perri,Green,1.2,False,False
+2012,Indiana,IN,governor,Mike Pence,Republican,49.5,True,False
+2012,Indiana,IN,governor,John R. Gregg,Democratic,46.6,False,False
+2012,Indiana,IN,governor,Rupert Boneham,Libertarian,4.0,False,False
+2012,Missouri,MO,governor,Jay Nixon,Democratic,54.8,True,True
+2012,Missouri,MO,governor,Dave Spence,Republican,42.5,False,False
+2012,Missouri,MO,governor,Jim Higgins,Libertarian,2.7,False,False
+2012,Montana,MT,governor,Steve Bullock,Democratic,48.9,True,False
+2012,Montana,MT,governor,Rick Hill,Republican,47.3,False,False
+2012,Montana,MT,governor,Ron Vandevender,Libertarian,3.8,False,False
+2012,New Hampshire,NH,governor,Maggie Hassan,Democratic,54.6,True,False
+2012,New Hampshire,NH,governor,Ovide Lamontagne,Republican,42.5,False,False
+2012,New Hampshire,NH,governor,John J. Babiarz,Libertarian,2.8,False,False
+2012,North Carolina,NC,governor,Pat McCrory,Republican,54.6,True,False
+2012,North Carolina,NC,governor,Walter Dalton,Democratic,43.2,False,False
+2012,North Carolina,NC,governor,Barbara Howe,Libertarian,2.1,False,False
+2012,North Dakota,ND,governor,Jack Dalrymple,Republican,63.1,True,True
+2012,North Dakota,ND,governor,Ryan Taylor,North Dakota Democratic–nonpartisan League,34.3,False,False
+2012,North Dakota,ND,governor,Paul Sorum,Independent,1.7,False,False
+2012,Utah,UT,governor,Gary Herbert,Republican,68.4,True,True
+2012,Utah,UT,governor,Peter Cooke (politician)|Peter Cooke,Democratic,27.6,False,False
+2012,Utah,UT,governor,Ken Larsen,Libertarian,2.3,False,False
+2012,Utah,UT,governor,Kirk Pearson,Constitution,1.8,False,False
+2012,Vermont,VT,governor,Peter Shumlin,Democratic,57.8,True,True
+2012,Vermont,VT,governor,Randy Brock,Republican,37.6,False,False
+2012,Vermont,VT,governor,Emily Peyton,Independent,2.0,False,False
+2012,Vermont,VT,governor,Cris Ericson,Marijuana,1.9,False,False
+2012,Washington,WA,governor,Jay Inslee,Democratic,51.5,True,False
+2012,Washington,WA,governor,Rob McKenna,Republican,48.5,False,False
+2012,West Virginia,WV,governor,Earl Ray Tomblin,Democratic,50.5,True,True
+2012,West Virginia,WV,governor,Bill Maloney,Republican,45.7,False,False
+2012,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,2.5,False,False
+2012,West Virginia,WV,governor,David Moran,Libertarian,1.3,False,False
+2012,Wisconsin {{small|,,governor,Scott Walker,Republican,53.1,True,True
+2012,Wisconsin {{small|,,governor,Tom Barrett (Wisconsin politician)|Tom Barrett,Democratic,46.3,False,False
+2012,American Samoa,AS,governor,Lolo Matalasi Moliga,Independent,52.9,True,False
+2012,American Samoa,AS,governor,Faoa Aitofele Sunia,Democratic,47.1,False,False
+2012,Puerto Rico,PR,governor,Alejandro García Padilla,Popular Democratic Party (puerto Rico),47.7,True,False
+2012,Puerto Rico,PR,governor,Luis Fortuño,New Progressive Party (puerto Rico),47.1,False,True
+2012,Puerto Rico,PR,governor,Juan Dalmau Ramírez,Independence Party (puerto Rico),2.5,False,False
+2012,Puerto Rico,PR,governor,Rafael Bernabe,Working People's,1.0,False,False
+2014,Alabama,AL,governor,Robert J. Bentley,Republican,63.6,True,True
+2014,Alabama,AL,governor,Parker Griffith,Democratic,36.2,False,False
+2014,Alaska,AK,governor,Bill Walker,Independent,48.1,True,False
+2014,Alaska,AK,governor,Sean Parnell,Republican,45.9,False,True
+2014,Alaska,AK,governor,Carolyn Clift,Libertarian,3.2,False,False
+2014,Alaska,AK,governor,J. R. Myers,Constitution,2.5,False,False
+2014,Arizona,AZ,governor,Doug Ducey,Republican,53.4,True,False
+2014,Arizona,AZ,governor,Fred DuVal,Democratic,41.6,False,False
+2014,Arizona,AZ,governor,Barry Hess,Libertarian,3.8,False,False
+2014,Arizona,AZ,governor,John Lewis Mealer,Americans Elect,1.0,False,False
+2014,Arkansas,AR,governor,Asa Hutchinson,Republican,55.4,True,False
+2014,Arkansas,AR,governor,Mike Ross (politician)|Mike Ross,Democratic,41.5,False,False
+2014,Arkansas,AR,governor,Frank Gilbert,Libertarian,1.9,False,False
+2014,Arkansas,AR,governor,Josh Drake,Green,1.2,False,False
+2014,California,CA,governor,Jerry Brown,Democratic,60.0,True,True
+2014,California,CA,governor,Neel Kashkari,Republican,40.0,False,False
+2014,Colorado,CO,governor,John Hickenlooper,Democratic,49.3,True,True
+2014,Colorado,CO,governor,Bob Beauprez,Republican,46.0,False,False
+2014,Colorado,CO,governor,Matthew Hess,Libertarian,1.9,False,False
+2014,Colorado,CO,governor,Harry Hempy,Green,1.3,False,False
+2014,Colorado,CO,governor,Mike Dunafon,Independent,1.2,False,False
+2014,Connecticut,CT,governor,Dannel Malloy,Democratic,50.7,True,True
+2014,Connecticut,CT,governor,Thomas C. Foley,Republican,48.2,False,False
+2014,Connecticut,CT,governor,Joe Visconti,Independent,1.1,False,False
+2014,Florida,FL,governor,Rick Scott,Republican,48.1,True,True
+2014,Florida,FL,governor,Charlie Crist,Democratic,47.1,False,False
+2014,Florida,FL,governor,Adrian Wyllie,Libertarian,3.8,False,False
+2014,Georgia,GA,governor,Nathan Deal,Republican,52.7,True,True
+2014,Georgia,GA,governor,Jason Carter (politician)|Jason Carter,Democratic,44.9,False,False
+2014,Georgia,GA,governor,Andrew Hunt,Libertarian,2.4,False,False
+2014,Hawaii,HI,governor,David Ige,Democratic,49.5,True,False
+2014,Hawaii,HI,governor,Duke Aiona,Republican,37.1,False,False
+2014,Hawaii,HI,governor,Mufi Hannemann,Independent,11.7,False,False
+2014,Hawaii,HI,governor,Jeff Davis,Libertarian,1.8,False,False
+2014,Idaho,ID,governor,Butch Otter,Republican,53.5,True,True
+2014,Idaho,ID,governor,A. J. Balukoff,Democratic,38.6,False,False
+2014,Idaho,ID,governor,John Bujak,Libertarian,4.1,False,False
+2014,Idaho,ID,governor,Jill Humble,Independent,2.0,False,False
+2014,Idaho,ID,governor,Steven Pankey,Constitution,1.2,False,False
+2014,Illinois,IL,governor,Bruce Rauner,Republican,50.3,True,False
+2014,Illinois,IL,governor,Pat Quinn (politician)|Pat Quinn,Democratic,46.4,False,True
+2014,Illinois,IL,governor,Chad Grimm,Libertarian,3.4,False,False
+2014,Iowa,IA,governor,Terry Branstad,Republican,59.0,True,True
+2014,Iowa,IA,governor,Jack Hatch,Democratic,37.3,False,False
+2014,Iowa,IA,governor,Lee Hieb,Libertarian,1.8,False,False
+2014,Kansas,KS,governor,Sam Brownback,Republican,49.8,True,True
+2014,Kansas,KS,governor,Paul Davis (Kansas politician)|Paul Davis,Democratic,46.1,False,False
+2014,Kansas,KS,governor,Keen Umbehr,Libertarian,4.1,False,False
+2014,Maine,ME,governor,Paul LePage,Republican,48.2,True,True
+2014,Maine,ME,governor,Mike Michaud,Democratic,43.4,False,False
+2014,Maine,ME,governor,Eliot Cutler,Independent,8.4,False,False
+2014,Maryland,MD,governor,Larry Hogan,Republican,51.0,True,False
+2014,Maryland,MD,governor,Anthony Brown (Maryland politician)|Anthony Brown,Democratic,47.3,False,False
+2014,Maryland,MD,governor,Shawn Quinn,Libertarian,1.5,False,False
+2014,Massachusetts,MA,governor,Charlie Baker,Republican,48.4,True,False
+2014,Massachusetts,MA,governor,Martha Coakley,Democratic,46.5,False,False
+2014,Massachusetts,MA,governor,Evan Falchuk,Independent,3.3,False,False
+2014,Michigan,MI,governor,Rick Snyder,Republican,50.9,True,True
+2014,Michigan,MI,governor,Mark Schauer,Democratic,46.9,False,False
+2014,Michigan,MI,governor,Mary Buzuma,Libertarian,1.1,False,False
+2014,Minnesota,MN,governor,Mark Dayton,Minnesota Democratic–farmer–labor,50.1,True,True
+2014,Minnesota,MN,governor,Jeff Johnson (Minnesota politician)|Jeff Johnson,Republican,44.5,False,False
+2014,Minnesota,MN,governor,Hannah Nicollet,Independence Party (minnesota),2.9,False,False
+2014,Minnesota,MN,governor,Chris Wright,Grassroots–legalize Cannabis,1.6,False,False
+2014,Nebraska,NE,governor,Pete Ricketts,Republican,57.2,True,False
+2014,Nebraska,NE,governor,Chuck Hassebrook,Democratic,39.2,False,False
+2014,Nebraska,NE,governor,Mark Elworth Jr.,Libertarian,3.5,False,False
+2014,Nevada,NV,governor,Brian Sandoval,Republican,70.6,True,True
+2014,Nevada,NV,governor,Bob Goodman,Democratic,23.9,False,False
+2014,Nevada,NV,governor,David VanDerBeek,American,2.7,False,False
+2014,New Hampshire,NH,governor,Maggie Hassan,Democratic,52.4,True,True
+2014,New Hampshire,NH,governor,Walt Havenstein,Republican,47.4,False,False
+2014,New Mexico,NM,governor,Susana Martinez,Republican,57.2,True,True
+2014,New Mexico,NM,governor,Gary King (politician)|Gary King,Democratic,42.8,False,False
+2014,New York,NY,governor,Andrew Cuomo,Democratic,54.3,True,True
+2014,New York,NY,governor,Rob Astorino,Republican,40.3,False,False
+2014,New York,NY,governor,Howie Hawkins,Green,4.8,False,False
+2014,Ohio,OH,governor,John Kasich,Republican,63.6,True,True
+2014,Ohio,OH,governor,Ed FitzGerald,Democratic,33.0,False,False
+2014,Ohio,OH,governor,Anita Rios,Green,3.3,False,False
+2014,Oklahoma,OK,governor,Mary Fallin,Republican,55.8,True,True
+2014,Oklahoma,OK,governor,Joe Dorman,Democratic,41.0,False,False
+2014,Oklahoma,OK,governor,Kimberly Willis,Independent,2.1,False,False
+2014,Oklahoma,OK,governor,Richard Prawdzienski,Independent,1.1,False,False
+2014,Oregon,OR,governor,John Kitzhaber,Democratic,49.9,True,True
+2014,Oregon,OR,governor,Dennis Richardson (politician)|Dennis Richardson,Republican,44.1,False,False
+2014,Oregon,OR,governor,Jason Levin,Green,2.0,False,False
+2014,Oregon,OR,governor,Paul Grad,Libertarian,1.5,False,False
+2014,Oregon,OR,governor,Aaron Auer,Constitution,1.1,False,False
+2014,Oregon,OR,governor,Chris Henry,Progressive,1.0,False,False
+2014,Pennsylvania,PA,governor,Tom Wolf,Democratic,54.9,True,False
+2014,Pennsylvania,PA,governor,Tom Corbett,Republican,45.1,False,True
+2014,Rhode Island,RI,governor,Gina Raimondo,Democratic,40.7,True,False
+2014,Rhode Island,RI,governor,Allan Fung,Republican,36.2,False,False
+2014,Rhode Island,RI,governor,Robert J. Healey,Moderate,21.4,False,False
+2014,Rhode Island,RI,governor,Kate Fletcher,Independent,1.1,False,False
+2014,South Carolina,SC,governor,Nikki Haley,Republican,55.9,True,True
+2014,South Carolina,SC,governor,Vincent Sheheen,Democratic,41.4,False,False
+2014,South Carolina,SC,governor,Steve French,Libertarian,1.2,False,False
+2014,South Dakota,SD,governor,Dennis Daugaard,Republican,70.5,True,True
+2014,South Dakota,SD,governor,Susan Wismer,Democratic,25.4,False,False
+2014,South Dakota,SD,governor,Michael J. Myers,Independent,4.1,False,False
+2014,Tennessee,TN,governor,Bill Haslam,Republican,70.3,True,True
+2014,Tennessee,TN,governor,Charles Brown,Democratic,22.8,False,False
+2014,Tennessee,TN,governor,John Jay Hooker,Independent,2.3,False,False
+2014,Tennessee,TN,governor,Shaun Crowell,Constitution,2.0,False,False
+2014,Tennessee,TN,governor,Isa Infante,Green,1.4,False,False
+2014,Texas,TX,governor,Greg Abbott,Republican,59.3,True,False
+2014,Texas,TX,governor,Wendy Davis (politician)|Wendy Davis,Democratic,38.9,False,False
+2014,Texas,TX,governor,Kathie Glass,Libertarian,1.4,False,False
+2014,Vermont,VT,governor,Peter Shumlin,Democratic,46.4,True,True
+2014,Vermont,VT,governor,Scott Milne,Republican,45.1,False,False
+2014,Vermont,VT,governor,Dan Feliciano,Libertarian,4.4,False,False
+2014,Vermont,VT,governor,Emily Peyton,Independent,1.6,False,False
+2014,Wisconsin,WI,governor,Scott Walker,Republican,52.3,True,True
+2014,Wisconsin,WI,governor,Mary Burke,Democratic,46.6,False,False
+2014,Wyoming,WY,governor,Matt Mead,Republican,59.4,True,True
+2014,Wyoming,WY,governor,Pete Gosar,Democratic,27.3,False,False
+2014,Wyoming,WY,governor,Don Wills,Independent,5.9,False,False
+2014,Wyoming,WY,governor,Dee Cozzens,Libertarian,2.4,False,False
+2014,District of Columbia,DC,governor,Muriel Bowser,Democratic,54.5,True,False
+2014,District of Columbia,DC,governor,David Catania,Independent,34.6,False,False
+2014,District of Columbia,DC,governor,Carol Schwartz,Independent,7.0,False,False
+2014,Guam,GU,governor,Eddie Calvo,Republican,63.7,True,True
+2014,Guam,GU,governor,Carl Gutierrez,Democratic,36.0,False,False
+2014,Northern Mariana Islands,MP,governor,Eloy Inos,Republican,57.0,True,True
+2014,Northern Mariana Islands,MP,governor,Heinz Hofschneider,Independent,43.0,False,False
+2014,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,63.9,True,False
+2014,U.S. Virgin Islands,VI,governor,Donna Christian-Christensen,Democratic,35.9,False,False
+2016,Delaware,DE,governor,John Carney,Democratic,58.3,True,False
+2016,Delaware,DE,governor,Colin Bonini,Republican,39.2,False,False
+2016,Delaware,DE,governor,Andrew Groff,Green,1.4,False,False
+2016,Delaware,DE,governor,Sean Louis Goward,Libertarian,1.1,False,False
+2016,Indiana,IN,governor,Eric Holcomb,Republican,51.4,True,False
+2016,Indiana,IN,governor,John R. Gregg,Democratic,45.4,False,False
+2016,Indiana,IN,governor,Rex Bell,Libertarian,3.2,False,False
+2016,Missouri,MO,governor,Eric Greitens,Republican,51.1,True,False
+2016,Missouri,MO,governor,Chris Koster,Democratic,45.6,False,False
+2016,Missouri,MO,governor,Cisse Spragins,Libertarian,1.5,False,False
+2016,Missouri,MO,governor,Don Fitz,Green,0.75,False,False
+2016,Montana,MT,governor,Steve Bullock,Democratic,50.3,True,True
+2016,Montana,MT,governor,Greg Gianforte,Republican,46.4,False,False
+2016,Montana,MT,governor,Ted Dunlap,Libertarian,3.4,False,False
+2016,New Hampshire,NH,governor,Chris Sununu,Republican,48.8,True,False
+2016,New Hampshire,NH,governor,Colin Van Ostern,Democratic,46.6,False,False
+2016,New Hampshire,NH,governor,Max Abramson,Libertarian,4.3,False,False
+2016,North Carolina,NC,governor,Roy Cooper,Democratic,49.0,True,False
+2016,North Carolina,NC,governor,Pat McCrory,Republican,48.8,False,True
+2016,North Carolina,NC,governor,Lon Cecil,Libertarian,2.2,False,False
+2016,North Dakota,ND,governor,Doug Burgum,Republican,76.5,True,False
+2016,North Dakota,ND,governor,Marvin Nelson,North Dakota Democratic–nonpartisan League,19.4,False,False
+2016,North Dakota,ND,governor,Marty Riske,Libertarian,3.9,False,False
+2016,Oregon,OR,governor,Kate Brown,Democratic,50.6,True,True
+2016,Oregon,OR,governor,Bud Pierce,Republican,43.6,False,False
+2016,Oregon,OR,governor,James Foster,Libertarian,2.3,False,False
+2016,Oregon,OR,governor,Aaron Donald Auer,Constitution,1.0,False,False
+2016,Utah,UT,governor,Gary Herbert,Republican,66.7,True,True
+2016,Utah,UT,governor,Mike Weinholtz,Democratic,28.7,False,False
+2016,Utah,UT,governor,Brian Kamerath,Libertarian,3.1,False,False
+2016,Utah,UT,governor,Superdell Schnaze,Constitution,1.4,False,False
+2016,Vermont,VT,governor,Phil Scott,Republican,52.9,True,False
+2016,Vermont,VT,governor,Sue Minter,Democratic,44.2,False,False
+2016,Vermont,VT,governor,Bill Lee,Independent,2.8,False,False
+2016,Washington,WA,governor,Jay Inslee,Democratic,54.2,True,True
+2016,Washington,WA,governor,Bill Bryant (politician)|Bill Bryant,Republican,45.5,False,False
+2016,West Virginia,WV,governor,Jim Justice,Democratic,49.1,True,False
+2016,West Virginia,WV,governor,Bill Cole,Republican,42.3,False,False
+2016,West Virginia,WV,governor,Charlotte Pritt,Mountain,5.9,False,False
+2016,West Virginia,WV,governor,David Moran,Libertarian,2.2,False,False
+2016,West Virginia,WV,governor,Phil Hudok,Constitution,0.6,False,False
+2016,American Samoa,AS,governor,Lolo Matalasi Moliga,Nonpartisan Politician,60.2,True,True
+2016,American Samoa,AS,governor,Faoa Aitofele Sunia,Nonpartisan Politician,35.8,False,False
+2016,American Samoa,AS,governor,Tuika Tuika,Nonpartisan Politician,4.0,False,False
+2016,Puerto Rico,PR,governor,Ricardo Rosselló,New Progressive Party (puerto Rico),41.8,True,False
+2016,Puerto Rico,PR,governor,David Bernier,Popular Democratic Party (puerto Rico),38.9,False,False
+2016,Puerto Rico,PR,governor,Alexandra Lúgaro,Independent,11.1,False,False
+2016,Puerto Rico,PR,governor,Manuel Cidre,Independent,5.7,False,False
+2016,Puerto Rico,PR,governor,María de Lourdes Santiago,Independence Party (puerto Rico),2.1,False,False
+2018,Alabama,AL,governor,Kay Ivey,Republican,59.5,True,True
+2018,Alabama,AL,governor,Walt Maddox,Democratic,40.4,False,False
+2018,Alaska,AK,governor,Mike Dunleavy,Republican,51.4,True,False
+2018,Alaska,AK,governor,Mark Begich,Democratic,44.4,False,False
+2018,Alaska,AK,governor,Bill Walker (American politician)|Bill Walker,Independent,2.0,False,True
+2018,Alaska,AK,governor,William Toien,Libertarian,1.9,False,False
+2018,Arizona,AZ,governor,Doug Ducey,Republican,56.0,True,True
+2018,Arizona,AZ,governor,David Garcia (politician)|David Garcia,Democratic,41.8,False,False
+2018,Arizona,AZ,governor,Angel Torres,Green,2.1,False,False
+2018,Arkansas,AR,governor,Asa Hutchinson,Republican,65.3,True,True
+2018,Arkansas,AR,governor,Jared Henderson,Democratic,31.8,False,False
+2018,Arkansas,AR,governor,Mark West,Libertarian,2.9,False,False
+2018,California,CA,governor,Gavin Newsom,Democratic,61.9,True,False
+2018,California,CA,governor,John H. Cox,Republican,38.1,False,False
+2018,Colorado,CO,governor,Jared Polis,Democratic,53.4,True,False
+2018,Colorado,CO,governor,Walker Stapleton,Republican,42.8,False,False
+2018,Colorado,CO,governor,Scott Helker,Libertarian,2.7,False,False
+2018,Colorado,CO,governor,Bill Hammons,Unity,1.0,False,False
+2018,Connecticut,CT,governor,Ned Lamont,Democratic,49.4,True,False
+2018,Connecticut,CT,governor,Bob Stefanowski,Republican,46.2,False,False
+2018,Connecticut,CT,governor,Oz Griebel,Independent,3.9,False,False
+2018,Florida,FL,governor,Ron DeSantis,Republican,49.6,True,False
+2018,Florida,FL,governor,Andrew Gillum,Democratic,49.2,False,False
+2018,Georgia,GA,governor,Brian Kemp,Republican,50.2,True,False
+2018,Georgia,GA,governor,Stacey Abrams,Democratic,48.8,False,False
+2018,Hawaii,HI,governor,David Ige,Democratic,62.7,True,True
+2018,Hawaii,HI,governor,Andria Tupola,Republican,33.7,False,False
+2018,Hawaii,HI,governor,Jim Brewer,Green,2.6,False,False
+2018,Hawaii,HI,governor,Terrence Teruya,Nonpartisan Politician,1.0,False,False
+2018,Idaho,ID,governor,Brad Little,Republican,59.8,True,False
+2018,Idaho,ID,governor,Paulette Jordan,Democratic,38.2,False,False
+2018,Idaho,ID,governor,Bev Boeck,Libertarian,1.1,False,False
+2018,Idaho,ID,governor,Walter L. Bayes,Constitution,1.0,False,False
+2018,Illinois,IL,governor,J. B. Pritzker,Democratic,54.5,True,False
+2018,Illinois,IL,governor,Bruce Rauner,Republican,38.8,False,True
+2018,Illinois,IL,governor,Sam McCann,Conservative,4.2,False,False
+2018,Illinois,IL,governor,Kash Jackson,Libertarian,2.4,False,False
+2018,Iowa,IA,governor,Kim Reynolds,Republican,50.3,True,True
+2018,Iowa,IA,governor,Fred Hubbell,Democratic,47.5,False,False
+2018,Iowa,IA,governor,Jake Porter,Libertarian,1.6,False,False
+2018,Kansas,KS,governor,Laura Kelly,Democratic,48.0,True,False
+2018,Kansas,KS,governor,Kris Kobach,Republican,43.0,False,False
+2018,Kansas,KS,governor,Greg Orman,Independent,6.5,False,False
+2018,Kansas,KS,governor,Jeff Caldwell,Libertarian,1.9,False,False
+2018,Maine,ME,governor,Janet Mills,Democratic,50.9,True,False
+2018,Maine,ME,governor,Shawn Moody,Republican,43.2,False,False
+2018,Maine,ME,governor,Terry Hayes (politician)|Terry Hayes,Independent,5.9,False,False
+2018,Maryland,MD,governor,Larry Hogan,Republican,55.3,True,True
+2018,Maryland,MD,governor,Ben Jealous,Democratic,43.5,False,False
+2018,Massachusetts,MA,governor,Charlie Baker,Republican,66.6,True,True
+2018,Massachusetts,MA,governor,Jay Gonzalez (politician)|Jay Gonzalez,Democratic,33.1,False,False
+2018,Michigan,MI,governor,Gretchen Whitmer,Democratic,53.3,True,False
+2018,Michigan,MI,governor,Bill Schuette,Republican,43.7,False,False
+2018,Michigan,MI,governor,Bill Gelineau,Libertarian,1.3,False,False
+2018,Minnesota,MN,governor,Tim Walz,Minnesota Democratic–farmer–labor,53.8,True,False
+2018,Minnesota,MN,governor,Jeff Johnson (Minnesota politician)|Jeff Johnson,Republican,42.4,False,False
+2018,Minnesota,MN,governor,Chris Wright (activist)|Chris Wright,Grassroots–legalize Cannabis,2.6,False,False
+2018,Minnesota,MN,governor,Josh Welter,Libertarian,1.0,False,False
+2018,Nebraska,NE,governor,Pete Ricketts,Republican,59.0,True,True
+2018,Nebraska,NE,governor,Bob Krist,Democratic,41.0,False,False
+2018,Nevada,NV,governor,Steve Sisolak,Democratic,49.4,True,False
+2018,Nevada,NV,governor,Adam Laxalt,Republican,45.3,False,False
+2018,Nevada,NV,governor,None of These Candidates,None,1.9,False,False
+2018,Nevada,NV,governor,Ryan C. Bundy,Independent,1.4,False,False
+2018,Nevada,NV,governor,Russell Best,Independent American,1.0,False,False
+2018,New Hampshire,NH,governor,Chris Sununu,Republican,52.8,True,True
+2018,New Hampshire,NH,governor,Molly Kelly,Democratic,45.7,False,False
+2018,New Hampshire,NH,governor,Jilletta Jarvis,Libertarian,1.4,False,False
+2018,New Mexico,NM,governor,Michelle Lujan Grisham,Democratic,57.2,True,False
+2018,New Mexico,NM,governor,Steve Pearce (politician)|Steve Pearce,Republican,42.8,False,False
+2018,New York,NY,governor,Andrew Cuomo,Democratic,59.6,True,True
+2018,New York,NY,governor,Marc Molinaro,Republican,36.2,False,False
+2018,New York,NY,governor,Howie Hawkins,Green,1.7,False,False
+2018,New York,NY,governor,Larry Sharpe (political activist)|Larry Sharpe,Libertarian,1.6,False,False
+2018,Ohio,OH,governor,Mike DeWine,Republican,50.4,True,False
+2018,Ohio,OH,governor,Richard Cordray,Democratic,46.7,False,False
+2018,Ohio,OH,governor,Travis Irvine,Libertarian,1.8,False,False
+2018,Ohio,OH,governor,Constance Gadell-Newton,Green,1.1,False,False
+2018,Oklahoma,OK,governor,Kevin Stitt,Republican,54.3,True,False
+2018,Oklahoma,OK,governor,Drew Edmondson,Democratic,42.2,False,False
+2018,Oklahoma,OK,governor,Chris Powell (politician)|Chris Powell,Libertarian,3.4,False,False
+2018,Oregon,OR,governor,Kate Brown,Democratic,50.0,True,True
+2018,Oregon,OR,governor,Knute Buehler,Republican,43.6,False,False
+2018,Oregon,OR,governor,Patrick Starnes,Independent,2.9,False,False
+2018,Oregon,OR,governor,Nick Chen,Libertarian,1.5,False,False
+2018,Oregon,OR,governor,Aaron Auer,Constitution,1.1,False,False
+2018,Pennsylvania,PA,governor,Tom Wolf,Democratic,57.8,True,True
+2018,Pennsylvania,PA,governor,Scott Wagner,Republican,40.7,False,False
+2018,Pennsylvania,PA,governor,Ken Krawchuk,Libertarian,1.0,False,False
+2018,Rhode Island,RI,governor,Gina Raimondo,Democratic,52.6,True,True
+2018,Rhode Island,RI,governor,Allan Fung,Republican,37.2,False,False
+2018,Rhode Island,RI,governor,Joe Trillo,Independent,4.4,False,False
+2018,Rhode Island,RI,governor,Bill Gilbert,Moderate,2.7,False,False
+2018,Rhode Island,RI,governor,Luis-Daniel Munoz,Independent,1.6,False,False
+2018,Rhode Island,RI,governor,Anne Armstrong,Compassion,1.1,False,False
+2018,South Carolina,SC,governor,Henry McMaster,Republican,54.0,True,True
+2018,South Carolina,SC,governor,James E. Smith Jr.,Democratic,45.9,False,False
+2018,South Dakota,SD,governor,Kristi Noem,Republican,51.0,True,False
+2018,South Dakota,SD,governor,Billie Sutton,Democratic,47.6,False,False
+2018,South Dakota,SD,governor,Kurt Evans,Libertarian,1.4,False,False
+2018,Tennessee,TN,governor,Bill Lee,Republican,59.6,True,False
+2018,Tennessee,TN,governor,Karl Dean,Democratic,38.5,False,False
+2018,Texas,TX,governor,Greg Abbott,Republican,55.8,True,True
+2018,Texas,TX,governor,Lupe Valdez,Democratic,42.5,False,False
+2018,Texas,TX,governor,Mark Tippetts,Libertarian,1.7,False,False
+2018,Vermont,VT,governor,Phil Scott,Republican,55.2,True,True
+2018,Vermont,VT,governor,Christine Hallquist,Democratic,40.2,False,False
+2018,Vermont,VT,governor,Trevor Barlow,Independent,1.2,False,False
+2018,Wisconsin,WI,governor,Tony Evers,Democratic,49.5,True,False
+2018,Wisconsin,WI,governor,Scott Walker (politician)|Scott Walker,Republican,48.4,False,True
+2018,Wyoming,WY,governor,Mark Gordon,Republican,67.1,True,False
+2018,Wyoming,WY,governor,Mary Throne,Democratic,27.5,False,False
+2018,Wyoming,WY,governor,Rex Rammell,Constitution,3.3,False,False
+2018,Wyoming,WY,governor,Lawrence Struempf,Libertarian,1.5,False,False
+2018,District of Columbia,DC,governor,Muriel Bowser,Democratic,76.4,True,True
+2018,District of Columbia,DC,governor,Ann Wilcox,D.c. Statehood Green,9.3,False,False
+2018,District of Columbia,DC,governor,Dustin Canter,Independent,6.9,False,False
+2018,District of Columbia,DC,governor,Martin Moulton,Libertarian,3.4,False,False
+2018,Guam,GU,governor,Lou Leon Guerrero,Democratic,50.8,True,False
+2018,Guam,GU,governor,Ray Tenorio,Republican,26.4,False,False
+2018,Guam,GU,governor,Frank Aguon,Write-in,22.8,False,False
+2018,Northern Mariana Islands,MP,governor,Ralph Torres,Republican,62.2,True,True
+2018,Northern Mariana Islands,MP,governor,Juan Babauta,Independent,37.8,False,False
+2018,U.S. Virgin Islands,VI,governor,Albert Bryan,Democratic,54.5,True,False
+2018,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,45.1,False,True
+2018,Alabama,AL,attorney general,Steve Marshall,Republican,58.8,True,True
+2018,Alabama,AL,attorney general,Joseph Siegelman,Democratic,41.1,False,False
+2018,Arizona,AZ,attorney general,Mark Brnovich,Republican,51.7,True,True
+2018,Arizona,AZ,attorney general,January Contreras,Democratic,48.3,False,False
+2018,Arkansas,AR,attorney general,Leslie Rutledge,Republican,61.8,True,True
+2018,Arkansas,AR,attorney general,Mike Lee,Democratic,35.4,False,False
+2018,California,CA,attorney general,Xavier Becerra,Democratic,63.6,True,True
+2018,California,CA,attorney general,Steven Bailey,Republican,36.4,False,False
+2018,Colorado,CO,attorney general,Phil Weiser,Democratic,51.6,True,False
+2018,Colorado,CO,attorney general,George Brauchler,Republican,45.1,False,False
+2018,Colorado,CO,attorney general,William Robinson III,Libertarian,3.3,False,False
+2018,Connecticut,CT,attorney general,William Tong,Democratic,52.5,True,False
+2018,Connecticut,CT,attorney general,Susan Hatfield,Republican,46.5,False,False
+2018,Delaware,DE,attorney general,Kathy Jennings,Democratic,61.31,True,False
+2018,Delaware,DE,attorney general,Bernard Pepukayi,Republican,38.68,False,False
+2018,Florida,FL,attorney general,Ashley Moody,Republican,52.1,True,False
+2018,Florida,FL,attorney general,Sean Shaw,Democratic,46.1,False,False
+2018,Georgia,GA,attorney general,Chris Carr,Republican,51.3,True,True
+2018,Georgia,GA,attorney general,Charlie Bailey,Democratic,48.7,False,False
+2018,Idaho,ID,attorney general,Lawrence Wasden,Republican,65.4,True,True
+2018,Idaho,ID,attorney general,Bruce Bistline,Democratic,34.6,False,False
+2018,Illinois,IL,attorney general,Kwame Raoul,Democratic,54.71,True,False
+2018,Illinois,IL,attorney general,Erika Harold,Republican,42.74,False,False
+2018,Illinois,IL,attorney general,Bubba Harsy,Libertarian,2.55,False,False
+2018,Iowa,IA,attorney general,Tom Miller,Democratic,76.51,True,True
+2018,Iowa,IA,attorney general,Marco Battaglia,Libertarian,22.78,False,False
+2018,Kansas,KS,attorney general,Derek Schmidt,Republican,58.98,True,True
+2018,Kansas,KS,attorney general,Sarah Swain,Democratic,41.02,False,False
+2018,Maryland,MD,attorney general,Brian Frosh,Democratic,64.8,True,True
+2018,Maryland,MD,attorney general,Craig Wolf,Republican,35.1,False,False
+2018,Massachusetts,MA,attorney general,Maura Healey,Democratic,69.91,True,True
+2018,Massachusetts,MA,attorney general,James McMahon,Republican,30.02,False,False
+2018,Michigan,MI,attorney general,Dana Nessel,Democratic,49.04,True,False
+2018,Michigan,MI,attorney general,Tom Leonard (Michigan politician)|Tom Leonard,Republican,46.26,False,False
+2018,Michigan,MI,attorney general,Lisa Lane Giola,Libertarian,2.1,False,False
+2018,Minnesota,MN,attorney general,Keith Ellison,Minnesota Democratic-farmer-labor,48.96,True,False
+2018,Minnesota,MN,attorney general,Doug Wardlow,Republican,45.08,False,False
+2018,Nebraska,NE,attorney general,Doug Peterson,Republican,100.0,True,True
+2018,Nevada,NV,attorney general,Aaron Ford,Democratic,47.2,True,False
+2018,Nevada,NV,attorney general,Wesley Duncan,Republican,46.8,False,False
+2018,Nevada,NV,attorney general,None of These Candidates,Write-in,2.7,False,False
+2018,New Mexico,NM,attorney general,Hector Balderas,Democratic,61.8,True,True
+2018,New Mexico,NM,attorney general,Michael Hendricks,Republican,33.4,False,False
+2018,New York,NY,attorney general,Letitia James,Democratic,62.42,True,False
+2018,New York,NY,attorney general,Keith Wofford,Republican,35.2,False,False
+2018,North Dakota,ND,attorney general,Wayne Stenehjem,Republican,67.55,True,True
+2018,North Dakota,ND,attorney general,David Clark Thompson,North Dakota Democratic–nonpartisan League,32.23,False,False
+2018,Ohio,OH,attorney general,Dave Yost,Republican,52.2,True,False
+2018,Ohio,OH,attorney general,Steve Dettelbach,Democratic,47.8,False,False
+2018,Oklahoma,OK,attorney general,Michael J. Hunter,Republican,64.03,True,True
+2018,Oklahoma,OK,attorney general,Mark Myles,Democratic,35.97,False,False
+2018,Rhode Island,RI,attorney general,Peter Neronha,Democratic,79.8,True,False
+2018,Rhode Island,RI,attorney general,Alan Gordon,Independent,19.1,False,False
+2018,South Carolina,SC,attorney general,Alan Wilson,Republican,55.1,True,True
+2018,South Carolina,SC,attorney general,Constance Anastopoulo,Democratic,44.9,False,False
+2018,South Dakota,SD,attorney general,Jason Ravnsborg,Republican,55.16,True,False
+2018,South Dakota,SD,attorney general,Randy Seiler,Democratic,44.84,False,False
+2018,Texas,TX,attorney general,Ken Paxton,Republican,50.57,True,True
+2018,Texas,TX,attorney general,Justin Nelson,Democratic,47.01,False,False
+2018,Texas,TX,attorney general,Michael Ray Harris,Libertarian,2.43,False,False
+2018,Vermont,VT,attorney general,T.J. Donovan,Democratic,67.24,True,True
+2018,Vermont,VT,attorney general,Janssen Willhoit,Republican,25.24,False,False
+2018,Wisconsin,WI,attorney general,Josh Kaul,Democratic,49.4,True,False
+2018,Wisconsin,WI,attorney general,Brad Schimel,Republican,48.8,False,True
+2018,District of Columbia,DC,attorney general,Karl Racine,Democratic,92.77,True,True
+2018,Guam,GU,attorney general,Leevin Camacho,Independent,64.2,True,False
+2018,Guam,GU,attorney general,Douglas Moylan,Republican,30.56,False,False
+2018,Northern Mariana Islands,MP,attorney general,Edward Manibusan,Nonpartisan,100.0,True,True
+2020,Delaware,DE,governor,John Carney,Democratic,59.5,True,True
+2020,Delaware,DE,governor,Julianne Murray,Republican,38.6,False,False
+2020,Delaware,DE,governor,Kathy DeMatteis,Independent (delaware),1.2,False,False
+2020,Indiana,IN,governor,Eric Holcomb,Republican,56.5,True,True
+2020,Indiana,IN,governor,Woody Myers,Democratic,32.1,False,False
+2020,Indiana,IN,governor,Donald Rainwater,Libertarian,11.4,False,False
+2020,Missouri,MO,governor,Mike Parson,Republican,57.1,True,True
+2020,Missouri,MO,governor,Nicole Galloway,Democratic,40.7,False,False
+2020,Missouri,MO,governor,Rik Combs,Libertarian,1.6,False,False
+2020,Montana,MT,governor,Greg Gianforte,Republican,54.4,True,False
+2020,Montana,MT,governor,Mike Cooney,Democratic,41.6,False,False
+2020,Montana,MT,governor,Lyman Bishop,Libertarian,4.0,False,False
+2020,New Hampshire,NH,governor,Chris Sununu,Republican,65.1,True,True
+2020,New Hampshire,NH,governor,Dan Feltes,Democratic,33.4,False,False
+2020,New Hampshire,NH,governor,Darryl W. Perry,Libertarian,1.4,False,False
+2020,North Carolina,NC,governor,Roy Cooper,Democratic,51.5,True,True
+2020,North Carolina,NC,governor,Dan Forest,Republican,47.0,False,False
+2020,North Carolina,NC,governor,Steven J. DiFiore,Libertarian,1.1,False,False
+2020,North Dakota,ND,governor,Doug Burgum,Republican,65.8,True,True
+2020,North Dakota,ND,governor,Shelley Lenz,North Dakota Democratic–nonpartisan League,25.4,False,False
+2020,North Dakota,ND,governor,DuWayne Hendrickson,Libertarian,3.9,False,False
+2020,Utah,UT,governor,Spencer Cox,Republican,63.0,True,False
+2020,Utah,UT,governor,Christopher Peterson (law professor)|Christopher Peterson,Democratic,30.3,False,False
+2020,Utah,UT,governor,Daniel Cottam,Libertarian,3.5,False,False
+2020,Utah,UT,governor,Gregory Duerden,Independent American,1.8,False,False
+2020,Vermont,VT,governor,Phil Scott,Republican,68.5,True,True
+2020,Vermont,VT,governor,David Zuckerman (politician)|David Zuckerman,Progressive Party (vermont),27.3,False,False
+2020,Vermont,VT,governor,Kevin Hoyt,Independent,1.3,False,False
+2020,Vermont,VT,governor,Emily Peyton,Independent,1.0,False,False
+2020,Washington,WA,governor,Jay Inslee,Democratic,56.6,True,True
+2020,Washington,WA,governor,Loren Culp,Republican,43.1,False,False
+2020,West Virginia,WV,governor,Jim Justice,Republican,63.5,True,True
+2020,West Virginia,WV,governor,Ben Salango,Democratic,30.2,False,False
+2020,West Virginia,WV,governor,Erika Kolenich,Libertarian,2.9,False,False
+2020,West Virginia,WV,governor,S. Marshall Wilson,Write-in,1.9,False,False
+2020,West Virginia,WV,governor,Daniel Lutz,Mountain,1.4,False,False
+2020,American Samoa,AS,governor,Lemanu Peleti Mauga,Nonpartisan Politician,60.3,True,False
+2020,American Samoa,AS,governor,Gaoteote Palaie Tofau,Nonpartisan Politician,21.9,False,False
+2020,American Samoa,AS,governor,Iʻaulualo Faʻafetai Talia,Nonpartisan Politician,12.3,False,False
+2020,American Samoa,AS,governor,Nuanuaolefeagaiga Saoluaga T. Nua,Nonpartisan Politician,5.5,False,False
+2020,Puerto Rico,PR,governor,Pedro Pierluisi,New Progressive Party (puerto Rico),32.9,True,False
+2020,Puerto Rico,PR,governor,Carlos Delgado Altieri,Popular Democratic Party (puerto Rico),31.6,False,False
+2020,Puerto Rico,PR,governor,Alexandra Lúgaro,Movimiento Victoria Ciudadana,14.2,False,False
+2020,Puerto Rico,PR,governor,Juan Dalmau,Independence Party (puerto Rico),13.7,False,False
+2020,Puerto Rico,PR,governor,César Vázquez,Project Dignity,6.9,False,False
+2020,Indiana,IN,attorney general,Todd Rokita,Republican,58.3,True,False
+2020,Indiana,IN,attorney general,Jonathan Weinzapfel,Democratic,41.7,False,False
+2020,Missouri,MO,attorney general,Eric Schmitt,Republican,59.4,True,True
+2020,Missouri,MO,attorney general,Richard Finneran,Democratic,37.9,False,False
+2020,Missouri,MO,attorney general,Kevin Babcock,Libertarian,2.7,False,False
+2020,Montana,MT,attorney general,Austin Knudsen,Republican,58.5,True,False
+2020,Montana,MT,attorney general,Raph Graybill,Democratic,41.5,False,False
+2020,North Carolina,NC,attorney general,Josh Stein,Democratic,50.1,True,True
+2020,North Carolina,NC,attorney general,Jim O'Neill,Republican,49.9,False,False
+2020,Oregon,OR,attorney general,Ellen Rosenblum,Democratic,56.0,True,True
+2020,Oregon,OR,attorney general,Michael Cross,Republican,41.3,False,False
+2020,Oregon,OR,attorney general,Lars Hedbor,Libertarian,2.3,False,False
+2020,Pennsylvania,PA,attorney general,Josh Shapiro,Democratic,50.8,True,True
+2020,Pennsylvania,PA,attorney general,Heather Heidelbaugh,Republican,46.3,False,False
+2020,Pennsylvania,PA,attorney general,Daniel Wassmer,Libertarian,1.8,False,False
+2020,Pennsylvania,PA,attorney general,Richard Weiss,Green,1.0,False,False
+2020,Utah,UT,attorney general,Sean Reyes,Republican,60.6,True,True
+2020,Utah,UT,attorney general,Greg Skordas,Democratic,33.7,False,False
+2020,Utah,UT,attorney general,Rudy Bautista,Libertarian,5.7,False,False
+2020,Vermont,VT,attorney general,T. J. Donovan,Democratic,67.7,True,True
+2020,Vermont,VT,attorney general,H. Brooke Paige,Republican,27.5,False,False
+2020,Vermont,VT,attorney general,Cris Ericson,Socialist,4.6,False,False
+2020,Washington,WA,attorney general,Bob Ferguson,Democratic,56.4,True,True
+2020,Washington,WA,attorney general,Matt Larkin,Republican,43.5,False,False
+2020,West Virginia,WV,attorney general,Patrick Morrisey,Republican,63.8,True,True
+2020,West Virginia,WV,attorney general,Sam Petsonk,Democratic,36.2,False,False
+2020,Missouri,MO,secretary of state,Jay Ashcroft,Republican,60.6,True,True
+2020,Missouri,MO,secretary of state,Yinka Faleti,Democratic,36.3,False,False
+2020,Montana,MT,secretary of state,Christi Jacobsen,Republican,59.6,True,False
+2020,Montana,MT,secretary of state,Bryce Bennett (politician)|Bryce Bennett,Democratic,40.4,False,False
+2020,North Carolina,NC,secretary of state,Elaine Marshall,Democratic,51.2,True,True
+2020,North Carolina,NC,secretary of state,E.C. Sykes,Republican,48.8,False,False
+2020,Oregon,OR,secretary of state,Shemia Fagan,Democratic,50.3,True,False
+2020,Oregon,OR,secretary of state,Kim Thatcher,Republican,43.2,False,False
+2020,Oregon,OR,secretary of state,Nathalie Paravicini,Green,3.6,False,False
+2020,Oregon,OR,secretary of state,Kyle Markley,Libertarian,2.8,False,False
+2020,Vermont,VT,secretary of state,Jim Condos,Democratic,57.9,True,True
+2020,Vermont,VT,secretary of state,H. Brooke Paige,Republican,26.8,False,False
+2020,Vermont,VT,secretary of state,Pamala Smith,Independent,5.7,False,False
+2020,Vermont,VT,secretary of state,Cris Ericson,Progressive,3.0,False,False
+2020,Washington,WA,secretary of state,Kim Wyman,Republican,50.9,True,True
+2020,Washington,WA,secretary of state,Gael Tarleton,Democratic,43.3,False,False
+2020,Washington,WA,secretary of state,Ed Minger,Independent,3.6,False,False
+2020,Washington,WA,secretary of state,Gentry Lange,Progressive,2.1,False,False
+2020,West Virginia,WV,secretary of state,Mac Warner,Republican,58.3,True,True
+2020,West Virginia,WV,secretary of state,Natalie Tennant,Democratic,41.7,False,False
+2020,Missouri,MO,state treasurer,Scott Fitzpatrick,Republican,59.1,True,True
+2020,Missouri,MO,state treasurer,Vicki Englund,Democratic,38.1,False,False
+2020,Missouri,MO,state treasurer,Nick Kasoff,Libertarian,2.19,False,False
+2020,North Carolina,NC,state treasurer,Dale Folwell,Republican,52.58,True,True
+2020,North Carolina,NC,state treasurer,Aaron Chatterji|Ronnie Chatterji,Democratic,47.42,False,False
+2020,North Dakota,ND,state treasurer,Thomas Beadle,Republican,65.6,True,False
+2020,North Dakota,ND,state treasurer,Mark Haugen,Democratic,33.95,False,False
+2020,Oregon,OR,state treasurer,Tobias Read,Democratic,51.7,True,True
+2020,Oregon,OR,state treasurer,Jeff Gudman,Republican,41.5,False,False
+2020,Pennsylvania,PA,state treasurer,Stacy Garrity,Republican,48.7,True,False
+2020,Pennsylvania,PA,state treasurer,Joe Torsella,Democratic,47.9,False,True
+2020,Pennsylvania,PA,state treasurer,Joseph Soloski,Libertarian,2.2,False,False
+2020,Utah,UT,state treasurer,David Damschen,Republican,74.57,True,True
+2020,Utah,UT,state treasurer,Joseph Speciale,Libertarian,14.8,False,False
+2020,Vermont,VT,state treasurer,Beth Pearce,Democratic,53.17,True,True
+2020,Vermont,VT,state treasurer,Carolyn Whitney Branagan,Republican,30.78,False,False
+2020,Washington,WA,state treasurer,Mike Pellicciotti,Democratic,53.4,True,False
+2020,Washington,WA,state treasurer,Duane Davidson,Republican,46.5,False,True
+2020,West Virginia,WV,state treasurer,Riley Moore,Republican,56.31,True,False
+2020,West Virginia,WV,state treasurer,John Perdue,Democratic,43.69,False,True
+2022,Alabama,AL,governor,Kay Ivey,Republican,66.9,True,True
+2022,Alabama,AL,governor,Yolanda Flowers,Democratic,29.2,False,False
+2022,Alabama,AL,governor,Jimmy Blake,Libertarian,3.3,False,False
+2022,Alaska,AK,governor,Mike Dunleavy,Republican,50.3,True,True
+2022,Alaska,AK,governor,Les Gara,Democratic,24.2,False,False
+2022,Alaska,AK,governor,Bill Walker (American politician)|Bill Walker,Independent,20.7,False,False
+2022,Alaska,AK,governor,Charlie Pierce,Republican,4.5,False,False
+2022,Arizona,AZ,governor,Katie Hobbs,Democratic,50.3,True,False
+2022,Arizona,AZ,governor,Kari Lake,Republican,49.7,False,False
+2022,Arkansas,AR,governor,Sarah Huckabee Sanders,Republican,63.0,True,False
+2022,Arkansas,AR,governor,Chris Jones,Democratic,35.2,False,False
+2022,Arkansas,AR,governor,Ricky Harrington,Libertarian,1.8,False,False
+2022,California,CA,governor,Gavin Newsom,Democratic,59.2,True,True
+2022,California,CA,governor,Brian Dahle,Republican,40.8,False,False
+2022,Colorado,CO,governor,Jared Polis,Democratic,58.5,True,True
+2022,Colorado,CO,governor,Heidi Ganahl,Republican,39.2,False,False
+2022,Connecticut,CT,governor,Ned Lamont,Democratic,56.0,True,True
+2022,Connecticut,CT,governor,Bob Stefanowski,Republican,43.1,False,False
+2022,Connecticut,CT,governor,Robert Hotaling,Independent,1.0,False,False
+2022,Florida,FL,governor,Ron DeSantis,Republican,59.4,True,True
+2022,Florida,FL,governor,Charlie Crist,Democratic,40.0,False,False
+2022,Georgia,GA,governor,Brian Kemp,Republican,53.4,True,True
+2022,Georgia,GA,governor,Stacey Abrams,Democratic,45.9,False,False
+2022,Georgia,GA,governor,Shane Hazel,Libertarian,0.7,False,False
+2022,Hawaii,HI,governor,Josh Green,Democratic,63.2,True,False
+2022,Hawaii,HI,governor,Duke Aiona,Republican,36.8,False,False
+2022,Idaho,ID,governor,Brad Little,Republican,60.5,True,True
+2022,Idaho,ID,governor,Stephen Heidt,Democratic,20.3,False,False
+2022,Idaho,ID,governor,Ammon Bundy,Independent,17.2,False,False
+2022,Illinois,IL,governor,J. B. Pritzker,Democratic,54.9,True,True
+2022,Illinois,IL,governor,Darren Bailey,Republican,42.4,False,False
+2022,Illinois,IL,governor,Scott Schluter,Libertarian,2.7,False,False
+2022,Iowa,IA,governor,Kim Reynolds,Republican,58.0,True,True
+2022,Iowa,IA,governor,Deidre DeJear,Democratic,39.5,False,False
+2022,Iowa,IA,governor,Rick Stewart,Libertarian,2.4,False,False
+2022,Kansas,KS,governor,Laura Kelly,Democratic,49.5,True,True
+2022,Kansas,KS,governor,Derek Schmidt,Republican,47.3,False,False
+2022,Kansas,KS,governor,Dennis Pyle,Independent,2.0,False,False
+2022,Kansas,KS,governor,Seth Cordell,Libertarian,1.1,False,False
+2022,Maine,ME,governor,Janet Mills,Democratic,55.7,True,True
+2022,Maine,ME,governor,Paul LePage,Republican,42.4,False,False
+2022,Maine,ME,governor,Sam Hunkler,Independent,1.9,False,False
+2022,Maryland,MD,governor,Wes Moore,Democratic,64.5,True,False
+2022,Maryland,MD,governor,Dan Cox,Republican,32.1,False,False
+2022,Massachusetts,MA,governor,Maura Healey,Democratic,63.7,True,False
+2022,Massachusetts,MA,governor,Geoff Diehl,Republican,34.6,False,False
+2022,Massachusetts,MA,governor,Kevin Reed,Libertarian,1.6,False,False
+2022,Michigan,MI,governor,Gretchen Whitmer,Democratic,54.5,True,True
+2022,Michigan,MI,governor,Tudor Dixon,Republican,43.9,False,False
+2022,Minnesota,MN,governor,Tim Walz,Minnesota Democratic–farmer–labor,52.3,True,True
+2022,Minnesota,MN,governor,Scott Jensen (Minnesota politician)|Scott Jensen,Republican,44.6,False,False
+2022,Nebraska,NE,governor,Jim Pillen,Republican,59.7,True,False
+2022,Nebraska,NE,governor,Carol Blood,Democratic,36.3,False,False
+2022,Nebraska,NE,governor,Scott Zimmerman,Libertarian,4.0,False,False
+2022,Nevada,NV,governor,Joe Lombardo,Republican,48.8,True,False
+2022,Nevada,NV,governor,Steve Sisolak,Democratic,47.3,False,True
+2022,New Hampshire,NH,governor,Chris Sununu,Republican,57.1,True,True
+2022,New Hampshire,NH,governor,Tom Sherman (politician)|Tom Sherman,Democratic,41.6,False,False
+2022,New Mexico,NM,governor,Michelle Lujan Grisham,Democratic,52.0,True,True
+2022,New Mexico,NM,governor,Mark Ronchetti,Republican,45.6,False,False
+2022,New Mexico,NM,governor,Karen Bedonie,Libertarian,2.4,False,False
+2022,New York,NY,governor,Kathy Hochul,Democratic,53.2,True,True
+2022,New York,NY,governor,Lee Zeldin,Republican,46.8,False,False
+2022,Ohio,OH,governor,Mike DeWine,Republican,62.4,True,True
+2022,Ohio,OH,governor,Nan Whaley,Democratic,37.4,False,False
+2022,Oklahoma,OK,governor,Kevin Stitt,Republican,55.4,True,True
+2022,Oklahoma,OK,governor,Joy Hofmeister,Democratic,41.8,False,False
+2022,Oklahoma,OK,governor,Natalie Bruno,Libertarian,1.4,False,False
+2022,Oklahoma,OK,governor,Ervin Yen,Independent,1.4,False,False
+2022,Oregon,OR,governor,Tina Kotek,Democratic,47.0,True,False
+2022,Oregon,OR,governor,Christine Drazan,Republican,43.6,False,False
+2022,Oregon,OR,governor,Betsy Johnson,Independent,8.6,False,False
+2022,Pennsylvania,PA,governor,Josh Shapiro,Democratic,56.5,True,False
+2022,Pennsylvania,PA,governor,Doug Mastriano,Republican,41.7,False,False
+2022,Rhode Island,RI,governor,Dan McKee,Democratic,57.9,True,True
+2022,Rhode Island,RI,governor,Ashley Kalus,Republican,38.9,False,False
+2022,South Carolina,SC,governor,Henry McMaster,Republican,58.1,True,True
+2022,South Carolina,SC,governor,Joe Cunningham (American politician)|Joe Cunningham,Democratic,40.7,False,False
+2022,South Carolina,SC,governor,Bruce Reeves,Libertarian,1.2,False,False
+2022,South Dakota,SD,governor,Kristi Noem,Republican,62.0,True,True
+2022,South Dakota,SD,governor,Jamie Smith (politician)|Jamie Smith,Democratic,35.2,False,False
+2022,South Dakota,SD,governor,Tracey Quint,Libertarian,2.9,False,False
+2022,Tennessee,TN,governor,Bill Lee,Republican,64.9,True,True
+2022,Tennessee,TN,governor,Jason Martin,Democratic,32.9,False,False
+2022,Texas,TX,governor,Greg Abbott,Republican,54.8,True,True
+2022,Texas,TX,governor,Beto O'Rourke,Democratic,43.9,False,False
+2022,Texas,TX,governor,Mark Tippetts,Libertarian,1.0,False,False
+2022,Texas,TX,governor,Delilah Barrios,Green,0.4,False,False
+2022,Vermont,VT,governor,Phil Scott,Republican,70.9,True,True
+2022,Vermont,VT,governor,Brenda Siegel,Democratic,23.9,False,False
+2022,Wisconsin,WI,governor,Tony Evers,Democratic,51.2,True,True
+2022,Wisconsin,WI,governor,Tim Michels,Republican,47.8,False,False
+2022,Wisconsin,WI,governor,Joan Ellis Beglinger,Independent,1.0,False,False
+2022,Wyoming,WY,governor,Mark Gordon,Republican,74.1,True,True
+2022,Wyoming,WY,governor,Theresa Livingston,Democratic,15.8,False,False
+2022,Wyoming,WY,governor,Jared Baldes,Libertarian,4.2,False,False
+2022,District of Columbia,DC,governor,Muriel Bowser,Democratic,74.7,True,True
+2022,District of Columbia,DC,governor,Red Grant,Independent,14.9,False,False
+2022,District of Columbia,DC,governor,Stacia Hall,Republican,5.9,False,False
+2022,District of Columbia,DC,governor,Dennis Sobin,Libertarian,1.3,False,False
+2022,Guam,GU,governor,Lou Leon Guerrero,Democratic,55.5,True,True
+2022,Guam,GU,governor,Felix Perez Camacho|Felix Camacho,Republican,44.1,False,False
+2022,Northern Mariana Islands,MP,governor,Ralph Torres,Republican,38.8,True,True
+2022,Northern Mariana Islands,MP,governor,Arnold Palacios,Independent,33.2,False,False
+2022,Northern Mariana Islands,MP,governor,Tina Sablan,Democratic,28.0,False,False
+2022,U.S. Virgin Islands,VI,governor,Albert Bryan,Democratic,56.0,True,True
+2022,U.S. Virgin Islands,VI,governor,Kurt Vialet,Independent,38.2,False,False
+2022,U.S. Virgin Islands,VI,governor,Stephen Frett,Independent Citizens Movement,3.4,False,False
+2022,U.S. Virgin Islands,VI,governor,Ronald Pickard,Independent,1.1,False,False
+2022,Alabama,AL,attorney general,Steve Marshall,Republican,68.0,True,True
+2022,Alabama,AL,attorney general,Wendell Major,Democratic,32.0,False,False
+2022,Arizona,AZ,attorney general,Kristin Mayes,Democratic,50.01,True,False
+2022,Arizona,AZ,attorney general,Abraham Hamadeh,Republican,49.99,False,False
+2022,Arkansas,AR,attorney general,Tim Griffin,Republican,67.6,True,False
+2022,Arkansas,AR,attorney general,Jesse Gibson,Democratic,32.4,False,False
+2022,California,CA,attorney general,Rob Bonta,Democratic,59.1,True,True
+2022,California,CA,attorney general,Nathan Hochman,Republican,40.9,False,False
+2022,Colorado,CO,attorney general,Phil Weiser,Democratic,54.7,True,True
+2022,Colorado,CO,attorney general,John Kellner,Republican,43.0,False,False
+2022,Colorado,CO,attorney general,William Robinson III,Libertarian,2.2,False,False
+2022,Connecticut,CT,attorney general,William Tong,Democratic,57.0,True,True
+2022,Connecticut,CT,attorney general,Jessica Kordas,Republican,41.4,False,False
+2022,Delaware,DE,attorney general,Kathy Jennings,Democratic,53.8,True,True
+2022,Delaware,DE,attorney general,Julianne Murray,Republican,46.2,False,False
+2022,Florida,FL,attorney general,Ashley Moody,Republican,60.6,True,True
+2022,Florida,FL,attorney general,Aramis Ayala,Democratic,39.4,False,False
+2022,Georgia,GA,attorney general,Chris Carr,Republican,51.9,True,True
+2022,Georgia,GA,attorney general,Jen Jordan,Democratic,46.6,False,False
+2022,Georgia,GA,attorney general,Martin Cowen,Libertarian,1.5,False,False
+2022,Idaho,ID,attorney general,Raúl Labrador,Republican,62.6,True,False
+2022,Idaho,ID,attorney general,Tom Arkoosh,Democratic,37.4,False,False
+2022,Illinois,IL,attorney general,Kwame Raoul,Democratic,53.9,True,True
+2022,Illinois,IL,attorney general,Tom DeVore,Republican,43.9,False,False
+2022,Illinois,IL,attorney general,Daniel Robin,Libertarian,2.2,False,False
+2022,Iowa,IA,attorney general,Brenna Bird,Republican,50.9,True,False
+2022,Iowa,IA,attorney general,Tom Miller (politician)|Tom Miller,Democratic,49.1,False,True
+2022,Kansas,KS,attorney general,Kris Kobach,Republican,50.8,True,False
+2022,Kansas,KS,attorney general,Chris Mann,Democratic,49.2,False,False
+2022,Maryland,MD,attorney general,Anthony Brown,Democratic,65.0,True,False
+2022,Maryland,MD,attorney general,Michael Peroutka,Republican,35.0,False,False
+2022,Massachusetts,MA,attorney general,Andrea Campbell,Democratic,62.6,True,False
+2022,Massachusetts,MA,attorney general,Jay McMahon,Republican,37.4,False,False
+2022,Michigan,MI,attorney general,Dana Nessel,Democratic,53.2,True,True
+2022,Michigan,MI,attorney general,Matthew DePerno,Republican,44.6,False,False
+2022,Michigan,MI,attorney general,Joseph McHugh,Libertarian,1.5,False,False
+2022,Minnesota,MN,attorney general,Keith Ellison,Minnesota Democratic-farmer-labor,50.4,True,True
+2022,Minnesota,MN,attorney general,Jim Schultz,Republican,49.6,False,False
+2022,Nebraska,NE,attorney general,Mike Hilgers,Republican,69.7,True,False
+2022,Nebraska,NE,attorney general,Larry Bolinger,Now,30.3,False,False
+2022,Nevada,NV,attorney general,Aaron Ford,Democratic,52.3,True,True
+2022,Nevada,NV,attorney general,Sigal Chattah,Republican,44.4,False,False
+2022,Nevada,NV,attorney general,None of These Candidates,Write-in,3.4,False,False
+2022,New Mexico,NM,attorney general,Raúl Torrez,Democratic,55.3,True,False
+2022,New Mexico,NM,attorney general,Jeremy Gay,Republican,44.7,False,False
+2022,New York,NY,attorney general,Letitia James,Democratic,54.3,True,True
+2022,New York,NY,attorney general,Michael Henry,Republican,45.7,False,False
+2022,North Dakota,ND,attorney general,Drew Wrigley,Republican,71.1,True,True
+2022,North Dakota,ND,attorney general,Timothy Lamb,North Dakota Democratic–nonpartisan League,28.9,False,False
+2022,Ohio,OH,attorney general,Dave Yost,Republican,60.4,True,True
+2022,Ohio,OH,attorney general,Jeffrey Crossman,Democratic,39.6,False,False
+2022,Oklahoma,OK,attorney general,Gentner Drummond,Republican,73.8,True,False
+2022,Oklahoma,OK,attorney general,Lynda Steele,Libertarian,26.2,False,False
+2022,Rhode Island,RI,attorney general,Peter Neronha,Democratic,61.6,True,True
+2022,Rhode Island,RI,attorney general,Chas Calenda,Republican,38.4,False,False
+2022,Texas,TX,attorney general,Ken Paxton,Republican,53.4,True,True
+2022,Texas,TX,attorney general,Rochelle Mercedes Garza,Democratic,43.7,False,False
+2022,Texas,TX,attorney general,Mark Ash,Libertarian,2.9,False,False
+2022,Vermont,VT,attorney general,Charity Clark,Democratic,65.1,True,False
+2022,Vermont,VT,attorney general,Mike Tagliavia,Republican,34.9,False,False
+2022,Wisconsin,WI,attorney general,Josh Kaul,Democratic,50.7,True,True
+2022,Wisconsin,WI,attorney general,Eric Toney,Republican,49.3,False,False
+2022,District of Columbia,DC,attorney general,Brian Schwalb,Democratic,,True,False
+2022,Guam,GU,attorney general,Douglas Moylan,Republican,46.2,True,False
+2022,Guam,GU,attorney general,Leevin Camacho,Independent,46.1,False,True
+2022,Guam,GU,attorney general,Write-ins,Write-in,7.7,False,False
+2022,Northern Mariana Islands,MP,attorney general,Edward Manibusan,Nonpartisan,55.2,True,True
+2022,Northern Mariana Islands,MP,attorney general,Juan Tudela Lizama,Nonpartisan,44.8,False,False
+2022,Alabama,AL,secretary of state,Wes Allen,Republican,65.9,True,False
+2022,Alabama,AL,secretary of state,Pamela Laffitte,Democratic,31.1,False,False
+2022,Alabama,AL,secretary of state,Matt Shelby,Libertarian,3.0,False,False
+2022,Arizona,AZ,secretary of state,Adrian Fontes,Democratic,52.4,True,False
+2022,Arizona,AZ,secretary of state,Mark Finchem,Republican,47.6,False,False
+2022,Arkansas,AR,secretary of state,John Thurston,Republican,67.0,True,True
+2022,Arkansas,AR,secretary of state,Anna Beth Gorman,Democratic,33.0,False,False
+2022,California,CA,secretary of state,Shirley Weber,Democratic,60.1,True,True
+2022,California,CA,secretary of state,Rob Bernosky,Republican,39.9,False,False
+2022,Colorado,CO,secretary of state,Jena Griswold,Democratic,55.1,True,True
+2022,Colorado,CO,secretary of state,Pam Anderson,Republican,42.1,False,False
+2022,Connecticut,CT,secretary of state,Stephanie Thomas,Democratic,55.2,True,False
+2022,Connecticut,CT,secretary of state,Dominic Rapini,Republican,42.7,False,False
+2022,Connecticut,CT,secretary of state,Cynthia Jennings,Independent,2.1,False,False
+2022,Georgia,GA,secretary of state,Brad Raffensperger,Republican,53.2,True,True
+2022,Georgia,GA,secretary of state,Bee Nguyen,Democratic,44.0,False,False
+2022,Georgia,GA,secretary of state,Ted Metz,Libertarian,2.8,False,False
+2022,Idaho,ID,secretary of state,Phil McGrane,Republican,72.5,True,False
+2022,Idaho,ID,secretary of state,Shawn Keenan,Democratic,27.5,False,False
+2022,Illinois,IL,secretary of state,Alexi Giannoulias,Democratic,53.8,True,False
+2022,Illinois,IL,secretary of state,Dan Brady (Illinois politician)|Dan Brady,Republican,44.1,False,False
+2022,Illinois,IL,secretary of state,Jon Stewart,Libertarian,2.1,False,False
+2022,Indiana,IN,secretary of state,Diego Morales,Republican,54.1,True,False
+2022,Indiana,IN,secretary of state,Destiny Scott Wells,Democratic,40.2,False,False
+2022,Indiana,IN,secretary of state,Jeff Maurer,Libertarian,5.7,False,False
+2022,Iowa,IA,secretary of state,Paul Pate,Republican,60.1,True,True
+2022,Iowa,IA,secretary of state,Joel Miller,Democratic,39.9,False,False
+2022,Kansas,KS,secretary of state,Scott Schwab,Republican,58.5,True,True
+2022,Kansas,KS,secretary of state,Jeanna Repass,Democratic,38.8,False,False
+2022,Kansas,KS,secretary of state,Cullene Lang,Libertarian,2.8,False,False
+2022,Massachusetts,MA,secretary of state,William F. Galvin,Democratic,67.5,True,True
+2022,Massachusetts,MA,secretary of state,Rayla Campbell,Republican,29.6,False,False
+2022,Massachusetts,MA,secretary of state,Juan Sanchez,Green-rainbow,2.9,False,False
+2022,Michigan,MI,secretary of state,Jocelyn Benson,Democratic,55.9,True,True
+2022,Michigan,MI,secretary of state,Kristina Karamo,Republican,41.9,False,False
+2022,Minnesota,MN,secretary of state,Steve Simon,Minnesota Democratic-farmer-labor,54.6,True,True
+2022,Minnesota,MN,secretary of state,Kim Crockett,Republican,45.4,False,False
+2022,Nevada,NV,secretary of state,Cisco Aguilar,Democratic,48.9,True,False
+2022,Nevada,NV,secretary of state,Jim Marchant,Republican,46.7,False,False
+2022,New Mexico,NM,secretary of state,Maggie Toulouse Oliver,Democratic,54.5,True,True
+2022,New Mexico,NM,secretary of state,Audrey Trujillo,Republican,42.6,False,False
+2022,New Mexico,NM,secretary of state,Mayna Erika Myers,Libertarian,2.8,False,False
+2022,North Dakota,ND,secretary of state,Michael Howe,Republican,63.3,True,False
+2022,North Dakota,ND,secretary of state,Jeffrey Powell,North Dakota Democratic–nonpartisan League,27.5,False,False
+2022,North Dakota,ND,secretary of state,Charles Tuttle,Independent,9.2,False,False
+2022,Ohio,OH,secretary of state,Frank LaRose,Republican,59.5,True,True
+2022,Ohio,OH,secretary of state,Chelsea Clark,Democratic,39.4,False,False
+2022,Ohio,OH,secretary of state,Terpsehore Tore Maras,Independent,1.0,False,False
+2022,Rhode Island,RI,secretary of state,Gregg Amore,Democratic,59.6,True,False
+2022,Rhode Island,RI,secretary of state,Pat Cortellessa,Republican,40.4,False,False
+2022,South Carolina,SC,secretary of state,Mark Hammond,Republican,63.4,True,True
+2022,South Carolina,SC,secretary of state,Rosemounda Peggy Butler,Democratic,36.6,False,False
+2022,South Dakota,SD,secretary of state,Monae Johnson,Republican,63.9,True,False
+2022,South Dakota,SD,secretary of state,Thomas Cool,Democratic,36.1,False,False
+2022,Vermont,VT,secretary of state,Sarah Copeland-Hanzas,Democratic,65.0,True,False
+2022,Vermont,VT,secretary of state,H. Brooke Paige,Republican,35.0,False,False
+2022,Washington <small>,,secretary of state,Steve Hobbs,Democratic,49.8,True,True
+2022,Washington <small>,,secretary of state,Julie Anderson,Independent,45.8,False,False
+2022,Wisconsin,WI,secretary of state,Doug La Follette,Democratic,48.3,True,True
+2022,Wisconsin,WI,secretary of state,Amy Loudenbeck,Republican,48.0,False,False
+2022,Wisconsin,WI,secretary of state,Neil Harmon,Libertarian,2.1,False,False
+2022,Wisconsin,WI,secretary of state,Sharyl McFarland,Green,1.6,False,False
+2022,Alabama,AL,state treasurer,Young Boozer,Republican,83.7,True,True
+2022,Alabama,AL,state treasurer,Scott Hammond,Libertarian,15.5,False,False
+2022,Arizona,AZ,state treasurer,Kimberly Yee,Republican,55.7,True,True
+2022,Arizona,AZ,state treasurer,Martín Quezada,Democratic,44.3,False,False
+2022,Arkansas,AR,state treasurer,Mark Lowery,Republican,66.3,True,False
+2022,Arkansas,AR,state treasurer,Pam Whitaker,Democratic,33.7,False,False
+2022,California,CA,state treasurer,Fiona Ma,Democratic,58.8,True,True
+2022,California,CA,state treasurer,Jack Guerrero,Republican,41.2,False,False
+2022,Colorado,CO,state treasurer,Dave Young,Democratic,53.7,True,True
+2022,Colorado,CO,state treasurer,Lang Sias,Republican,43.0,False,False
+2022,Colorado,CO,state treasurer,Anthony Delgado,Libertarian,3.3,False,False
+2022,Connecticut,CT,state treasurer,Erick Russell,Democratic,52.4,True,False
+2022,Connecticut,CT,state treasurer,Harry Arora,Republican,44.9,False,False
+2022,Connecticut,CT,state treasurer,Jennifer Baldwin,Independent,2.0,False,False
+2022,Connecticut,CT,state treasurer,JoAnna Laiscell,Libertarian,0.7,False,False
+2022,Delaware,DE,state treasurer,Colleen Davis,Democratic,53.6,True,True
+2022,Delaware,DE,state treasurer,Greg Coverdale,Republican,46.4,False,False
+2022,Florida,FL,state treasurer,Jimmy Patronis,Republican,59.5,True,True
+2022,Florida,FL,state treasurer,Adam Hattersley,Democratic,40.5,False,False
+2022,Idaho,ID,state treasurer,Julie Ellsworth,Republican,71.1,True,True
+2022,Idaho,ID,state treasurer,Deborah Silver,Democratic,28.9,False,False
+2022,Illinois,IL,state treasurer,Mike Frerichs,Democratic,54.3,True,True
+2022,Illinois,IL,state treasurer,Tom Demmer,Republican,43.5,False,False
+2022,Illinois,IL,state treasurer,Preston Nelson,Libertarian,2.2,False,False
+2022,Indiana,IN,state treasurer,Daniel Elliott,Republican,60.9,True,False
+2022,Indiana,IN,state treasurer,Jessica McClellan,Democratic,39.1,False,False
+2022,Iowa,IA,state treasurer,Roby Smith,Republican,51.3,True,False
+2022,Iowa,IA,state treasurer,Michael Fitzgerald (Iowa politician)|Michael Fitzgerald,Democratic,48.7,False,True
+2022,Kansas,KS,state treasurer,Steven Johnson,Republican,54.0,True,False
+2022,Kansas,KS,state treasurer,Lynn Rogers (politician)|Lynn Rogers,Democratic,41.4,False,True
+2022,Kansas,KS,state treasurer,Steve Roberts,Libertarian,4.6,False,False
+2022,Massachusetts,MA,state treasurer,Deb Goldberg,Democratic,76.5,True,True
+2022,Massachusetts,MA,state treasurer,Cristina Crawford,Libertarian,23.1,False,False
+2022,Nebraska,NE,state treasurer,John Murante,Republican,72.2,True,True
+2022,Nebraska,NE,state treasurer,Katrina Tomsen,Libertarian,27.8,False,False
+2022,Nevada,NV,state treasurer,Zach Conine,Democratic,47.7,True,True
+2022,Nevada,NV,state treasurer,Michele Fiore,Republican,46.0,False,False
+2022,Nevada,NV,state treasurer,None of These Candidates,Write-in,2.8,False,False
+2022,Nevada,NV,state treasurer,Margaret Hendrickson,Constitution,1.9,False,False
+2022,Nevada,NV,state treasurer,Bryan Elliott,Libertarian,1.6,False,False
+2022,New Mexico,NM,state treasurer,Laura Montoya,Democratic,53.15,True,False
+2022,New Mexico,NM,state treasurer,Harry Montoya,Republican,46.85,False,False
+2022,New York,NY,state treasurer,Thomas DiNapoli,Democratic,57.3,True,True
+2022,New York,NY,state treasurer,Paul Rodriguez,Republican,42.7,False,False
+2022,Ohio,OH,state treasurer,Robert Sprague,Republican,58.6,True,True
+2022,Ohio,OH,state treasurer,Scott Schertzer,Democratic,41.4,False,False
+2022,Oklahoma,OK,state treasurer,Todd Russ,Republican,64.8,True,False
+2022,Oklahoma,OK,state treasurer,Charles De Coune,Democratic,30.7,False,False
+2022,Oklahoma,OK,state treasurer,Gregory Sadler,Libertarian,4.5,False,False
+2022,Rhode Island,RI,state treasurer,James Diossa,Democratic,54.3,True,False
+2022,Rhode Island,RI,state treasurer,James Lathrop,Republican,45.5,False,False
+2022,South Carolina,SC,state treasurer,Curtis Loftis,Republican,79.7,True,True
+2022,South Carolina,SC,state treasurer,Sarah Work,Alliance,19.9,False,False
+2022,South Dakota,SD,state treasurer,Josh Haeder,Republican,67.0,True,True
+2022,South Dakota,SD,state treasurer,John Cunningham,Democratic,33.0,False,False
+2022,Texas,TX,state treasurer,Glenn Hegar,Republican,56.4,True,True
+2022,Texas,TX,state treasurer,Janet Dudding,Democratic,40.9,False,False
+2022,Texas,TX,state treasurer,Alonzo Echavarria-Garza,Libertarian,2.7,False,False
+2022,Utah,UT,state treasurer,Marlo Oaks,Republican,74.1,True,True
+2022,Utah,UT,state treasurer,Joseph Buchman,Libertarian,,False,False
+2022,Utah,UT,state treasurer,Thomas Horne,Utah,9.6,False,False
+2022,Utah,UT,state treasurer,Warren Rogers,Independent American,6.4,False,False
+2022,Vermont,VT,state treasurer,Mike Pieciak,Democratic,62.5,True,False
+2022,Vermont,VT,state treasurer,H. Brooke Paige,Republican,32.7,False,False
+2022,Wisconsin,WI,state treasurer,John Leiber,Republican,49.6,True,False
+2022,Wisconsin,WI,state treasurer,Aaron Richardson,Democratic,48.1,False,False
+2022,Wisconsin,WI,state treasurer,Andrew Zuelke,Constitution,2.2,False,False
+2022,Wyoming,WY,state treasurer,Curt Meier,Republican,,True,True
+2024,Delaware,DE,governor,Matt Meyer,Democratic,56.1,True,False
+2024,Delaware,DE,governor,Michael Ramone,Republican,43.9,False,False
+2024,Indiana,IN,governor,Mike Braun,Republican,54.4,True,False
+2024,Indiana,IN,governor,Jennifer McCormick,Democratic,41.1,False,False
+2024,Indiana,IN,governor,Donald Rainwater,Libertarian,4.5,False,False
+2024,Missouri,MO,governor,Mike Kehoe,Republican,59.2,True,False
+2024,Missouri,MO,governor,Crystal Quade,Democratic,38.7,False,False
+2024,Montana,MT,governor,Greg Gianforte,Republican,58.9,True,True
+2024,Montana,MT,governor,Ryan Busse,Democratic,38.6,False,False
+2024,Montana,MT,governor,Kaiser Leib,Libertarian,2.5,False,False
+2024,New Hampshire,NH,governor,Kelly Ayotte,Republican,53.6,True,False
+2024,New Hampshire,NH,governor,Joyce Craig,Democratic,44.3,False,False
+2024,New Hampshire,NH,governor,Stephen Villee,Libertarian,2.1,False,False
+2024,North Carolina,NC,governor,Josh Stein,Democratic,54.9,True,False
+2024,North Carolina,NC,governor,Mark Robinson (American politician)|Mark Robinson,Republican,40.1,False,False
+2024,North Carolina,NC,governor,Mike Ross,Libertarian,3.2,False,False
+2024,North Dakota,ND,governor,Kelly Armstrong,Republican,68.4,True,False
+2024,North Dakota,ND,governor,Merrill Piepkorn,North Dakota Democratic-npl,26.0,False,False
+2024,North Dakota,ND,governor,Michael Coachman,Independent,5.6,False,False
+2024,Utah,UT,governor,Spencer Cox,Republican,52.9,True,True
+2024,Utah,UT,governor,Brian King (politician)|Brian King,Democratic,28.5,False,False
+2024,Utah,UT,governor,Phil Lyman,Write-in Candidate,13.4,False,False
+2024,Utah,UT,governor,Robert Latham,Libertarian,2.8,False,False
+2024,Vermont,VT,governor,Phil Scott,Republican,73.4,True,True
+2024,Vermont,VT,governor,Esther Charlestin,Democratic,21.8,False,False
+2024,Vermont,VT,governor,Kevin Hoyt,Independent,2.6,False,False
+2024,Washington,WA,governor,Bob Ferguson,Democratic,55.7,True,False
+2024,Washington,WA,governor,Dave Reichert,Republican,44.3,False,False
+2024,West Virginia,WV,governor,Patrick Morrisey,Republican,62.0,True,False
+2024,West Virginia,WV,governor,Stephen T. Williams|Steve Williams,Democratic,31.6,False,False
+2024,West Virginia,WV,governor,Erika Kolenich,Libertarian,2.9,False,False
+2024,West Virginia,WV,governor,Marshall Wilson,Constitution,2.3,False,False
+2024,West Virginia,WV,governor,Chase Linko-Looper,Mountain,1.3,False,False
+2024,American Samoa,AS,governor,Pula Nikolao Pula,Nonpartisan,42.4,False,False
+2024,American Samoa,AS,governor,Lemanu Peleti Mauga,Nonpartisan,36.2,False,True
+2024,American Samoa,AS,governor,Vaitautolu Talia Iaulualo,Nonpartisan,21.4,False,False
+2024,Puerto Rico,PR,governor,Jenniffer González-Colón,New Progressive Party (puerto Rico),41.2,True,False
+2024,Puerto Rico,PR,governor,Juan Dalmau,Independence,30.8,False,False
+2024,Puerto Rico,PR,governor,Jesús Manuel Ortiz,Popular Democratic Party (puerto Rico),21.5,False,False
+2024,Puerto Rico,PR,governor,Javier Jiménez (mayor)|Javier Jiménez,Project Dignity,6.4,False,False
+2024,Puerto Rico,PR,governor,Javier Córdova Iturregui,Movimiento Victoria Ciudadana,0.1,False,False
+2024,Indiana,IN,attorney general,Todd Rokita,Republican,58.83,True,True
+2024,Indiana,IN,attorney general,Destiny Wells,Democratic,41.17,False,False
+2024,Missouri,MO,attorney general,Andrew Bailey,Republican,59.78,True,True
+2024,Missouri,MO,attorney general,Elad Gross,Democratic,37.92,False,False
+2024,Missouri,MO,attorney general,Ryan Munro,Libertarian,2.3,False,False
+2024,Montana,MT,attorney general,Austin Knudsen,Republican,59.71,True,True
+2024,Montana,MT,attorney general,Ben Alke,Democratic,40.29,False,False
+2024,North Carolina,NC,attorney general,Jeff Jackson,Democratic,51.43,True,False
+2024,North Carolina,NC,attorney general,Dan Bishop,Republican,48.57,False,False
+2024,Oregon,OR,attorney general,Dan Rayfield,Democratic,54.37,True,False
+2024,Oregon,OR,attorney general,Will Lathrop,Republican,45.51,False,False
+2024,Pennsylvania,PA,attorney general,Dave Sunday,Republican,50.81,True,False
+2024,Pennsylvania,PA,attorney general,Eugene DePasquale,Democratic,46.2,False,False
+2024,Pennsylvania,PA,attorney general,Rob Cowburn,Libertarian,1.29,False,False
+2024,Pennsylvania,PA,attorney general,Eric Settle,Forward,0.99,False,False
+2024,Utah,UT,attorney general,Derek Brown,Republican,57.84,True,False
+2024,Utah,UT,attorney general,Rudy Bautista,Democratic,27.68,False,False
+2024,Utah,UT,attorney general,Michelle Quist,Utah,7.16,False,False
+2024,Utah,UT,attorney general,Andrew McCullough,Libertarian,3.86,False,False
+2024,Vermont,VT,attorney general,Charity Clark,Democratic,57.82,True,True
+2024,Vermont,VT,attorney general,Ture Nelson,Republican,37.1,False,False
+2024,Vermont,VT,attorney general,Kevin Gustafson,Green Mountain Peace And Justice,4.94,False,False
+2024,Washington,WA,attorney general,Nick Brown,Democratic,55.58,True,False
+2024,Washington,WA,attorney general,Pete Serrano,Republican,44.33,False,False
+2024,West Virginia,WV,attorney general,JB McCuskey,Republican,70.02,True,False
+2024,West Virginia,WV,attorney general,Teresa Toriseva,Democratic,29.98,False,False
+2024,Missouri,MO,secretary of state,Denny Hoskins,Republican,57.7,True,False
+2024,Missouri,MO,secretary of state,Barbara Phifer,Democratic,39.7,False,False
+2024,Missouri,MO,secretary of state,Carl Freese,Libertarian,1.7,False,False
+2024,Missouri,MO,secretary of state,Jerome Bauer,Green,1.0,False,False
+2024,Montana,MT,secretary of state,Christi Jacobsen,Republican,61.39,True,True
+2024,Montana,MT,secretary of state,Jesse Mullen,Democratic,35.49,False,False
+2024,Montana,MT,secretary of state,John Lamb,Libertarian,3.12,False,False
+2024,North Carolina,NC,secretary of state,Elaine Marshall,Democratic,51.04,True,True
+2024,North Carolina,NC,secretary of state,Chad Brown,Republican,48.96,False,False
+2024,Oregon,OR,secretary of state,Tobias Read,Democratic,54.45,True,False
+2024,Oregon,OR,secretary of state,Dennis Linthicum,Republican,41.9,False,False
+2024,Oregon,OR,secretary of state,Nathalie Paravicini,Green,3.56,False,False
+2024,Vermont,VT,secretary of state,Sarah Copeland Hanzas,Democratic,59.61,True,True
+2024,Vermont,VT,secretary of state,H. Brooke Paige,Republican,40.25,False,False
+2024,Washington,WA,secretary of state,Steve Hobbs,Democratic,59.2,True,True
+2024,Washington,WA,secretary of state,Dale Whitaker,Republican,40.7,False,False
+2024,West Virginia,WV,secretary of state,Kris Warner,Republican,71.15,True,False
+2024,West Virginia,WV,secretary of state,Thornton Cooper,Democratic,28.85,False,False
+2024,Arkansas,AR,state treasurer,John Thurston,Republican,65.37,True,False
+2024,Arkansas,AR,state treasurer,John Pagan,Democratic,30.32,False,False
+2024,Arkansas,AR,state treasurer,Michael Pakko,Libertarian,4.31,False,False
+2024,Missouri,MO,state treasurer,Vivek Malek,Republican,57.93,True,True
+2024,Missouri,MO,state treasurer,Mark Osmack,Democratic,38.04,False,False
+2024,Missouri,MO,state treasurer,John Hartwig,Libertarian,2.8,False,False
+2024,North Carolina,NC,state treasurer,Brad Briner,Republican,52.45,True,False
+2024,North Carolina,NC,state treasurer,Wesley Harris,Democratic,47.55,False,False
+2024,North Dakota,ND,state treasurer,Thomas Beadle,Republican,98.08,True,True
+2024,Oregon,OR,state treasurer,Elizabeth Steiner,Democratic,49.36,True,False
+2024,Oregon,OR,state treasurer,Brian Boquist,Republican,43.24,False,False
+2024,Pennsylvania,PA,state treasurer,Stacy Garrity,Republican,51.91,True,True
+2024,Pennsylvania,PA,state treasurer,Erin McClelland,Democratic,45.65,False,False
+2024,Pennsylvania,PA,state treasurer,Nick Ciesielski,Libertarian,1.45,False,False
+2024,Utah,UT,state treasurer,Marlo Oaks,Republican,64.94,True,True
+2024,Utah,UT,state treasurer,Neil Hansen,Democratic,29.68,False,False
+2024,Utah,UT,state treasurer,Miles Pomeroy,Forward,5.38,False,False
+2024,Vermont,VT,state treasurer,Mike Pieciak,Democratic,60.79,True,True
+2024,Vermont,VT,state treasurer,Joshua Bechhoefer,Republican,39.09,False,False
+2024,Washington,WA,state treasurer,Mike Pellicciotti,Democratic,57.26,True,True
+2024,Washington,WA,state treasurer,Sharon Hanek,Republican,42.65,False,False
+2024,West Virginia,WV,state treasurer,Larry Pack,Republican,99.93,True,False
 2026,Alabama,AL,governor,Doug Jones (politician)|Doug Jones,Democratic,,False,False
 2026,Alabama,AL,governor,Tommy Tuberville,Republican,,False,False
 2026,Alaska,AK,governor,Dave Bronson,Republican,,False,False

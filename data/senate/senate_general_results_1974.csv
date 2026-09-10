@@ -1,5 +1,5 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
-1974,Alabama,1974 United States Senate election in Alabama,General,Winning,False,Democratic Party (United States),James B. Allen,"501,541",95.84%
+1974,Alabama,1974 United States Senate election in Alabama,General,Winning,True,Democratic Party (United States),James B. Allen,"501,541",95.84%
 1974,Alabama,1974 United States Senate election in Alabama,General,Candidate,False,Prohibition Party (United States),Alvin Abercrombie,"21,749",4.16%
 1974,Alabama,1974 United States Senate election in Alabama,General,Total,False,,,"523,290",100.00%
 1974,Alaska,1974 United States Senate election in Alaska,General,Winning,True,Democratic Party (United States),Mike Gravel,"54,361",58.28%
@@ -114,7 +114,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Candidate,False,Democratic Party (United States),Peter F. Flaherty,"1,596,121",45.89%
 1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Candidate,False,Constitution Party (United States),George W. Shankey,"38,004",1.09%
 1974,Pennsylvania,"Pennsylvania United States Senate Election, 1974",General,Write-in,False,,,370,0.01%
-1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Winning,False,Democratic Party (United States),Fritz Hollings,"355,107",69.44%
+1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Winning,True,Democratic Party (United States),Fritz Hollings,"355,107",69.44%
 1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Candidate,False,Republican Party (United States),Gwen Bush,"146,649",28.68%
 1974,South Carolina,"South Carolina U.S. Senate Election, 1974",General,Candidate,False,Independent (United States),Harold Hough,"9,624",1.88%
 1974,Utah,"Democratic convention, 12 to 13 July 1974",General,Winning,False,Democratic Party (United States),Wayne Owens,"1,088",70.4%

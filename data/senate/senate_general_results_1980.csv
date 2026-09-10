@@ -95,7 +95,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,New York,General election results,General,Write-in,False,,,73,0.00%
 1980,New York,General election results,General,Total,False,,,"6,014,914",100.00%
 1980,North Carolina,1980 North Carolina U.S. Senate election,General,Winning,False,Republican Party (United States),John East,"898,064",49.96%
-1980,North Carolina,1980 North Carolina U.S. Senate election,General,Candidate,False,Democratic Party (United States),Robert Morgan,"887,653",49.38%
+1980,North Carolina,1980 North Carolina U.S. Senate election,General,Candidate,True,Democratic Party (United States),Robert Morgan,"887,653",49.38%
 1980,North Carolina,1980 North Carolina U.S. Senate election,General,Candidate,False,Libertarian Party (United States),F.W. (Rick) Pasotto,"7,602",0.04%
 1980,North Carolina,1980 North Carolina U.S. Senate election,General,Candidate,False,Socialist Workers Party (United States),Rebecca Finch,"4,346",0.02%
 1980,North Carolina,1980 North Carolina U.S. Senate election,General,Total,False,,,"1,797,655",100.00%
@@ -122,7 +122,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Pennsylvania,1980 U.S. Senate election in Pennsylvania,General,Candidate,False,Libertarian Party (United States),David K. Walter,"18,595",0.42%
 1980,Pennsylvania,1980 U.S. Senate election in Pennsylvania,General,Candidate,False,Communist Party USA,Frank Kinces,"3,334",0.08%
 1980,Pennsylvania,1980 U.S. Senate election in Pennsylvania,General,Total,False,,,"4,418,042",100.00%
-1980,South Carolina,"South Carolina U.S. Senate Election, 1980",General,Winning,False,Democratic Party (United States),Fritz Hollings,"612,556",70.36%
+1980,South Carolina,"South Carolina U.S. Senate Election, 1980",General,Winning,True,Democratic Party (United States),Fritz Hollings,"612,556",70.36%
 1980,South Carolina,"South Carolina U.S. Senate Election, 1980",General,Candidate,False,Republican Party (United States),Marshall Mays,"257,946",29.63%
 1980,South Dakota,General election results,General,Winning,False,Republican Party (United States),James Abdnor,"190,594",58.20%
 1980,South Dakota,General election results,General,Candidate,True,Democratic Party (United States),George McGovern,"129,018",39.40%

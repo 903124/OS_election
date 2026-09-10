@@ -1,11 +1,11 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
-1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),Donald Stewart,"222,540",48.63%
+1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,True,Democratic Party (US),Donald Stewart,"222,540",48.63%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Jim Folsom Jr.,"163,196",35.67%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Finis St. John,"51,260",11.20%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Margaret E. Stewart,"20,582",4.50%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Total,False,,,"457,578",100.00%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (US),Jim Folsom Jr.,"204,186",50.60%
-1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Donald Stewart,"199,365",49.40%
+1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,True,Democratic Party (US),Donald Stewart,"199,365",49.40%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Total,False,,,"403,551",100.00%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Winning,False,Republican Party (US),Jeremiah Denton,"73,708",63.80%
 1980,Alabama,1980 Democratic U.S. Senate primary,Primary,Candidate,False,Republican Party (US),Armistead I. Selden Jr.,"41,825",36.20%
@@ -43,7 +43,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Connecticut,1980 Republican Senate primary,Primary,Winning,False,Republican Party (United States),James L. Buckley,"64,962",56.46%
 1980,Connecticut,1980 Republican Senate primary,Primary,Candidate,False,Republican Party (United States),Richard C. Bozzuto,"50,096",43.54%
 1980,Connecticut,1980 Republican Senate primary,Primary,Total,False,,,"115,058",100.00%
-1980,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Richard Stone,"355,287",32.08%
+1980,Florida,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Richard Stone,"355,287",32.08%
 1980,Florida,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Bill Gunter,"335,859",30.33%
 1980,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Buddy MacKay,"272,538",24.61%
 1980,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Richard A. Pettigrew,"108,154",9.77%
@@ -51,7 +51,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1980,Florida,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John B. Coffey,"17,410",1.57%
 1980,Florida,Democratic primary results,Primary,Total,False,,,"1,107,366",100.00%
 1980,Florida,Democratic primary runoff results,Primary,Winning,False,Democratic Party (United States),Bill Gunter,"594,676",51.76%
-1980,Florida,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),Richard Stone,"554,268",48.24%
+1980,Florida,Democratic primary runoff results,Primary,Candidate,True,Democratic Party (United States),Richard Stone,"554,268",48.24%
 1980,Florida,Democratic primary runoff results,Primary,Total,False,,,"1,148,944",100.00%
 1980,Florida,Republican primary results,Primary,Winning,False,Republican Party (United States),Paula Hawkins,"209,856",48.14%
 1980,Florida,Republican primary results,Primary,Winning,False,Republican Party (United States),Lou Frey,"119,834",27.49%

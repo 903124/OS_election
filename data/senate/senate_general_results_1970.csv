@@ -36,7 +36,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,Maryland,1970 U.S. Senate election in Maryland,General,Candidate,True,Democratic Party (United States),Joseph Tydings,"460,422",48.14%
 1970,Maryland,1970 U.S. Senate election in Maryland,General,Candidate,False,American Party (1969),Harvey Wilder,"10,988",1.15%
 1970,Maryland,1970 U.S. Senate election in Maryland,General,Total,False,,,"956,370",100.00%
-1970,Massachusetts,General election,General,Winning,False,Democratic Party (United States),Edward M. Kennedy,"1,202,856",62.16%
+1970,Massachusetts,General election,General,Winning,True,Democratic Party (United States),Edward M. Kennedy,"1,202,856",62.16%
 1970,Massachusetts,General election,General,Candidate,False,Republican Party (United States),Josiah Spaulding,"715,978",37.00%
 1970,Massachusetts,General election,General,Candidate,False,Socialist Labor Party of America,Lawrence Gilfedder,"10,378",0.54%
 1970,Massachusetts,General election,General,Candidate,False,Prohibition Party (United States),Mark R. Shaw,"5,944",0.31%
@@ -122,7 +122,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1970,Texas,General election results,General,Winning,False,Democratic Party (United States),Lloyd Bentsen,"1,194,069",53.55%
 1970,Texas,General election results,General,Candidate,False,Republican Party (United States),George H. W. Bush,"1,035,794",46.45%
 1970,Texas,General election results,General,Total,False,,,"2,229,863",100.0%
-1970,Utah,1970 U.S. Senate election in Utah,General,Winning,False,Democratic Party (United States),Frank Moss,"210,207",56.16%
+1970,Utah,1970 U.S. Senate election in Utah,General,Winning,True,Democratic Party (United States),Frank Moss,"210,207",56.16%
 1970,Utah,1970 U.S. Senate election in Utah,General,Candidate,False,Republican Party (United States),Laurence J. Burton,"159,004",42.48%
 1970,Utah,1970 U.S. Senate election in Utah,General,Candidate,False,American Independent Party,Clyde B. Freeman,"5,092",1.36%
 1970,Utah,1970 U.S. Senate election in Utah,General,Total,False,,,"374,303",100.00%

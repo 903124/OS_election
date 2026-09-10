@@ -37,7 +37,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1972,Illinois,"United States Senate election in Illinois, 1972",General,Candidate,False,Communist Party USA,Arnold Becchetti,"6,103",0.13%
 1972,Illinois,"United States Senate election in Illinois, 1972",General,Write-in,False,,,784,0.02%
 1972,Iowa,General election results,General,Winning,False,Democratic Party (United States),Dick Clark,"662,637",55.07%
-1972,Iowa,General election results,General,Candidate,False,Republican Party (United States),Jack Miller,"530,525",44.09%
+1972,Iowa,General election results,General,Candidate,True,Republican Party (United States),Jack Miller,"530,525",44.09%
 1972,Iowa,General election results,General,Candidate,False,American Party (1969),"William A. Rocap, Jr.","8,954",0.74%
 1972,Iowa,General election results,General,Candidate,False,Independent (politician),Fred R. Benton,"1,203",0.10%
 1972,Iowa,General election results,General,Write-in,False,,,14,0.00%

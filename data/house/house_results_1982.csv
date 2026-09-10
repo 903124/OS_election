@@ -22,6 +22,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Arizona,AZ,1,Richard K. Dodge,Libertarian,3.6,False,False,True
 1982,house,Arizona,AZ,2,Mo Udall,Democratic,70.9,True,True,False
 1982,house,Arizona,AZ,2,Roy B. Laos,Republican,27.4,False,False,False
+1982,house,Arizona,AZ,2,Jessica Sampson,Socialist Labor,1.7,False,False,False
 1982,house,Arizona,AZ,3,Bob Stump,Republican,63.3,True,True,False
 1982,house,Arizona,AZ,3,Pat Bosch,Democratic,36.7,False,False,False
 1982,house,Arizona,AZ,4,Eldon Rudd,Republican,65.7,True,True,False
@@ -43,8 +44,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,California,CA,1,David Redick,Libertarian,2.9,False,False,False
 1982,house,California,CA,2,Eugene A. Chappie,Republican,57.9,True,False,False
 1982,house,California,CA,2,John Newmeyer,Democratic,40.5,False,False,False
+1982,house,California,CA,2,Howard Fegarsky,Peace and Freedom,1.6,False,False,False
 1982,house,California,CA,3,Bob Matsui,Democratic,89.6,True,True,False
 1982,house,California,CA,3,Bruce A. Daniel,Libertarian,7.5,False,False,False
+1982,house,California,CA,3,John C. Reiger,Peace and Freedom,2.9,False,False,False
 1982,house,California,CA,4,Vic Fazio,Democratic,63.9,True,True,False
 1982,house,California,CA,4,Roger B. Canfield,Republican,36.1,False,False,False
 1982,house,California,CA,5,Phillip Burton,Democratic,57.9,True,False,False
@@ -53,9 +56,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,California,CA,6,Barbara Boxer,Democratic,52.4,True,False,True
 1982,house,California,CA,6,Dennis McQuaid,Republican,44.6,False,False,True
 1982,house,California,CA,6,Howard C. Creighton,Libertarian,1.7,False,False,True
+1982,house,California,CA,6,Timothy-Allen Albertson,Peace and Freedom,1.3,False,False,True
 1982,house,California,CA,7,George Miller,Democratic,67.2,True,True,False
 1982,house,California,CA,7,Paul E. Vallely,Republican,30.2,False,False,False
 1982,house,California,CA,7,Rich Newell,Libertarian,1.5,False,False,False
+1982,house,California,CA,7,Terry L. Wells,American Independent,1.2,False,False,False
 1982,house,California,CA,8,Ron Dellums,Democratic,55.9,True,True,False
 1982,house,California,CA,8,Claude B. Hutchison Jr.,Republican,44.1,False,False,False
 1982,house,California,CA,9,Pete Stark,Democratic,60.7,True,True,False
@@ -63,9 +68,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,California,CA,10,Don Edwards,Democratic,62.7,True,True,False
 1982,house,California,CA,10,Bob Herriott,Republican,33.7,False,False,False
 1982,house,California,CA,10,Dale Burrow,Libertarian,1.9,False,False,False
+1982,house,California,CA,10,Edmon V. Kaiser,American Independent,1.7,False,False,False
 1982,house,California,CA,11,Tom Lantos,Democratic,57.1,True,True,False
 1982,house,California,CA,11,William Royer,Republican,39.7,False,False,False
 1982,house,California,CA,11,Chuck Olson,Libertarian,1.5,False,False,False
+1982,house,California,CA,11,Wilson Branch,Peace and Freedom,1.0,False,False,False
+1982,house,California,CA,11,Nicholas Kudrovzeff,American Independent,0.6,False,False,False
 1982,house,California,CA,12,Ed Zschau,Republican,63.0,True,False,True
 1982,house,California,CA,12,Emmett Lynch,Democratic,33.5,False,False,True
 1982,house,California,CA,12,Bill White,Libertarian,3.5,False,False,True
@@ -87,6 +95,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,California,CA,19,Bob Lagomarsino,Republican,61.1,True,True,False
 1982,house,California,CA,19,Frank Frost,Democratic,35.8,False,False,False
 1982,house,California,CA,19,R. C. Gordon-McCutchan,Libertarian,2.3,False,False,False
+1982,house,California,CA,19,Charles J. Zekan,Peace and Freedom,0.8,False,False,False
 1982,house,California,CA,20,Bill Thomas,Republican,68.1,True,False,False
 1982,house,California,CA,20,Robert J. Bethea,Democratic,31.9,False,False,False
 1982,house,California,CA,21,Bobbi Fiedler,Republican,71.8,True,True,True
@@ -118,9 +127,11 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,California,CA,31,Henry C. Minturn,Republican,27.6,False,False,False
 1982,house,California,CA,32,Glenn M. Anderson,Democratic,58.0,True,True,False
 1982,house,California,CA,32,Brian Lungren,Republican,39.6,False,False,False
+1982,house,California,CA,32,Eugene E. Ruyle,Peace and Freedom,2.4,False,False,False
 1982,house,California,CA,33,David Dreier,Republican,65.2,True,False,False
 1982,house,California,CA,33,Paul Servelle,Democratic,32.2,False,False,False
 1982,house,California,CA,33,Phillips B. Franklin,Libertarian,1.3,False,False,False
+1982,house,California,CA,33,Mike Noonan,Peace and Freedom,1.3,False,False,False
 1982,house,California,CA,34,Esteban Torres,Democratic,57.2,True,False,True
 1982,house,California,CA,34,Paul R. Jackson,Republican,42.8,False,False,True
 1982,house,California,CA,35,Jerry Lewis,Republican,68.3,True,False,False
@@ -135,13 +146,16 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,California,CA,38,Anita K. Barr,Libertarian,4.2,False,False,False
 1982,house,California,CA,39,Bill Dannemeyer,Republican,72.2,True,True,False
 1982,house,California,CA,39,Frank G. Verges,Democratic,26.0,False,False,False
+1982,house,California,CA,39,Frank Boeheim,Peace and Freedom,1.8,False,False,False
 1982,house,California,CA,40,Robert Badham,Republican,71.5,True,True,False
 1982,house,California,CA,40,Paul Haseman,Democratic,26.1,False,False,False
+1982,house,California,CA,40,Maxine Bell Quirk,Peace and Freedom,2.4,False,False,False
 1982,house,California,CA,41,Bill Lowery,Republican,68.9,True,True,False
 1982,house,California,CA,41,Tony Brandenburg,Democratic,28.8,False,False,False
 1982,house,California,CA,41,Everett Hale,Libertarian,2.3,False,False,False
 1982,house,California,CA,42,Dan Lungren,Republican,69.0,True,False,False
 1982,house,California,CA,42,James P. Spellman,Democratic,28.3,False,False,False
+1982,house,California,CA,42,John S. Donohue,Peace and Freedom,2.7,False,False,False
 1982,house,California,CA,43,Ron Packard,Republican,36.8,True,False,True
 1982,house,California,CA,43,Pat Archer,Democratic,32.1,False,False,True
 1982,house,California,CA,43,Johnnie R. Crean,Republican,31.1,False,False,True
@@ -267,6 +281,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Illinois,IL,8,Bonnie Hickey,Republican,16.6,False,False,False
 1982,house,Illinois,IL,9,Sidney R. Yates,Democratic,66.5,True,True,True
 1982,house,Illinois,IL,9,Catherine Bertini,Republican,32.0,False,False,True
+1982,house,Illinois,IL,9,Sheila Jones,Anti-Drug,1.5,False,False,True
 1982,house,Illinois,IL,10,John Porter,Republican,59.0,True,True,True
 1982,house,Illinois,IL,10,Eugenia S. Chapman,Democratic,41.0,False,False,True
 1982,house,Illinois,IL,11,Frank Annunzio,Democratic,72.6,True,True,False
@@ -292,16 +307,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Illinois,IL,20,Paul Findley,Republican,49.6,False,True,False
 1982,house,Illinois,IL,21,Melvin Price,Democratic,63.7,True,False,False
 1982,house,Illinois,IL,21,Robert H. Gaffner,Republican,33.3,False,False,False
+1982,house,Illinois,IL,21,Sandra L. Climaco,Good Government,3.1,False,False,False
 1982,house,Illinois,IL,22,Paul Simon,Democratic,66.2,True,False,False
 1982,house,Illinois,IL,22,Peter G. Prineas,Republican,33.8,False,False,False
 1982,house,Indiana,IN,1,Katie Hall,Democratic,56.3,True,False,True
 1982,house,Indiana,IN,1,Thomas H. Krieger,Republican,43.1,False,False,True
+1982,house,Indiana,IN,1,Jesse Smith,Socialist Workers,0.5,False,False,True
 1982,house,Indiana,IN,2,Philip R. Sharp,Democratic,56.2,True,False,False
 1982,house,Indiana,IN,2,Ralph VanNatta,Republican,43.8,False,False,False
 1982,house,Indiana,IN,3,John P. Hiler,Republican,51.2,True,True,False
 1982,house,Indiana,IN,3,Richard Clay Bodine,Democratic,48.8,False,False,False
 1982,house,Indiana,IN,4,Dan Coats,Republican,64.3,True,True,False
 1982,house,Indiana,IN,4,Roger M. Miller,Democratic,35.1,False,False,False
+1982,house,Indiana,IN,4,John B. Cameron,American Party (1969),0.6,False,False,False
 1982,house,Indiana,IN,5,Elwood Hillis,Republican,61.1,True,True,False
 1982,house,Indiana,IN,5,Allen B. Maxwell,Democratic,38.9,False,False,False
 1982,house,Indiana,IN,6,Dan Burton,Republican,64.9,True,False,True
@@ -310,10 +328,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Indiana,IN,7,Stephen S. Bonney,Democratic,37.7,False,False,True
 1982,house,Indiana,IN,8,Frank McCloskey,Democratic,51.4,True,False,False
 1982,house,Indiana,IN,8,H. Joel Deckard,Republican,48.1,False,True,False
+1982,house,Indiana,IN,8,Robert F. Arnove,Citizens,0.5,False,False,False
 1982,house,Indiana,IN,9,Lee Hamilton,Democratic,67.1,True,True,False
 1982,house,Indiana,IN,9,Floyd Coates,Republican,32.4,False,False,False
+1982,house,Indiana,IN,9,Stephen Arnold,Citizens,0.5,False,False,False
 1982,house,Indiana,IN,10,Andrew Jacobs Jr.,Democratic,66.7,True,False,False
 1982,house,Indiana,IN,10,Michael A. Carroll,Republican,33.2,False,False,False
+1982,house,Indiana,IN,10,David W. Ellis,Socialist Workers,0.1,False,False,False
 1982,house,Iowa,IA,1,Jim Leach,Republican,59.2,True,True,False
 1982,house,Iowa,IA,1,William E. Gluba,Democratic,40.8,False,False,False
 1982,house,Iowa,IA,2,Tom Tauke,Republican,58.9,True,True,False
@@ -322,6 +343,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Iowa,IA,3,Lynn G. Cutler,Democratic,44.5,False,False,False
 1982,house,Iowa,IA,4,Neal Smith,Democratic,66.0,True,True,False
 1982,house,Iowa,IA,4,Dave Readinger,Republican,33.6,False,False,False
+1982,house,Iowa,IA,4,Bill Douglas,Socialist,0.3,False,False,False
 1982,house,Iowa,IA,5,Tom Harkin,Democratic,58.9,True,True,False
 1982,house,Iowa,IA,5,Arlyn E. Danker,Republican,41.1,False,False,False
 1982,house,Iowa,IA,6,Berkley Bedell,Democratic,64.3,True,True,False
@@ -410,11 +432,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Massachusetts,MA,8,Frank L. McNamara Jr.,Republican,25.1,False,False,False
 1982,house,Massachusetts,MA,9,Joe Moakley,Democratic,64.1,True,True,False
 1982,house,Massachusetts,MA,9,Deborah R. Cochran,Republican,34.3,False,False,False
+1982,house,Massachusetts,MA,9,Valerie Eckart,Socialist Workers,1.6,False,False,False
 1982,house,Massachusetts,MA,10,Gerry Studds,Democratic,68.7,True,False,False
 1982,house,Massachusetts,MA,10,John E. Conway,Republican,31.3,False,False,False
 1982,house,Massachusetts,MA,11,Brian J. Donnelly,Democratic,100.0,True,True,False
 1982,house,Michigan,MI,1,John Conyers,Democratic,96.7,True,True,False
 1982,house,Michigan,MI,1,William B. Krebaum,Libertarian,2.5,False,False,False
+1982,house,Michigan,MI,1,Eddie Benjamin,Workers League,0.9,False,False,False
 1982,house,Michigan,MI,2,Carl Pursell,Republican,65.5,True,True,False
 1982,house,Michigan,MI,2,George Wahl Sallade,Democratic,32.5,False,False,False
 1982,house,Michigan,MI,2,Barbara J. McKenna,Libertarian,2.1,False,False,False
@@ -423,6 +447,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Michigan,MI,4,Mark D. Siljander,Republican,59.7,True,True,False
 1982,house,Michigan,MI,4,David A. Masiokas,Democratic,38.8,False,False,False
 1982,house,Michigan,MI,4,Robert Wagner,Libertarian,1.1,False,False,False
+1982,house,Michigan,MI,4,Robert Drenkhahn,American Independent,0.5,False,False,False
 1982,house,Michigan,MI,5,Harold S. Sawyer,Republican,53.1,True,True,False
 1982,house,Michigan,MI,5,Stephen V. Monsma,Democratic,46.9,False,False,False
 1982,house,Michigan,MI,6,Bob Carr,Democratic,51.4,True,False,False
@@ -431,6 +456,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Michigan,MI,7,Dale Kildee,Democratic,75.4,True,True,False
 1982,house,Michigan,MI,7,George R. Darrah,Republican,23.1,False,False,False
 1982,house,Michigan,MI,7,Dennis L. Berry,Libertarian,1.2,False,False,False
+1982,house,Michigan,MI,7,David Freund,Workers League,0.4,False,False,False
 1982,house,Michigan,MI,8,J. Bob Traxler,Democratic,91.0,True,True,False
 1982,house,Michigan,MI,8,Sheila M. Hart,Libertarian,9.0,False,False,False
 1982,house,Michigan,MI,9,Guy Vander Jagt,Republican,64.9,True,True,False
@@ -445,10 +471,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Michigan,MI,12,Keith P. Edwards,Libertarian,1.0,False,False,False
 1982,house,Michigan,MI,13,George Crockett Jr.,Democratic,88.0,True,True,False
 1982,house,Michigan,MI,13,Letty Gupta,Republican,11.1,False,False,False
+1982,house,Michigan,MI,13,Eddie Benjamin,Workers League,0.9,False,False,False
 1982,house,Michigan,MI,14,Dennis Hertel,Democratic,95.0,True,True,False
 1982,house,Michigan,MI,14,Harold H. Dunn,Libertarian,5.0,False,False,False
 1982,house,Michigan,MI,15,William D. Ford,Democratic,72.8,True,True,False
 1982,house,Michigan,MI,15,Mitchell Moran,Republican,26.0,False,False,False
+1982,house,Michigan,MI,15,Guy R. Collins,American Independent,1.2,False,False,False
 1982,house,Michigan,MI,16,John Dingell,Democratic,73.7,True,True,False
 1982,house,Michigan,MI,16,David K. Haskins,Republican,25.3,False,False,False
 1982,house,Michigan,MI,17,Sander Levin,Democratic,66.6,True,False,True
@@ -464,14 +492,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Minnesota,MN,2,Jim Nichols,DFL,45.5,False,False,False
 1982,house,Minnesota,MN,3,Bill Frenzel,Republican,72.2,True,True,False
 1982,house,Minnesota,MN,3,Joel A. Saliterman,DFL,26.4,False,False,False
+1982,house,Minnesota,MN,3,Richard Laybourn,Citizens,1.5,False,False,False
 1982,house,Minnesota,MN,4,Bruce Vento,DFL,73.2,True,True,False
+1982,house,Minnesota,MN,4,Bill James,Republican,26.8,False,False,False
 1982,house,Minnesota,MN,5,Martin Olav Sabo,DFL,65.5,True,True,False
+1982,house,Minnesota,MN,5,Keith W. Johnson,Republican,29.4,False,False,False
+1982,house,Minnesota,MN,5,Kathryn Anderson,Citizens,3.9,False,False,False
 1982,house,Minnesota,MN,5,Thomas Wicklund,Libertarian,1.2,False,False,False
 1982,house,Minnesota,MN,6,Gerry Sikorski,DFL,50.8,True,False,False
 1982,house,Minnesota,MN,6,Arlen Erdahl,Republican,49.2,False,False,False
 1982,house,Minnesota,MN,7,Arlan Stangeland,Republican,50.3,True,True,False
 1982,house,Minnesota,MN,7,Gene R. Wenstrom,DFL,49.7,False,False,False
 1982,house,Minnesota,MN,8,Jim Oberstar,DFL,76.7,True,True,False
+1982,house,Minnesota,MN,8,Marnie Luce,Republican,23.3,False,False,False
 1982,house,Mississippi,MS,1,Jamie Whitten,Democratic,70.9,True,True,False
 1982,house,Mississippi,MS,1,Fran Fawcett,Republican,29.1,False,False,False
 1982,house,Mississippi,MS,2,Webb Franklin,Republican,50.3,True,False,True
@@ -495,6 +528,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Missouri,MO,5,Alan Wheat,Democratic,57.9,True,False,True
 1982,house,Missouri,MO,5,John A. Sharp,Republican,40.2,False,False,True
 1982,house,Missouri,MO,5,Alan H. Deright,Independent,1.3,False,False,True
+1982,house,Missouri,MO,5,Kathie A. Fitzgerald,Socialist Workers,0.7,False,False,True
 1982,house,Missouri,MO,6,Tom Coleman,Republican,55.3,True,True,False
 1982,house,Missouri,MO,6,Jim Russell,Democratic,44.7,False,False,False
 1982,house,Missouri,MO,7,Gene Taylor,Republican,50.5,True,True,False
@@ -571,42 +605,67 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,New York,NY,1,Ethan C. Eldon,Democratic,36.1,False,False,False
 1982,house,New York,NY,2,Thomas Downey,Democratic,63.9,True,True,False
 1982,house,New York,NY,2,Paul G. Costello,Republican,33.8,False,False,False
+1982,house,New York,NY,2,Louis VanDenEssen,Right to Life,2.3,False,False,False
 1982,house,New York,NY,3,Robert J. Mrazek,Democratic,51.8,True,False,True
 1982,house,New York,NY,3,John LeBoutillier,Republican,46.0,False,False,True
+1982,house,New York,NY,3,Richard T. Bohner,Right to Life,2.2,False,False,True
 1982,house,New York,NY,4,Norman F. Lent,Republican,60.4,True,True,False
 1982,house,New York,NY,4,Robert P. Zimmerman,Democratic,36.4,False,False,False
+1982,house,New York,NY,4,John J. Dunkle,Right to Life,3.3,False,False,False
 1982,house,New York,NY,5,Ray McGrath,Republican,58.1,True,True,False
 1982,house,New York,NY,5,Arnold J. Miller,Democratic,38.8,False,False,False
+1982,house,New York,NY,5,Thomas J. Boyle,Right to Life,2.8,False,False,False
 1982,house,New York,NY,5,Richard Horan,Libertarian,0.3,False,False,False
 1982,house,New York,NY,6,Joseph P. Addabbo,Democratic,95.9,True,False,False
+1982,house,New York,NY,6,Mark E. Scott,Conservative,4.1,False,False,False
 1982,house,New York,NY,7,Benjamin S. Rosenthal,Democratic,77.2,True,False,False
 1982,house,New York,NY,7,Albert Lemishow,Republican,22.8,False,False,False
 1982,house,New York,NY,8,James H. Scheuer,Democratic,89.5,True,False,False
+1982,house,New York,NY,8,John T. Blume,Conservative,10.5,False,False,False
 1982,house,New York,NY,9,Geraldine Ferraro,Democratic,73.2,True,True,False
 1982,house,New York,NY,9,John J. Weigandt,Republican,19.8,False,False,False
+1982,house,New York,NY,9,Ralph G. Groves,Conservative Party (New York),5.8,False,False,False
+1982,house,New York,NY,9,Patricia A. Salargo,Liberal Party (New York),1.1,False,False,False
 1982,house,New York,NY,10,Chuck Schumer,Democratic,79.2,True,False,False
 1982,house,New York,NY,10,Stephen Marks,Republican,19.2,False,False,False
+1982,house,New York,NY,10,Alice J. Bertolotti,Right to Life,1.7,False,False,False
 1982,house,New York,NY,11,Edolphus Towns,Democratic,83.7,True,False,True
 1982,house,New York,NY,11,James W. Smith,Republican,9.5,False,False,True
+1982,house,New York,NY,11,Patrick W. Giagnacova,Liberal Party (New York),3.2,False,False,True
+1982,house,New York,NY,11,Joseph N. O. Caesar,Conservative Party (New York),2.9,False,False,True
+1982,house,New York,NY,11,Susan C. Zarate,Socialist Workers,0.8,False,False,True
 1982,house,New York,NY,12,Major Owens,Democratic,90.5,True,False,True
 1982,house,New York,NY,12,David Katan Sr.,Republican,6.5,False,False,True
+1982,house,New York,NY,12,David E. Rosenstroch,Conservative Party (New York),2.0,False,False,True
+1982,house,New York,NY,12,Jahn-Clymer Francis,Right to Life,0.9,False,False,True
 1982,house,New York,NY,13,Stephen Solarz,Democratic,80.5,True,True,False
 1982,house,New York,NY,13,Leon F. Nadrowski,Republican,16.7,False,False,False
+1982,house,New York,NY,13,James M. Gay,Conservative Party (New York),2.7,False,False,False
 1982,house,New York,NY,14,Guy Molinari,Republican,56.1,True,False,False
 1982,house,New York,NY,14,Leo C. Zeferetti,Democratic,42.9,False,False,False
+1982,house,New York,NY,14,Carl F. Grillo,Liberal Party (New York),1.1,False,False,False
 1982,house,New York,NY,15,Bill Green,Republican,53.6,True,False,False
 1982,house,New York,NY,15,Betty G. Lall,Democratic,44.9,False,False,False
+1982,house,New York,NY,15,Henry Van Rossem,Conservative Party (New York),1.6,False,False,False
 1982,house,New York,NY,16,Charles Rangel,Democratic,97.5,True,False,False
+1982,house,New York,NY,16,Michael T. Berns,Conservative Party (New York),1.6,False,False,False
+1982,house,New York,NY,16,Veronica Cruz,Socialist Workers,0.9,False,False,False
 1982,house,New York,NY,17,Ted Weiss,Democratic,85.0,True,False,True
 1982,house,New York,NY,17,Louis S. Antonelli,Republican,15.0,False,False,True
 1982,house,New York,NY,18,Robert Garcia,Democratic,98.9,True,False,False
+1982,house,New York,NY,18,Loidis R. Cordero,Other,1.1,False,False,False
 1982,house,New York,NY,19,Mario Biaggi,Democratic,93.7,True,False,False
+1982,house,New York,NY,19,Michael J. McSherry,Conservative,5.9,False,False,False
+1982,house,New York,NY,19,Eva Chertov,Socialist Workers,0.5,False,False,False
 1982,house,New York,NY,20,Richard Ottinger,Democratic,56.5,True,False,True
 1982,house,New York,NY,20,Jon S. Fossel,Republican,41.3,False,False,True
+1982,house,New York,NY,20,Florence T. O'Grady,Right to Life,2.2,False,False,True
 1982,house,New York,NY,21,Hamilton Fish IV,Republican,75.2,True,False,False
 1982,house,New York,NY,21,J. Morgan Strong,Democratic,24.8,False,False,False
 1982,house,New York,NY,22,Benjamin Gilman,Republican,52.9,True,False,True
 1982,house,New York,NY,22,Peter A. Peyser,Democratic,42.0,False,False,True
+1982,house,New York,NY,22,Charles C. Beck,Conservative,2.8,False,False,True
+1982,house,New York,NY,22,Richard Bruno,Right to Life,2.3,False,False,True
 1982,house,New York,NY,23,Samuel S. Stratton,Democratic,76.1,True,False,False
 1982,house,New York,NY,23,Frank Wicks,Republican,19.2,False,False,False
 1982,house,New York,NY,23,John G. Dow,Liberal Party (New York),3.9,False,False,False
@@ -614,28 +673,40 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,New York,NY,24,Roy Esiason,Democratic,26.1,False,False,False
 1982,house,New York,NY,25,Sherwood Boehlert,Republican,55.8,True,False,True
 1982,house,New York,NY,25,Anita Maxwell,Democratic,42.4,False,False,True
+1982,house,New York,NY,25,Donald J. Thomas,Right to Life,1.8,False,False,True
 1982,house,New York,NY,26,David O'Brien Martin,Republican,71.6,True,False,False
 1982,house,New York,NY,26,David P. Landy,Democratic,28.4,False,False,False
 1982,house,New York,NY,27,George C. Wortley,Republican,53.2,True,False,False
 1982,house,New York,NY,27,Elaine Lytel,Democratic,44.2,False,False,False
+1982,house,New York,NY,27,Thomas M. Hunter,Conservative,1.6,False,False,False
+1982,house,New York,NY,27,George Hyrcza,Right to Life,1.1,False,False,False
 1982,house,New York,NY,28,Matt McHugh,Democratic,56.3,True,False,False
 1982,house,New York,NY,28,David F. Crowley,Republican,42.5,False,False,False
+1982,house,New York,NY,28,Mark R. Masterson,Right to Life,1.1,False,False,False
 1982,house,New York,NY,29,Frank Horton,Republican,66.4,True,False,False
 1982,house,New York,NY,29,William C. Larsen,Democratic,30.2,False,False,False
+1982,house,New York,NY,29,Edwin Lundberg,Conservative,3.4,False,False,False
 1982,house,New York,NY,30,Barber Conable,Republican,68.2,True,False,False
 1982,house,New York,NY,30,Bill Benet,Democratic,27.9,False,False,False
+1982,house,New York,NY,30,Richard G. Baxter,Conservative,2.2,False,False,False
+1982,house,New York,NY,30,David J. Valone,Right to Life,1.7,False,False,False
 1982,house,New York,NY,31,Jack Kemp,Republican,75.3,True,False,False
 1982,house,New York,NY,31,James A. Martin,Democratic,24.7,False,False,False
 1982,house,New York,NY,32,John LaFalce,Democratic,91.4,True,False,False
+1982,house,New York,NY,32,Raymond R. Walker,Conservative,6.8,False,False,False
+1982,house,New York,NY,32,Timothy J. Hubbard,Right to Life,1.9,False,False,False
 1982,house,New York,NY,33,Henry J. Nowak,Democratic,84.1,True,False,False
 1982,house,New York,NY,33,Walter J. Pillich,Republican,13.2,False,False,False
+1982,house,New York,NY,33,James F. Gallagher,Right to Life,2.7,False,False,False
 1982,house,New York,NY,34,Stan Lundine,Democratic,60.2,True,False,False
 1982,house,New York,NY,34,James J. Snyder,Republican,38.7,False,False,False
+1982,house,New York,NY,34,Genevieve F. Ronan,Right to Life,1.1,False,False,False
 1982,house,North Carolina,NC,1,Walter B. Jones Sr.,Democratic,81.3,True,True,False
 1982,house,North Carolina,NC,1,James F. McIntyre III,Republican,17.8,False,False,False
 1982,house,North Carolina,NC,1,Bobby Yates Emory,Libertarian,0.9,False,False,False
 1982,house,North Carolina,NC,2,Tim Valentine,Democratic,53.6,True,False,True
 1982,house,North Carolina,NC,2,John W. Marin,Republican,30.8,False,False,True
+1982,house,North Carolina,NC,2,H. M. Michaux Jr.,Write-in,14.4,False,False,True
 1982,house,North Carolina,NC,2,Sue Lamm,Libertarian,1.3,False,False,True
 1982,house,North Carolina,NC,3,Charles Orville Whitley,Democratic,63.6,True,True,False
 1982,house,North Carolina,NC,3,Eugene McDaniel,Republican,36.0,False,False,False
@@ -664,6 +735,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,North Carolina,NC,11,Linda Janca,Libertarian,0.9,False,False,False
 1982,house,North Dakota,ND,AL,Byron Dorgan,Democratic-NPL,71.6,True,True,False
 1982,house,North Dakota,ND,AL,Kent Jones,Republican,27.7,False,False,False
+1982,house,North Dakota,ND,AL,Don J. Klingensmith,Prohibition,0.7,False,False,False
 1982,house,Ohio,OH,1,Tom Luken,Democratic,63.5,True,False,False
 1982,house,Ohio,OH,1,John E. Held,Republican,33.7,False,False,False
 1982,house,Ohio,OH,1,James A. Berns,Libertarian,2.8,False,False,False
@@ -750,6 +822,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Pennsylvania,PA,3,Charles F. Dougherty,Republican,48.7,False,False,False
 1982,house,Pennsylvania,PA,4,Joe Kolter,Democratic,60.1,True,False,False
 1982,house,Pennsylvania,PA,4,Eugene Atkinson,Republican,38.6,False,False,False
+1982,house,Pennsylvania,PA,4,Sam Blancato,Other,1.2,False,False,False
 1982,house,Pennsylvania,PA,5,Dick Schulze,Republican,67.2,True,True,False
 1982,house,Pennsylvania,PA,5,Bob Burger,Democratic,32.8,False,False,False
 1982,house,Pennsylvania,PA,6,Gus Yatron,Democratic,72.0,True,True,False
@@ -773,6 +846,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Pennsylvania,PA,14,William J. Coyne,Democratic,74.9,True,True,False
 1982,house,Pennsylvania,PA,14,John Robert Clark,Republican,20.3,False,False,False
 1982,house,Pennsylvania,PA,14,Richard Edward Caligiuri,Libertarian,3.4,False,False,False
+1982,house,Pennsylvania,PA,14,William R. Kalman,Socialist Workers,1.5,False,False,False
 1982,house,Pennsylvania,PA,15,Don Ritter,Republican,57.8,True,True,False
 1982,house,Pennsylvania,PA,15,Richard J. Orloski,Democratic,42.2,False,False,False
 1982,house,Pennsylvania,PA,16,Bob Walker,Republican,71.3,True,True,False
@@ -791,6 +865,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Pennsylvania,PA,21,Anthony Andrezeski,Democratic,49.8,False,False,True
 1982,house,Pennsylvania,PA,22,Austin Murphy,Democratic,78.7,True,True,False
 1982,house,Pennsylvania,PA,22,Frank J. Paterra,Republican,20.5,False,False,False
+1982,house,Pennsylvania,PA,22,Deann Rathbun,Socialist Workers,0.8,False,False,False
 1982,house,Pennsylvania,PA,23,William Clinger,Republican,65.2,True,True,False
 1982,house,Pennsylvania,PA,23,Joseph J. Calla Jr.,Democratic,34.8,False,False,False
 1982,house,Rhode Island,RI,1,Fernand St Germain,Democratic,60.7,True,True,False
@@ -857,6 +932,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Texas,TX,9,Dean Allen,Libertarian,2.1,False,False,False
 1982,house,Texas,TX,10,J. J. Pickle,Democratic,90.1,True,True,False
 1982,house,Texas,TX,10,William G. Kelsey,Libertarian,6.5,False,False,False
+1982,house,Texas,TX,10,Bradley Louis Rockwell,Citizens,3.4,False,False,False
 1982,house,Texas,TX,11,Marvin Leath,Democratic,96.4,True,True,False
 1982,house,Texas,TX,11,Thomas B. Kilbride,Libertarian,3.6,False,False,False
 1982,house,Texas,TX,12,Jim Wright,Democratic,68.9,True,True,False
@@ -909,6 +985,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Utah,UT,3,Henry A. Huish,Independent,23.1,False,False,True
 1982,house,Vermont,VT,AL,Jim Jeffords,Republican,69.3,True,True,False
 1982,house,Vermont,VT,AL,Mark A. Kaplan,Democratic,23.2,False,False,False
+1982,house,Vermont,VT,AL,Robin Lloyd,Citizens,3.9,False,False,False
 1982,house,Vermont,VT,AL,Peter Diamondstone,Liberty Union,1.7,False,False,False
 1982,house,Vermont,VT,AL,Morris Earle,Independent,1.1,False,False,False
 1982,house,Vermont,VT,AL,George E. Trask,Libertarian,0.9,False,False,False
@@ -959,6 +1036,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,West Virginia,WV,2,J. D. Hinkle Jr.,Republican,36.0,False,False,True
 1982,house,West Virginia,WV,3,Bob Wise,Democratic,57.9,True,False,False
 1982,house,West Virginia,WV,3,Mick Staton,Republican,41.6,False,True,False
+1982,house,West Virginia,WV,3,Adrienne Benjamin,Socialist Workers,0.5,False,False,False
 1982,house,West Virginia,WV,4,Nick Rahall,Democratic,80.5,True,True,False
 1982,house,West Virginia,WV,4,Homer L. Harris,Republican,19.5,False,False,False
 1982,house,Wisconsin,WI,1,Les Aspin,Democratic,61.0,True,True,False
@@ -973,6 +1051,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1982,house,Wisconsin,WI,4,Clement J. Zablocki,Democratic,94.6,True,True,False
 1982,house,Wisconsin,WI,4,Nicholas P. Youngers,Libertarian,3.0,False,False,False
 1982,house,Wisconsin,WI,4,John F. Baumgartner,Independent,1.8,False,False,False
+1982,house,Wisconsin,WI,4,John Gudenschwager,Constitution,0.7,False,False,False
 1982,house,Wisconsin,WI,5,Jim Moody,Democratic,63.5,True,False,True
 1982,house,Wisconsin,WI,5,Rod Johnston,Republican,34.9,False,False,True
 1982,house,Wisconsin,WI,6,Tom Petri,Republican,65.0,True,True,False

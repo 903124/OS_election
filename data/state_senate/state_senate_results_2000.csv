@@ -1,0 +1,397 @@
+year,state,state_code,chamber,district,race,candidate,party,votes,percentage,winner,incumbent
+2000,Arizona,AZ,State Senate,1,general,Ken Bennett,Republican,43314,58.65,True,True
+2000,Arizona,AZ,State Senate,1,general,Dawn Knight,Democratic,30541,41.35,False,False
+2000,Arizona,AZ,State Senate,2,general,John Verkamp,Republican,30570,52.91,True,False
+2000,Arizona,AZ,State Senate,2,general,Rita Johnson,Democratic,27207,47.09,False,False
+2000,Arizona,AZ,State Senate,3,general,Jack C. Jackson,Democratic,29776,100.0,True,True
+2000,Arizona,AZ,State Senate,4,general,Jack A. Brown,Democratic,33378,100.0,True,True
+2000,Arizona,AZ,State Senate,5,general,Herb Guenther,Democratic,22565,100.0,True,True
+2000,Arizona,AZ,State Senate,6,general,Lori Daniels,Republican,38871,57.08,True,False
+2000,Arizona,AZ,State Senate,6,general,Jim McCarthy,Democratic,29225,42.92,False,False
+2000,Arizona,AZ,State Senate,7,general,Pete Rios,Democratic,20411,100.0,True,True
+2000,Arizona,AZ,State Senate,8,general,Marsha Arzberger,Democratic,17330,53.9,True,False
+2000,Arizona,AZ,State Senate,8,general,Gail Griffin,Republican,14824,46.1,False,False
+2000,Arizona,AZ,State Senate,9,general,Tim Bee,Republican,35730,57.05,True,False
+2000,Arizona,AZ,State Senate,9,general,Kathy Ramage-White,Democratic,25448,40.63,False,False
+2000,Arizona,AZ,State Senate,9,general,John Jason Auvenshine,Libertarian,1455,2.32,False,False
+2000,Arizona,AZ,State Senate,10,general,Ramon Valadez,Democratic,20513,84.08,True,False
+2000,Arizona,AZ,State Senate,10,general,Dale Gorney,Libertarian,3883,15.92,False,False
+2000,Arizona,AZ,State Senate,11,general,Elaine Richardson,Democratic,26086,79.98,True,True
+2000,Arizona,AZ,State Senate,11,general,John T. Schmid,Libertarian,3336,10.23,False,False
+2000,Arizona,AZ,State Senate,11,general,Daniel Patterson,Green,3194,9.79,False,False
+2000,Arizona,AZ,State Senate,12,general,Toni Hellon,Republican,36950,51.57,True,False
+2000,Arizona,AZ,State Senate,12,general,Mark Osterloh,Democratic,34707,48.43,False,False
+2000,Arizona,AZ,State Senate,13,general,Andy Nichols,Democratic,27714,50.19,True,False
+2000,Arizona,AZ,State Senate,13,general,Kathleen Dunbar,Republican,25845,46.81,False,False
+2000,Arizona,AZ,State Senate,13,general,Wayne Sunne,Libertarian,1655,3.0,False,False
+2000,Arizona,AZ,State Senate,14,general,Ruth Solomon,Democratic,30108,76.67,True,True
+2000,Arizona,AZ,State Senate,14,general,Ed Kahn,Libertarian,9161,23.33,False,False
+2000,Arizona,AZ,State Senate,15,general,Edward J. Cirillo,Republican,48116,100.0,True,True
+2000,Arizona,AZ,State Senate,16,general,Darden C. Hamilton,Republican,20190,53.77,True,True
+2000,Arizona,AZ,State Senate,16,general,Mark Winemiller,Democratic,17358,46.23,False,False
+2000,Arizona,AZ,State Senate,17,general,Brenda Burns,Republican,35635,100.0,True,True
+2000,Arizona,AZ,State Senate,18,general,Susan Gerard,Republican,32956,100.0,True,False
+2000,Arizona,AZ,State Senate,19,general,Scott Bundgaard,Republican,41814,59.68,True,True
+2000,Arizona,AZ,State Senate,19,general,Martha Bruneau,Democratic,25920,36.99,False,False
+2000,Arizona,AZ,State Senate,19,general,Clay Adair,Libertarian,2335,3.33,False,False
+2000,Arizona,AZ,State Senate,20,general,Mary Hartley,Democratic,13835,61.93,True,True
+2000,Arizona,AZ,State Senate,20,general,Craig Savage,Republican,8503,38.07,False,False
+2000,Arizona,AZ,State Senate,21,general,"Russell ""Rusty"" Bowers",Republican,31700,56.09,True,True
+2000,Arizona,AZ,State Senate,21,general,Paul Cash,Democratic,24819,43.91,False,False
+2000,Arizona,AZ,State Senate,22,general,Joe Eddie Lopez,Democratic,12618,100.0,True,True
+2000,Arizona,AZ,State Senate,23,general,Linda Aguirre,Democratic,13859,99.94,True,True
+2000,Arizona,AZ,State Senate,23,general,Bradley Cashman,Independent,8,0.06,False,False
+2000,Arizona,AZ,State Senate,24,general,Dean Martin,Republican,34002,58.71,True,False
+2000,Arizona,AZ,State Senate,24,general,Jeff Bollerman,Democratic,21134,36.49,False,False
+2000,Arizona,AZ,State Senate,24,general,Gary Fallon,Libertarian,2781,4.8,False,False
+2000,Arizona,AZ,State Senate,25,general,Chris Cummiskey,Democratic,21970,66.36,True,True
+2000,Arizona,AZ,State Senate,25,general,Pat Kaminsky,Republican,11135,33.64,False,False
+2000,Arizona,AZ,State Senate,26,general,Tom Smith,Republican,26425,56.79,True,True
+2000,Arizona,AZ,State Senate,26,general,Ed Ranger,Democratic,20106,43.21,False,False
+2000,Arizona,AZ,State Senate,27,general,Harry E. Mitchell,Democratic,26784,55.54,True,True
+2000,Arizona,AZ,State Senate,27,general,Gary Richardson,Republican,21443,44.46,False,False
+2000,Arizona,AZ,State Senate,28,general,Randall Gnant,Republican,68664,82.54,True,True
+2000,Arizona,AZ,State Senate,28,general,Mark Horning,Libertarian,14524,17.46,False,False
+2000,Arizona,AZ,State Senate,29,general,David Petersen,Republican,18266,63.39,True,True
+2000,Arizona,AZ,State Senate,29,general,Ernie R. Jaurigui,Democratic,10549,36.61,False,False
+2000,Arizona,AZ,State Senate,30,general,Jay Blanchard,Democratic,51965,66.39,True,False
+2000,Arizona,AZ,State Senate,30,general,Jeff Groscost,Republican,26303,33.61,False,False
+2000,California,CA,State Senate,1,general,Rico Oller,Republican,220427,57.78,True,False
+2000,California,CA,State Senate,1,general,Thomas A. Romero,Democratic,144997,38.01,False,False
+2000,California,CA,State Senate,1,general,John Petersen,Libertarian,16075,4.21,False,False
+2000,California,CA,State Senate,3,general,John L. Burton,Democratic,238372,72.92,True,True
+2000,California,CA,State Senate,3,general,Terence Faulkner,Republican,71256,21.8,False,False
+2000,California,CA,State Senate,3,general,Celeste Joy Blau Joki,Law,17277,5.29,False,False
+2000,California,CA,State Senate,5,general,Michael Machado,Democratic,142392,48.06,True,False
+2000,California,CA,State Senate,5,general,Alan Nakanishi,Republican,141013,47.59,False,False
+2000,California,CA,State Senate,5,general,Carole Brow,Libertarian,10208,3.45,False,False
+2000,California,CA,State Senate,5,general,William S. Nicolas,Law,2667,0.9,False,False
+2000,California,CA,State Senate,7,general,Tom Torlakson,Democratic,197683,54.44,True,False
+2000,California,CA,State Senate,7,general,Richard Rainey,Republican,156107,42.99,False,True
+2000,California,CA,State Senate,7,general,Mark F. Billings,Law,9334,2.57,False,False
+2000,California,CA,State Senate,9,general,Don Perata,Democratic,218550,83.34,True,True
+2000,California,CA,State Senate,9,general,Linda J. Marshall,Republican,30062,11.46,False,False
+2000,California,CA,State Senate,9,general,James M. Eyer,Libertarian,13622,5.19,False,False
+2000,California,CA,State Senate,11,general,Byron Sher,Democratic,183887,59.25,True,True
+2000,California,CA,State Senate,11,general,Gloria S. Hom,Republican,113770,36.66,False,False
+2000,California,CA,State Senate,11,general,"John J. ""Jack"" Hickey",Libertarian,12676,4.08,False,False
+2000,California,CA,State Senate,13,general,John Vasconcellos,Democratic,140827,68.56,True,True
+2000,California,CA,State Senate,13,general,John Longwell,Republican,54076,26.33,False,False
+2000,California,CA,State Senate,13,general,John Harvey Webster,Libertarian,10507,5.12,False,False
+2000,California,CA,State Senate,15,general,Bruce McPherson,Republican,155039,55.21,True,True
+2000,California,CA,State Senate,15,general,Anselmo A. Chavez,Democratic,112942,40.22,False,False
+2000,California,CA,State Senate,15,general,David Rosenkranz,Law,6425,2.29,False,False
+2000,California,CA,State Senate,15,general,Gordon D. Sachtjen,Libertarian,6394,2.28,False,False
+2000,California,CA,State Senate,17,general,William J. Knight,Republican,172723,64.36,True,True
+2000,California,CA,State Senate,17,general,Richard Lott,Democratic,84427,31.46,False,False
+2000,California,CA,State Senate,17,general,John R. Gibson,Libertarian,7667,2.86,False,False
+2000,California,CA,State Senate,17,general,Douglas R. Wallack,Law,3543,1.32,False,False
+2000,California,CA,State Senate,19,general,Tom McClintock,Republican,165422,57.58,True,False
+2000,California,CA,State Senate,19,general,Daniel R. Gonzalez,Democratic,121893,42.42,False,False
+2000,California,CA,State Senate,21,general,Jack Scott,Democratic,158145,58.91,True,False
+2000,California,CA,State Senate,21,general,Paul Zee,Republican,100901,37.59,False,False
+2000,California,CA,State Senate,21,general,Bob New,Libertarian,9399,3.5,False,False
+2000,California,CA,State Senate,23,general,Sheila Kuehl,Democratic,225736,70.59,True,False
+2000,California,CA,State Senate,23,general,Daniel B. Rego,Republican,79009,24.71,False,False
+2000,California,CA,State Senate,23,general,Charles T. Black,Libertarian,15059,4.71,False,False
+2000,California,CA,State Senate,25,general,Edward Vincent,Democratic,131725,82.28,True,False
+2000,California,CA,State Senate,25,general,James Arlandus Spencer,Republican,28375,17.72,False,False
+2000,California,CA,State Senate,27,general,Betty Karnette,Democratic,157577,60.9,True,True
+2000,California,CA,State Senate,27,general,Marilyn Lyon,Republican,101170,39.1,False,False
+2000,California,CA,State Senate,29,general,Bob Margett,Republican,128713,49.06,True,False
+2000,California,CA,State Senate,29,general,Richard Melendez,Democratic,125975,48.02,False,False
+2000,California,CA,State Senate,29,general,Leland Faegre,Libertarian,7655,2.92,False,False
+2000,California,CA,State Senate,31,general,Jim Brulte,Republican,153745,58.79,True,True
+2000,California,CA,State Senate,31,general,Michael D. Rayburn,Democratic,97931,37.45,False,False
+2000,California,CA,State Senate,31,general,Fritz R. Ward,Libertarian,9851,3.77,False,False
+2000,California,CA,State Senate,33,general,Dick Ackerman,Republican,212705,65.65,True,False
+2000,California,CA,State Senate,33,general,Jack L. Roberts,Democratic,94176,29.07,False,False
+2000,California,CA,State Senate,33,general,Michael E. Chacon,Libertarian,11708,3.61,False,False
+2000,California,CA,State Senate,33,general,William H. Verkamp,Law,5391,1.66,False,False
+2000,California,CA,State Senate,35,general,Ross Johnson,Republican,189523,60.06,True,True
+2000,California,CA,State Senate,35,general,Stephen M. Ray,Democratic,103700,32.86,False,False
+2000,California,CA,State Senate,35,general,Paul L. Studier,Libertarian,11401,3.61,False,False
+2000,California,CA,State Senate,35,general,Cynthia F. Katz,Law,10918,3.46,False,False
+2000,California,CA,State Senate,37,general,Jim Battin,Republican,177665,62.18,True,False
+2000,California,CA,State Senate,37,general,Sedalia L. Sanders,Democratic,94391,33.04,False,False
+2000,California,CA,State Senate,37,general,Donna Tello,Libertarian,13649,4.78,False,False
+2000,California,CA,State Senate,39,general,Dede Alpert,Democratic,160834,56.29,True,True
+2000,California,CA,State Senate,39,general,Larry Stirling,Republican,112454,39.36,False,False
+2000,California,CA,State Senate,39,general,Roger A. Nichols,Libertarian,6474,2.27,False,False
+2000,California,CA,State Senate,39,general,Stuart Knoles,Law,5973,2.09,False,False
+2000,Delaware,DE,State Senate,1,general,Harris McDowell III,Democratic,8970,63.63,True,True
+2000,Delaware,DE,State Senate,1,general,Lee Murphy,Republican,5127,36.37,False,False
+2000,Delaware,DE,State Senate,5,general,Catherine Cloutier,Republican,8099,52.16,True,False
+2000,Delaware,DE,State Senate,5,general,William McGlinchey,Democratic,7428,47.84,False,False
+2000,Delaware,DE,State Senate,7,general,Patti Blevins,Democratic,10047,67.88,True,True
+2000,Delaware,DE,State Senate,7,general,John Pasquale Jr.,Republican,4755,32.12,False,False
+2000,Delaware,DE,State Senate,8,general,David Sokola,Democratic,9873,56.01,True,True
+2000,Delaware,DE,State Senate,8,general,Paul Welsh,Republican,7755,43.99,False,False
+2000,Delaware,DE,State Senate,9,general,Thomas Sharp,Democratic,10189,100.0,True,True
+2000,Delaware,DE,State Senate,12,general,Dorinda Connor,Republican,9758,55.74,True,True
+2000,Delaware,DE,State Senate,12,general,William McMurray,Democratic,7748,44.26,False,False
+2000,Delaware,DE,State Senate,13,general,David McBride,Democratic,11190,100.0,True,True
+2000,Delaware,DE,State Senate,14,general,James Vaughn,Democratic,15899,100.0,True,True
+2000,Delaware,DE,State Senate,15,general,Nancy Cook,Democratic,7283,56.0,True,True
+2000,Delaware,DE,State Senate,15,general,David Burris,Republican,5584,42.94,False,False
+2000,Delaware,DE,State Senate,15,general,Rick Schroeter,Constitution,138,1.06,False,False
+2000,Delaware,DE,State Senate,19,general,Thurman Adams Jr.,Democratic,9808,100.0,True,True
+2000,Delaware,DE,State Senate,20,general,George Bunting,Democratic,12635,56.08,True,True
+2000,Delaware,DE,State Senate,20,general,Gerald Hocker,Republican,9896,43.92,False,False
+2000,Iowa,IA,State Senate,2,general,John Redwine,Republican,18397,100.0,True,True
+2000,Iowa,IA,State Senate,4,general,Jack Kibbie,Democratic,15246,61.5,True,True
+2000,Iowa,IA,State Senate,4,general,Jeffrey Thee,Republican,9561,38.5,False,False
+2000,Iowa,IA,State Senate,6,general,Steve King,Republican,14842,69.6,True,True
+2000,Iowa,IA,State Senate,6,general,Dennis J. Ryan,Democratic,6470,30.4,False,False
+2000,Iowa,IA,State Senate,8,general,E. Thurman Gaskill,Republican,13943,56.8,True,True
+2000,Iowa,IA,State Senate,8,general,William S. Farnham,Democratic,10588,43.2,False,False
+2000,Iowa,IA,State Senate,10,general,Merlin Bartz,Republican,16948,65.0,True,True
+2000,Iowa,IA,State Senate,10,general,Jerry Theilen,Democratic,9145,35.0,False,False
+2000,Iowa,IA,State Senate,12,general,Donald Redfern,Republican,15077,59.5,True,True
+2000,Iowa,IA,State Senate,12,general,John Padget,Democratic,10247,40.5,False,False
+2000,Iowa,IA,State Senate,14,general,Kitty Rehberg,Republican,14445,59.5,True,True
+2000,Iowa,IA,State Senate,14,general,Jeanette Randall,Democratic,9824,40.5,False,False
+2000,Iowa,IA,State Senate,16,general,Mark Zieman,Republican,13847,56.2,True,False
+2000,Iowa,IA,State Senate,16,general,Roger Thomas,Democratic,10807,43.8,False,False
+2000,Iowa,IA,State Senate,18,general,Mike Connolly,Democratic,16816,57.3,True,True
+2000,Iowa,IA,State Senate,18,general,Stephen Potts,Republican,12528,42.7,False,False
+2000,Iowa,IA,State Senate,20,general,Tom Fiegen,Democratic,12641,51.4,True,False
+2000,Iowa,IA,State Senate,20,general,Jack Rife,Republican,11971,48.6,False,True
+2000,Iowa,IA,State Senate,22,general,Patrick J. Deluhery,Democratic,13080,58.3,True,True
+2000,Iowa,IA,State Senate,22,general,Patrick J. Gibbs,Republican,9366,41.7,False,False
+2000,Iowa,IA,State Senate,24,general,Richard F. Drake,Republican,12147,54.9,True,True
+2000,Iowa,IA,State Senate,24,general,Anne Lesnet,Democratic,9963,45.1,False,False
+2000,Iowa,IA,State Senate,26,general,Mary Lundby,Republican,20773,65.2,True,True
+2000,Iowa,IA,State Senate,26,general,Harvey S. Ross,Democratic,11095,34.8,False,False
+2000,Iowa,IA,State Senate,28,general,Andy McKean,Republican,17577,57.1,True,True
+2000,Iowa,IA,State Senate,28,general,Gary Hart,Democratic,13210,42.9,False,False
+2000,Iowa,IA,State Senate,30,general,Neal Schuerer,Republican,14994,54.7,True,True
+2000,Iowa,IA,State Senate,30,general,Ronald F. Donald,Democratic,12406,45.3,False,False
+2000,Iowa,IA,State Senate,32,general,Larry McKibben,Republican,15803,58.7,True,True
+2000,Iowa,IA,State Senate,32,general,John M. Cahill,Democratic,11131,41.3,False,False
+2000,Iowa,IA,State Senate,34,general,Matt McCoy,Democratic,16393,100.0,True,True
+2000,Iowa,IA,State Senate,36,general,Jack Holveck,Democratic,14178,59.9,True,False
+2000,Iowa,IA,State Senate,36,general,Ronald N. Langston,Republican,9501,40.1,False,False
+2000,Iowa,IA,State Senate,38,general,Gene Maddox,Republican,23762,64.7,True,True
+2000,Iowa,IA,State Senate,38,general,Joe Cataldo,Democratic,12949,35.3,False,False
+2000,Iowa,IA,State Senate,40,general,Jerry Behn,Republican,14287,57.9,True,True
+2000,Iowa,IA,State Senate,40,general,Joan Phillips,Democratic,10404,42.1,False,False
+2000,Iowa,IA,State Senate,42,general,Michael Gronstal,Democratic,10963,54.2,True,True
+2000,Iowa,IA,State Senate,42,general,Linda Primmer,Republican,9272,45.8,False,False
+2000,Iowa,IA,State Senate,44,general,Jeff Angelo,Republican,15367,65.0,True,True
+2000,Iowa,IA,State Senate,44,general,Warren Woods,Democratic,8260,35.0,False,False
+2000,Iowa,IA,State Senate,46,general,Paul McKinley,Republican,12787,53.1,True,False
+2000,Iowa,IA,State Senate,46,general,John Judge,Democratic,11276,46.9,False,True
+2000,Iowa,IA,State Senate,48,general,Sandy Greiner,Republican,16565,70.0,True,False
+2000,Iowa,IA,State Senate,48,general,William E. Kuntz,Democratic,7101,30.0,False,False
+2000,Iowa,IA,State Senate,50,general,Gene Fraise,Democratic,18585,100.0,True,True
+2000,New Mexico,NM,State Senate,1,general,William Sharer,Republican,10232,81.8,True,False
+2000,New Mexico,NM,State Senate,1,general,Ronald Barrett,Libertarian,2276,18.2,False,False
+2000,New Mexico,NM,State Senate,2,general,Allen Hurt,Republican,9234,65.34,True,False
+2000,New Mexico,NM,State Senate,2,general,Darla Whitney-Welles,Democratic,4899,34.66,False,False
+2000,New Mexico,NM,State Senate,3,general,John Pinto,Democratic,8080,77.64,True,True
+2000,New Mexico,NM,State Senate,3,general,Jimmie Garnenez Sr.,Republican,2327,22.36,False,False
+2000,New Mexico,NM,State Senate,4,general,Lidio Rainaldi,Democratic,6862,100.0,True,False
+2000,New Mexico,NM,State Senate,5,general,Richard Martinez,Democratic,10751,100.0,True,False
+2000,New Mexico,NM,State Senate,6,general,Carlos Cisneros,Democratic,11745,100.0,True,True
+2000,New Mexico,NM,State Senate,7,general,Patrick Lyons,Republican,10489,68.78,True,True
+2000,New Mexico,NM,State Senate,7,general,Al Lopez,Democratic,4761,31.22,False,False
+2000,New Mexico,NM,State Senate,8,general,Pete Campos,Democratic,10796,100.0,True,True
+2000,New Mexico,NM,State Senate,9,general,Steve Komadina,Republican,11703,55.11,True,False
+2000,New Mexico,NM,State Senate,9,general,Brad Hays,Democratic,9532,44.89,False,False
+2000,New Mexico,NM,State Senate,10,general,Ramsay Gorham,Republican,9209,53.8,True,True
+2000,New Mexico,NM,State Senate,10,general,Janice Paster,Democratic,7907,46.2,False,False
+2000,New Mexico,NM,State Senate,11,general,Linda Lopez,Democratic,6976,68.14,True,True
+2000,New Mexico,NM,State Senate,11,general,Richard Ray Sanchez,Republican,3262,31.86,False,False
+2000,New Mexico,NM,State Senate,12,general,Richard Romero,Democratic,7826,74.05,True,True
+2000,New Mexico,NM,State Senate,12,general,Carlton Pennington,Republican,2742,25.95,False,False
+2000,New Mexico,NM,State Senate,13,general,Dede Feldman,Democratic,10229,100.0,True,True
+2000,New Mexico,NM,State Senate,14,general,Manny Aragon,Democratic,4573,55.38,True,True
+2000,New Mexico,NM,State Senate,14,general,Bill Paiz,Republican,3682,44.59,False,False
+2000,New Mexico,NM,State Senate,14,general,Hector Correa (write-in),Independent (politician),3,0.04,False,False
+2000,New Mexico,NM,State Senate,15,general,Diane Snyder,Republican,7958,53.5,True,False
+2000,New Mexico,NM,State Senate,15,general,Andrew Mills,Democratic,6917,46.5,False,False
+2000,New Mexico,NM,State Senate,16,general,Cisco McSorley,Democratic,11084,100.0,True,True
+2000,New Mexico,NM,State Senate,17,general,Shannon Robinson,Democratic,5169,59.05,True,True
+2000,New Mexico,NM,State Senate,17,general,Mary Gilbert,Republican,3584,40.95,False,False
+2000,New Mexico,NM,State Senate,18,general,Mark Boitano,Republican,10971,100.0,True,True
+2000,New Mexico,NM,State Senate,19,general,Sue Wilson,Republican,12917,100.0,True,True
+2000,New Mexico,NM,State Senate,20,general,William Payne,Republican,12228,100.0,True,True
+2000,New Mexico,NM,State Senate,21,general,Kent Cravens,Republican,17866,100.0,True,False
+2000,New Mexico,NM,State Senate,22,general,Leonard Tsosie,Democratic,9229,100.0,True,True
+2000,New Mexico,NM,State Senate,23,general,Joseph Carraro,Republican,15571,82.7,True,True
+2000,New Mexico,NM,State Senate,23,general,Ronald Bjornstad,Libertarian,3258,17.3,False,False
+2000,New Mexico,NM,State Senate,24,general,Nancy Rodriguez,Democratic,11075,100.0,True,True
+2000,New Mexico,NM,State Senate,25,general,Roman Maes III,Democratic,12720,62.48,True,True
+2000,New Mexico,NM,State Senate,25,general,Ann Tyner Gleason,Green,7638,37.52,False,False
+2000,New Mexico,NM,State Senate,26,general,Bernadette Sanchez,Democratic,9487,63.86,True,False
+2000,New Mexico,NM,State Senate,26,general,Jerry Daniele,Republican,5368,36.14,False,False
+2000,New Mexico,NM,State Senate,27,general,Stuart Ingle,Republican,6221,100.0,True,True
+2000,New Mexico,NM,State Senate,28,general,Ben Altamirano,Democratic,9339,60.82,True,True
+2000,New Mexico,NM,State Senate,28,general,Richard Choate,Republican,6017,39.18,False,False
+2000,New Mexico,NM,State Senate,29,general,Michael Sanchez,Democratic,8597,51.24,True,True
+2000,New Mexico,NM,State Senate,29,general,David Chavez,Republican,7541,44.94,False,False
+2000,New Mexico,NM,State Senate,29,general,Alfred Bennett III,Independent (politician),641,3.82,False,False
+2000,New Mexico,NM,State Senate,30,general,Joseph Fidel,Democratic,10498,100.0,True,True
+2000,New Mexico,NM,State Senate,31,general,Cynthia Nava,Democratic,5466,59.25,True,True
+2000,New Mexico,NM,State Senate,31,general,Samuel Reyes,Republican,3759,40.75,False,False
+2000,New Mexico,NM,State Senate,32,general,Timothy Jennings,Democratic,4928,59.19,True,True
+2000,New Mexico,NM,State Senate,32,general,Henry Zuniga,Republican,3398,40.81,False,False
+2000,New Mexico,NM,State Senate,33,general,Rod Adair,Republican,10326,100.0,True,True
+2000,New Mexico,NM,State Senate,34,general,Don Kidd,Republican,9955,100.0,True,True
+2000,New Mexico,NM,State Senate,35,general,John Arthur Smith,Democratic,9346,100.0,True,True
+2000,New Mexico,NM,State Senate,36,general,Mary Jane Garcia,Democratic,6876,58.51,True,True
+2000,New Mexico,NM,State Senate,36,general,John Townsend III,Republican,4875,41.49,False,False
+2000,New Mexico,NM,State Senate,37,general,Leonard Lee Rawson,Republican,9050,71.29,True,True
+2000,New Mexico,NM,State Senate,37,general,Vincent Dovydaitis Jr.,Independent (politician),3645,28.71,False,False
+2000,New Mexico,NM,State Senate,38,general,Mary Kay Papen,Democratic,6560,59.24,True,False
+2000,New Mexico,NM,State Senate,38,general,Narendra Gunaji,Republican,4514,40.76,False,False
+2000,New Mexico,NM,State Senate,39,general,Phil Griego,Democratic,9108,56.13,True,True
+2000,New Mexico,NM,State Senate,39,general,Robert Skigen,Republican,7118,43.87,False,False
+2000,New Mexico,NM,State Senate,40,general,Dianna Duran,Republican,9186,69.12,True,True
+2000,New Mexico,NM,State Senate,40,general,Mable Frary,Democratic,4104,30.88,False,False
+2000,New Mexico,NM,State Senate,41,general,Carroll Leavell,Republican,4574,100.0,True,True
+2000,New Mexico,NM,State Senate,42,general,Shirley Bailey,Republican,9149,92.65,True,False
+2000,New Mexico,NM,State Senate,42,general,John Norris (write-in),Independent (politician),726,7.35,False,False
+2000,North Carolina,NC,State Senate,1,general,Marc Basnight,Democratic,39069,70.31,True,True
+2000,North Carolina,NC,State Senate,1,general,Ronald Toppin,Republican,16495,29.69,False,False
+2000,North Carolina,NC,State Senate,2,general,Frank Ballance,Democratic,35977,100.0,True,True
+2000,North Carolina,NC,State Senate,3,general,Scott Thomas,Democratic,29313,54.13,True,False
+2000,North Carolina,NC,State Senate,3,general,David G. Hipps,Republican,24836,45.87,False,False
+2000,North Carolina,NC,State Senate,4,general,Patrick J. Ballantine,Republican,47469,65.27,True,True
+2000,North Carolina,NC,State Senate,4,general,Louise McColl,Democratic,25258,34.73,False,False
+2000,North Carolina,NC,State Senate,5,general,Charles W. Albertson,Democratic,28166,59.58,True,True
+2000,North Carolina,NC,State Senate,5,general,Cynthia B. Watson,Republican,19109,40.42,False,False
+2000,North Carolina,NC,State Senate,6,general,"R. L. ""Bob"" Martin",Democratic,34645,100.0,True,True
+2000,North Carolina,NC,State Senate,7,general,Luther Jordan,Democratic,17242,69.28,True,True
+2000,North Carolina,NC,State Senate,7,general,"Thomas R. ""Tom"" Mattison",Republican,7008,28.16,False,False
+2000,North Carolina,NC,State Senate,7,general,Stephen Shepherd,Libertarian,639,2.57,False,False
+2000,North Carolina,NC,State Senate,8,general,John Kerr,Democratic,26283,60.72,True,True
+2000,North Carolina,NC,State Senate,8,general,Ed Wharton,Republican,17001,39.28,False,False
+2000,North Carolina,NC,State Senate,9,general,Edward Warren,Democratic,34721,61.86,True,True
+2000,North Carolina,NC,State Senate,9,general,"A. A. ""Dick"" Adams",Republican,21407,38.14,False,False
+2000,North Carolina,NC,State Senate,10,general,A. B. Swindell,Democratic,27757,55.26,True,False
+2000,North Carolina,NC,State Senate,10,general,Rick Horner,Republican,22477,44.75,False,False
+2000,North Carolina,NC,State Senate,11,general,Allen Wellons,Democratic,32372,53.72,True,True
+2000,North Carolina,NC,State Senate,11,general,John S. Shallcross Jr.,Republican,27886,46.28,False,False
+2000,North Carolina,NC,State Senate,12,general,Virginia Foxx,Republican,65128,32.25,True,True
+2000,North Carolina,NC,State Senate,12,general,Phil Berger,Republican,58021,28.73,True,False
+2000,North Carolina,NC,State Senate,12,general,Al Wheeler,Democratic,40934,20.27,False,False
+2000,North Carolina,NC,State Senate,12,general,Vel Pierce,Democratic,37867,18.75,False,False
+2000,North Carolina,NC,State Senate,13,general,Wib Gulley,Democratic,82509,37.54,True,True
+2000,North Carolina,NC,State Senate,13,general,Jeanne Hopkins Lucas,Democratic,76064,34.61,True,True
+2000,North Carolina,NC,State Senate,13,general,Wallace Bradsher,Republican,52113,23.71,False,False
+2000,North Carolina,NC,State Senate,13,general,Sean Haugh,Libertarian,9102,4.14,False,False
+2000,North Carolina,NC,State Senate,14,general,Brad Miller,Democratic,79871,38.53,True,True
+2000,North Carolina,NC,State Senate,14,general,Eric Miller Reeves,Democratic,65816,31.75,True,True
+2000,North Carolina,NC,State Senate,14,general,John W. Bryant,Republican,61599,29.72,False,False
+2000,North Carolina,NC,State Senate,15,general,Oscar Harris,Democratic,30148,61.15,True,True
+2000,North Carolina,NC,State Senate,15,general,John Hairr,Republican,19154,38.85,False,False
+2000,North Carolina,NC,State Senate,16,general,Eleanor Kinnaird,Democratic,68346,27.09,True,True
+2000,North Carolina,NC,State Senate,16,general,Howard Lee,Democratic,65167,25.83,True,True
+2000,North Carolina,NC,State Senate,16,general,"William T. ""Bill"" Boyd",Republican,60222,23.87,False,False
+2000,North Carolina,NC,State Senate,16,general,Vickie Hargrove,Republican,58561,23.21,False,False
+2000,North Carolina,NC,State Senate,17,general,Aaron Plyler,Democratic,57678,27.84,True,True
+2000,North Carolina,NC,State Senate,17,general,William R. Purcell,Democratic,51316,24.77,True,True
+2000,North Carolina,NC,State Senate,17,general,"William P. ""Bill"" Davis",Republican,48350,23.33,False,False
+2000,North Carolina,NC,State Senate,17,general,Eddie Goodall,Republican,47427,22.89,False,False
+2000,North Carolina,NC,State Senate,17,general,Alan Light,Libertarian,2438,1.18,False,False
+2000,North Carolina,NC,State Senate,18,general,R. C. Soles Jr.,Democratic,39389,79.52,True,True
+2000,North Carolina,NC,State Senate,18,general,John Evans,Libertarian,10147,20.48,False,False
+2000,North Carolina,NC,State Senate,19,general,"Robert G. ""Bob"" Shaw",Republican,58838,100.0,True,True
+2000,North Carolina,NC,State Senate,20,general,Linda Garrou,Democratic,60149,35.65,True,True
+2000,North Carolina,NC,State Senate,20,general,Hamilton Horton Jr.,Republican,59929,35.52,True,True
+2000,North Carolina,NC,State Senate,20,general,Jeannie A. Metcalf,Republican,48666,28.84,False,False
+2000,North Carolina,NC,State Senate,21,general,Hugh Webster,Republican,31994,55.54,True,True
+2000,North Carolina,NC,State Senate,21,general,Wiley P. Wooten,Democratic,25617,44.47,False,False
+2000,North Carolina,NC,State Senate,22,general,Fletcher L. Hartsell Jr.,Republican,48592,100.0,True,True
+2000,North Carolina,NC,State Senate,23,general,Cal Cunningham,Democratic,27726,53.37,True,False
+2000,North Carolina,NC,State Senate,23,general,"John ""Scott"" Keadle",Republican,23095,44.45,False,False
+2000,North Carolina,NC,State Senate,23,general,Lawrence James Clark,Libertarian,1131,2.18,False,False
+2000,North Carolina,NC,State Senate,24,general,Tony Rand,Democratic,28732,59.1,True,True
+2000,North Carolina,NC,State Senate,24,general,Lois Kirby,Republican,19887,40.9,False,False
+2000,North Carolina,NC,State Senate,25,general,David W. Hoyle,Democratic,29337,100.0,True,True
+2000,North Carolina,NC,State Senate,26,general,Austin M. Allran,Republican,44328,100.0,True,True
+2000,North Carolina,NC,State Senate,27,general,Kenneth Moore,Republican,71111,51.57,True,True
+2000,North Carolina,NC,State Senate,27,general,John Garwood,Republican,66771,48.43,True,True
+2000,North Carolina,NC,State Senate,28,general,Steve Metcalf,Democratic,62571,27.17,True,True
+2000,North Carolina,NC,State Senate,28,general,Charles Newell Carter,Democratic,60691,26.35,True,True
+2000,North Carolina,NC,State Senate,28,general,Jesse I. Ledbetter,Republican,52469,22.78,False,False
+2000,North Carolina,NC,State Senate,28,general,R. L. Clark,Republican,50702,22.01,False,False
+2000,North Carolina,NC,State Senate,28,general,Clarence Young,Libertarian,3903,1.69,False,False
+2000,North Carolina,NC,State Senate,29,general,Dan Robinson,Democratic,31633,51.33,True,True
+2000,North Carolina,NC,State Senate,29,general,Judith C. Fraser,Republican,29991,48.67,False,False
+2000,North Carolina,NC,State Senate,30,general,David Weinstein,Democratic,31062,79.12,True,True
+2000,North Carolina,NC,State Senate,30,general,John Rim,Republican,8196,20.88,False,False
+2000,North Carolina,NC,State Senate,31,general,Bill Martin,Democratic,35519,100.0,True,True
+2000,North Carolina,NC,State Senate,32,general,Kay Hagan,Democratic,34353,61.51,True,True
+2000,North Carolina,NC,State Senate,32,general,Wendell H. Sawyer,Republican,21498,38.49,False,False
+2000,North Carolina,NC,State Senate,33,general,Charlie Dannelly,Democratic,30682,100.0,True,True
+2000,North Carolina,NC,State Senate,34,general,"T. L. ""Fountain"" Odom",Democratic,46682,56.17,True,True
+2000,North Carolina,NC,State Senate,34,general,Jeffrey Ober,Republican,36430,43.83,False,False
+2000,North Carolina,NC,State Senate,35,general,Bob Rucho,Republican,55295,66.78,True,True
+2000,North Carolina,NC,State Senate,35,general,David Allen,Democratic,27511,33.22,False,False
+2000,North Carolina,NC,State Senate,36,general,John Carrington,Republican,56010,55.9,True,True
+2000,North Carolina,NC,State Senate,36,general,James C. Crew,Democratic,44181,44.1,False,False
+2000,North Carolina,NC,State Senate,37,general,Walter Dalton,Democratic,26374,54.76,True,True
+2000,North Carolina,NC,State Senate,37,general,Scott Neisler,Republican,21792,45.24,False,False
+2000,North Carolina,NC,State Senate,38,general,Stan Bingham,Republican,45880,88.94,True,False
+2000,North Carolina,NC,State Senate,38,general,Michael G. Smith,Libertarian,5703,11.06,False,False
+2000,North Carolina,NC,State Senate,39,general,James Forrester,Republican,45529,100.0,True,True
+2000,North Carolina,NC,State Senate,40,general,Dan Clodfelter,Democratic,28118,63.82,True,True
+2000,North Carolina,NC,State Senate,40,general,Wayne Johnson,Republican,15943,36.18,False,False
+2000,North Carolina,NC,State Senate,41,general,Larry Shaw,Democratic,20392,100.0,True,True
+2000,North Carolina,NC,State Senate,42,general,Bob Carpenter,Republican,52299,90.04,True,True
+2000,North Carolina,NC,State Senate,42,general,Larry R. Gavel,Libertarian,5788,9.96,False,False
+2000,West Virginia,WV,State Senate,SD 1,general,Andy McKenzie,Republican,19168,54.3,True,True
+2000,West Virginia,WV,State Senate,SD 1,general,Walter Bish,Democratic,16159,45.7,False,False
+2000,West Virginia,WV,State Senate,SD 2,general,Jeffrey V. Kessler,Democratic,22344,69.7,True,True
+2000,West Virginia,WV,State Senate,SD 2,general,Larry Tighe,Republican,9726,30.3,False,False
+2000,West Virginia,WV,State Senate,SD 3,general,Donna Boley,Republican,28396,70.7,True,True
+2000,West Virginia,WV,State Senate,SD 3,general,Louis Flade,Democratic,11786,29.3,False,False
+2000,West Virginia,WV,State Senate,SD 4,general,Karen Facemyer,Republican,24003,51.4,True,False
+2000,West Virginia,WV,State Senate,SD 4,general,Robert Dittmar,Democratic,22656,48.6,False,False
+2000,West Virginia,WV,State Senate,SD 5,general,Robert Plymale,Democratic,23179,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 6,general,John Pat Fanning,Democratic,19770,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 7,general,Earl Ray Tomblin,Democratic,26408,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 8,general,Vic Sprouse,Republican,39188,53.1,True,True
+2000,West Virginia,WV,State Senate,SD 8,general,Mark Hunt,Democratic,34665,46.9,False,False
+2000,West Virginia,WV,State Senate,SD 9,general,Billy Wayne Bailey,Democratic,24094,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 10,general,Anita Caldwell,Democratic,25625,100.0,True,False
+2000,West Virginia,WV,State Senate,SD 10,general,Shirley Love,Democratic,29463,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 10,general,Mark Burnette,Democratic,24568,73.3,True,False
+2000,West Virginia,WV,State Senate,SD 10,general,Hiram Lewis,Republican,8960,26.7,False,False
+2000,West Virginia,WV,State Senate,SD 12,general,William R. Sharpe Jr.,Democratic,31797,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 13,general,Roman Prezioso,Democratic,32039,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 14,general,Jon Blair Hunter,Democratic,21528,53.7,True,True
+2000,West Virginia,WV,State Senate,SD 14,general,Robert Harman,Republican,15696,39.1,False,False
+2000,West Virginia,WV,State Senate,SD 14,general,John Bartlett,Libertarian,2885,7.2,False,False
+2000,West Virginia,WV,State Senate,SD 15,general,Mike Ross,Democratic,28055,100.0,True,True
+2000,West Virginia,WV,State Senate,SD 16,general,Herb Snyder,Democratic,20408,50.6,True,True
+2000,West Virginia,WV,State Senate,SD 16,general,Greg Corliss,Republican,19915,49.4,False,False
+2000,West Virginia,WV,State Senate,SD 17,general,Larry L. Rowe,Democratic,45224,62.8,True,True
+2000,West Virginia,WV,State Senate,SD 17,general,Charles Lewis,Republican,26779,37.2,False,False
+2000,Wyoming,WY,State Senate,2,general,Jim Anderson,Republican,4578,62.13,True,False
+2000,Wyoming,WY,State Senate,2,general,Brian J. Beckstead,Democratic,2791,37.87,False,False
+2000,Wyoming,WY,State Senate,4,general,April Brimmer-Kunz (inc.),Republican,5583,65.12,True,False
+2000,Wyoming,WY,State Senate,4,general,Ken Tuma,Democratic,2990,34.88,False,False
+2000,Wyoming,WY,State Senate,6,general,Rich Cathcart (inc.),Democratic,4363,57.05,True,False
+2000,Wyoming,WY,State Senate,6,general,Bill Moore,Republican,3285,42.95,False,False
+2000,Wyoming,WY,State Senate,8,general,E. Jayne Mockler (inc.),Democratic,4092,100.0,True,False
+2000,Wyoming,WY,State Senate,10,general,Irene Devin (inc.),Republican,4190,56.94,True,False
+2000,Wyoming,WY,State Senate,10,general,Nyla Murphy,Democratic,2782,37.8,False,False
+2000,Wyoming,WY,State Senate,10,general,Patrick O’Reilly,Libertarian,387,5.26,False,False
+2000,Wyoming,WY,State Senate,12,general,Rae Lynn Job (inc.),Democratic,2985,55.57,True,False
+2000,Wyoming,WY,State Senate,12,general,Clark Stith,Republican,2387,44.43,False,False
+2000,Wyoming,WY,State Senate,14,general,Mark O. Harris (inc.),Democratic,4560,100.0,True,False
+2000,Wyoming,WY,State Senate,16,general,Delaine Roberts (inc.),Republican,7221,100.0,True,False
+2000,Wyoming,WY,State Senate,18,general,Hank Coe (inc.),Republican,7801,100.0,True,False
+2000,Wyoming,WY,State Senate,20,general,Gerald Geis (inc.),Republican,5972,100.0,True,False
+2000,Wyoming,WY,State Senate,22,general,John Schiffer (inc.),Republican,2837,100.0,True,False
+2000,Wyoming,WY,State Senate,24,general,Dick Erb (inc.),Republican,4037,70.73,True,False
+2000,Wyoming,WY,State Senate,24,general,James C. Calhoun,Democratic,1671,29.27,False,False
+2000,Wyoming,WY,State Senate,26,general,Robert A. Peck (inc.),Republican,5464,100.0,True,False
+2000,Wyoming,WY,State Senate,28,general,Keith Goodenough (inc.),Democratic,3431,50.66,True,False
+2000,Wyoming,WY,State Senate,28,general,Tom Walsh,Republican,3341,49.34,False,False
+2000,Wyoming,WY,State Senate,30,general,Charles K. Scott (inc.),Republican,4072,34.86,True,False
+2000,Wyoming,WY,State Senate,30,general,Larry D. Horton,Democratic,2179,65.14,False,False

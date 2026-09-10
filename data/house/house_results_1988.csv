@@ -1,6 +1,35 @@
 year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
+1988,house,Alabama,AL,1,Sonny Callahan,Republican,59.3,True,True,False
+1988,house,Alabama,AL,1,John M. Tyson Jr.,Democratic,40.0,False,False,False
+1988,house,Alabama,AL,1,Kenneth Ament,Libertarian,0.8,False,False,False
+1988,house,Alabama,AL,2,Bill Dickinson,Republican,94.2,True,True,False
+1988,house,Alabama,AL,2,Joel Brooke King,Libertarian,5.8,False,False,False
+1988,house,Alabama,AL,3,Bill Nichols,Democratic,96.1,True,True,False
+1988,house,Alabama,AL,3,Jerome Shockley,Libertarian,3.9,False,False,False
+1988,house,Alabama,AL,4,Tom Bevill,Democratic,96.2,True,True,False
+1988,house,Alabama,AL,4,John Sebastian,Libertarian,3.8,False,False,False
+1988,house,Alabama,AL,5,Ronnie Flippo,Democratic,64.4,True,True,False
+1988,house,Alabama,AL,5,Stan McDonald,Republican,34.6,False,False,False
+1988,house,Alabama,AL,5,John Palmer,Libertarian,1.1,False,False,False
+1988,house,Alabama,AL,6,Ben Erdreich,Democratic,66.5,True,True,False
+1988,house,Alabama,AL,6,Charles Caddis,Republican,32.9,False,False,False
+1988,house,Alabama,AL,6,William Wingo,Libertarian,0.5,False,False,False
+1988,house,Alabama,AL,7,Claude Harris Jr.,Democratic,67.7,True,True,False
+1988,house,Alabama,AL,7,James E. Bacon,Republican,31.5,False,False,False
+1988,house,Alabama,AL,7,Alan F. Barksdale,Libertarian,0.7,False,False,False
 1988,house,Alaska,AK,AL,Don Young,Republican,62.7,True,True,False
 1988,house,Alaska,AK,AL,Peter Gruenstein,Democratic,37.3,False,False,False
+1988,house,Arizona,AZ,1,John Jacob Rhodes III,Republican,72.1,True,True,False
+1988,house,Arizona,AZ,1,John M. Fillmore,Democratic,27.9,False,False,False
+1988,house,Arizona,AZ,2,Mo Udall,Democratic,73.3,True,True,False
+1988,house,Arizona,AZ,2,Joseph D. Sweeney,Republican,26.7,False,False,False
+1988,house,Arizona,AZ,3,Bob Stump,Republican,68.9,True,True,False
+1988,house,Arizona,AZ,3,Dave Moss,Democratic,28.6,False,False,False
+1988,house,Arizona,AZ,3,John Parsons,Independent,2.6,False,False,False
+1988,house,Arizona,AZ,4,Jon Kyl,Republican,87.1,True,True,False
+1988,house,Arizona,AZ,4,Gary Sprunk,Libertarian,12.9,False,False,False
+1988,house,Arizona,AZ,5,Jim Kolbe,Republican,67.8,True,True,False
+1988,house,Arizona,AZ,5,Judith E. Belcher,Democratic,32.2,False,False,False
 1988,house,Arkansas,AR,1,Bill Alexander,Democratic,100.0,True,True,False
 1988,house,Arkansas,AR,2,Tommy F. Robinson,Democratic,83.5,True,True,False
 1988,house,Arkansas,AR,2,Warren D. Carpenter,Republican,16.5,False,False,False
@@ -10,6 +39,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Arkansas,AR,4,Roger N. Bell,Republican,30.8,False,False,False
 1988,house,California,CA,1,Douglas H. Bosco,Democratic,62.9,True,True,False
 1988,house,California,CA,1,Samuel Vanderbilt,Republican,28.4,False,False,False
+1988,house,California,CA,1,Eric Fried,Peace and Freedom,8.7,False,False,False
 1988,house,California,CA,2,Wally Herger,Republican,58.8,True,True,False
 1988,house,California,CA,2,Wayne Meyer,Democratic,38.5,False,False,False
 1988,house,California,CA,2,Doc Pendery,Libertarian,2.6,False,False,False
@@ -18,6 +48,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,California,CA,4,Vic Fazio,Democratic,99.3,True,True,False
 1988,house,California,CA,5,Nancy Pelosi,Democratic,76.4,True,True,False
 1988,house,California,CA,5,Bruce O'Neill,Republican,19.3,False,False,False
+1988,house,California,CA,5,Ted Zuur,Peace and Freedom,2.3,False,False,False
 1988,house,California,CA,5,Sam Grove,Libertarian,2.0,False,False,False
 1988,house,California,CA,6,Barbara Boxer,Democratic,73.4,True,True,False
 1988,house,California,CA,6,William Steinmetz,Republican,26.6,False,False,False
@@ -25,6 +56,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,California,CA,7,Jean Last,Republican,31.6,False,False,False
 1988,house,California,CA,8,Ron Dellums,Democratic,66.6,True,True,False
 1988,house,California,CA,8,John J. Cuddihy Jr.,Republican,31.2,False,False,False
+1988,house,California,CA,8,Tom Condit,Peace and Freedom,2.2,False,False,False
 1988,house,California,CA,9,Pete Stark,Democratic,73.0,True,True,False
 1988,house,California,CA,9,Howard Hertz,Republican,27.0,False,False,False
 1988,house,California,CA,10,Don Edwards,Democratic,86.2,True,True,False
@@ -32,6 +64,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,California,CA,11,Tom Lantos,Democratic,71.0,True,True,False
 1988,house,California,CA,11,Bill Quraishi,Republican,24.4,False,False,False
 1988,house,California,CA,11,Bill Wade,Libertarian,2.3,False,False,False
+1988,house,California,CA,11,Victor Martinez,Peace and Freedom,1.4,False,False,False
+1988,house,California,CA,11,Nicholas W. Kudrovzeff,American Independent,0.9,False,False,False
 1988,house,California,CA,12,Tom Campbell,Republican,51.7,True,False,False
 1988,house,California,CA,12,Anna Eshoo,Democratic,46.0,False,False,False
 1988,house,California,CA,12,Tom Grey,Libertarian,2.3,False,False,False
@@ -60,14 +94,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,California,CA,21,Robert Jay,Libertarian,2.1,False,False,False
 1988,house,California,CA,22,Carlos Moorhead,Republican,69.5,True,True,False
 1988,house,California,CA,22,John G. Simmons,Democratic,26.0,False,False,False
+1988,house,California,CA,22,Shirley Rachel Isaacson,Peace and Freedom,2.7,False,False,False
 1988,house,California,CA,22,Ted Brown,Libertarian,1.8,False,False,False
 1988,house,California,CA,23,Anthony Beilenson,Democratic,63.5,True,True,False
 1988,house,California,CA,23,Jim Salomon,Republican,33.1,False,False,False
 1988,house,California,CA,23,John Vernon,Libertarian,1.9,False,False,False
+1988,house,California,CA,23,John Honigsfeld,Peace and Freedom,1.4,False,False,False
 1988,house,California,CA,24,Henry Waxman,Democratic,72.2,True,True,False
 1988,house,California,CA,24,John N. Cowles,Republican,23.8,False,False,False
+1988,house,California,CA,24,James Green,Peace and Freedom,2.3,False,False,False
 1988,house,California,CA,24,George Abrahams,Libertarian,1.7,False,False,False
 1988,house,California,CA,25,Edward R. Roybal,Democratic,85.5,True,True,False
+1988,house,California,CA,25,Paul Reyes,Peace and Freedom,8.8,False,False,False
 1988,house,California,CA,25,John C. Thie,Libertarian,5.8,False,False,False
 1988,house,California,CA,26,Howard Berman,Democratic,70.3,True,True,False
 1988,house,California,CA,26,Brodie Broderson,Republican,29.7,False,False,False
@@ -77,21 +115,25 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,California,CA,28,Julian Dixon,Democratic,76.1,True,True,False
 1988,house,California,CA,28,George Adams,Republican,19.8,False,False,False
 1988,house,California,CA,28,Howard Johnson,Libertarian,2.1,False,False,False
+1988,house,California,CA,28,Salomea Honigsfeld,Peace and Freedom,1.9,False,False,False
 1988,house,California,CA,29,Augustus Hawkins,Democratic,82.8,True,True,False
 1988,house,California,CA,29,Reuben D. Franco,Republican,13.7,False,False,False
 1988,house,California,CA,29,Gregory P. Gilmore,Libertarian,3.5,False,False,False
 1988,house,California,CA,30,Matthew G. Martínez,Democratic,59.9,True,True,False
 1988,house,California,CA,30,Ralph R. Ramirez,Republican,36.3,False,False,False
+1988,house,California,CA,30,Houston Myers,American Independent,2.2,False,False,False
 1988,house,California,CA,30,Kim J. Goldsworthy,Libertarian,1.5,False,False,False
 1988,house,California,CA,31,Mervyn Dymally,Democratic,71.6,True,True,False
 1988,house,California,CA,31,Arnold C. May,Republican,25.5,False,False,False
 1988,house,California,CA,31,B. Kwaku Duren,Peace and Freedom,2.9,False,False,False
 1988,house,California,CA,32,Glenn M. Anderson,Democratic,66.9,True,True,False
 1988,house,California,CA,32,Sanford W. Kahn,Republican,29.6,False,False,False
+1988,house,California,CA,32,Vikki Murdock,Peace and Freedom,2.4,False,False,False
 1988,house,California,CA,32,Marc F. Denny,Libertarian,1.1,False,False,False
 1988,house,California,CA,33,David Dreier,Republican,69.2,True,True,False
 1988,house,California,CA,33,Nelson Gentry,Democratic,26.2,False,False,False
 1988,house,California,CA,33,Gail Lightfoot,Libertarian,3.0,False,False,False
+1988,house,California,CA,33,Mike Noonan,Peace and Freedom,1.6,False,False,False
 1988,house,California,CA,34,Esteban Torres,Democratic,63.2,True,True,False
 1988,house,California,CA,34,Charles M. House,Republican,35.0,False,False,False
 1988,house,California,CA,34,Carl M. Swinney,Libertarian,1.8,False,False,False
@@ -101,23 +143,28 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,California,CA,36,George Brown Jr.,Democratic,54.0,True,True,True
 1988,house,California,CA,36,John Paul Stark,Republican,42.5,False,False,True
 1988,house,California,CA,36,Kenneth E. Valentine,Libertarian,1.8,False,False,True
+1988,house,California,CA,36,Fred L. Anderson,American Independent,1.8,False,False,True
 1988,house,California,CA,37,Al McCandless,Republican,64.3,True,True,False
 1988,house,California,CA,37,Johnny Pearson,Democratic,33.1,False,False,False
 1988,house,California,CA,37,Bonnie Flickinger,Libertarian,2.6,False,False,False
 1988,house,California,CA,38,Bob Dornan,Republican,59.5,True,True,True
 1988,house,California,CA,38,Jerry Yudelson,Democratic,35.6,False,False,True
 1988,house,California,CA,38,Bruce McKay,Libertarian,2.5,False,False,True
+1988,house,California,CA,38,Frank German,Peace and Freedom,2.4,False,False,True
 1988,house,California,CA,39,William Dannemeyer,Republican,74.0,True,True,False
 1988,house,California,CA,39,Don E. Marquis,Democratic,22.8,False,False,False
 1988,house,California,CA,39,Lee Connelly,Libertarian,3.3,False,False,False
 1988,house,California,CA,40,Christopher Cox,Republican,67.1,True,False,True
 1988,house,California,CA,40,Lida Lenney,Democratic,29.9,False,False,True
 1988,house,California,CA,40,Roger Bloxham,Libertarian,1.7,False,False,True
+1988,house,California,CA,40,Gretchen J. Farsai,Peace and Freedom,1.4,False,False,True
 1988,house,California,CA,41,Bill Lowery,Republican,64.8,True,True,False
 1988,house,California,CA,41,Dan Kripke,Democratic,31.5,False,False,False
 1988,house,California,CA,41,Dick Rider,Libertarian,1.9,False,False,False
+1988,house,California,CA,41,C. T. Weber,Peace and Freedom,1.7,False,False,False
 1988,house,California,CA,42,Dana Rohrabacher,Republican,64.2,True,False,True
 1988,house,California,CA,42,Guy C. Kimbrough,Democratic,33.0,False,False,True
+1988,house,California,CA,42,Richard D. Rose,Peace and Freedom,2.8,False,False,True
 1988,house,California,CA,43,Ron Packard,Republican,71.7,True,True,False
 1988,house,California,CA,43,Howard Greenebaum,Democratic,25.7,False,False,False
 1988,house,California,CA,43,Daniel L. Muhe,Libertarian,2.7,False,False,False
@@ -229,8 +276,10 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Illinois,IL,7,Cardiss Collins,Democratic,100.0,True,True,False
 1988,house,Illinois,IL,8,Dan Rostenkowski,Democratic,74.6,True,True,False
 1988,house,Illinois,IL,8,V. Stephen Vetter,Republican,24.0,False,False,False
+1988,house,Illinois,IL,8,Mark J. Almberg,Communist,1.3,False,False,False
 1988,house,Illinois,IL,9,Sidney R. Yates,Democratic,66.1,True,True,True
 1988,house,Illinois,IL,9,Herbert Sohn,Republican,32.9,False,False,True
+1988,house,Illinois,IL,9,Jessie Fields,Solidarity Party (Illinois),1.0,False,False,True
 1988,house,Illinois,IL,10,John Porter,Republican,72.5,True,True,False
 1988,house,Illinois,IL,10,Eugene F. Friedman,Democratic,27.5,False,False,False
 1988,house,Illinois,IL,11,Frank Annunzio,Democratic,64.5,True,True,False
@@ -348,6 +397,25 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Maryland,MD,7,Kweisi Mfume,Democratic,100.0,True,True,False
 1988,house,Maryland,MD,8,Connie Morella,Republican,62.7,True,True,False
 1988,house,Maryland,MD,8,Peter Franchot,Democratic,37.3,False,False,False
+1988,house,Massachusetts,MA,1,Silvio O. Conte,Republican,82.7,True,True,False
+1988,house,Massachusetts,MA,1,John R. Arden,Democratic,17.3,False,False,False
+1988,house,Massachusetts,MA,2,Richard Neal,Democratic,80.3,True,False,True
+1988,house,Massachusetts,MA,2,Louis R. Godena,Independent,19.7,False,False,True
+1988,house,Massachusetts,MA,3,Joseph D. Early,Democratic,100.0,True,True,False
+1988,house,Massachusetts,MA,4,Barney Frank,Democratic,70.3,True,True,False
+1988,house,Massachusetts,MA,4,Debra R. Tucker,Republican,29.7,False,False,False
+1988,house,Massachusetts,MA,5,Chester G. Atkins,Democratic,84.1,True,True,False
+1988,house,Massachusetts,MA,5,T. David Hudson,Libertarian,15.9,False,False,False
+1988,house,Massachusetts,MA,6,Nicholas Mavroules,Democratic,69.7,True,True,False
+1988,house,Massachusetts,MA,6,Paul McCarthy,Republican,30.3,False,False,False
+1988,house,Massachusetts,MA,7,Ed Markey,Democratic,100.0,True,True,False
+1988,house,Massachusetts,MA,8,Joseph P. Kennedy II,Democratic,80.4,True,True,False
+1988,house,Massachusetts,MA,8,Glenn W. Fiscus,Republican,19.6,False,False,False
+1988,house,Massachusetts,MA,9,Joe Moakley,Democratic,100.0,True,True,False
+1988,house,Massachusetts,MA,10,Gerry Studds,Democratic,66.7,True,True,False
+1988,house,Massachusetts,MA,10,Jon L. Bryan,Republican,33.3,False,False,False
+1988,house,Massachusetts,MA,11,Brian J. Donnelly,Democratic,80.8,True,True,False
+1988,house,Massachusetts,MA,11,Michael C. Gilleran,Republican,19.2,False,False,False
 1988,house,Michigan,MI,1,John Conyers,Democratic,91.2,True,True,False
 1988,house,Michigan,MI,1,Bill Ashe,Republican,7.8,False,False,False
 1988,house,Michigan,MI,2,Carl Pursell,Republican,54.7,True,True,False
@@ -363,6 +431,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Michigan,MI,6,Scott Schultz,Republican,39.6,False,False,False
 1988,house,Michigan,MI,7,Dale Kildee,Democratic,75.8,True,True,False
 1988,house,Michigan,MI,7,Jeff Coad,Republican,23.6,False,False,False
+1988,house,Michigan,MI,7,Gary Walkowicz,Independent,0.6,False,False,False
 1988,house,Michigan,MI,8,J. Bob Traxler,Democratic,72.1,True,True,False
 1988,house,Michigan,MI,8,Lloyd F. Buhl,Republican,27.9,False,False,False
 1988,house,Michigan,MI,9,Guy Vander Jagt,Republican,69.8,True,True,False
@@ -382,7 +451,9 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Michigan,MI,15,William D. Ford,Democratic,63.8,True,True,False
 1988,house,Michigan,MI,15,Burl C. Adkins,Republican,34.8,False,False,False
 1988,house,Michigan,MI,15,Eric Blankenburg,Libertarian,1.0,False,False,False
+1988,house,Michigan,MI,15,Ronda M. Reed Bell,Independent,0.4,False,False,False
 1988,house,Michigan,MI,16,John Dingell,Democratic,97.4,True,True,False
+1988,house,Michigan,MI,16,Russell W. Leone,Independent,2.6,False,False,False
 1988,house,Michigan,MI,17,Sander Levin,Democratic,70.2,True,True,False
 1988,house,Michigan,MI,17,Dennis M. Flessland,Republican,28.6,False,False,False
 1988,house,Michigan,MI,17,Charles Hahn,Libertarian,1.2,False,False,False
@@ -390,17 +461,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Michigan,MI,18,Gary L. Kohut,Democratic,22.4,False,False,False
 1988,house,Michigan,MI,18,Timothy J. O'Brien,Libertarian,1.6,False,False,False
 1988,house,Minnesota,MN,1,Tim Penny,DFL,70.1,True,True,False
+1988,house,Minnesota,MN,1,Curt Schrimpf,Republican,29.5,False,False,False
+1988,house,Minnesota,MN,1,Craig Honts,Socialist Workers,0.4,False,False,False
 1988,house,Minnesota,MN,2,Vin Weber,Republican,57.8,True,True,False
 1988,house,Minnesota,MN,2,Doug Peterson,DFL,42.2,False,False,False
 1988,house,Minnesota,MN,3,Bill Frenzel,Republican,68.2,True,True,False
 1988,house,Minnesota,MN,3,Dave Carlson,DFL,31.6,False,False,False
 1988,house,Minnesota,MN,4,Bruce Vento,DFL,72.4,True,True,False
+1988,house,Minnesota,MN,4,Ian Maitland,Republican,26.8,False,False,False
+1988,house,Minnesota,MN,4,Natasha Terlexis,Socialist Workers,0.7,False,False,False
 1988,house,Minnesota,MN,5,Martin Olav Sabo,DFL,72.1,True,True,False
+1988,house,Minnesota,MN,5,Raymond C. Gilbertson,Republican,25.1,False,False,False
 1988,house,Minnesota,MN,5,Chris Wright,Grassroots,2.7,False,False,False
 1988,house,Minnesota,MN,6,Gerry Sikorski,DFL,65.4,True,True,False
+1988,house,Minnesota,MN,6,Ray Ploetz,Republican,34.4,False,False,False
 1988,house,Minnesota,MN,7,Arlan Stangeland,Republican,54.6,True,True,False
 1988,house,Minnesota,MN,7,Marv Hanson,DFL,45.4,False,False,False
 1988,house,Minnesota,MN,8,Jim Oberstar,DFL,74.5,True,True,False
+1988,house,Minnesota,MN,8,Jerry Shuster,Republican,25.5,False,False,False
 1988,house,Mississippi,MS,1,Jamie Whitten,Democratic,78.2,True,True,False
 1988,house,Mississippi,MS,1,Jim Bush,Republican,21.8,False,False,False
 1988,house,Mississippi,MS,2,Mike Espy,Democratic,64.7,True,True,False
@@ -440,6 +518,12 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Montana,MT,1,Jim Fenlason,Republican,39.2,False,False,False
 1988,house,Montana,MT,2,Ron Marlenee,Republican,55.5,True,True,False
 1988,house,Montana,MT,2,Buck O'Brien,Democratic,44.5,False,False,False
+1988,house,Nebraska,NE,1,Doug Bereuter,Republican,67.0,True,True,False
+1988,house,Nebraska,NE,1,Corky Jones,Democratic,33.0,False,False,False
+1988,house,Nebraska,NE,2,Peter Hoagland,Democratic,50.7,True,False,True
+1988,house,Nebraska,NE,2,Jerry Schenken,Republican,49.3,False,False,True
+1988,house,Nebraska,NE,3,Virginia D. Smith,Republican,79.0,True,True,False
+1988,house,Nebraska,NE,3,John D. Racek,Democratic,21.0,False,False,False
 1988,house,Nevada,NV,1,James Bilbray,Democratic,64.0,True,True,False
 1988,house,Nevada,NV,1,Lucille Lusk,Republican,33.7,False,False,False
 1988,house,Nevada,NV,1,Patrick O'Neill,Libertarian,2.3,False,False,False
@@ -456,6 +540,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,New Jersey,NJ,1,Richard Bartucci,Libertarian,0.6,False,False,False
 1988,house,New Jersey,NJ,2,William J. Hughes,Democratic,65.7,True,True,False
 1988,house,New Jersey,NJ,2,Kirk W. Conover,Republican,33.1,False,False,False
+1988,house,New Jersey,NJ,2,Richard A. Schindewolf Jr.,Independent,1.2,False,False,False
 1988,house,New Jersey,NJ,3,Frank Pallone,Democratic,51.6,True,False,True
 1988,house,New Jersey,NJ,3,Joseph Azzolina,Republican,47.4,False,False,True
 1988,house,New Jersey,NJ,3,Laura Stewart,Libertarian,0.9,False,False,True
@@ -475,6 +560,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,New Jersey,NJ,10,Donald M. Payne,Democratic,77.4,True,False,True
 1988,house,New Jersey,NJ,10,Michael Webb,Republican,12.6,False,False,True
 1988,house,New Jersey,NJ,10,Anthony Imperiale,Independent,5.0,False,False,True
+1988,house,New Jersey,NJ,10,Mindy Birdno,Socialist Workers,4.1,False,False,True
 1988,house,New Jersey,NJ,11,Dean Gallo,Republican,70.5,True,True,False
 1988,house,New Jersey,NJ,11,John C. Shaw,Democratic,29.5,False,False,False
 1988,house,New Jersey,NJ,12,Jim Courter,Republican,69.3,True,True,False
@@ -496,18 +582,26 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,New York,NY,2,Joseph Cardino Jr.,Republican,38.4,False,False,False
 1988,house,New York,NY,3,Robert J. Mrazek,Democratic,57.2,True,True,False
 1988,house,New York,NY,3,Robert Previdi,Republican,40.6,False,False,False
+1988,house,New York,NY,3,Robert J. Considine,Right to Life,1.6,False,False,False
+1988,house,New York,NY,3,Anthony Signorelli,Liberal Party (New York),0.5,False,False,False
 1988,house,New York,NY,4,Norman F. Lent,Republican,70.1,True,True,False
 1988,house,New York,NY,4,Francis T. Goban,Democratic,27.6,False,False,False
+1988,house,New York,NY,4,Margaret T. McGeary,Right to Life,2.3,False,False,False
 1988,house,New York,NY,5,Ray McGrath,Republican,65.1,True,True,False
 1988,house,New York,NY,5,William G. Kelly,Democratic,33.2,False,False,False
+1988,house,New York,NY,5,James A. Matier,Right to Life,1.7,False,False,False
 1988,house,New York,NY,6,Floyd Flake,Democratic,85.9,True,True,False
+1988,house,New York,NY,6,Robert L. Brandofino,Conservative Party (New York),14.1,False,False,False
 1988,house,New York,NY,7,Gary Ackerman,Democratic,100.0,True,True,False
 1988,house,New York,NY,8,James H. Scheuer,Democratic,100.0,True,True,False
 1988,house,New York,NY,9,Thomas Manton,Democratic,100.0,True,True,False
 1988,house,New York,NY,10,Chuck Schumer,Democratic,78.4,True,True,False
 1988,house,New York,NY,10,George S. Popielarski,Republican,17.8,False,False,False
+1988,house,New York,NY,10,Alice Gaffney,Conservative Party (New York),3.8,False,False,False
 1988,house,New York,NY,11,Edolphus Towns,Democratic,88.7,True,True,False
 1988,house,New York,NY,11,Riaz B. Hussain,Republican,8.9,False,False,False
+1988,house,New York,NY,11,Alfred Hamel,Conservative Party (New York),1.5,False,False,False
+1988,house,New York,NY,11,Lorraine Stevens,New Alliance,0.9,False,False,False
 1988,house,New York,NY,12,Major Owens,Democratic,93.0,True,True,False
 1988,house,New York,NY,12,Owen Augustin,Republican,7.0,False,False,False
 1988,house,New York,NY,13,Stephen Solarz,Democratic,74.7,True,True,False
@@ -516,20 +610,31 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,New York,NY,14,Jerome X. O'Donovan,Democratic,36.7,False,False,False
 1988,house,New York,NY,15,Bill Green,Republican,61.3,True,True,False
 1988,house,New York,NY,15,Peter G. Doukas,Democratic,36.7,False,False,False
+1988,house,New York,NY,15,John B. Levitt,Liberal Party (New York),2.0,False,False,False
 1988,house,New York,NY,16,Charles Rangel,Democratic,97.1,True,True,False
+1988,house,New York,NY,16,Michael Liccione,Conservative Party (New York),1.6,False,False,False
+1988,house,New York,NY,16,Barbara R. Taylor,New Alliance,1.3,False,False,False
 1988,house,New York,NY,17,Ted Weiss,Democratic,84.4,True,True,False
 1988,house,New York,NY,17,Myrna C. Albert,Republican,15.6,False,False,False
 1988,house,New York,NY,18,Robert García,Democratic,91.1,True,True,False
 1988,house,New York,NY,18,Fred Brown,Republican,7.0,False,False,False
+1988,house,New York,NY,18,Rafael Méndez,New Alliance,1.1,False,False,False
+1988,house,New York,NY,18,Daniel Verhoff,Conservative Party (New York),0.9,False,False,False
 1988,house,New York,NY,19,Eliot Engel,Democratic,56.0,True,False,True
 1988,house,New York,NY,19,Mario Biaggi,Republican,27.2,False,True,True
+1988,house,New York,NY,19,Martin J. O'Grady,Right to Life,8.2,False,False,True
+1988,house,New York,NY,19,Robert Blumetti,Conservative Party (New York),8.1,False,False,True
 1988,house,New York,NY,19,Michael Zagarell,Independent,0.5,False,False,True
 1988,house,New York,NY,20,Nita Lowey,Democratic,50.3,True,False,False
 1988,house,New York,NY,20,Joe DioGuardi,Republican,47.5,False,True,False
+1988,house,New York,NY,20,Florence T. O'Grady,Right to Life,1.4,False,False,False
+1988,house,New York,NY,20,Henry M. Levine,Liberal Party (New York),0.8,False,False,False
 1988,house,New York,NY,21,Hamilton Fish IV,Republican,74.6,True,True,False
 1988,house,New York,NY,21,Lawrence W. Grunberger,Democratic,23.5,False,False,False
+1988,house,New York,NY,21,Richard S. Curtin II,Right to Life,1.9,False,False,False
 1988,house,New York,NY,22,Benjamin Gilman,Republican,70.8,True,True,False
 1988,house,New York,NY,22,Eleanor F. Burlingham,Democratic,26.7,False,False,False
+1988,house,New York,NY,22,Barbara E. Braun,Right to Life,2.5,False,False,False
 1988,house,New York,NY,23,Michael McNulty,Democratic,61.7,True,False,True
 1988,house,New York,NY,23,Peter M. Bakal,Republican,38.3,False,False,True
 1988,house,New York,NY,24,Gerald Solomon,Republican,72.4,True,True,False
@@ -539,17 +644,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,New York,NY,26,Donald R. Ravenscroft,Democratic,25.0,False,False,False
 1988,house,New York,NY,27,James T. Walsh,Republican,57.5,True,False,True
 1988,house,New York,NY,27,Rosemary S. Pooler,Democratic,41.8,False,False,True
+1988,house,New York,NY,27,Stephen K. Hoff,Right to Life,0.8,False,False,True
 1988,house,New York,NY,28,Matthew F. McHugh,Democratic,93.2,True,True,False
+1988,house,New York,NY,28,Mary C. Dixon,Right to Life,6.8,False,False,False
 1988,house,New York,NY,29,Frank Horton,Republican,68.8,True,True,False
 1988,house,New York,NY,29,James R. Vogel,Democratic,26.6,False,False,False
+1988,house,New York,NY,29,Richard G. Baxter,Conservative Party (New York),3.0,False,False,False
+1988,house,New York,NY,29,Donald M. Peters,Right to Life,1.6,False,False,False
 1988,house,New York,NY,30,Louise Slaughter,Democratic,56.9,True,True,False
 1988,house,New York,NY,30,John D. Bouchard,Republican,39.5,False,False,False
+1988,house,New York,NY,30,Thomas D. Cook,Conservative Party (New York),2.8,False,False,False
+1988,house,New York,NY,30,Michael P. Flanagan,Right to Life,0.9,False,False,False
 1988,house,New York,NY,31,Bill Paxon,Republican,53.4,True,False,True
 1988,house,New York,NY,31,David J. Swarts,Democratic,46.6,False,False,True
 1988,house,New York,NY,32,John LaFalce,Democratic,72.7,True,True,False
 1988,house,New York,NY,32,Emil K. Everett,Republican,27.3,False,False,False
 1988,house,New York,NY,33,Henry J. Nowak,Democratic,100.0,True,True,False
 1988,house,New York,NY,34,Amo Houghton,Republican,96.5,True,True,False
+1988,house,New York,NY,34,Ian Kelly Woodward,Liberal Party (New York),3.5,False,False,False
 1988,house,North Carolina,NC,1,Walter B. Jones Sr.,Democratic,65.2,True,True,False
 1988,house,North Carolina,NC,1,Howard Moye,Republican,34.8,False,False,False
 1988,house,North Carolina,NC,2,Tim Valentine,Democratic,100.0,True,True,False
@@ -641,6 +753,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Pennsylvania,PA,3,Mark Matthews,Republican,36.8,False,False,False
 1988,house,Pennsylvania,PA,4,Joe Kolter,Democratic,69.8,True,True,False
 1988,house,Pennsylvania,PA,4,Gordon R. Johnston,Republican,29.5,False,False,False
+1988,house,Pennsylvania,PA,4,Erich L. Kaltenhauser,Populist,0.7,False,False,False
 1988,house,Pennsylvania,PA,5,Dick Schulze,Republican,78.2,True,True,False
 1988,house,Pennsylvania,PA,5,Donald A. Hadley,Democratic,21.8,False,False,False
 1988,house,Pennsylvania,PA,6,Gus Yatron,Democratic,63.1,True,True,False
@@ -667,15 +780,22 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Pennsylvania,PA,17,George Gekas,Republican,100.0,True,True,False
 1988,house,Pennsylvania,PA,18,Doug Walgren,Democratic,62.7,True,True,False
 1988,house,Pennsylvania,PA,18,John A. Newman,Republican,37.1,False,False,False
+1988,house,Pennsylvania,PA,18,James J. Bailey,Populist,0.3,False,False,False
 1988,house,Pennsylvania,PA,19,Bill Goodling,Republican,77.2,True,True,False
 1988,house,Pennsylvania,PA,19,Paul E. Ritchey,Democratic,22.8,False,False,False
 1988,house,Pennsylvania,PA,20,Joseph M. Gaydos,Democratic,98.5,True,True,False
+1988,house,Pennsylvania,PA,20,Richard W. Wilson,Populist,1.5,False,False,False
 1988,house,Pennsylvania,PA,21,Tom Ridge,Republican,78.7,True,True,False
 1988,house,Pennsylvania,PA,21,George R. H. Elder,Democratic,21.3,False,False,False
 1988,house,Pennsylvania,PA,22,Austin Murphy,Democratic,72.4,True,True,False
 1988,house,Pennsylvania,PA,22,William Hodgkiss,Republican,27.6,False,False,False
 1988,house,Pennsylvania,PA,23,William Clinger,Republican,62.0,True,True,False
 1988,house,Pennsylvania,PA,23,Howard Shakespeare,Democratic,37.3,False,False,False
+1988,house,Pennsylvania,PA,23,William Smolik,Populist,0.7,False,False,False
+1988,house,Rhode Island,RI,1,Ronald Machtley,Republican,55.6,True,False,False
+1988,house,Rhode Island,RI,1,Fernand St Germain,Democratic,44.4,False,True,False
+1988,house,Rhode Island,RI,2,Claudine Schneider,Republican,72.1,True,True,False
+1988,house,Rhode Island,RI,2,Ruth S. Morgenthau,Democratic,27.9,False,False,False
 1988,house,South Carolina,SC,1,Arthur Ravenel Jr.,Republican,63.8,True,True,False
 1988,house,South Carolina,SC,1,Wheeler Tillman,Democratic,36.2,False,False,False
 1988,house,South Carolina,SC,2,Floyd Spence,Republican,52.8,True,True,False
@@ -770,6 +890,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Utah,UT,2,Michael Lee,Libertarian,1.5,False,False,True
 1988,house,Utah,UT,3,Howard C. Nielson,Republican,66.8,True,True,False
 1988,house,Utah,UT,3,Robert W. Stringham,Democratic,30.9,False,False,False
+1988,house,Utah,UT,3,E. Dean Christensen,American Party (1969),1.7,False,False,False
+1988,house,Utah,UT,3,Judy Stranahan,Socialist Workers,0.6,False,False,False
 1988,house,Vermont,VT,AL,Peter Plympton Smith,Republican,41.2,True,False,True
 1988,house,Vermont,VT,AL,Bernie Sanders,Independent,37.5,False,False,True
 1988,house,Vermont,VT,AL,Paul N. Poirier,Democratic,18.9,False,False,True
@@ -811,6 +933,13 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Washington,WA,7,Robert Edwards,Republican,23.7,False,False,True
 1988,house,Washington,WA,8,Rod Chandler,Republican,70.9,True,True,False
 1988,house,Washington,WA,8,Jim Kean,Democratic,29.1,False,False,False
+1988,house,West Virginia,WV,1,Alan Mollohan,Democratic,74.5,True,True,False
+1988,house,West Virginia,WV,1,Howard Tuck,Republican,25.5,False,False,False
+1988,house,West Virginia,WV,2,Harley O. Staggers Jr.,Democratic,100.0,True,True,False
+1988,house,West Virginia,WV,3,Bob Wise,Democratic,74.3,True,True,False
+1988,house,West Virginia,WV,3,Paul W. Hart,Republican,25.7,False,False,False
+1988,house,West Virginia,WV,4,Nick Rahall,Democratic,61.3,True,True,False
+1988,house,West Virginia,WV,4,Marianne R. Brewster,Republican,38.7,False,False,False
 1988,house,Wisconsin,WI,1,Les Aspin,Democratic,76.2,True,True,False
 1988,house,Wisconsin,WI,1,Bernard J. Weaver,Republican,23.8,False,False,False
 1988,house,Wisconsin,WI,2,Robert Kastenmeier,Democratic,58.5,True,True,False
@@ -832,3 +961,4 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1988,house,Wyoming,WY,AL,Dick Cheney,Republican,66.6,True,True,False
 1988,house,Wyoming,WY,AL,Bryan Sharratt,Democratic,31.8,False,False,False
 1988,house,Wyoming,WY,AL,Craig Alan McCune,Libertarian,1.1,False,False,False
+1988,house,Wyoming,WY,AL,Al Hamburg,New Alliance,0.5,False,False,False

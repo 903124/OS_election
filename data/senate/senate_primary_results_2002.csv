@@ -95,12 +95,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2002,Nebraska,Republican Party primary results,Primary,Winning,False,Chuck Hagel (inc.),Republican Party (United States),"144,160",100.00%
 2002,Nebraska,Republican Party primary results,Primary,Total,False,,,"144,160",100.00%
 2002,New Hampshire,Republican primary results,Primary,Winning,False,John Sununu,Republican Party (United States),"81,920",53.35%
-2002,New Hampshire,Republican primary results,Primary,Candidate,False,Bob Smith,Republican Party (United States),"68,608",44.68%
+2002,New Hampshire,Republican primary results,Primary,Candidate,True,Bob Smith,Republican Party (United States),"68,608",44.68%
 2002,New Hampshire,Republican primary results,Primary,Total,False,,,"150,528",100.00%
-2002,New Jersey,Republican primary results,Primary,Winning,False,Doug Forrester,Republican Party (United States),"97,275",44.56%
-2002,New Jersey,Republican primary results,Primary,Candidate,False,Diane Allen,Republican Party (United States),"80,476",36.87%
-2002,New Jersey,Republican primary results,Primary,Candidate,False,John J. Matheussen,Republican Party (United States),"40,549",18.58%
-2002,New Jersey,Republican primary results,Primary,Total,False,,,"218,300",100.00%
+2002,New Jersey,2002 Democratic U.S. Senate primary,Primary,Winning,True,Robert Torricelli,Democratic Party (United States),"181,468",100.00%
+2002,New Jersey,2002 Democratic U.S. Senate primary,Primary,Total,False,,,"181,468",100.00%
+2002,New Jersey,2002 Republican U.S. Senate primary,Primary,Winning,False,Doug Forrester,Republican Party (United States),"97,275",44.56%
+2002,New Jersey,2002 Republican U.S. Senate primary,Primary,Candidate,False,Diane Allen,Republican Party (United States),"80,476",36.87%
+2002,New Jersey,2002 Republican U.S. Senate primary,Primary,Candidate,False,John J. Matheussen,Republican Party (United States),"40,549",18.58%
+2002,New Jersey,2002 Republican U.S. Senate primary,Primary,Total,False,,,"218,300",100.00%
 2002,New Mexico,Democratic primary results,Primary,Winning,False,Gloria Tristani,Democratic Party (United States),"109,084",77.71%
 2002,New Mexico,Democratic primary results,Primary,Candidate,False,Francesa Lobato,Democratic Party (United States),"31,228",22.24%
 2002,New Mexico,Democratic primary results,Primary,Candidate,False,Don E. Durham (write-in),Democratic Party (United States),73,0.05%

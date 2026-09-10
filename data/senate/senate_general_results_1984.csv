@@ -17,12 +17,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,Delaware,General election results,General,Candidate,False,Republican Party (United States),John M. Burris,"98,101",39.89%
 1984,Georgia,General election results,General,Winning,True,Democratic Party (United States),Sam Nunn,"1,344,104",79.94%
 1984,Georgia,General election results,General,Candidate,False,Republican Party (United States),Mike Hicks,"337,196",20.06%
-1984,Idaho,General election results,General,Winning,False,Republican Party (United States),Jim McClure,"293,193",72.19%
+1984,Idaho,General election results,General,Winning,True,Republican Party (United States),Jim McClure,"293,193",72.19%
 1984,Idaho,General election results,General,Candidate,False,Democratic Party (United States),Pete Busch,"105,591",26.00%
 1984,Idaho,General election results,General,Candidate,False,Libertarian Party (United States),Donald Billings,"7,384",1.82%
 1984,Idaho,General election results,General,Total,False,,,"406,168",100.00%
 1984,Illinois,"United States Senate election in Illinois, 1984",General,Winning,False,Democratic Party (United States),Paul Simon,"2,397,165",50.07%
-1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Republican Party (United States),Charles Percy,"2,308,039",48.21%
+1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,True,Republican Party (United States),Charles Percy,"2,308,039",48.21%
 1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Libertarian Party (United States),Steve I. Givot,"59,777",1.25%
 1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Citizens Party (United States),Marjorie H. Pries,"12,366",0.26%
 1984,Illinois,"United States Senate election in Illinois, 1984",General,Candidate,False,Socialist Workers Party (United States),Nelson Gonzalez,"4,913",0.10%
@@ -129,6 +129,6 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1984,West Virginia,General election results,General,Candidate,False,Republican Party (United States),John Raese,"344,680",47.73%
 1984,West Virginia,General election results,General,Candidate,False,Socialist Workers Party (United States),Mary E. Radin,"3,299",0.46%
 1984,West Virginia,General election results,General,Total,False,,,"722,212",100.00%
-1984,Wyoming,1984 United States Senate election in Wyoming,General,Winning,False,Republican Party (United States),Alan Simpson,"146,373",78.32%
+1984,Wyoming,1984 United States Senate election in Wyoming,General,Winning,True,Republican Party (United States),Alan Simpson,"146,373",78.32%
 1984,Wyoming,1984 United States Senate election in Wyoming,General,Candidate,False,Democratic Party (United States),Victor Ryan,"40,525",21.68%
 1984,Wyoming,1984 United States Senate election in Wyoming,General,Total,False,,,"186,898",100.00%

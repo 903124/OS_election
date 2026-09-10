@@ -1,14 +1,42 @@
 year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
+1992,house,Alabama,AL,1,Sonny Callahan,Republican,60.2,True,True,False
+1992,house,Alabama,AL,1,William Brewer,Democratic,36.8,False,False,False
+1992,house,Alabama,AL,1,John Garrett,Libertarian,3.0,False,False,False
+1992,house,Alabama,AL,2,Terry Everett,Republican,49.5,True,False,True
+1992,house,Alabama,AL,2,George Wallace Jr.,Democratic,47.9,False,False,True
+1992,house,Alabama,AL,2,Glynn Reeves,Libertarian,1.4,False,False,True
+1992,house,Alabama,AL,3,Glen Browder,Democratic,60.3,True,True,False
+1992,house,Alabama,AL,3,Don Sledge,Republican,37.3,False,False,False
+1992,house,Alabama,AL,3,Rodric Templeton,Libertarian,2.3,False,False,False
+1992,house,Alabama,AL,4,Tom Bevill,Democratic,68.5,True,True,False
+1992,house,Alabama,AL,4,Martha Strickland,Republican,29.0,False,False,False
+1992,house,Alabama,AL,4,Robert King,Libertarian,2.5,False,False,False
+1992,house,Alabama,AL,5,Bud Cramer,Democratic,65.6,True,True,False
+1992,house,Alabama,AL,5,Terry Smith,Republican,31.9,False,False,False
+1992,house,Alabama,AL,5,Michael Seibert,Libertarian,2.5,False,False,False
+1992,house,Alabama,AL,6,Spencer Bachus,Republican,52.3,True,False,False
+1992,house,Alabama,AL,6,Ben Erdreich,Democratic,45.0,False,True,False
+1992,house,Alabama,AL,6,Carla Cloum,Independent,1.6,False,False,False
+1992,house,Alabama,AL,6,Mark Bodenhausen,Libertarian,1.0,False,False,False
+1992,house,Alabama,AL,7,Earl Hilliard,Democratic,69.5,True,False,True
+1992,house,Alabama,AL,7,Kervin Jones,Republican,17.4,False,False,True
+1992,house,Alabama,AL,7,James Lewis,Independent,6.0,False,False,True
+1992,house,Alabama,AL,7,James Chambliss,Independent,5.5,False,False,True
+1992,house,Alabama,AL,7,Michael Todd Mayer,Libertarian,1.0,False,False,True
+1992,house,Alabama,AL,7,John Hawkins,Socialist Workers,0.6,False,False,True
 1992,house,Alaska,AK,AL,Don Young,Republican,46.7,True,True,False
 1992,house,Alaska,AK,AL,John S. Devens,Democratic,42.8,False,False,False
+1992,house,Alaska,AK,AL,Michael States,Alaskan Independence,6.2,False,False,False
 1992,house,Alaska,AK,AL,Mike Milligan,Green,3.9,False,False,False
 1992,house,Arizona,AZ,1,Sam Coppersmith,Democratic,51.3,True,False,False
 1992,house,Arizona,AZ,1,Jay Rhodes,Republican,44.6,False,True,False
+1992,house,Arizona,AZ,1,Ted Goldstein,Natural Law,4.1,False,False,False
 1992,house,Arizona,AZ,2,Ed Pastor,Democratic,66.0,True,True,False
 1992,house,Arizona,AZ,2,Don Shooter,Republican,30.0,False,False,False
 1992,house,Arizona,AZ,2,Dan Detaranto,Libertarian,4.0,False,False,False
 1992,house,Arizona,AZ,3,Bob Stump,Republican,61.5,True,True,False
 1992,house,Arizona,AZ,3,Roger Hartstone,Democratic,34.4,False,False,False
+1992,house,Arizona,AZ,3,Pamela Volponi,Natural Law,4.1,False,False,False
 1992,house,Arizona,AZ,4,Jon Kyl,Republican,59.2,True,True,False
 1992,house,Arizona,AZ,4,Walter Mybeck,Democratic,26.7,False,False,False
 1992,house,Arizona,AZ,4,Debbie Collings,Independent,9.7,False,False,False
@@ -19,8 +47,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Arizona,AZ,6,Karan English,Democratic,53.0,True,False,True
 1992,house,Arizona,AZ,6,Doug Wead,Republican,41.4,False,False,True
 1992,house,Arizona,AZ,6,Sarah Stannard,Independent,5.6,False,False,True
+1992,house,Arkansas,AR,1,Blanche Lambert,Democratic,69.8,True,False,False
+1992,house,Arkansas,AR,1,Terry Hayes,Republican,30.2,False,False,False
+1992,house,Arkansas,AR,2,Ray Thornton,Democratic,74.2,True,True,True
+1992,house,Arkansas,AR,2,Dennis Scott,Republican,25.8,False,False,True
+1992,house,Arkansas,AR,3,Tim Hutchinson,Republican,50.2,True,False,True
+1992,house,Arkansas,AR,3,John VanWinkle,Democratic,47.2,False,False,True
+1992,house,Arkansas,AR,3,Ralph Forbes,Independent,2.5,False,False,True
+1992,house,Arkansas,AR,4,Jay Dickey,Republican,52.3,True,False,False
+1992,house,Arkansas,AR,4,Bill McCuen,Democratic,47.7,False,False,False
 1992,house,California,CA,1,Daniel Hamburg,Democratic,47.6,True,False,False
 1992,house,California,CA,1,Frank Riggs,Republican,45.1,False,True,False
+1992,house,California,CA,1,Phil Baldwin,Peace and Freedom,4.3,False,False,False
 1992,house,California,CA,1,Matthew L. Howard,Libertarian,3.0,False,False,False
 1992,house,California,CA,2,Wally Herger,Republican,65.2,True,True,False
 1992,house,California,CA,2,Elliot Roy Freedman,Democratic,28.0,False,False,False
@@ -33,17 +71,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,California,CA,4,Patrick Lee McHargue,Libertarian,4.5,False,False,False
 1992,house,California,CA,5,Bob Matsui,Democratic,68.6,True,False,False
 1992,house,California,CA,5,Robert S. Dinsmore,Republican,25.5,False,False,False
+1992,house,California,CA,5,Gordon D. Mors,American Independent,2.1,False,False,False
 1992,house,California,CA,5,Chris J. Rufer,Libertarian,2.0,False,False,False
 1992,house,California,CA,5,Tian Harter,Green,1.9,False,False,False
 1992,house,California,CA,6,Lynn Woolsey,Democratic,65.2,True,False,True
 1992,house,California,CA,6,Bill Filante,Republican,33.6,False,False,True
 1992,house,California,CA,7,George Miller,Democratic,70.3,True,True,False
 1992,house,California,CA,7,Dave Scholl,Republican,25.2,False,False,False
+1992,house,California,CA,7,David L. Franklin,Peace and Freedom,4.5,False,False,False
 1992,house,California,CA,8,Nancy Pelosi,Democratic,82.5,True,False,False
 1992,house,California,CA,8,Marc Wolin,Republican,11.0,False,False,False
+1992,house,California,CA,8,Cesar G. Cadabes,Peace and Freedom,3.3,False,False,False
 1992,house,California,CA,8,James R. Elwood,Libertarian,3.2,False,False,False
 1992,house,California,CA,9,Ron Dellums,Democratic,71.9,True,False,False
 1992,house,California,CA,9,Billy Hunter,Republican,23.5,False,False,False
+1992,house,California,CA,9,Dave Linn,Peace and Freedom,4.6,False,False,False
 1992,house,California,CA,10,Bill Baker,Republican,52.0,True,False,True
 1992,house,California,CA,10,Wendell H. Williams,Democratic,48.0,False,False,True
 1992,house,California,CA,11,Richard Pombo,Republican,47.6,True,False,True
@@ -51,24 +93,30 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,California,CA,11,Christine Roberts,Libertarian,6.8,False,False,True
 1992,house,California,CA,12,Tom Lantos,Democratic,68.8,True,False,False
 1992,house,California,CA,12,Jim R. Tomlin,Republican,23.3,False,False,False
+1992,house,California,CA,12,Mary Weldon,Peace and Freedom,4.4,False,False,False
 1992,house,California,CA,12,George L. O'Brien,Libertarian,3.4,False,False,False
 1992,house,California,CA,13,Pete Stark,Democratic,60.2,True,False,False
 1992,house,California,CA,13,Verne W. Teyler,Republican,31.6,False,False,False
+1992,house,California,CA,13,Roslyn A. Allen,Peace and Freedom,8.2,False,False,False
 1992,house,California,CA,14,Anna Eshoo,Democratic,56.7,True,False,True
 1992,house,California,CA,14,Tom Huening,Republican,39.0,False,False,True
 1992,house,California,CA,14,Chuck Olson,Libertarian,2.8,False,False,True
+1992,house,California,CA,14,David Wald,Peace and Freedom,1.5,False,False,True
 1992,house,California,CA,15,Norman Mineta,Democratic,63.5,True,False,False
 1992,house,California,CA,15,Robert Wick,Republican,31.2,False,False,False
 1992,house,California,CA,15,Duggan Dieterly,Libertarian,5.0,False,False,False
 1992,house,California,CA,16,Don Edwards,Democratic,62.0,True,False,False
 1992,house,California,CA,16,Ted Bundesen,Republican,32.0,False,False,False
+1992,house,California,CA,16,Amani S. Kuumba,Peace and Freedom,6.0,False,False,False
 1992,house,California,CA,17,Leon Panetta,Democratic,72.1,True,False,False
 1992,house,California,CA,17,Bill McCampbell,Republican,23.7,False,False,False
+1992,house,California,CA,17,Maureen Smith,Peace and Freedom,2.3,False,False,False
 1992,house,California,CA,17,John D. Wilkes,Libertarian,1.9,False,False,False
 1992,house,California,CA,18,Gary Condit,Democratic,84.7,True,False,False
 1992,house,California,CA,18,Kim R. Almstrom,Libertarian,15.3,False,False,False
 1992,house,California,CA,19,Rick Lehman,Democratic,46.9,True,False,False
 1992,house,California,CA,19,Tal L. Cloud,Republican,46.4,False,False,False
+1992,house,California,CA,19,Dorothy L. Wells,Peace and Freedom,6.2,False,False,False
 1992,house,California,CA,20,Cal Dooley,Democratic,64.9,True,False,False
 1992,house,California,CA,20,Ed Hunt,Republican,35.1,False,False,False
 1992,house,California,CA,21,Bill Thomas,Republican,65.2,True,False,False
@@ -82,17 +130,21 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,California,CA,23,Jay C. Wood,Libertarian,4.3,False,False,False
 1992,house,California,CA,24,Anthony Beilenson,Democratic,55.5,True,False,False
 1992,house,California,CA,24,Tom McClintock,Republican,39.1,False,False,False
+1992,house,California,CA,24,John P. Lindblad,Peace and Freedom,5.4,False,False,False
 1992,house,California,CA,25,Buck McKeon,Republican,51.9,True,False,True
 1992,house,California,CA,25,Gil Gilmartin,Democratic,33.0,False,False,True
 1992,house,California,CA,25,Rick Pamplin,Independent,6.4,False,False,True
 1992,house,California,CA,25,Peggy L. Christensen,Libertarian,3.2,False,False,True
 1992,house,California,CA,25,Charles Wilken,Green,3.2,False,False,True
+1992,house,California,CA,25,Nancy Lawrence,Peace and Freedom,2.3,False,False,True
 1992,house,California,CA,26,Howard Berman,Democratic,61.0,True,True,False
 1992,house,California,CA,26,Gary E. Forsch,Republican,30.2,False,False,False
+1992,house,California,CA,26,Margery Hinds,Peace and Freedom,5.9,False,False,False
 1992,house,California,CA,26,Bernard Zimring,Libertarian,2.9,False,False,False
 1992,house,California,CA,27,Carlos Moorhead,Republican,49.7,True,False,False
 1992,house,California,CA,27,Doug Kahn,Democratic,39.4,False,False,False
 1992,house,California,CA,27,Jesse A. Moorman,Green,5.2,False,False,False
+1992,house,California,CA,27,Margaret Edwards,Peace and Freedom,3.5,False,False,False
 1992,house,California,CA,27,Dennis Decherd,Libertarian,2.3,False,False,False
 1992,house,California,CA,28,David Dreier,Republican,58.4,True,False,False
 1992,house,California,CA,28,Al Wachtel,Democratic,36.6,False,False,False
@@ -101,45 +153,55 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,California,CA,29,Henry Waxman,Democratic,61.3,True,False,False
 1992,house,California,CA,29,Mark Robbins,Republican,25.7,False,False,False
 1992,house,California,CA,29,David Davis,Independent,5.9,False,False,False
+1992,house,California,CA,29,Susan C. Davies,Peace and Freedom,5.3,False,False,False
 1992,house,California,CA,29,Felix Tsvi Rogin,Libertarian,1.8,False,False,False
 1992,house,California,CA,30,Xavier Becerra,Democratic,58.4,True,False,True
 1992,house,California,CA,30,Morry Waksberg,Republican,24.0,False,False,True
 1992,house,California,CA,30,Blase Bonpane,Green,7.6,False,False,True
+1992,house,California,CA,30,Elizabeth Nakano,Peace and Freedom,7.4,False,False,True
 1992,house,California,CA,30,Drew Consalvo,Libertarian,2.7,False,False,True
 1992,house,California,CA,31,Matthew G. Martínez,Democratic,62.6,True,False,False
 1992,house,California,CA,31,Reuben D. Franco,Republican,37.4,False,False,False
 1992,house,California,CA,32,Julian Dixon,Democratic,87.2,True,False,False
 1992,house,California,CA,32,Bob Weber,Libertarian,7.2,False,False,False
+1992,house,California,CA,32,William R. Williams,Peace and Freedom,5.7,False,False,False
 1992,house,California,CA,33,Lucille Roybal-Allard,Democratic,63.0,True,False,True
 1992,house,California,CA,33,Robert Guzman,Republican,30.4,False,False,True
+1992,house,California,CA,33,Tim Delia,Peace and Freedom,4.2,False,False,True
 1992,house,California,CA,33,Dale S. Olvera,Libertarian,2.4,False,False,True
 1992,house,California,CA,34,Esteban Torres,Democratic,61.3,True,True,False
 1992,house,California,CA,34,J. Jay Hernandez,Republican,34.0,False,False,False
 1992,house,California,CA,34,Marty Swinney,Libertarian,4.7,False,False,False
 1992,house,California,CA,35,Maxine Waters,Democratic,82.5,True,False,False
 1992,house,California,CA,35,Nate Truman,Republican,14.0,False,False,False
+1992,house,California,CA,35,Alice Mae Miles,Peace and Freedom,2.2,False,False,False
 1992,house,California,CA,35,Carin Rogers,Libertarian,1.3,False,False,False
 1992,house,California,CA,36,Jane Harman,Democratic,48.4,True,False,True
 1992,house,California,CA,36,Joan Milke Flores,Republican,42.2,False,False,True
 1992,house,California,CA,36,Richard Greene,Green,5.1,False,False,True
 1992,house,California,CA,36,Marc F. Denny,Libertarian,2.1,False,False,True
+1992,house,California,CA,36,Owen Staley,Peace and Freedom,2.1,False,False,True
 1992,house,California,CA,37,Walter R. Tucker III,Democratic,85.7,True,False,True
 1992,house,California,CA,37,B. Kwaku Duren,Peace and Freedom,14.3,False,False,True
 1992,house,California,CA,38,Steve Horn,Republican,48.6,True,False,True
 1992,house,California,CA,38,Evan Anderson Braude,Democratic,43.4,False,False,True
+1992,house,California,CA,38,Paul Burton,Peace and Freedom,4.4,False,False,True
 1992,house,California,CA,38,Blake Ashley,Libertarian,3.6,False,False,True
 1992,house,California,CA,39,Ed Royce,Republican,57.3,True,False,True
 1992,house,California,CA,39,Molly McClanahan,Democratic,38.5,False,False,True
 1992,house,California,CA,39,Jack Dean,Libertarian,4.4,False,False,True
 1992,house,California,CA,40,Jerry Lewis,Republican,63.1,True,False,False
 1992,house,California,CA,40,"Donald M. ""Don"" Rusk",Democratic,31.1,False,False,False
+1992,house,California,CA,40,Margie Akin,Peace and Freedom,5.8,False,False,False
 1992,house,California,CA,41,Jay Kim,Republican,59.6,True,False,True
 1992,house,California,CA,41,Bob Baker,Democratic,34.4,False,False,True
+1992,house,California,CA,41,Mike Noonan,Peace and Freedom,5.9,False,False,True
 1992,house,California,CA,42,George Brown Jr.,Democratic,50.7,True,False,True
 1992,house,California,CA,42,Dick Rutan,Republican,44.0,False,False,True
 1992,house,California,CA,42,Fritz R. Ward,Libertarian,5.4,False,False,True
 1992,house,California,CA,43,Ken Calvert,Republican,46.7,True,False,True
 1992,house,California,CA,43,Mark Takano,Democratic,46.4,False,False,True
+1992,house,California,CA,43,Gary R. Odom,American Independent,3.2,False,False,True
 1992,house,California,CA,43,Gene L. Berkman,Libertarian,2.6,False,False,True
 1992,house,California,CA,44,Al McCandless,Republican,54.2,True,False,False
 1992,house,California,CA,44,Georgia Smith,Democratic,40.1,False,False,False
@@ -152,34 +214,116 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,California,CA,46,Richard G. Newhouse,Libertarian,8.8,False,False,True
 1992,house,California,CA,47,Christopher Cox,Republican,64.9,True,False,False
 1992,house,California,CA,47,John F. Anwiler,Democratic,30.3,False,False,False
+1992,house,California,CA,47,Maxine Bell Quirk,Peace and Freedom,4.8,False,False,False
 1992,house,California,CA,48,Ron Packard,Republican,61.1,True,False,False
 1992,house,California,CA,48,Mike Farber,Democratic,29.3,False,False,False
+1992,house,California,CA,48,Donna White,Peace and Freedom,5.8,False,False,False
 1992,house,California,CA,48,Ted Lowe,Libertarian,3.8,False,False,False
 1992,house,California,CA,49,Lynn Schenk,Democratic,51.1,True,False,True
 1992,house,California,CA,49,Judy Jarvis,Republican,42.7,False,False,True
 1992,house,California,CA,49,John Wallner,Libertarian,4.3,False,False,True
+1992,house,California,CA,49,Milton Zaslow,Peace and Freedom,1.9,False,False,True
 1992,house,California,CA,50,Bob Filner,Democratic,56.6,True,False,True
 1992,house,California,CA,50,Tony Valencia,Republican,28.9,False,False,True
 1992,house,California,CA,50,Barbara Hutchinson,Libertarian,11.3,False,False,True
+1992,house,California,CA,50,Roger Batchelder,Peace and Freedom,3.1,False,False,True
 1992,house,California,CA,51,Duke Cunningham,Republican,56.1,True,False,True
 1992,house,California,CA,51,Bea Herbert,Democratic,33.7,False,False,True
+1992,house,California,CA,51,Miriam E. Clark,Peace and Freedom,4.1,False,False,True
 1992,house,California,CA,51,Bill Holmes,Libertarian,4.1,False,False,True
 1992,house,California,CA,51,Richard Roe,Green,2.1,False,False,True
 1992,house,California,CA,52,Duncan L. Hunter,Republican,52.9,True,False,False
 1992,house,California,CA,52,Janet M. Gastil,Democratic,41.2,False,False,False
 1992,house,California,CA,52,Joseph B. Shea,Libertarian,3.3,False,False,False
+1992,house,California,CA,52,Dennis Gretsinger,Peace and Freedom,2.7,False,False,False
+1992,house,Colorado,CO,1,Pat Schroeder,Democratic,68.8,True,True,False
+1992,house,Colorado,CO,1,Raymond Diaz Aragon,Republican,31.2,False,False,False
+1992,house,Colorado,CO,2,David Skaggs,Democratic,60.7,True,True,False
+1992,house,Colorado,CO,2,Bryan Day,Republican,32.6,False,False,False
+1992,house,Colorado,CO,2,Vern Tharp,Grassroots,6.7,False,False,False
+1992,house,Colorado,CO,3,Scott McInnis,Republican,54.7,True,False,True
+1992,house,Colorado,CO,3,Mike Callihan,Democratic,43.7,False,False,True
+1992,house,Colorado,CO,3,Ki R. Nelson,"Populist Party (US, 1984)",1.6,False,False,True
+1992,house,Colorado,CO,4,Wayne Allard,Republican,57.8,True,True,False
+1992,house,Colorado,CO,4,Tom Redder,Democratic,42.2,False,False,False
+1992,house,Colorado,CO,5,Joel Hefley,Republican,71.1,True,True,False
+1992,house,Colorado,CO,5,Charles Oriez,Democratic,25.7,False,False,False
+1992,house,Colorado,CO,5,Keith Hamburger,Libertarian,3.2,False,False,False
+1992,house,Colorado,CO,6,Daniel Schaefer,Republican,60.9,True,True,False
+1992,house,Colorado,CO,6,Tom Kolbe,Democratic,39.1,False,False,False
 1992,house,Connecticut,CT,1,Barbara B. Kennelly,Democratic,67.1,True,True,False
 1992,house,Connecticut,CT,1,Philip Steele,Republican,30.6,False,False,False
+1992,house,Connecticut,CT,1,Gary Garneau,Concerned Citizens,2.3,False,False,False
 1992,house,Connecticut,CT,2,Sam Gejdenson,Democratic,50.8,True,True,False
 1992,house,Connecticut,CT,2,Edward W. Munster,Republican,49.2,False,False,False
 1992,house,Connecticut,CT,3,Rosa DeLauro,Democratic,65.7,True,True,False
 1992,house,Connecticut,CT,3,Tom Scott,Republican,34.3,False,False,False
 1992,house,Connecticut,CT,4,Chris Shays,Republican,67.3,True,True,False
 1992,house,Connecticut,CT,4,Dave Schropfer,Democratic,26.7,False,False,False
+1992,house,Connecticut,CT,4,Al Smith,A Connecticut,5.3,False,False,False
+1992,house,Connecticut,CT,4,Ronald Fried,Natural Law,0.7,False,False,False
 1992,house,Connecticut,CT,5,Gary Franks,Republican,43.6,True,True,False
 1992,house,Connecticut,CT,5,James Lawlor,Democratic,31.1,False,False,False
+1992,house,Connecticut,CT,5,Lynn Taborsak,A Connecticut,22.5,False,False,False
+1992,house,Connecticut,CT,5,Rosita Rodriguez,Concerned Citizens,2.1,False,False,False
 1992,house,Connecticut,CT,6,Nancy Johnson,Republican,69.7,True,True,False
 1992,house,Connecticut,CT,6,Eugene Slason,Democratic,25.2,False,False,False
+1992,house,Connecticut,CT,6,Daniel Plawecki,Concerned Citizens,4.0,False,False,False
+1992,house,Delaware,DE,AL,Mike Castle,Republican,55.4,True,False,True
+1992,house,Delaware,DE,AL,S. B. Woo,Democratic,42.5,False,False,True
+1992,house,Delaware,DE,AL,Peggy Schmitt,Libertarian,2.1,False,False,True
+1992,house,Florida,FL,1,Earl Hutto,Democratic,52.0,True,True,False
+1992,house,Florida,FL,1,Terry Ketchel,Republican,43.9,False,False,False
+1992,house,Florida,FL,1,Barbara Rodgers-Hendricks,Green,4.1,False,False,False
+1992,house,Florida,FL,2,Pete Peterson,Democratic,73.4,True,True,False
+1992,house,Florida,FL,2,Ray Wagner,Republican,26.5,False,False,False
+1992,house,Florida,FL,3,Corrine Brown,Democratic,59.3,True,False,True
+1992,house,Florida,FL,3,Don Weidner,Republican,40.7,False,False,True
+1992,house,Florida,FL,4,Tillie Fowler,Republican,56.7,True,False,True
+1992,house,Florida,FL,4,Mattox Hair,Democratic,43.2,False,False,True
+1992,house,Florida,FL,5,Karen Thurman,Democratic,49.2,True,False,True
+1992,house,Florida,FL,5,Tom Hogan,Republican,43.4,False,False,True
+1992,house,Florida,FL,5,Cindy Munkittrick,Independent,7.4,False,False,True
+1992,house,Florida,FL,6,Cliff Stearns,Republican,65.4,True,True,False
+1992,house,Florida,FL,6,Phil Denton,Democratic,34.6,False,False,False
+1992,house,Florida,FL,7,John Mica,Republican,56.4,True,False,True
+1992,house,Florida,FL,7,Dan Webster,Democratic,43.5,False,False,True
+1992,house,Florida,FL,8,Bill McCollum,Republican,68.5,True,False,False
+1992,house,Florida,FL,8,Chuck Kovaleski,Democratic,31.5,False,False,False
+1992,house,Florida,FL,9,Michael Bilirakis,Republican,58.9,True,True,False
+1992,house,Florida,FL,9,Cheryl Davis Knapp,Democratic,41.1,False,False,False
+1992,house,Florida,FL,10,Bill Young,Republican,56.6,True,False,False
+1992,house,Florida,FL,10,Karen Moffitt,Democratic,43.4,False,False,False
+1992,house,Florida,FL,11,Sam Gibbons,Democratic,52.8,True,False,False
+1992,house,Florida,FL,11,Mark Sharpe,Republican,40.6,False,False,False
+1992,house,Florida,FL,11,Joe De Minico,Independent,6.7,False,False,False
+1992,house,Florida,FL,12,Charles Canady,Republican,52.1,True,False,True
+1992,house,Florida,FL,12,Tom Mims,Democratic,47.9,False,False,True
+1992,house,Florida,FL,13,Dan Miller,Republican,57.8,True,False,True
+1992,house,Florida,FL,13,Rand Snell,Democratic,42.2,False,False,True
+1992,house,Florida,FL,14,Porter Goss,Republican,82.1,True,False,False
+1992,house,Florida,FL,14,James King,Independent,17.9,False,False,False
+1992,house,Florida,FL,15,Jim Bacchus,Democratic,50.7,True,False,False
+1992,house,Florida,FL,15,Bill Tolley,Republican,49.3,False,False,False
+1992,house,Florida,FL,16,Tom Lewis,Republican,60.8,True,False,False
+1992,house,Florida,FL,16,John Comerford,Democratic,39.2,False,False,False
+1992,house,Florida,FL,17,Carrie Meek,Democratic,100.0,True,False,True
+1992,house,Florida,FL,18,Ileana Ros-Lehtinen,Republican,66.8,True,True,False
+1992,house,Florida,FL,18,Magda Montiel Davis,Democratic,33.2,False,False,False
+1992,house,Florida,FL,19,Harry Johnston,Democratic,63.1,True,False,False
+1992,house,Florida,FL,19,Larry Metz,Republican,36.9,False,False,False
+1992,house,Florida,FL,20,Peter Deutsch,Democratic,55.1,True,False,True
+1992,house,Florida,FL,20,Beverly Kennedy,Republican,38.5,False,False,True
+1992,house,Florida,FL,20,James Blackburn,Independent,6.4,False,False,True
+1992,house,Florida,FL,21,Lincoln Díaz-Balart,Republican,100.0,True,False,True
+1992,house,Florida,FL,22,Clay Shaw,Republican,52.0,True,False,True
+1992,house,Florida,FL,22,Gwen Margolis,Democratic,37.1,False,False,True
+1992,house,Florida,FL,22,Richard Stephens,Independent,6.3,False,False,True
+1992,house,Florida,FL,22,Michael Petrie,Independent,2.6,False,False,True
+1992,house,Florida,FL,22,Bernard Anscher,Independent,2.1,False,False,True
+1992,house,Florida,FL,23,Alcee Hastings,Democratic,58.5,True,False,True
+1992,house,Florida,FL,23,Ed Fielding,Republican,31.1,False,False,True
+1992,house,Florida,FL,23,Al Woods,Independent,10.3,False,False,True
 1992,house,Georgia,GA,1,Jack Kingston,Republican,57.8,True,False,True
 1992,house,Georgia,GA,1,Barbara Christmas,Democratic,42.2,False,False,True
 1992,house,Georgia,GA,2,Sanford Bishop,Democratic,63.7,True,False,False
@@ -208,6 +352,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Hawaii,HI,2,Patsy Mink,Democratic,72.6,True,True,True
 1992,house,Hawaii,HI,2,Kamuela Price,Republican,22.1,False,False,True
 1992,house,Hawaii,HI,2,Jeff Mallan,Libertarian,5.2,False,False,True
+1992,house,Idaho,ID,1,Larry LaRocco,Democratic,58.1,True,True,False
+1992,house,Idaho,ID,1,Rachel Gilbert,Republican,37.4,False,False,False
+1992,house,Idaho,ID,1,John Abel,Independent,2.6,False,False,False
+1992,house,Idaho,ID,1,Henry Kinsey,Independent,1.9,False,False,False
+1992,house,Idaho,ID,2,Mike Crapo,Republican,60.8,True,False,True
+1992,house,Idaho,ID,2,J.D. Williams,Democratic,35.4,False,False,True
+1992,house,Idaho,ID,2,Steven Kauer,Independent,2.1,False,False,True
+1992,house,Idaho,ID,2,David William Mansfield,Independent,1.7,False,False,True
 1992,house,Illinois,IL,1,Bobby Rush,Democratic,82.8,True,False,False
 1992,house,Illinois,IL,1,Jay Walker,Republican,17.2,False,False,False
 1992,house,Illinois,IL,2,Mel Reynolds,Democratic,78.1,True,False,False
@@ -224,11 +376,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Illinois,IL,6,Barry W. Watkins,Democratic,34.5,False,False,False
 1992,house,Illinois,IL,7,Cardiss Collins,Democratic,81.1,True,True,False
 1992,house,Illinois,IL,7,Norman G. Boccio,Republican,15.7,False,False,False
+1992,house,Illinois,IL,7,Rose-Marie Love,Other,2.1,False,False,False
+1992,house,Illinois,IL,7,Geri Knoll McLauchlan,Natural Law,1.1,False,False,False
 1992,house,Illinois,IL,8,Phil Crane,Republican,55.7,True,False,False
 1992,house,Illinois,IL,8,Sheila A. Smith,Democratic,40.4,False,False,False
 1992,house,Illinois,IL,8,Joe M. Dillier,Independent,3.9,False,False,False
 1992,house,Illinois,IL,9,Sidney R. Yates,Democratic,68.0,True,True,True
 1992,house,Illinois,IL,9,Herb Sohn,Republican,27.0,False,False,True
+1992,house,Illinois,IL,9,Sheila A. Jones,Other,5.0,False,False,True
 1992,house,Illinois,IL,10,John Porter,Republican,64.5,True,True,False
 1992,house,Illinois,IL,10,Michael J. Kennedy,Democratic,35.5,False,False,False
 1992,house,Illinois,IL,11,George Sangmeister,Democratic,55.7,True,False,False
@@ -274,12 +429,15 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Indiana,IN,9,Michael E. Bailey,Republican,30.3,False,False,False
 1992,house,Indiana,IN,10,Andrew Jacobs Jr.,Democratic,64.0,True,True,False
 1992,house,Indiana,IN,10,János Horváth,Republican,35.0,False,False,False
+1992,house,Indiana,IN,10,Carolyn P. Sackett,New Alliance,1.0,False,False,False
 1992,house,Iowa,IA,1,Jim Leach,Republican,68.1,True,True,False
 1992,house,Iowa,IA,1,Jan J. Zonneveld,Democratic,31.2,False,False,False
 1992,house,Iowa,IA,2,Jim Nussle,Republican,50.2,True,True,False
 1992,house,Iowa,IA,2,David R. Nagle,Democratic,49.1,False,False,False
+1992,house,Iowa,IA,2,Albert W. Schoeman,Grassroots,0.7,False,False,False
 1992,house,Iowa,IA,3,Jim Ross Lightfoot,Republican,48.9,True,False,False
 1992,house,Iowa,IA,3,Elaine Baxter,Democratic,47.1,False,False,False
+1992,house,Iowa,IA,3,Larry Chroman,Natural Law,4.0,False,False,False
 1992,house,Iowa,IA,4,Neal Smith,Democratic,61.6,True,True,False
 1992,house,Iowa,IA,4,Paul Lunde,Republican,36.5,False,False,False
 1992,house,Iowa,IA,5,Fred Grandy,Republican,99.3,True,False,False
@@ -297,6 +455,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Kansas,KS,4,Seth L. Warren,Libertarian,6.2,False,False,False
 1992,house,Kentucky,KY,1,Thomas Barlow,Democratic,60.5,True,False,False
 1992,house,Kentucky,KY,1,Steve Hamrick,Republican,39.1,False,False,False
+1992,house,Kentucky,KY,1,Marvin Seat,Reform,0.4,False,False,False
 1992,house,Kentucky,KY,2,William Natcher,Democratic,61.4,True,True,False
 1992,house,Kentucky,KY,2,Bruce Bartley,Republican,38.6,False,False,False
 1992,house,Kentucky,KY,3,Romano Mazzoli,Democratic,52.7,True,True,False
@@ -307,6 +466,36 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Kentucky,KY,5,John Doug Hays,Democratic,45.4,False,False,True
 1992,house,Kentucky,KY,6,Scotty Baesler,Democratic,60.7,True,False,True
 1992,house,Kentucky,KY,6,Charles Ellinger,Republican,39.3,False,False,True
+1992,house,Louisiana,LA,1,Bob Livingston,Republican,72.7,True,True,False
+1992,house,Louisiana,LA,1,Anne Thompson,Republican,10.1,False,False,False
+1992,house,Louisiana,LA,1,Vincent Bruno,Republican,6.8,False,False,False
+1992,house,Louisiana,LA,1,Richie Martin,Republican,4.2,False,False,False
+1992,house,Louisiana,LA,1,Jules Hillery,Independent,3.9,False,False,False
+1992,house,Louisiana,LA,1,Greg Reinhard,Independent,2.3,False,False,False
+1992,house,Louisiana,LA,2,William J. Jefferson,Democratic,73.4,True,True,False
+1992,house,Louisiana,LA,2,Wilma Knox Irvin,Democratic,15.5,False,False,False
+1992,house,Louisiana,LA,2,Roger C. Johnson,Independent,11.1,False,False,False
+1992,house,Louisiana,LA,3,Billy Tauzin,Democratic,81.7,True,True,False
+1992,house,Louisiana,LA,3,Paul Boynton,Republican,18.3,False,False,False
+1992,house,Louisiana,LA,4,Cleo Fields,Democratic,47.8,True,False,True
+1992,house,Louisiana,LA,4,Charles Jones,Democratic,14.0,False,False,True
+1992,house,Louisiana,LA,4,Joe Shyne,Democratic,10.8,False,False,True
+1992,house,Louisiana,LA,4,Faye Williams,Democratic,8.6,False,False,True
+1992,house,Louisiana,LA,4,Steve Myers,Republican,7.8,False,False,True
+1992,house,Louisiana,LA,4,Emile Ventre,Republican,6.9,False,False,True
+1992,house,Louisiana,LA,4,James Ross,Democratic,2.1,False,False,True
+1992,house,Louisiana,LA,4,Ralph Hall,Democratic,2.0,False,False,True
+1992,house,Louisiana,LA,5,Jim McCrery,Republican,44.1,True,False,False
+1992,house,Louisiana,LA,5,Jerry Huckaby,Democratic,29.4,False,True,False
+1992,house,Louisiana,LA,5,Robert Thompson,Democratic,22.4,False,False,False
+1992,house,Louisiana,LA,5,Nota Knox,Independent,2.1,False,False,False
+1992,house,Louisiana,LA,5,Donal Milton,Republican,1.9,False,False,False
+1992,house,Louisiana,LA,6,Richard Baker,Republican,33.1,True,True,False
+1992,house,Louisiana,LA,6,Clyde C. Holloway,Republican,36.7,False,False,False
+1992,house,Louisiana,LA,6,Ned Randolph,Democratic,30.2,False,False,False
+1992,house,Louisiana,LA,7,Jimmy Hayes,Democratic,73.0,True,True,False
+1992,house,Louisiana,LA,7,Fredric Hayes,Republican,20.7,False,False,False
+1992,house,Louisiana,LA,7,Bob Nain,Republican,6.2,False,False,False
 1992,house,Maine,ME,1,Thomas Andrews,Democratic,65.0,True,True,False
 1992,house,Maine,ME,1,Linda Bean,Republican,35.0,False,False,False
 1992,house,Maine,ME,2,Olympia Snowe,Republican,49.1,True,True,False
@@ -333,15 +522,18 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Massachusetts,MA,1,Patrick Larkin,Republican,43.4,False,False,False
 1992,house,Massachusetts,MA,1,Louis R. Godena,Independent,2.7,False,False,False
 1992,house,Massachusetts,MA,1,Dennis M. Kelly,Independent,1.7,False,False,False
+1992,house,Massachusetts,MA,1,Jeffrey W. Rebello,LaRouche movement,0.6,False,False,False
 1992,house,Massachusetts,MA,2,Richard Neal,Democratic,53.1,True,True,False
 1992,house,Massachusetts,MA,2,Anthony W. Ravosa,Republican,31.1,False,False,False
 1992,house,Massachusetts,MA,2,Thomas R. Sheehan,Independent,15.8,False,False,False
 1992,house,Massachusetts,MA,3,Peter Blute,Republican,50.4,True,False,False
 1992,house,Massachusetts,MA,3,Joseph D. Early,Democratic,44.3,False,True,False
 1992,house,Massachusetts,MA,3,Leonard J. Umina,Independent,3.7,False,False,False
+1992,house,Massachusetts,MA,3,Michael T. Moore,Natural Law,1.6,False,False,False
 1992,house,Massachusetts,MA,4,Barney Frank,Democratic,67.7,True,True,False
 1992,house,Massachusetts,MA,4,Edward J. McCormick III,Republican,26.2,False,False,False
 1992,house,Massachusetts,MA,4,Luke Lumina,Independent,5.1,False,False,False
+1992,house,Massachusetts,MA,4,Dennis J. Ingalls,LaRouche movement,1.0,False,False,False
 1992,house,Massachusetts,MA,5,Marty Meehan,Democratic,52.2,True,False,False
 1992,house,Massachusetts,MA,5,Paul W. Cronin,Republican,37.5,False,False,False
 1992,house,Massachusetts,MA,5,Mary Farinelli,Independent,7.4,False,False,False
@@ -353,7 +545,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Massachusetts,MA,7,Robert B. Antonelli,Independent,10.1,False,False,False
 1992,house,Massachusetts,MA,8,Joseph P. Kennedy II,Democratic,83.1,True,True,False
 1992,house,Massachusetts,MA,8,Alice Harriett Nakash,Independent,16.8,False,False,False
-1992,house,Massachusetts,MA,9,Joe Moakley,Democratic,69.2,False,True,True
+1992,house,Massachusetts,MA,9,Joe Moakley,Democratic,69.2,True,True,True
 1992,house,Massachusetts,MA,9,Martin D. Conboy,Republican,21.4,False,False,True
 1992,house,Massachusetts,MA,9,Lawrence C. Mackin,Independent,6.2,False,False,True
 1992,house,Massachusetts,MA,9,Robert W. Horan,Independent,3.2,False,False,True
@@ -361,19 +553,24 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Massachusetts,MA,10,Daniel W. Daly,Republican,24.4,False,False,False
 1992,house,Massachusetts,MA,10,Jon L. Bryan,Independent,12.6,False,False,False
 1992,house,Massachusetts,MA,10,Michael P. Umina,Independent,1.9,False,False,False
+1992,house,Massachusetts,MA,10,Robert W. Knapp,LaRouche movement,0.4,False,False,False
 1992,house,Michigan,MI,1,Bart Stupak,Democratic,53.9,True,False,True
 1992,house,Michigan,MI,1,Philip Ruppe,Republican,43.6,False,False,True
 1992,house,Michigan,MI,1,Gerald Aylott,Libertarian,1.5,False,False,True
+1992,house,Michigan,MI,1,Lyman Clark,Natural Law,1.0,False,False,True
 1992,house,Michigan,MI,2,Pete Hoekstra,Republican,63.0,True,False,False
 1992,house,Michigan,MI,2,John H. Miltner,Democratic,35.0,False,False,False
 1992,house,Michigan,MI,2,Dick Jacobs,Libertarian,2.0,False,False,False
 1992,house,Michigan,MI,3,Paul B. Henry,Republican,61.3,True,False,False
 1992,house,Michigan,MI,3,Carol S. Kooistra,Democratic,38.2,False,False,False
 1992,house,Michigan,MI,3,Richard Whitelock,Libertarian,1.2,False,False,False
+1992,house,Michigan,MI,3,Susan H. Normandin,Natural Law,1.2,False,False,False
 1992,house,Michigan,MI,4,Dave Camp,Republican,62.5,True,False,False
 1992,house,Michigan,MI,4,Lisa A. Donaldson,Democratic,34.8,False,False,False
+1992,house,Michigan,MI,4,Joan Dennison,US Taxpayers,1.3,False,False,False
 1992,house,Michigan,MI,5,James Barcia,Democratic,60.3,True,False,True
 1992,house,Michigan,MI,5,Keith Muxlow,Republican,38.0,False,False,True
+1992,house,Michigan,MI,5,Lloyd Clarke,Workers World,1.7,False,False,True
 1992,house,Michigan,MI,6,Fred Upton,Republican,61.8,True,False,True
 1992,house,Michigan,MI,6,Andy Davis,Democratic,38.2,False,False,True
 1992,house,Michigan,MI,7,Nick Smith,Republican,87.6,True,False,True
@@ -390,37 +587,59 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Michigan,MI,11,Joe Knollenberg,Republican,57.6,True,False,True
 1992,house,Michigan,MI,11,Walter Briggs,Democratic,40.2,False,False,True
 1992,house,Michigan,MI,11,Brian Richard Wright,Libertarian,1.4,False,False,True
-1992,house,Michigan,MI,12,Sander Levin,Democratic,52.6,False,False,True
+1992,house,Michigan,MI,11,Henry Ogden Clark,Natural Law,0.8,False,False,True
+1992,house,Michigan,MI,12,Sander Levin,Democratic,52.6,True,False,True
 1992,house,Michigan,MI,12,John Pappageorge,Republican,45.7,False,False,True
 1992,house,Michigan,MI,12,Charles Hahn,Libertarian,1.1,False,False,True
+1992,house,Michigan,MI,12,R. W. Montgomery,Natural Law,0.8,False,False,True
 1992,house,Michigan,MI,13,William D. Ford,Democratic,51.9,True,False,False
 1992,house,Michigan,MI,13,R. Robert Geake,Republican,42.8,False,False,False
 1992,house,Michigan,MI,13,Randall F. Roe,Independent,3.5,False,False,False
+1992,house,Michigan,MI,13,Paul Steven Jensen,US Taxpayers,1.3,False,False,False
+1992,house,Michigan,MI,13,Larry Roberts,Workers League,0.5,False,False,False
 1992,house,Michigan,MI,14,John Conyers,Democratic,82.4,True,False,False
 1992,house,Michigan,MI,14,John W. Gordon,Republican,15.9,False,False,False
+1992,house,Michigan,MI,14,Richard R. Miller,Natural Law,1.0,False,False,False
+1992,house,Michigan,MI,14,Dartagnan Collier,Workers League,0.6,False,False,False
 1992,house,Michigan,MI,15,Barbara-Rose Collins,Democratic,80.5,True,False,False
 1992,house,Michigan,MI,15,Charles C. Vincent,Republican,17.2,False,False,False
 1992,house,Michigan,MI,15,James E. Harris Jr.,Independent,1.5,False,False,False
 1992,house,Michigan,MI,15,Jane Walker Meade,Libertarian,0.8,False,False,False
 1992,house,Michigan,MI,16,John Dingell,Democratic,65.1,True,True,False
 1992,house,Michigan,MI,16,Frank Beaumont,Republican,31.4,False,False,False
+1992,house,Michigan,MI,16,Max J. Siegel,US Taxpayers,1.7,False,False,False
 1992,house,Minnesota,MN,1,Tim Penny,DFL,73.9,True,True,False
+1992,house,Minnesota,MN,1,Tim Droogsma,Republican,25.9,False,False,False
 1992,house,Minnesota,MN,2,David Minge,DFL,47.9,True,False,True
 1992,house,Minnesota,MN,2,Cal Ludeman,Republican,47.4,False,False,True
 1992,house,Minnesota,MN,2,Stan Bentz,Independent,4.4,False,False,True
 1992,house,Minnesota,MN,3,Jim Ramstad,Republican,63.8,True,True,False
 1992,house,Minnesota,MN,3,Paul Mandell,DFL,33.3,False,False,False
+1992,house,Minnesota,MN,3,Dwight Fellman,Grassroots,2.9,False,False,False
 1992,house,Minnesota,MN,4,Bruce Vento,DFL,57.6,True,True,False
+1992,house,Minnesota,MN,4,Ian Maitland,Republican,37.6,False,False,False
 1992,house,Minnesota,MN,4,James Willess,Independent,2.4,False,False,False
+1992,house,Minnesota,MN,4,Dan Vacek,Grassroots,1.6,False,False,False
+1992,house,Minnesota,MN,4,Lynn M. Johnson,Natural Law,1.3,False,False,False
+1992,house,Minnesota,MN,4,Jo Rothenberg,Socialist Workers,0.4,False,False,False
 1992,house,Minnesota,MN,5,Martin Olav Sabo,DFL,63.0,True,True,False
+1992,house,Minnesota,MN,5,Stephen Moriarty,Republican,27.9,False,False,False
+1992,house,Minnesota,MN,5,Russell Bentley,Grassroots,2.5,False,False,False
+1992,house,Minnesota,MN,5,Sandra Coleman,New Alliance,2.1,False,False,False
+1992,house,Minnesota,MN,5,Mary Mellen,Natural Law,2.0,False,False,False
 1992,house,Minnesota,MN,5,Glenn Mesaros,Independent,1.7,False,False,False
+1992,house,Minnesota,MN,5,Jo Rothenberg,Socialist Workers,0.7,False,False,False
 1992,house,Minnesota,MN,6,Rod Grams,Republican,44.4,True,False,False
 1992,house,Minnesota,MN,6,Gerry Sikorski,DFL,33.2,False,True,False
 1992,house,Minnesota,MN,6,Dean Barkley,Independence Party of Minnesota,16.1,False,False,False
 1992,house,Minnesota,MN,6,James H. Peterson,Independent,5.5,False,False,False
+1992,house,Minnesota,MN,6,Tom Firnstahl,Natural Law,0.8,False,False,False
 1992,house,Minnesota,MN,7,Collin Peterson,DFL,50.4,True,True,False
 1992,house,Minnesota,MN,7,Bernie Omann,Republican,49.1,False,False,False
 1992,house,Minnesota,MN,8,Jim Oberstar,DFL,59.0,True,True,False
+1992,house,Minnesota,MN,8,Phil Herwig,Republican,29.6,False,False,False
+1992,house,Minnesota,MN,8,Harry Robb Weltry,Independent,8.0,False,False,False
+1992,house,Minnesota,MN,8,Floyd Henspeter,Term Limits,3.0,False,False,False
 1992,house,Mississippi,MS,1,Jamie Whitten,Democratic,59.5,True,True,False
 1992,house,Mississippi,MS,1,Clyde E. Whitaker,Republican,40.5,False,False,False
 1992,house,Mississippi,MS,2,Mike Espy,Democratic,76.4,True,True,False
@@ -461,21 +680,32 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Montana,MT,AL,Pat Williams,Democratic,50.4,True,False,False
 1992,house,Montana,MT,AL,Ron Marlenee,Republican,47.0,False,False,False
 1992,house,Montana,MT,AL,Jerome Wilverding,Libertarian,2.6,False,False,False
+1992,house,Nebraska,NE,1,Doug Bereuter,Republican,59.7,True,True,False
+1992,house,Nebraska,NE,1,Gerry Finnegan,Democratic,40.3,False,False,False
+1992,house,Nebraska,NE,2,Peter Hoagland,Democratic,51.2,True,True,False
+1992,house,Nebraska,NE,2,Ronald L. Staskiewicz,Republican,48.8,False,False,False
+1992,house,Nebraska,NE,3,Bill Barrett,Republican,71.7,True,True,False
+1992,house,Nebraska,NE,3,Lowell Fisher,Democratic,28.3,False,False,False
 1992,house,Nevada,NV,1,James Bilbray,Democratic,57.9,True,True,False
 1992,house,Nevada,NV,1,Coy Pettyjohn,Republican,38.0,False,False,False
 1992,house,Nevada,NV,1,Scott A. Kjar,Libertarian,4.1,False,False,False
 1992,house,Nevada,NV,2,Barbara Vucanovich,Republican,47.9,True,True,False
 1992,house,Nevada,NV,2,Pete Sferrazza,Democratic,43.3,False,False,False
+1992,house,Nevada,NV,2,Daniel Hansen,Independent American,4.9,False,False,False
 1992,house,Nevada,NV,2,Dan Becan,Libertarian,2.8,False,False,False
+1992,house,Nevada,NV,2,Don Golden,Populist,1.1,False,False,False
 1992,house,New Hampshire,NH,1,Bill Zeliff,Republican,53.2,True,True,False
 1992,house,New Hampshire,NH,1,Bob Preston,Democratic,42.5,False,False,False
 1992,house,New Hampshire,NH,1,Knox Bickford,Libertarian,2.2,False,False,False
 1992,house,New Hampshire,NH,1,Richard P. Bosa,Independent,1.4,False,False,False
+1992,house,New Hampshire,NH,1,Linda Spitzfaden,Natural Law,0.8,False,False,False
 1992,house,New Hampshire,NH,2,Richard N. Swett,Democratic,61.7,True,True,False
 1992,house,New Hampshire,NH,2,Bill Hatch,Republican,35.7,False,False,False
 1992,house,New Hampshire,NH,2,John A. Lewicke,Libertarian,2.3,False,False,False
+1992,house,New Hampshire,NH,2,James J. Bingham,Natural Law,0.3,False,False,False
 1992,house,New Jersey,NJ,1,Rob Andrews,Democratic,67.3,True,True,False
 1992,house,New Jersey,NJ,1,Lee Solomon,Republican,28.6,False,False,False
+1992,house,New Jersey,NJ,1,James E. Smith,Independent,1.6,False,False,False
 1992,house,New Jersey,NJ,1,Jerry Zeldin,Libertarian,1.2,False,False,False
 1992,house,New Jersey,NJ,2,William J. Hughes,Democratic,55.9,True,True,False
 1992,house,New Jersey,NJ,2,Frank LoBiondo,Republican,41.5,False,False,False
@@ -516,6 +746,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,New Jersey,NJ,13,Fred J. Theemling Jr.,Republican,30.6,False,False,True
 1992,house,New Jersey,NJ,13,Joseph D. Bonacci,Independent,1.6,False,False,True
 1992,house,New Jersey,NJ,13,Len Flynn,Libertarian,1.1,False,False,True
+1992,house,New Jersey,NJ,13,John E. Rummel,Communist,1.1,False,False,True
 1992,house,New Mexico,NM,1,Steven Schiff,Republican,62.6,True,True,False
 1992,house,New Mexico,NM,1,Robert J. Aragon,Democratic,37.3,False,False,False
 1992,house,New Mexico,NM,2,Joe Skeen,Republican,56.4,True,True,False
@@ -529,59 +760,90 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,New York,NY,2,Thomas Downey,Democratic,46.8,False,True,False
 1992,house,New York,NY,3,Peter T. King,Republican,49.6,True,False,True
 1992,house,New York,NY,3,Stephen Orlins,Democratic,46.5,False,False,True
+1992,house,New York,NY,3,Louis P. Roccanova,Right to Life,2.7,False,False,True
+1992,house,New York,NY,3,Ben-Zion J. Heyman,Liberal Party (New York),1.2,False,False,True
 1992,house,New York,NY,4,David A. Levy,Republican,50.2,True,False,True
 1992,house,New York,NY,4,Philip Schiliro,Democratic,45.5,False,False,True
+1992,house,New York,NY,4,Vincent P. Garbitelli,Right to Life,4.3,False,False,True
 1992,house,New York,NY,5,Gary Ackerman,Democratic,52.4,True,False,True
 1992,house,New York,NY,5,Allan E. Binder,Republican,45.0,False,False,True
+1992,house,New York,NY,5,Andrew J. Duff,Right to Life,2.6,False,False,True
 1992,house,New York,NY,6,Floyd Flake,Democratic,81.0,True,True,False
 1992,house,New York,NY,6,Dianand D. Bhagwandin,Republican,19.0,False,False,False
 1992,house,New York,NY,7,Thomas Manton,Democratic,57.0,True,False,False
 1992,house,New York,NY,7,Dennis C. Shea,Republican,44.0,False,False,False
 1992,house,New York,NY,8,Jerry Nadler,Democratic,81.2,True,False,True
 1992,house,New York,NY,8,David L. Askren,Republican,15.0,False,False,True
+1992,house,New York,NY,8,Margaret V. Byrnes,Conservative,3.0,False,False,True
+1992,house,New York,NY,8,Arthur R. Block,New Alliance,0.7,False,False,True
 1992,house,New York,NY,9,Chuck Schumer,Democratic,88.6,True,False,False
+1992,house,New York,NY,9,Alice Gaffney,Conservative,11.4,False,False,False
 1992,house,New York,NY,10,Edolphus Towns,Democratic,95.8,True,False,False
+1992,house,New York,NY,10,Owen Augustin,Conservative,4.2,False,False,False
 1992,house,New York,NY,11,Major Owens,Democratic,93.6,True,False,False
+1992,house,New York,NY,11,Michael Gaffney,Conservative,5.0,False,False,False
+1992,house,New York,NY,11,Ernest N. Foster,New Alliance,1.4,False,False,False
 1992,house,New York,NY,12,Nydia Velázquez,Democratic,76.5,True,False,False
 1992,house,New York,NY,12,Angel Diaz,Republican,20.5,False,False,False
+1992,house,New York,NY,12,Ruben Franco,Liberal Party (New York),2.1,False,False,False
+1992,house,New York,NY,12,Rafael Mendez,Natural Law,0.8,False,False,False
 1992,house,New York,NY,13,Susan Molinari,Republican,56.1,True,False,False
 1992,house,New York,NY,13,Sal Albanese,Democratic,38.2,False,False,False
+1992,house,New York,NY,13,Kathleen M. Murphy,Right to Life,5.6,False,False,False
 1992,house,New York,NY,14,Carolyn Maloney,Democratic,50.4,True,False,False
 1992,house,New York,NY,14,Bill Green,Republican,48.2,False,False,False
 1992,house,New York,NY,14,Abraham J. Hirschfeld,Independent,1.5,False,False,False
 1992,house,New York,NY,15,Charles Rangel,Democratic,94.9,True,False,False
+1992,house,New York,NY,15,Jose A. Suero,Conservative,3.9,False,False,False
+1992,house,New York,NY,15,Jessie Fields,New Alliance,1.2,False,False,False
 1992,house,New York,NY,16,José E. Serrano,Democratic,91.4,True,False,False
 1992,house,New York,NY,16,Michael Walters,Republican,8.6,False,False,False
 1992,house,New York,NY,17,Eliot Engel,Democratic,80.1,True,False,False
 1992,house,New York,NY,17,Martin Richman,Republican,13.5,False,False,False
+1992,house,New York,NY,17,Kevin Brawley,Conservative,2.6,False,False,False
+1992,house,New York,NY,17,Martin J. O'Grady,Right to Life,2.5,False,False,False
+1992,house,New York,NY,17,Nana LaLuz,Natural Law,1.3,False,False,False
 1992,house,New York,NY,18,Nita Lowey,Democratic,55.6,True,False,False
 1992,house,New York,NY,18,Joseph J. DioGuardi,Republican,44.5,False,False,False
 1992,house,New York,NY,19,Hamilton Fish IV,Republican,60.1,True,False,False
 1992,house,New York,NY,19,Neil P. McCarthy,Democratic,39.9,False,False,False
 1992,house,New York,NY,20,Benjamin Gilman,Republican,66.1,True,False,False
 1992,house,New York,NY,20,Jonathan L. Levine,Democratic,29.4,False,False,False
+1992,house,New York,NY,20,Robert F. Garrison,Right to Life,4.5,False,False,False
 1992,house,New York,NY,21,Michael McNulty,Democratic,62.7,True,False,False
 1992,house,New York,NY,21,Nancy Norman,Republican,34.4,False,False,False
+1992,house,New York,NY,21,William J. Donnelly,Right to Life,2.9,False,False,False
 1992,house,New York,NY,22,Gerald Solomon,Republican,65.4,True,False,False
 1992,house,New York,NY,22,David Roberts,Democratic,34.6,False,False,False
 1992,house,New York,NY,23,Sherwood Boehlert,Republican,63.6,True,False,False
 1992,house,New York,NY,23,Paula DiPerna,Democratic,28.2,False,False,False
+1992,house,New York,NY,23,Randall A. Terry,Right to Life,4.0,False,False,False
+1992,house,New York,NY,23,Geoffrey P. Grace,Conservative,3.7,False,False,False
+1992,house,New York,NY,23,Ted F. Janowski,Natural Law,0.6,False,False,False
 1992,house,New York,NY,24,John M. McHugh,Republican,60.8,True,False,True
 1992,house,New York,NY,24,Margaret M. Ravenscroft,Democratic,23.7,False,False,True
+1992,house,New York,NY,24,Morrison J. Hosley Jr.,Conservative,13.3,False,False,True
+1992,house,New York,NY,24,Stephen Burke,Liberal Party (New York),2.2,False,False,True
 1992,house,New York,NY,25,James T. Walsh,Republican,55.7,True,False,False
 1992,house,New York,NY,25,Rhea Jezer,Democratic,44.3,False,False,False
 1992,house,New York,NY,26,Maurice Hinchey,Democratic,50.4,True,False,True
 1992,house,New York,NY,26,Bob Moppert,Republican,46.7,False,False,True
+1992,house,New York,NY,26,Mary C. Dixon,Right to Life,2.9,False,False,True
 1992,house,New York,NY,27,Bill Paxon,Republican,63.5,True,False,False
 1992,house,New York,NY,27,W. Douglas Call,Democratic,36.5,False,False,False
 1992,house,New York,NY,28,Louise Slaughter,Democratic,55.2,True,False,True
 1992,house,New York,NY,28,William P. Polito,Republican,44.0,False,False,True
+1992,house,New York,NY,28,Keith R. T. Perez,Other,0.7,False,False,True
 1992,house,New York,NY,29,John LaFalce,Democratic,54.5,True,False,False
 1992,house,New York,NY,29,William E. Miller Jr.,Republican,41.6,False,False,False
+1992,house,New York,NY,29,Kenneth J. Kowalski,Right to Life,3.1,False,False,False
+1992,house,New York,NY,29,John A. Basar Jr.,Other,0.8,False,False,False
 1992,house,New York,NY,30,Jack Quinn,Republican,51.7,True,False,True
 1992,house,New York,NY,30,Dennis T. Gorski,Democratic,45.8,False,False,True
+1992,house,New York,NY,30,Mary F. Refermat,Right to Life,2.5,False,False,True
 1992,house,New York,NY,31,Amo Houghton,Republican,70.6,True,False,False
 1992,house,New York,NY,31,Joseph P. Leahey,Democratic,24.4,False,False,False
+1992,house,New York,NY,31,Gretchen S. McManus,Right to Life,5.1,False,False,False
 1992,house,North Carolina,NC,1,Eva Clayton,Democratic,67.0,True,False,True
 1992,house,North Carolina,NC,1,Ted Tyler,Republican,31.4,False,False,True
 1992,house,North Carolina,NC,1,C. Barry Williams,Libertarian,1.6,False,False,True
@@ -659,6 +921,19 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Ohio,OH,18,Bill Ress,Republican,31.7,False,False,False
 1992,house,Ohio,OH,19,Eric Fingerhut,Democratic,52.6,True,False,True
 1992,house,Ohio,OH,19,Robert A. Gardner,Republican,47.4,False,False,True
+1992,house,Oklahoma,OK,1,Jim Inhofe,Republican,52.8,True,True,False
+1992,house,Oklahoma,OK,1,John Selph,Democratic,47.2,False,False,False
+1992,house,Oklahoma,OK,2,Mike Synar,Democratic,55.5,True,True,False
+1992,house,Oklahoma,OK,2,Jerry Hill,Republican,41.1,False,False,False
+1992,house,Oklahoma,OK,2,William Vardeman,Independent,3.4,False,False,False
+1992,house,Oklahoma,OK,3,Bill Brewster,Democratic,75.1,True,True,False
+1992,house,Oklahoma,OK,3,Robert W. Stokes,Republican,24.9,False,False,False
+1992,house,Oklahoma,OK,4,Dave McCurdy,Democratic,70.7,True,True,False
+1992,house,Oklahoma,OK,4,Howard Bell,Republican,29.3,False,False,False
+1992,house,Oklahoma,OK,5,Ernest Istook,Republican,53.4,True,False,False
+1992,house,Oklahoma,OK,5,Laurie Williams,Democratic,46.6,False,False,False
+1992,house,Oklahoma,OK,6,Glenn English,Democratic,67.8,True,True,False
+1992,house,Oklahoma,OK,6,Bob Anthony,Republican,32.2,False,False,False
 1992,house,Oregon,OR,1,Elizabeth Furse,Democratic,52.5,True,False,True
 1992,house,Oregon,OR,1,Tony Meeker,Republican,48.4,False,False,True
 1992,house,Oregon,OR,2,Bob Smith,Republican,67.1,True,True,False
@@ -674,6 +949,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Pennsylvania,PA,1,Craig Snyder,Republican,19.1,False,False,False
 1992,house,Pennsylvania,PA,2,Lucien Blackwell,Democratic,76.8,True,True,False
 1992,house,Pennsylvania,PA,2,Larry Hollin,Republican,22.4,False,False,False
+1992,house,Pennsylvania,PA,2,Mark Wyatt,Socialist Workers,0.8,False,False,False
 1992,house,Pennsylvania,PA,3,Robert Borski,Democratic,58.9,True,True,False
 1992,house,Pennsylvania,PA,3,Charles F. Dougherty,Republican,39.1,False,False,False
 1992,house,Pennsylvania,PA,3,John J. Hughes,Independent,2.0,False,False,False
@@ -685,6 +961,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Pennsylvania,PA,6,John E. Jones III,Republican,47.9,False,False,True
 1992,house,Pennsylvania,PA,7,Curt Weldon,Republican,66.0,True,True,True
 1992,house,Pennsylvania,PA,7,Frank Daly,Democratic,33.5,False,False,True
+1992,house,Pennsylvania,PA,7,William Alan Hickman,Natural Law,0.6,False,False,True
 1992,house,Pennsylvania,PA,8,Jim Greenwood,Republican,51.9,True,False,False
 1992,house,Pennsylvania,PA,8,Peter H. Kostmayer,Democratic,45.7,False,True,False
 1992,house,Pennsylvania,PA,8,William H. Magerman,Independent,2.3,False,False,False
@@ -700,12 +977,14 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Pennsylvania,PA,14,Byron W. King,Republican,26.8,False,False,False
 1992,house,Pennsylvania,PA,15,Paul McHale,Democratic,52.2,True,False,False
 1992,house,Pennsylvania,PA,15,Donald L. Ritter,Republican,46.7,False,True,False
+1992,house,Pennsylvania,PA,15,Eugene A. Nau,Natural Law,1.1,False,False,False
 1992,house,Pennsylvania,PA,16,Bob Walker,Republican,64.8,True,True,False
 1992,house,Pennsylvania,PA,16,Robert Peters,Democratic,35.2,False,False,False
 1992,house,Pennsylvania,PA,17,George Gekas,Republican,69.5,True,True,False
 1992,house,Pennsylvania,PA,17,Bill Sturges,Democratic,30.5,False,False,False
 1992,house,Pennsylvania,PA,18,Rick Santorum,Republican,60.1,True,True,False
 1992,house,Pennsylvania,PA,18,Frank Pecora,Democratic,38.0,False,False,False
+1992,house,Pennsylvania,PA,18,Denise W. Edwards,Other,1.9,False,False,False
 1992,house,Pennsylvania,PA,19,Bill Goodling,Republican,45.3,True,True,False
 1992,house,Pennsylvania,PA,19,Paul V. Kilker,Democratic,34.4,False,False,False
 1992,house,Pennsylvania,PA,19,Thomas M. Humbert,Independent,20.3,False,False,False
@@ -713,8 +992,17 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Pennsylvania,PA,20,Bill Townsend,Republican,49.3,False,False,True
 1992,house,Pennsylvania,PA,21,Tom Ridge,Republican,68.0,True,True,False
 1992,house,Pennsylvania,PA,21,John C. Harkins,Democratic,32.0,False,False,False
+1992,house,Rhode Island,RI,1,Ronald Machtley,Republican,70.0,True,True,False
+1992,house,Rhode Island,RI,1,David Carlin,Democratic,24.8,False,False,False
+1992,house,Rhode Island,RI,1,Frederick Dick,Independent,3.1,False,False,False
+1992,house,Rhode Island,RI,1,Norman Jacques,Independent,2.1,False,False,False
+1992,house,Rhode Island,RI,2,Jack Reed,Democratic,70.7,True,True,False
+1992,house,Rhode Island,RI,2,James Bell,Republican,24.4,False,False,False
+1992,house,Rhode Island,RI,2,Thomas Ricci,Independent,3.3,False,False,False
+1992,house,Rhode Island,RI,2,John Turnbull,Independent,1.6,False,False,False
 1992,house,South Carolina,SC,1,Arthur Ravenel Jr.,Republican,66.1,True,True,False
 1992,house,South Carolina,SC,1,Bill Oberst Jr.,Democratic,32.5,False,False,False
+1992,house,South Carolina,SC,1,John R. Peeples,American,1.4,False,False,False
 1992,house,South Carolina,SC,2,Floyd Spence,Republican,87.7,True,True,False
 1992,house,South Carolina,SC,2,Geb Sommer,Libertarian,12.3,False,False,False
 1992,house,South Carolina,SC,3,Butler Derrick,Democratic,61.2,True,True,False
@@ -840,6 +1128,7 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Utah,UT,2,Karen Shepherd,Democratic,50.5,True,False,True
 1992,house,Utah,UT,2,Enid Greene,Republican,46.8,False,False,True
 1992,house,Utah,UT,2,Peter Crane,Independent,2.5,False,False,True
+1992,house,Utah,UT,2,Eileen Koschak,Socialist Workers,0.3,False,False,True
 1992,house,Utah,UT,3,Bill Orton,Democratic,58.9,True,True,False
 1992,house,Utah,UT,3,Richard Harrington,Republican,36.7,False,False,False
 1992,house,Utah,UT,3,Wayne Hill,Independent,2.5,False,False,False
@@ -847,6 +1136,8 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Vermont,VT,AL,Tim Philbin,Republican,30.9,False,False,False
 1992,house,Vermont,VT,AL,Lewis Young,Democratic,7.9,False,False,False
 1992,house,Vermont,VT,AL,Peter Diamondstone,Liberty Union,1.3,False,False,False
+1992,house,Vermont,VT,AL,John Dewey,Natural Law,1.3,False,False,False
+1992,house,Vermont,VT,AL,Douglas Miller,LaRouche,0.7,False,False,False
 1992,house,Virginia,VA,1,Herb Bateman,Republican,57.6,True,True,False
 1992,house,Virginia,VA,1,Andrew Fox,Democratic,38.7,False,False,False
 1992,house,Virginia,VA,1,Donald Macleay,Independent,3.7,False,False,False
@@ -874,11 +1165,64 @@ year,level,state,state_code,district,candidate,party,percentage,winner,incumbent
 1992,house,Virginia,VA,11,Henry Butler,Republican,45.2,False,False,True
 1992,house,Virginia,VA,11,Art Narro,Independent,2.9,False,False,True
 1992,house,Virginia,VA,11,Perry J. Mitchell,Independent,1.8,False,False,True
+1992,house,Washington,WA,1,Maria Cantwell,Democratic,54.9,True,False,True
+1992,house,Washington,WA,1,Gary Nelson,Republican,42.0,False,False,True
+1992,house,Washington,WA,1,Patrick L. Ruckert,Independent,1.6,False,False,True
+1992,house,Washington,WA,1,Anne Fleming,Natural Law,1.6,False,False,True
+1992,house,Washington,WA,2,Al Swift,Democratic,52.1,True,True,False
+1992,house,Washington,WA,2,Jack Metcalf,Republican,42.0,False,False,False
+1992,house,Washington,WA,2,Robin Dexter,Independent,3.4,False,False,False
+1992,house,Washington,WA,2,Karen Leibrant,Natural Law,2.6,False,False,False
+1992,house,Washington,WA,3,Jolene Unsoeld,Democratic,56.0,True,True,False
+1992,house,Washington,WA,3,Pat Fiske,Republican,44.0,False,False,False
+1992,house,Washington,WA,4,Jay Inslee,Democratic,50.8,True,False,True
+1992,house,Washington,WA,4,Doc Hastings,Republican,49.2,False,False,True
+1992,house,Washington,WA,5,Tom Foley,Democratic,55.2,True,True,False
+1992,house,Washington,WA,5,John Sonneland,Republican,44.8,False,False,False
+1992,house,Washington,WA,6,Norm Dicks,Democratic,64.2,True,True,False
+1992,house,Washington,WA,6,Lauri J. Phillips,Republican,28.0,False,False,False
+1992,house,Washington,WA,6,Tom Donnelly,Independent,6.1,False,False,False
+1992,house,Washington,WA,6,Jim Horrigan,Libertarian,1.7,False,False,False
+1992,house,Washington,WA,7,Jim McDermott,Democratic,78.4,True,True,False
+1992,house,Washington,WA,7,Glenn C. Hampson,Republican,19.1,False,False,False
+1992,house,Washington,WA,7,Paul Glumaz,Independent,2.5,False,False,False
+1992,house,Washington,WA,8,Jennifer Dunn,Republican,60.4,True,False,True
+1992,house,Washington,WA,8,George O. Tamblyn,Democratic,33.9,False,False,True
+1992,house,Washington,WA,8,Bob Adams,Independent,5.7,False,False,True
+1992,house,Washington,WA,9,Mike Kreidler,Democratic,52.1,True,False,True
+1992,house,Washington,WA,9,Pete von Reichbauer,Republican,43.2,False,False,True
+1992,house,Washington,WA,9,Brian Wilson,Independent,3.1,False,False,True
+1992,house,Washington,WA,9,Timothy J. Brill,Independent,1.7,False,False,True
 1992,house,West Virginia,WV,1,Alan Mollohan,Democratic,100.0,True,True,False
 1992,house,West Virginia,WV,2,Bob Wise,Democratic,70.9,True,False,False
 1992,house,West Virginia,WV,2,Samuel A. Cravotta,Republican,29.1,False,False,False
 1992,house,West Virginia,WV,3,Nick Rahall,Democratic,65.6,True,False,False
 1992,house,West Virginia,WV,3,Ben Waldman,Republican,34.4,False,False,False
+1992,house,Wisconsin,WI,1,Les Aspin,Democratic,57.6,True,True,False
+1992,house,Wisconsin,WI,1,Mark Neumann,Republican,40.7,False,False,False
+1992,house,Wisconsin,WI,1,John Graf,Independent,1.7,False,False,False
+1992,house,Wisconsin,WI,2,Scott Klug,Republican,62.6,True,True,False
+1992,house,Wisconsin,WI,2,Ada Deer,Democratic,37.0,False,False,False
+1992,house,Wisconsin,WI,2,Joseph E. Schumacher,Independent,0.4,False,False,False
+1992,house,Wisconsin,WI,3,Steve Gunderson,Republican,56.4,True,True,False
+1992,house,Wisconsin,WI,3,Paul Sacia,Democratic,41.7,False,False,False
+1992,house,Wisconsin,WI,3,Jay B. Evenson,Independent,1.9,False,False,False
+1992,house,Wisconsin,WI,4,Jerry Kleczka,Democratic,65.8,True,True,False
+1992,house,Wisconsin,WI,4,Joseph L. Cook,Republican,32.2,False,False,False
+1992,house,Wisconsin,WI,4,Daniel Slak,Independent,1.1,False,False,False
+1992,house,Wisconsin,WI,4,John Washburn,Libertarian,0.9,False,False,False
+1992,house,Wisconsin,WI,5,Tom Barrett,Democratic,69.5,True,False,True
+1992,house,Wisconsin,WI,5,Donalda Hammersmith,Republican,30.5,False,False,True
+1992,house,Wisconsin,WI,6,Tom Petri,Republican,52.9,True,True,False
+1992,house,Wisconsin,WI,6,Peg Lautenschlager,Democratic,47.1,False,False,False
+1992,house,Wisconsin,WI,7,Dave Obey,Democratic,64.4,True,True,False
+1992,house,Wisconsin,WI,7,Dale R. Vannes,Republican,35.6,False,False,False
+1992,house,Wisconsin,WI,8,Toby Roth,Republican,70.1,True,True,False
+1992,house,Wisconsin,WI,8,Catherine L. Helms,Democratic,29.9,False,False,False
+1992,house,Wisconsin,WI,9,Jim Sensenbrenner,Republican,69.7,True,True,False
+1992,house,Wisconsin,WI,9,Ingrid K. Buxton,Democratic,28.0,False,False,False
+1992,house,Wisconsin,WI,9,David E. Marlow,Independent,1.7,False,False,False
+1992,house,Wisconsin,WI,9,Jeffrey Holt Millikin,Libertarian,0.6,False,False,False
 1992,house,Wyoming,WY,AL,Craig L. Thomas,Republican,57.8,True,True,False
 1992,house,Wyoming,WY,AL,Jon Herschler,Democratic,39.3,False,False,False
 1992,house,Wyoming,WY,AL,Craig Alan McCune,Libertarian,2.3,False,False,False
