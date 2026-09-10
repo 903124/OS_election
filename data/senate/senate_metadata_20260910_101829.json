@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "start_year": 2026,
+    "end_year": 2026,
+    "years_processed": [
+      2026
+    ],
+    "total_processed": 35,
+    "successful": 8,
+    "failed": 27,
+    "timestamp": "2026-09-10 10:18:27"
+  },
+  "state_details": {
+    "2026 United States Senate election in Alabama": {
+      "year": 2026,
+      "state": "Alabama",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Alaska": {
+      "year": 2026,
+      "state": "Alaska",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Arkansas": {
+      "year": 2026,
+      "state": "Arkansas",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Colorado": {
+      "year": 2026,
+      "state": "Colorado",
+      "primary_type": "two_party",
+      "content_length": 34846,
+      "polling_sections_found": 1,
+      "primary_polling_count": 4,
+      "primary_results_count": 5,
+      "general_polling_count": 0,
+      "general_results_count": 0
+    },
+    "2026 United States Senate election in Delaware": {
+      "year": 2026,
+      "state": "Delaware",
+      "primary_type": "two_party",
+      "content_length": 16822,
+      "polling_sections_found": 0,
+      "primary_polling_count": 0,
+      "primary_results_count": 0,
+      "general_polling_count": 0,
+      "general_results_count": 0
+    },
+    "2026 United States Senate special election in Florida": {
+      "year": 2026,
+      "state": "Florida (special)",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Georgia": {
+      "year": 2026,
+      "state": "Georgia",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Idaho": {
+      "year": 2026,
+      "state": "Idaho",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Illinois": {
+      "year": 2026,
+      "state": "Illinois",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Iowa": {
+      "year": 2026,
+      "state": "Iowa",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Kansas": {
+      "year": 2026,
+      "state": "Kansas",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Kentucky": {
+      "year": 2026,
+      "state": "Kentucky",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Louisiana": {
+      "year": 2026,
+      "state": "Louisiana",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Maine": {
+      "year": 2026,
+      "state": "Maine",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Massachusetts": {
+      "year": 2026,
+      "state": "Massachusetts",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Michigan": {
+      "year": 2026,
+      "state": "Michigan",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Minnesota": {
+      "year": 2026,
+      "state": "Minnesota",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Mississippi": {
+      "year": 2026,
+      "state": "Mississippi",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Montana": {
+      "year": 2026,
+      "state": "Montana",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Nebraska": {
+      "year": 2026,
+      "state": "Nebraska",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in New Hampshire": {
+      "year": 2026,
+      "state": "New Hampshire",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in New Jersey": {
+      "year": 2026,
+      "state": "New Jersey",
+      "primary_type": "two_party",
+      "content_length": 48681,
+      "polling_sections_found": 0,
+      "primary_polling_count": 0,
+      "primary_results_count": 7,
+      "general_polling_count": 0,
+      "general_results_count": 48
+    },
+    "2026 United States Senate election in New Mexico": {
+      "year": 2026,
+      "state": "New Mexico",
+      "primary_type": "two_party",
+      "content_length": 24264,
+      "polling_sections_found": 2,
+      "primary_polling_count": 2,
+      "primary_results_count": 5,
+      "general_polling_count": 2,
+      "general_results_count": 0
+    },
+    "2026 United States Senate election in North Carolina": {
+      "year": 2026,
+      "state": "North Carolina",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate special election in Ohio": {
+      "year": 2026,
+      "state": "Ohio (special)",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Oklahoma": {
+      "year": 2026,
+      "state": "Oklahoma",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Oregon": {
+      "year": 2026,
+      "state": "Oregon",
+      "primary_type": "two_party",
+      "content_length": 18891,
+      "polling_sections_found": 0,
+      "primary_polling_count": 0,
+      "primary_results_count": 13,
+      "general_polling_count": 0,
+      "general_results_count": 0
+    },
+    "2026 United States Senate election in Rhode Island": {
+      "year": 2026,
+      "state": "Rhode Island",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in South Carolina": {
+      "year": 2026,
+      "state": "South Carolina",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in South Dakota": {
+      "year": 2026,
+      "state": "South Dakota",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Tennessee": {
+      "year": 2026,
+      "state": "Tennessee",
+      "primary_type": "two_party",
+      "content_length": 16659,
+      "polling_sections_found": 1,
+      "primary_polling_count": 0,
+      "primary_results_count": 9,
+      "general_polling_count": 2,
+      "general_results_count": 0
+    },
+    "2026 United States Senate election in Texas": {
+      "year": 2026,
+      "state": "Texas",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in Virginia": {
+      "year": 2026,
+      "state": "Virginia",
+      "error": "expected string or bytes-like object, got 'float'"
+    },
+    "2026 United States Senate election in West Virginia": {
+      "year": 2026,
+      "state": "West Virginia",
+      "primary_type": "two_party",
+      "content_length": 23953,
+      "polling_sections_found": 0,
+      "primary_polling_count": 0,
+      "primary_results_count": 13,
+      "general_polling_count": 0,
+      "general_results_count": 0
+    },
+    "2026 United States Senate election in Wyoming": {
+      "year": 2026,
+      "state": "Wyoming",
+      "primary_type": "two_party",
+      "content_length": 23242,
+      "polling_sections_found": 0,
+      "primary_polling_count": 0,
+      "primary_results_count": 9,
+      "general_polling_count": 0,
+      "general_results_count": 0
+    }
+  },
+  "races_discovered": {
+    "2026": [
+      "2026 United States Senate election in Alabama",
+      "2026 United States Senate election in Alaska",
+      "2026 United States Senate election in Arkansas",
+      "2026 United States Senate election in Colorado",
+      "2026 United States Senate election in Delaware",
+      "2026 United States Senate special election in Florida",
+      "2026 United States Senate election in Georgia",
+      "2026 United States Senate election in Idaho",
+      "2026 United States Senate election in Illinois",
+      "2026 United States Senate election in Iowa",
+      "2026 United States Senate election in Kansas",
+      "2026 United States Senate election in Kentucky",
+      "2026 United States Senate election in Louisiana",
+      "2026 United States Senate election in Maine",
+      "2026 United States Senate election in Massachusetts",
+      "2026 United States Senate election in Michigan",
+      "2026 United States Senate election in Minnesota",
+      "2026 United States Senate election in Mississippi",
+      "2026 United States Senate election in Montana",
+      "2026 United States Senate election in Nebraska",
+      "2026 United States Senate election in New Hampshire",
+      "2026 United States Senate election in New Jersey",
+      "2026 United States Senate election in New Mexico",
+      "2026 United States Senate election in North Carolina",
+      "2026 United States Senate special election in Ohio",
+      "2026 United States Senate election in Oklahoma",
+      "2026 United States Senate election in Oregon",
+      "2026 United States Senate election in Rhode Island",
+      "2026 United States Senate election in South Carolina",
+      "2026 United States Senate election in South Dakota",
+      "2026 United States Senate election in Tennessee",
+      "2026 United States Senate election in Texas",
+      "2026 United States Senate election in Virginia",
+      "2026 United States Senate election in West Virginia",
+      "2026 United States Senate election in Wyoming"
+    ]
+  }
+}
