@@ -50,12 +50,24 @@ from typing import List, Optional
 
 import district_lean
 import house_elections
-import polling_qc
 import presidential_elections
 import senate_elections
 import state_legislatures
 import statewide_elections
 import wiki_utils
+
+try:
+    import polling_qc
+
+    _QC_MIN_BYTES = polling_qc.DEFAULT_MIN_BYTES
+    _QC_PEER_RATIO = polling_qc.DEFAULT_PEER_RATIO
+except ModuleNotFoundError:
+    # polling_qc is optional: only the `polling-check` subcommand needs it.
+    # The data pipelines (senate/house/...) must keep working in checkouts
+    # (e.g. GitHub Actions) where the module is not present.
+    polling_qc = None
+    _QC_MIN_BYTES = 1500
+    _QC_PEER_RATIO = 0.25
 
 logger = logging.getLogger("cli")
 
@@ -177,14 +189,14 @@ def build_parser() -> argparse.ArgumentParser:
         help="Base data directory (default: --output value, i.e. data)",
     )
     qc.add_argument(
-        "--min-size", type=int, default=polling_qc.DEFAULT_MIN_BYTES,
+        "--min-size", type=int, default=_QC_MIN_BYTES,
         help=f"Flag per-year polling files smaller than this many bytes "
-             f"(default: {polling_qc.DEFAULT_MIN_BYTES})",
+             f"(default: {_QC_MIN_BYTES})",
     )
     qc.add_argument(
-        "--peer-ratio", type=float, default=polling_qc.DEFAULT_PEER_RATIO,
+        "--peer-ratio", type=float, default=_QC_PEER_RATIO,
         help="Flag files below this fraction of the kind-median size "
-             f"(default: {polling_qc.DEFAULT_PEER_RATIO})",
+             f"(default: {_QC_PEER_RATIO})",
     )
     qc.add_argument(
         "--no-report", action="store_true",
@@ -221,6 +233,14 @@ def main(argv: Optional[List[str]] = None) -> int:
     wiki_utils.set_default_client(client)
 
     if args.command == "polling-check":
+        if polling_qc is None:
+            logger.error(
+                "polling-check needs the polling_qc module (src/polling_qc.py), "
+                "which is not present in this checkout. The data pipelines "
+                "(senate/house/state-leg/statewide/presidential/lean) are "
+                "unaffected."
+            )
+            return 1
         rep = polling_qc.check_pipeline(
             args.data_dir or args.output,
             pipeline=args.pipeline,

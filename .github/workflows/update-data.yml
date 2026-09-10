@@ -7,6 +7,17 @@ name: Update election data
 #
 # The pipeline is API-based — no dump downloads — so a standard hosted runner
 # is sufficient (no self-hosted runner or 22 GB cache required).
+#
+# End-year handling (smart current-year mode, ON by default):
+#   * "Run through the current year" resolves the end year at runtime on the
+#     runner (date -u +%Y) — it is never baked into this file — so both manual
+#     dispatches and the monthly cron automatically pick up each live election
+#     cycle as it arrives (2024 → 2026 → 2028, …), including new-cycle polling
+#     data such as the 2026 Senate/House/state races.
+#   * Uncheck it (or set it to false) to pin the range manually with the
+#     start/end year inputs; the pinned end year defaults to 2026.
+#   * Odd current years are safe: the pipelines clamp odd bounds inward to even
+#     (federal election) years, e.g. a 2027 run processes through 2026.
 
 on:
   workflow_dispatch:
@@ -23,14 +34,18 @@ on:
           - presidential
           - lean
         default: all
+      use_current_year:
+        description: "Run through the current calendar year (overrides end year)"
+        type: boolean
+        default: true
       start_year:
         description: "First election year to process (inclusive)"
         required: false
         default: "2018"
       end_year:
-        description: "Last election year to process (inclusive)"
+        description: "Last election year when 'run through current year' is off (inclusive)"
         required: false
-        default: "2024"
+        default: "2026"
       request_delay:
         description: "Minimum seconds between Wikipedia API requests"
         required: false
@@ -65,6 +80,38 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Resolve year range (current year detected at runtime)
+        id: years
+        run: |
+          # The current year is resolved NOW, on the runner — never hardcoded —
+          # so every run (manual or scheduled) targets the live cycle.
+          CURRENT_YEAR="$(date -u +%Y)"
+
+          START_YEAR="${{ github.event.inputs.start_year || '2018' }}"
+          END_YEAR="${{ github.event.inputs.end_year || '2026' }}"
+
+          # Boolean-input gotcha: with `type: boolean`, an UNCHECKED checkbox
+          # would be falsy in a `||` fallback and silently flip back to "on",
+          # and scheduled runs supply no value at all. Comparing the raw
+          # string instead gives the intended semantics:
+          #   scheduled (empty) -> on   |  checked ("true") -> on
+          #   unchecked ("false") -> off
+          USE_CURRENT="${{ github.event.inputs.use_current_year != 'false' }}"
+
+          if [ "$USE_CURRENT" = "true" ]; then
+            END_YEAR="$CURRENT_YEAR"
+            MODE="current year ($CURRENT_YEAR)"
+          else
+            MODE="pinned ($START_YEAR-$END_YEAR)"
+          fi
+
+          echo "mode=$MODE"                     >> "$GITHUB_OUTPUT"
+          echo "start_year=$START_YEAR"         >> "$GITHUB_OUTPUT"
+          echo "end_year=$END_YEAR"             >> "$GITHUB_OUTPUT"
+          echo "current_year=$CURRENT_YEAR"     >> "$GITHUB_OUTPUT"
+          echo "Year range : $START_YEAR-$END_YEAR ($MODE)"
+          echo "Runner year : $CURRENT_YEAR (resolved at runtime)"
+
       - name: Run pipeline
         env:
           # Wikimedia requires a descriptive, contact-bearing User-Agent.
@@ -75,37 +122,51 @@ jobs:
         run: |
           SCOPE="${{ github.event.inputs.scope || 'all' }}"
           DELAY="${{ github.event.inputs.request_delay || '1.0' }}"
-          START_YEAR="${{ github.event.inputs.start_year || '2018' }}"
-          END_YEAR="${{ github.event.inputs.end_year || '2024' }}"
+          START_YEAR="${{ steps.years.outputs.start_year }}"
+          END_YEAR="${{ steps.years.outputs.end_year }}"
 
           ARGS=(--output data --delay "$DELAY" --start-year "$START_YEAR" --end-year "$END_YEAR" --log-level INFO)
 
           case "$SCOPE" in
             senate)
-              python cli.py senate "${ARGS[@]}"
+              python src/cli.py senate "${ARGS[@]}"
               ;;
             house)
-              python cli.py house "${ARGS[@]}"
+              python src/cli.py house "${ARGS[@]}"
               ;;
             state-leg)
-              python cli.py state-leg "${ARGS[@]}"
+              python src/cli.py state-leg "${ARGS[@]}"
               ;;
             statewide)
-              python cli.py statewide "${ARGS[@]}"
+              python src/cli.py statewide "${ARGS[@]}"
               ;;
             presidential)
-              python cli.py presidential "${ARGS[@]}"
+              python src/cli.py presidential "${ARGS[@]}"
               ;;
             lean)
               # the crosswalk covers the 2000s/2010s/2020s maps only, so lean
               # always runs 2004-2024 (module defaults); --fetch-missing lets
               # it pull any presidential cycle it still needs
-              python cli.py lean --output data --delay "$DELAY" --log-level INFO --fetch-missing
+              python src/cli.py lean --output data --delay "$DELAY" --log-level INFO --fetch-missing
               ;;
             *)
-              python cli.py all "${ARGS[@]}"
+              python src/cli.py all "${ARGS[@]}"
               ;;
           esac
+
+      - name: Summarize
+        if: always()
+        run: |
+          {
+            echo "### Election data update"
+            echo ""
+            echo "| Setting | Value |"
+            echo "|---|---|"
+            echo "| Scope | \`${{ github.event.inputs.scope || 'all' }}\` |"
+            echo "| Year mode | ${{ steps.years.outputs.mode }} |"
+            echo "| Resolved range | ${{ steps.years.outputs.start_year }}–${{ steps.years.outputs.end_year }} |"
+            echo "| Runner year (runtime) | ${{ steps.years.outputs.current_year }} |"
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit and push new data
         run: |
@@ -115,7 +176,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes to commit."
           else
-            git commit -m "data: automated Wikipedia update $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
+            git commit -m "data: automated Wikipedia update ${{ steps.years.outputs.start_year }}-${{ steps.years.outputs.end_year }} $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]"
             git push
           fi
 
