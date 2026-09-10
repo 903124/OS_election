@@ -1,62 +1,381 @@
-Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,percentage
-2026,Colorado,Democratic primary results,Primary,Winning,True,John Hickenlooper,Democratic Party (United States),"472,870",52.8
-2026,Colorado,Democratic primary results,Primary,Candidate,False,Julie Gonzales,Democratic Party (United States),"422,488",47.2
+Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
+2026,Alabama,Republican primary results,Primary,Winning,False,Republican Party (United States),Barry Moore,"189,067",39.2
+2026,Alabama,Republican primary results,Primary,Winning,False,Republican Party (United States),Jared Hudson,"123,672",25.6
+2026,Alabama,Republican primary results,Primary,Candidate,False,Republican Party (United States),Steve Marshall,"118,361",24.5
+2026,Alabama,Republican primary results,Primary,Candidate,False,Republican Party (United States),Rodney Walker,"19,697",4.1
+2026,Alabama,Republican primary results,Primary,Candidate,False,Republican Party (United States),Seth Burton,"15,142",3.1
+2026,Alabama,Republican primary results,Primary,Candidate,False,Republican Party (United States),Dale Shelton Deas Jr.,"10,117",2.1
+2026,Alabama,Republican primary results,Primary,Candidate,False,Republican Party (United States),Morgan Murphy (withdrawn),"6,485",1.3
+2026,Alabama,Republican primary results,Primary,Total,False,,,"482,541",100.0
+2026,Alabama,Republican primary runoff results,Primary,Winning,False,Republican Party (United States),Barry Moore,"173,674",55.8
+2026,Alabama,Republican primary runoff results,Primary,Candidate,False,Republican Party (United States),Jared Hudson,"137,545",44.2
+2026,Alabama,Republican primary runoff results,Primary,Total,False,,,"311,219",100.0
+2026,Alabama,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Everett Wess,"132,373",39.8
+2026,Alabama,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Dakarai Larriett,"96,307",28.9
+2026,Alabama,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Mark S. Wheeler II,"57,947",17.4
+2026,Alabama,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Kyle Sweetser,"46,286",13.9
+2026,Alabama,Democratic primary results,Primary,Total,False,,,"332,913",100.0
+2026,Alabama,Democratic primary runoff results,Primary,Winning,False,Democratic Party (United States),Everett Wess,"49,396",54.6
+2026,Alabama,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),Dakarai Larriett,"41,065",45.4
+2026,Alabama,Democratic primary runoff results,Primary,Total,False,,,"90,461",100.0
+2026,Alaska,Blanket primary results,Primary,Winning,False,Democratic Party (United States),Mary Peltola,"82,244",49.5
+2026,Alaska,Blanket primary results,Primary,Winning,True,Republican Party (United States),Dan S. Sullivan,"68,726",41.4
+2026,Alaska,Blanket primary results,Primary,Winning,False,Republican Party (United States),Gerald L. Heikes,"1,741",1.1
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Democratic Party (United States),David Leslie (withdrew),"1,850",1.1
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Democratic Party (United States),Carol Hafner,"1,009",0.6
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Heather McElwain,972,0.6
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Dustin Darden,808,0.5
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Libertarian Party (United States),Scott Kohlhaas,794,0.5
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Richard Benedict Mayers,609,0.4
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Independent politician,Reece Roberts,602,0.4
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Independent politician,Sid Hill,522,0.3
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Fred C. Grauberger,479,0.3
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Green Party (United States),Richard Grayson,432,0.3
+2026,Alaska,Blanket primary results,Primary,Candidate,False,Independent politician,Shirley Saucerman,306,0.2
+2026,Alaska,Blanket primary results,Primary,Total,False,,,"166,004",100.0
+2026,Arkansas,Republican primary results,Primary,Winning,True,Republican Party (United States),Tom Cotton,"230,209",81.6
+2026,Arkansas,Republican primary results,Primary,Total,False,,,"281,973",100.0
+2026,Arkansas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Hallie Shoffner,"102,289",78.3
+2026,Arkansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Ethan Dunbar,"28,394",21.7
+2026,Arkansas,Democratic primary results,Primary,Total,False,,,"130,683",100.0
+2026,Colorado,Democratic primary results,Primary,Winning,True,Democratic Party (United States),John Hickenlooper,"472,870",52.8
+2026,Colorado,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Julie Gonzales,"422,488",47.2
 2026,Colorado,Democratic primary results,Primary,Total,False,,,"895,358",100.0
-2026,Colorado,Republican primary results,Primary,Winning,False,Mark Baisley,Republican Party (United States),"445,352",100.0
+2026,Colorado,Republican primary results,Primary,Winning,False,Republican Party (United States),Mark Baisley,"445,352",100.0
 2026,Colorado,Republican primary results,Primary,Total,False,,,"445,352",100.0
-2026,New Jersey,Democratic primary results,Primary,Winning,True,Cory Booker,Democratic Party (United States),"587,980",100.0
+2026,Florida (special),Republican primary results,Primary,Winning,True,Republican Party (United States),Ashley Moody,"1,320,780",79.6
+2026,Florida (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Chris Gleason,"228,010",13.7
+2026,Florida (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Ernie Rivera,"79,973",4.8
+2026,Florida (special),Republican primary results,Primary,Candidate,False,Republican Party (United States),Neelam Taneja Perry,"31,250",1.9
+2026,Florida (special),Republican primary results,Primary,Total,False,,,"1,660,013",100.0
+2026,Florida (special),Democratic primary results,Primary,Winning,False,Democratic Party (United States),Angie Nixon,"705,835",56.1
+2026,Florida (special),Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Alex Vindman,"553,138",43.9
+2026,Florida (special),Democratic primary results,Primary,Total,False,,,"1,258,973",100.0
+2026,Georgia,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Jon Ossoff,"1,042,331",100.0
+2026,Georgia,Democratic primary results,Primary,Total,False,,,"1,042,331",100.0
+2026,Georgia,Republican primary results,Primary,Winning,False,Republican Party (United States),Mike Collins,"369,642",40.5
+2026,Georgia,Republican primary results,Primary,Winning,False,Republican Party (United States),Derek Dooley,"275,534",30.2
+2026,Georgia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Buddy Carter,"229,223",25.1
+2026,Georgia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jonathan McColumn,"28,447",3.1
+2026,Georgia,Republican primary results,Primary,Candidate,False,Republican Party (United States),John F. Coyne III,"9,850",1.1
+2026,Georgia,Republican primary results,Primary,Total,False,,,"912,696",100.0
+2026,Georgia,Republican primary runoff results,Primary,Winning,False,Republican Party (United States),Mike Collins,"390,174",55.5
+2026,Georgia,Republican primary runoff results,Primary,Candidate,False,Republican Party (United States),Derek Dooley,"312,339",44.5
+2026,Georgia,Republican primary runoff results,Primary,Total,False,,,"702,513",100.0
+2026,Idaho,Republican primary results,Primary,Winning,True,Republican Party (United States),Jim Risch,"156,140",67.3
+2026,Idaho,Republican primary results,Primary,Candidate,False,Republican Party (United States),Josh Roy,"33,188",14.3
+2026,Idaho,Republican primary results,Primary,Candidate,False,Republican Party (United States),Joe Evans,"32,636",14.1
+2026,Idaho,Republican primary results,Primary,Candidate,False,Republican Party (United States),Denny LaVe,"10,182",4.4
+2026,Idaho,Republican primary results,Primary,Total,False,,,"232,146",100.0
+2026,Idaho,Democratic primary results,Primary,Winning,False,Democratic Party (United States),David Roth,"29,534",61.9
+2026,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Brad Moore,"14,863",31.1
+2026,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Nickolas Bonds,"3,344",7.0
+2026,Idaho,Democratic primary results,Primary,Total,False,,,"47,741",100.0
+2026,Idaho,Libertarian primary results,Primary,Winning,False,Libertarian Party (United States),Matt Loesby,855,100.0
+2026,Idaho,Libertarian primary results,Primary,Total,False,,,855,100.0
+2026,Illinois,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Juliana Stratton,"507,689",40.4
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Raja Krishnamoorthi,"411,150",32.7
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Robin Kelly,"229,788",18.3
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Kevin Ryan,"61,914",4.9
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Bryan Maxwell,"10,070",0.8
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Sean Brown,"8,122",0.6
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Awisi Bustos,"8,020",0.6
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Christopher Swann,"7,896",0.6
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Jonathan Dean,"6,762",0.5
+2026,Illinois,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Steve Botsford,"5,411",0.4
+2026,Illinois,Democratic primary results,Primary,Total,False,,,"1,256,822",100.0
+2026,Illinois,Republican primary results,Primary,Winning,False,Republican Party (United States),Don Tracy,"215,523",40.0
+2026,Illinois,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jeannie Evans,"122,840",22.8
+2026,Illinois,Republican primary results,Primary,Candidate,False,Republican Party (United States),Casey Chlebek,"60,222",11.2
+2026,Illinois,Republican primary results,Primary,Candidate,False,Republican Party (United States),R. Cary Capparelli,"56,907",10.6
+2026,Illinois,Republican primary results,Primary,Candidate,False,Republican Party (United States),Pamela Denise Long,"53,810",10.0
+2026,Illinois,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jimmy Lee Tillman,"30,042",5.6
+2026,Illinois,Republican primary results,Primary,Total,False,,,"539,344",100.0
+2026,Iowa,Republican primary results,Primary,Winning,False,Republican Party (United States),Ashley Hinson,"153,059",74.2
+2026,Iowa,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jim Carlin,"53,196",25.8
+2026,Iowa,Republican primary results,Primary,Total,False,,,"206,255",100.0
+2026,Iowa,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Josh Turek,"120,287",62.7
+2026,Iowa,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Zach Wahls,"71,663",37.3
+2026,Iowa,Democratic primary results,Primary,Total,False,,,"191,950",100.0
+2026,Kansas,Republican primary results,Primary,Winning,True,Republican Party (United States),Roger Marshall,"270,632",79.9
+2026,Kansas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Pond Naramore,"68,100",20.1
+2026,Kansas,Republican primary results,Primary,Total,False,,,"338,732",100.0
+2026,Kansas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Adam Hamilton,"77,607",34.6
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Christy Davis,"31,857",14.2
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Noah Taylor,"30,362",13.6
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Anne Parelkar,"16,836",7.5
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Erik Murray,"15,177",6.8
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Patrick Schmidt,"13,403",6.0
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Sandy Spidel Neumann,"12,717",5.7
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Jason Hart,"12,412",5.5
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Damon Anderson,"5,879",2.6
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Kevin Latz,"4,110",1.8
+2026,Kansas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Michael Soetaert,"3,716",1.7
+2026,Kansas,Democratic primary results,Primary,Total,False,,,"224,076",100.0
+2026,Kentucky,Republican primary results,Primary,Winning,False,Republican Party (United States),Andy Barr,"283,833",60.5
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Daniel Cameron,"144,592",30.8
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Michael James Faris,"11,219",2.4
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),George Washington,"7,190",1.5
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),"Valerie ""Dr Val"" Fredrick","5,267",1.1
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Anissa Catlett,"4,892",1.0
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),James D. Duncan,"3,773",0.8
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jonathan M. Holliday,"3,757",0.8
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),A. Nick Shelley,"2,771",0.6
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Other Donald Wenzel,"1,014",0.2
+2026,Kentucky,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jimmy I. Leon,864,0.2
+2026,Kentucky,Republican primary results,Primary,Total,False,,,"469,172",100.0
+2026,Kentucky,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Charles Booker,"155,577",46.8
+2026,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Amy McGrath,"119,296",35.9
+2026,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Pamela Stevenson,"20,610",6.2
+2026,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Dale Lewis Romans,"13,696",4.1
+2026,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Logan Forsythe,"9,648",2.9
+2026,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Vincent Anthony Thompson,"6,962",2.1
+2026,Kentucky,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Joshua Blanton Sr.,"6,948",2.1
+2026,Kentucky,Democratic primary results,Primary,Total,False,,,"332,737",100.0
+2026,Louisiana,Republican primary results,Primary,Winning,False,Republican Party (United States),Julia Letlow,"179,903",44.8
+2026,Louisiana,Republican primary results,Primary,Winning,False,Republican Party (United States),John Fleming,"113,437",28.3
+2026,Louisiana,Republican primary results,Primary,Candidate,True,Republican Party (United States),Bill Cassidy,"99,496",24.8
+2026,Louisiana,Republican primary results,Primary,Candidate,False,Republican Party (United States),Mark Spencer,"8,338",2.1
+2026,Louisiana,Republican primary results,Primary,Total,False,,,"401,174",100.0
+2026,Louisiana,Republican primary runoff results,Primary,Winning,False,Republican Party (United States),Julia Letlow,"180,002",56.9
+2026,Louisiana,Republican primary runoff results,Primary,Candidate,False,Republican Party (United States),John Fleming,"136,591",43.1
+2026,Louisiana,Republican primary runoff results,Primary,Total,False,,,"316,593",100.0
+2026,Louisiana,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Jamie Davis,"163,549",47.4
+2026,Louisiana,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Gary Crockett,"90,791",26.3
+2026,Louisiana,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Nicholas Albares,"90,498",26.2
+2026,Louisiana,Democratic primary results,Primary,Total,False,,,"344,838",100.0
+2026,Louisiana,Democratic primary runoff results,Primary,Winning,False,Democratic Party (United States),Jamie Davis,"156,789",79.9
+2026,Louisiana,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),Gary Crockett,"39,423",20.1
+2026,Louisiana,Democratic primary runoff results,Primary,Total,False,,,"196,212",100.0
+2026,Maine,Republican primary results,Primary,Winning,True,Republican Party (United States),Susan Collins,"126,398",100.0
+2026,Maine,Republican primary results,Primary,Total,False,,,"126,398",100.0
+2026,Maine,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Graham Platner,"156,084",72.1
+2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Janet Mills (withdrawn),"41,644",19.2
+2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),David Costello,"17,560",8.1
+2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Andrea LaFlamme (write-in),"1,114",0.5
+2026,Maine,Democratic primary results,Primary,Total,False,,,"216,402",100.0
+2026,Massachusetts,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Ed Markey,"580,628",64.7
+2026,Massachusetts,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Seth Moulton,"314,198",35.0
+2026,Massachusetts,Democratic primary results,Primary,Write-in,False,,,"2,225",0.3
+2026,Massachusetts,Democratic primary results,Primary,Total,False,,,"897,051",100.0
+2026,Massachusetts,Republican primary results,Primary,Winning,False,Republican Party (United States),John Deaton,"221,950",99.3
+2026,Massachusetts,Republican primary results,Primary,Write-in,False,,,"1,555",0.7
+2026,Massachusetts,Republican primary results,Primary,Total,False,,,"223,505",100.0
+2026,Michigan,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Abdul El-Sayed,"744,952",48.45
+2026,Michigan,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Haley Stevens,"731,160",47.55
+2026,Michigan,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Mallory McMorrow (withdrawn),"61,516",4.00
+2026,Michigan,Democratic primary results,Primary,Total,False,,,"1,537,628",100.0
+2026,Michigan,Republican primary results,Primary,Winning,False,Republican Party (United States),Mike Rogers,"883,328",100.0
+2026,Michigan,Republican primary results,Primary,Total,False,,,"883,328",100.0
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Winning,False,Minnesota Democratic–Farmer–Labor Party,Peggy Flanagan,"411,853",59.0
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,Angie Craig,"274,920",39.4
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,Kurt Michael Anderson,"4,521",0.6
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,Billy Nord,"2,896",0.4
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,George H. Kalberer,"2,076",0.3
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,Peter John Murgic,"1,661",0.2
+2026,Minnesota,Democratic–Farmer–Labor primary results,Primary,Total,False,,,"697,927",100.0
+2026,Minnesota,Republican primary results,Primary,Winning,False,Republican Party (United States),Michele Tafoya,"211,813",52.1
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Adam Schwarze,"97,470",24.0
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Royce White,"45,374",11.2
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Tom Weiler,"24,247",6.0
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Joyce Lacey,"7,474",1.8
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Patrick Munro,"7,096",1.7
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Cynthia Gail,"5,929",1.5
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Bob Carney Jr.,"5,678",1.4
+2026,Minnesota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Ahmad R. Hassan,"1,742",0.4
+2026,Minnesota,Republican primary results,Primary,Total,False,,,"406,823",100.0
+2026,Mississippi,Republican primary results,Primary,Winning,True,Republican Party (United States),Cindy Hyde-Smith,"127,852",80.8
+2026,Mississippi,Republican primary results,Primary,Candidate,False,Republican Party (United States),Sarah Adlakha,"30,344",19.2
+2026,Mississippi,Republican primary results,Primary,Total,False,,,"158,196",100.0
+2026,Mississippi,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Scott Colom,"109,817",72.9
+2026,Mississippi,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Priscilla Williams-Till,"28,075",18.6
+2026,Mississippi,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Albert Littell,"12,749",8.5
+2026,Mississippi,Democratic primary results,Primary,Total,False,,,"150,641",100.0
+2026,Montana,Republican primary results,Primary,Winning,False,Republican Party (United States),Kurt Alme,"128,716",76.1
+2026,Montana,Republican primary results,Primary,Candidate,False,Republican Party (United States),Lee Calhoun,"23,872",14.1
+2026,Montana,Republican primary results,Primary,Candidate,False,Republican Party (United States),Charles WalkingChild,"16,474",9.7
+2026,Montana,Republican primary results,Primary,Total,False,,,"169,062",100.0
+2026,Montana,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Alani Bankhead,"48,772",43.6
+2026,Montana,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Reilly Neill,"36,880",33.0
+2026,Montana,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Michael Black Wolf,"14,678",13.1
+2026,Montana,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Christopher Kehoe,"7,108",6.4
+2026,Montana,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Michael Hummert,"4,305",3.9
+2026,Montana,Democratic primary results,Primary,Total,False,,,"111,743",100.0
+2026,Montana,Libertarian primary results,Primary,Winning,False,Libertarian Party (United States),Kyle Austin,"1,819",53.3
+2026,Montana,Libertarian primary results,Primary,Candidate,False,Libertarian Party (United States),Tom Jandron,"1,592",46.7
+2026,Montana,Libertarian primary results,Primary,Total,False,,,"3,411",100.0
+2026,Nebraska,Republican primary results,Primary,Winning,True,Republican Party (United States),Pete Ricketts,"160,547",81.5
+2026,Nebraska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Todd Knobel,"15,921",8.1
+2026,Nebraska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Debb Axtel Schultz,"11,735",6.0
+2026,Nebraska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Mac Stevens,"5,204",2.6
+2026,Nebraska,Republican primary results,Primary,Candidate,False,Republican Party (United States),Eric Mortimore,"3,667",1.9
+2026,Nebraska,Republican primary results,Primary,Total,False,,,"197,074",100.0
+2026,Nebraska,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Cindy Burbank,"110,210",89.5
+2026,Nebraska,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),William Forbes,"12,863",10.5
+2026,Nebraska,Democratic primary results,Primary,Total,False,,,"123,073",100.0
+2026,Nebraska,Legal Marijuana Now primary results,Primary,Winning,False,Legal Marijuana Now Party,Mike Marvin,829,66.4
+2026,Nebraska,Legal Marijuana Now primary results,Primary,Candidate,False,Legal Marijuana Now Party,Earl Starkey,420,33.6
+2026,Nebraska,Legal Marijuana Now primary results,Primary,Total,False,,,"1,249",100.0
+2026,New Hampshire,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Chris Pappas,"98,235",64.9
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Karishma Manzur,"49,563",32.8
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),David Jarvis,"1,193",0.8
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),John Vail,951,0.6
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Maxwell L. Saal,934,0.6
+2026,New Hampshire,Democratic primary results,Primary,Write-in,False,,,400,0.3
+2026,New Hampshire,Democratic primary results,Primary,Total,False,,,"151,276",100.0
+2026,New Hampshire,Republican primary results,Primary,Winning,False,Republican Party (United States),John E. Sununu,"74,612",68.4
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Scott Brown,"29,302",26.8
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Sky Danley,"1,179",1.1
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Sabrina Ann Smith,952,0.9
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Andy Martin,773,0.7
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Mary Maxwell,753,0.7
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Tom Alciere,601,0.6
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Republican Party (United States),Richard A. McMenamon II,394,0.4
+2026,New Hampshire,Republican primary results,Primary,Write-in,False,,,593,0.5
+2026,New Hampshire,Republican primary results,Primary,Total,False,,,"109,159",100.0
+2026,New Jersey,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Cory Booker,"587,980",100.0
 2026,New Jersey,Democratic primary results,Primary,Total,False,,,"587,980",100.0
-2026,New Jersey,Republican primary results,Primary,Winning,False,Justin Murphy,Republican Party (United States),"82,272",33.4
-2026,New Jersey,Republican primary results,Primary,Candidate,False,Richard Tabor,Republican Party (United States),"71,915",29.2
-2026,New Jersey,Republican primary results,Primary,Candidate,False,Alex Zdan,Republican Party (United States),"66,183",26.8
-2026,New Jersey,Republican primary results,Primary,Candidate,False,Robert Lebovics,Republican Party (United States),"26,280",10.7
+2026,New Jersey,Republican primary results,Primary,Winning,False,Republican Party (United States),Justin Murphy,"82,272",33.4
+2026,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),Richard Tabor,"71,915",29.2
+2026,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),Alex Zdan,"66,183",26.8
+2026,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),Robert Lebovics,"26,280",10.7
 2026,New Jersey,Republican primary results,Primary,Total,False,,,"246,650",100.0
-2026,New Mexico,Democratic primary results,Primary,Winning,True,Ben Ray Luján,Democratic Party (United States),"182,360",84.2
-2026,New Mexico,Democratic primary results,Primary,Candidate,False,Matt Dodson,Democratic Party (United States),"34,289",15.8
+2026,New Mexico,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Ben Ray Luján,"182,360",84.2
+2026,New Mexico,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Matt Dodson,"34,289",15.8
 2026,New Mexico,Democratic primary results,Primary,Total,False,,,"216,649",100.0
-2026,New Mexico,Republican primary results,Primary,Winning,False,Larry Marker (write-in),Republican Party (United States),"31,220",100.0
+2026,New Mexico,Republican primary results,Primary,Winning,False,Republican Party (United States),Larry Marker (write-in),"31,220",100.0
 2026,New Mexico,Republican primary results,Primary,Total,False,,,"31,220",100.0
-2026,Oregon,Democratic primary results,Primary,Winning,True,Jeff Merkley,Democratic Party (United States),"457,006",93.2
-2026,Oregon,Democratic primary results,Primary,Candidate,False,Paul D. Wells,Democratic Party (United States),"30,544",6.2
-2026,Oregon,Democratic primary results,Primary,Candidate,False,Write-in,Democratic Party (United States),"2,907",0.6
+2026,North Carolina,Republican primary results,Primary,Winning,False,Republican Party (United States),Michael Whatley,"405,140",64.6
+2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Don Brown,"97,891",15.6
+2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Thomas Johnson,"35,534",5.7
+2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Michele Morrow,"35,065",5.6
+2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Elizabeth Temple,"23,892",3.8
+2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Richard Dansie,"14,996",2.4
+2026,North Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Margot Dupre (disqualified),"14,886",2.4
+2026,North Carolina,Republican primary results,Primary,Total,False,,,"627,404",100.0
+2026,North Carolina,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Roy Cooper,"761,345",92.0
+2026,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Justin Dues,"22,295",2.7
+2026,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Marcus Williams,"20,336",2.5
+2026,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Orrick Quick,"7,275",0.9
+2026,North Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Robert Colon,"6,777",0.8
+2026,North Carolina,Democratic primary results,Primary,Total,False,,,"827,755",100.0
+2026,Ohio (special),Republican primary,Primary,Winning,True,Republican Party (United States),Jon Husted,"736,413",100.00
+2026,Ohio (special),Republican primary,Primary,Total,False,,,"736,413",100.00
+2026,Ohio (special),Democratic primary,Primary,Winning,False,Democratic Party (United States),Sherrod Brown,"712,106",89.40
+2026,Ohio (special),Democratic primary,Primary,Candidate,False,Democratic Party (United States),Ron Kincaid,"84,405",10.60
+2026,Ohio (special),Democratic primary,Primary,Total,False,,,"796,511",100.00
+2026,Ohio (special),Libertarian primary,Primary,Winning,False,Libertarian Party (United States),Bill Redpath,"4,996",100.00
+2026,Ohio (special),Libertarian primary,Primary,Total,False,,,"4,996",100.00
+2026,Oklahoma,Republican primary results,Primary,Winning,False,Republican Party (United States),Kevin Hern,"267,222",69.8
+2026,Oklahoma,Republican primary results,Primary,Candidate,False,Republican Party (United States),Ty England,"51,875",13.5
+2026,Oklahoma,Republican primary results,Primary,Candidate,False,Republican Party (United States),William Sean Buckner,"26,444",6.9
+2026,Oklahoma,Republican primary results,Primary,Candidate,False,Republican Party (United States),Brian Ragain,"22,478",5.9
+2026,Oklahoma,Republican primary results,Primary,Candidate,False,Republican Party (United States),Nick Hankins,"15,066",3.9
+2026,Oklahoma,Republican primary results,Primary,Total,False,,,"383,085",100.0
+2026,Oklahoma,Democratic primary results,Primary,Winning,False,Democratic Party (United States),N'Kiyla Jasmine Thomas,"76,330",45.2
+2026,Oklahoma,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Jim Priest,"40,290",23.9
+2026,Oklahoma,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Troy Green,"33,492",19.8
+2026,Oklahoma,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Ervin Yen,"11,363",6.7
+2026,Oklahoma,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),R.O. Joe Cassity Jr.,"7,421",4.4
+2026,Oklahoma,Democratic primary results,Primary,Total,False,,,"168,896",100.0
+2026,Oklahoma,Democratic primary runoff results,Primary,Winning,False,Democratic Party (United States),N'Kiyla Jasmine Thomas,"79,229",61.2
+2026,Oklahoma,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),Jim Priest,"50,249",38.8
+2026,Oklahoma,Democratic primary runoff results,Primary,Total,False,,,"129,478",100.0
+2026,Oregon,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Jeff Merkley,"457,006",93.2
+2026,Oregon,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Paul D. Wells,"30,544",6.2
+2026,Oregon,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Write-in,"2,907",0.6
 2026,Oregon,Democratic primary results,Primary,Total,False,,,"490,457",100.0
-2026,Oregon,Republican primary results,Primary,Winning,False,David Brock Smith,Republican Party (United States),"107,953",29.5
-2026,Oregon,Republican primary results,Primary,Candidate,False,Jo Rae Perkins,Republican Party (United States),"99,278",27.1
-2026,Oregon,Republican primary results,Primary,Candidate,False,Brent Barker,Republican Party (United States),"85,229",23.3
-2026,Oregon,Republican primary results,Primary,Candidate,False,Russ McAlmond,Republican Party (United States),"42,136",11.5
-2026,Oregon,Republican primary results,Primary,Candidate,False,Deborah C. Brown,Republican Party (United States),"14,021",3.8
-2026,Oregon,Republican primary results,Primary,Candidate,False,David Burch,Republican Party (United States),"8,704",2.4
-2026,Oregon,Republican primary results,Primary,Candidate,False,Tim Skelton,Republican Party (United States),"5,626",1.5
-2026,Oregon,Republican primary results,Primary,Candidate,False,Write-in,Republican Party (United States),"3,254",0.9
+2026,Oregon,Republican primary results,Primary,Winning,False,Republican Party (United States),David Brock Smith,"107,953",29.5
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jo Rae Perkins,"99,278",27.1
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Brent Barker,"85,229",23.3
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Russ McAlmond,"42,136",11.5
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Deborah C. Brown,"14,021",3.8
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),David Burch,"8,704",2.4
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Tim Skelton,"5,626",1.5
+2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Write-in,"3,254",0.9
 2026,Oregon,Republican primary results,Primary,Total,False,,,"366,201",100.0
-2026,Tennessee,Republican primary results,Primary,Winning,True,Bill Hagerty,Republican Party (United States),"629,194",100.00
+2026,Rhode Island,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Jack Reed,"96,586",76.9
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Connor Burbridge,"16,838",13.4
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Luis Daniel Muñoz,"12,205",9.7
+2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"125,629",100.0
+2026,Rhode Island,Republican primary results,Primary,Winning,False,Republican Party (United States),Raymond McKay,"20,203",100.0
+2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,203",100.0
+2026,South Carolina,Republican primary results,Primary,Winning,True,Republican Party (United States),Lindsey Graham,"264,091",56.8
+2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Mark Lynch,"134,360",28.9
+2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Thomas Dismukes,"24,164",5.2
+2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Pat Herrmann,"17,448",3.8
+2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Calvin Cowen,"14,171",3.0
+2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Darius Mitchell,"10,842",2.3
+2026,South Carolina,Republican primary results,Primary,Total,False,,,"465,076",100.0
+2026,South Carolina,Republican special primary results,Primary,Winning,True,Republican Party (United States),Darline Graham,"109,881",32.8
+2026,South Carolina,Republican special primary results,Primary,Winning,False,Republican Party (United States),Ralph Norman,"82,627",24.6
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Russell Fry,"65,955",19.7
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Mark Sanford,"50,136",14.9
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Mark Lynch,"19,892",5.9
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Danny Ford II,"2,804",0.8
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Duke Buckner,"1,583",0.5
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Glenda Gail Parker,977,0.3
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Samuel Shepherd,931,0.3
+2026,South Carolina,Republican special primary results,Primary,Candidate,False,Republican Party (United States),Mark McBride,769,0.2
+2026,South Carolina,Republican special primary results,Primary,Total,False,,,"335,555",100.0
+2026,South Carolina,Republican special primary runoff results,Primary,Winning,True,Republican Party (United States),Darline Graham,"193,486",52.4
+2026,South Carolina,Republican special primary runoff results,Primary,Candidate,False,Republican Party (United States),Ralph Norman,"175,412",47.6
+2026,South Carolina,Republican special primary runoff results,Primary,Total,False,,,"368,898",100.0
+2026,South Carolina,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Annie Andrews,"226,075",61.5
+2026,South Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Brandon Brown,"110,962",30.2
+2026,South Carolina,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Kyle Freeman,"30,374",8.3
+2026,South Carolina,Democratic primary results,Primary,Total,False,,,"367,411",100.0
+2026,South Dakota,Republican primary results,Primary,Winning,True,Republican Party (United States),Mike Rounds,"101,284",75.8
+2026,South Dakota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Justin McNeal,"32,341",24.2
+2026,South Dakota,Republican primary results,Primary,Total,False,,,"133,625",100.0
+2026,Tennessee,Republican primary results,Primary,Winning,True,Republican Party (United States),Bill Hagerty,"629,194",100.00
 2026,Tennessee,Republican primary results,Primary,Write-in,False,,,1,0.00
 2026,Tennessee,Republican primary results,Primary,Total,False,,,"629,195",100.00
-2026,Tennessee,Democratic primary results,Primary,Winning,False,Marquita Bradshaw,Democratic Party (United States),"186,230",54.8
-2026,Tennessee,Democratic primary results,Primary,Candidate,False,Maria Brewer,Democratic Party (United States),"61,061",18.0
-2026,Tennessee,Democratic primary results,Primary,Candidate,False,Kevin Lee McCants,Democratic Party (United States),"34,234",10.1
-2026,Tennessee,Democratic primary results,Primary,Candidate,False,Civil Miller-Watkins,Democratic Party (United States),"29,596",8.7
-2026,Tennessee,Democratic primary results,Primary,Candidate,False,Diana Onyejiaka,Democratic Party (United States),"28,805",8.5
+2026,Tennessee,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Marquita Bradshaw,"186,230",54.8
+2026,Tennessee,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Maria Brewer,"61,061",18.0
+2026,Tennessee,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Kevin Lee McCants,"34,234",10.1
+2026,Tennessee,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Civil Miller-Watkins,"29,596",8.7
+2026,Tennessee,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Diana Onyejiaka,"28,805",8.5
 2026,Tennessee,Democratic primary results,Primary,Total,False,,,"339,926",100.0
-2026,West Virginia,Republican primary,Primary,Winning,True,Shelley Moore Capito,Republican Party (United States),"80,376",66.5
-2026,West Virginia,Republican primary,Primary,Candidate,False,Tom Willis,Republican Party (United States),"22,829",18.9
-2026,West Virginia,Republican primary,Primary,Candidate,False,Bryan McKinney,Republican Party (United States),"5,587",4.6
-2026,West Virginia,Republican primary,Primary,Candidate,False,David Purkey,Republican Party (United States),"5,040",4.2
-2026,West Virginia,Republican primary,Primary,Candidate,False,Alex Gaaserud,Republican Party (United States),"4,462",3.7
-2026,West Virginia,Republican primary,Primary,Candidate,False,Janet McNulty,Republican Party (United States),"2,597",2.1
+2026,Texas,Republican primary results,Primary,Winning,True,Republican Party (United States),John Cornyn,"910,382",42.0
+2026,Texas,Republican primary results,Primary,Winning,False,Republican Party (United States),Ken Paxton,"878,564",40.5
+2026,Texas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Wesley Hunt,"293,250",13.5
+2026,Texas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Sara Canady,"26,355",1.2
+2026,Texas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Anna Bender,"24,167",1.1
+2026,Texas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Gulrez Khan,"15,873",0.7
+2026,Texas,Republican primary results,Primary,Candidate,False,Republican Party (United States),John Adefope,"9,284",0.4
+2026,Texas,Republican primary results,Primary,Candidate,False,Republican Party (United States),Virgil Bierschwale,"9,035",0.4
+2026,Texas,Republican primary results,Primary,Total,False,,,"2,166,910",100.0
+2026,Texas,Republican primary runoff results,Primary,Winning,False,Republican Party (United States),Ken Paxton,"888,196",63.8
+2026,Texas,Republican primary runoff results,Primary,Candidate,True,Republican Party (United States),John Cornyn,"503,438",36.2
+2026,Texas,Republican primary runoff results,Primary,Total,False,,,"1,391,634",100.0
+2026,Texas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),James Talarico,"1,216,412",52.4
+2026,Texas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Jasmine Crockett,"1,071,900",46.2
+2026,Texas,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Ahmad Hassan,"30,875",1.3
+2026,Texas,Democratic primary results,Primary,Total,False,,,"2,319,187",100.0
+2026,Virginia,Republican primary results,Primary,Winning,False,Republican Party (United States),Bert Mizusawa,"124,271",51.5
+2026,Virginia,Republican primary results,Primary,Candidate,False,Republican Party (United States),David Williams,"69,725",28.9
+2026,Virginia,Republican primary results,Primary,Candidate,False,Republican Party (United States),Kim Farington,"47,357",19.6
+2026,Virginia,Republican primary results,Primary,Total,False,,,"241,353",100.0
+2026,West Virginia,Republican primary,Primary,Winning,True,Republican Party (United States),Shelley Moore Capito,"80,376",66.5
+2026,West Virginia,Republican primary,Primary,Candidate,False,Republican Party (United States),Tom Willis,"22,829",18.9
+2026,West Virginia,Republican primary,Primary,Candidate,False,Republican Party (United States),Bryan McKinney,"5,587",4.6
+2026,West Virginia,Republican primary,Primary,Candidate,False,Republican Party (United States),David Purkey,"5,040",4.2
+2026,West Virginia,Republican primary,Primary,Candidate,False,Republican Party (United States),Alex Gaaserud,"4,462",3.7
+2026,West Virginia,Republican primary,Primary,Candidate,False,Republican Party (United States),Janet McNulty,"2,597",2.1
 2026,West Virginia,Republican primary,Primary,Total,False,,,"120,891",100.0
-2026,West Virginia,Democratic primary,Primary,Winning,False,Rachel Fetty Anderson,Democratic Party (United States),"30,930",33.2
-2026,West Virginia,Democratic primary,Primary,Candidate,False,Jeff Kessler,Democratic Party (United States),"25,228",27.0
-2026,West Virginia,Democratic primary,Primary,Candidate,False,Zach Shrewsbury,Democratic Party (United States),"15,076",16.2
-2026,West Virginia,Democratic primary,Primary,Candidate,False,Thornton Cooper,Democratic Party (United States),"11,826",12.7
-2026,West Virginia,Democratic primary,Primary,Candidate,False,Rio Phillips,Democratic Party (United States),"10,237",11.0
+2026,West Virginia,Democratic primary,Primary,Winning,False,Democratic Party (United States),Rachel Fetty Anderson,"30,930",33.2
+2026,West Virginia,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Jeff Kessler,"25,228",27.0
+2026,West Virginia,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Zach Shrewsbury,"15,076",16.2
+2026,West Virginia,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Thornton Cooper,"11,826",12.7
+2026,West Virginia,Democratic primary,Primary,Candidate,False,Democratic Party (United States),Rio Phillips,"10,237",11.0
 2026,West Virginia,Democratic primary,Primary,Total,False,,,"93,297",100.0
-2026,Wyoming,Republican primary results,Primary,Winning,False,Harriet Hageman,Republican Party (United States),"83,807",64.9
-2026,Wyoming,Republican primary results,Primary,Candidate,False,Sam Mead,Republican Party (United States),"35,879",27.8
-2026,Wyoming,Republican primary results,Primary,Candidate,False,Jimmy Skovgard,Republican Party (United States),"3,527",2.7
-2026,Wyoming,Republican primary results,Primary,Candidate,False,Jill M. Edwards,Republican Party (United States),"3,431",2.7
-2026,Wyoming,Republican primary results,Primary,Candidate,False,John A. Holtz,Republican Party (United States),"2,539",2.0
+2026,Wyoming,Republican primary results,Primary,Winning,False,Republican Party (United States),Harriet Hageman,"83,807",64.9
+2026,Wyoming,Republican primary results,Primary,Candidate,False,Republican Party (United States),Sam Mead,"35,879",27.8
+2026,Wyoming,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jimmy Skovgard,"3,527",2.7
+2026,Wyoming,Republican primary results,Primary,Candidate,False,Republican Party (United States),Jill M. Edwards,"3,431",2.7
+2026,Wyoming,Republican primary results,Primary,Candidate,False,Republican Party (United States),John A. Holtz,"2,539",2.0
 2026,Wyoming,Republican primary results,Primary,Total,False,,,"129,183",100.0
-2026,Wyoming,Democratic primary results,Primary,Winning,False,James Byrd,Democratic Party (United States),"9,591",79.3
-2026,Wyoming,Democratic primary results,Primary,Candidate,False,Billy Benavidez,Democratic Party (United States),"2,499",20.7
+2026,Wyoming,Democratic primary results,Primary,Winning,False,Democratic Party (United States),James Byrd,"9,591",79.3
+2026,Wyoming,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Billy Benavidez,"2,499",20.7
 2026,Wyoming,Democratic primary results,Primary,Total,False,,,"12,090",100.0

@@ -1,0 +1,23 @@
+{
+  "years": {
+    "2026": {
+      "governor": {
+        "rows": 150,
+        "states": 40
+      },
+      "attorney general": {
+        "rows": 67,
+        "states": 33
+      },
+      "secretary of state": {
+        "rows": 59,
+        "states": 26
+      },
+      "state treasurer": {
+        "rows": 52,
+        "states": 25
+      }
+    }
+  },
+  "missing_articles": []
+}
