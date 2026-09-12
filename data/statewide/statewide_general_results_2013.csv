@@ -1,0 +1,15 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Winning,Chris Christie,Republican,1278932,60.3,True,True
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Barbara Buono,Democratic,809978,38.19,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Kenneth R. Kaplan,Libertarian,12155,0.57,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Steve Welzer,Green,8295,0.39,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Diane W. Sare,Glass-steagall Now,3360,0.16,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,William Araujo,Freedom,3300,0.16,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Hank Schroeder,Independent,2784,0.13,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Jeff Boss,Nsa Did 911,2062,0.1,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Total,,,2120866,100.0,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Winning,Terry McAuliffe,Democratic,1069789,47.74,True,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Candidate,Ken Cuccinelli,Republican,1013354,45.22,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Candidate,Robert Sarvis,Libertarian,146084,6.52,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Write-in,,,11844,0.53,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Total,,,2241071,100.0,False,False

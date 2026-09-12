@@ -1,0 +1,1840 @@
+{
+  "method": {
+    "lean": "district Democratic two-party share minus national Democratic two-party share (Cook-PVI construction)",
+    "allocation": "whole counties: full weight; partial counties: allocated by geometric county-area shares (county_share_pct) normalised across claimant districts; at-large: entire jurisdiction",
+    "map_vintage_for_year": {
+      "2004": "2000s",
+      "2008": "2000s",
+      "2012": "2000s",
+      "2016": "2010s",
+      "2020": "2010s",
+      "2024": "2020s"
+    },
+    "note_2012": "Nov 2012 voted under the 2000s map (108th-112th Congress lines, as finally used incl. TX 2003 / GA 2006)",
+    "caveat": "partial counties are area-weighted, not population-weighted; leans for districts containing large shared counties are dampened toward the state mean \u2014 see votes_from_partial_pct; the 2010s crosswalk snapshot shows the map as first enacted (FL 2015 / NC 2016 & 2019 / PA 2018 court redraws are not reflected); Alaska has no borough-level table before 2024, so AK-AL is computed for 2024 only"
+  },
+  "mapping": {
+    "generated": "2026-09-05 13:47:37",
+    "source": {
+      "district_boundaries": "UCLA cdmaps \u2014 github.com/JeffreyBLewis/congressional-district-boundaries era GeoJSON files",
+      "county_boundaries": "2010 Census cartographic county boundaries (1:5m), eric.clst.org mirror of gz_2010_us_050_00_5m.json",
+      "projection": "EPSG:5070 (NAD83 / Conus Albers Equal Area); both layers treated identically so area ratios are projection-consistent"
+    },
+    "snapshot_congress": {
+      "2000s": 112,
+      "2010s": 113,
+      "2020s": 119
+    },
+    "snapshot_note": "Cycle snapshots are taken at the END congress of each cycle so mid-decade court redraws are reflected; the 2020s snapshot includes the final post-2024 court-ordered redraws for AL / GA / LA / NC / NY.",
+    "classification_note": "Full = county_frac >= 98% of the county's district-covered area; Partial = >= 2% of the county, or >= 4% of the district's own area (fragment rule for urban districts inside one large county).",
+    "thresholds": {
+      "full_county_frac": 0.98,
+      "partial_county_frac": 0.02,
+      "partial_district_frac": 0.04
+    },
+    "jurisdictions": {
+      "AK": {
+        "name": "Alaska",
+        "fips": "02"
+      },
+      "AL": {
+        "name": "Alabama",
+        "fips": "01"
+      },
+      "AR": {
+        "name": "Arkansas",
+        "fips": "05"
+      },
+      "AZ": {
+        "name": "Arizona",
+        "fips": "04"
+      },
+      "CA": {
+        "name": "California",
+        "fips": "06"
+      },
+      "CO": {
+        "name": "Colorado",
+        "fips": "08"
+      },
+      "CT": {
+        "name": "Connecticut",
+        "fips": "09"
+      },
+      "DC": {
+        "name": "District of Columbia",
+        "fips": "11"
+      },
+      "DE": {
+        "name": "Delaware",
+        "fips": "10"
+      },
+      "FL": {
+        "name": "Florida",
+        "fips": "12"
+      },
+      "GA": {
+        "name": "Georgia",
+        "fips": "13"
+      },
+      "HI": {
+        "name": "Hawaii",
+        "fips": "15"
+      },
+      "IA": {
+        "name": "Iowa",
+        "fips": "19"
+      },
+      "ID": {
+        "name": "Idaho",
+        "fips": "16"
+      },
+      "IL": {
+        "name": "Illinois",
+        "fips": "17"
+      },
+      "IN": {
+        "name": "Indiana",
+        "fips": "18"
+      },
+      "KS": {
+        "name": "Kansas",
+        "fips": "20"
+      },
+      "KY": {
+        "name": "Kentucky",
+        "fips": "21"
+      },
+      "LA": {
+        "name": "Louisiana",
+        "fips": "22"
+      },
+      "MA": {
+        "name": "Massachusetts",
+        "fips": "25"
+      },
+      "MD": {
+        "name": "Maryland",
+        "fips": "24"
+      },
+      "ME": {
+        "name": "Maine",
+        "fips": "23"
+      },
+      "MI": {
+        "name": "Michigan",
+        "fips": "26"
+      },
+      "MN": {
+        "name": "Minnesota",
+        "fips": "27"
+      },
+      "MO": {
+        "name": "Missouri",
+        "fips": "29"
+      },
+      "MS": {
+        "name": "Mississippi",
+        "fips": "28"
+      },
+      "MT": {
+        "name": "Montana",
+        "fips": "30"
+      },
+      "NC": {
+        "name": "North Carolina",
+        "fips": "37"
+      },
+      "ND": {
+        "name": "North Dakota",
+        "fips": "38"
+      },
+      "NE": {
+        "name": "Nebraska",
+        "fips": "31"
+      },
+      "NH": {
+        "name": "New Hampshire",
+        "fips": "33"
+      },
+      "NJ": {
+        "name": "New Jersey",
+        "fips": "34"
+      },
+      "NM": {
+        "name": "New Mexico",
+        "fips": "35"
+      },
+      "NV": {
+        "name": "Nevada",
+        "fips": "32"
+      },
+      "NY": {
+        "name": "New York",
+        "fips": "36"
+      },
+      "OH": {
+        "name": "Ohio",
+        "fips": "39"
+      },
+      "OK": {
+        "name": "Oklahoma",
+        "fips": "40"
+      },
+      "OR": {
+        "name": "Oregon",
+        "fips": "41"
+      },
+      "PA": {
+        "name": "Pennsylvania",
+        "fips": "42"
+      },
+      "RI": {
+        "name": "Rhode Island",
+        "fips": "44"
+      },
+      "SC": {
+        "name": "South Carolina",
+        "fips": "45"
+      },
+      "SD": {
+        "name": "South Dakota",
+        "fips": "46"
+      },
+      "TN": {
+        "name": "Tennessee",
+        "fips": "47"
+      },
+      "TX": {
+        "name": "Texas",
+        "fips": "48"
+      },
+      "UT": {
+        "name": "Utah",
+        "fips": "49"
+      },
+      "VA": {
+        "name": "Virginia",
+        "fips": "51"
+      },
+      "VT": {
+        "name": "Vermont",
+        "fips": "50"
+      },
+      "WA": {
+        "name": "Washington",
+        "fips": "53"
+      },
+      "WI": {
+        "name": "Wisconsin",
+        "fips": "55"
+      },
+      "WV": {
+        "name": "West Virginia",
+        "fips": "54"
+      },
+      "WY": {
+        "name": "Wyoming",
+        "fips": "56"
+      }
+    },
+    "seats": {
+      "AK": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "AL": {
+        "2000s": 7,
+        "2010s": 7,
+        "2020s": 7
+      },
+      "AR": {
+        "2000s": 4,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "AZ": {
+        "2000s": 8,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "CA": {
+        "2000s": 53,
+        "2010s": 53,
+        "2020s": 52
+      },
+      "CO": {
+        "2000s": 7,
+        "2010s": 7,
+        "2020s": 8
+      },
+      "CT": {
+        "2000s": 5,
+        "2010s": 5,
+        "2020s": 5
+      },
+      "DC": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "DE": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "FL": {
+        "2000s": 25,
+        "2010s": 27,
+        "2020s": 28
+      },
+      "GA": {
+        "2000s": 13,
+        "2010s": 14,
+        "2020s": 14
+      },
+      "HI": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "IA": {
+        "2000s": 5,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "ID": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "IL": {
+        "2000s": 19,
+        "2010s": 18,
+        "2020s": 17
+      },
+      "IN": {
+        "2000s": 9,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "KS": {
+        "2000s": 4,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "KY": {
+        "2000s": 6,
+        "2010s": 6,
+        "2020s": 6
+      },
+      "LA": {
+        "2000s": 7,
+        "2010s": 6,
+        "2020s": 6
+      },
+      "MA": {
+        "2000s": 10,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "MD": {
+        "2000s": 8,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "ME": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "MI": {
+        "2000s": 15,
+        "2010s": 14,
+        "2020s": 13
+      },
+      "MN": {
+        "2000s": 8,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "MO": {
+        "2000s": 9,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "MS": {
+        "2000s": 4,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "MT": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 2
+      },
+      "NC": {
+        "2000s": 13,
+        "2010s": 13,
+        "2020s": 14
+      },
+      "ND": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "NE": {
+        "2000s": 3,
+        "2010s": 3,
+        "2020s": 3
+      },
+      "NH": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "NJ": {
+        "2000s": 13,
+        "2010s": 12,
+        "2020s": 12
+      },
+      "NM": {
+        "2000s": 3,
+        "2010s": 3,
+        "2020s": 3
+      },
+      "NV": {
+        "2000s": 3,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "NY": {
+        "2000s": 29,
+        "2010s": 27,
+        "2020s": 26
+      },
+      "OH": {
+        "2000s": 18,
+        "2010s": 16,
+        "2020s": 15
+      },
+      "OK": {
+        "2000s": 5,
+        "2010s": 5,
+        "2020s": 5
+      },
+      "OR": {
+        "2000s": 5,
+        "2010s": 5,
+        "2020s": 6
+      },
+      "PA": {
+        "2000s": 19,
+        "2010s": 18,
+        "2020s": 17
+      },
+      "RI": {
+        "2000s": 2,
+        "2010s": 2,
+        "2020s": 2
+      },
+      "SC": {
+        "2000s": 6,
+        "2010s": 7,
+        "2020s": 7
+      },
+      "SD": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "TN": {
+        "2000s": 9,
+        "2010s": 9,
+        "2020s": 9
+      },
+      "TX": {
+        "2000s": 32,
+        "2010s": 36,
+        "2020s": 38
+      },
+      "UT": {
+        "2000s": 3,
+        "2010s": 4,
+        "2020s": 4
+      },
+      "VA": {
+        "2000s": 11,
+        "2010s": 11,
+        "2020s": 11
+      },
+      "VT": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      },
+      "WA": {
+        "2000s": 9,
+        "2010s": 10,
+        "2020s": 10
+      },
+      "WI": {
+        "2000s": 8,
+        "2010s": 8,
+        "2020s": 8
+      },
+      "WV": {
+        "2000s": 3,
+        "2010s": 3,
+        "2020s": 2
+      },
+      "WY": {
+        "2000s": 1,
+        "2010s": 1,
+        "2020s": 1
+      }
+    },
+    "event_notes": {
+      "TX:2000s": "Map reflects the 2003 Tom DeLay mid-decade redraw, in force for the 109th-112th Congresses (2006 court-drawn interim lines finalised by 2007 are included).",
+      "TX:2020s": "2021 legislature-enacted map; reversed the 2000s move that had shifted Texarkana out of TX-01.",
+      "AL:2020s": "2023 map invalidated by Allen v. Milligan; court-drawn additional majority-Black district (AL-02) used from the 2024 election.",
+      "GA:2020s": "2023 legislature map; court-ordered Black-majority districts added from the 2024 election.",
+      "LA:2020s": "Callais-era litigation; a second majority-Black district (LA-06) drawn for the 2024 election.",
+      "NC:2020s": "October 2023 legislature map enacted for the 2024 election (NC-01/NC-03 boundaries changed).",
+      "NY:2020s": "2023 map enacted by the Independent Redistricting Commission path for the 2024 election.",
+      "PA:2010s": "Snapshot is the 113th-Congress map; the 2018 Pennsylvania Supreme Court redraw used for 115th-117th is NOT shown.",
+      "NC:2010s": "Snapshot is the 113th-Congress map; 2016 and 2019 court redraws used later in the decade are NOT shown.",
+      "VA:2010s": "Snapshot is the 113th-Congress map; the 2020 redistricting commission map is NOT shown.",
+      "FL:2010s": "Snapshot is the 113th-Congress map; 2015-16 court-ordered redraws (Fair Districts) are NOT shown."
+    },
+    "validation": {
+      "errors": [],
+      "warnings": [],
+      "checks": {
+        "seat_total_2000s": 435,
+        "seat_total_2010s": 435,
+        "seat_total_2020s": 435,
+        "TX seats 32/36/38": "PASS",
+        "OR seats 5/5/6 (6th seat added after 2020 Census)": "PASS",
+        "MT at-large until 2023, then MT-01/MT-02": "PASS",
+        "ID 2 seats in every cycle": "PASS",
+        "FL seats 25/27/28": "PASS",
+        "NY seats 29/27/26": "PASS",
+        "PA seats 19/18/17": "PASS",
+        "DC exactly one (non-voting) seat in every cycle": "PASS",
+        "Bowie Co TX: full in TX-04 (2000s), partial in TX-01 (2020s)": "PASS",
+        "known_facts_passed": "8/8",
+        "county_coverage_2000s": "3143/3143",
+        "county_coverage_2010s": "3143/3143",
+        "county_coverage_2020s": "3143/3143"
+      }
+    },
+    "states_total": 51,
+    "duplicate_labels": [],
+    "unrecognised_labels": [],
+    "districts_total": 456
+  },
+  "years": {
+    "2004": {
+      "vintage": "2000s",
+      "presidential_rows": 10492,
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 58914678,
+        "r_votes": 61848493,
+        "d_share_two_party_pct": 48.79
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 25
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 29
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 32
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "VA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2008": {
+      "vintage": "2000s",
+      "presidential_rows": 10175,
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 69373778,
+        "r_votes": 59756261,
+        "d_share_two_party_pct": 53.72
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 25
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 29
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 32
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "VA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2012": {
+      "vintage": "2000s",
+      "presidential_rows": 9832,
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 65791946,
+        "r_votes": 60767217,
+        "d_share_two_party_pct": 51.99
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 25
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 29
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 19
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 32
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.69,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2016": {
+      "vintage": "2010s",
+      "presidential_rows": 10034,
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 65733571,
+        "r_votes": 62820962,
+        "d_share_two_party_pct": 51.13
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 12
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 16
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 36
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.66,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2020": {
+      "vintage": "2010s",
+      "presidential_rows": 9603,
+      "states_present": 50,
+      "rows": 436,
+      "national": {
+        "d_votes": 81126333,
+        "r_votes": 74034849,
+        "d_share_two_party_pct": 52.29
+      },
+      "allocation_coverage": {
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 53
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 12
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 27
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 16
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 18
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 36
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.65,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    },
+    "2024": {
+      "vintage": "2020s",
+      "presidential_rows": 9450,
+      "states_present": 51,
+      "rows": 436,
+      "national": {
+        "d_votes": 75011733,
+        "r_votes": 77302049,
+        "d_share_two_party_pct": 49.25
+      },
+      "allocation_coverage": {
+        "AK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "AL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "AR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "AZ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "CA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 52
+        },
+        "CO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "CT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "DC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "DE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "FL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 28
+        },
+        "GA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "HI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "ID": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "IL": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 17
+        },
+        "IN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "KS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "KY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "LA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "MA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "MD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "ME": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "MI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 13
+        },
+        "MN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MO": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "MS": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "MT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 14
+        },
+        "ND": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "NE": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "NJ": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 12
+        },
+        "NM": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 3
+        },
+        "NV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "NY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 26
+        },
+        "OH": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 15
+        },
+        "OK": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 5
+        },
+        "OR": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 6
+        },
+        "PA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 17
+        },
+        "RI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "SC": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 7
+        },
+        "SD": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "TN": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 9
+        },
+        "TX": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 38
+        },
+        "UT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 4
+        },
+        "VA": {
+          "allocated_vs_available_pct": 99.51,
+          "districts": 11
+        },
+        "VT": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        },
+        "WA": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 10
+        },
+        "WI": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 8
+        },
+        "WV": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 2
+        },
+        "WY": {
+          "allocated_vs_available_pct": 100.0,
+          "districts": 1
+        }
+      },
+      "unmatched_counties": null,
+      "unclaimed_counties": null,
+      "multi_whole_counties": null
+    }
+  }
+}

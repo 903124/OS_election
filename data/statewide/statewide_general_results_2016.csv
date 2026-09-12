@@ -1,0 +1,81 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Winning,John Carney,Democratic,248404,58.34,True,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Candidate,Colin Bonini,Republican,166852,39.18,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Candidate,Andrew Groff,Green,5951,1.39,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Candidate,Sean Louis Goward,Libertarian,4577,1.09,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Total,,,425784,100.0,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Winning,Eric Holcomb/Suzanne Crouch,Republican,1397396,51.38,True,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Candidate,John R. Gregg/Christina Hale,Democratic,1235503,45.42,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Candidate,Rex Bell,Libertarian,87025,3.2,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Write-in,,,44,0.0,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Total,,,2719968,100.0,False,False
+2016,Missouri,MO,attorney general,2016 Missouri Attorney General election,Winning,Josh Hawley,Republican,1607550,58.5,True,False
+2016,Missouri,MO,attorney general,2016 Missouri Attorney General election,Candidate,Teresa Hensley,Democratic,1140252,41.5,False,False
+2016,Missouri,MO,attorney general,2016 Missouri Attorney General election,Total,,,2747802,100.0,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Winning,Eric Greitens,Republican,1433397,51.14,True,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,Chris Koster,Democratic,1277360,45.57,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,Cisse Spragins,Libertarian,41154,1.47,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,"Lester Benton Turilli, Jr.",Independent,30019,1.07,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,Don Fitz,Green,21088,0.75,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Write-in,,,28,0.0,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Total,,,2803046,100.0,False,False
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Winning,Steve Bullock,Democratic,255933,50.25,True,True
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Candidate,Greg Gianforte,Republican,236115,46.35,False,False
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Candidate,Ted Dunlap,Libertarian,17312,3.4,False,False
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Total,,,509360,100.0,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Winning,Chris Sununu,Republican,354040,48.84,True,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Candidate,Colin Van Ostern,Democratic,337589,46.57,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Candidate,Max Abramson,Libertarian,31243,4.31,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Write-in,,,1991,0.28,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Total,,,724863,100.0,False,False
+2016,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2016",Winning,Josh Stein,Democratic,2303619,50.27,True,False
+2016,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2016",Candidate,Buck Newton,Republican,2279006,49.73,False,False
+2016,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2016",Total,,,4582625,100.0,False,False
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Winning,Roy Cooper,Democratic,2309162,49.02,True,False
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Candidate,Pat McCrory,Republican,2298881,48.8,False,True
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Candidate,Lon Cecil,Libertarian,102978,2.19,False,False
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Total,,,4711014,100.0,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Winning,Doug Burgum,Republican,259863,76.52,True,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Candidate,Marvin Nelson,North Dakota Democratic-npl,65855,19.39,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Candidate,Marty Riske,Libertarian,13230,3.9,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Write-in,,,653,0.19,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Total,,,339601,100.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Winning,Kate Brown,Democratic,985027,50.62,True,True
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,Bud Pierce,Republican,845609,43.45,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,Cliff Thomason,Independent,47481,2.44,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,James Foster,Libertarian,45191,2.32,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,Aaron Donald Auer,Constitution,19400,1.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Write-in,,,3338,0.17,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Total,,,1946046,100.0,False,False
+2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Winning,Josh Shapiro,Democratic,3057010,51.39,True,False
+2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Candidate,John Rafferty,Republican,2891325,48.61,False,False
+2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Total,,,5948335,100.0,False,False
+2016,Utah,UT,attorney general,General election results,Winning,Sean Reyes,Republican,719064,65.4,True,True
+2016,Utah,UT,attorney general,General election results,Candidate,Jon Harper,Democratic,275571,25.1,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Andrew McCullough,Libertarian,73975,6.7,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Michael Isbell,Independent American,30687,2.8,False,False
+2016,Utah,UT,attorney general,General election results,Total,,,1099297,100.0,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Winning,Gary Herbert,Republican,750850,66.74,True,True
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Mike Weinholtz,Democratic,323349,28.74,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Brian Kamerath,Libertarian,34827,3.1,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Superdell Schanze,Independent American,15912,1.41,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,L. S. Brown,Write-in,97,0.01,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Total,,,1125035,100.0,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Winning,Phil Scott,Republican,166817,52.9,True,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Candidate,Sue Minter,Democratic,139253,44.17,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Candidate,Bill Lee,Union,8912,2.83,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Write-in,,,313,0.1,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Total,,,315295,100.0,False,False
+2016,Washington,WA,attorney general,2016 Washington Attorney General election,Winning,Bob Ferguson,Democratic,2000804,67.14,True,True
+2016,Washington,WA,attorney general,2016 Washington Attorney General election,Candidate,Joshua Trumbull,Libertarian,979105,32.86,False,False
+2016,Washington,WA,attorney general,2016 Washington Attorney General election,Total,,,2979909,100.0,False,False
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Winning,Jay Inslee,Democratic,1760520,54.25,True,True
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Candidate,Bill Bryant,Republican,1476346,45.49,False,False
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Write-in,,,8416,0.26,False,False
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Total,,,3245282,100.0,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Winning,Jim Justice,Democratic,350408,49.09,True,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,Bill Cole,Republican,301987,42.3,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,Charlotte Pritt,Mountain,42068,5.89,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,David Moran,Libertarian,15354,2.15,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,Phil Hudok,Constitution,4041,0.57,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Total,,,713858,100.0,False,False

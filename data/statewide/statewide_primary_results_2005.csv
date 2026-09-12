@@ -1,0 +1,16 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2005,New Jersey,NJ,governor,Democratic Primary results,Winning,Jon S. Corzine,Democratic,207670,88.08,True,False
+2005,New Jersey,NJ,governor,Democratic Primary results,Candidate,"James D. Kelly, Jr.",Democratic,19512,8.28,False,False
+2005,New Jersey,NJ,governor,Democratic Primary results,Candidate,Francis X. Tenaglio,Democratic,8596,3.65,False,False
+2005,New Jersey,NJ,governor,Democratic Primary results,Total,,,235778,100.0,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Winning,Doug Forrester,Republican,108941,36.01,True,False
+2005,New Jersey,NJ,governor,Republican Primary results,Candidate,Bret Schundler,Republican,94417,31.21,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Candidate,John J. Murphy,Republican,33800,11.17,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Candidate,Steve Lonegan,Republican,24433,8.08,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Candidate,Robert Schroeder,Republican,16763,5.54,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Candidate,Paul DiGaetano,Republican,16684,5.52,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Candidate,Todd Caliguire,Republican,7463,2.47,False,False
+2005,New Jersey,NJ,governor,Republican Primary results,Total,,,302501,100.0,False,False
+2005,Virginia,VA,governor,Republican primary results,Winning,Jerry Kilgore,Republican,145002,82.78,True,False
+2005,Virginia,VA,governor,Republican primary results,Candidate,George Fitch,Republican,30168,17.22,False,False
+2005,Virginia,VA,governor,Republican primary results,Total,,,175170,100.0,False,False

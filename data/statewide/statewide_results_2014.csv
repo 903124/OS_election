@@ -10,7 +10,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Arizona,AZ,governor,Barry Hess,Libertarian,3.8,False,False
 2014,Arizona,AZ,governor,John Lewis Mealer,Americans Elect,1.0,False,False
 2014,Arkansas,AR,governor,Asa Hutchinson,Republican,55.4,True,False
-2014,Arkansas,AR,governor,Mike Ross (politician)|Mike Ross,Democratic,41.5,False,False
+2014,Arkansas,AR,governor,Mike Ross,Democratic,41.5,False,False
 2014,Arkansas,AR,governor,Frank Gilbert,Libertarian,1.9,False,False
 2014,Arkansas,AR,governor,Josh Drake,Green,1.2,False,False
 2014,California,CA,governor,Jerry Brown,Democratic,60.0,True,True
@@ -27,7 +27,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Florida,FL,governor,Charlie Crist,Democratic,47.1,False,False
 2014,Florida,FL,governor,Adrian Wyllie,Libertarian,3.8,False,False
 2014,Georgia,GA,governor,Nathan Deal,Republican,52.7,True,True
-2014,Georgia,GA,governor,Jason Carter (politician)|Jason Carter,Democratic,44.9,False,False
+2014,Georgia,GA,governor,Jason Carter,Democratic,44.9,False,False
 2014,Georgia,GA,governor,Andrew Hunt,Libertarian,2.4,False,False
 2014,Hawaii,HI,governor,David Ige,Democratic,49.5,True,False
 2014,Hawaii,HI,governor,Duke Aiona,Republican,37.1,False,False
@@ -39,19 +39,19 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Idaho,ID,governor,Jill Humble,Independent,2.0,False,False
 2014,Idaho,ID,governor,Steven Pankey,Constitution,1.2,False,False
 2014,Illinois,IL,governor,Bruce Rauner,Republican,50.3,True,False
-2014,Illinois,IL,governor,Pat Quinn (politician)|Pat Quinn,Democratic,46.4,False,True
+2014,Illinois,IL,governor,Pat Quinn,Democratic,46.4,False,True
 2014,Illinois,IL,governor,Chad Grimm,Libertarian,3.4,False,False
 2014,Iowa,IA,governor,Terry Branstad,Republican,59.0,True,True
 2014,Iowa,IA,governor,Jack Hatch,Democratic,37.3,False,False
 2014,Iowa,IA,governor,Lee Hieb,Libertarian,1.8,False,False
 2014,Kansas,KS,governor,Sam Brownback,Republican,49.8,True,True
-2014,Kansas,KS,governor,Paul Davis (Kansas politician)|Paul Davis,Democratic,46.1,False,False
+2014,Kansas,KS,governor,Paul Davis,Democratic,46.1,False,False
 2014,Kansas,KS,governor,Keen Umbehr,Libertarian,4.1,False,False
 2014,Maine,ME,governor,Paul LePage,Republican,48.2,True,True
 2014,Maine,ME,governor,Mike Michaud,Democratic,43.4,False,False
 2014,Maine,ME,governor,Eliot Cutler,Independent,8.4,False,False
 2014,Maryland,MD,governor,Larry Hogan,Republican,51.0,True,False
-2014,Maryland,MD,governor,Anthony Brown (Maryland politician)|Anthony Brown,Democratic,47.3,False,False
+2014,Maryland,MD,governor,Anthony Brown,Democratic,47.3,False,False
 2014,Maryland,MD,governor,Shawn Quinn,Libertarian,1.5,False,False
 2014,Massachusetts,MA,governor,Charlie Baker,Republican,48.4,True,False
 2014,Massachusetts,MA,governor,Martha Coakley,Democratic,46.5,False,False
@@ -60,7 +60,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Michigan,MI,governor,Mark Schauer,Democratic,46.9,False,False
 2014,Michigan,MI,governor,Mary Buzuma,Libertarian,1.1,False,False
 2014,Minnesota,MN,governor,Mark Dayton,Minnesota Democratic–farmer–labor,50.1,True,True
-2014,Minnesota,MN,governor,Jeff Johnson (Minnesota politician)|Jeff Johnson,Republican,44.5,False,False
+2014,Minnesota,MN,governor,Jeff Johnson,Republican,44.5,False,False
 2014,Minnesota,MN,governor,Hannah Nicollet,Independence Party (minnesota),2.9,False,False
 2014,Minnesota,MN,governor,Chris Wright,Grassroots–legalize Cannabis,1.6,False,False
 2014,Nebraska,NE,governor,Pete Ricketts,Republican,57.2,True,False
@@ -72,7 +72,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,New Hampshire,NH,governor,Maggie Hassan,Democratic,52.4,True,True
 2014,New Hampshire,NH,governor,Walt Havenstein,Republican,47.4,False,False
 2014,New Mexico,NM,governor,Susana Martinez,Republican,57.2,True,True
-2014,New Mexico,NM,governor,Gary King (politician)|Gary King,Democratic,42.8,False,False
+2014,New Mexico,NM,governor,Gary King,Democratic,42.8,False,False
 2014,New York,NY,governor,Andrew Cuomo,Democratic,54.3,True,True
 2014,New York,NY,governor,Rob Astorino,Republican,40.3,False,False
 2014,New York,NY,governor,Howie Hawkins,Green,4.8,False,False
@@ -84,7 +84,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Oklahoma,OK,governor,Kimberly Willis,Independent,2.1,False,False
 2014,Oklahoma,OK,governor,Richard Prawdzienski,Independent,1.1,False,False
 2014,Oregon,OR,governor,John Kitzhaber,Democratic,49.9,True,True
-2014,Oregon,OR,governor,Dennis Richardson (politician)|Dennis Richardson,Republican,44.1,False,False
+2014,Oregon,OR,governor,Dennis Richardson,Republican,44.1,False,False
 2014,Oregon,OR,governor,Jason Levin,Green,2.0,False,False
 2014,Oregon,OR,governor,Paul Grad,Libertarian,1.5,False,False
 2014,Oregon,OR,governor,Aaron Auer,Constitution,1.1,False,False
@@ -107,7 +107,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Tennessee,TN,governor,Shaun Crowell,Constitution,2.0,False,False
 2014,Tennessee,TN,governor,Isa Infante,Green,1.4,False,False
 2014,Texas,TX,governor,Greg Abbott,Republican,59.3,True,False
-2014,Texas,TX,governor,Wendy Davis (politician)|Wendy Davis,Democratic,38.9,False,False
+2014,Texas,TX,governor,Wendy Davis,Democratic,38.9,False,False
 2014,Texas,TX,governor,Kathie Glass,Libertarian,1.4,False,False
 2014,Vermont,VT,governor,Peter Shumlin,Democratic,46.4,True,True
 2014,Vermont,VT,governor,Scott Milne,Republican,45.1,False,False

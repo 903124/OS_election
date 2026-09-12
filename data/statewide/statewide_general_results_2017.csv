@@ -1,0 +1,14 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Winning,Phil Murphy,Democratic,1203110,56.03,True,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Kim Guadagno,Republican,899583,41.89,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Gina Genovese,Independent,12294,0.57,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Peter J. Rohrman,Libertarian,10531,0.49,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Seth Kaper-Dale,Green,10053,0.47,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Matthew Riccardi,Constitution,6864,0.32,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Vincent Ross,Independent,4980,0.29,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Total,,,2147415,100.0,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Winning,Ralph Northam,Democratic,1408818,53.89,True,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Candidate,Ed Gillespie,Republican,1175732,44.98,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Candidate,Cliff Hyra,Libertarian,27987,1.07,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Write-in,,,1528,0.06,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Total,,,2614065,100.0,False,False

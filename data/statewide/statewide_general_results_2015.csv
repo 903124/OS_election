@@ -1,0 +1,10 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Winning,Matt Bevin,Republican,511374,52.52,True,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Jack Conway,Democratic,426620,43.81,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Drew Curtis,Independent,35597,3.66,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Blackii Effing Whyte,Write-in,71,0.01,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Gatewood B. Gatewood,Write-in,30,0.0,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Total,,,973692,100.0,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",Winning,John Bel Edwards,Democratic,646924,56.11,True,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",Candidate,David Vitter,Republican,505940,43.89,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",Total,,,1152864,100.0,False,False

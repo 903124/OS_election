@@ -1,0 +1,69 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2000,Missouri,MO,governor,Republican primary results,Winning,Jim Talent,Republican,296159,84.49,True,False
+2000,Missouri,MO,governor,Republican primary results,Candidate,Jen Sievers,Republican,33674,9.61,False,False
+2000,Missouri,MO,governor,Republican primary results,Candidate,Elgar Macy,Republican,20681,5.9,False,False
+2000,Missouri,MO,governor,Republican primary results,Total,,,350514,100.0,False,False
+2000,Missouri,MO,governor,Democratic primary results,Winning,Bob Holden,Democratic,362457,100.0,True,False
+2000,Missouri,MO,governor,Democratic primary results,Total,,,362457,100.0,False,False
+2000,Missouri,MO,governor,Libertarian primary results,Winning,John M. Swenson,Libertarian,1032,60.35,True,False
+2000,Missouri,MO,governor,Libertarian primary results,Candidate,Dick Illyes,Libertarian,678,39.65,False,False
+2000,Missouri,MO,governor,Libertarian primary results,Total,,,1710,100.0,False,False
+2000,Missouri,MO,governor,Constitution primary results,Winning,Richard L. Smith,Constitution,299,100.0,True,False
+2000,Missouri,MO,governor,Constitution primary results,Total,,,299,100.0,False,False
+2000,Missouri,MO,governor,Reform primary results,Winning,Richard Allen Kline,Reform,317,42.78,True,False
+2000,Missouri,MO,governor,Reform primary results,Candidate,Joseph C. Keller,Reform,231,31.17,False,False
+2000,Missouri,MO,governor,Reform primary results,Candidate,Kent A. Benson,Reform,193,26.05,False,False
+2000,Missouri,MO,governor,Reform primary results,Total,,,741,100.0,False,False
+2000,Montana,MT,governor,Democratic Party primary results,Winning,Mark O'Keefe,Democratic,46294,48.04,True,False
+2000,Montana,MT,governor,Democratic Party primary results,Candidate,Joseph Mazurek,Democratic,34385,35.69,False,False
+2000,Montana,MT,governor,Democratic Party primary results,Candidate,Mike Cooney,Democratic,15677,16.27,False,False
+2000,Montana,MT,governor,Democratic Party primary results,Total,,,96356,100.0,False,False
+2000,Montana,MT,governor,Republican Primary results,Winning,Judy Martz,Republican,64278,56.88,True,False
+2000,Montana,MT,governor,Republican Primary results,Candidate,Rob Natelson,Republican,48738,43.12,False,False
+2000,Montana,MT,governor,Republican Primary results,Total,,,113016,100.0,False,False
+2000,New Hampshire,NH,governor,Democratic primary results,Winning,Jeanne Shaheen (inc.),Democratic,45249,60.41,True,False
+2000,New Hampshire,NH,governor,Democratic primary results,Candidate,Mark Fernald,Democratic,28488,38.03,False,False
+2000,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,1164,1.55,False,False
+2000,New Hampshire,NH,governor,Democratic primary results,Total,,,74901,100.0,False,False
+2000,New Hampshire,NH,governor,Republican primary results,Winning,Gordon Humphrey,Republican,54134,51.86,True,False
+2000,New Hampshire,NH,governor,Republican primary results,Candidate,Jim Squires,Republican,23582,22.59,False,False
+2000,New Hampshire,NH,governor,Republican primary results,Candidate,Jeffrey R. Howard,Republican,21734,20.82,False,False
+2000,New Hampshire,NH,governor,Republican primary results,Candidate,Fred Bramante,Republican,2500,2.39,False,False
+2000,New Hampshire,NH,governor,Republican primary results,Candidate,Write-ins,Republican,1851,1.77,False,False
+2000,New Hampshire,NH,governor,Republican primary results,Candidate,Jim Marron,Republican,584,0.56,False,False
+2000,New Hampshire,NH,governor,Republican primary results,Total,,,104385,100.0,False,False
+2000,North Carolina,NC,governor,2000 Democratic gubernatorial primary,Winning,Mike Easley,Democratic,330764,58.86,True,False
+2000,North Carolina,NC,governor,2000 Democratic gubernatorial primary,Candidate,Dennis A. Wicker,Democratic,203723,36.25,False,False
+2000,North Carolina,NC,governor,2000 Democratic gubernatorial primary,Candidate,Bob Ayers,Democratic,9224,1.64,False,False
+2000,North Carolina,NC,governor,2000 Democratic gubernatorial primary,Candidate,Ken Rogers,Democratic,7998,1.42,False,False
+2000,North Carolina,NC,governor,2000 Democratic gubernatorial primary,Total,,,561940,100.0,False,False
+2000,North Carolina,NC,governor,2000 Republican gubernatorial primary,Winning,Richard Vinroot,Republican,142820,45.48,True,False
+2000,North Carolina,NC,governor,2000 Republican gubernatorial primary,Candidate,N. Leo Daughtry,Republican,116115,36.97,False,False
+2000,North Carolina,NC,governor,2000 Republican gubernatorial primary,Candidate,Charles Neely,Republican,48101,15.32,False,False
+2000,North Carolina,NC,governor,2000 Republican gubernatorial primary,Candidate,Art Manning,Republican,7019,2.23,False,False
+2000,North Carolina,NC,governor,2000 Republican gubernatorial primary,Total,,,314055,100.0,False,False
+2000,Utah,UT,governor,Republican primary results,Winning,Mike Leavitt,Republican,122289,61.76,True,False
+2000,Utah,UT,governor,Republican primary results,Candidate,Glen Davis,Republican,75719,38.24,False,False
+2000,Utah,UT,governor,Republican primary results,Total,,,198008,100.0,False,False
+2000,Vermont,VT,governor,Democratic Primary results,Winning,Howard Dean,Democratic,31366,84.39,True,True
+2000,Vermont,VT,governor,Democratic Primary results,Candidate,Brian Pearl,Democratic,4357,11.72,False,False
+2000,Vermont,VT,governor,Democratic Primary results,Candidate,Write-ins,Democratic,1446,3.89,False,False
+2000,Vermont,VT,governor,Democratic Primary results,Total,,,37169,100.0,False,False
+2000,Vermont,VT,governor,Republican primary results,Winning,Ruth Dwyer,Republican,46611,57.85,True,False
+2000,Vermont,VT,governor,Republican primary results,Candidate,William Meub,Republican,33105,41.09,False,False
+2000,Vermont,VT,governor,Republican primary results,Candidate,Write-ins,Republican,855,1.06,False,False
+2000,Vermont,VT,governor,Republican primary results,Total,,,80571,100.0,False,False
+2000,Washington,WA,governor,Blanket primary results,Winning,Gary Locke,Democratic,701929,54.32,True,False
+2000,Washington,WA,governor,Blanket primary results,Winning,John Carlson,Republican,446142,34.52,True,False
+2000,Washington,WA,governor,Blanket primary results,Winning,Steve W. LePage,Libertarian,22186,1.72,True,False
+2000,Washington,WA,governor,Blanket primary results,Candidate,Harold Hochstatter,Republican,93467,7.23,False,False
+2000,Washington,WA,governor,Blanket primary results,Candidate,Meta Heller,Democratic,28578,2.21,False,False
+2000,Washington,WA,governor,Blanket primary results,Total,,,1292302,100.0,False,False
+2000,West Virginia,WV,governor,Democratic primary results,Winning,Bob Wise,Democratic,174292,63.13,True,False
+2000,West Virginia,WV,governor,Democratic primary results,Candidate,Jim Lees,Democratic,101774,36.87,False,False
+2000,West Virginia,WV,governor,Democratic primary results,Total,,,276066,100.0,False,False
+2000,West Virginia,WV,governor,Republican primary results,Winning,Cecil Underwood,Republican,87190,80.88,True,True
+2000,West Virginia,WV,governor,Republican primary results,Candidate,Joseph Oliverio,Republican,11590,10.75,False,False
+2000,West Virginia,WV,governor,Republican primary results,Candidate,Donna H. McCase,Republican,5902,4.48,False,False
+2000,West Virginia,WV,governor,Republican primary results,Candidate,Larry Eugene Butcher,Republican,3117,2.89,False,False
+2000,West Virginia,WV,governor,Republican primary results,Total,,,107799,100.0,False,False

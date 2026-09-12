@@ -1,0 +1,14 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Winning,Jim McGreevey,Democratic,1256853,56.43,True,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Bret Schundler,Republican,928174,41.68,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Bill Schluter,Independent,24084,1.08,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Jerry L. Coleman,Green,6238,0.28,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Mark Edgerton,Libertarian,4684,0.21,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,"George Watson, Jr.",Independent,2568,0.12,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Michael W. Koontz,Conservative,1949,0.09,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Costantino Rozzo,Socialist Party Usa,1537,0.07,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Kari Sachs,Workers,1078,0.05,False,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Winning,Mark Warner,Democratic,984177,52.16,True,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Candidate,Mark Earley,Republican,887234,47.03,False,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Candidate,William Redpath,Libertarian,14497,0.77,False,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Write-in,,,813,0.04,False,False

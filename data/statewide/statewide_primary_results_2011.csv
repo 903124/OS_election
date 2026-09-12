@@ -1,0 +1,35 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2011,Kentucky,KY,governor,Republican primary results,Winning,David Williams,Republican,68528,48.0,True,False
+2011,Kentucky,KY,governor,Republican primary results,Candidate,Phil Moffett,Republican,53966,38.0,False,False
+2011,Kentucky,KY,governor,Republican primary results,Candidate,Bobbie Holsclaw,Republican,19614,14.0,False,False
+2011,Kentucky,KY,governor,Republican primary results,Total,,,142108,100.0,False,False
+2011,Mississippi,MS,governor,Republican primary results,Winning,Phil Bryant,Republican,172300,59.46,True,False
+2011,Mississippi,MS,governor,Republican primary results,Candidate,Dave Dennis,Republican,74546,25.72,False,False
+2011,Mississippi,MS,governor,Republican primary results,Candidate,Ron Williams,Republican,25555,8.82,False,False
+2011,Mississippi,MS,governor,Republican primary results,Candidate,Hudson Holliday,Republican,13761,4.75,False,False
+2011,Mississippi,MS,governor,Republican primary results,Candidate,James Broadwater,Republican,3626,1.25,False,False
+2011,Mississippi,MS,governor,Republican primary results,Total,,,289788,100.0,False,False
+2011,Mississippi,MS,governor,Democratic primary results,Winning,Johnny DuPree,Democratic,179748,43.57,True,False
+2011,Mississippi,MS,governor,Democratic primary results,Winning,Bill Luckett,Democratic,161833,39.23,True,False
+2011,Mississippi,MS,governor,Democratic primary results,Candidate,"William Bond Compton, Jr.",Democratic,40452,9.81,False,False
+2011,Mississippi,MS,governor,Democratic primary results,Candidate,Guy Dale Shaw,Democratic,30497,7.39,False,False
+2011,Mississippi,MS,governor,Democratic primary results,Total,,,412530,100.0,False,False
+2011,Mississippi,MS,governor,Democratic primary runoff results,Winning,Johnny DuPree,Democratic,177767,54.99,True,False
+2011,Mississippi,MS,governor,Democratic primary runoff results,Candidate,Bill Luckett,Democratic,145517,45.01,False,False
+2011,Mississippi,MS,governor,Democratic primary runoff results,Total,,,323284,100.0,False,False
+2011,West Virginia,WV,governor,Democratic primary results,Winning,Earl Ray Tomblin,Democratic,51348,40.4,True,True
+2011,West Virginia,WV,governor,Democratic primary results,Candidate,Rick Thompson,Democratic,30631,24.1,False,False
+2011,West Virginia,WV,governor,Democratic primary results,Candidate,Natalie Tennant,Democratic,22106,17.4,False,False
+2011,West Virginia,WV,governor,Democratic primary results,Candidate,John Perdue,Democratic,15995,12.6,False,False
+2011,West Virginia,WV,governor,Democratic primary results,Candidate,Jeff Kessler,Democratic,6665,5.2,False,False
+2011,West Virginia,WV,governor,Democratic primary results,Candidate,Arne Moltis,Democratic,481,0.4,False,False
+2011,West Virginia,WV,governor,Democratic primary results,Total,,,127111,100.0,False,False
+2011,West Virginia,WV,governor,Republican primary results,Winning,Bill Maloney,Republican,27871,45.0,True,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Betty Ireland,Republican,19027,30.7,False,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Clark Barnes,Republican,5891,9.5,False,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Mark Sorsaia,Republican,3177,5.1,False,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Larry Faircloth,Republican,2400,3.9,False,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Mitch Carmichael,Republican,2073,3.3,False,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Ralph Clark,Republican,1164,1.9,False,False
+2011,West Virginia,WV,governor,Republican primary results,Candidate,Cliff Ellis,Republican,283,0.5,False,False
+2011,West Virginia,WV,governor,Republican primary results,Total,,,61886,100.0,False,False

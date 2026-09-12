@@ -1,0 +1,7684 @@
+{
+  "years": {
+    "2000": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 273763,
+        "totals_row": {
+          "George W. Bush": 944409,
+          "Al Gore": 695602,
+          "Other": 32540
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 75,
+        "counties": 15,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 901699,
+        "totals_row": {
+          "George W. Bush": 781652,
+          "Al Gore": 685341,
+          "Ralph Nader": 45645,
+          "Pat Buchanan": 12373,
+          "Other": 9102
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 127151,
+        "totals_row": {
+          "George W. Bush": 472940,
+          "Al Gore": 422768,
+          "Other": 26073
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": -0.085,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 232,
+        "counties": 58,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 2695154,
+        "totals_row": {
+          "Al Gore": 5861203,
+          "George W. Bush": 4567429,
+          "Ralph Nader": 418707,
+          "Other": 118517
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": -0.021
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 252,
+        "counties": 63,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 235491,
+        "totals_row": {
+          "George W. Bush": 883745,
+          "Al Gore": 738227,
+          "Ralph Nader": 91434,
+          "Other": 27959
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 370289,
+        "totals_row": {
+          "Al Gore": 816015,
+          "George W. Bush": 561094,
+          "Other": 82416
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 12,
+        "counties": 3,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 213060,
+        "totals_row": {
+          "Al Gore": 180068,
+          "George W. Bush": 137288,
+          "Ralph Nader": 8307,
+          "Other": 1959
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": -1.072
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 335,
+        "counties": 67,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 625552,
+        "totals_row": {
+          "George W. Bush": 2912790,
+          "Al Gore": 2912253,
+          "Ralph Nader": 97488,
+          "Pat Buchanan": 17484,
+          "Other": 23095
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": 0.0
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 263212,
+        "totals_row": {
+          "George W. Bush": 1419720,
+          "Al Gore": 1116230,
+          "Other": 60854
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 255990,
+        "totals_row": {
+          "Al Gore": 205286,
+          "George W. Bush": 137845,
+          "Other": 24820
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": -0.007,
+          "George W. Bush": -0.011,
+          "Other": -0.024
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 220,
+        "counties": 44,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 123485,
+        "totals_row": {
+          "George W. Bush": 336937,
+          "Al Gore": 138637,
+          "Ralph Nader": 12292,
+          "Pat Buchanan": 7615,
+          "Other": 6140
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": -0.098
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 408,
+        "counties": 102,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 1865907,
+        "totals_row": {
+          "Al Gore": 2589026,
+          "George W. Bush": 2019421,
+          "Ralph Nader": 103759,
+          "Other": 29917
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 279903,
+        "totals_row": {
+          "George W. Bush": 1245836,
+          "Al Gore": 901980,
+          "Other": 51486
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.006
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 174167,
+        "totals_row": {
+          "Al Gore": 638517,
+          "George W. Bush": 634373,
+          "Other": 42673
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 420,
+        "counties": 105,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 217536,
+        "totals_row": {
+          "George W. Bush": 622332,
+          "Al Gore": 399276,
+          "Ralph Nader": 36086,
+          "Other": 14522
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 302362,
+        "totals_row": {
+          "George W. Bush": 872492,
+          "Al Gore": 638898,
+          "Other": 32797
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 320,
+        "counties": 64,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 181221,
+        "totals_row": {
+          "George W. Bush": 927871,
+          "Al Gore": 792344,
+          "Ralph Nader": 20473,
+          "Pat Buchanan": 14356,
+          "Other": 10612
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 64,
+        "counties": 16,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 142620,
+        "totals_row": {
+          "Al Gore": 319951,
+          "George W. Bush": 286616,
+          "Ralph Nader": 37127,
+          "Other": 8123
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 96,
+        "counties": 24,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 371688,
+        "totals_row": {
+          "Al Gore": 1145782,
+          "George W. Bush": 813797,
+          "Ralph Nader": 53768,
+          "Other": 12133
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 657048,
+        "totals_row": {
+          "Al Gore": 1616487,
+          "George W. Bush": 878502,
+          "Other": 207995
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 768627,
+        "totals_row": {
+          "Al Gore": 2170418,
+          "George W. Bush": 1953139,
+          "Other": 109154
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 435,
+        "counties": 87,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 573846,
+        "totals_row": {
+          "Al Gore": 1168266,
+          "George W. Bush": 1109659,
+          "Ralph Nader": 126696,
+          "Pat Buchanan": 22166,
+          "Other": 11898
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 87770,
+        "totals_row": {
+          "George W. Bush": 572844,
+          "Al Gore": 404614,
+          "Other": 16726
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 486884,
+        "totals_row": {
+          "George W. Bush": 1189924,
+          "Al Gore": 1111138,
+          "Other": 58830
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 57499,
+        "totals_row": {
+          "George W. Bush": 240178,
+          "Al Gore": 137126,
+          "Other": 33693
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": -0.033
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 558,
+        "counties": 93,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Harry E. Browne",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 183156,
+        "totals_row": {
+          "George W. Bush": 433862,
+          "Al Gore": 231780,
+          "Ralph Nader": 24540,
+          "Pat Buchanan": 3646,
+          "Harry E. Browne": 2245,
+          "Other": 946
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": -0.126,
+          "Pat Buchanan": -0.027,
+          "Harry E. Browne": 0.223,
+          "Other": -0.529
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 382198,
+        "totals_row": {
+          "George W. Bush": 301575,
+          "Al Gore": 279978,
+          "Other": 27417
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 60,
+        "counties": 10,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Harry Browne",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 165761,
+        "totals_row": {
+          "George W. Bush": 273559,
+          "Al Gore": 266348,
+          "Ralph Nader": 22198,
+          "Harry Browne": 2757,
+          "Pat Buchanan": 2615,
+          "Other": 1604
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Harry Browne": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 126,
+        "counties": 21,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Harry Browne",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 366721,
+        "totals_row": {
+          "Al Gore": 1788850,
+          "George W. Bush": 1284173,
+          "Ralph Nader": 94554,
+          "Pat Buchanan": 6989,
+          "Harry Browne": 6312,
+          "Other": 6348
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Harry Browne": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 132,
+        "counties": 33,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 204319,
+        "totals_row": {
+          "Al Gore": 286783,
+          "George W. Bush": 286417,
+          "Ralph Nader": 21251,
+          "Other": 4154
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 248,
+        "counties": 62,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 617237,
+        "totals_row": {
+          "Al Gore": 4113791,
+          "George W. Bush": 2405676,
+          "Ralph Nader": 244398,
+          "Other": 67313
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": -0.151,
+          "Other": 0.532
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 500,
+        "counties": 100,
+        "candidates": [
+          "Al Gore",
+          "David McReynolds",
+          "George W. Bush",
+          "Harry Browne",
+          "Pat Buchanan"
+        ],
+        "total_votes": 268220,
+        "totals_row": {
+          "George W. Bush": 1631163,
+          "Al Gore": 1257692,
+          "Harry Browne": 12307,
+          "Pat Buchanan": 8874,
+          "David McReynolds": 1226
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Harry Browne": 0.0,
+          "Pat Buchanan": 0.0,
+          "David McReynolds": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 265,
+        "counties": 53,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 58995,
+        "totals_row": {
+          "George W. Bush": 174852,
+          "Al Gore": 95284,
+          "Ralph Nader": 9497,
+          "Pat Buchanan": 7288,
+          "Other": 1346
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 352,
+        "counties": 88,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 574782,
+        "totals_row": {
+          "George W. Bush": 2351209,
+          "Al Gore": 2186190,
+          "Ralph Nader": 117857,
+          "Other": 50201
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 231,
+        "counties": 77,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 223111,
+        "totals_row": {
+          "George W. Bush": 744337,
+          "Al Gore": 474276,
+          "Other": 15616
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 144,
+        "counties": 36,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 296685,
+        "totals_row": {
+          "Al Gore": 720342,
+          "George W. Bush": 713577,
+          "Ralph Nader": 77357,
+          "Other": 22692
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 402,
+        "counties": 67,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Harry E. Browne",
+          "Howard Phillips",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 582478,
+        "totals_row": {
+          "Al Gore": 2485967,
+          "George W. Bush": 2281127,
+          "Ralph Nader": 103392,
+          "Pat Buchanan": 16023,
+          "Howard Phillips": 14428,
+          "Harry E. Browne": 11248
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Pat Buchanan": 0.0,
+          "Howard Phillips": 0.0,
+          "Harry E. Browne": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 218308,
+        "totals_row": {
+          "Al Gore": 249508,
+          "George W. Bush": 130555,
+          "Other": 29049
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 322,
+        "counties": 46,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Harry Browne",
+          "Howard Phillips",
+          "John Hagelin",
+          "Pat Buchanan",
+          "Ralph Nader"
+        ],
+        "total_votes": 140293,
+        "totals_row": {
+          "George W. Bush": 786426,
+          "Al Gore": 566039,
+          "Ralph Nader": 20200,
+          "Harry Browne": 4876,
+          "Pat Buchanan": 3519,
+          "Howard Phillips": 1682,
+          "John Hagelin": 942
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Harry Browne": 0.0,
+          "Pat Buchanan": 0.0,
+          "Howard Phillips": 0.0,
+          "John Hagelin": 0.0
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 330,
+        "counties": 66,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Harry E. Browne",
+          "Howard Phillips",
+          "Pat Buchanan"
+        ],
+        "total_votes": 61369,
+        "totals_row": {
+          "George W. Bush": 190700,
+          "Al Gore": 118804,
+          "Pat Buchanan": 3322,
+          "Howard Phillips": 1781,
+          "Harry E. Browne": 1662
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Pat Buchanan": 0.0,
+          "Howard Phillips": 0.449,
+          "Harry E. Browne": -0.481
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 336755,
+        "totals_row": {
+          "George W. Bush": 1061949,
+          "Al Gore": 981720,
+          "Other": 32512
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 974822,
+        "totals_row": {
+          "George W. Bush": 3799639,
+          "Al Gore": 2433746,
+          "Other": 174252
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 116,
+        "counties": 29,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 307258,
+        "totals_row": {
+          "George W. Bush": 515096,
+          "Al Gore": 203053,
+          "Ralph Nader": 35850,
+          "Other": 16755
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 56,
+        "counties": 14,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 72017,
+        "totals_row": {
+          "Al Gore": 149022,
+          "George W. Bush": 119775,
+          "Ralph Nader": 20374,
+          "Other": 5137
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "rows": 0,
+        "counties": 0
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 794196,
+        "totals_row": {
+          "Al Gore": 1247652,
+          "George W. Bush": 1108864,
+          "Other": 130917
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 76670,
+        "totals_row": {
+          "George W. Bush": 336475,
+          "Al Gore": 295497,
+          "Other": 16152
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 433537,
+        "totals_row": {
+          "Al Gore": 1242987,
+          "George W. Bush": 1237279,
+          "Other": 118341
+        },
+        "county_sums_vs_totals_pct": {
+          "Al Gore": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Al Gore",
+          "George W. Bush",
+          "Other"
+        ],
+        "total_votes": 35323,
+        "totals_row": {
+          "George W. Bush": 147947,
+          "Al Gore": 60481,
+          "Other": 9923
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "Al Gore": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "rows": 0,
+        "counties": 0
+      }
+    },
+    "2004": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 292967,
+        "totals_row": {
+          "George W. Bush": 1176394,
+          "John Kerry": 693933,
+          "Other": 13122
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 60,
+        "counties": 15,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael Badnarik",
+          "Other"
+        ],
+        "total_votes": 1194961,
+        "totals_row": {
+          "George W. Bush": 1104294,
+          "John Kerry": 893524,
+          "Michael Badnarik": 11856,
+          "Other": 6428
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Michael Badnarik": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 153620,
+        "totals_row": {
+          "George W. Bush": 572898,
+          "John Kerry": 469953,
+          "Other": 12094
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 3023280,
+        "totals_row": {
+          "John Kerry": 6745485,
+          "George W. Bush": 5509826,
+          "Other": 166042
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 271568,
+        "totals_row": {
+          "George W. Bush": 1101256,
+          "John Kerry": 1001725,
+          "Other": 27344
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 400967,
+        "totals_row": {
+          "John Kerry": 857488,
+          "George W. Bush": 693826,
+          "Other": 27455
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 241527,
+        "totals_row": {
+          "John Kerry": 200152,
+          "George W. Bush": 171660,
+          "Other": 3458
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 774726,
+        "totals_row": {
+          "George W. Bush": 3964522,
+          "John Kerry": 3583544,
+          "Other": 61744
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 336741,
+        "totals_row": {
+          "George W. Bush": 1914254,
+          "John Kerry": 1366149,
+          "Other": 24078
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.033
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 298547,
+        "totals_row": {
+          "John Kerry": 231708,
+          "George W. Bush": 194191,
+          "Other": 3114
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": -0.15,
+          "George W. Bush": -0.031,
+          "Other": -0.321
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 220,
+        "counties": 44,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael Anthony Peroutka",
+          "Michael J. Badnarik",
+          "Various Other Candidates"
+        ],
+        "total_votes": 155030,
+        "totals_row": {
+          "George W. Bush": 409235,
+          "John Kerry": 181098,
+          "Michael J. Badnarik": 3844,
+          "Michael Anthony Peroutka": 3084,
+          "Various Other Candidates": 1186
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Michael J. Badnarik": 0.0,
+          "Michael Anthony Peroutka": 0.0,
+          "Various Other Candidates": 0.0
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 2049434,
+        "totals_row": {
+          "John Kerry": 2891550,
+          "George W. Bush": 2345946,
+          "Other": 36826
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 320838,
+        "totals_row": {
+          "George W. Bush": 1479438,
+          "John Kerry": 969011,
+          "Other": 19553
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 202618,
+        "totals_row": {
+          "George W. Bush": 751957,
+          "John Kerry": 741898,
+          "Other": 13053
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 525,
+        "counties": 105,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael James Badnarik",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 258687,
+        "totals_row": {
+          "George W. Bush": 736456,
+          "John Kerry": 434993,
+          "Ralph Nader": 9348,
+          "Michael James Badnarik": 4013,
+          "Other": 2946
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Ralph Nader": 0.0,
+          "Michael James Badnarik": 0.15,
+          "Other": -0.204
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 337569,
+        "totals_row": {
+          "George W. Bush": 1069439,
+          "John Kerry": 712733,
+          "Other": 13907
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": -0.072
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 197103,
+        "totals_row": {
+          "George W. Bush": 1102169,
+          "John Kerry": 820299,
+          "Other": 20638
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 162962,
+        "totals_row": {
+          "John Kerry": 396842,
+          "George W. Bush": 330201,
+          "Other": 13709
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 415225,
+        "totals_row": {
+          "John Kerry": 1334493,
+          "George W. Bush": 1024703,
+          "Other": 27482
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": -0.717
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 688960,
+        "totals_row": {
+          "John Kerry": 1803800,
+          "George W. Bush": 1071109,
+          "Other": 37479
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 864728,
+        "totals_row": {
+          "John Kerry": 2479183,
+          "George W. Bush": 2313746,
+          "Other": 46323
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 646981,
+        "totals_row": {
+          "John Kerry": 1445014,
+          "George W. Bush": 1346695,
+          "Other": 36678
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 92500,
+        "totals_row": {
+          "George W. Bush": 684981,
+          "John Kerry": 458094,
+          "Other": 9070
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 542983,
+        "totals_row": {
+          "George W. Bush": 1455713,
+          "John Kerry": 1259171,
+          "Other": 16480
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 66286,
+        "totals_row": {
+          "George W. Bush": 266063,
+          "John Kerry": 173710,
+          "Other": 10672
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 558,
+        "counties": 93,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael Badarnik",
+          "Michael Peroutka",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 207071,
+        "totals_row": {
+          "George W. Bush": 512814,
+          "John Kerry": 254328,
+          "Ralph Nader": 5698,
+          "Michael Badarnik": 2041,
+          "Michael Peroutka": 1314,
+          "Other": 1991
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Ralph Nader": 0.0,
+          "Michael Badarnik": 0.294,
+          "Michael Peroutka": 0.0,
+          "Other": -0.301
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 545397,
+        "totals_row": {
+          "George W. Bush": 418690,
+          "John Kerry": 397190,
+          "Other": 13707
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 195247,
+        "totals_row": {
+          "John Kerry": 340511,
+          "George W. Bush": 331237,
+          "Other": 5990
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 400244,
+        "totals_row": {
+          "John Kerry": 1911430,
+          "George W. Bush": 1670003,
+          "Other": 30704
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 256811,
+        "totals_row": {
+          "George W. Bush": 376930,
+          "John Kerry": 370942,
+          "Other": 8432
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 687884,
+        "totals_row": {
+          "John Kerry": 4314280,
+          "George W. Bush": 2962567,
+          "Other": 115107
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 348844,
+        "totals_row": {
+          "George W. Bush": 1961166,
+          "John Kerry": 1525849,
+          "Other": 13992
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 265,
+        "counties": 53,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael Badnarik",
+          "Michael Peroutka",
+          "Ralph Nader"
+        ],
+        "total_votes": 66711,
+        "totals_row": {
+          "George W. Bush": 196651,
+          "John Kerry": 111052,
+          "Ralph Nader": 3756,
+          "Michael Badnarik": 851,
+          "Michael Peroutka": 514
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Ralph Nader": 0.0,
+          "Michael Badnarik": 0.118,
+          "Michael Peroutka": -0.195
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 264,
+        "counties": 88,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 673777,
+        "totals_row": {
+          "George W. Bush": 2859768,
+          "John Kerry": 2741167,
+          "Other": 26973
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 154,
+        "counties": 77,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry"
+        ],
+        "total_votes": 272039,
+        "totals_row": {
+          "George W. Bush": 959792,
+          "John Kerry": 503966
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 362694,
+        "totals_row": {
+          "John Kerry": 943163,
+          "George W. Bush": 866831,
+          "Other": 26788
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 335,
+        "counties": 67,
+        "candidates": [
+          "David Cobb",
+          "George W. Bush",
+          "John Kerry",
+          "Michael J. Badnarik",
+          "Michael Peroutka"
+        ],
+        "total_votes": 674069,
+        "totals_row": {
+          "John Kerry": 2938095,
+          "George W. Bush": 2793847,
+          "Michael J. Badnarik": 21185,
+          "David Cobb": 6319,
+          "Michael Peroutka": 6318
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Michael J. Badnarik": 0.0,
+          "David Cobb": 0.0,
+          "Michael Peroutka": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 231324,
+        "totals_row": {
+          "John Kerry": 259760,
+          "George W. Bush": 169046,
+          "Other": 8328
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 322,
+        "counties": 46,
+        "candidates": [
+          "David Cobb",
+          "George W. Bush",
+          "John Kerry",
+          "Michael Badnarik",
+          "Michael Peroutka",
+          "Ralph Nader",
+          "Walt Brown"
+        ],
+        "total_votes": 168833,
+        "totals_row": {
+          "George W. Bush": 937974,
+          "John Kerry": 661699,
+          "Ralph Nader": 5520,
+          "Michael Peroutka": 5317,
+          "Michael Badnarik": 3608,
+          "Walt Brown": 2124,
+          "David Cobb": 1488
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Ralph Nader": 0.0,
+          "Michael Peroutka": 0.0,
+          "Michael Badnarik": 0.0,
+          "Walt Brown": 0.0,
+          "David Cobb": 0.0
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 330,
+        "counties": 66,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael J. Badnarik",
+          "Michael Peroutka",
+          "Ralph Nader"
+        ],
+        "total_votes": 77632,
+        "totals_row": {
+          "George W. Bush": 232584,
+          "John Kerry": 149244,
+          "Ralph Nader": 4320,
+          "Michael Peroutka": 1103,
+          "Michael J. Badnarik": 964
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Ralph Nader": 0.0,
+          "Michael Peroutka": 0.453,
+          "Michael J. Badnarik": -0.519
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 377282,
+        "totals_row": {
+          "George W. Bush": 1383336,
+          "John Kerry": 1035160,
+          "Other": 16453
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 1067968,
+        "totals_row": {
+          "George W. Bush": 4526917,
+          "John Kerry": 2832704,
+          "Other": 51144
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.184
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 145,
+        "counties": 29,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Michael Peroutka",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 362138,
+        "totals_row": {
+          "George W. Bush": 663742,
+          "John Kerry": 241199,
+          "Ralph Nader": 11305,
+          "Michael Peroutka": 6841,
+          "Other": 4757
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Ralph Nader": 0.0,
+          "Michael Peroutka": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 77696,
+        "totals_row": {
+          "John Kerry": 184067,
+          "George W. Bush": 121180,
+          "Other": 7062
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 402,
+        "counties": 134,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 461379,
+        "totals_row": {
+          "George W. Bush": 1716959,
+          "John Kerry": 1454742,
+          "Other": 26666
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 893534,
+        "totals_row": {
+          "John Kerry": 1510201,
+          "George W. Bush": 1304894,
+          "Other": 43989
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 87928,
+        "totals_row": {
+          "George W. Bush": 423778,
+          "John Kerry": 326541,
+          "Other": 5568
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 482236,
+        "totals_row": {
+          "John Kerry": 1489504,
+          "George W. Bush": 1478120,
+          "Other": 29383
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 39879,
+        "totals_row": {
+          "George W. Bush": 167629,
+          "John Kerry": 70776,
+          "Other": 5023
+        },
+        "county_sums_vs_totals_pct": {
+          "George W. Bush": 0.0,
+          "John Kerry": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "George W. Bush",
+          "John Kerry",
+          "Other"
+        ],
+        "total_votes": 35993,
+        "totals_row": {
+          "John Kerry": 201905,
+          "George W. Bush": 21127,
+          "Other": 3345
+        },
+        "county_sums_vs_totals_pct": {
+          "John Kerry": 0.0,
+          "George W. Bush": 0.0,
+          "Other": 0.0
+        }
+      }
+    },
+    "2008": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 318524,
+        "totals_row": {
+          "John McCain": 1266546,
+          "Barack Obama": 813479,
+          "Other": 19794
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 1371370,
+        "totals_row": {
+          "John McCain": 1230111,
+          "Barack Obama": 1034707,
+          "Other": 39020
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 161343,
+        "totals_row": {
+          "John McCain": 638017,
+          "Barack Obama": 422310,
+          "Other": 26290
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 3318248,
+        "totals_row": {
+          "Barack Obama": 8274473,
+          "John McCain": 5011781,
+          "Other": 275646
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 295068,
+        "totals_row": {
+          "Barack Obama": 1288633,
+          "John McCain": 1073629,
+          "Other": 39200
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 413741,
+        "totals_row": {
+          "Barack Obama": 997773,
+          "John McCain": 629428,
+          "Other": 19592
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": -0.001,
+          "John McCain": 0.0,
+          "Other": -0.051
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 256621,
+        "totals_row": {
+          "Barack Obama": 255459,
+          "John McCain": 152374,
+          "Other": 4783
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 864636,
+        "totals_row": {
+          "Barack Obama": 4282367,
+          "John McCain": 4046219,
+          "Other": 83662
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.024
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 405625,
+        "totals_row": {
+          "John McCain": 2048759,
+          "Barack Obama": 1844123,
+          "Other": 39276
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.143
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 306813,
+        "totals_row": {
+          "Barack Obama": 325871,
+          "John McCain": 120566,
+          "Other": 7131
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": -0.198,
+          "John McCain": -0.109,
+          "Other": -0.252
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 220,
+        "counties": 44,
+        "candidates": [
+          "Barack Obama",
+          "Bob Barr",
+          "Charles Baldwin",
+          "John McCain",
+          "Ralph Nader"
+        ],
+        "total_votes": 180760,
+        "totals_row": {
+          "John McCain": 403012,
+          "Barack Obama": 236440,
+          "Ralph Nader": 7175,
+          "Charles Baldwin": 4747,
+          "Bob Barr": 3658
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Ralph Nader": 0.0,
+          "Charles Baldwin": -0.084,
+          "Bob Barr": 0.0
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 2137466,
+        "totals_row": {
+          "Barack Obama": 3419348,
+          "John McCain": 2031179,
+          "Other": 79652
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 380090,
+        "totals_row": {
+          "Barack Obama": 1374039,
+          "John McCain": 1345648,
+          "Other": 36971
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 214409,
+        "totals_row": {
+          "Barack Obama": 828940,
+          "John McCain": 682379,
+          "Other": 25804
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": -0.004
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 525,
+        "counties": 105,
+        "candidates": [
+          "Barack Obama",
+          "Bob Barr",
+          "John McCain",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 284211,
+        "totals_row": {
+          "John McCain": 699655,
+          "Barack Obama": 514765,
+          "Ralph Nader": 10527,
+          "Bob Barr": 6706,
+          "Other": 7220
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Ralph Nader": 0.0,
+          "Bob Barr": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 354936,
+        "totals_row": {
+          "John McCain": 1048462,
+          "Barack Obama": 751985,
+          "Other": 27140
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": -0.096
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 197349,
+        "totals_row": {
+          "John McCain": 1148275,
+          "Barack Obama": 782989,
+          "Other": 29497
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 80,
+        "counties": 16,
+        "candidates": [
+          "Barack Obama",
+          "Cynthia McKinney",
+          "John McCain",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 164151,
+        "totals_row": {
+          "Barack Obama": 421923,
+          "John McCain": 295273,
+          "Ralph Nader": 10636,
+          "Cynthia McKinney": 2900,
+          "Other": 431
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Ralph Nader": 0.0,
+          "Cynthia McKinney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 439261,
+        "totals_row": {
+          "Barack Obama": 1629467,
+          "John McCain": 959862,
+          "Other": 42267
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 726031,
+        "totals_row": {
+          "Barack Obama": 1904098,
+          "John McCain": 1108854,
+          "Other": 68117
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 891731,
+        "totals_row": {
+          "Barack Obama": 2872579,
+          "John McCain": 2048639,
+          "Other": 89388
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 663780,
+        "totals_row": {
+          "Barack Obama": 1573354,
+          "John McCain": 1275409,
+          "Other": 61606
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 108902,
+        "totals_row": {
+          "John McCain": 724597,
+          "Barack Obama": 554662,
+          "Other": 10606
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 559854,
+        "totals_row": {
+          "John McCain": 1445814,
+          "Barack Obama": 1441911,
+          "Other": 41386
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.217
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 70679,
+        "totals_row": {
+          "John McCain": 243882,
+          "Barack Obama": 232159,
+          "Other": 16709
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 226701,
+        "totals_row": {
+          "John McCain": 452979,
+          "Barack Obama": 333319,
+          "Other": 14983
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 651172,
+        "totals_row": {
+          "Barack Obama": 533736,
+          "John McCain": 412827,
+          "Other": 21285
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 204709,
+        "totals_row": {
+          "Barack Obama": 384826,
+          "John McCain": 316534,
+          "Other": 9610
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 415909,
+        "totals_row": {
+          "Barack Obama": 2215422,
+          "John McCain": 1613207,
+          "Other": 48778
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 285778,
+        "totals_row": {
+          "Barack Obama": 472422,
+          "John McCain": 346832,
+          "Other": 10904
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 759848,
+        "totals_row": {
+          "Barack Obama": 4804945,
+          "John McCain": 2752771,
+          "Other": 83232
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.012
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 442245,
+        "totals_row": {
+          "Barack Obama": 2142651,
+          "John McCain": 2128474,
+          "Other": 39664
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 265,
+        "counties": 53,
+        "candidates": [
+          "Barack Obama",
+          "Bob Barr",
+          "Charles Baldwin",
+          "John McCain",
+          "Ralph Nader"
+        ],
+        "total_votes": 71834,
+        "totals_row": {
+          "John McCain": 168887,
+          "Barack Obama": 141403,
+          "Ralph Nader": 4199,
+          "Bob Barr": 1067,
+          "Charles Baldwin": 1059
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Ralph Nader": 0.0,
+          "Bob Barr": 0.281,
+          "Charles Baldwin": -0.283
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 352,
+        "counties": 88,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 667299,
+        "totals_row": {
+          "Barack Obama": 2940044,
+          "John McCain": 2677820,
+          "Ralph Nader": 42337,
+          "Other": 61630
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Ralph Nader": 0.0,
+          "Other": -0.162
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 154,
+        "counties": 77,
+        "candidates": [
+          "Barack Obama",
+          "John McCain"
+        ],
+        "total_votes": 279354,
+        "totals_row": {
+          "John McCain": 960165,
+          "Barack Obama": 502496
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 252,
+        "counties": 36,
+        "candidates": [
+          "Barack Obama",
+          "Bob Barr",
+          "Charles Baldwin",
+          "Cynthia McKinney",
+          "John McCain",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 364710,
+        "totals_row": {
+          "Barack Obama": 1037291,
+          "John McCain": 738475,
+          "Ralph Nader": 18614,
+          "Charles Baldwin": 7693,
+          "Bob Barr": 7635,
+          "Cynthia McKinney": 4543,
+          "Other": 13613
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Ralph Nader": 0.0,
+          "Charles Baldwin": 0.0,
+          "Bob Barr": 0.0,
+          "Cynthia McKinney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 335,
+        "counties": 67,
+        "candidates": [
+          "Barack Obama",
+          "Bob Barr",
+          "John McCain",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 718025,
+        "totals_row": {
+          "Barack Obama": 3276363,
+          "John McCain": 2655885,
+          "Ralph Nader": 42977,
+          "Bob Barr": 19912,
+          "Other": 20339
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Ralph Nader": 0.0,
+          "Bob Barr": 0.0,
+          "Other": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 253630,
+        "totals_row": {
+          "Barack Obama": 296571,
+          "John McCain": 165391,
+          "Other": 9804
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 190657,
+        "totals_row": {
+          "John McCain": 1034896,
+          "Barack Obama": 862449,
+          "Other": 23624
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": -2.866
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 80552,
+        "totals_row": {
+          "John McCain": 203054,
+          "Barack Obama": 170924,
+          "Other": 7997
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 404555,
+        "totals_row": {
+          "John McCain": 1479178,
+          "Barack Obama": 1087437,
+          "Other": 35367
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 1171472,
+        "totals_row": {
+          "John McCain": 4479328,
+          "Barack Obama": 3528633,
+          "Other": 79830
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 174,
+        "counties": 29,
+        "candidates": [
+          "Barack Obama",
+          "Bob Barr",
+          "Charles Baldwin",
+          "John McCain",
+          "Other",
+          "Ralph Nader"
+        ],
+        "total_votes": 367444,
+        "totals_row": {
+          "John McCain": 596030,
+          "Barack Obama": 327670,
+          "Charles Baldwin": 12012,
+          "Ralph Nader": 8416,
+          "Bob Barr": 6966,
+          "Other": 7902
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Charles Baldwin": 0.0,
+          "Ralph Nader": 0.0,
+          "Bob Barr": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 83440,
+        "totals_row": {
+          "Barack Obama": 219262,
+          "John McCain": 98974,
+          "Other": 6810
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 402,
+        "counties": 134,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 516254,
+        "totals_row": {
+          "Barack Obama": 1959532,
+          "John McCain": 1725005,
+          "Other": 38723
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 922032,
+        "totals_row": {
+          "Barack Obama": 1750848,
+          "John McCain": 1229216,
+          "Other": 56814
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 82887,
+        "totals_row": {
+          "John McCain": 397466,
+          "Barack Obama": 303857,
+          "Other": 13800
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 475192,
+        "totals_row": {
+          "Barack Obama": 1677211,
+          "John McCain": 1262393,
+          "Other": 43813
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 41625,
+        "totals_row": {
+          "John McCain": 164958,
+          "Barack Obama": 82868,
+          "Other": 6832
+        },
+        "county_sums_vs_totals_pct": {
+          "John McCain": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Barack Obama",
+          "John McCain",
+          "Other"
+        ],
+        "total_votes": 36831,
+        "totals_row": {
+          "Barack Obama": 244400,
+          "John McCain": 17277,
+          "Other": 2680
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "John McCain": 0.0,
+          "Other": 0.0
+        }
+      }
+    },
+    "2012": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 304523,
+        "totals_row": {
+          "Mitt Romney": 1255925,
+          "Barack Obama": 795696,
+          "Other": 22717
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Barrack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 1380959,
+        "totals_row": {
+          "Mitt Romney": 1233654,
+          "Barrack Obama": 1025232,
+          "Other": 47673
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barrack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 159381,
+        "totals_row": {
+          "Mitt Romney": 647744,
+          "Barack Obama": 394409,
+          "Other": 27315
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 3181067,
+        "totals_row": {
+          "Barack Obama": 7854285,
+          "Mitt Romney": 4839958,
+          "Other": 344304
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 311052,
+        "totals_row": {
+          "Barack Obama": 1323102,
+          "Mitt Romney": 1185243,
+          "Other": 63501
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 396130,
+        "totals_row": {
+          "Barack Obama": 905109,
+          "Mitt Romney": 634899,
+          "Other": 18985
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": -4.835
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 252012,
+        "totals_row": {
+          "Barack Obama": 242584,
+          "Mitt Romney": 165484,
+          "Other": 5853
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 879179,
+        "totals_row": {
+          "Barack Obama": 4237756,
+          "Mitt Romney": 4163447,
+          "Other": 90972
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 398346,
+        "totals_row": {
+          "Mitt Romney": 2078688,
+          "Barack Obama": 1773827,
+          "Other": 55854
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 296742,
+        "totals_row": {
+          "Barack Obama": 306658,
+          "Mitt Romney": 121015,
+          "Other": 7024
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": -0.12,
+          "Mitt Romney": -0.063,
+          "Other": -0.085
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 132,
+        "counties": 44,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 182246,
+        "totals_row": {
+          "Mitt Romney": 420911,
+          "Barack Obama": 212787,
+          "Other": 23044
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 2014819,
+        "totals_row": {
+          "Barack Obama": 3019512,
+          "Mitt Romney": 2135216,
+          "Other": 96704
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 359972,
+        "totals_row": {
+          "Mitt Romney": 1422872,
+          "Barack Obama": 1154275,
+          "Other": 55996
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 228882,
+        "totals_row": {
+          "Barack Obama": 822544,
+          "Mitt Romney": 730617,
+          "Other": 29019
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 525,
+        "counties": 105,
+        "candidates": [
+          "Barack Obama",
+          "Charles Baldwin",
+          "Gary Johnson",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 275074,
+        "totals_row": {
+          "Mitt Romney": 689809,
+          "Barack Obama": 439908,
+          "Gary Johnson": 20409,
+          "Charles Baldwin": 4990,
+          "Other": 2416
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Gary Johnson": 0.0,
+          "Charles Baldwin": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 340412,
+        "totals_row": {
+          "Mitt Romney": 1087190,
+          "Barack Obama": 679370,
+          "Other": 31488
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 198171,
+        "totals_row": {
+          "Mitt Romney": 1152262,
+          "Barack Obama": 809141,
+          "Other": 32662
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 163786,
+        "totals_row": {
+          "Barack Obama": 401306,
+          "Mitt Romney": 292276,
+          "Other": 19598
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": -0.516,
+          "Mitt Romney": -0.294,
+          "Other": -0.638
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 455992,
+        "totals_row": {
+          "Barack Obama": 1677844,
+          "Mitt Romney": 971869,
+          "Other": 57614
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 754170,
+        "totals_row": {
+          "Barack Obama": 1921761,
+          "Mitt Romney": 1188460,
+          "Other": 57546
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 818136,
+        "totals_row": {
+          "Barack Obama": 2564569,
+          "Mitt Romney": 2115256,
+          "Other": 65491
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": -0.107
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 680065,
+        "totals_row": {
+          "Barack Obama": 1546167,
+          "Mitt Romney": 1320225,
+          "Other": 70169
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 106491,
+        "totals_row": {
+          "Mitt Romney": 710746,
+          "Barack Obama": 562949,
+          "Other": 11889
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 530116,
+        "totals_row": {
+          "Mitt Romney": 1482440,
+          "Barack Obama": 1223796,
+          "Other": 57453
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 68807,
+        "totals_row": {
+          "Mitt Romney": 267928,
+          "Barack Obama": 201839,
+          "Other": 14717
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.374
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 223927,
+        "totals_row": {
+          "Mitt Romney": 475064,
+          "Barack Obama": 302081,
+          "Other": 17234
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 691190,
+        "totals_row": {
+          "Barack Obama": 531373,
+          "Mitt Romney": 463567,
+          "Other": 19978
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 205667,
+        "totals_row": {
+          "Barack Obama": 369561,
+          "Mitt Romney": 329918,
+          "Other": 11493
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 385990,
+        "totals_row": {
+          "Barack Obama": 2126610,
+          "Mitt Romney": 1478749,
+          "Other": 45781
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 270969,
+        "totals_row": {
+          "Barack Obama": 415335,
+          "Mitt Romney": 335788,
+          "Other": 32634
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 736982,
+        "totals_row": {
+          "Barack Obama": 4485877,
+          "Mitt Romney": 2490496,
+          "Other": 105163
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 486427,
+        "totals_row": {
+          "Mitt Romney": 2270395,
+          "Barack Obama": 2178391,
+          "Other": 56586
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 159,
+        "counties": 53,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 73855,
+        "totals_row": {
+          "Mitt Romney": 188163,
+          "Barack Obama": 124827,
+          "Other": 9637
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": -0.01
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 440,
+        "counties": 88,
+        "candidates": [
+          "Barack Obama",
+          "Gary Johnson",
+          "Jill Stein",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 645262,
+        "totals_row": {
+          "Barack Obama": 2827709,
+          "Mitt Romney": 2661437,
+          "Gary Johnson": 49493,
+          "Jill Stein": 18573,
+          "Other": 33722
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Gary Johnson": 0.0,
+          "Jill Stein": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 154,
+        "counties": 77,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney"
+        ],
+        "total_votes": 256710,
+        "totals_row": {
+          "Mitt Romney": 891325,
+          "Barack Obama": 443547
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 364722,
+        "totals_row": {
+          "Barack Obama": 970488,
+          "Mitt Romney": 754175,
+          "Other": 64607
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 335,
+        "counties": 67,
+        "candidates": [
+          "Barack Obama",
+          "Gary Johnson",
+          "Jill Stein",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 690776,
+        "totals_row": {
+          "Barack Obama": 2990274,
+          "Mitt Romney": 2680434,
+          "Gary Johnson": 49991,
+          "Jill Stein": 21341,
+          "Other": 13580
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Gary Johnson": 0.0,
+          "Jill Stein": 0.0,
+          "Other": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 239786,
+        "totals_row": {
+          "Barack Obama": 279677,
+          "Mitt Romney": 157204,
+          "Other": 9168
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": -0.096,
+          "Mitt Romney": -0.034,
+          "Other": -0.131
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 193189,
+        "totals_row": {
+          "Mitt Romney": 1071645,
+          "Barack Obama": 865941,
+          "Other": 26532
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 76583,
+        "totals_row": {
+          "Mitt Romney": 210610,
+          "Barack Obama": 145039,
+          "Other": 8166
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 371616,
+        "totals_row": {
+          "Mitt Romney": 1462330,
+          "Barack Obama": 960709,
+          "Other": 37865
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 1188585,
+        "totals_row": {
+          "Mitt Romney": 4569843,
+          "Barack Obama": 3308124,
+          "Other": 121690
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 116,
+        "counties": 29,
+        "candidates": [
+          "Barack Obama",
+          "Gary Johnson",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 384174,
+        "totals_row": {
+          "Mitt Romney": 740600,
+          "Barack Obama": 251813,
+          "Gary Johnson": 12572,
+          "Other": 15876
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Gary Johnson": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 77080,
+        "totals_row": {
+          "Barack Obama": 199239,
+          "Mitt Romney": 92698,
+          "Other": 7353
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 399,
+        "counties": 133,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 529287,
+        "totals_row": {
+          "Barack Obama": 1971820,
+          "Mitt Romney": 1822522,
+          "Other": 60147
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": -0.062,
+          "Mitt Romney": -0.084,
+          "Other": -0.088
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 967154,
+        "totals_row": {
+          "Barack Obama": 1755396,
+          "Mitt Romney": 1290670,
+          "Other": 79450
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 75312,
+        "totals_row": {
+          "Mitt Romney": 417655,
+          "Barack Obama": 238269,
+          "Other": 16195
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 492576,
+        "totals_row": {
+          "Barack Obama": 1620985,
+          "Mitt Romney": 1407966,
+          "Other": 39483
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.001,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 39505,
+        "totals_row": {
+          "Mitt Romney": 170962,
+          "Barack Obama": 69286,
+          "Other": 8813
+        },
+        "county_sums_vs_totals_pct": {
+          "Mitt Romney": 0.0,
+          "Barack Obama": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Barack Obama",
+          "Mitt Romney",
+          "Other"
+        ],
+        "total_votes": 44469,
+        "totals_row": {
+          "Barack Obama": 267070,
+          "Mitt Romney": 21381,
+          "Other": 5313
+        },
+        "county_sums_vs_totals_pct": {
+          "Barack Obama": 0.0,
+          "Mitt Romney": 0.0,
+          "Other": 0.0
+        }
+      }
+    },
+    "2016": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 304191,
+        "totals_row": {
+          "Donald Trump": 1318255,
+          "Hillary Clinton": 729547,
+          "Other": 75570
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 1567834,
+        "totals_row": {
+          "Donald Trump": 1252401,
+          "Hillary Clinton": 1161167,
+          "Other": 191089
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 159776,
+        "totals_row": {
+          "Donald Trump": 684872,
+          "Hillary Clinton": 380494,
+          "Other": 65310
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 3434308,
+        "totals_row": {
+          "Hillary Clinton": 8753788,
+          "Donald Trump": 4483810,
+          "Other": 943997
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 331852,
+        "totals_row": {
+          "Hillary Clinton": 1338870,
+          "Donald Trump": 1202484,
+          "Other": 238893
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 40,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Gary Johnson",
+          "Hillary Clinton",
+          "Jill Stein",
+          "Other"
+        ],
+        "total_votes": 421209,
+        "totals_row": {
+          "Hillary Clinton": 897572,
+          "Donald Trump": 673215,
+          "Gary Johnson": 48676,
+          "Jill Stein": 22841,
+          "Other": 2616
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Gary Johnson": 0.0,
+          "Jill Stein": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 262979,
+        "totals_row": {
+          "Hillary Clinton": 235603,
+          "Donald Trump": 185127,
+          "Other": 23084
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 987191,
+        "totals_row": {
+          "Donald Trump": 4617886,
+          "Hillary Clinton": 4504975,
+          "Other": 379886
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": -0.002,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 438751,
+        "totals_row": {
+          "Donald Trump": 2089104,
+          "Hillary Clinton": 1877963,
+          "Other": 179758
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 285790,
+        "totals_row": {
+          "Hillary Clinton": 266891,
+          "Donald Trump": 128847,
+          "Other": 33199
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.005,
+          "Donald Trump": 0.001,
+          "Other": 0.015
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 176,
+        "counties": 44,
+        "candidates": [
+          "Donald Trump",
+          "Evan McMullin",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 195669,
+        "totals_row": {
+          "Donald Trump": 409055,
+          "Hillary Clinton": 189765,
+          "Evan McMullin": 46476,
+          "Other": 45137
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Evan McMullin": 0.0,
+          "Other": 4.553
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 2180344,
+        "totals_row": {
+          "Hillary Clinton": 3090729,
+          "Donald Trump": 2146015,
+          "Other": 299680
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 19.639
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 366879,
+        "totals_row": {
+          "Donald Trump": 1557286,
+          "Hillary Clinton": 1033126,
+          "Other": 169963
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 231555,
+        "totals_row": {
+          "Donald Trump": 800983,
+          "Hillary Clinton": 653669,
+          "Other": 111379
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 315,
+        "counties": 105,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 290090,
+        "totals_row": {
+          "Donald Trump": 671018,
+          "Hillary Clinton": 427005,
+          "Other": 86379
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 353100,
+        "totals_row": {
+          "Donald Trump": 1202971,
+          "Hillary Clinton": 628854,
+          "Other": 92325
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": -0.003
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 196491,
+        "totals_row": {
+          "Donald Trump": 1178638,
+          "Hillary Clinton": 780154,
+          "Other": 70240
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 171818,
+        "totals_row": {
+          "Hillary Clinton": 357735,
+          "Donald Trump": 335593,
+          "Other": 54599
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": -0.843,
+          "Donald Trump": -0.193,
+          "Other": -0.588
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 478873,
+        "totals_row": {
+          "Hillary Clinton": 1677928,
+          "Donald Trump": 943169,
+          "Other": 160349
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 796735,
+        "totals_row": {
+          "Hillary Clinton": 1995196,
+          "Donald Trump": 1090893,
+          "Other": 238957
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 782719,
+        "totals_row": {
+          "Donald Trump": 2279543,
+          "Hillary Clinton": 2268839,
+          "Other": 276160
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 679977,
+        "totals_row": {
+          "Hillary Clinton": 1367825,
+          "Donald Trump": 1323232,
+          "Other": 254176
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 94681,
+        "totals_row": {
+          "Donald Trump": 700714,
+          "Hillary Clinton": 485131,
+          "Other": 23512
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 519686,
+        "totals_row": {
+          "Donald Trump": 1594511,
+          "Hillary Clinton": 1071068,
+          "Other": 162687
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 70486,
+        "totals_row": {
+          "Donald Trump": 279240,
+          "Hillary Clinton": 177709,
+          "Other": 44873
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 240433,
+        "totals_row": {
+          "Donald Trump": 495961,
+          "Hillary Clinton": 284494,
+          "Other": 63777
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 767156,
+        "totals_row": {
+          "Hillary Clinton": 539260,
+          "Donald Trump": 512058,
+          "Other": 74067
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 214157,
+        "totals_row": {
+          "Hillary Clinton": 348526,
+          "Donald Trump": 345790,
+          "Other": 49980
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 422213,
+        "totals_row": {
+          "Hillary Clinton": 2148278,
+          "Donald Trump": 1601933,
+          "Other": 156512
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 132,
+        "counties": 33,
+        "candidates": [
+          "Donald Trump",
+          "Gary Johnson",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 274662,
+        "totals_row": {
+          "Hillary Clinton": 385234,
+          "Donald Trump": 319667,
+          "Gary Johnson": 74541,
+          "Other": 18877
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Gary Johnson": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 805605,
+        "totals_row": {
+          "Hillary Clinton": 4556142,
+          "Donald Trump": 2819557,
+          "Other": 346096
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 527624,
+        "totals_row": {
+          "Donald Trump": 2362631,
+          "Hillary Clinton": 2189316,
+          "Other": 189617
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 159,
+        "counties": 53,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 80821,
+        "totals_row": {
+          "Donald Trump": 216794,
+          "Hillary Clinton": 93758,
+          "Other": 33808
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 528,
+        "counties": 88,
+        "candidates": [
+          "Donald Trump",
+          "Gary Johnson",
+          "Hillary Clinton",
+          "Jill Stein",
+          "Other",
+          "Richard Duncan"
+        ],
+        "total_votes": 608879,
+        "totals_row": {
+          "Donald Trump": 2841006,
+          "Hillary Clinton": 2394169,
+          "Gary Johnson": 174498,
+          "Jill Stein": 46271,
+          "Richard Duncan": 24235,
+          "Other": 56368
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Gary Johnson": 0.0,
+          "Jill Stein": 0.0,
+          "Richard Duncan": 3.809,
+          "Other": -2.26
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 231,
+        "counties": 77,
+        "candidates": [
+          "Donald Trump",
+          "Gary Johnson",
+          "Hillary Clinton"
+        ],
+        "total_votes": 273942,
+        "totals_row": {
+          "Donald Trump": 949136,
+          "Hillary Clinton": 420375,
+          "Gary Johnson": 83481
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Gary Johnson": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 399103,
+        "totals_row": {
+          "Hillary Clinton": 1002106,
+          "Donald Trump": 782403,
+          "Other": 216827
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 402,
+        "counties": 67,
+        "candidates": [
+          "Darrell Castle",
+          "Donald Trump",
+          "Gary Johnson",
+          "Hillary Clinton",
+          "Jill Stein",
+          "Other"
+        ],
+        "total_votes": 709618,
+        "totals_row": {
+          "Donald Trump": 2970742,
+          "Hillary Clinton": 2926458,
+          "Gary Johnson": 146719,
+          "Jill Stein": 49941,
+          "Darrell Castle": 21572,
+          "Other": 51506
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Gary Johnson": 0.0,
+          "Jill Stein": 0.0,
+          "Darrell Castle": 0.0,
+          "Other": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 248474,
+        "totals_row": {
+          "Hillary Clinton": 252525,
+          "Donald Trump": 180543,
+          "Other": 31076
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": -0.252,
+          "Donald Trump": -0.029,
+          "Other": -0.122
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 215165,
+        "totals_row": {
+          "Donald Trump": 1155389,
+          "Hillary Clinton": 855373,
+          "Other": 92265
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": -4.852
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 78263,
+        "totals_row": {
+          "Donald Trump": 227721,
+          "Hillary Clinton": 117458,
+          "Other": 24914
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 337383,
+        "totals_row": {
+          "Donald Trump": 1522925,
+          "Hillary Clinton": 870695,
+          "Other": 114407
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 1312112,
+        "totals_row": {
+          "Donald Trump": 4685047,
+          "Hillary Clinton": 3877868,
+          "Other": 430940
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 203,
+        "counties": 29,
+        "candidates": [
+          "Darrell Castle",
+          "Donald Trump",
+          "Evan McMullin",
+          "Gary Johnson",
+          "Hillary Clinton",
+          "Jill Stein",
+          "Other"
+        ],
+        "total_votes": 423743,
+        "totals_row": {
+          "Donald Trump": 515231,
+          "Hillary Clinton": 310676,
+          "Evan McMullin": 243690,
+          "Gary Johnson": 39608,
+          "Jill Stein": 9438,
+          "Darrell Castle": 8032,
+          "Other": 17057
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Evan McMullin": 0.0,
+          "Gary Johnson": 0.0,
+          "Jill Stein": 0.0,
+          "Darrell Castle": 0.0,
+          "Other": -0.721
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 83416,
+        "totals_row": {
+          "Hillary Clinton": 178573,
+          "Donald Trump": 95369,
+          "Other": 41125
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 399,
+        "counties": 133,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 551183,
+        "totals_row": {
+          "Hillary Clinton": 1981473,
+          "Donald Trump": 1769443,
+          "Other": 233715
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 1028450,
+        "totals_row": {
+          "Hillary Clinton": 1742718,
+          "Donald Trump": 1221747,
+          "Other": 352554
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 76888,
+        "totals_row": {
+          "Donald Trump": 489371,
+          "Hillary Clinton": 188794,
+          "Other": 43096
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 441053,
+        "totals_row": {
+          "Donald Trump": 1405284,
+          "Hillary Clinton": 1382536,
+          "Other": 188330
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 40969,
+        "totals_row": {
+          "Donald Trump": 174419,
+          "Hillary Clinton": 55973,
+          "Other": 25457
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Hillary Clinton": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Hillary Clinton",
+          "Other"
+        ],
+        "total_votes": 51687,
+        "totals_row": {
+          "Hillary Clinton": 282830,
+          "Donald Trump": 12723,
+          "Other": 15715
+        },
+        "county_sums_vs_totals_pct": {
+          "Hillary Clinton": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      }
+    },
+    "2020": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 325848,
+        "totals_row": {
+          "Donald Trump": 1441170,
+          "Joe Biden": 849624,
+          "Other": 32488
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 2069475,
+        "totals_row": {
+          "Joe Biden": 1672143,
+          "Donald Trump": 1661686,
+          "Other": 53497
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 169956,
+        "totals_row": {
+          "Donald Trump": 760647,
+          "Joe Biden": 423932,
+          "Other": 34490
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 4264365,
+        "totals_row": {
+          "Joe Biden": 11110250,
+          "Donald Trump": 6006429,
+          "Other": 384202
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 393829,
+        "totals_row": {
+          "Joe Biden": 1804352,
+          "Donald Trump": 1364607,
+          "Other": 88021
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 472990,
+        "totals_row": {
+          "Joe Biden": 1080831,
+          "Donald Trump": 715291,
+          "Other": 28309
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.003,
+          "Other": 0.018
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 287633,
+        "totals_row": {
+          "Joe Biden": 296268,
+          "Donald Trump": 200603,
+          "Other": 7475
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": -4.495
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 1156816,
+        "totals_row": {
+          "Donald Trump": 5668731,
+          "Joe Biden": 5297045,
+          "Other": 101680
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.208
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 523931,
+        "totals_row": {
+          "Joe Biden": 2473633,
+          "Donald Trump": 2461854,
+          "Other": 64473
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 382114,
+        "totals_row": {
+          "Joe Biden": 366130,
+          "Donald Trump": 196864,
+          "Other": 11475
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 132,
+        "counties": 44,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 261488,
+        "totals_row": {
+          "Donald Trump": 554119,
+          "Joe Biden": 287021,
+          "Other": 29211
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 2325405,
+        "totals_row": {
+          "Joe Biden": 3471915,
+          "Donald Trump": 2446891,
+          "Other": 114938
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 15.457
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 391134,
+        "totals_row": {
+          "Donald Trump": 1729863,
+          "Joe Biden": 1242505,
+          "Other": 67413
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": -0.059
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 258755,
+        "totals_row": {
+          "Donald Trump": 897672,
+          "Joe Biden": 759061,
+          "Other": 34138
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 315,
+        "counties": 105,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 349386,
+        "totals_row": {
+          "Donald Trump": 771406,
+          "Joe Biden": 570323,
+          "Other": 35755
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 387870,
+        "totals_row": {
+          "Donald Trump": 1326646,
+          "Joe Biden": 772474,
+          "Other": 38889
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 208182,
+        "totals_row": {
+          "Donald Trump": 1255776,
+          "Joe Biden": 856034,
+          "Other": 36252
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 193765,
+        "totals_row": {
+          "Joe Biden": 435072,
+          "Donald Trump": 360737,
+          "Other": 23652
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": -1.057,
+          "Donald Trump": -0.232,
+          "Other": -1.192
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 533743,
+        "totals_row": {
+          "Joe Biden": 1985023,
+          "Donald Trump": 976414,
+          "Other": 75593
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 863577,
+        "totals_row": {
+          "Joe Biden": 2382202,
+          "Donald Trump": 1167202,
+          "Other": 81998
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 874018,
+        "totals_row": {
+          "Joe Biden": 2804045,
+          "Donald Trump": 2649864,
+          "Other": 93277
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 755969,
+        "totals_row": {
+          "Joe Biden": 1717077,
+          "Donald Trump": 1484065,
+          "Other": 76029
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 99995,
+        "totals_row": {
+          "Donald Trump": 756764,
+          "Joe Biden": 539398,
+          "Other": 17597
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 536446,
+        "totals_row": {
+          "Donald Trump": 1718736,
+          "Joe Biden": 1253014,
+          "Other": 58998
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 83821,
+        "totals_row": {
+          "Donald Trump": 343602,
+          "Joe Biden": 244786,
+          "Other": 15286
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 276540,
+        "totals_row": {
+          "Donald Trump": 556846,
+          "Joe Biden": 374583,
+          "Other": 24954
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.003,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 972510,
+        "totals_row": {
+          "Joe Biden": 703486,
+          "Donald Trump": 669890,
+          "Other": 32000
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 231659,
+        "totals_row": {
+          "Joe Biden": 424937,
+          "Donald Trump": 365660,
+          "Other": 15608
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 495849,
+        "totals_row": {
+          "Joe Biden": 2608400,
+          "Donald Trump": 1883313,
+          "Other": 57744
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 317590,
+        "totals_row": {
+          "Joe Biden": 501614,
+          "Donald Trump": 401894,
+          "Other": 20457
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 916009,
+        "totals_row": {
+          "Joe Biden": 5244886,
+          "Donald Trump": 3251997,
+          "Other": 135372
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 631830,
+        "totals_row": {
+          "Donald Trump": 2758775,
+          "Joe Biden": 2684292,
+          "Other": 81737
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 159,
+        "counties": 53,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 86053,
+        "totals_row": {
+          "Donald Trump": 235595,
+          "Joe Biden": 114902,
+          "Other": 11322
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 440,
+        "counties": 88,
+        "candidates": [
+          "Donald Trump",
+          "Howie Hawkins",
+          "Jo Jorgensen",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 632532,
+        "totals_row": {
+          "Donald Trump": 3154834,
+          "Joe Biden": 2679165,
+          "Jo Jorgensen": 67569,
+          "Howie Hawkins": 18812,
+          "Other": 12018
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Jo Jorgensen": 0.0,
+          "Howie Hawkins": -8.718,
+          "Other": 14.046
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 231,
+        "counties": 77,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 294740,
+        "totals_row": {
+          "Donald Trump": 1020280,
+          "Joe Biden": 503890,
+          "Other": 36529
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 463659,
+        "totals_row": {
+          "Joe Biden": 1340383,
+          "Donald Trump": 958448,
+          "Other": 75490
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 268,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Jo Jorgensen",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 743966,
+        "totals_row": {
+          "Joe Biden": 3461221,
+          "Donald Trump": 3379055,
+          "Jo Jorgensen": 79445,
+          "Other": 20728
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Jo Jorgensen": 0.0,
+          "Other": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 272667,
+        "totals_row": {
+          "Joe Biden": 306210,
+          "Donald Trump": 199837,
+          "Other": 10336
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 258155,
+        "totals_row": {
+          "Donald Trump": 1385103,
+          "Joe Biden": 1091541,
+          "Other": 36685
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": -0.027
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Donald Trump",
+          "Jo Jorgensen",
+          "Joe Biden"
+        ],
+        "total_votes": 92326,
+        "totals_row": {
+          "Donald Trump": 261043,
+          "Joe Biden": 150471,
+          "Jo Jorgensen": 11095
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Jo Jorgensen": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 382055,
+        "totals_row": {
+          "Donald Trump": 1852475,
+          "Joe Biden": 1143711,
+          "Other": 57665
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 1641257,
+        "totals_row": {
+          "Donald Trump": 5890347,
+          "Joe Biden": 5259126,
+          "Other": 175813
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 87,
+        "counties": 29,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 541175,
+        "totals_row": {
+          "Donald Trump": 865140,
+          "Joe Biden": 560282,
+          "Other": 62867
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 98915,
+        "totals_row": {
+          "Joe Biden": 242820,
+          "Donald Trump": 112704,
+          "Other": 11904
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 399,
+        "counties": 133,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 600823,
+        "totals_row": {
+          "Joe Biden": 2413568,
+          "Donald Trump": 1962430,
+          "Other": 84526
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 1210507,
+        "totals_row": {
+          "Joe Biden": 2369612,
+          "Donald Trump": 1584651,
+          "Other": 133368
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 82250,
+        "totals_row": {
+          "Donald Trump": 545382,
+          "Joe Biden": 235984,
+          "Other": 13365
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 459723,
+        "totals_row": {
+          "Joe Biden": 1630866,
+          "Donald Trump": 1610184,
+          "Other": 56991
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 44982,
+        "totals_row": {
+          "Donald Trump": 193559,
+          "Joe Biden": 73491,
+          "Other": 9715
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 62918,
+        "totals_row": {
+          "Joe Biden": 317323,
+          "Donald Trump": 18586,
+          "Other": 8447
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      }
+    },
+    "2024": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 298704,
+        "totals_row": {
+          "Donald Trump": 1462616,
+          "Kamala Harris": 772412,
+          "Other": 30062
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "state": "Alaska",
+        "rows": 90,
+        "counties": 30,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 132899,
+        "totals_row": null,
+        "county_sums_vs_totals_pct": null
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 2054415,
+        "totals_row": {
+          "Donald Trump": 1770242,
+          "Kamala Harris": 1582860,
+          "Other": 37059
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 153924,
+        "totals_row": {
+          "Donald Trump": 759241,
+          "Kamala Harris": 396905,
+          "Other": 26530
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 3729089,
+        "totals_row": {
+          "Kamala Harris": 9276179,
+          "Donald Trump": 6081697,
+          "Other": 507599
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 380986,
+        "totals_row": {
+          "Kamala Harris": 1728159,
+          "Donald Trump": 1377441,
+          "Other": 87145
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 452303,
+        "totals_row": {
+          "Kamala Harris": 992053,
+          "Donald Trump": 736918,
+          "Other": 30039
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 276859,
+        "totals_row": {
+          "Kamala Harris": 289758,
+          "Donald Trump": 214351,
+          "Other": 8803
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1094105,
+        "totals_row": {
+          "Donald Trump": 6110125,
+          "Kamala Harris": 4683038,
+          "Other": 100589
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 535238,
+        "totals_row": {
+          "Donald Trump": 2663117,
+          "Kamala Harris": 2548017,
+          "Other": 39771
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": -2.16
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 340921,
+        "totals_row": {
+          "Kamala Harris": 313044,
+          "Donald Trump": 193661,
+          "Other": 9996
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 132,
+        "counties": 44,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 267419,
+        "totals_row": {
+          "Donald Trump": 605246,
+          "Kamala Harris": 274972,
+          "Other": 24839
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 8.108
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 2079239,
+        "totals_row": {
+          "Kamala Harris": 3062863,
+          "Donald Trump": 2449079,
+          "Other": 121928
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 354368,
+        "totals_row": {
+          "Donald Trump": 1720347,
+          "Kamala Harris": 1163603,
+          "Other": 60386
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 256838,
+        "totals_row": {
+          "Donald Trump": 927019,
+          "Kamala Harris": 707278,
+          "Other": 29209
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 315,
+        "counties": 105,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 343780,
+        "totals_row": {
+          "Donald Trump": 758802,
+          "Kamala Harris": 544853,
+          "Other": 23936
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 355722,
+        "totals_row": {
+          "Donald Trump": 1337494,
+          "Kamala Harris": 704043,
+          "Other": 32993
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 6.898
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 190643,
+        "totals_row": {
+          "Donald Trump": 1208505,
+          "Kamala Harris": 766870,
+          "Other": 31600
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 192656,
+        "totals_row": {
+          "Kamala Harris": 430342,
+          "Donald Trump": 376991,
+          "Other": 17473
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": -0.07,
+          "Donald Trump": -0.037,
+          "Other": 0.315
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 519221,
+        "totals_row": {
+          "Kamala Harris": 1902577,
+          "Donald Trump": 1035550,
+          "Other": 100207
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 814832,
+        "totals_row": {
+          "Kamala Harris": 2126518,
+          "Donald Trump": 1251303,
+          "Other": 95847
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 856690,
+        "totals_row": {
+          "Donald Trump": 2816636,
+          "Kamala Harris": 2736533,
+          "Other": 111017
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 720173,
+        "totals_row": {
+          "Kamala Harris": 1656979,
+          "Donald Trump": 1519032,
+          "Other": 77909
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 86830,
+        "totals_row": {
+          "Donald Trump": 747744,
+          "Kamala Harris": 466668,
+          "Other": 13596
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 502738,
+        "totals_row": {
+          "Donald Trump": 1751986,
+          "Kamala Harris": 1200599,
+          "Other": 42742
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 81393,
+        "totals_row": {
+          "Donald Trump": 352079,
+          "Kamala Harris": 231906,
+          "Other": 19005
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 275145,
+        "totals_row": {
+          "Donald Trump": 564816,
+          "Kamala Harris": 369995,
+          "Other": 17371
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1031223,
+        "totals_row": {
+          "Donald Trump": 751205,
+          "Kamala Harris": 705197,
+          "Other": 28438
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 234440,
+        "totals_row": {
+          "Kamala Harris": 418488,
+          "Donald Trump": 395523,
+          "Other": 12178
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 459077,
+        "totals_row": {
+          "Kamala Harris": 2220713,
+          "Donald Trump": 1968215,
+          "Other": 83797
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 310844,
+        "totals_row": {
+          "Kamala Harris": 478802,
+          "Donald Trump": 423391,
+          "Other": 21210
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 853744,
+        "totals_row": {
+          "Kamala Harris": 4619195,
+          "Donald Trump": 3578899,
+          "Other": 102117
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 653580,
+        "totals_row": {
+          "Donald Trump": 2898423,
+          "Kamala Harris": 2715375,
+          "Other": 85343
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 159,
+        "counties": 53,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 90851,
+        "totals_row": {
+          "Donald Trump": 246505,
+          "Kamala Harris": 112327,
+          "Other": 9323
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 264,
+        "counties": 88,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 604184,
+        "totals_row": {
+          "Donald Trump": 3180117,
+          "Kamala Harris": 2533700,
+          "Other": 86012
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": -6.384
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 231,
+        "counties": 77,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 288923,
+        "totals_row": {
+          "Donald Trump": 1036213,
+          "Kamala Harris": 499599,
+          "Other": 30361
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 414250,
+        "totals_row": {
+          "Kamala Harris": 1240600,
+          "Donald Trump": 919480,
+          "Other": 84413
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 721441,
+        "totals_row": {
+          "Donald Trump": 3543308,
+          "Kamala Harris": 3423042,
+          "Other": 68485
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": -0.918
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 269679,
+        "totals_row": {
+          "Kamala Harris": 283750,
+          "Donald Trump": 214291,
+          "Other": 13775
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 263316,
+        "totals_row": {
+          "Donald Trump": 1483747,
+          "Kamala Harris": 1028452,
+          "Other": 35941
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 93986,
+        "totals_row": {
+          "Donald Trump": 272081,
+          "Kamala Harris": 146859,
+          "Other": 9982
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 326497,
+        "totals_row": {
+          "Donald Trump": 1966865,
+          "Kamala Harris": 1056265,
+          "Other": 40812
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1557484,
+        "totals_row": {
+          "Donald Trump": 6393597,
+          "Kamala Harris": 4835250,
+          "Other": 159827
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 87,
+        "counties": 29,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 509637,
+        "totals_row": {
+          "Donald Trump": 883818,
+          "Kamala Harris": 562566,
+          "Other": 42110
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 97329,
+        "totals_row": {
+          "Kamala Harris": 235791,
+          "Donald Trump": 119395,
+          "Other": 14236
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 399,
+        "counties": 133,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 589427,
+        "totals_row": {
+          "Kamala Harris": 2335395,
+          "Donald Trump": 2075085,
+          "Other": 95461
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1130502,
+        "totals_row": {
+          "Kamala Harris": 2245849,
+          "Donald Trump": 1530923,
+          "Other": 147471
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 75239,
+        "totals_row": {
+          "Donald Trump": 533556,
+          "Kamala Harris": 214309,
+          "Other": 14525
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 464107,
+        "totals_row": {
+          "Donald Trump": 1697626,
+          "Kamala Harris": 1668229,
+          "Other": 57063
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 43362,
+        "totals_row": {
+          "Donald Trump": 192633,
+          "Kamala Harris": 69527,
+          "Other": 6888
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 48678,
+        "totals_row": {
+          "Kamala Harris": 294185,
+          "Donald Trump": 21076,
+          "Other": 10608
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      }
+    }
+  },
+  "missing_articles": []
+}

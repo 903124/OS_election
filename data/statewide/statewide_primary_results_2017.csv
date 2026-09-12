@@ -1,0 +1,23 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2017,New Jersey,NJ,governor,Republican primary results,Winning,Kim Guadagno,Republican,113846,46.7,True,False
+2017,New Jersey,NJ,governor,Republican primary results,Candidate,Jack Ciattarelli,Republican,75556,30.99,False,False
+2017,New Jersey,NJ,governor,Republican primary results,Candidate,Hirsh Singh,Republican,23728,9.73,False,False
+2017,New Jersey,NJ,governor,Republican primary results,Candidate,Joseph R. Rullo,Republican,15816,6.49,False,False
+2017,New Jersey,NJ,governor,Republican primary results,Candidate,Steven Rogers,Republican,14187,5.82,False,False
+2017,New Jersey,NJ,governor,Republican primary results,Write-in,,,638,0.27,False,False
+2017,New Jersey,NJ,governor,Republican primary results,Total,,,243771,100.0,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Winning,Phil Murphy,Democratic,243643,48.37,True,False
+2017,New Jersey,NJ,governor,Democratic primary results,Candidate,Jim Johnson,Democratic,110250,21.89,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Candidate,John Wisniewski,Democratic,108532,21.55,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Candidate,Raymond J. Lesniak,Democratic,24318,4.83,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Candidate,William Brennan,Democratic,11263,2.24,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Candidate,Mark Zinna,Democratic,5213,1.03,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Write-in,,,463,0.09,False,False
+2017,New Jersey,NJ,governor,Democratic primary results,Total,,,503682,100.0,False,False
+2017,Virginia,VA,governor,Democratic primary results,Winning,Ralph Northam,Democratic,303846,55.9,True,False
+2017,Virginia,VA,governor,Democratic primary results,Candidate,Tom Perriello,Democratic,239505,44.1,False,False
+2017,Virginia,VA,governor,Democratic primary results,Total,,,543351,100.0,False,False
+2017,Virginia,VA,governor,Republican primary results,Winning,Ed Gillespie,Republican,160100,43.7,True,False
+2017,Virginia,VA,governor,Republican primary results,Candidate,Corey Stewart,Republican,155780,42.5,False,False
+2017,Virginia,VA,governor,Republican primary results,Candidate,Frank Wagner,Republican,50394,13.8,False,False
+2017,Virginia,VA,governor,Republican primary results,Total,,,366274,100.0,False,False

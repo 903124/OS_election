@@ -1,6 +1,6 @@
 year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2008,Delaware,DE,governor,Jack Markell,Democratic,67.5,True,False
-2008,Delaware,DE,governor,Bill Lee (Delaware politician)|Bill Lee,Republican,32.1,False,False
+2008,Delaware,DE,governor,Bill Lee,Republican,32.1,False,False
 2008,Indiana,IN,governor,Mitch Daniels,Republican,57.8,True,True
 2008,Indiana,IN,governor,Jill Long Thompson,Democratic,40.1,False,False
 2008,Indiana,IN,governor,Andy Horning,Libertarian,2.1,False,False
@@ -9,8 +9,8 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2008,Missouri,MO,governor,Andrew Finkenstadt,Libertarian,1.1,False,False
 2008,Missouri,MO,governor,Gregory Thompson,Constitution,1.0,False,False
 2008,Montana,MT,governor,Brian Schweitzer,Democratic,65.5,True,True
-2008,Montana,MT,governor,Roy Brown (Montana politician)|Roy Brown,Republican,32.5,False,False
-2008,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,2.0,False,False
+2008,Montana,MT,governor,Roy Brown,Republican,32.5,False,False
+2008,Montana,MT,governor,Stan Jones,Libertarian,2.0,False,False
 2008,New Hampshire,NH,governor,John Lynch,Democratic,70.2,True,True
 2008,New Hampshire,NH,governor,Joseph Kenney,Republican,27.6,False,False
 2008,New Hampshire,NH,governor,Susan Newell,Libertarian,2.2,False,False
@@ -30,7 +30,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2008,Washington,WA,governor,Dino Rossi,Republican,46.8,False,False
 2008,West Virginia,WV,governor,Joe Manchin,Democratic,69.8,True,True
 2008,West Virginia,WV,governor,Russ Weeks,Republican,25.7,False,False
-2008,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,4.5,False,False
+2008,West Virginia,WV,governor,Jesse Johnson,Mountain,4.5,False,False
 2008,American Samoa,AS,governor,Togiola Tulafono,Democratic,56.4,True,True
 2008,American Samoa,AS,governor,Utu Abe Malae,Republican,43.6,False,False
 2008,Puerto Rico,PR,governor,Luis Fortuño,New Progressive Party (puerto Rico),52.8,True,False

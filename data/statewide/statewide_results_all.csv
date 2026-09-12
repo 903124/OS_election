@@ -9,8 +9,8 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2000,Missouri,MO,governor,Jim Talent,Republican,48.2,False,False
 2000,Missouri,MO,governor,Larry Rice,Independent,1.5,False,False
 2000,Montana,MT,governor,Judy Martz,Republican,51.0,True,False
-2000,Montana,MT,governor,Mark O'Keefe (politician)|Mark O'Keefe,Democratic,47.1,False,False
-2000,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,1.9,False,False
+2000,Montana,MT,governor,Mark O'Keefe,Democratic,47.1,False,False
+2000,Montana,MT,governor,Stan Jones,Libertarian,1.9,False,False
 2000,New Hampshire,NH,governor,Jeanne Shaheen,Democratic,48.7,True,True
 2000,New Hampshire,NH,governor,Gordon J. Humphrey,Republican,43.7,False,False
 2000,New Hampshire,NH,governor,Mary Brown,Independent,6.4,False,False
@@ -23,10 +23,10 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2000,Utah,UT,governor,Mike Leavitt,Republican,55.8,True,True
 2000,Utah,UT,governor,Bill Orton,Democratic,42.3,False,False
 2000,Vermont,VT,governor,Howard Dean,Democratic,50.5,True,True
-2000,Vermont,VT,governor,Ruth Dwyer (politician)|Ruth Dwyer,Republican,38.0,False,False
+2000,Vermont,VT,governor,Ruth Dwyer,Republican,38.0,False,False
 2000,Vermont,VT,governor,Anthony Pollina,Progressive,9.6,False,False
 2000,Washington,WA,governor,Gary Locke,Democratic,58.4,True,True
-2000,Washington,WA,governor,John Carlson (radio host)|John Carlson,Republican,39.7,False,False
+2000,Washington,WA,governor,John Carlson,Republican,39.7,False,False
 2000,Washington,WA,governor,Steve LePage,Libertarian,1.9,False,False
 2000,West Virginia,WV,governor,Bob Wise,Democratic,50.1,True,False
 2000,West Virginia,WV,governor,Cecil Underwood,Republican,47.2,False,True
@@ -36,6 +36,15 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2000,Puerto Rico,PR,governor,Sila María Calderón,Popular Democratic Party (puerto Rico),48.6,True,False
 2000,Puerto Rico,PR,governor,Carlos Pesquera,New Progressive Party (puerto Rico),45.7,False,False
 2000,Puerto Rico,PR,governor,Rubén Berríos Martínez,Independence,5.2,False,False
+2001,New Jersey,NJ,governor,Jim McGreevey,Democratic,56.4,True,False
+2001,New Jersey,NJ,governor,Bret Schundler,Republican,41.7,False,False
+2001,New Jersey,NJ,governor,Bill Schluter,Independent,1.1,False,False
+2001,Virginia,VA,governor,Mark Warner,Democratic,52.2,True,False
+2001,Virginia,VA,governor,Mark Earley,Republican,47.0,False,False
+2001,Northern Mariana Islands,MP,governor,Juan Babauta,Republican,44.6,True,False
+2001,Northern Mariana Islands,MP,governor,Benigno Fitial,Covenant,25.5,False,False
+2001,Northern Mariana Islands,MP,governor,Jesus Borja,Democratic,18.2,False,False
+2001,Northern Mariana Islands,MP,governor,Froilan Tenorio,Reform,11.7,False,False
 2002,Alabama,AL,governor,Bob R. Riley,Republican,49.2,True,False
 2002,Alabama,AL,governor,Don Siegelman,Democratic,49.0,False,True
 2002,Alabama,AL,governor,John Sophocleus,Libertarian,1.7,False,False
@@ -49,7 +58,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Arkansas,AR,governor,Mike Huckabee,Republican,53.0,True,True
 2002,Arkansas,AR,governor,Jimmie Lou Fisher,Democratic,47.0,False,False
 2002,California,CA,governor,Gray Davis,Democratic,47.3,True,True
-2002,California,CA,governor,Bill Simon (politician)|Bill Simon,Politician,42.4,False,False
+2002,California,CA,governor,Bill Simon,Politician,42.4,False,False
 2002,California,CA,governor,Peter Camejo,Green,5.3,False,False
 2002,California,CA,governor,Gary Copeland,Libertarian,2.2,False,False
 2002,California,CA,governor,Reinhold Gulke,American Independent,1.7,False,False
@@ -59,9 +68,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Colorado,CO,governor,Ronald Forthofer,Green,2.3,False,False
 2002,Colorado,CO,governor,Ralph Shnelvar,Libertarian,1.4,False,False
 2002,Connecticut,CT,governor,John G. Rowland,Republican,56.1,True,True
-2002,Connecticut,CT,governor,Bill Curry (politician)|Bill Curry,Politician,43.9,False,False
+2002,Connecticut,CT,governor,Bill Curry,Politician,43.9,False,False
 2002,Florida,FL,governor,Jeb Bush,Republican,56.0,True,True
-2002,Florida,FL,governor,Bill McBride (candidate)|Bill McBride,Candidate,43.2,False,False
+2002,Florida,FL,governor,Bill McBride,Candidate,43.2,False,False
 2002,Georgia,GA,governor,Sonny Perdue,Republican,51.4,True,False
 2002,Georgia,GA,governor,Roy Barnes,Democratic,46.3,False,True
 2002,Georgia,GA,governor,Garrett Hayes,Libertarian,2.3,False,False
@@ -71,7 +80,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Idaho,ID,governor,Jerry Brady,Democratic,41.7,False,False
 2002,Idaho,ID,governor,Daniel Adams,Libertarian,2.0,False,False
 2002,Illinois,IL,governor,Rod Blagojevich,Democratic,52.2,True,False
-2002,Illinois,IL,governor,Jim Ryan (politician)|Jim Ryan,Politician,45.1,False,False
+2002,Illinois,IL,governor,Jim Ryan,Politician,45.1,False,False
 2002,Illinois,IL,governor,Calvin Skinner,Libertarian,2.1,False,False
 2002,Iowa,IA,governor,Tom Vilsack,Democratic,52.7,True,True
 2002,Iowa,IA,governor,Doug Gross,Republican,44.5,False,False
@@ -83,12 +92,12 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Kansas,KS,governor,Dennis Hawver,Libertarian,1.0,False,False
 2002,Maine,ME,governor,John Baldacci,Democratic,47.1,True,False
 2002,Maine,ME,governor,Peter Cianchette,Republican,41.5,False,False
-2002,Maine,ME,governor,Jonathan Carter (politician)|Jonathan Carter,Politician,9.3,False,False
-2002,Maine,ME,governor,John Michael (politician)|John Michael,Politician,2.1,False,False
+2002,Maine,ME,governor,Jonathan Carter,Politician,9.3,False,False
+2002,Maine,ME,governor,John Michael,Politician,2.1,False,False
 2002,Maryland,MD,governor,Bob Ehrlich,Republican,51.5,True,False
-2002,Maryland,MD,governor,Kathleen Kennedy Townsend|Kathleen K. Townsend,Democratic,47.7,False,False
+2002,Maryland,MD,governor,Kathleen K. Townsend,Democratic,47.7,False,False
 2002,Massachusetts,MA,governor,Mitt Romney,Republican,49.8,True,False
-2002,Massachusetts,MA,governor,Shannon O'Brien (Massachusetts politician)|Shannon O'Brien,Massachusetts Politician,44.9,False,False
+2002,Massachusetts,MA,governor,Shannon O'Brien,Massachusetts Politician,44.9,False,False
 2002,Massachusetts,MA,governor,Jill Stein,Green-rainbow,3.5,False,False
 2002,Massachusetts,MA,governor,Carla Howell,Libertarian,1.1,False,False
 2002,Michigan,MI,governor,Jennifer Granholm,Democratic,51.4,True,False
@@ -101,7 +110,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Nebraska,NE,governor,Stormy Dean,Democratic,27.5,False,False
 2002,Nebraska,NE,governor,Paul A. Rosberg,Nebraska,3.8,False,False
 2002,Nevada,NV,governor,Kenny Guinn,Republican,68.2,True,True
-2002,Nevada,NV,governor,Joe Neal (politician)|Joe Neal,Politician,22.0,False,False
+2002,Nevada,NV,governor,Joe Neal,Politician,22.0,False,False
 2002,Nevada,NV,governor,Dick Geyer,Libertarian,1.6,False,False
 2002,Nevada,NV,governor,David G. Holmgren,Independent American,1.4,False,False
 2002,Nevada,NV,governor,Jerry L. Norton,Independent,1.1,False,False
@@ -120,12 +129,12 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Ohio,OH,governor,John Eastman,Independent,3.9,False,False
 2002,Oklahoma,OK,governor,Brad Henry,Democratic,43.3,True,False
 2002,Oklahoma,OK,governor,Steve Largent,Republican,42.6,False,False
-2002,Oklahoma,OK,governor,Gary Richardson (lawyer)|Gary Richardson,Lawyer,14.1,False,False
+2002,Oklahoma,OK,governor,Gary Richardson,Lawyer,14.1,False,False
 2002,Oregon,OR,governor,Ted Kulongoski,Democratic,49.0,True,False
 2002,Oregon,OR,governor,Kevin Mannix,Republican,46.2,False,False
 2002,Oregon,OR,governor,Tom Cox,Libertarian,4.6,False,False
 2002,Pennsylvania,PA,governor,Ed Rendell,Democratic,53.4,True,False
-2002,Pennsylvania,PA,governor,D. Michael Fisher|Mike Fisher,Republican,44.4,False,False
+2002,Pennsylvania,PA,governor,Mike Fisher,Republican,44.4,False,False
 2002,Pennsylvania,PA,governor,Ken Krawchuk,Libertarian,1.1,False,False
 2002,Pennsylvania,PA,governor,Mike Morrill,Green,1.1,False,False
 2002,Rhode Island,RI,governor,Donald Carcieri,Republican,54.8,True,False
@@ -133,18 +142,18 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,South Carolina,SC,governor,Mark Sanford,Republican,52.9,True,False
 2002,South Carolina,SC,governor,Jim Hodges,Democratic,47.0,False,True
 2002,South Dakota,SD,governor,Mike Rounds,Republican,56.8,True,False
-2002,South Dakota,SD,governor,James W. Abbott|Jim Abbott,Democratic,41.9,False,False
+2002,South Dakota,SD,governor,Jim Abbott,Democratic,41.9,False,False
 2002,Tennessee,TN,governor,Phil Bredesen,Democratic,50.6,True,False
 2002,Tennessee,TN,governor,Van Hilleary,Republican,47.6,False,False
 2002,Texas,TX,governor,Rick Perry,Republican,57.8,True,True
-2002,Texas,TX,governor,Tony Sanchez (politician)|Tony Sanchez,Politician,40.0,False,False
+2002,Texas,TX,governor,Tony Sanchez,Politician,40.0,False,False
 2002,Texas,TX,governor,Jeff Daiell,Libertarian,1.5,False,False
 2002,Vermont,VT,governor,Jim Douglas,Republican,44.9,True,False
 2002,Vermont,VT,governor,Doug Racine,Democratic,42.4,False,False
 2002,Vermont,VT,governor,Cornelius Hogan,Independent,9.7,False,False
 2002,Wisconsin,WI,governor,Jim Doyle,Democratic,45.1,True,False
 2002,Wisconsin,WI,governor,Scott McCallum,Republican,41.4,False,True
-2002,Wisconsin,WI,governor,Ed Thompson (Wisconsin politician)|Ed Thompson,Wisconsin Politician,10.4,False,False
+2002,Wisconsin,WI,governor,Ed Thompson,Wisconsin Politician,10.4,False,False
 2002,Wisconsin,WI,governor,Jim Young,Green,2.5,False,False
 2002,Wyoming,WY,governor,Dave Freudenthal,Democratic,50.0,True,False
 2002,Wyoming,WY,governor,Eli Bebout,Republican,47.9,False,False
@@ -161,18 +170,30 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,U.S. Virgin Islands,VI,governor,Gerard Luz James II,Independent,5.1,False,False
 2002,U.S. Virgin Islands,VI,governor,Cora Christian,Independent,3.1,False,False
 2002,U.S. Virgin Islands,VI,governor,Lloyd L. Williams,Independent,1.5,False,False
+2003,California {{small|,,governor,Yes,,55.4,True,False
+2003,California {{small|,,governor,No,,44.6,False,False
+2003,California {{small|,,governor,Arnold Schwarzenegger,Republican,48.6,False,False
+2003,California {{small|,,governor,Cruz Bustamante,Democratic,31.5,False,False
+2003,California {{small|,,governor,Tom McClintock,Republican,13.4,False,False
+2003,California {{small|,,governor,Peter Camejo,Green,2.8,False,False
+2003,Kentucky,KY,governor,Ernie Fletcher,Republican,55.0,True,False
+2003,Kentucky,KY,governor,Ben Chandler,Democratic,45.0,False,False
+2003,Louisiana,LA,governor,Kathleen Blanco,Democratic,52.0,True,False
+2003,Louisiana,LA,governor,Bobby Jindal,Republican,48.0,False,False
+2003,Mississippi,MS,governor,Haley Barbour,Republican,52.6,True,False
+2003,Mississippi,MS,governor,Ronnie Musgrove,Democratic,45.8,False,True
 2004,Delaware,DE,governor,Ruth Ann Minner,Democratic,50.9,True,True
-2004,Delaware,DE,governor,Bill Lee (Delaware politician)|Bill Lee,Republican,45.8,False,False
+2004,Delaware,DE,governor,Bill Lee,Republican,45.8,False,False
 2004,Delaware,DE,governor,Frank Infante,Independent,2.9,False,False
 2004,Indiana,IN,governor,Mitch Daniels,Republican,53.2,True,False
-2004,Indiana,IN,governor,Joe Kernan (politician)|Joe Kernan,Democratic,45.5,False,True
+2004,Indiana,IN,governor,Joe Kernan,Democratic,45.5,False,True
 2004,Indiana,IN,governor,Kenn Gividen,Libertarian,1.3,False,False
 2004,Missouri,MO,governor,Matt Blunt,Republican,50.8,True,False
 2004,Missouri,MO,governor,Claire McCaskill,Democratic,47.8,False,False
 2004,Montana,MT,governor,Brian Schweitzer,Democratic,50.4,True,False
-2004,Montana,MT,governor,Bob Brown (Montana politician)|Bob Brown,Republican,46.0,False,False
+2004,Montana,MT,governor,Bob Brown,Republican,46.0,False,False
 2004,Montana,MT,governor,Bob Kelleher,Green,1.9,False,False
-2004,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,1.7,False,False
+2004,Montana,MT,governor,Stan Jones,Libertarian,1.7,False,False
 2004,New Hampshire,NH,governor,John Lynch,Democratic,51.0,True,False
 2004,New Hampshire,NH,governor,Craig Benson,Republican,48.9,False,True
 2004,North Carolina,NC,governor,Mike Easley,Democratic,55.6,True,True
@@ -191,16 +212,26 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2004,Washington,WA,governor,Ruth Bennett,Libertarian,2.3,False,False
 2004,West Virginia,WV,governor,Joe Manchin,Democratic,63.5,True,False
 2004,West Virginia,WV,governor,Monty Warner,Republican,34.0,False,False
-2004,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,2.5,False,False
+2004,West Virginia,WV,governor,Jesse Johnson,Mountain,2.5,False,False
 2004,American Samoa,AS,governor,Togiola Tulafono,Democratic,55.7,True,True
 2004,American Samoa,AS,governor,Afoa L.S. Lutu,Independent,44.3,False,False
 2004,Puerto Rico,PR,governor,Aníbal Acevedo Vilá,Popular Democratic Party (puerto Rico),48.4,True,False
 2004,Puerto Rico,PR,governor,Pedro Rosselló,New Progressive Party (puerto Rico),48.2,False,False
 2004,Puerto Rico,PR,governor,Rubén Berríos,Independence,2.7,False,False
+2005,New Jersey,NJ,governor,Jon Corzine,Democratic,53.5,True,False
+2005,New Jersey,NJ,governor,Doug Forrester,Republican,43.0,False,False
+2005,New Jersey,NJ,governor,Hector Castillo,Independent,1.3,False,False
+2005,Virginia,VA,governor,Tim Kaine,Democratic,51.7,True,False
+2005,Virginia,VA,governor,Jerry Kilgore,Republican,46.0,False,False
+2005,Virginia,VA,governor,Russ Potts,Independent,2.2,False,False
+2005,Northern Mariana Islands,MP,governor,Benigno Fitial,Covenant Party (northern Mariana Islands),28.0,True,False
+2005,Northern Mariana Islands,MP,governor,Heinz Hofschneider,Independent,27.3,False,False
+2005,Northern Mariana Islands,MP,governor,Juan Babauta,Republican,26.6,False,True
+2005,Northern Mariana Islands,MP,governor,Froilan Tenorio,Democratic,18.1,False,False
 2006,Alabama,AL,governor,Bob Riley,Republican,57.5,True,True
 2006,Alabama,AL,governor,Lucy Baxley,Democratic,41.6,False,False
 2006,Alaska,AK,governor,Sarah Palin,Republican,48.3,True,False
-2006,Alaska,AK,governor,Tony Knowles (politician)|Tony Knowles,Democratic,41.0,False,False
+2006,Alaska,AK,governor,Tony Knowles,Democratic,41.0,False,False
 2006,Alaska,AK,governor,Andrew Halcro,Independent,9.5,False,False
 2006,Arizona,AZ,governor,Janet Napolitano,Democratic,62.6,True,True
 2006,Arizona,AZ,governor,Len Munsil,Republican,35.4,False,False
@@ -219,17 +250,17 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2006,Connecticut,CT,governor,Jodi Rell,Republican,63.2,True,True
 2006,Connecticut,CT,governor,John DeStefano Jr.,Democratic,35.5,False,False
 2006,Florida,FL,governor,Charlie Crist,Republican,52.2,True,False
-2006,Florida,FL,governor,Jim Davis (Florida politician)|Jim Davis,Democratic,45.1,False,False
+2006,Florida,FL,governor,Jim Davis,Democratic,45.1,False,False
 2006,Florida,FL,governor,Max Linn,Reform,1.9,False,False
 2006,Georgia,GA,governor,Sonny Perdue,Republican,58.0,True,True
-2006,Georgia,GA,governor,Mark Taylor (American politician)|Mark Taylor,Democratic,38.2,False,False
+2006,Georgia,GA,governor,Mark Taylor,Democratic,38.2,False,False
 2006,Georgia,GA,governor,Gary Hayes,Libertarian,3.8,False,False
 2006,Hawaii,HI,governor,Linda Lingle,Republican,62.5,True,True
 2006,Hawaii,HI,governor,Randy Iwase,Democratic,35.4,False,False
 2006,Hawaii,HI,governor,James Brewer Jr.,Green,1.6,False,False
 2006,Idaho,ID,governor,Butch Otter,Republican,52.7,True,False
 2006,Idaho,ID,governor,Jerry Brady,Democratic,44.1,False,False
-2006,Idaho,ID,governor,Pro-Life (politician)|Marvin Richardson,Constitution,1.6,False,False
+2006,Idaho,ID,governor,Marvin Richardson,Constitution,1.6,False,False
 2006,Idaho,ID,governor,Ted Dunlap,Libertarian,1.6,False,False
 2006,Illinois,IL,governor,Rod Blagojevich,Democratic,49.8,True,True
 2006,Illinois,IL,governor,Judy Baar Topinka,Republican,39.3,False,False
@@ -237,7 +268,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2006,Iowa,IA,governor,Chet Culver,Democratic,54.0,True,False
 2006,Iowa,IA,governor,Jim Nussle,Republican,44.4,False,False
 2006,Kansas,KS,governor,Kathleen Sebelius,Democratic,57.9,True,True
-2006,Kansas,KS,governor,Jim Barnett (Kansas politician)|Jim Barnett,Republican,40.4,False,False
+2006,Kansas,KS,governor,Jim Barnett,Republican,40.4,False,False
 2006,Kansas,KS,governor,Carl Kramer,Libertarian,1.0,False,False
 2006,Maine,ME,governor,John Baldacci,Democratic,38.1,True,True
 2006,Maine,ME,governor,Chandler Woodcock,Republican,30.2,False,False
@@ -253,9 +284,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2006,Michigan,MI,governor,Dick DeVos,Republican,42.3,False,False
 2006,Minnesota,MN,governor,Tim Pawlenty,Republican,46.7,True,True
 2006,Minnesota,MN,governor,Mike Hatch,Minnesota Democratic–farmer–labor,45.7,False,False
-2006,Minnesota,MN,governor,Peter Hutchinson (politician)|Peter Hutchinson,Independence,6.4,False,False
+2006,Minnesota,MN,governor,Peter Hutchinson,Independence,6.4,False,False
 2006,Nebraska,NE,governor,Dave Heineman,Republican,73.4,True,True
-2006,Nebraska,NE,governor,David Hahn (Nebraska)|David Hahn,Democratic,24.5,False,False
+2006,Nebraska,NE,governor,David Hahn,Democratic,24.5,False,False
 2006,Nevada,NV,governor,Jim Gibbons,Republican,47.9,True,False
 2006,Nevada,NV,governor,Dina Titus,Democratic,43.9,False,False
 2006,Nevada,NV,governor,None of These Candidates,Write-in,3.6,False,False
@@ -283,20 +314,20 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2006,Rhode Island,RI,governor,Donald Carcieri,Republican,51.0,True,True
 2006,Rhode Island,RI,governor,Charles Fogarty,Democratic,49.0,False,False
 2006,South Carolina,SC,governor,Mark Sanford,Republican,55.1,True,True
-2006,South Carolina,SC,governor,Tommy Moore (politician)|Tommy Moore,Democratic,44.8,False,False
+2006,South Carolina,SC,governor,Tommy Moore,Democratic,44.8,False,False
 2006,South Dakota,SD,governor,Mike Rounds,Republican,61.7,True,True
 2006,South Dakota,SD,governor,Jack Billion,Democratic,36.1,False,False
 2006,South Dakota,SD,governor,Steven J. Willis,Constitution,1.2,False,False
 2006,Tennessee,TN,governor,Phil Bredesen,Democratic,68.6,True,True
-2006,Tennessee,TN,governor,Jim Bryson (politician)|Jim Bryson,Republican,29.7,False,False
+2006,Tennessee,TN,governor,Jim Bryson,Republican,29.7,False,False
 2006,Texas,TX,governor,Rick Perry,Republican,39.0,True,True
-2006,Texas,TX,governor,Chris Bell (politician)|Chris Bell,Democratic,29.8,False,False
-2006,Texas,TX,governor,Carole Keeton Strayhorn|Carole K. Strayhorn,Independent,18.1,False,False
-2006,Texas,TX,governor,Kinky Friedman|Richard Friedman,Independent,12.4,False,False
+2006,Texas,TX,governor,Chris Bell,Democratic,29.8,False,False
+2006,Texas,TX,governor,Carole K. Strayhorn,Independent,18.1,False,False
+2006,Texas,TX,governor,Richard Friedman,Independent,12.4,False,False
 2006,Vermont,VT,governor,Jim Douglas,Republican,56.3,True,True
 2006,Vermont,VT,governor,Scudder Parker,Democratic,41.1,False,False
 2006,Wisconsin,WI,governor,Jim Doyle,Democratic,52.8,True,True
-2006,Wisconsin,WI,governor,Mark Green (Wisconsin politician)|Mark Green,Republican,45.4,False,False
+2006,Wisconsin,WI,governor,Mark Green,Republican,45.4,False,False
 2006,Wisconsin,WI,governor,Nelson Eisman,Green,1.9,False,False
 2006,Wyoming,WY,governor,Dave Freudenthal,Democratic,70.0,True,True
 2006,Wyoming,WY,governor,Ray Hunkins,Republican,30.0,False,False
@@ -304,11 +335,19 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2006,District of Columbia,DC,governor,David Kranich,Republican,6.1,False,False
 2006,District of Columbia,DC,governor,Chris Otten,D.c. Statehood Green,4.1,False,False
 2006,Guam,GU,governor,Felix Perez Camacho,Republican,50.2,True,True
-2006,Guam,GU,governor,Robert A. Underwood|Robert Underwood,Democratic,48.0,False,False
+2006,Guam,GU,governor,Robert Underwood,Democratic,48.0,False,False
 2006,U.S. Virgin Islands,VI,governor,John de Jongh,Democratic,57.3,True,False
 2006,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,42.7,False,False
+2007,Kentucky,KY,governor,Steve Beshear,Democratic,58.7,True,False
+2007,Kentucky,KY,governor,Ernie Fletcher,Republican,41.3,False,True
+2007,Louisiana,LA,governor,Bobby Jindal,Republican,53.9,True,False
+2007,Louisiana,LA,governor,Walter Boasso,Democratic,17.4,False,False
+2007,Louisiana,LA,governor,John Georges,Independent,14.4,False,False
+2007,Louisiana,LA,governor,Foster Campbell,Democratic,12.4,False,False
+2007,Mississippi,MS,governor,Haley Barbour,Republican,57.9,True,True
+2007,Mississippi,MS,governor,John Arthur Eaves Jr.,Democratic,42.1,False,False
 2008,Delaware,DE,governor,Jack Markell,Democratic,67.5,True,False
-2008,Delaware,DE,governor,Bill Lee (Delaware politician)|Bill Lee,Republican,32.1,False,False
+2008,Delaware,DE,governor,Bill Lee,Republican,32.1,False,False
 2008,Indiana,IN,governor,Mitch Daniels,Republican,57.8,True,True
 2008,Indiana,IN,governor,Jill Long Thompson,Democratic,40.1,False,False
 2008,Indiana,IN,governor,Andy Horning,Libertarian,2.1,False,False
@@ -317,8 +356,8 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2008,Missouri,MO,governor,Andrew Finkenstadt,Libertarian,1.1,False,False
 2008,Missouri,MO,governor,Gregory Thompson,Constitution,1.0,False,False
 2008,Montana,MT,governor,Brian Schweitzer,Democratic,65.5,True,True
-2008,Montana,MT,governor,Roy Brown (Montana politician)|Roy Brown,Republican,32.5,False,False
-2008,Montana,MT,governor,Stan Jones (Libertarian politician)|Stan Jones,Libertarian,2.0,False,False
+2008,Montana,MT,governor,Roy Brown,Republican,32.5,False,False
+2008,Montana,MT,governor,Stan Jones,Libertarian,2.0,False,False
 2008,New Hampshire,NH,governor,John Lynch,Democratic,70.2,True,True
 2008,New Hampshire,NH,governor,Joseph Kenney,Republican,27.6,False,False
 2008,New Hampshire,NH,governor,Susan Newell,Libertarian,2.2,False,False
@@ -338,18 +377,25 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2008,Washington,WA,governor,Dino Rossi,Republican,46.8,False,False
 2008,West Virginia,WV,governor,Joe Manchin,Democratic,69.8,True,True
 2008,West Virginia,WV,governor,Russ Weeks,Republican,25.7,False,False
-2008,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,4.5,False,False
+2008,West Virginia,WV,governor,Jesse Johnson,Mountain,4.5,False,False
 2008,American Samoa,AS,governor,Togiola Tulafono,Democratic,56.4,True,True
 2008,American Samoa,AS,governor,Utu Abe Malae,Republican,43.6,False,False
 2008,Puerto Rico,PR,governor,Luis Fortuño,New Progressive Party (puerto Rico),52.8,True,False
 2008,Puerto Rico,PR,governor,Aníbal Acevedo Vilá,Popular Democratic Party (puerto Rico),41.3,False,True
 2008,Puerto Rico,PR,governor,Rogelio Figueroa,Rico,2.8,False,False
 2008,Puerto Rico,PR,governor,Edwin Irizarry Mora,Independence Party (puerto Rico),2.0,False,False
+2009,New Jersey,NJ,governor,Chris Christie,Republican,48.5,True,False
+2009,New Jersey,NJ,governor,Jon Corzine,Democratic,44.9,False,True
+2009,New Jersey,NJ,governor,Chris Daggett,Independent,5.8,False,False
+2009,Virginia,VA,governor,Bob McDonnell,Republican,58.6,True,False
+2009,Virginia,VA,governor,Creigh Deeds,Democratic,41.3,False,False
+2009,Northern Mariana Islands,MP,governor,Benigno Fitial,Covenant Party (northern Mariana Islands),51.4,True,True
+2009,Northern Mariana Islands,MP,governor,Heinz Hofschneider,Republican,48.6,False,False
 2010,Alabama,AL,governor,Robert J. Bentley,Republican,57.9,True,False
-2010,Alabama,AL,governor,Ron Sparks (politician)|Ron Sparks,Democratic,42.1,False,False
+2010,Alabama,AL,governor,Ron Sparks,Democratic,42.1,False,False
 2010,Alaska,AK,governor,Sean Parnell,Republican,59.1,True,True
 2010,Alaska,AK,governor,Ethan Berkowitz,Democratic,37.7,False,False
-2010,Alaska,AK,governor,Don Wright (politician)|Don Wright,Independence,1.9,False,False
+2010,Alaska,AK,governor,Don Wright,Independence,1.9,False,False
 2010,Alaska,AK,governor,Billy Toien,Libertarian,1.1,False,False
 2010,Arizona,AZ,governor,Jan Brewer,Republican,54.3,True,True
 2010,Arizona,AZ,governor,Terry Goddard,Democratic,42.4,False,False
@@ -381,7 +427,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Idaho,ID,governor,Jana M. Kemp,Independent,5.9,False,False
 2010,Idaho,ID,governor,Ted Dunlap,Libertarian,1.3,False,False
 2010,Illinois,IL,governor,Pat Quinn,Democratic,46.8,True,True
-2010,Illinois,IL,governor,Bill Brady (politician)|Bill Brady,Republican,45.9,False,False
+2010,Illinois,IL,governor,Bill Brady,Republican,45.9,False,False
 2010,Illinois,IL,governor,Scott Lee Cohen,Independent,3.6,False,False
 2010,Illinois,IL,governor,Rich Whitney,Green,2.7,False,False
 2010,Iowa,IA,governor,Terry Branstad,Republican,52.8,True,False
@@ -389,7 +435,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Iowa,IA,governor,Jonathan Narcisse,Iowa,1.9,False,False
 2010,Iowa,IA,governor,Eric Cooper,Libertarian,1.3,False,False
 2010,Kansas,KS,governor,Sam Brownback,Republican,63.3,True,False
-2010,Kansas,KS,governor,Tom Holland (politician)|Tom Holland,Democratic,32.2,False,False
+2010,Kansas,KS,governor,Tom Holland,Democratic,32.2,False,False
 2010,Kansas,KS,governor,Andrew P. Gray,Libertarian,2.7,False,False
 2010,Kansas,KS,governor,Kenneth W. Cannon,Reform,1.9,False,False
 2010,Maine,ME,governor,Paul LePage,Republican,37.6,True,False
@@ -401,7 +447,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Maryland,MD,governor,Bob Ehrlich,Republican,41.8,False,False
 2010,Massachusetts,MA,governor,Deval Patrick,Democratic,48.4,True,True
 2010,Massachusetts,MA,governor,Charlie Baker,Republican,42.0,False,False
-2010,Massachusetts,MA,governor,Tim Cahill (Massachusetts politician)|Tim Cahill,Independent,8.0,False,False
+2010,Massachusetts,MA,governor,Tim Cahill,Independent,8.0,False,False
 2010,Massachusetts,MA,governor,Jill Stein,Green,1.4,False,False
 2010,Michigan,MI,governor,Rick Snyder,Republican,58.1,True,False
 2010,Michigan,MI,governor,Virg Bernero,Democratic,39.9,False,False
@@ -411,9 +457,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Nebraska,NE,governor,Dave Heineman,Republican,73.9,True,True
 2010,Nebraska,NE,governor,Mike Meister,Democratic,26.1,False,False
 2010,Nevada,NV,governor,Brian Sandoval,Republican,53.4,True,False
-2010,Nevada,NV,governor,Rory Reid (politician)|Rory Reid,Democratic,41.6,False,False
+2010,Nevada,NV,governor,Rory Reid,Democratic,41.6,False,False
 2010,New Hampshire,NH,governor,John Lynch,Democratic,52.6,True,True
-2010,New Hampshire,NH,governor,John Stephen (New Hampshire politician)|John Stephen,Republican,45.0,False,False
+2010,New Hampshire,NH,governor,John Stephen,Republican,45.0,False,False
 2010,New Hampshire,NH,governor,John Babiarz,Libertarian,2.2,False,False
 2010,New Mexico,NM,governor,Susana Martinez,Republican,53.3,True,False
 2010,New Mexico,NM,governor,Diane Denish,Democratic,46.6,False,False
@@ -436,7 +482,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Rhode Island,RI,governor,Lincoln Chafee,Independent,36.1,True,False
 2010,Rhode Island,RI,governor,John Robitaille,Republican,33.6,False,False
 2010,Rhode Island,RI,governor,Frank T. Caprio,Democratic,23.1,False,False
-2010,Rhode Island,RI,governor,Ken Block (politician)|Ken Block,Moderate,6.5,False,False
+2010,Rhode Island,RI,governor,Ken Block,Moderate,6.5,False,False
 2010,South Carolina,SC,governor,Nikki Haley,Republican,51.4,True,False
 2010,South Carolina,SC,governor,Vincent Sheheen,Democratic,46.9,False,False
 2010,South Carolina,SC,governor,Morgan B. Reeves,Citizens,1.5,False,False
@@ -445,7 +491,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Tennessee,TN,governor,Bill Haslam,Republican,65.0,True,False
 2010,Tennessee,TN,governor,Mike McWherter,Democratic,33.1,False,False
 2010,Texas,TX,governor,Rick Perry,Republican,55.0,True,True
-2010,Texas,TX,governor,Bill White (Texas politician)|Bill White,Democratic,42.3,False,False
+2010,Texas,TX,governor,Bill White,Democratic,42.3,False,False
 2010,Texas,TX,governor,Kathie Glass,Libertarian,2.2,False,False
 2010,Utah {{small|,,governor,Gary Herbert,Republican,64.1,True,True
 2010,Utah {{small|,,governor,Peter Corroon,Democratic,31.9,False,False
@@ -454,7 +500,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Vermont,VT,governor,Peter Shumlin,Democratic,49.4,True,False
 2010,Vermont,VT,governor,Brian Dubie,Republican,47.7,False,False
 2010,Wisconsin,WI,governor,Scott Walker,Republican,52.3,True,False
-2010,Wisconsin,WI,governor,Tom Barrett (Wisconsin politician)|Tom Barrett,Democratic,46.5,False,False
+2010,Wisconsin,WI,governor,Tom Barrett,Democratic,46.5,False,False
 2010,Wyoming,WY,governor,Matt Mead,Republican,65.7,True,False
 2010,Wyoming,WY,governor,Leslie Petersen,Democratic,22.9,False,False
 2010,Wyoming,WY,governor,Taylor Haynes,Independent,7.3,False,False
@@ -467,6 +513,22 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2010,Guam,GU,governor,Carl Gutierrez,Democratic,49.4,False,False
 2010,U.S. Virgin Islands,VI,governor,John de Jongh,Democratic,56.3,True,True
 2010,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,43.6,False,False
+2011,Kentucky,KY,governor,Steve Beshear,Democratic,55.7,True,True
+2011,Kentucky,KY,governor,David L. Williams,Republican,35.3,False,False
+2011,Kentucky,KY,governor,Gatewood Galbraith,Independent,9.0,False,False
+2011,Louisiana,LA,governor,Bobby Jindal,Republican,65.8,True,True
+2011,Louisiana,LA,governor,Tara Hollis,Democratic,17.9,False,False
+2011,Louisiana,LA,governor,Cary Deaton,Democratic,4.9,False,False
+2011,Louisiana,LA,governor,Trey Roberts,Democratic,3.3,False,False
+2011,Louisiana,LA,governor,David Blanchard,Independent,2.6,False,False
+2011,Louisiana,LA,governor,Niki Papazoglakis,Democratic,2.1,False,False
+2011,Louisiana,LA,governor,Scott Lewis,Libertarian,1.2,False,False
+2011,Mississippi,MS,governor,Phil Bryant,Republican,61.0,True,False
+2011,Mississippi,MS,governor,Johnny DuPree,Democratic,39.0,False,False
+2011,West Virginia {{small|,,governor,Earl Ray Tomblin,Democratic,49.6,True,True
+2011,West Virginia {{small|,,governor,Bill Maloney,Republican,47.0,False,False
+2011,West Virginia {{small|,,governor,Bob Henry Baber,Mountain,2.0,False,False
+2011,West Virginia {{small|,,governor,Marla Ingels,Independent,1.0,False,False
 2012,Delaware,DE,governor,Jack Markell,Democratic,69.3,True,True
 2012,Delaware,DE,governor,Jeff Cragg,Republican,28.6,False,False
 2012,Delaware,DE,governor,Mark Perri,Green,1.2,False,False
@@ -489,7 +551,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2012,North Dakota,ND,governor,Ryan Taylor,North Dakota Democratic–nonpartisan League,34.3,False,False
 2012,North Dakota,ND,governor,Paul Sorum,Independent,1.7,False,False
 2012,Utah,UT,governor,Gary Herbert,Republican,68.4,True,True
-2012,Utah,UT,governor,Peter Cooke (politician)|Peter Cooke,Democratic,27.6,False,False
+2012,Utah,UT,governor,Peter Cooke,Democratic,27.6,False,False
 2012,Utah,UT,governor,Ken Larsen,Libertarian,2.3,False,False
 2012,Utah,UT,governor,Kirk Pearson,Constitution,1.8,False,False
 2012,Vermont,VT,governor,Peter Shumlin,Democratic,57.8,True,True
@@ -500,16 +562,21 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2012,Washington,WA,governor,Rob McKenna,Republican,48.5,False,False
 2012,West Virginia,WV,governor,Earl Ray Tomblin,Democratic,50.5,True,True
 2012,West Virginia,WV,governor,Bill Maloney,Republican,45.7,False,False
-2012,West Virginia,WV,governor,Jesse Johnson (West Virginia politician)|Jesse Johnson,Mountain,2.5,False,False
+2012,West Virginia,WV,governor,Jesse Johnson,Mountain,2.5,False,False
 2012,West Virginia,WV,governor,David Moran,Libertarian,1.3,False,False
 2012,Wisconsin {{small|,,governor,Scott Walker,Republican,53.1,True,True
-2012,Wisconsin {{small|,,governor,Tom Barrett (Wisconsin politician)|Tom Barrett,Democratic,46.3,False,False
+2012,Wisconsin {{small|,,governor,Tom Barrett,Democratic,46.3,False,False
 2012,American Samoa,AS,governor,Lolo Matalasi Moliga,Independent,52.9,True,False
 2012,American Samoa,AS,governor,Faoa Aitofele Sunia,Democratic,47.1,False,False
 2012,Puerto Rico,PR,governor,Alejandro García Padilla,Popular Democratic Party (puerto Rico),47.7,True,False
 2012,Puerto Rico,PR,governor,Luis Fortuño,New Progressive Party (puerto Rico),47.1,False,True
 2012,Puerto Rico,PR,governor,Juan Dalmau Ramírez,Independence Party (puerto Rico),2.5,False,False
 2012,Puerto Rico,PR,governor,Rafael Bernabe,Working People's,1.0,False,False
+2013,New Jersey,NJ,governor,Chris Christie,Republican,60.3,True,True
+2013,New Jersey,NJ,governor,Barbara Buono,Democratic,38.2,False,False
+2013,Virginia,VA,governor,Terry McAuliffe,Democratic,47.8,True,False
+2013,Virginia,VA,governor,Ken Cuccinelli,Republican,45.2,False,False
+2013,Virginia,VA,governor,Robert Sarvis,Libertarian,6.5,False,False
 2014,Alabama,AL,governor,Robert J. Bentley,Republican,63.6,True,True
 2014,Alabama,AL,governor,Parker Griffith,Democratic,36.2,False,False
 2014,Alaska,AK,governor,Bill Walker,Independent,48.1,True,False
@@ -521,7 +588,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Arizona,AZ,governor,Barry Hess,Libertarian,3.8,False,False
 2014,Arizona,AZ,governor,John Lewis Mealer,Americans Elect,1.0,False,False
 2014,Arkansas,AR,governor,Asa Hutchinson,Republican,55.4,True,False
-2014,Arkansas,AR,governor,Mike Ross (politician)|Mike Ross,Democratic,41.5,False,False
+2014,Arkansas,AR,governor,Mike Ross,Democratic,41.5,False,False
 2014,Arkansas,AR,governor,Frank Gilbert,Libertarian,1.9,False,False
 2014,Arkansas,AR,governor,Josh Drake,Green,1.2,False,False
 2014,California,CA,governor,Jerry Brown,Democratic,60.0,True,True
@@ -538,7 +605,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Florida,FL,governor,Charlie Crist,Democratic,47.1,False,False
 2014,Florida,FL,governor,Adrian Wyllie,Libertarian,3.8,False,False
 2014,Georgia,GA,governor,Nathan Deal,Republican,52.7,True,True
-2014,Georgia,GA,governor,Jason Carter (politician)|Jason Carter,Democratic,44.9,False,False
+2014,Georgia,GA,governor,Jason Carter,Democratic,44.9,False,False
 2014,Georgia,GA,governor,Andrew Hunt,Libertarian,2.4,False,False
 2014,Hawaii,HI,governor,David Ige,Democratic,49.5,True,False
 2014,Hawaii,HI,governor,Duke Aiona,Republican,37.1,False,False
@@ -550,19 +617,19 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Idaho,ID,governor,Jill Humble,Independent,2.0,False,False
 2014,Idaho,ID,governor,Steven Pankey,Constitution,1.2,False,False
 2014,Illinois,IL,governor,Bruce Rauner,Republican,50.3,True,False
-2014,Illinois,IL,governor,Pat Quinn (politician)|Pat Quinn,Democratic,46.4,False,True
+2014,Illinois,IL,governor,Pat Quinn,Democratic,46.4,False,True
 2014,Illinois,IL,governor,Chad Grimm,Libertarian,3.4,False,False
 2014,Iowa,IA,governor,Terry Branstad,Republican,59.0,True,True
 2014,Iowa,IA,governor,Jack Hatch,Democratic,37.3,False,False
 2014,Iowa,IA,governor,Lee Hieb,Libertarian,1.8,False,False
 2014,Kansas,KS,governor,Sam Brownback,Republican,49.8,True,True
-2014,Kansas,KS,governor,Paul Davis (Kansas politician)|Paul Davis,Democratic,46.1,False,False
+2014,Kansas,KS,governor,Paul Davis,Democratic,46.1,False,False
 2014,Kansas,KS,governor,Keen Umbehr,Libertarian,4.1,False,False
 2014,Maine,ME,governor,Paul LePage,Republican,48.2,True,True
 2014,Maine,ME,governor,Mike Michaud,Democratic,43.4,False,False
 2014,Maine,ME,governor,Eliot Cutler,Independent,8.4,False,False
 2014,Maryland,MD,governor,Larry Hogan,Republican,51.0,True,False
-2014,Maryland,MD,governor,Anthony Brown (Maryland politician)|Anthony Brown,Democratic,47.3,False,False
+2014,Maryland,MD,governor,Anthony Brown,Democratic,47.3,False,False
 2014,Maryland,MD,governor,Shawn Quinn,Libertarian,1.5,False,False
 2014,Massachusetts,MA,governor,Charlie Baker,Republican,48.4,True,False
 2014,Massachusetts,MA,governor,Martha Coakley,Democratic,46.5,False,False
@@ -571,7 +638,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Michigan,MI,governor,Mark Schauer,Democratic,46.9,False,False
 2014,Michigan,MI,governor,Mary Buzuma,Libertarian,1.1,False,False
 2014,Minnesota,MN,governor,Mark Dayton,Minnesota Democratic–farmer–labor,50.1,True,True
-2014,Minnesota,MN,governor,Jeff Johnson (Minnesota politician)|Jeff Johnson,Republican,44.5,False,False
+2014,Minnesota,MN,governor,Jeff Johnson,Republican,44.5,False,False
 2014,Minnesota,MN,governor,Hannah Nicollet,Independence Party (minnesota),2.9,False,False
 2014,Minnesota,MN,governor,Chris Wright,Grassroots–legalize Cannabis,1.6,False,False
 2014,Nebraska,NE,governor,Pete Ricketts,Republican,57.2,True,False
@@ -583,7 +650,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,New Hampshire,NH,governor,Maggie Hassan,Democratic,52.4,True,True
 2014,New Hampshire,NH,governor,Walt Havenstein,Republican,47.4,False,False
 2014,New Mexico,NM,governor,Susana Martinez,Republican,57.2,True,True
-2014,New Mexico,NM,governor,Gary King (politician)|Gary King,Democratic,42.8,False,False
+2014,New Mexico,NM,governor,Gary King,Democratic,42.8,False,False
 2014,New York,NY,governor,Andrew Cuomo,Democratic,54.3,True,True
 2014,New York,NY,governor,Rob Astorino,Republican,40.3,False,False
 2014,New York,NY,governor,Howie Hawkins,Green,4.8,False,False
@@ -595,7 +662,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Oklahoma,OK,governor,Kimberly Willis,Independent,2.1,False,False
 2014,Oklahoma,OK,governor,Richard Prawdzienski,Independent,1.1,False,False
 2014,Oregon,OR,governor,John Kitzhaber,Democratic,49.9,True,True
-2014,Oregon,OR,governor,Dennis Richardson (politician)|Dennis Richardson,Republican,44.1,False,False
+2014,Oregon,OR,governor,Dennis Richardson,Republican,44.1,False,False
 2014,Oregon,OR,governor,Jason Levin,Green,2.0,False,False
 2014,Oregon,OR,governor,Paul Grad,Libertarian,1.5,False,False
 2014,Oregon,OR,governor,Aaron Auer,Constitution,1.1,False,False
@@ -618,7 +685,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Tennessee,TN,governor,Shaun Crowell,Constitution,2.0,False,False
 2014,Tennessee,TN,governor,Isa Infante,Green,1.4,False,False
 2014,Texas,TX,governor,Greg Abbott,Republican,59.3,True,False
-2014,Texas,TX,governor,Wendy Davis (politician)|Wendy Davis,Democratic,38.9,False,False
+2014,Texas,TX,governor,Wendy Davis,Democratic,38.9,False,False
 2014,Texas,TX,governor,Kathie Glass,Libertarian,1.4,False,False
 2014,Vermont,VT,governor,Peter Shumlin,Democratic,46.4,True,True
 2014,Vermont,VT,governor,Scott Milne,Republican,45.1,False,False
@@ -639,6 +706,14 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2014,Northern Mariana Islands,MP,governor,Heinz Hofschneider,Independent,43.0,False,False
 2014,U.S. Virgin Islands,VI,governor,Kenneth Mapp,Independent,63.9,True,False
 2014,U.S. Virgin Islands,VI,governor,Donna Christian-Christensen,Democratic,35.9,False,False
+2015,Kentucky,KY,governor,Matt Bevin,Republican,52.5,True,False
+2015,Kentucky,KY,governor,Jack Conway,Democratic,43.8,False,False
+2015,Kentucky,KY,governor,Drew Curtis,Independent,3.7,False,False
+2015,Louisiana,LA,governor,John Bel Edwards,Democratic,56.1,True,False
+2015,Louisiana,LA,governor,David Vitter,Republican,43.9,False,False
+2015,Mississippi,MS,governor,Phil Bryant,Republican,66.4,True,True
+2015,Mississippi,MS,governor,Robert Gray,Democratic,32.4,False,False
+2015,Mississippi,MS,governor,Shawn O'Hara,Reform,1.4,False,False
 2016,Delaware,DE,governor,John Carney,Democratic,58.3,True,False
 2016,Delaware,DE,governor,Colin Bonini,Republican,39.2,False,False
 2016,Delaware,DE,governor,Andrew Groff,Green,1.4,False,False
@@ -674,7 +749,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2016,Vermont,VT,governor,Sue Minter,Democratic,44.2,False,False
 2016,Vermont,VT,governor,Bill Lee,Independent,2.8,False,False
 2016,Washington,WA,governor,Jay Inslee,Democratic,54.2,True,True
-2016,Washington,WA,governor,Bill Bryant (politician)|Bill Bryant,Republican,45.5,False,False
+2016,Washington,WA,governor,Bill Bryant,Republican,45.5,False,False
 2016,West Virginia,WV,governor,Jim Justice,Democratic,49.1,True,False
 2016,West Virginia,WV,governor,Bill Cole,Republican,42.3,False,False
 2016,West Virginia,WV,governor,Charlotte Pritt,Mountain,5.9,False,False
@@ -688,6 +763,11 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2016,Puerto Rico,PR,governor,Alexandra Lúgaro,Independent,11.1,False,False
 2016,Puerto Rico,PR,governor,Manuel Cidre,Independent,5.7,False,False
 2016,Puerto Rico,PR,governor,María de Lourdes Santiago,Independence Party (puerto Rico),2.1,False,False
+2017,New Jersey,NJ,governor,Phil Murphy,Democratic,56.0,True,False
+2017,New Jersey,NJ,governor,Kim Guadagno,Republican,41.9,False,False
+2017,Virginia,VA,governor,Ralph Northam,Democratic,53.9,True,False
+2017,Virginia,VA,governor,Ed Gillespie,Republican,45.0,False,False
+2017,Virginia,VA,governor,Cliff Hyra,Libertarian,1.1,False,False
 2018,Alabama,AL,governor,Kay Ivey,Republican,59.5,True,True
 2018,Alabama,AL,governor,Walt Maddox,Democratic,40.4,False,False
 2018,Alaska,AK,governor,Mike Dunleavy,Republican,51.4,True,False

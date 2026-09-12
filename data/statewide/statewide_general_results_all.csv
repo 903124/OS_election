@@ -1,4 +1,1218 @@
 year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Winning,Frank O'Bannon/Joe Kernan (incumbents),Democratic,1232525,56.56,True,False
+2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Candidate,David M. McIntosh/J. Murray Clark,Republican,908285,41.68,False,False
+2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Candidate,Andrew Horning/Mark Schreiber,Libertarian,38458,1.76,False,False
+2000,Indiana,IN,governor,"Indiana gubernatorial election, 2000",Total,,,2179268,100.0,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Winning,Bob Holden,Democratic,1152752,49.12,True,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Candidate,Jim Talent,Republican,1131307,48.21,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Candidate,Larry Rice,Independent,34431,1.47,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Candidate,John M. Swenson,Libertarian,11274,0.48,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Candidate,Lavoy Reed,Green,9008,0.38,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Candidate,Richard Allen Kline,Reform,4916,0.21,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Candidate,Richard L. Smith,Constitution,3142,0.13,False,False
+2000,Missouri,MO,governor,2000 Missouri gubernatorial election,Total,,,2346830,100.0,False,False
+2000,Montana,MT,governor,"Montana gubernatorial election, 2000",Winning,Judy Martz,Republican,209135,50.98,True,False
+2000,Montana,MT,governor,"Montana gubernatorial election, 2000",Candidate,Mark O'Keefe,Democratic,193131,47.08,False,False
+2000,Montana,MT,governor,"Montana gubernatorial election, 2000",Candidate,Stan Jones,Libertarian,7926,1.93,False,False
+2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Winning,Mike Easley,Democratic,1530324,52.02,True,False
+2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Candidate,Richard Vinroot,Republican,1360960,46.26,False,False
+2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Candidate,Barbara Howe,Libertarian,42674,1.45,False,False
+2000,North Carolina,NC,governor,2000 North Carolina gubernatorial election,Candidate,Douglas Schell,Reform,8104,0.28,False,False
+2000,Utah,UT,governor,2000 Utah gubernatorial election,Winning,Mike Leavitt,Republican,424837,55.77,True,False
+2000,Utah,UT,governor,2000 Utah gubernatorial election,Candidate,Bill Orton,Democratic,321979,42.27,False,False
+2000,Utah,UT,governor,2000 Utah gubernatorial election,Candidate,Jeremy Friedbaum,Independent American,14990,1.97,False,False
+2000,Utah,UT,governor,2000 Utah gubernatorial election,Total,,,761806,100.0,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Winning,Howard Dean,Democratic,148059,50.45,True,True
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,Ruth Dwyer,Republican,111359,37.95,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,Anthony Pollina,Progressive,28116,9.58,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,"Phil Stannard, Sr.",Independent,2148,0.73,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,Joel W. Williams,Grassroots,1359,0.46,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,Marilyn Verna Christian,Independent,1054,0.36,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,Hardy Macia,Libertarian,785,0.27,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Candidate,Richard F. Gottlieb,Union,337,0.11,False,False
+2000,Vermont,VT,governor,2000 Vermont gubernatorial election,Write-in,,,256,0.09,False,False
+2000,Washington,WA,governor,2000 Washington gubernatorial election,Winning,Gary Locke,Democratic,1441973,58.38,True,True
+2000,Washington,WA,governor,2000 Washington gubernatorial election,Candidate,John Carlson,Republican,980060,39.68,False,False
+2000,Washington,WA,governor,2000 Washington gubernatorial election,Candidate,Steve W. LePage,Libertarian,47819,1.94,False,False
+2000,Washington,WA,governor,2000 Washington gubernatorial election,Total,,,2469852,100.0,False,False
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Winning,Bob Wise,Democratic,324822,50.12,True,False
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Candidate,Cecil Underwood,Republican,305926,47.21,False,True
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Candidate,Denise Giardina,Mountain,10416,1.61,False,False
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Candidate,Bob Myers,Libertarian,5548,0.86,False,False
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Candidate,Randall Ashelman,Law,1301,0.2,False,False
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Write-in,,,34,0.01,False,False
+2000,West Virginia,WV,governor,"West Virginia gubernatorial election, 2000",Total,,,648047,100.0,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Winning,Jim McGreevey,Democratic,1256853,56.43,True,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Bret Schundler,Republican,928174,41.68,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Bill Schluter,Independent,24084,1.08,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Jerry L. Coleman,Green,6238,0.28,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Mark Edgerton,Libertarian,4684,0.21,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,"George Watson, Jr.",Independent,2568,0.12,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Michael W. Koontz,Conservative,1949,0.09,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Costantino Rozzo,Socialist Party Usa,1537,0.07,False,False
+2001,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2001",Candidate,Kari Sachs,Workers,1078,0.05,False,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Winning,Mark Warner,Democratic,984177,52.16,True,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Candidate,Mark Earley,Republican,887234,47.03,False,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Candidate,William Redpath,Libertarian,14497,0.77,False,False
+2001,Virginia,VA,governor,"Virginia gubernatorial election, 2001",Write-in,,,813,0.04,False,False
+2002,Alabama,AL,governor,2002 Alabama gubernatorial election,Winning,Bob Riley,Republican,672225,49.17,True,False
+2002,Alabama,AL,governor,2002 Alabama gubernatorial election,Candidate,Don Siegelman,Democratic,669105,48.95,False,True
+2002,Alabama,AL,governor,2002 Alabama gubernatorial election,Candidate,John Sophocleus,Libertarian,23272,1.7,False,False
+2002,Alabama,AL,governor,2002 Alabama gubernatorial election,Write-in,,,2451,0.18,False,False
+2002,Alabama,AL,governor,2002 Alabama gubernatorial election,Total,,,1367053,100.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Winning,Janet Napolitano,Democratic,566284,46.19,True,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Matt Salmon,Republican,554465,45.22,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Richard D. Mahoney,Independent,84947,6.93,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Barry Hess,Libertarian,20356,1.66,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Carlton Rahmani (write-in),Independent,29,0.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Tracey Sturgess (write-in),Independent,15,0.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Naida Axford (write-in),Independent,5,0.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,Raymond Caplette (write-in),Independent,5,0.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,D'Herrera Tapia (write-in),Independent,4,0.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Candidate,L. D. Talbow (write-in),Independent,1,0.0,False,False
+2002,Arizona,AZ,governor,"Arizona gubernatorial election, 2002",Total,,,1226111,100.0,False,False
+2002,Arkansas,AR,governor,"Arkansas gubernatorial election, 2002",Winning,Mike Huckabee,Republican,427082,53.02,True,True
+2002,Arkansas,AR,governor,"Arkansas gubernatorial election, 2002",Candidate,Jimmie Lou Fisher,Democratic,378250,46.96,False,False
+2002,Arkansas,AR,governor,"Arkansas gubernatorial election, 2002",Write-in,,,210,0.03,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Winning,Gray Davis,Democratic,3533490,47.26,True,True
+2002,California,CA,governor,2002 California gubernatorial election,Candidate,Bill Simon,Republican,3169801,42.4,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Candidate,Peter Miguel Camejo,Green,393036,5.26,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Candidate,Gary David Copeland,Libertarian,161203,2.16,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Candidate,Reinhold Gulke,Independent,128035,1.71,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Candidate,Iris Adam,Law,88415,1.18,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Write-in,Write-ins,,2331,0.03,False,False
+2002,California,CA,governor,2002 California gubernatorial election,Total,,,7476311,100.0,False,False
+2002,Colorado,CO,governor,2002 Colorado gubernatorial election,Winning,Bill Owens (inc.),Republican,884583,62.62,True,False
+2002,Colorado,CO,governor,2002 Colorado gubernatorial election,Candidate,Rollie Heath,Democratic,475373,33.65,False,False
+2002,Colorado,CO,governor,2002 Colorado gubernatorial election,Candidate,Ronald Forthofer,Green,32099,2.27,False,False
+2002,Colorado,CO,governor,2002 Colorado gubernatorial election,Candidate,Ralph Shnelvar,Libertarian,20547,1.45,False,False
+2002,Connecticut,CT,governor,2002 Connecticut gubernatorial election,Winning,John G. Rowland,Republican,573958,56.11,True,True
+2002,Connecticut,CT,governor,2002 Connecticut gubernatorial election,Candidate,Bill Curry,Democratic,448984,43.89,False,False
+2002,Connecticut,CT,governor,2002 Connecticut gubernatorial election,Write-in,,,56,0.0,False,False
+2002,Connecticut,CT,governor,2002 Connecticut gubernatorial election,Total,,,1022998,100.0,False,False
+2002,Florida,FL,governor,"2002 gubernatorial election, Florida",Winning,Jeb Bush,Republican,2856845,56.0,True,True
+2002,Florida,FL,governor,"2002 gubernatorial election, Florida",Candidate,Bill McBride,Democratic,2201427,43.2,False,False
+2002,Florida,FL,governor,"2002 gubernatorial election, Florida",Candidate,Bob Kunst,No Party Affiliation,42039,0.8,False,False
+2002,Florida,FL,governor,"2002 gubernatorial election, Florida",Write-in,[[Write-in Candidate|Write-ins]],Write-ins,270,0.01,False,False
+2002,Georgia,GA,governor,2002 Georgia gubernatorial election,Winning,Sonny Perdue,Republican,1041677,51.42,True,False
+2002,Georgia,GA,governor,2002 Georgia gubernatorial election,Candidate,Roy Barnes,Democratic,937062,46.25,False,True
+2002,Georgia,GA,governor,2002 Georgia gubernatorial election,Candidate,Garrett Michael Hayes,Libertarian,47122,2.33,False,False
+2002,Georgia,GA,governor,2002 Georgia gubernatorial election,Total,,,2025861,100.0,False,False
+2002,Hawaii,HI,governor,"Hawaii gubernatorial election, 2002",Winning,Linda Lingle,Republican,197009,51.56,True,False
+2002,Hawaii,HI,governor,"Hawaii gubernatorial election, 2002",Candidate,Mazie Hirono,Democratic,179647,47.01,False,False
+2002,Hawaii,HI,governor,"Hawaii gubernatorial election, 2002",Candidate,Bu Laʻia Hill,Law,2561,0.67,False,False
+2002,Hawaii,HI,governor,"Hawaii gubernatorial election, 2002",Candidate,Tracy Ryan,Libertarian,1364,0.36,False,False
+2002,Hawaii,HI,governor,"Hawaii gubernatorial election, 2002",Candidate,Jim Brewer,Independent,1147,0.3,False,False
+2002,Hawaii,HI,governor,"Hawaii gubernatorial election, 2002",Candidate,Daniel Cunningham,Independent,382,0.1,False,False
+2002,Idaho,ID,governor,"Idaho gubernatorial election, 2002",Winning,Dirk Kempthorne (inc.),Republican,231566,56.28,True,False
+2002,Idaho,ID,governor,"Idaho gubernatorial election, 2002",Candidate,Jerry Brady,Democratic,171711,41.73,False,False
+2002,Idaho,ID,governor,"Idaho gubernatorial election, 2002",Candidate,Daniel L. J. Adams,Libertarian,8187,1.99,False,False
+2002,Idaho,ID,governor,"Idaho gubernatorial election, 2002",Write-in,Write-ins,Write-ins,13,0.0,False,False
+2002,Illinois,IL,governor,2002 Illinois gubernatorial election,Winning,Rod Blagojevich,Democratic,1847040,52.19,True,False
+2002,Illinois,IL,governor,2002 Illinois gubernatorial election,Candidate,Jim Ryan,Republican,1594961,45.07,False,False
+2002,Illinois,IL,governor,2002 Illinois gubernatorial election,Candidate,Cal Skinner,Libertarian,73794,2.09,False,False
+2002,Illinois,IL,governor,2002 Illinois gubernatorial election,Candidate,Marisellis Brown,Independent,23089,0.65,False,False
+2002,Illinois,IL,governor,2002 Illinois gubernatorial election,Candidate,Peter Dale Kauss,Write-in,8,0.0,False,False
+2002,Illinois,IL,governor,2002 Illinois gubernatorial election,Total,,,3538891,100.0,False,False
+2002,Iowa,IA,governor,"Iowa gubernatorial election, 2002",Winning,Tom Vilsack,Democratic,540449,52.69,True,True
+2002,Iowa,IA,governor,"Iowa gubernatorial election, 2002",Candidate,Doug Gross,Republican,456612,44.51,False,False
+2002,Iowa,IA,governor,"Iowa gubernatorial election, 2002",Candidate,Jay Robinson,Green,14628,1.43,False,False
+2002,Iowa,IA,governor,"Iowa gubernatorial election, 2002",Candidate,Clyde Cleveland,Libertarian,13098,1.28,False,False
+2002,Iowa,IA,governor,"Iowa gubernatorial election, 2002",Write-in,Write-ins,Write-ins,1025,0.1,False,False
+2002,Kansas,KS,governor,"Kansas gubernatorial election, 2002",Winning,Kathleen Sebelius,Democratic,441858,52.87,True,False
+2002,Kansas,KS,governor,"Kansas gubernatorial election, 2002",Candidate,Tim Shallenburger,Republican,376830,45.09,False,False
+2002,Kansas,KS,governor,"Kansas gubernatorial election, 2002",Candidate,Theodore Pettibone,Reform,8907,1.07,False,False
+2002,Kansas,KS,governor,"Kansas gubernatorial election, 2002",Candidate,Dennis Hawver,Libertarian,8097,0.97,False,False
+2002,Maine,ME,governor,"Maine gubernatorial election, 2002",Winning,John Baldacci,Democratic,238179,47.15,True,False
+2002,Maine,ME,governor,"Maine gubernatorial election, 2002",Candidate,Peter Cianchette,Republican,209496,41.47,False,False
+2002,Maine,ME,governor,"Maine gubernatorial election, 2002",Candidate,Jonathan Carter,Green,46903,9.28,False,False
+2002,Maine,ME,governor,"Maine gubernatorial election, 2002",Candidate,John Michael,Independent,10612,2.1,False,False
+2002,Maryland,MD,governor,"Maryland gubernatorial election, 2002",Winning,Bob Ehrlich,Republican,879592,51.55,True,False
+2002,Maryland,MD,governor,"Maryland gubernatorial election, 2002",Candidate,Kathleen Kennedy Townsend,Democratic,813422,47.68,False,False
+2002,Maryland,MD,governor,"Maryland gubernatorial election, 2002",Candidate,Spear Lancaster,Libertarian,11546,0.68,False,False
+2002,Maryland,MD,governor,"Maryland gubernatorial election, 2002",Write-in,Write-ins,Write-ins,1619,0.09,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Winning,Mitt Romney,Republican,1091988,49.77,True,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Candidate,Shannon O'Brien,Democratic,985981,44.94,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Candidate,Jill Stein,Green-rainbow,76530,3.49,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Candidate,Carla Howell,Libertarian,23044,1.05,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Candidate,Barbara Johnson,Independent,15335,0.69,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Candidate,Blank ballots,None,26122,1.17,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Write-in,,,1301,0.06,False,False
+2002,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2002",Total,,,2194179,100.0,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Winning,Jennifer Granholm,Democratic,1633796,51.42,True,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Candidate,Dick Posthumus,Republican,1506104,47.4,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,25236,0.79,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Candidate,Joseph Pilchak,U.s. Taxpayers,12411,0.39,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Candidate,Don Mackle (write-in),,7,0.0,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Candidate,Mark Anthony McFarlin (write-in),,6,0.0,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Candidate,Angelo Scott Brown (write-in),,5,0.0,False,False
+2002,Michigan,MI,governor,2002 Michigan gubernatorial election,Total,,,3177565,100.0,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Winning,Tim Pawlenty,Republican,999473,44.37,True,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Roger Moe,Minnesota Democratic–farmer–labor,821268,36.46,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Tim Penny,Independence,364534,16.18,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Ken Pentel,Green,50589,2.25,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Booker Hodges IV,Independent,9698,0.43,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Kari Sachs,Workers,3026,0.14,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Lawrence Aeshliman,Constitution,2537,0.11,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Lealand Vettleson,,2,0.0,False,False
+2002,Minnesota,MN,governor,"2002 gubernatorial election, Minnesota",Candidate,Write-ins,,1348,0.06,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Winning,Kenny Guinn (inc.),Republican,344001,68.24,True,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Candidate,Joe Neal,Democratic,110935,22.01,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Candidate,None of These Candidates,,23674,4.7,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Candidate,Dick Geyer,Libertarian,8104,1.61,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Candidate,David G. Holmgren,American,7047,1.4,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Candidate,Jerry L. Norton,Independent,5543,1.1,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Candidate,Charles Laws,Green,4775,0.95,False,False
+2002,Nevada,NV,governor,"Nevada gubernatorial election, 2002",Total,,,504079,100.0,False,False
+2002,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2002",Winning,Craig Benson,Republican,259663,58.62,True,False
+2002,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2002",Candidate,Mark Fernald,Democratic,169277,38.21,False,False
+2002,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2002",Candidate,John Babiarz,Libertarian,13028,2.94,False,False
+2002,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2002",Write-in,Write-ins,Write-ins,1008,0.23,False,False
+2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Winning,Bill Richardson,Democratic,268693,55.49,True,False
+2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,John A. Sanchez,Republican,189074,39.05,False,False
+2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Candidate,David E. Bacon,Green,26465,5.47,False,False
+2002,New Mexico,NM,governor,2002 New Mexico gubernatorial election,Total,,,484233,100.0,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Winning,George Pataki,Total,2262255,49.4,True,True
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,George Pataki,Republican,2085407,45.54,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Carl McCall,Democratic,1442531,31.5,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Tom Golisano,Independence,654016,14.28,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Gerard Cronin,Life,44195,0.97,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Stanley Aronowitz,Green,41797,0.91,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Thomas K. Leighton,Marijuana Reform,21977,0.48,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Andrew M. Cuomo (withdrawn),Liberal,15761,0.34,False,False
+2002,New York,NY,governor,"New York gubernatorial election, 2002",Candidate,Scott Jeffrey,Libertarian,5013,0.11,False,False
+2002,Ohio,OH,governor,"Ohio gubernatorial election, 2002",Winning,Bob Taft,Republican,1865007,57.76,True,True
+2002,Ohio,OH,governor,"Ohio gubernatorial election, 2002",Candidate,Tim Hagan,Democratic,1236924,38.31,False,False
+2002,Ohio,OH,governor,"Ohio gubernatorial election, 2002",Candidate,John Eastman,Independent,126686,3.92,False,False
+2002,Ohio,OH,governor,"Ohio gubernatorial election, 2002",Write-in,Write-ins,Write-ins,375,0.01,False,False
+2002,Oklahoma,OK,governor,2002 Oklahoma gubernatorial election,Winning,Brad Henry,Democratic,448143,43.27,True,False
+2002,Oklahoma,OK,governor,2002 Oklahoma gubernatorial election,Candidate,Steve Largent,Republican,441277,42.61,False,False
+2002,Oklahoma,OK,governor,2002 Oklahoma gubernatorial election,Candidate,Gary Richardson,Independent,146200,14.12,False,False
+2002,Oklahoma,OK,governor,2002 Oklahoma gubernatorial election,Total,,,1035620,100.0,False,False
+2002,Oregon,OR,governor,2002 Oregon gubernatorial election,Winning,Ted Kulongoski,Democratic,618004,49.03,True,False
+2002,Oregon,OR,governor,2002 Oregon gubernatorial election,Candidate,Kevin Mannix,Republican,581785,46.16,False,False
+2002,Oregon,OR,governor,2002 Oregon gubernatorial election,Candidate,Tom Cox,Libertarian,57760,4.58,False,False
+2002,Oregon,OR,governor,2002 Oregon gubernatorial election,Candidate,Scattering,Write-in,2948,0.23,False,False
+2002,Oregon,OR,governor,2002 Oregon gubernatorial election,Total,,,1260497,100.0,False,False
+2002,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2002",Winning,Ed Rendell,Democratic,1913235,53.4,True,False
+2002,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2002",Candidate,Mike Fisher,Republican,1589408,44.4,False,False
+2002,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2002",Candidate,Ken V. Krawchuk,Libertarian,40923,1.14,False,False
+2002,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2002",Candidate,Mike Morrill,Green,38423,1.07,False,False
+2002,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2002",Total,,,40923,100.0,False,False
+2002,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2002",Winning,Donald Carcieri,Republican,181827,54.76,True,False
+2002,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2002",Candidate,Myrth York,Democratic,150229,45.24,False,False
+2002,South Carolina,SC,governor,"South Carolina gubernatorial election, 2002",Winning,Mark Sanford,Republican,585422,52.85,True,False
+2002,South Carolina,SC,governor,"South Carolina gubernatorial election, 2002",Candidate,Jim Hodges,Democratic,521140,47.05,False,True
+2002,South Carolina,SC,governor,"South Carolina gubernatorial election, 2002",Write-in,,,1163,0.1,False,False
+2002,South Dakota,SD,governor,"South Dakota gubernatorial election, 2002",Winning,Mike Rounds,Republican,189920,56.77,True,False
+2002,South Dakota,SD,governor,"South Dakota gubernatorial election, 2002",Candidate,Jim Abbott,Democratic,140263,41.92,False,False
+2002,South Dakota,SD,governor,"South Dakota gubernatorial election, 2002",Candidate,James P. Carlson,Independent,2393,0.72,False,False
+2002,South Dakota,SD,governor,"South Dakota gubernatorial election, 2002",Candidate,Nathan A. Barton,Libertarian,1983,0.59,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Winning,Phil Bredesen,Democratic,837284,50.65,True,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Van Hilleary,Republican,786803,47.59,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Edwin C. Sanders,Independent,7749,0.47,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Carl Two Feathers Whitaker,Independent,5308,0.32,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,John Jay Hooker,Independent,4577,0.28,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,David Gatchell,Independent,2991,0.18,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Gabriel Givens,Independent,1591,0.1,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Ray Ledford,Independent,1589,0.1,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,James E. Herren,Independent,1210,0.07,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,"Charles V. Wilhoit, Jr.",Independent,898,0.05,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Marivuana Stout Leinoff,Independent,645,0.04,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Francis E. Waldron,Independent,635,0.04,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Ronny Simmons,Independent,630,0.04,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Robert O. Watson,Independent,579,0.04,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Candidate,Basil Marceaux,Independent,302,0.02,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Write-in,Write-ins,Write-ins,376,0.02,False,False
+2002,Tennessee,TN,governor,2002 Tennessee gubernatorial election,Total,,,1653167,100.0,False,False
+2002,Texas,TX,governor,General election results,Winning,Rick Perry,Republican,2632591,57.81,True,True
+2002,Texas,TX,governor,General election results,Candidate,Tony Sanchez,Democratic,1819798,39.96,False,False
+2002,Texas,TX,governor,General election results,Candidate,Jeff Daiell,Libertarian,66720,1.47,False,False
+2002,Texas,TX,governor,General election results,Candidate,Rahul Mahajan,Green,32187,0.71,False,False
+2002,Texas,TX,governor,General election results,Candidate,Elaine Eure Henderson (write-in),Independent,1715,0.04,False,False
+2002,Texas,TX,governor,General election results,Candidate,Earl W. O'Neil (write-in),Independent,976,0.02,False,False
+2002,Texas,TX,governor,General election results,Total,,,4553987,100.0,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Winning,Jim Douglas,Republican,103436,44.94,True,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Doug Racine,Democratic,97565,42.39,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Cornelius Hogan,Independent,22353,9.71,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Cris Ericson,Marijuana,1737,0.75,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Michael Badamo,Progressive,1380,0.6,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Joel Williams,Libertarian,938,0.41,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Patricia Hejny,Grassroots,771,0.33,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Marilynn Christian,Restore Justice-freedom,638,0.28,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Peter Diamondstone,Union,625,0.27,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Brian Pearl,Independent,569,0.25,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Candidate,Write-ins,Write-in,149,0.06,False,False
+2002,Vermont,VT,governor,2002 Vermont gubernatorial election,Total,,,230161,100.0,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Winning,Jim Doyle,Democratic,800515,45.09,True,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Scott McCallum,Republican,734779,41.39,False,True
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Ed Thompson,Libertarian,185455,10.45,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Jim Young,Green,44111,2.48,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Alan D. Eisenberg,Reform,2847,0.16,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Ty A. Bollerud,Independent,2637,0.15,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Mike Managan,Independent,1710,0.1,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Aneb Jah Rasta,Independent,929,0.05,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Candidate,Scattering,,2366,0.13,False,False
+2002,Wisconsin,WI,governor,2002 Wisconsin gubernatorial election,Total,,,1775349,100.0,False,False
+2002,Wyoming,WY,governor,"Wyoming gubernatorial election, 2002",Winning,Dave Freudenthal,Democratic,92662,49.96,True,False
+2002,Wyoming,WY,governor,"Wyoming gubernatorial election, 2002",Candidate,Eli Bebout,Republican,88873,47.92,False,False
+2002,Wyoming,WY,governor,"Wyoming gubernatorial election, 2002",Candidate,Dave Dawson,Libertarian,3924,2.12,False,False
+2003,Kentucky,KY,governor,2003 Kentucky gubernatorial election,Winning,Ernie Fletcher,Republican,596284,55.04,True,False
+2003,Kentucky,KY,governor,2003 Kentucky gubernatorial election,Candidate,"A. B. ""Ben"" Chandler",Democratic,487159,44.96,False,False
+2003,Kentucky,KY,governor,2003 Kentucky gubernatorial election,Total,,,1083443,100.0,False,False
+2003,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2003",Winning,Kathleen Blanco,Democratic,731358,51.95,True,False
+2003,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2003",Candidate,Bobby Jindal,Republican,676484,48.05,False,False
+2003,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2003",Total,,,1407842,100.0,False,False
+2004,Indiana,IN,governor,"Indiana gubernatorial election, 2004",Winning,Mitch Daniels/Becky Skillman,Republican,1302912,53.21,True,False
+2004,Indiana,IN,governor,"Indiana gubernatorial election, 2004",Candidate,Joe Kernan/Kathy Davis (incumbents),Democratic,1113900,45.49,False,False
+2004,Indiana,IN,governor,"Indiana gubernatorial election, 2004",Candidate,Kenn Gividen/Elaine Badnarik,Libertarian,31664,1.29,False,False
+2004,Indiana,IN,governor,"Indiana gubernatorial election, 2004",Write-in,Write-ins,Write-ins,22,0.0,False,False
+2004,Missouri,MO,governor,"Missouri gubernatorial election, 2004",Winning,Matt Blunt,Republican,1382419,50.83,True,False
+2004,Missouri,MO,governor,"Missouri gubernatorial election, 2004",Candidate,Claire McCaskill,Democratic,1301442,47.85,False,False
+2004,Missouri,MO,governor,"Missouri gubernatorial election, 2004",Candidate,John Swenson,Libertarian,24378,0.9,False,False
+2004,Missouri,MO,governor,"Missouri gubernatorial election, 2004",Candidate,Robert Wells,Constitution,11299,0.42,False,False
+2004,Montana,MT,governor,2004 Montana gubernatorial election,Winning,Brian Schweitzer,Democratic,225016,50.44,True,False
+2004,Montana,MT,governor,2004 Montana gubernatorial election,Candidate,Bob Brown,Republican,205313,46.02,False,False
+2004,Montana,MT,governor,2004 Montana gubernatorial election,Candidate,Bob Kelleher,Green,8393,1.88,False,False
+2004,Montana,MT,governor,2004 Montana gubernatorial election,Candidate,Stanley Jones,Libertarian,7424,1.66,False,False
+2004,Montana,MT,governor,2004 Montana gubernatorial election,Total,,,446146,100.0,False,False
+2004,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2004",Winning,John Lynch,Democratic,340299,51.02,True,False
+2004,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2004",Candidate,Craig Benson,Republican,325981,48.87,False,True
+2004,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2004",Write-in,,,740,0.11,False,False
+2004,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2004",Total,,,667020,100.0,False,False
+2004,North Carolina,NC,governor,2004 North Carolina gubernatorial election,Candidate,Mike Easley,Democratic,1939154,55.62,False,True
+2004,North Carolina,NC,governor,2004 North Carolina gubernatorial election,Candidate,Patrick J. Ballantine,Republican,1495021,42.88,False,False
+2004,North Carolina,NC,governor,2004 North Carolina gubernatorial election,Candidate,Barbara Howe,Libertarian,52513,1.51,False,False
+2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Winning,John Hoeven,Republican,220803,71.26,True,True
+2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Candidate,Joe Satrom,North Dakota Democratic-npl,84877,27.39,False,False
+2004,North Dakota,ND,governor,"North Dakota gubernatorial election, 2004",Candidate,Roland Riemers,Libertarian,4193,1.35,False,False
+2004,Utah,UT,governor,2004 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,531190,57.74,True,False
+2004,Utah,UT,governor,2004 Utah gubernatorial election,Candidate,Scott Matheson Jr.,Democratic,380359,41.35,False,False
+2004,Utah,UT,governor,2004 Utah gubernatorial election,Candidate,Ken Larsen,Choice,8399,0.91,False,False
+2004,Utah,UT,governor,2004 Utah gubernatorial election,Write-in,Write-ins,Write-ins,12,0.0,False,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Winning,Jim Douglas (inc.),Republican,181540,58.7,True,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Candidate,Peter Clavelle,Democratic,117327,37.93,False,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Candidate,Cris Ericson,Marijuana,4221,1.36,False,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Candidate,Patricia Hejny,Independent,2431,0.79,False,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Candidate,Hardy Machia,Libertarian,2263,0.73,False,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Candidate,Peter Diamondstone,Union,1298,0.42,False,False
+2004,Vermont,VT,governor,2004 Vermont gubernatorial election,Candidate,Write-ins,Write-ins,205,0.07,False,False
+2004,Washington,WA,governor,2004 Washington gubernatorial election,Winning,Christine Gregoire,Democratic,1373361,48.87,True,False
+2004,Washington,WA,governor,2004 Washington gubernatorial election,Candidate,Dino Rossi,Republican,1373232,48.87,False,False
+2004,Washington,WA,governor,2004 Washington gubernatorial election,Candidate,Ruth Bennett,Libertarian,63465,2.26,False,False
+2004,Washington,WA,governor,2004 Washington gubernatorial election,Total,,,2810058,100.0,False,False
+2004,West Virginia,WV,governor,"West Virginia gubernatorial election, 2004",Winning,Joe Manchin,Democratic,472758,63.51,True,False
+2004,West Virginia,WV,governor,"West Virginia gubernatorial election, 2004",Candidate,Monty Warner,Republican,253131,34.0,False,False
+2004,West Virginia,WV,governor,"West Virginia gubernatorial election, 2004",Candidate,Jesse Johnson,Mountain,18430,2.48,False,False
+2004,West Virginia,WV,governor,"West Virginia gubernatorial election, 2004",Write-in,,,114,0.02,False,False
+2004,West Virginia,WV,governor,"West Virginia gubernatorial election, 2004",Total,,,744433,,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Winning,Jon Corzine,Democratic,1224551,53.47,True,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Doug Forrester,Republican,985271,43.02,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Hector Castillo,Independent,29452,1.29,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Jeffrey Pawlowski,Libertarian,15417,0.67,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Matthew Thieke,Green,12315,0.54,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Edward Forchion,Legalize Marijuana,9137,0.4,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Michael Latigona,Independent,5169,0.23,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Wesley Bell,Independent,4178,0.18,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Angela Lariscy,Workers,2531,0.11,False,False
+2005,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 2005",Candidate,Constantino Rozzo,Socialist Party Usa,2078,0.09,False,False
+2005,Virginia,VA,governor,"Virginia gubernatorial election, 2005",Winning,Tim Kaine,Democratic,1025942,51.72,True,False
+2005,Virginia,VA,governor,"Virginia gubernatorial election, 2005",Candidate,Jerry Kilgore,Republican,912327,45.99,False,False
+2005,Virginia,VA,governor,"Virginia gubernatorial election, 2005",Candidate,Russ Potts,Independent,43953,2.22,False,False
+2005,Virginia,VA,governor,"Virginia gubernatorial election, 2005",Write-in,,,1556,0.08,False,False
+2006,Alabama,AL,governor,2006 Alabama gubernatorial election,Winning,Bob Riley,Republican,718327,57.45,True,True
+2006,Alabama,AL,governor,2006 Alabama gubernatorial election,Candidate,Lucy Baxley,Democratic,519827,41.57,False,False
+2006,Alabama,AL,governor,2006 Alabama gubernatorial election,Write-in,,,12247,0.98,False,False
+2006,Alabama,AL,governor,2006 Alabama gubernatorial election,Total,,,1250401,100.0,False,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Winning,Sarah Palin,Republican,114697,48.33,True,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Candidate,Tony Knowles,Democratic,97238,40.97,False,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Candidate,Andrew Halcro,Independent,22443,9.46,False,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Candidate,Don Wright,Independence,1285,0.54,False,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Candidate,Billy Toien,Libertarian,682,0.29,False,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Candidate,David Massie,Green,593,0.25,False,False
+2006,Alaska,AK,governor,2006 Alaska gubernatorial election,Write-in,,,384,0.16,False,False
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Winning,Janet Napolitano,Democratic,959830,62.58,True,True
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Candidate,Len Munsil,Republican,543528,35.44,False,False
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Candidate,Barry Hess,Libertarian,30268,1.97,False,False
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Candidate,Arthur Ray Arvizu (write-in),Independent,10,0.0,False,False
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Candidate,Brian Wright (write-in),Independent,6,0.0,False,False
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Candidate,Robert B. Winn (write-in),Independent,3,0.0,False,False
+2006,Arizona,AZ,governor,2006 Arizona gubernatorial election,Total,,,1533645,100.0,False,False
+2006,Arkansas,AR,governor,"Arkansas gubernatorial election, 2006",Winning,Mike Beebe,Democratic,430765,55.61,True,False
+2006,Arkansas,AR,governor,"Arkansas gubernatorial election, 2006",Candidate,Asa Hutchinson,Republican,315040,40.67,False,False
+2006,Arkansas,AR,governor,"Arkansas gubernatorial election, 2006",Candidate,Rod Bryan,Independent,15767,2.04,False,False
+2006,Arkansas,AR,governor,"Arkansas gubernatorial election, 2006",Candidate,Jim Lendall,Green,12774,1.65,False,False
+2006,Arkansas,AR,governor,"Arkansas gubernatorial election, 2006",Write-in,,,334,0.04,False,False
+2006,Arkansas,AR,governor,"Arkansas gubernatorial election, 2006",Total,,,774680,100.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Winning,Arnold Schwarzenegger,Republican,4850157,55.88,True,True
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Phil Angelides,Democratic,3376732,38.91,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Peter Miguel Camejo,Green,205995,2.37,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Art Olivier,Libertarian,114329,1.32,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Janice Jordan,Freedom,69934,0.81,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Edward C. Noonan,Independent,61901,0.71,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Robert Newman (write-in),Republican,219,0.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,James Harris (write-in),Independent,46,0.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Donald Etkes (write-in),Independent,43,0.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Elisha Shapiro (write-in),Independent,36,0.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Vibert Greene (write-in),Independent,18,0.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Candidate,Dealphria Tarver (write-in),Independent,6,0.0,False,False
+2006,California,CA,governor,"California gubernatorial election, 2006",Total,,,8679416,100.0,False,False
+2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Winning,Jodi Rell,Republican,710048,63.22,True,True
+2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Candidate,John DeStefano Jr.,Democratic,398220,35.45,False,False
+2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Candidate,Cliff Thornton,Green,9584,0.85,False,False
+2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Candidate,Joseph A. Zdonczyk,Citizens,5560,0.49,False,False
+2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Write-in,,,54,0.0,False,False
+2006,Connecticut,CT,governor,2006 Connecticut gubernatorial election,Total,,,1123212,100.0,False,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Winning,Charlie Crist/Jeff Kottkamp,Republican,2519845,52.2,True,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Candidate,Jim Davis/Daryl Jones,Democratic,2178289,45.1,False,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Candidate,Max Linn,Reform,92595,1.9,False,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Candidate,John Wayne Smith,Independent,15987,0.3,False,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Candidate,Richard Paul Dembinsky,Independent,11921,0.2,False,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Candidate,Karl C.C. Behm,Independent,10487,0.2,False,False
+2006,Florida,FL,governor,2006 Florida gubernatorial election,Write-in,Write-ins,Write-ins,147,0.0,False,False
+2006,Georgia,GA,governor,"Georgia gubernatorial election, 2006",Winning,Sonny Perdue,Republican,1229724,57.95,True,True
+2006,Georgia,GA,governor,"Georgia gubernatorial election, 2006",Candidate,Mark Taylor,Democratic,811049,38.22,False,False
+2006,Georgia,GA,governor,"Georgia gubernatorial election, 2006",Candidate,Garrett Michael Hayes,Libertarian,81412,3.83,False,False
+2006,Hawaii,HI,governor,"Hawaii gubernatorial election, 2006",Winning,Linda Lingle,Republican,215313,62.53,True,True
+2006,Hawaii,HI,governor,"Hawaii gubernatorial election, 2006",Candidate,Randy Iwase,Democratic,121717,35.35,False,False
+2006,Hawaii,HI,governor,"Hawaii gubernatorial election, 2006",Candidate,"James Brewer, Jr.",Green,5435,1.58,False,False
+2006,Hawaii,HI,governor,"Hawaii gubernatorial election, 2006",Candidate,Ozell Daniel,Libertarian,1850,0.54,False,False
+2006,Idaho,ID,governor,"Idaho gubernatorial election, 2006",Winning,Butch Otter,Republican,237437,52.67,True,False
+2006,Idaho,ID,governor,"Idaho gubernatorial election, 2006",Candidate,Jerry Brady,Democratic,198845,44.11,False,False
+2006,Idaho,ID,governor,"Idaho gubernatorial election, 2006",Candidate,Marvin Richardson,Constitution,7309,1.62,False,False
+2006,Idaho,ID,governor,"Idaho gubernatorial election, 2006",Candidate,Ted Dunlap,Libertarian,7241,1.61,False,False
+2006,Illinois,IL,governor,2006 Illinois gubernatorial election,Winning,Rod Blagojevich,Democratic,1736731,49.79,True,True
+2006,Illinois,IL,governor,2006 Illinois gubernatorial election,Candidate,Judy Baar Topinka,Republican,1369315,39.26,False,False
+2006,Illinois,IL,governor,2006 Illinois gubernatorial election,Candidate,Rich Whitney,Green,361336,10.36,False,False
+2006,Illinois,IL,governor,2006 Illinois gubernatorial election,Write-in,,,20607,0.59,False,False
+2006,Illinois,IL,governor,2006 Illinois gubernatorial election,Total,,,3487989,100.0,False,False
+2006,Iowa,IA,governor,"Iowa gubernatorial election, 2006",Winning,Chet Culver,Democratic,569021,54.02,True,False
+2006,Iowa,IA,governor,"Iowa gubernatorial election, 2006",Candidate,Jim Nussle,Republican,467425,44.38,False,False
+2006,Iowa,IA,governor,"Iowa gubernatorial election, 2006",Candidate,Wendy Barth,Green,7850,0.75,False,False
+2006,Iowa,IA,governor,"Iowa gubernatorial election, 2006",Candidate,Kevin Litten,Libertarian,5735,0.54,False,False
+2006,Iowa,IA,governor,"Iowa gubernatorial election, 2006",Candidate,Mary Martin,Workers,1974,0.19,False,False
+2006,Iowa,IA,governor,"Iowa gubernatorial election, 2006",Write-in,Write-ins,Write-ins,1250,0.12,False,False
+2006,Kansas,KS,governor,"Kansas gubernatorial election, 2006",Winning,Kathleen Sebelius,Democratic,491993,57.9,True,True
+2006,Kansas,KS,governor,"Kansas gubernatorial election, 2006",Candidate,Jim Barnett,Republican,343586,40.44,False,False
+2006,Kansas,KS,governor,"Kansas gubernatorial election, 2006",Candidate,Carl Kramer,Libertarian,8896,1.05,False,False
+2006,Kansas,KS,governor,"Kansas gubernatorial election, 2006",Candidate,Richard Lee Ranzau,Reform,5221,0.61,False,False
+2006,Kansas,KS,governor,"Kansas gubernatorial election, 2006",Write-in,,,4,0.0,False,False
+2006,Maine,ME,governor,"Maine gubernatorial election, 2006",Winning,John Baldacci,Democratic,209927,38.11,True,True
+2006,Maine,ME,governor,"Maine gubernatorial election, 2006",Candidate,Chandler Woodcock,Republican,166425,30.21,False,False
+2006,Maine,ME,governor,"Maine gubernatorial election, 2006",Candidate,Barbara Merrill,Independent,118715,21.55,False,False
+2006,Maine,ME,governor,"Maine gubernatorial election, 2006",Candidate,Pat LaMarche,Green,52690,9.56,False,False
+2006,Maine,ME,governor,"Maine gubernatorial election, 2006",Candidate,Phillip Morris Napier,Independent,3108,0.56,False,False
+2006,Maryland,MD,governor,"Maryland gubernatorial election, 2006",Winning,Martin O'Malley,Democratic,942279,52.69,True,False
+2006,Maryland,MD,governor,"Maryland gubernatorial election, 2006",Candidate,Bob Ehrlich,Republican,825464,46.16,False,True
+2006,Maryland,MD,governor,"Maryland gubernatorial election, 2006",Candidate,Ed Boyd,Green,15551,0.87,False,False
+2006,Maryland,MD,governor,"Maryland gubernatorial election, 2006",Candidate,Christopher Driscoll,Populist,3481,0.19,False,False
+2006,Maryland,MD,governor,"Maryland gubernatorial election, 2006",Write-in,,,1541,0.09,False,False
+2006,Maryland,MD,governor,"Maryland gubernatorial election, 2006",Total,,,1788316,100.0,False,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Winning,Deval Patrick,Democratic,1234984,55.03,True,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Candidate,Kerry Healey,Republican,784342,34.95,False,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Candidate,Christy Mihos,Independent,154628,6.89,False,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Candidate,Grace Ross,Green-rainbow,43193,1.92,False,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Candidate,All others,Write-in,2632,0.12,False,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Candidate,Blank,,24056,,False,False
+2006,Massachusetts,MA,governor,2006 Massachusetts gubernatorial election,Total,,,2219779,,False,False
+2006,Michigan,MI,governor,2006 Michigan gubernatorial election,Winning,Jennifer Granholm,Democratic,2142513,56.36,True,True
+2006,Michigan,MI,governor,2006 Michigan gubernatorial election,Candidate,Dick DeVos,Republican,1608086,42.3,False,False
+2006,Michigan,MI,governor,2006 Michigan gubernatorial election,Candidate,Greg Creswell,Libertarian,23524,0.62,False,False
+2006,Michigan,MI,governor,2006 Michigan gubernatorial election,Candidate,Douglas Campbell,Green,20009,0.53,False,False
+2006,Michigan,MI,governor,2006 Michigan gubernatorial election,Candidate,Bhagwan Dashairya,Constitution,7087,0.19,False,False
+2006,Michigan,MI,governor,2006 Michigan gubernatorial election,Write-in,,,37,0.0,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Winning,Tim Pawlenty,Republican,1028568,46.69,True,True
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Candidate,Mike Hatch,Minnesota Democratic-farmer-labor,1007460,45.73,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Candidate,Peter Hutchinson,Independence,141735,6.43,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Candidate,Ken Pentel,Green,10800,0.49,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Candidate,Walt E. Brown,Independent,9649,0.44,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Candidate,Leslie Davis,American Party (1969),3776,0.17,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Write-in,,,949,0.04,False,False
+2006,Minnesota,MN,governor,"Minnesota gubernatorial election, 2006",Total,,,2202937,100.0,False,False
+2006,Nebraska,NE,governor,"Nebraska gubernatorial election, 2006",Winning,Dave Heineman,Republican,435507,73.4,True,True
+2006,Nebraska,NE,governor,"Nebraska gubernatorial election, 2006",Candidate,David Hahn,Democratic,145115,24.46,False,False
+2006,Nebraska,NE,governor,"Nebraska gubernatorial election, 2006",Candidate,Barry Richards,Nebraska,8953,1.51,False,False
+2006,Nebraska,NE,governor,"Nebraska gubernatorial election, 2006",Candidate,Mort Sullivan,Independent,3782,0.64,False,False
+2006,Nevada,NV,governor,"Nevada gubernatorial election, 2006",Winning,Jim Gibbons,Republican,279003,47.93,True,False
+2006,Nevada,NV,governor,"Nevada gubernatorial election, 2006",Candidate,Dina Titus,Democratic,255684,43.92,False,False
+2006,Nevada,NV,governor,"Nevada gubernatorial election, 2006",Candidate,None of These Candidates,,20699,3.56,False,False
+2006,Nevada,NV,governor,"Nevada gubernatorial election, 2006",Candidate,Christopher H. Hansen,American,20019,3.44,False,False
+2006,Nevada,NV,governor,"Nevada gubernatorial election, 2006",Candidate,Craig Bergland,Green,6753,1.16,False,False
+2006,Nevada,NV,governor,"Nevada gubernatorial election, 2006",Total,,,582158,100.0,False,False
+2006,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2006",Winning,John Lynch,Democratic,298677,74.01,True,True
+2006,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2006",Candidate,Jim Coburn,Republican,104223,25.83,False,False
+2006,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2006",Candidate,Richard Kahn (write-in),Libertarian,323,0.08,False,False
+2006,New Hampshire,NH,governor,"New Hampshire gubernatorial election, 2006",Write-in,Write-ins,Write-ins,557,0.08,False,False
+2006,New Mexico,NM,governor,2006 New Mexico gubernatorial election,Winning,Bill Richardson,Democratic,384806,68.82,True,True
+2006,New Mexico,NM,governor,2006 New Mexico gubernatorial election,Candidate,John Dendahl,Republican,174364,31.18,False,False
+2006,New Mexico,NM,governor,2006 New Mexico gubernatorial election,Total,,,559170,100.0,False,False
+2006,Ohio,OH,governor,"Ohio gubernatorial election, 2006",Winning,Ted Strickland,Democratic,2435505,60.54,True,False
+2006,Ohio,OH,governor,"Ohio gubernatorial election, 2006",Candidate,Ken Blackwell,Republican,1474331,36.65,False,False
+2006,Ohio,OH,governor,"Ohio gubernatorial election, 2006",Candidate,Bill Peirce,Libertarian,71473,1.78,False,False
+2006,Ohio,OH,governor,"Ohio gubernatorial election, 2006",Candidate,Bob Fitrakis,Green,40967,1.02,False,False
+2006,Ohio,OH,governor,"Ohio gubernatorial election, 2006",Write-in,,,652,0.02,False,False
+2006,Oklahoma,OK,governor,2006 Oklahoma gubernatorial election,Winning,Brad Henry,Democratic,616135,66.5,True,True
+2006,Oklahoma,OK,governor,2006 Oklahoma gubernatorial election,Candidate,Ernest Istook,Republican,310327,33.5,False,False
+2006,Oklahoma,OK,governor,2006 Oklahoma gubernatorial election,Total,,,926462,100.0,False,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Winning,Ted Kulongoski (inc.),Democratic,699786,50.73,True,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Candidate,Ron Saxton,Republican,589748,42.75,False,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Candidate,Mary Starrett,Constitution,50229,3.64,False,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Candidate,Joe Keating,Green,20030,1.45,False,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Candidate,Richard Morley,Libertarian,16798,1.22,False,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Candidate,Scattering,Write-in,2884,0.21,False,False
+2006,Oregon,OR,governor,2006 Oregon gubernatorial election,Total,,,1379475,100.0,False,False
+2006,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2006",Winning,Ed Rendell,Democratic,2470517,60.33,True,True
+2006,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2006",Candidate,Lynn Swann,Republican,1622135,39.61,False,False
+2006,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2006",Write-in,,,2670,0.06,False,False
+2006,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2006",Total,,,4095322,100.0,False,False
+2006,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2006",Winning,Donald Carcieri,Republican,197306,51.01,True,True
+2006,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2006",Candidate,Charles J. Fogarty,Democratic,189503,48.99,False,False
+2006,South Dakota,SD,governor,"South Dakota gubernatorial election, 2006",Winning,Mike Rounds,Republican,206990,61.69,True,True
+2006,South Dakota,SD,governor,"South Dakota gubernatorial election, 2006",Candidate,Jack Billion,Democratic,121226,36.13,False,False
+2006,South Dakota,SD,governor,"South Dakota gubernatorial election, 2006",Candidate,Steven J. Willis,Constitution,4010,1.2,False,False
+2006,South Dakota,SD,governor,"South Dakota gubernatorial election, 2006",Candidate,Tom Gerber,Libertarian,3282,0.98,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Winning,Phil Bredesen,Democratic,1247491,68.6,True,True
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,Jim Bryson,Republican,540853,29.74,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,Carl Two Feathers Whitaker,Independent,11374,0.63,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,George Banks,Independent,7531,0.41,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,Charles E. Smith,Independent,4083,0.22,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,Howard W. Switzer,Independent,2711,0.15,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,David Gatchell,Independent,2385,0.13,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Candidate,Marivuana Stout Leinoff,Independent,2114,0.12,False,False
+2006,Tennessee,TN,governor,2006 Tennessee gubernatorial election,Write-in,,,7,0.0,False,False
+2006,Texas,TX,governor,2006 Texas gubernatorial election,Winning,Rick Perry,Republican,1716803,39.03,True,True
+2006,Texas,TX,governor,2006 Texas gubernatorial election,Candidate,Chris Bell,Democratic,1310353,29.79,False,False
+2006,Texas,TX,governor,2006 Texas gubernatorial election,Candidate,Carole Keeton Strayhorn,Independent,797577,18.13,False,False
+2006,Texas,TX,governor,2006 Texas gubernatorial election,Candidate,"Richard ""Kinky"" Friedman",Independent,546869,12.43,False,False
+2006,Texas,TX,governor,2006 Texas gubernatorial election,Candidate,James Werner,Libertarian,26748,0.61,False,False
+2006,Texas,TX,governor,2006 Texas gubernatorial election,Candidate,"James ""Patriot"" Dillon (write-in)",Write-ins,718,0.02,False,False
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Winning,Jim Douglas,Republican,148014,56.36,True,True
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Candidate,Scudder Parker,Democratic,108090,41.16,False,False
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Candidate,Cris Ericson,Independent,2477,0.94,False,False
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Candidate,Jim Hogue,Green,1936,0.74,False,False
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Candidate,Benjamin Clarke,Independent,1216,0.46,False,False
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Candidate,Robert Skold,Union,638,0.24,False,False
+2006,Vermont,VT,governor,2006 Vermont gubernatorial election,Write-in,Write-ins,Write-ins,153,0.06,False,False
+2006,Wisconsin,WI,governor,2006 Wisconsin gubernatorial election,Winning,Jim Doyle,Democratic,1139115,52.7,True,True
+2006,Wisconsin,WI,governor,2006 Wisconsin gubernatorial election,Candidate,Mark Green,Republican,979427,45.31,False,False
+2006,Wisconsin,WI,governor,2006 Wisconsin gubernatorial election,Candidate,Nelson Eisman,Green,40709,1.88,False,False
+2006,Wisconsin,WI,governor,2006 Wisconsin gubernatorial election,Candidate,Scattering,,2449,0.11,False,False
+2006,Wisconsin,WI,governor,2006 Wisconsin gubernatorial election,Total,,,2161700,100.0,False,False
+2006,Wyoming,WY,governor,"Wyoming gubernatorial election, 2006",Winning,Dave Freudenthal,Democratic,135516,69.99,True,True
+2006,Wyoming,WY,governor,"Wyoming gubernatorial election, 2006",Candidate,Ray Hunkins,Republican,58100,30.01,False,False
+2006,Wyoming,WY,governor,"Wyoming gubernatorial election, 2006",Total,,,193616,100.0,False,False
+2007,Kentucky,KY,governor,2007 Kentucky gubernatorial election,Winning,Steven L. Beshear,Democratic,619552,58.71,True,False
+2007,Kentucky,KY,governor,2007 Kentucky gubernatorial election,Candidate,Ernie Fletcher,Republican,435773,41.29,False,True
+2007,Kentucky,KY,governor,2007 Kentucky gubernatorial election,Total,,,1055325,100.0,False,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Winning,Jack Markell,Democratic,266861,67.52,True,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Candidate,Bill Lee,Republican,126662,32.05,False,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Candidate,Jeffrey Brown,Enigma,1681,0.43,False,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Total,,,395204,100.0,False,False
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Winning,Mitch Daniels/Becky Skillman,Republican,1563885,57.84,True,True
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Candidate,Jill Long Thompson/Dennie Oxley,Democratic,1082463,40.04,False,False
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Candidate,Andy Horning,Libertarian,57376,2.12,False,False
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Candidate,Write-Ins,No,27,0.0,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Winning,Jay Nixon,Democratic,1680611,58.4,True,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Candidate,Kenny Hulshof,Republican,1136364,39.49,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Candidate,Andrew Finkenstadt,Libertarian,31850,1.11,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Candidate,Gregory Thompson,Constitution,28941,1.01,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Write-in,,,12,0.0,False,False
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Winning,Brian Schweitzer,Democratic,318670,65.47,True,True
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Candidate,Roy Brown,Republican,158268,32.52,False,False
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Candidate,Stan Jones,Libertarian,9796,2.01,False,False
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Total,,,486734,100.0,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Winning,John Lynch,Democratic,479042,70.15,True,True
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Candidate,Joseph Kenney,Republican,188555,27.61,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Candidate,Susan Newell,Libertarian,14987,2.19,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Write-in,,,326,0.05,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Total,,,682910,100.0,False,False
+2008,North Carolina,NC,governor,"North Carolina gubernatorial election, 2008",Winning,Bev Perdue,Democratic,2146189,50.27,True,False
+2008,North Carolina,NC,governor,"North Carolina gubernatorial election, 2008",Candidate,Pat McCrory,Republican,2001168,46.88,False,False
+2008,North Carolina,NC,governor,"North Carolina gubernatorial election, 2008",Candidate,Michael C. Munger,Libertarian,121584,2.85,False,False
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Winning,John Hoeven,Republican,235009,74.44,True,True
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,Tim Mathern,North Dakota Democratic-npl,74279,23.53,False,False
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,DuWayne Hendrickson,Independent,6404,2.03,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,735049,77.63,True,True
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Bob Springmeyer,Democratic,186503,19.72,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Dell Schanze,Libertarian,24820,2.62,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Bob Doughton,Write-in,153,0.02,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Total,,,945525,100.0,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Winning,Jim Douglas,Republican,170492,53.43,True,True
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Anthony Pollina,Independent,69791,21.87,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Gaye Symington,Democratic,69534,21.79,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Tony O'Connor,Independent,3106,0.97,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Sam Young,Independent,2490,0.78,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Pete Diamondstone,Union,1710,0.54,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Cris Ericson,Independent,1704,0.53,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,write-ins,,258,0.08,False,False
+2008,Washington,WA,governor,2008 Washington gubernatorial election,Winning,Christine Gregoire,Democratic,1598738,53.24,True,True
+2008,Washington,WA,governor,2008 Washington gubernatorial election,Candidate,Dino Rossi,Republican,1404124,46.76,False,False
+2008,Washington,WA,governor,2008 Washington gubernatorial election,Total,,,3002862,100.0,False,False
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Winning,Joe Manchin,Democratic,492697,69.81,True,True
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Candidate,Russ Weeks,Republican,181612,25.73,False,False
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Candidate,Jesse Johnson,Mountain,31486,4.46,False,False
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Total,,,705795,100.0,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Winning,Chris Christie,Republican,1174445,48.46,True,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Jon Corzine,Democratic,1087731,44.88,False,True
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Chris Daggett,Independent,139579,5.76,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Kenneth R. Kaplan,Libertarian,4830,0.2,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Gary T. Steele,Independent,3585,0.15,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Jason Cullen,Independent,2869,0.12,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,David R. Meiswinkle,Independent,2598,0.11,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Kostas Petris,Independent,2563,0.11,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Gregory Pason,Socialist Party Usa,2085,0.09,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Gary Stein,Independent,1625,0.07,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,Joshua Leinsdorf,Independent,1021,0.04,False,False
+2009,New Jersey,NJ,governor,"New Jersey gubernatorial election, 2009",Candidate,"Alvin Lindsay, Jr.",Independent,753,0.03,False,False
+2009,Virginia,VA,governor,"Virginia gubernatorial election, 2009",Winning,Bob McDonnell,Republican,1163651,58.61,True,False
+2009,Virginia,VA,governor,"Virginia gubernatorial election, 2009",Candidate,Creigh Deeds,Democratic,818950,41.25,False,False
+2009,Virginia,VA,governor,"Virginia gubernatorial election, 2009",Write-in,,,2502,0.12,False,False
+2010,Alabama,AL,governor,2010 Alabama gubernatorial election,Winning,Robert J. Bentley,Republican,860472.0,57.58,True,False
+2010,Alabama,AL,governor,2010 Alabama gubernatorial election,Candidate,Ron Sparks,Democratic,625710.0,41.87,False,False
+2010,Alabama,AL,governor,2010 Alabama gubernatorial election,Write-in,,,8091.0,0.54,False,False
+2010,Alabama,AL,governor,2010 Alabama gubernatorial election,Total,,,1494273.0,100.0,False,False
+2010,Alaska,AK,governor,2010 Alaska gubernatorial election,Winning,Sean Parnell,Republican,151318.0,59.06,True,True
+2010,Alaska,AK,governor,2010 Alaska gubernatorial election,Candidate,Ethan Berkowitz,Democratic,96519.0,37.67,False,False
+2010,Alaska,AK,governor,2010 Alaska gubernatorial election,Candidate,Don Wright,Independence,4775.0,1.86,False,False
+2010,Alaska,AK,governor,2010 Alaska gubernatorial election,Candidate,Billy Toien,Libertarian,2682.0,1.05,False,False
+2010,Alaska,AK,governor,2010 Alaska gubernatorial election,Write-in,Write-in Votes,Write-in Votes,898.0,0.35,False,False
+2010,Arizona,AZ,governor,"Arizona gubernatorial election, 2010",Winning,Janice Kay Brewer (inc.),Republican,938934.0,54.33,True,False
+2010,Arizona,AZ,governor,"Arizona gubernatorial election, 2010",Candidate,Samuel Pearson Goddard III,Democratic,733935.0,42.43,False,False
+2010,Arizona,AZ,governor,"Arizona gubernatorial election, 2010",Candidate,Barry Hess,Libertarian,38722.0,2.24,False,False
+2010,Arizona,AZ,governor,"Arizona gubernatorial election, 2010",Candidate,Larry Gist,Green,16128.0,0.93,False,False
+2010,Arizona,AZ,governor,"Arizona gubernatorial election, 2010",Write-in,Write-ins,Write-ins,362.0,0.02,False,False
+2010,Arkansas,AR,governor,"Arkansas gubernatorial election, 2010",Winning,Mike Beebe,Democratic,503336.0,64.42,True,True
+2010,Arkansas,AR,governor,"Arkansas gubernatorial election, 2010",Candidate,Jim Keet,Republican,262784.0,33.63,False,False
+2010,Arkansas,AR,governor,"Arkansas gubernatorial election, 2010",Candidate,Jim Lendall,Green,14513.0,1.86,False,False
+2010,Arkansas,AR,governor,"Arkansas gubernatorial election, 2010",Write-in,,,700.0,0.09,False,False
+2010,Arkansas,AR,governor,"Arkansas gubernatorial election, 2010",Total,,,781333.0,100.0,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Winning,Jerry Brown,Democratic,5428149.0,53.77,True,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Candidate,Meg Whitman,Republican,4127391.0,40.88,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Candidate,Chelene Nightingale,Independent,166312.0,1.65,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Candidate,Dale Ogden,Libertarian,150895.0,1.49,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Candidate,Laura Wells,Green,129224.0,1.28,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Candidate,Carlos Alvarez,Freedom,92851.0,0.92,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Write-in,,,363.0,0.0,False,False
+2010,California,CA,governor,"California gubernatorial election, 2010",Total,,,10095185.0,100.0,False,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Winning,John Hickenlooper,Democratic,915436.0,51.05,True,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Candidate,Tom Tancredo,Constitution,652376.0,36.38,False,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Candidate,Dan Maes,Republican,199792.0,11.14,False,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Candidate,Jaimes Brown,Libertarian,13365.0,0.75,False,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Candidate,Jason R. Clark,Independent,8601.0,0.48,False,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Candidate,Paul Noel Fiorino,Independent,3492.0,0.19,False,False
+2010,Colorado,CO,governor,2010 Colorado gubernatorial election,Write-in,Write-ins,Write-ins,86.0,0.0,False,False
+2010,Connecticut,CT,governor,2010 Connecticut gubernatorial election,Winning,Dannel Malloy,Total,567278.0,49.51,True,False
+2010,Connecticut,CT,governor,2010 Connecticut gubernatorial election,Candidate,Dannel Malloy,Democratic,540970.0,47.21,False,False
+2010,Connecticut,CT,governor,2010 Connecticut gubernatorial election,Candidate,Thomas C. Foley,Republican,560874.0,48.95,False,False
+2010,Connecticut,CT,governor,2010 Connecticut gubernatorial election,Candidate,Thomas E. Marsh,Independent,17629.0,1.54,False,False
+2010,Connecticut,CT,governor,2010 Connecticut gubernatorial election,Write-in,,,18.0,0.0,False,False
+2010,Connecticut,CT,governor,2010 Connecticut gubernatorial election,Total,,,1145799.0,100.0,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Winning,Rick Scott,Republican,2619335.0,48.87,True,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Candidate,Alex Sink,Democratic,2557785.0,47.72,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Candidate,Peter Allen,Independence,123831.0,2.31,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Candidate,C. C. Reed,Independent,18842.0,0.35,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Candidate,Michael E. Arth,Independent,18644.0,0.35,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Candidate,Daniel Imperato,Independent,13690.0,0.26,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Candidate,Farid Khavari,Independent,7487.0,0.14,False,False
+2010,Florida,FL,governor,2010 Florida gubernatorial election,Write-in,Write-ins,Write-ins,121.0,0.0,False,False
+2010,Georgia,GA,governor,2010 Georgia gubernatorial election,Winning,Nathan Deal,Republican,1365832.0,53.02,True,False
+2010,Georgia,GA,governor,2010 Georgia gubernatorial election,Candidate,Roy Barnes,Democratic,1107011.0,42.97,False,False
+2010,Georgia,GA,governor,2010 Georgia gubernatorial election,Candidate,John Monds,Libertarian,103194.0,4.01,False,False
+2010,Georgia,GA,governor,2010 Georgia gubernatorial election,Write-in,,,124.0,0.0,False,False
+2010,Georgia,GA,governor,2010 Georgia gubernatorial election,Total,,,2576161.0,100.0,False,False
+2010,Guamanian,GU,governor,2010 Guam gubernatorial election,Winning,Edward J.B. Calvo/Raymond S. Tenorio,Republican,20066.0,50.61,True,False
+2010,Guamanian,GU,governor,2010 Guam gubernatorial election,Candidate,Carl T.C. Gutierrez/Frank B. Aguon Jr.,Democratic,19579.0,49.39,False,False
+2010,Guamanian,GU,governor,2010 Guam gubernatorial election,Total,,,,,False,False
+2010,Hawaii,HI,governor,2010 Hawaii gubernatorial election,Winning,Neil Abercrombie,Democratic,222724.0,58.22,True,False
+2010,Hawaii,HI,governor,2010 Hawaii gubernatorial election,Candidate,Duke Aiona,Republican,157311.0,41.12,False,False
+2010,Hawaii,HI,governor,2010 Hawaii gubernatorial election,Candidate,Daniel Cunningham,Energy,1265.0,0.33,False,False
+2010,Hawaii,HI,governor,2010 Hawaii gubernatorial election,Candidate,Tom Pollard,Independent,1263.0,0.33,False,False
+2010,Idaho,ID,governor,2010 Idaho gubernatorial election,Candidate,Butch Otter,Republican,267483.0,59.11,False,True
+2010,Idaho,ID,governor,2010 Idaho gubernatorial election,Candidate,Keith G. Allred,Democratic,148680.0,32.85,False,False
+2010,Idaho,ID,governor,2010 Idaho gubernatorial election,Candidate,Jana M. Kemp,Independent,26655.0,5.89,False,False
+2010,Idaho,ID,governor,2010 Idaho gubernatorial election,Candidate,Ted Dunlap,Libertarian,5867.0,1.3,False,False
+2010,Idaho,ID,governor,2010 Idaho gubernatorial election,Candidate,Pro-Life,Independent,3850.0,0.85,False,False
+2010,Illinois,IL,governor,2010 Illinois gubernatorial election,Winning,Pat Quinn (incumbent)/Sheila Simon,Democratic,1745219.0,46.79,True,False
+2010,Illinois,IL,governor,2010 Illinois gubernatorial election,Candidate,Bill Brady/Jason Plummer,Republican,1713385.0,45.94,False,False
+2010,Illinois,IL,governor,2010 Illinois gubernatorial election,Candidate,Scott Lee Cohen,Independent,135705.0,3.64,False,False
+2010,Illinois,IL,governor,2010 Illinois gubernatorial election,Candidate,Rich Whitney/Donald Crawford,Green,100756.0,2.7,False,False
+2010,Illinois,IL,governor,2010 Illinois gubernatorial election,Candidate,Lex Green,Libertarian,34681.0,0.93,False,False
+2010,Illinois,IL,governor,2010 Illinois gubernatorial election,Total,,,3729746.0,100.0,False,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Winning,Terry Branstad,Republican,592494.0,52.81,True,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Candidate,Chet Culver,Democratic,484798.0,43.21,False,True
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Candidate,Jonathan Narcisse,Iowa,20859.0,1.86,False,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Candidate,Eric Cooper,Libertarian,14398.0,1.28,False,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Candidate,Gregory Hughes,Independent,3884.0,0.35,False,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Candidate,David Rosenfeld,Workers,2757.0,0.25,False,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Write-in,,,2823.0,0.25,False,False
+2010,Iowa,IA,governor,2010 Iowa gubernatorial election,Total,,,1122013.0,100.0,False,False
+2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Winning,Sam Brownback,Republican,530760.0,63.28,True,False
+2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Tom Holland,Democratic,270166.0,32.21,False,False
+2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Andrew P. Gray,Libertarian,22460.0,2.68,False,False
+2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Candidate,Kenneth W. Cannon,Reform,15397.0,1.84,False,False
+2010,Kansas,KS,governor,2010 Kansas gubernatorial election,Write-in,Write-ins,Write-ins,7.0,0.0,False,False
+2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Winning,Paul LePage,Republican,218065.0,37.56,True,False
+2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Eliot Cutler,Independent,208270.0,35.88,False,False
+2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Libby Mitchell,Democratic,109387.0,18.84,False,False
+2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Shawn Moody,Independent,28756.0,4.95,False,False
+2010,Maine,ME,governor,"2010 Gubernatorial Election, Maine",Candidate,Kevin Scott,Independent,5664.0,0.98,False,False
+2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Winning,Martin O'Malley,Democratic,1044961.0,56.24,True,True
+2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Bob Ehrlich,Republican,776319.0,41.79,False,False
+2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Susan Gaztanaga,Libertarian,14137.0,0.76,False,False
+2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Maria Allwine,Green,11825.0,0.64,False,False
+2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Candidate,Eric Knowles,Constitution,8612.0,0.46,False,False
+2010,Maryland,MD,governor,2010 Maryland gubernatorial election,Write-in,Write-ins,Write-ins,2026.0,0.11,False,False
+2010,Michigan,MI,governor,2010 Michigan gubernatorial election,Winning,Rick Snyder,Republican,1874834.0,58.11,True,False
+2010,Michigan,MI,governor,2010 Michigan gubernatorial election,Candidate,Virg Bernero,Democratic,1287320.0,39.9,False,False
+2010,Michigan,MI,governor,2010 Michigan gubernatorial election,Candidate,Ken Proctor,Libertarian,22390.0,0.69,False,False
+2010,Michigan,MI,governor,2010 Michigan gubernatorial election,Candidate,Stacey Mathia,Taxpayers,20818.0,0.65,False,False
+2010,Michigan,MI,governor,2010 Michigan gubernatorial election,Candidate,Harley Mikkelson,Green,20699.0,0.64,False,False
+2010,Michigan,MI,governor,2010 Michigan gubernatorial election,Write-in,Write-ins,Write-ins,27.0,0.0,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Winning,Mark Dayton,Minnesota Democratic–farmer–labor,919232.0,43.63,True,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Tom Emmer,Republican,910462.0,43.21,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Tom Horner,Independence,251487.0,11.94,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Chris Wright,Grassroots,7516.0,0.36,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Farheen Hakeem,Green,6188.0,0.29,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Ken Pentel,Democracy,6180.0,0.29,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Linda Eno,Resource,4092.0,0.19,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Write-in,Write-ins,Write-ins,1864.0,0.09,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Total,,,2106979.0,100.0,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Winning,Mark Dayton/Yvonne Prettner Solon,Minnesota Democratic–farmer–labor,919232.0,43.63,True,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Tom Emmer/Annette Meeks,Republican,910462.0,43.21,False,False
+2010,Minnesota,MN,governor,"2010 gubernatorial election results, Minnesota",Candidate,Tom Horner/Jim Mulder,Independence,251487.0,11.94,False,False
+2010,Nebraska,NE,governor,2010 Nebraska gubernatorial election,Winning,Dave Heineman (inc.),Republican,360645.0,73.9,True,False
+2010,Nebraska,NE,governor,2010 Nebraska gubernatorial election,Candidate,Mike Meister,Democratic,127343.0,26.1,False,False
+2010,Nebraska,NE,governor,2010 Nebraska gubernatorial election,Total,,,487988.0,100.0,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Winning,Brian Sandoval,Republican,382350.0,53.36,True,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,Rory Reid,Democratic,298171.0,41.61,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,None of These Candidates,,12231.0,1.71,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,Eugene DiSimone,Independent,6403.0,0.89,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,Floyd Fitzgibbons,American,5049.0,0.7,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,"Arthur Forest Lampitt, Jr.",Libertarian,4672.0,0.65,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,David Scott Curtis,Green,4437.0,0.62,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Candidate,Aaron Y. Honig,Independent,3216.0,0.45,False,False
+2010,Nevada,NV,governor,"Nevada gubernatorial election, 2010",Total,,,716529.0,100.0,False,False
+2010,New Hampshire,NH,governor,2010 New Hampshire gubernatorial election,Winning,John Lynch,Democratic,240346.0,52.63,True,True
+2010,New Hampshire,NH,governor,2010 New Hampshire gubernatorial election,Candidate,John Stephen,Republican,205616.0,45.03,False,False
+2010,New Hampshire,NH,governor,2010 New Hampshire gubernatorial election,Candidate,John Babiarz,Libertarian,10089.0,2.21,False,False
+2010,New Hampshire,NH,governor,2010 New Hampshire gubernatorial election,Write-in,,,537.0,0.01,False,False
+2010,New Hampshire,NH,governor,2010 New Hampshire gubernatorial election,Total,,,456588.0,100.0,False,False
+2010,New Mexico,NM,governor,2010 New Mexico gubernatorial election,Winning,Susana Martinez,Republican,321219.0,53.29,True,False
+2010,New Mexico,NM,governor,2010 New Mexico gubernatorial election,Candidate,Diane Denish,Democratic,280614.0,46.55,False,False
+2010,New Mexico,NM,governor,2010 New Mexico gubernatorial election,Candidate,Kenneth A. Gomez (write-in),Republican,994.0,0.16,False,False
+2010,New Mexico,NM,governor,2010 New Mexico gubernatorial election,Total,,,602827.0,100.0,False,False
+2010,Ohio,OH,governor,2010 Ohio gubernatorial election,Winning,John Kasich,Republican,1889186.0,49.04,True,False
+2010,Ohio,OH,governor,2010 Ohio gubernatorial election,Candidate,Ted Strickland,Democratic,1812059.0,47.04,False,True
+2010,Ohio,OH,governor,2010 Ohio gubernatorial election,Candidate,Ken Matesz,Libertarian,92116.0,2.39,False,False
+2010,Ohio,OH,governor,2010 Ohio gubernatorial election,Candidate,Dennis Spisak,Green,58475.0,1.52,False,False
+2010,Ohio,OH,governor,2010 Ohio gubernatorial election,Write-in,,,633.0,0.02,False,False
+2010,Ohio,OH,governor,2010 Ohio gubernatorial election,Total,,,3852469.0,100.0,False,False
+2010,Oklahoma,OK,governor,2010 Oklahoma gubernatorial election,Winning,Mary Fallin,Republican,625506.0,60.45,True,False
+2010,Oklahoma,OK,governor,2010 Oklahoma gubernatorial election,Candidate,Jari Askins,Democratic,409261.0,39.55,False,False
+2010,Oklahoma,OK,governor,2010 Oklahoma gubernatorial election,Total,,,1034767.0,100.0,False,False
+2010,Oregon,OR,governor,2010 Oregon gubernatorial election,Winning,John Kitzhaber,Democratic,716525.0,49.29,True,False
+2010,Oregon,OR,governor,2010 Oregon gubernatorial election,Candidate,Chris Dudley,Republican,694287.0,47.76,False,False
+2010,Oregon,OR,governor,2010 Oregon gubernatorial election,Candidate,Greg Kord,Constitution,20475.0,1.41,False,False
+2010,Oregon,OR,governor,2010 Oregon gubernatorial election,Candidate,Wes Wagner,Libertarian,19048.0,1.31,False,False
+2010,Oregon,OR,governor,2010 Oregon gubernatorial election,Write-in,Write-ins,Write-ins,3213.0,0.22,False,False
+2010,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2010",Winning,Tom Corbett,Republican,2172763.0,54.49,True,False
+2010,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2010",Candidate,Dan Onorato,Democratic,1814788.0,45.51,False,False
+2010,Pennsylvania,PA,governor,"Pennsylvania gubernatorial election, 2010",Total,,,3987551.0,100.0,False,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Winning,Lincoln Chafee,Independent,123571.0,36.1,True,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Candidate,John Robitaille,Republican,114911.0,33.57,False,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Candidate,Frank Caprio,Democratic,78896.0,23.05,False,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Candidate,Ken Block,Moderate,22146.0,6.47,False,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Candidate,Joeseph Lusi,Independent,1091.0,0.32,False,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Candidate,Todd Giroux,Independent,882.0,0.26,False,False
+2010,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2010",Candidate,Ronald Algieri,Independent,793.0,0.23,False,False
+2010,South Carolina,SC,governor,"South Carolina gubernatorial election, 2010",Winning,Nikki Haley,Republican,690525.0,51.37,True,False
+2010,South Carolina,SC,governor,"South Carolina gubernatorial election, 2010",Candidate,Vincent Sheheen,Democratic,630534.0,46.91,False,False
+2010,South Carolina,SC,governor,"South Carolina gubernatorial election, 2010",Candidate,Morgan B. Reeves,Citizens,20114.0,1.5,False,False
+2010,South Carolina,SC,governor,"South Carolina gubernatorial election, 2010",Write-in,Write-ins,Write-ins,3025.0,0.23,False,False
+2010,South Dakota,SD,governor,2010 South Dakota gubernatorial election,Winning,Dennis Daugaard,Republican,195046.0,61.51,True,False
+2010,South Dakota,SD,governor,2010 South Dakota gubernatorial election,Candidate,Scott Heidepriem,Democratic,122037.0,38.49,False,False
+2010,South Dakota,SD,governor,2010 South Dakota gubernatorial election,Total,,,317083.0,100.0,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Winning,Bill Haslam,Republican,1041545.0,65.03,True,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Mike McWherter,Democratic,529851.0,33.08,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Carl Twofeathers Whitaker,Independent,6536.0,0.41,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Brandon Dodds,Independent,4728.0,0.29,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Bayron Binkley,Independent,4663.0,0.29,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,June Griffin,Independent,2587.0,0.16,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Linda Kay Perry,Independent,2057.0,0.13,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Howard M. Switzer,Independent,1887.0,0.12,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Samuel David Duck,Independent,1755.0,0.11,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Thomas Smith II,Independent,1207.0,0.07,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Toni K. Hall,Independent,993.0,0.06,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,David Gatchell,Independent,859.0,0.05,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Boyce T. McCall,Independent,828.0,0.05,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,James Reesor,Independent,809.0,0.05,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Mike Knois,Independent,600.0,0.03,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Donald Ray McFolin,Independent,583.0,0.03,False,False
+2010,Tennessee,TN,governor,2010 Tennessee gubernatorial election,Candidate,Write-Ins (3 candidates),Independent,61.0,0.0,False,False
+2010,Texas,TX,governor,2010 Texas gubernatorial election,Winning,Rick Perry,Republican,2737481.0,54.97,True,True
+2010,Texas,TX,governor,2010 Texas gubernatorial election,Candidate,Bill White,Democratic,2106395.0,42.3,False,False
+2010,Texas,TX,governor,2010 Texas gubernatorial election,Candidate,Kathie Glass,Libertarian,109211.0,2.19,False,False
+2010,Texas,TX,governor,2010 Texas gubernatorial election,Candidate,Deb Shafto,Green,19516.0,0.39,False,False
+2010,Texas,TX,governor,2010 Texas gubernatorial election,Candidate,Andy Barron (write-in),Independent,7267.0,0.15,False,False
+2010,Utah,UT,governor,2010 Utah special gubernatorial election,Winning,Gary Herbert,Republican,412151.0,64.07,True,True
+2010,Utah,UT,governor,2010 Utah special gubernatorial election,Candidate,Peter Corroon,Democratic,205246.0,31.9,False,False
+2010,Utah,UT,governor,2010 Utah special gubernatorial election,Candidate,Farley Anderson,Independent,13038.0,2.03,False,False
+2010,Utah,UT,governor,2010 Utah special gubernatorial election,Candidate,W. Andrew McCullough,Libertarian,12871.0,2.0,False,False
+2010,Utah,UT,governor,2010 Utah special gubernatorial election,Candidate,Michael William Heath,Write-in,1.0,0.0,False,False
+2010,Utah,UT,governor,2010 Utah special gubernatorial election,Total,,,643307.0,100.0,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Winning,Peter Shumlin,Democratic,119543.0,49.48,True,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Candidate,Brian Dubie,Republican,115212.0,47.69,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Candidate,Dennis Steele,Independent,1917.0,0.79,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Candidate,Cris Ericson,Marijuana,1819.0,0.75,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Candidate,Dan Feliciano,Independent,1341.0,0.56,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Candidate,Emily Peyton,Independent,684.0,0.28,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Candidate,Ben Mitchell,Union,429.0,0.18,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Write-in,,,660.0,0.27,False,False
+2010,Vermont,VT,governor,2010 Vermont gubernatorial election,Total,,,241605.0,100.0,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Winning,Scott Walker,Republican,1128941.0,52.25,True,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,Tom Barrett,Democratic,1004303.0,46.48,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,Jim Langer,Independent,10608.0,0.49,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,James James,Common Sense,8273.0,0.38,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,No Candidate,Libertarian,6790.0,0.31,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,Patricia Messicci (write-in),Independent,22.0,0.0,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,Leslie Ervin Smetak (write-in),Independent,19.0,0.0,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,Hari Trivedi (write-in),Independent,18.0,0.0,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Candidate,Scattering,,1858.0,0.09,False,False
+2010,Wisconsin,WI,governor,2010 Wisconsin gubernatorial election,Total,,,2160832.0,100.0,False,False
+2010,Wyoming,WY,governor,2010 Wyoming gubernatorial election,Winning,Matt Mead,Republican,123780.0,65.68,True,False
+2010,Wyoming,WY,governor,2010 Wyoming gubernatorial election,Candidate,Leslie Petersen,Democratic,43240.0,22.94,False,False
+2010,Wyoming,WY,governor,2010 Wyoming gubernatorial election,Candidate,Taylor Haynes,Independent,13796.0,7.32,False,False
+2010,Wyoming,WY,governor,2010 Wyoming gubernatorial election,Candidate,Mike Wheeler,Libertarian,5362.0,2.85,False,False
+2010,Wyoming,WY,governor,2010 Wyoming gubernatorial election,Write-in,,,2285.0,1.21,False,False
+2011,Kentucky,KY,governor,2011 Kentucky gubernatorial election,Winning,Steven L. Beshear,Democratic,464245,55.72,True,True
+2011,Kentucky,KY,governor,2011 Kentucky gubernatorial election,Candidate,David L. Williams,Republican,294034,35.29,False,False
+2011,Kentucky,KY,governor,2011 Kentucky gubernatorial election,Candidate,Gatewood Galbraith,Independent,74860,8.99,False,False
+2011,Kentucky,KY,governor,2011 Kentucky gubernatorial election,Total,,,833139,100.0,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Winning,Bobby Jindal,Republican,673239,65.8,True,True
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Tara Hollis,Democratic,182925,17.88,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Cary Deaton,Democratic,50071,4.89,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Trey Roberts,Democratic,33280,3.25,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,David Blanchard,Independent,26705,2.61,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Niki Bird Papazoglakis,Democratic,21885,2.14,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Scott Lewis,Libertarian,12528,1.22,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Bob Lang,Independent,9109,0.89,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Ron Ceasar,Independent,8179,0.8,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Candidate,Lenny Bollingham,Independent,5242,0.51,False,False
+2011,Louisiana,LA,governor,"Louisiana gubernatorial election results, 2011",Total,,,1023163,100.0,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Winning,Earl Ray Tomblin,Democratic,149202,49.55,True,True
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,Bill Maloney,Republican,141656,47.05,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,Bob Henry Baber,Mountain,6083,2.02,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,Marla Ingels,Independent,2875,0.95,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,Harry Bertram,Position,1111,0.37,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,Phil Hudok,Write-in Candidate,76,0.03,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,Donald Lee Underwood,Write-in Candidate,54,0.02,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Candidate,"John R. ""Rick"" Bartlett",Write-in Candidate,27,0.01,False,False
+2011,West Virginia,WV,governor,"West Virginia gubernatorial special election official results, 2011",Total,,,301084,100.0,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Winning,Jack Markell,Democratic,275993,69.34,True,True
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Candidate,Jeff Cragg,Republican,113793,28.59,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Candidate,Mark Perri,Green,4575,1.15,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Candidate,Jesse McVay,Libertarian,3668,0.92,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Total,,,398029,100.0,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Winning,Mike Pence/Sue Ellspermann,Republican,1275424,49.49,True,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Candidate,John R. Gregg/Vi Simpson,Democratic,1200016,46.56,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Candidate,Rupert Boneham,Libertarian,101868,3.95,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Candidate,Donnie Harold Harris (write-in),Independent,21,0.0,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Total,,,2577329,100.0,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Winning,Jay Nixon,Democratic,1494056,54.77,True,True
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Candidate,Dave Spence,Republican,1160265,42.53,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Candidate,Jim Higgins,Libertarian,73509,2.7,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Write-in,,,53,0.0,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Total,,,2727883,100.0,False,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Winning,Steve Bullock,Democratic,236450,48.9,True,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Candidate,Rick Hill,Republican,228879,47.34,False,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Candidate,Ron Vandevender,Libertarian,18160,3.76,False,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Total,,,483489,100.0,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Winning,Maggie Hassan,Democratic,378934,54.61,True,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Candidate,Ovide Lamontagne,Republican,295026,42.52,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Candidate,John J. Babiarz,Libertarian,19251,2.77,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Write-in,,,666,0.1,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Total,,,693877,100.0,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Winning,Pat McCrory,Republican,2440707,54.62,True,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Candidate,Walter Dalton,Democratic,1931580,43.23,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Candidate,Barbara Howe,Libertarian,94652,2.12,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Write-in,,,1356,0.03,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Total,,,4468295,100.0,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Winning,Jack Dalrymple,Republican,200525,63.1,True,True
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Candidate,Ryan Taylor,North Dakota Democratic-npl,109048,34.31,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Candidate,Paul Sorum,Independent,5356,1.69,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Candidate,Roland Riemers,Independent,2618,0.82,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Write-in,,,267,0.08,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Total,,,317814,100.0,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Winning,Gary Herbert,Republican,688592,68.41,True,True
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Peter Cooke,Democratic,277622,27.58,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Ken Larsen,Libertarian,22611,2.25,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Kirk D. Pearson,Constitution,17696,1.76,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Dennis C. Owen,Write-in,2,0.0,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,David J. Cannon,Write-in,1,0.0,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Total,,,1006524,100.0,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Winning,Peter Shumlin,Democratic,170749,57.8,True,True
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Randy Brock,Republican,110940,37.55,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Emily Peyton,Independent,5868,1.99,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Cris Ericson,Marijuana,5583,1.89,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Dave Eagle,Union,1303,0.44,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Write-in,,,969,0.33,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Total,,,295412,100.0,False,False
+2012,Washington,WA,governor,2012 Washington gubernatorial election,Winning,Jay Inslee,Democratic,1582802,51.54,True,False
+2012,Washington,WA,governor,2012 Washington gubernatorial election,Candidate,Rob McKenna,Republican,1488245,48.46,False,False
+2012,Washington,WA,governor,2012 Washington gubernatorial election,Total,,,3071047,100.0,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Winning,Earl Ray Tomblin,Democratic,335468,50.49,True,True
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Candidate,Bill Maloney,Republican,303291,45.65,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Candidate,Jesse Johnson,Mountain,16787,2.53,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Candidate,David Moran,Libertarian,8909,1.34,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Total,,,664455,100.0,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Winning,Scott Walker,Republican,1335585,53.08,True,True
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Candidate,Tom Barrett,Democratic,1164480,46.28,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Candidate,Hari Trivedi,Independent,14463,0.57,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Candidate,Scattering,,1537,0.06,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Total,,,2516065,100.0,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Winning,Chris Christie,Republican,1278932,60.3,True,True
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Barbara Buono,Democratic,809978,38.19,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Kenneth R. Kaplan,Libertarian,12155,0.57,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Steve Welzer,Green,8295,0.39,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Diane W. Sare,Glass-steagall Now,3360,0.16,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,William Araujo,Freedom,3300,0.16,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Hank Schroeder,Independent,2784,0.13,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Candidate,Jeff Boss,Nsa Did 911,2062,0.1,False,False
+2013,New Jersey,NJ,governor,2013 New Jersey gubernatorial election,Total,,,2120866,100.0,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Winning,Terry McAuliffe,Democratic,1069789,47.74,True,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Candidate,Ken Cuccinelli,Republican,1013354,45.22,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Candidate,Robert Sarvis,Libertarian,146084,6.52,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Write-in,,,11844,0.53,False,False
+2013,Virginia,VA,governor,2013 Virginia gubernatorial election,Total,,,2241071,100.0,False,False
+2014,Alabama,AL,governor,2014 Alabama gubernatorial election,Winning,Robert J. Bentley,Republican,750231,63.56,True,True
+2014,Alabama,AL,governor,2014 Alabama gubernatorial election,Candidate,Parker Griffith,Democratic,427787,36.24,False,False
+2014,Alabama,AL,governor,2014 Alabama gubernatorial election,Write-in,,,2395,0.2,False,False
+2014,Alabama,AL,governor,2014 Alabama gubernatorial election,Total,,,1180413,100.0,False,False
+2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Winning,Bill Walker,Independent,134658,48.1,True,False
+2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Candidate,Sean Parnell,Republican,128435,45.88,False,True
+2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Candidate,Carolyn Clift,Libertarian,8985,3.21,False,False
+2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Candidate,J. R. Myers,Constitution,6987,2.5,False,False
+2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Write-in,,,893,0.32,False,False
+2014,Alaska,AK,governor,2014 Alaska gubernatorial election,Total,,,279958,100.0,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Winning,Doug Ducey,Republican,805062,53.44,True,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Fred DuVal,Democratic,626921,41.62,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Barry Hess,Libertarian,57337,3.8,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,John Lewis Mealer,Americans Elect,15432,1.02,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,J. Johnson (write-in),None,1520,0.1,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Brian Bailey (write-in),Independent,50,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Alice Novoa (write-in),Republican,43,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Cary Dolego (write-in),Independent,29,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Curtis Woolsey (write-in),None,15,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Candidate,Diane-Elizabeth R.R. Kennedy (write-in),Independent,7,,False,False
+2014,Arizona,AZ,governor,"Arizona gubernatorial election, 2014",Total,,,1506416,100.0,False,False
+2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Winning,Asa Hutchinson,Republican,470429,55.44,True,False
+2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Candidate,Mike Ross,Democratic,352115,41.49,False,False
+2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Candidate,Frank Gilbert,Libertarian,16319,1.92,False,False
+2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Candidate,Josh Drake,Green,9729,1.15,False,False
+2014,Arkansas,AR,governor,"Arkansas gubernatorial election, 2014",Total,,,848592,100.0,False,False
+2014,California,CA,governor,2014 California gubernatorial election,Winning,Jerry Brown,Democratic,4388368,59.97,True,True
+2014,California,CA,governor,2014 California gubernatorial election,Candidate,Neel Kashkari,Republican,2929213,40.03,False,False
+2014,California,CA,governor,2014 California gubernatorial election,Total,,,7317581,100.0,False,False
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Winning,John Hickenlooper,Democratic,1006433,49.3,True,True
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Candidate,Bob Beauprez,Republican,938195,45.95,False,False
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Candidate,Matthew Hess,Libertarian,39590,1.94,False,False
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Candidate,Harry Hempy,Green,27391,1.34,False,False
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Candidate,Mike Dunafon,Independent,24042,1.18,False,False
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Candidate,Paul Noel Fiorino,Independent,5923,0.29,False,False
+2014,Colorado,CO,governor,2014 Colorado gubernatorial election,Write-in,Write-ins,Write-ins,31,0.0,False,False
+2014,Connecticut,CT,governor,2014 Connecticut gubernatorial election,Winning,Dannel Malloy,Total,554314,50.73,True,True
+2014,Connecticut,CT,governor,2014 Connecticut gubernatorial election,Candidate,Dannel Malloy,Democratic,529552,48.46,False,False
+2014,Connecticut,CT,governor,2014 Connecticut gubernatorial election,Candidate,Thomas C. Foley,Republican,503998,46.12,False,False
+2014,Connecticut,CT,governor,2014 Connecticut gubernatorial election,Candidate,Joe Visconti,Independent,11456,1.05,False,False
+2014,Connecticut,CT,governor,2014 Connecticut gubernatorial election,Write-in,,,708,0.06,False,False
+2014,Connecticut,CT,governor,2014 Connecticut gubernatorial election,Total,,,1092773,100.0,False,False
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Winning,Rick Scott,Republican,2865343,48.14,True,True
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Candidate,Charlie Crist,Democratic,2801198,47.07,False,False
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Candidate,Adrian Wyllie,Libertarian,223356,3.75,False,False
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Candidate,Glenn Burkett,Independent,41341,0.7,False,False
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Candidate,Farid Khavari,Independent,20186,0.34,False,False
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Candidate,Write-ins,N/a,137,0.0,False,False
+2014,Florida,FL,governor,2014 Florida gubernatorial election,Total,,,5951571,100.0,False,False
+2014,Georgia,GA,governor,2014 Georgia gubernatorial election,Winning,Nathan Deal,Republican,1345237,52.74,True,True
+2014,Georgia,GA,governor,2014 Georgia gubernatorial election,Candidate,Jason Carter,Democratic,1144794,44.88,False,False
+2014,Georgia,GA,governor,2014 Georgia gubernatorial election,Candidate,Andrew Hunt,Libertarian,60185,2.36,False,False
+2014,Georgia,GA,governor,2014 Georgia gubernatorial election,Write-in,,,432,0.02,False,False
+2014,Georgia,GA,governor,2014 Georgia gubernatorial election,Total,,,2550648,100.0,False,False
+2014,Guam,GU,governor,Democratic Party of Guam primary results,Candidate,Carl T.C. Gutierrez and Gary W.F. Gumataotao,Democratic,7330,98.14,False,False
+2014,Guam,GU,governor,Democratic Party of Guam primary results,Total,,,7330,100.0,False,False
+2014,Guam,GU,governor,Republican Party of Guam primary results,Candidate,Eddie B. Calvo and Ray Tenorio,Republican,11034,99.36,False,False
+2014,Guam,GU,governor,Republican Party of Guam primary results,Total,,,11034,100.0,False,False
+2014,Guam,GU,governor,2014 Guam gubernatorial election,Winning,Eddie B. Calvo/Ray Tenorio,Republican,22512,63.7,True,True
+2014,Guam,GU,governor,2014 Guam gubernatorial election,Candidate,Carl T.C. Gutierrez/Gary W.F. Gumataotao,Democratic,12712,35.97,False,False
+2014,Guam,GU,governor,2014 Guam gubernatorial election,Candidate,Write-ins,N/a,117,0.33,False,False
+2014,Guam,GU,governor,2014 Guam gubernatorial election,Total,,,35341,100.0,False,False
+2014,Hawaii,HI,governor,2014 Hawaii gubernatorial election,Winning,David Ige,Democratic,181106,49.45,True,False
+2014,Hawaii,HI,governor,2014 Hawaii gubernatorial election,Candidate,Duke Aiona,Republican,135775,37.08,False,False
+2014,Hawaii,HI,governor,2014 Hawaii gubernatorial election,Candidate,Mufi Hannemann,Independent,42934,11.72,False,False
+2014,Hawaii,HI,governor,2014 Hawaii gubernatorial election,Candidate,Jeff Davis,Libertarian,6395,1.75,False,False
+2014,Hawaii,HI,governor,2014 Hawaii gubernatorial election,Total,,,366210,100.0,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Winning,Butch Otter,Republican,235405,53.52,True,True
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Candidate,A.J. Balukoff,Democratic,169556,38.55,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Candidate,John Bujak,Libertarian,17884,4.07,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Candidate,Jill Humble,Independent,8801,2.0,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Candidate,Steven Pankey,Constitution,5219,1.19,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Candidate,Pro-Life,Independent,2870,0.65,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Write-in,,,95,0.02,False,False
+2014,Idaho,ID,governor,"Idaho gubernatorial election, 2014",Total,,,439830,100.0,False,False
+2014,Illinois,IL,governor,2014 Illinois gubernatorial election,Winning,Bruce Rauner,Republican,1823627,50.27,True,False
+2014,Illinois,IL,governor,2014 Illinois gubernatorial election,Candidate,Pat Quinn,Democratic,1681343,46.35,False,True
+2014,Illinois,IL,governor,2014 Illinois gubernatorial election,Candidate,Chad Grimm,Libertarian,121534,3.35,False,False
+2014,Illinois,IL,governor,2014 Illinois gubernatorial election,Write-in,,,1186,0.03,False,False
+2014,Illinois,IL,governor,2014 Illinois gubernatorial election,Total,,,3627690,100.0,False,False
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Winning,Terry Branstad (incumbent) / Kim Reynolds,Republican,666032,58.99,True,True
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Candidate,Jack Hatch / Monica Vernon,Democratic,420787,37.27,False,False
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Candidate,Lee Deakins Hieb / Tim Watson,Libertarian,20321,1.8,False,False
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Candidate,Jim Hennager / Mary Margaret Krieg,New Independent Party Iowa,10582,0.94,False,False
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Candidate,Jonathan R. Narcisse / Michael L. Richards,Iowa,10240,0.91,False,False
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Candidate,Write-ins,N/a,1095,0.09,False,False
+2014,Iowa,IA,governor,2014 Iowa gubernatorial election,Total,,,1129057,100.0,False,False
+2014,Kansas,KS,governor,2014 Kansas gubernatorial election,Winning,Sam Brownback,Republican,433196,49.82,True,True
+2014,Kansas,KS,governor,2014 Kansas gubernatorial election,Candidate,Paul Davis,Democratic,401100,46.13,False,False
+2014,Kansas,KS,governor,2014 Kansas gubernatorial election,Candidate,Keen Umbehr,Libertarian,35206,4.05,False,False
+2014,Kansas,KS,governor,2014 Kansas gubernatorial election,Total,,,869502,100.0,False,False
+2014,Maine,ME,governor,"Maine gubernatorial election, 2014",Winning,Paul LePage,Republican,294533,48.18,True,True
+2014,Maine,ME,governor,"Maine gubernatorial election, 2014",Candidate,Mike Michaud,Democratic,265125,43.37,False,False
+2014,Maine,ME,governor,"Maine gubernatorial election, 2014",Candidate,Eliot Cutler,Independent,51518,8.43,False,False
+2014,Maine,ME,governor,"Maine gubernatorial election, 2014",Write-in,,,79,0.01,False,False
+2014,Maine,ME,governor,"Maine gubernatorial election, 2014",Total,,,611255,100.0,False,False
+2014,Maryland,MD,governor,2014 Maryland gubernatorial election,Winning,Larry Hogan,Republican,884400,51.03,True,False
+2014,Maryland,MD,governor,2014 Maryland gubernatorial election,Candidate,Anthony Brown,Democratic,818890,47.25,False,False
+2014,Maryland,MD,governor,2014 Maryland gubernatorial election,Candidate,Shawn Quinn,Libertarian,25382,1.46,False,False
+2014,Maryland,MD,governor,2014 Maryland gubernatorial election,Write-in,,,4505,0.26,False,False
+2014,Maryland,MD,governor,2014 Maryland gubernatorial election,Total,,,1733177,100.0,False,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Winning,Charlie Baker,Republican,1044573,48.4,True,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Candidate,Martha Coakley,Democratic,1004408,46.54,False,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Candidate,Evan Falchuk,Independent,71814,3.33,False,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Candidate,Scott Lively,Independent,19378,0.9,False,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Candidate,Jeff McCormick,Independent,16295,0.75,False,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Write-in,,,1858,0.09,False,False
+2014,Massachusetts,MA,governor,"Massachusetts gubernatorial election, 2014",Total,,,2158326,100.0,False,False
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Winning,Rick Snyder,Republican,1607399,50.92,True,True
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Candidate,Mark Schauer,Democratic,1479057,46.86,False,False
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Candidate,Mary Buzuma,Libertarian,35723,1.13,False,False
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Candidate,Mark McFarlin,Taxpayers,19368,0.61,False,False
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Candidate,Paul Homeniuk,Green,14934,0.47,False,False
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Candidate,Write-ins,N/a,50,0.0,False,False
+2014,Michigan,MI,governor,"Michigan gubernatorial election, 2014",Total,,,3156531,100.0,False,False
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Winning,Mark Dayton,Minnesota Democratic–farmer–labor,989113,50.07,True,True
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Candidate,Jeff Johnson,Republican,879257,44.51,False,False
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Candidate,Hannah Nicollet,Independence,56900,2.88,False,False
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Candidate,Chris Wright,Grassroots–legalize Cannabis,31259,1.58,False,False
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Candidate,Chris Holbrook,Libertarian,18082,0.92,False,False
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Write-in,,,1134,0.06,False,False
+2014,Minnesota,MN,governor,2014 Minnesota gubernatorial election,Total,,,1975406,100.0,False,False
+2014,Nebraska,NE,governor,2014 Nebraska gubernatorial election,Winning,Pete Ricketts,Republican,308751,57.15,True,False
+2014,Nebraska,NE,governor,2014 Nebraska gubernatorial election,Candidate,Chuck Hassebrook,Democratic,211905,39.23,False,False
+2014,Nebraska,NE,governor,2014 Nebraska gubernatorial election,Candidate,Mark Elworth,Libertarian,19001,3.52,False,False
+2014,Nebraska,NE,governor,2014 Nebraska gubernatorial election,Write-in,,,545,0.1,False,False
+2014,Nebraska,NE,governor,2014 Nebraska gubernatorial election,Total,,,540202,100.0,False,False
+2014,Nevada,NV,governor,"Nevada gubernatorial election, 2014",Winning,Brian Sandoval,Republican,386340,70.58,True,True
+2014,Nevada,NV,governor,"Nevada gubernatorial election, 2014",Candidate,Bob Goodman,Democratic,130722,23.88,False,False
+2014,Nevada,NV,governor,"Nevada gubernatorial election, 2014",Candidate,None of These Candidates,,15751,2.88,False,False
+2014,Nevada,NV,governor,"Nevada gubernatorial election, 2014",Candidate,David Lory VanDerBeek,American,14536,2.66,False,False
+2014,Nevada,NV,governor,"Nevada gubernatorial election, 2014",Total,,,547349,100.0,False,False
+2014,New Hampshire,NH,governor,2014 New Hampshire gubernatorial election,Winning,Maggie Hassan,Democratic,254666,52.37,True,True
+2014,New Hampshire,NH,governor,2014 New Hampshire gubernatorial election,Candidate,Walt Havenstein,Republican,230610,47.43,False,False
+2014,New Hampshire,NH,governor,2014 New Hampshire gubernatorial election,Write-in,,,976,0.2,False,False
+2014,New Hampshire,NH,governor,2014 New Hampshire gubernatorial election,Total,,,486183,100.0,False,False
+2014,New Mexico,NM,governor,2014 New Mexico gubernatorial election,Winning,Susana Martinez,Republican,293443,57.22,True,True
+2014,New Mexico,NM,governor,2014 New Mexico gubernatorial election,Candidate,Gary K. King,Democratic,219362,42.78,False,False
+2014,New Mexico,NM,governor,2014 New Mexico gubernatorial election,Total,,,512805,100.0,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Andrew Cuomo,Democratic,1811672,47.44,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Andrew Cuomo/Kathy Hochul,Total,2069480,54.19,False,True
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Rob Astorino,Republican,1234951,32.34,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Rob Astorino/Christopher Moss,Total,1536879,40.24,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Howie Hawkins/Brian Jones,Green,184419,4.83,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Michael McDermott/Chris Edes,Libertarian,16769,0.44,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Steven Cohn/Bobby Kalotee,Sapient,4963,0.13,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Candidate,Write ins,Write Ins,6378,0.17,False,False
+2014,New York,NY,governor,"New York gubernatorial election, 2014",Total,,,3819086,100.0,False,False
+2014,Ohio,OH,governor,"Ohio gubernatorial election, 2014",Winning,John Kasich,Republican,1944848,63.64,True,True
+2014,Ohio,OH,governor,"Ohio gubernatorial election, 2014",Candidate,Ed FitzGerald,Democratic,1009359,33.03,False,False
+2014,Ohio,OH,governor,"Ohio gubernatorial election, 2014",Candidate,Anita Rios,Green,101706,3.33,False,False
+2014,Ohio,OH,governor,"Ohio gubernatorial election, 2014",Total,,,3055913,100.0,False,False
+2014,Oklahoma,OK,governor,2014 Oklahoma gubernatorial election,Winning,Mary Fallin,Republican,460298,55.81,True,True
+2014,Oklahoma,OK,governor,2014 Oklahoma gubernatorial election,Candidate,Joe Dorman,Democratic,338239,41.01,False,False
+2014,Oklahoma,OK,governor,2014 Oklahoma gubernatorial election,Candidate,Kimberly Willis,Independent,17169,2.08,False,False
+2014,Oklahoma,OK,governor,2014 Oklahoma gubernatorial election,Candidate,Richard Prawdzienski,Independent,9125,1.11,False,False
+2014,Oklahoma,OK,governor,2014 Oklahoma gubernatorial election,Total,,,824831,100.0,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Winning,John Kitzhaber,Democratic,733230,49.89,True,True
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Candidate,Dennis Richardson,Republican,648542,44.13,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Candidate,Jason Levin,Green,29561,2.01,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Candidate,Paul Grad,Libertarian,21903,1.49,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Candidate,Aaron Auer,Constitution,15929,1.08,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Candidate,Chris Henry,Progressive,13898,0.95,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Write-in,,,6654,0.45,False,False
+2014,Oregon,OR,governor,"Oregon gubernatorial election, 2014",Total,,,1469717,100.0,False,False
+2014,Pennsylvania,PA,governor,2014 Pennsylvania gubernatorial election,Winning,Tom Wolf Mike Stack,Democratic,1920355,54.93,True,False
+2014,Pennsylvania,PA,governor,2014 Pennsylvania gubernatorial election,Candidate,Tom Corbett (incumbent) Jim Cawley,Republican,1575511,45.07,False,True
+2014,Pennsylvania,PA,governor,2014 Pennsylvania gubernatorial election,Total,,,3495866,100.0,False,False
+2014,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2014",Winning,Gina Raimondo,Democratic,131899,40.7,True,False
+2014,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2014",Candidate,Allan Fung,Republican,117428,36.24,False,False
+2014,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2014",Candidate,Robert J. Healey,Moderate,69278,21.38,False,False
+2014,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2014",Candidate,Kate Fletcher,Independent,3483,1.07,False,False
+2014,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2014",Candidate,Leon Kayarian,Independent,1228,0.38,False,False
+2014,Rhode Island,RI,governor,"Rhode Island gubernatorial election, 2014",Write-in,,,739,0.23,False,False
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Winning,Nikki Haley,Republican,696645,55.9,True,True
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Candidate,Vincent Sheheen,Democratic,516166,41.42,False,False
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Candidate,Steve French,Libertarian,15438,1.24,False,False
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Candidate,Tom Ervin,Independent,11496,0.92,False,False
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Candidate,Morgan B. Reeves,Citizens,5622,0.45,False,False
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Write-in,,,934,0.07,False,False
+2014,South Carolina,SC,governor,"South Carolina gubernatorial election, 2014",Total,,,1246301,100.0,False,False
+2014,South Dakota,SD,governor,2014 South Dakota gubernatorial election,Winning,Dennis Daugaard,Republican,195477,70.47,True,True
+2014,South Dakota,SD,governor,2014 South Dakota gubernatorial election,Candidate,Susan Wismer,Democratic,70549,25.43,False,False
+2014,South Dakota,SD,governor,2014 South Dakota gubernatorial election,Candidate,Michael J. Myers,Independent,11377,4.1,False,False
+2014,South Dakota,SD,governor,2014 South Dakota gubernatorial election,Total,,,277403,100.0,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Winning,Bill Haslam,Republican,951796,70.31,True,True
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,Charles Brown,Democratic,309237,22.84,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,John Jay Hooker,Independent,30579,2.26,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,Shaun Crowell,Constitution,26580,1.96,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,Isa Infante,Green,18570,1.37,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,Steve Coburn,Independent,8612,0.64,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,Daniel Lewis,Independent,8321,0.62,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Candidate,Write-ins,N/a,33,0.0,False,False
+2014,Tennessee,TN,governor,2014 Tennessee gubernatorial election,Total,,,1353728,100.0,False,False
+2014,Texas,TX,governor,2014 Texas gubernatorial election,Winning,Greg Abbott,Republican,2796547,59.27,True,False
+2014,Texas,TX,governor,2014 Texas gubernatorial election,Candidate,Wendy Davis,Democratic,1835596,38.9,False,False
+2014,Texas,TX,governor,2014 Texas gubernatorial election,Candidate,Kathie Glass,Libertarian,66543,1.41,False,False
+2014,Texas,TX,governor,2014 Texas gubernatorial election,Candidate,Brandon Parmer,Green,18520,0.39,False,False
+2014,Texas,TX,governor,2014 Texas gubernatorial election,Candidate,Sarah M. Pavitt (write-in),Independent,1062,0.02,False,False
+2014,Texas,TX,governor,2014 Texas gubernatorial election,Total,,,4718268,100.0,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Peter Shumlin,Democratic,89509,46.36,False,True
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Scott Milne,Republican,87075,45.1,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Dan Feliciano,Libertarian,8428,4.36,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Emily Peyton,Independent,3157,1.64,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Peter Diamondstone,Union,1673,0.87,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Bernard Peters,Independent,1434,0.74,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Candidate,Cris Ericson,Independent,1089,0.56,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Write-in,,,722,0.37,False,False
+2014,Vermont,VT,governor,2014 Vermont gubernatorial election,Total,,,193087,100.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Winning,Scott Walker,Republican,1259706,52.26,True,True
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Mary Burke,Democratic,1122913,46.59,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Robert Burke,Independent,18720,0.78,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Dennis Fehr,Independent,7530,0.31,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Mary Jo Walters (write-in),Independent,108,0.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Brett D. Hulsey (write-in),Independent,52,0.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Jumoka A. Johnson (write-in),Constitution,15,0.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Steve R. Evans (write-in),Republican,9,0.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Susan P. Resch (write-in),Republican,8,0.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Jessica Nicole Perry (write-in),Independent,5,0.0,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Candidate,Scattering,,1248,0.05,False,False
+2014,Wisconsin,WI,governor,2014 Wisconsin gubernatorial election,Total,,,2410314,100.0,False,False
+2014,Wyoming,WY,governor,"Wyoming gubernatorial election, 2014",Winning,Matt Mead,Republican,99700,59.39,True,True
+2014,Wyoming,WY,governor,"Wyoming gubernatorial election, 2014",Candidate,Pete Gosar,Democratic,45752,27.25,False,False
+2014,Wyoming,WY,governor,"Wyoming gubernatorial election, 2014",Candidate,Don Wills,Independent,9895,5.89,False,False
+2014,Wyoming,WY,governor,"Wyoming gubernatorial election, 2014",Candidate,Dee Cozzens,Libertarian,4040,2.41,False,False
+2014,Wyoming,WY,governor,"Wyoming gubernatorial election, 2014",Write-in,,,8490,5.06,False,False
+2014,Wyoming,WY,governor,"Wyoming gubernatorial election, 2014",Total,,,167877,100.0,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Winning,Matt Bevin,Republican,511374,52.52,True,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Jack Conway,Democratic,426620,43.81,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Drew Curtis,Independent,35597,3.66,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Blackii Effing Whyte,Write-in,71,0.01,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Candidate,Gatewood B. Gatewood,Write-in,30,0.0,False,False
+2015,Kentucky,KY,governor,2015 Kentucky gubernatorial election,Total,,,973692,100.0,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",Winning,John Bel Edwards,Democratic,646924,56.11,True,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",Candidate,David Vitter,Republican,505940,43.89,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 2015",Total,,,1152864,100.0,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Winning,John Carney,Democratic,248404,58.34,True,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Candidate,Colin Bonini,Republican,166852,39.18,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Candidate,Andrew Groff,Green,5951,1.39,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Candidate,Sean Louis Goward,Libertarian,4577,1.09,False,False
+2016,Delaware,DE,governor,"Delaware gubernatorial election, 2016",Total,,,425784,100.0,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Winning,Eric Holcomb/Suzanne Crouch,Republican,1397396,51.38,True,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Candidate,John R. Gregg/Christina Hale,Democratic,1235503,45.42,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Candidate,Rex Bell,Libertarian,87025,3.2,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Write-in,,,44,0.0,False,False
+2016,Indiana,IN,governor,2016 Indiana gubernatorial election,Total,,,2719968,100.0,False,False
+2016,Missouri,MO,attorney general,2016 Missouri Attorney General election,Winning,Josh Hawley,Republican,1607550,58.5,True,False
+2016,Missouri,MO,attorney general,2016 Missouri Attorney General election,Candidate,Teresa Hensley,Democratic,1140252,41.5,False,False
+2016,Missouri,MO,attorney general,2016 Missouri Attorney General election,Total,,,2747802,100.0,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Winning,Eric Greitens,Republican,1433397,51.14,True,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,Chris Koster,Democratic,1277360,45.57,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,Cisse Spragins,Libertarian,41154,1.47,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,"Lester Benton Turilli, Jr.",Independent,30019,1.07,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Candidate,Don Fitz,Green,21088,0.75,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Write-in,,,28,0.0,False,False
+2016,Missouri,MO,governor,"Missouri gubernatorial election, 2016",Total,,,2803046,100.0,False,False
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Winning,Steve Bullock,Democratic,255933,50.25,True,True
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Candidate,Greg Gianforte,Republican,236115,46.35,False,False
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Candidate,Ted Dunlap,Libertarian,17312,3.4,False,False
+2016,Montana,MT,governor,2016 Montana gubernatorial election,Total,,,509360,100.0,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Winning,Chris Sununu,Republican,354040,48.84,True,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Candidate,Colin Van Ostern,Democratic,337589,46.57,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Candidate,Max Abramson,Libertarian,31243,4.31,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Write-in,,,1991,0.28,False,False
+2016,New Hampshire,NH,governor,2016 New Hampshire gubernatorial election,Total,,,724863,100.0,False,False
+2016,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2016",Winning,Josh Stein,Democratic,2303619,50.27,True,False
+2016,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2016",Candidate,Buck Newton,Republican,2279006,49.73,False,False
+2016,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2016",Total,,,4582625,100.0,False,False
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Winning,Roy Cooper,Democratic,2309162,49.02,True,False
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Candidate,Pat McCrory,Republican,2298881,48.8,False,True
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Candidate,Lon Cecil,Libertarian,102978,2.19,False,False
+2016,North Carolina,NC,governor,"North Carolina's gubernatorial election, 2016",Total,,,4711014,100.0,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Winning,Doug Burgum,Republican,259863,76.52,True,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Candidate,Marvin Nelson,North Dakota Democratic-npl,65855,19.39,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Candidate,Marty Riske,Libertarian,13230,3.9,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Write-in,,,653,0.19,False,False
+2016,North Dakota,ND,governor,"North Dakota gubernatorial election, 2016",Total,,,339601,100.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Winning,Kate Brown,Democratic,985027,50.62,True,True
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,Bud Pierce,Republican,845609,43.45,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,Cliff Thomason,Independent,47481,2.44,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,James Foster,Libertarian,45191,2.32,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Candidate,Aaron Donald Auer,Constitution,19400,1.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Write-in,,,3338,0.17,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016",Total,,,1946046,100.0,False,False
+2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Winning,Josh Shapiro,Democratic,3057010,51.39,True,False
+2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Candidate,John Rafferty,Republican,2891325,48.61,False,False
+2016,Pennsylvania,PA,attorney general,2016 Pennsylvania Attorney General election,Total,,,5948335,100.0,False,False
+2016,Utah,UT,attorney general,General election results,Winning,Sean Reyes,Republican,719064,65.4,True,True
+2016,Utah,UT,attorney general,General election results,Candidate,Jon Harper,Democratic,275571,25.1,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Andrew McCullough,Libertarian,73975,6.7,False,False
+2016,Utah,UT,attorney general,General election results,Candidate,Michael Isbell,Independent American,30687,2.8,False,False
+2016,Utah,UT,attorney general,General election results,Total,,,1099297,100.0,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Winning,Gary Herbert,Republican,750850,66.74,True,True
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Mike Weinholtz,Democratic,323349,28.74,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Brian Kamerath,Libertarian,34827,3.1,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,Superdell Schanze,Independent American,15912,1.41,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Candidate,L. S. Brown,Write-in,97,0.01,False,False
+2016,Utah,UT,governor,2016 Utah gubernatorial election,Total,,,1125035,100.0,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Winning,Phil Scott,Republican,166817,52.9,True,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Candidate,Sue Minter,Democratic,139253,44.17,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Candidate,Bill Lee,Union,8912,2.83,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Write-in,,,313,0.1,False,False
+2016,Vermont,VT,governor,2016 Vermont gubernatorial election,Total,,,315295,100.0,False,False
+2016,Washington,WA,attorney general,2016 Washington Attorney General election,Winning,Bob Ferguson,Democratic,2000804,67.14,True,True
+2016,Washington,WA,attorney general,2016 Washington Attorney General election,Candidate,Joshua Trumbull,Libertarian,979105,32.86,False,False
+2016,Washington,WA,attorney general,2016 Washington Attorney General election,Total,,,2979909,100.0,False,False
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Winning,Jay Inslee,Democratic,1760520,54.25,True,True
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Candidate,Bill Bryant,Republican,1476346,45.49,False,False
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Write-in,,,8416,0.26,False,False
+2016,Washington,WA,governor,2016 Washington gubernatorial election,Total,,,3245282,100.0,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Winning,Jim Justice,Democratic,350408,49.09,True,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,Bill Cole,Republican,301987,42.3,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,Charlotte Pritt,Mountain,42068,5.89,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,David Moran,Libertarian,15354,2.15,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Candidate,Phil Hudok,Constitution,4041,0.57,False,False
+2016,West Virginia,WV,governor,"West Virginia gubernatorial election, 2016",Total,,,713858,100.0,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Winning,Phil Murphy,Democratic,1203110,56.03,True,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Kim Guadagno,Republican,899583,41.89,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Gina Genovese,Independent,12294,0.57,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Peter J. Rohrman,Libertarian,10531,0.49,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Seth Kaper-Dale,Green,10053,0.47,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Matthew Riccardi,Constitution,6864,0.32,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Candidate,Vincent Ross,Independent,4980,0.29,False,False
+2017,New Jersey,NJ,governor,2017 New Jersey gubernatorial election,Total,,,2147415,100.0,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Winning,Ralph Northam,Democratic,1408818,53.89,True,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Candidate,Ed Gillespie,Republican,1175732,44.98,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Candidate,Cliff Hyra,Libertarian,27987,1.07,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Write-in,,,1528,0.06,False,False
+2017,Virginia,VA,governor,2017 Virginia gubernatorial election,Total,,,2614065,100.0,False,False
 2018,Alabama,AL,attorney general,2018 Alabama Attorney General election,Winning,Steve Marshall,Republican,1004438,58.79,True,True
 2018,Alabama,AL,attorney general,2018 Alabama Attorney General election,Candidate,Joseph Siegelman,Democratic,702858,41.14,False,False
 2018,Alabama,AL,attorney general,2018 Alabama Attorney General election,Write-in,,,1141,0.07,False,False

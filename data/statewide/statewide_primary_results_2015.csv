@@ -1,0 +1,23 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2015,Kentucky,KY,governor,Republican primary results,Winning,Matt Bevin,Republican,70480,32.91,True,False
+2015,Kentucky,KY,governor,Republican primary results,Candidate,James Comer,Republican,70397,32.89,False,False
+2015,Kentucky,KY,governor,Republican primary results,Candidate,Hal Heiner,Republican,57951,27.1,False,False
+2015,Kentucky,KY,governor,Republican primary results,Candidate,Will T. Scott,Republican,15365,7.2,False,False
+2015,Kentucky,KY,governor,Republican primary results,Total,,,214187,100.0,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Winning,John Bel Edwards,Democratic,444517,39.89,True,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Winning,David Vitter,Republican,256300,23.0,True,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,Scott Angelle,Republican,214982,19.29,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,Jay Dardenne,Republican,166656,14.96,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,Cary Deaton,Democratic,11763,1.06,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,S.L. Simpson,Democratic,7420,0.67,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,Beryl Billiot,Independent,5694,0.51,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,Jeremy Odom,Independent,4756,0.43,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Candidate,Eric Orgeron,Independent,2248,0.2,False,False
+2015,Louisiana,LA,governor,"Louisiana gubernatorial election, 2015",Total,,,1114336,100.0,False,False
+2015,Mississippi,MS,governor,Republican primary results,Winning,Phil Bryant,Republican,256689,91.86,True,True
+2015,Mississippi,MS,governor,Republican primary results,Candidate,Mitch Young,Republican,22738,8.14,False,False
+2015,Mississippi,MS,governor,Republican primary results,Total,,,279427,100.0,False,False
+2015,Mississippi,MS,governor,Democratic primary results,Winning,Robert Gray,Democratic,152087,50.8,True,False
+2015,Mississippi,MS,governor,Democratic primary results,Candidate,Vicki Slater,Democratic,91104,30.43,False,False
+2015,Mississippi,MS,governor,Democratic primary results,Candidate,Valerie Short,Democratic,56177,18.77,False,False
+2015,Mississippi,MS,governor,Democratic primary results,Total,,,299368,100.0,False,False

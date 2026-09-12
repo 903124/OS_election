@@ -8650,6 +8650,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Wyoming,Democratic primary results,Primary,Candidate,False,William Bryk,Democratic Party (United States),"3,047",17.8
 2012,Wyoming,Democratic primary results,Primary,Candidate,False,Write-in,Democratic Party (United States),222,1.3
 2012,Wyoming,Democratic primary results,Primary,Total,False,,,"17,072",100
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Winning,False,Ed Markey,Democratic Party (United States),"311,219",57.35%
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Candidate,False,Stephen F. Lynch,Democratic Party (United States),"230,335",42.44%
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Candidate,False,All others,Democratic Party (United States),"1,150",0.21%
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Total,False,,,"542,704",100%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Winning,False,Gabriel E. Gomez,Republican Party (United States),"96,057",50.75%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Candidate,False,Michael J. Sullivan,Republican Party (United States),"67,946",35.89%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Candidate,False,Daniel Winslow,Republican Party (United States),"24,662",13.03%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Candidate,False,All others,Republican Party (United States),628,0.33%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Total,False,,,"189,293",100%
+2013,New Jersey (special),Republican primary results,Primary,Winning,False,Steve Lonegan,Republican Party (United States),"103,280",80.09%
+2013,New Jersey (special),Republican primary results,Primary,Candidate,False,Alieta Eck,Republican Party (United States),"25,669",19.91%
+2013,New Jersey (special),Republican primary results,Primary,Total,False,,,"128,958",100.00%
+2013,New Jersey (special),Democratic primary results,Primary,Winning,False,Cory Booker,Democratic Party (United States),"216,936",59.17%
+2013,New Jersey (special),Democratic primary results,Primary,Candidate,False,Frank Pallone,Democratic Party (United States),"72,584",19.80%
+2013,New Jersey (special),Democratic primary results,Primary,Candidate,False,Rush Holt Jr.,Democratic Party (United States),"61,463",16.76%
+2013,New Jersey (special),Democratic primary results,Primary,Candidate,False,Sheila Oliver,Democratic Party (United States),"15,656",4.27%
+2013,New Jersey (special),Democratic primary results,Primary,Total,False,,,"366,639",100.00%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Winning,True,Mark Begich,Democratic Party (United States),"58,092",83.31%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Winning,False,Thom Walker,Alaska Libertarian Party,"3,167",4.54%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Winning,False,Vic Kohring,Alaskan Independence Party,"2,557",3.67%
@@ -9279,9 +9296,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2016,Washington,Blanket primary results,Primary,Candidate,False,Zach Haller,Independent (United States),"5,092",0.37%
 2016,Washington,Blanket primary results,Primary,Candidate,False,Alex Tsimerman,Independent (United States),"4,117",0.30%
 2016,Washington,Blanket primary results,Primary,Total,False,,,"1,384,996",100.00%
-2016,Wisconsin,Democratic primary results,Primary,Winning,False,Russ Feingold,Democratic Party (United States),"303,282",90.14%
-2016,Wisconsin,Democratic primary results,Primary,Candidate,False,Scott Harbach,Democratic Party (United States),"33,185",9.86%
-2016,Wisconsin,Democratic primary results,Primary,Total,False,,,"336,467",100.00%
+2016,Wisconsin,Democratic primary results,Primary,Winning,False,Russ Feingold,Democratic Party (United States),"303,791",90.13%
+2016,Wisconsin,Democratic primary results,Primary,Candidate,False,Scott Harbach,Democratic Party (United States),"33,096",9.82%
+2016,Wisconsin,Democratic primary results,Primary,Total,False,,,"337,079",100.00%
 2018,Arizona,Republican primary results,Primary,Winning,False,Martha McSally,Republican Party (United States),"357,626",54.57%
 2018,Arizona,Republican primary results,Primary,Candidate,False,Kelli Ward,Republican Party (United States),"180,926",27.61%
 2018,Arizona,Republican primary results,Primary,Candidate,False,Joe Arpaio,Republican Party (United States),"116,555",17.79%

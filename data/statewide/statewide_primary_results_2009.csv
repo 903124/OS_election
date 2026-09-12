@@ -1,0 +1,14 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2009,New Jersey,NJ,governor,Democratic Primary results,Winning,Jon Corzine,Democratic,154448,77.18,True,True
+2009,New Jersey,NJ,governor,Democratic Primary results,Candidate,Carl Bergmanson,Democratic,17125,8.56,False,False
+2009,New Jersey,NJ,governor,Democratic Primary results,Candidate,Jeff Boss,Democratic,16639,8.31,False,False
+2009,New Jersey,NJ,governor,Democratic Primary results,Candidate,Roger Bacon,Democratic,11908,5.95,False,False
+2009,New Jersey,NJ,governor,Democratic Primary results,Total,,,200120,100.0,False,False
+2009,New Jersey,NJ,governor,Republican primary results,Winning,Chris Christie,Republican,184085,55.08,True,False
+2009,New Jersey,NJ,governor,Republican primary results,Candidate,Steve Lonegan,Republican,140946,42.17,False,False
+2009,New Jersey,NJ,governor,Republican primary results,Candidate,Rick Merkt,Republican,9184,2.75,False,False
+2009,New Jersey,NJ,governor,Republican primary results,Total,,,334215,100.0,False,False
+2009,Virginia,VA,governor,Democratic Primary results,Winning,Creigh Deeds,Democratic,158845,49.77,True,False
+2009,Virginia,VA,governor,Democratic Primary results,Candidate,Terry McAuliffe,Democratic,84387,26.44,False,False
+2009,Virginia,VA,governor,Democratic Primary results,Candidate,Brian Moran,Democratic,75936,23.79,False,False
+2009,Virginia,VA,governor,Democratic Primary results,Total,,,319168,100.0,False,False
