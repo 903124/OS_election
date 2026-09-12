@@ -14,6 +14,21 @@ State sections are header-bounded and must contain a {{main|YEAR ...}} link,
 so tables in the "Special elections" section (which carries no {{main}} of
 its own) can never leak into a state's rows.
 
+Odd (off-year) years — special elections:
+Odd-year overviews ("{year} United States House of Representatives
+elections") have no state sections; they carry one section per special
+race ("==Illinois's 2nd congressional district==") linking the race
+article via "{{main|<year> <State>'s <N>th congressional district special
+election}}".  Those race articles are fetched and parsed with the
+statewide pipeline's parse_race_article (same {{Election box}} grammar)
+for the final-round (general) result, written in the SAME standard schema
+and files as election years:
+    house_results_{year}.csv            per year
+    house_results_all.csv               combined
+No separate off-year file format is emitted.  Off-years are included by
+default; pass include_off_years=False (CLI: --no-include-off-years) to
+process even years only.
+
 Output columns (standardised):
     year, level, state, state_code, district, candidate, party,
     percentage, winner, incumbent, open_seat
@@ -40,10 +55,29 @@ from wiki_utils import (
     even_years,
     fetch_articles_batch,
 )
+from statewide_elections import parse_race_article
 
 logger = logging.getLogger(__name__)
 
 LEVEL = "house"
+
+
+# ──────────────────────────────────────────────
+# YEAR HELPERS
+# ──────────────────────────────────────────────
+
+def _odd_years(start_year: int, end_year: int) -> List[int]:
+    """
+    Odd (off-year) years within ``[start_year, end_year]``, inclusive.
+
+    Defined locally — deliberately not imported from ``wiki_utils`` — so this
+    module stays compatible with stock wiki_utils versions that only ship
+    ``even_years``.  ``_odd_years(2019, 2024)`` → ``[2019, 2021, 2023]``.
+    Returns an empty list when the range contains no odd year.
+    """
+    start = start_year if start_year % 2 == 1 else start_year + 1
+    end = end_year if end_year % 2 == 1 else end_year - 1
+    return list(range(start, end + 1, 2)) if start <= end else []
 
 
 # ──────────────────────────────────────────────
@@ -52,6 +86,147 @@ LEVEL = "house"
 
 def article_title(year: int) -> str:
     return f"{year} United States House of Representatives elections"
+
+
+# ──────────────────────────────────────────────
+# OFF-YEAR (ODD) SPECIAL-ELECTION SUPPORT
+# ──────────────────────────────────────────────
+
+#: Race-title grammar for House special elections, e.g.
+#:   '2013 Illinois's 2nd congressional district special election'  (year first)
+#:   'Massachusetts's 5th congressional district special election, 2013'
+#:     (year last — legacy alias titles)
+#: 'at-large' seats map to the district code 'AL'.
+_SPECIAL_TITLE_RE = re.compile(
+    r"^(?:(?P<y1>\d{4})\s+)?"
+    r"(?P<state>[A-Z][A-Za-z .]*?)'s\s+"
+    r"(?P<dist>at-large|\d+(?:st|nd|rd|th))\s+"
+    r"congressional district\s+special elections?"
+    r"(?:\s*,\s*(?P<y2>\d{4}))?$",
+    re.IGNORECASE,
+)
+
+
+def _district_code(raw: str) -> str:
+    """'2nd' → '2', 'at-large' → 'AL' (matches {{ushr}} district codes)."""
+    raw = raw.strip().lower()
+    if raw == "at-large":
+        return "AL"
+    return re.sub(r"(st|nd|rd|th)$", "", raw)
+
+
+def state_district_from_special_title(
+    title: str, year: Optional[int] = None,
+) -> Optional[Tuple[str, str]]:
+    """
+    Derive (state, district) from a House special race article title.
+
+    '2013 Illinois's 2nd congressional district special election'
+        → ('Illinois', '2')
+    '2017 Montana's at-large congressional district special election'
+        → ('Montana', 'AL')
+    Returns None when the title does not match the grammar or — when
+    *year* is given — carries a different year.
+    """
+    m = _SPECIAL_TITLE_RE.match(title.strip())
+    if not m:
+        return None
+    if year is not None:
+        years_in_title = {int(g) for g in (m.group("y1"), m.group("y2")) if g}
+        if years_in_title and year not in years_in_title:
+            return None
+    return m.group("state").strip(), _district_code(m.group("dist"))
+
+
+def discover_special_race_titles(text: str, year: int) -> List[str]:
+    """
+    Extract House special race article titles from an odd-year overview.
+
+    Race sections link to their dedicated article via
+    ``{{main|<year> <State>'s <N>th congressional district special
+    election}}``; summary tables may also carry plain ``[[...]]`` links to
+    the same articles.  Only year-matching targets are kept, so
+    cross-references to other cycles (e.g. ``[[1996 ...#Special
+    elections|1996]]``) and Senate specials (no 'congressional district')
+    are excluded automatically.
+    """
+    targets: List[str] = []
+    targets += re.findall(r"\{\{\s*[Mm]ain(?:\s+article)?\s*\|\s*([^|}#]+)", text)
+    targets += re.findall(r"\[\[([^|\]#]+)\]\]", text)
+    titles = []
+    for t in targets:
+        t = t.strip()
+        if str(year) not in t:
+            continue
+        if "congressional district special election" not in t.lower():
+            continue
+        if state_district_from_special_title(t, year) is None:
+            continue
+        titles.append(t)
+    return list(dict.fromkeys(titles))
+
+
+def parse_off_year_specials(
+    year: int, race_texts: Dict[str, Optional[str]],
+) -> pd.DataFrame:
+    """
+    Parse fetched House special race articles for one odd year.
+
+    Each race article is parsed with the statewide pipeline's
+    ``parse_race_article`` ({{Election box}} grammar) and the final-round
+    (general) candidate rows are returned in the SAME standard house schema
+    used for election years — identical columns and file format, so
+    ``house_results_{year}.csv`` for an odd year is formatted exactly like
+    an even-year file.  (Per-race vote counts are not emitted for House;
+    the statewide families keep their own vote-count files.)
+    """
+    house_rows: List[Dict] = []
+
+    for title in sorted(race_texts):
+        text = race_texts.get(title)
+        if not text:
+            logger.warning("  %s — race article not found, skipped", title)
+            continue
+        sd = state_district_from_special_title(title, year)
+        if not sd:
+            logger.warning("  %s — could not derive state/district, skipped", title)
+            continue
+        state, district = sd
+        state_code = _state_code(state)
+        logger.info("  %s — %s district %s (%s chars)", year, state, district,
+                    f"{len(text):,}")
+
+        try:
+            _, gen_df = parse_race_article(
+                text, year, state, state_code, office="House (special)"
+            )
+        except Exception:  # keep the year alive on per-race errors
+            logger.exception("  FAIL %s (%d)", title, year)
+            continue
+
+        # standard house schema: final-round candidate rows only (no totals)
+        for r in gen_df.to_dict("records"):
+            if r.get("row_type") == "Total":
+                continue
+            house_rows.append({
+                "year": year, "level": LEVEL, "state": state,
+                "state_code": state_code, "district": district,
+                "candidate": r.get("candidate"), "party": r.get("party"),
+                "percentage": r.get("percentage"), "winner": r.get("winner"),
+                "incumbent": r.get("incumbent"), "open_seat": True,
+            })
+
+    df = pd.DataFrame(
+        house_rows,
+        columns=["year", "level", "state", "state_code", "district",
+                 "candidate", "party", "percentage", "winner", "incumbent",
+                 "open_seat"],
+    )
+    if len(df):
+        df = df.drop_duplicates(
+            subset=["year", "state", "district", "candidate"], keep="first",
+        ).reset_index(drop=True)
+    return df
 
 
 # ──────────────────────────────────────────────
@@ -585,22 +760,38 @@ def run(
     out_dir: str = "data",
     out_prefix: str = "house",
     client: Optional[WikiAPIClient] = None,
+    include_off_years: bool = True,
 ) -> pd.DataFrame:
     """
-    Fetch & parse House results for the even years in
+    Fetch & parse House results for the election years in
     ``[start_year, end_year]`` (inclusive).
 
+    Even (federal) years are always processed via the state-section parser;
+    the odd (off-year) cycles in the range are included by default — they
+    hold the special elections, whose race articles are discovered from the
+    odd-year overview and parsed for the final-round (general) result —
+    pass ``include_off_years=False`` to restrict the run to even years.
+
     Saves ``{out_prefix}_results_{year}.csv`` per year plus a combined
-    ``{out_prefix}_results_all.csv`` into *out_dir*; returns the combined frame.
+    ``{out_prefix}_results_all.csv`` into *out_dir*; off-year rows use the
+    same standard schema and the same files as election years.  Returns the
+    combined results frame.
     """
     import os
 
-    years = even_years(start_year, end_year)
+    even_list = even_years(start_year, end_year)
+    off_years = _odd_years(start_year, end_year) if include_off_years else []
+    if off_years:
+        logger.info("Including off-year (odd) special cycles: %s", off_years)
+    years = sorted(set(even_list) | set(off_years))
     if not years:
-        logger.warning("No even years in [%d, %d] — nothing to do.", start_year, end_year)
+        logger.warning("No election years in [%d, %d] — nothing to do.",
+                       start_year, end_year)
         return pd.DataFrame()
-    if (start_year, end_year) != (years[0], years[-1]):
-        logger.info("Odd bounds clamped to even years: %d–%d", years[0], years[-1])
+    if not include_off_years and even_list and \
+            (start_year, end_year) != (even_list[0], even_list[-1]):
+        logger.info("Odd bounds clamped to even years: %d–%d",
+                    even_list[0], even_list[-1])
     logger.info("House cycles to process: %s", years)
 
     house_dir = os.path.join(out_dir, "house")
@@ -616,6 +807,13 @@ def run(
 
     all_frames: List[pd.DataFrame] = []
 
+    def _save(df: pd.DataFrame, name: str) -> None:
+        if df.empty:
+            return
+        fname = os.path.join(house_dir, name)
+        df.to_csv(fname, index=False)
+        logger.info("     saved -> %s", fname)
+
     for year, title in titles.items():
         text = content_map.get(title)
         if not text:
@@ -623,22 +821,40 @@ def run(
             continue
 
         logger.info("OK %d — %s chars", year, f"{len(text):,}")
-        df = _parse_year(text, year)
-        logger.info("     %s candidate rows", f"{len(df):,}")
 
-        if not df.empty:
-            fname = os.path.join(house_dir, f"{out_prefix}_results_{year}.csv")
-            df.to_csv(fname, index=False)
-            logger.info("     saved -> %s", fname)
-            all_frames.append(df)
+        if year % 2 == 0:
+            # ── even cycle: regular general elections via state sections ──
+            df = _parse_year(text, year)
+            logger.info("     %s candidate rows", f"{len(df):,}")
+            if not df.empty:
+                _save(df, f"{out_prefix}_results_{year}.csv")
+                all_frames.append(df)
+            continue
+
+        # ── odd (off-year) cycle: special elections via race articles ──
+        race_titles = discover_special_race_titles(text, year)
+        logger.info("     %d special races discovered", len(race_titles))
+        if not race_titles:
+            continue
+        race_texts = (
+            client.fetch_wikitext(race_titles)
+            if client is not None
+            else fetch_articles_batch(race_titles)
+        )
+        results_df = parse_off_year_specials(year, race_texts)
+        logger.info("     %s result rows", f"{len(results_df):,}")
+        _save(results_df, f"{out_prefix}_results_{year}.csv")
+        if not results_df.empty:
+            all_frames.append(results_df)
 
     if all_frames:
         combined = pd.concat(all_frames, ignore_index=True)
         combined_path = os.path.join(house_dir, f"{out_prefix}_results_all.csv")
         combined.to_csv(combined_path, index=False)
         logger.info("Combined -> %s (%s rows)", combined_path, f"{len(combined):,}")
-        return combined
 
+    if all_frames:
+        return pd.concat(all_frames, ignore_index=True)
     return pd.DataFrame()
 
 

@@ -4,9 +4,20 @@ cli.py — Command-line entry point for the Wikipedia elections pipeline.
 
 Subcommands:
     senate     Parse U.S. Senate cycles (polling + results) for a year range.
+               Odd (off-year) special-election cycles — e.g. NJ/MA 2013,
+               AL 2017 — are included by default; disable with
+               --no-include-off-years.
     house      Parse U.S. House election results for a year range.
+               Odd (off-year) special-election cycles — one to seven
+               specials every odd year — are included by default, with
+               per-race primary AND general results (vote counts);
+               disable with --no-include-off-years.
     state-leg  Parse state legislature results (state senates + state houses).
     statewide  Parse statewide executive results (gov, AG, SoS, treasurer).
+               Odd (off-year) cycles — NJ/VA gubernatorial, KY/LA/MS
+               statewide slate — are included by default, with per-race
+               primary AND general results (vote counts) for every cycle;
+               pass --no-include-off-years to process even years only.
     presidential  Parse county-level presidential results per state.
     lean       Predicted partisan lean per congressional district from the
                district->county mapping (resources/district_counties.json)
@@ -20,8 +31,13 @@ Subcommands:
                file is flagged.
     fetch      Fetch one article's raw wikitext (debugging helper).
 
-Year ranges are inclusive and cover even (federal election) years only:
-odd bounds are clamped inward, e.g. 2019–2023 processes 2020 and 2022.
+Year ranges are inclusive. senate/house/state-leg/presidential cover even
+(federal election) years for their regular cycles, but the senate and house
+pipelines also include the odd (off-year) cycles in the range by default —
+those hold the special elections (statewide: NJ/VA gubernatorial and the
+KY/LA/MS slate; senate: e.g. NJ/MA 2013, AL 2017; house: specials every odd
+year). Opt out with --no-include-off-years (applies to statewide/senate/
+house, inside `all` too).
 
 Rate-limit options apply to every subcommand:
     --delay        minimum seconds between Wikipedia API requests (default 1.0)
@@ -32,7 +48,10 @@ Examples:
     python cli.py senate --start-year 2018 --end-year 2024
     python cli.py house --start-year 2012 --end-year 2024 --delay 0.5
     python cli.py state-leg --start-year 2018 --end-year 2024
-    python cli.py statewide --start-year 2018 --end-year 2024
+    python cli.py senate --start-year 2012 --end-year 2014        # + 2013 specials
+    python cli.py house --start-year 2012 --end-year 2024 --delay 0.5
+    python cli.py house --start-year 2017 --end-year 2017         # 2017 specials
+    python cli.py house --start-year 2018 --end-year 2024 --no-include-off-years
     python cli.py presidential --start-year 2020 --end-year 2024
     python cli.py lean                     # 2004-2024 from local presidential CSVs
     python cli.py lean --fetch-missing     # fetch missing presidential years first
@@ -114,16 +133,37 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("senate", parents=[common], help="Parse Senate cycles (year range)")
 
-    house = sub.add_parser("house", parents=[common], help="Parse House results (year range)")
+    sub.add_parser("house", parents=[common], help="Parse House results (year range)")
+
+    # identical off-year flag for the two special-election pipelines
+    off_year_flag = dict(
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Include the odd (off-year) cycles in the range — the special-"
+             "election cycles (default: on; disable with "
+             "--no-include-off-years)",
+    )
+    sub.choices["senate"].add_argument("--include-off-years", **off_year_flag)
+    sub.choices["house"].add_argument("--include-off-years", **off_year_flag)
 
     sub.add_parser(
         "state-leg", parents=[common],
         help="Parse state legislature results (year range)",
     )
 
-    sub.add_parser(
+    statewide = sub.add_parser(
         "statewide", parents=[common],
         help="Parse statewide executive results (year range)",
+    )
+    statewide.add_argument(
+        "--include-off-years", action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Include the odd (off-year) cycles in the range — NJ/VA "
+             "gubernatorial elections, the KY/LA/MS statewide slate and "
+             "occasional special elections (default: on; disable with "
+             "--no-include-off-years). Per-race primary and general results "
+             "(with vote counts) are parsed for every processed cycle from "
+             "the per-state race articles.",
     )
 
     sub.add_parser(
@@ -173,7 +213,14 @@ def build_parser() -> argparse.ArgumentParser:
         help="Logging verbosity (default: INFO)",
     )
 
-    sub.add_parser("all", parents=[common], help="Run all six pipelines")
+    all_cmd = sub.add_parser("all", parents=[common], help="Run all six pipelines")
+    all_cmd.add_argument(
+        "--include-off-years", action=argparse.BooleanOptionalAction,
+        default=True,
+        help="For the statewide/senate/house pipelines: include the odd "
+             "(off-year) special-election cycles in the range (default: on; "
+             "disable with --no-include-off-years)",
+    )
 
     qc = sub.add_parser(
         "polling-check", parents=[common],
@@ -268,7 +315,12 @@ def main(argv: Optional[List[str]] = None) -> int:
         "Rate limiting: >= %.1fs between requests, batches of %d titles",
         client._limiter.min_interval, client.batch_size,
     )
-    logger.info("Year range  : %d-%d (even years)", args.start_year, args.end_year)
+    if args.command in ("senate", "house", "statewide", "all"):
+        off_note = ("incl. off-years" if getattr(args, "include_off_years", True)
+                    else "even years only")
+        logger.info("Year range  : %d-%d (%s)", args.start_year, args.end_year, off_note)
+    else:
+        logger.info("Year range  : %d-%d", args.start_year, args.end_year)
 
     if args.command == "fetch":
         text = client.fetch_single(args.title)
@@ -284,6 +336,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             end_year=args.end_year,
             output_dir=args.output,
             client=client,
+            include_off_years=getattr(args, "include_off_years", True),
         )
 
     if args.command in ("house", "all"):
@@ -292,6 +345,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             end_year=args.end_year,
             out_dir=args.output,
             client=client,
+            include_off_years=getattr(args, "include_off_years", True),
         )
 
     if args.command in ("state-leg", "all"):
@@ -308,6 +362,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             end_year=args.end_year,
             output_dir=args.output,
             client=client,
+            include_off_years=getattr(args, "include_off_years", True),
         )
 
     if args.command in ("presidential", "all"):

@@ -3,11 +3,18 @@ senate_elections.py — Parse U.S. Senate election data (polling + results) for 
 range of election cycles, from Wikipedia wikitext fetched via the MediaWiki
 Action API.
 
-For every even year in [start_year, end_year] the cycle's overview article
+For every election year in [start_year, end_year] the cycle's overview article
 (``{year} United States Senate elections``) is fetched and its ``{{main|...}}``
 links are followed to discover every race article — regular *and* special
-elections — so no state list is hardcoded. Wikitext is then retrieved in
-rate-limited batches of <= 50 titles (see wiki_utils).
+elections — so no state list is hardcoded.  Even (federal) cycles and odd
+(off-year) cycles are both processed by default; odd years are exactly where
+the special elections live (NJ/MA 2013, AL 2017, ...).  Odd-year overview
+articles exist for every cycle with a special election and link the races
+via the same ``{{main|<year> United States Senate special election in
+<State>}}`` pattern.  Pass ``include_off_years=False`` (CLI:
+``--no-include-off-years``) to process even (federal) years only.
+Wikitext is retrieved in rate-limited batches of <= 50 titles
+(see wiki_utils).
 
 Outputs (written under *output_dir*, default ``data/senate/``; all carry a
 Year column):
@@ -47,6 +54,21 @@ from wiki_utils import (
 )
 
 logger = logging.getLogger(__name__)
+
+
+def _odd_years(start_year: int, end_year: int) -> List[int]:
+    """
+    Odd (off-year) years within ``[start_year, end_year]``, inclusive.
+
+    Defined locally — deliberately not imported from ``wiki_utils`` — so this
+    module stays compatible with stock wiki_utils versions that only ship
+    ``even_years``.  ``_odd_years(2013, 2018)`` → ``[2013, 2015, 2017]``.
+    Returns an empty list when the range contains no odd year.
+    """
+    start = start_year if start_year % 2 == 1 else start_year + 1
+    end = end_year if end_year % 2 == 1 else end_year - 1
+    return list(range(start, end + 1, 2)) if start <= end else []
+
 
 # ──────────────────────────────────────────────
 # RACE DISCOVERY (from cycle overview articles)
@@ -1067,17 +1089,26 @@ def process_senate_cycles(
     start_year: int,
     end_year: int,
     client: Optional[WikiAPIClient] = None,
+    include_off_years: bool = True,
 ) -> Dict:
     """
-    Discover and parse every Senate race for the even years in
+    Discover and parse every Senate race for the election years in
     ``[start_year, end_year]``.
 
-    Race titles come from each cycle's overview article (regular *and*
-    special elections); all race articles are then fetched in rate-limited
-    batches and parsed.  Returns per-year and combined DataFrames plus
-    metadata.
+    Even (federal) years are always processed; the odd (off-year) cycles in
+    the range are included by default — they hold the special elections
+    (NJ/MA 2013, AL 2017, ...) — pass ``include_off_years=False`` to
+    restrict the run to even years.  Race titles come from each cycle's
+    overview article (regular *and* special elections); all race articles
+    are then fetched in rate-limited batches and parsed.  Returns per-year
+    and combined DataFrames plus metadata.
     """
     years = even_years(start_year, end_year)
+    if include_off_years:
+        off = _odd_years(start_year, end_year)
+        if off:
+            logger.info("Including off-year (odd) special cycles: %s", off)
+        years = sorted(set(years) | set(off))
     meta: Dict = {
         "start_year": start_year,
         "end_year": end_year,
@@ -1114,7 +1145,7 @@ def process_senate_cycles(
         }
 
     if not years:
-        logger.warning("No even years in [%d, %d] — nothing to do.", start_year, end_year)
+        logger.warning("No election years in [%d, %d] — nothing to do.", start_year, end_year)
         return _assemble()
 
     # ── STEP 1: discover race titles from overview articles ────────
@@ -1302,16 +1333,23 @@ def run(
     output_dir: str = "data",
     client: Optional[WikiAPIClient] = None,
     run_qc: bool = True,
+    include_off_years: bool = True,
 ) -> Dict:
     """
     CLI entry point: process Senate cycles from *start_year* to *end_year*.
+
+    Even (federal) years are always processed, and the odd (off-year)
+    special-election cycles in the range are included by default — pass
+    ``include_off_years=False`` to restrict the run to even years.
 
     When *run_qc* is set (default), a polling quality check — file sizes,
     row coverage, value sanity — runs over the written polling CSVs and a
     ``polling_qc_report.json`` is saved next to them.
     """
     logger.info("U.S. Senate cycles %d–%d", start_year, end_year)
-    results = process_senate_cycles(start_year, end_year, client=client)
+    results = process_senate_cycles(
+        start_year, end_year, client=client, include_off_years=include_off_years
+    )
     save_results(results, output_dir)
     meta = results["metadata"]
     logger.info(
