@@ -1,0 +1,7 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2001,New Jersey,NJ,governor,Democratic Primary results,Winning,Jim McGreevey,Democratic,250404,95.54,True,False
+2001,New Jersey,NJ,governor,Democratic Primary results,Candidate,Elliot Greenspan,Democratic,11682,4.46,False,False
+2001,New Jersey,NJ,governor,Democratic Primary results,Total,,,262086,100.0,False,False
+2001,New Jersey,NJ,governor,Republican Primary results,Winning,Bret Schundler,Republican,193342,57.38,True,False
+2001,New Jersey,NJ,governor,Republican Primary results,Candidate,Bob Franks,Republican,143606,42.62,False,False
+2001,New Jersey,NJ,governor,Republican Primary results,Total,,,336948,100.0,False,False

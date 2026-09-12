@@ -1,0 +1,487 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Winning,Steve Marshall,Republican,955425,67.9,True,True
+2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Candidate,Wendell Major,Democratic,450543,32.02,False,False
+2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Write-in,,,1220,0.09,False,False
+2022,Alabama,AL,attorney general,2022 Alabama Attorney General election,Total,,,1407188,100.0,False,False
+2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Winning,Wes Allen,Republican,925267,65.88,True,False
+2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Candidate,Pamela Laffitte,Democratic,436862,31.11,False,False
+2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Candidate,"Jason ""Matt"" Shelby",Libertarian,41611,2.96,False,False
+2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Write-in,,,663,0.05,False,False
+2022,Alabama,AL,secretary of state,2022 Alabama Secretary of State election,Total,,,1404403,100.0,False,False
+2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Candidate,Young Boozer,Republican,946936,83.74,False,True
+2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Candidate,Scott Hammond,Libertarian,175034,15.48,False,False
+2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Write-in,,,8855,0.78,False,False
+2022,Alabama,AL,state treasurer,2022 Alabama State Treasurer election,Total,,,1130825,100.0,False,False
+2022,Alabama,AL,governor,2022 Alabama gubernatorial election,Winning,Kay Ivey,Republican,946932,66.91,True,True
+2022,Alabama,AL,governor,2022 Alabama gubernatorial election,Candidate,Yolanda Rochelle Flowers,Democratic,412961,29.18,False,False
+2022,Alabama,AL,governor,2022 Alabama gubernatorial election,Candidate,"James D. ""Jimmy"" Blake",Libertarian,45958,3.25,False,False
+2022,Alabama,AL,governor,2022 Alabama gubernatorial election,Write-in,,,9432,0.67,False,False
+2022,Alabama,AL,governor,2022 Alabama gubernatorial election,Total,,,1415283,100.0,False,False
+2022,Alaska,AK,governor,2022 Alaska gubernatorial election,Winning,Mike Dunleavy,Republican,132632,50.29,True,True
+2022,Alaska,AK,governor,2022 Alaska gubernatorial election,Candidate,Les Gara,Democratic,63851,24.21,False,False
+2022,Alaska,AK,governor,2022 Alaska gubernatorial election,Candidate,Bill Walker,Independent,54668,20.73,False,False
+2022,Alaska,AK,governor,2022 Alaska gubernatorial election,Candidate,Charlie Pierce,Republican,11817,4.48,False,False
+2022,Alaska,AK,governor,2022 Alaska gubernatorial election,Write-in,,,784,0.3,False,False
+2022,Alaska,AK,governor,2022 Alaska gubernatorial election,Total,,,263752,100.0,False,False
+2022,Arizona,AZ,attorney general,2022 Arizona Attorney General election,Candidate,Kris Mayes,Democratic,1254613,50.0,False,False
+2022,Arizona,AZ,attorney general,2022 Arizona Attorney General election,Candidate,Abraham Hamadeh,Republican,1254102,49.98,False,False
+2022,Arizona,AZ,attorney general,2022 Arizona Attorney General election,Candidate,Samantha Severson (write-in),Libertarian,418,0.02,False,False
+2022,Arizona,AZ,attorney general,2022 Arizona Attorney General election,Total,,,2509133,100.0,False,False
+2022,Arizona,AZ,attorney general,2022 Arizona Attorney General election,Winning,Kris Mayes,Democratic,1254809,49.94,True,False
+2022,Arizona,AZ,attorney general,2022 Arizona Attorney General election,Write-in,,,3052,0.12,False,False
+2022,Arizona,AZ,secretary of state,2022 Arizona Secretary of State election,Winning,Adrian Fontes,Democratic,1320619,52.38,True,False
+2022,Arizona,AZ,secretary of state,2022 Arizona Secretary of State election,Candidate,Mark Finchem,Republican,1200411,47.62,False,False
+2022,Arizona,AZ,secretary of state,2022 Arizona Secretary of State election,Total,,,2521030,100.0,False,False
+2022,Arizona,AZ,state treasurer,2022 Arizona State Treasurer election,Winning,Kimberly Yee,Republican,1390135,55.67,True,True
+2022,Arizona,AZ,state treasurer,2022 Arizona State Treasurer election,Candidate,Martín Quezada,Democratic,1107037,44.33,False,False
+2022,Arizona,AZ,state treasurer,2022 Arizona State Treasurer election,Total,,,2497172,100.0,False,False
+2022,Arizona,AZ,governor,2022 Arizona gubernatorial election,Winning,Katie Hobbs,Democratic,1287891,50.32,True,False
+2022,Arizona,AZ,governor,2022 Arizona gubernatorial election,Candidate,Kari Lake,Republican,1270774,49.65,False,False
+2022,Arizona,AZ,governor,2022 Arizona gubernatorial election,Write-in,,,820,0.03,False,False
+2022,Arizona,AZ,governor,2022 Arizona gubernatorial election,Total,,,2559485,100.0,False,False
+2022,Arkansas,AR,attorney general,2022 Arkansas Attorney General election,Winning,Tim Griffin,Republican,605785,67.61,True,False
+2022,Arkansas,AR,attorney general,2022 Arkansas Attorney General election,Candidate,Jesse Gibson,Democratic,290183,32.39,False,False
+2022,Arkansas,AR,attorney general,2022 Arkansas Attorney General election,Total,,,895968,100.0,False,False
+2022,Arkansas,AR,secretary of state,2022 Arkansas secretary of state election,Winning,John Thurston,Republican,600194,67.05,True,True
+2022,Arkansas,AR,secretary of state,2022 Arkansas secretary of state election,Candidate,Anna Beth Gorman,Democratic,294970,32.95,False,False
+2022,Arkansas,AR,secretary of state,2022 Arkansas secretary of state election,Total,,,895164,100.0,False,False
+2022,Arkansas,AR,state treasurer,2022 Arkansas state treasurer election,Winning,Mark Lowery,Republican,592634,66.27,True,False
+2022,Arkansas,AR,state treasurer,2022 Arkansas state treasurer election,Candidate,Pam Whitaker,Democratic,301600,33.73,False,False
+2022,Arkansas,AR,state treasurer,2022 Arkansas state treasurer election,Total,,,894234,100.0,False,False
+2022,Arkansas,AR,governor,2022 Arkansas gubernatorial election,Winning,Sarah Huckabee Sanders,Republican,571105,62.96,True,False
+2022,Arkansas,AR,governor,2022 Arkansas gubernatorial election,Candidate,Chris Jones,Democratic,319242,35.2,False,False
+2022,Arkansas,AR,governor,2022 Arkansas gubernatorial election,Candidate,Ricky Dale Harrington Jr.,Libertarian,16690,1.84,False,False
+2022,Arkansas,AR,governor,2022 Arkansas gubernatorial election,Total,,,907037,100.0,False,False
+2022,California,CA,attorney general,2022 California Attorney General election,Winning,Rob Bonta,Democratic,6339441,59.08,True,True
+2022,California,CA,attorney general,2022 California Attorney General election,Candidate,Nathan Hochman,Republican,4390428,40.92,False,False
+2022,California,CA,attorney general,2022 California Attorney General election,Total,,,10729869,100.0,False,False
+2022,California,CA,secretary of state,2022 California Secretary of State election,Winning,Shirley Weber,Democratic,6462164,60.05,True,True
+2022,California,CA,secretary of state,2022 California Secretary of State election,Candidate,Rob Bernosky,Republican,4298530,39.95,False,False
+2022,California,CA,secretary of state,2022 California Secretary of State election,Total,,,10760694,100.0,False,False
+2022,California,CA,state treasurer,2022 California State Treasurer election,Winning,Fiona Ma,Democratic,6287076,58.8,True,True
+2022,California,CA,state treasurer,2022 California State Treasurer election,Candidate,Jack M. Guerrero,Republican,4405781,41.2,False,False
+2022,California,CA,state treasurer,2022 California State Treasurer election,Total,,,10692857,100.0,False,False
+2022,California,CA,governor,2022 California gubernatorial election,Winning,Gavin Newsom,Democratic,6470104,59.18,True,True
+2022,California,CA,governor,2022 California gubernatorial election,Candidate,Brian Dahle,Republican,4462914,40.82,False,False
+2022,California,CA,governor,2022 California gubernatorial election,Total,,,10933018,100.0,False,False
+2022,Colorado,CO,attorney general,2022 Colorado Attorney General election,Winning,Phil Weiser,Democratic,1349133,54.74,True,True
+2022,Colorado,CO,attorney general,2022 Colorado Attorney General election,Candidate,John Kellner,Republican,1060866,43.04,False,False
+2022,Colorado,CO,attorney general,2022 Colorado Attorney General election,Candidate,William F. Robinson III,Libertarian,54557,2.21,False,False
+2022,Colorado,CO,attorney general,2022 Colorado Attorney General election,Total,,,2464556,100.0,False,False
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Winning,Jena Griswold,Democratic,1369040,55.1,True,True
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Candidate,Pam Anderson,Republican,1045582,42.08,False,False
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Candidate,Bennett Rutledge,Libertarian,36485,1.47,False,False
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Candidate,Amanda Campbell,American Constitution Party (colorado),17602,0.71,False,False
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Candidate,Gary Swing,Unity,11458,0.46,False,False
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Candidate,Jan Kok,Voting,4591,0.18,False,False
+2022,Colorado,CO,secretary of state,2022 Colorado Secretary of State election,Total,,,2484758,100.0,False,False
+2022,Colorado,CO,state treasurer,2022 Colorado State Treasurer election,Winning,Dave Young,Democratic,1312705,53.67,True,True
+2022,Colorado,CO,state treasurer,2022 Colorado State Treasurer election,Candidate,Lang Sias,Republican,1052337,43.03,False,False
+2022,Colorado,CO,state treasurer,2022 Colorado State Treasurer election,Candidate,Anthony J. Delgado,Libertarian,80770,3.3,False,False
+2022,Colorado,CO,state treasurer,2022 Colorado State Treasurer election,Total,,,2445812,100.0,False,False
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Winning,Jared Polis,Democratic,1468481,58.53,True,True
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Candidate,Heidi Ganahl,Republican,983040,39.18,False,False
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Candidate,Kevin Ruskusky,Libertarian,28939,1.15,False,False
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Candidate,Danielle Neuschwanger,American Constitution Party (colorado),21623,0.86,False,False
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Candidate,Paul Noël Fiorino,Unity,6687,0.27,False,False
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Write-in,,,60,0.0,False,False
+2022,Colorado,CO,governor,2022 Colorado gubernatorial election,Total,,,2540680,100.0,False,False
+2022,Connecticut,CT,attorney general,2022 Connecticut Attorney General election,Winning,William Tong,Democratic,713894,57.07,True,True
+2022,Connecticut,CT,attorney general,2022 Connecticut Attorney General election,Candidate,Jessica Kordas,Republican,518128,41.42,False,False
+2022,Connecticut,CT,attorney general,2022 Connecticut Attorney General election,Candidate,A.P. Pascarella,Independent,11788,0.94,False,False
+2022,Connecticut,CT,attorney general,2022 Connecticut Attorney General election,Candidate,Ken Krayeske,Green,7103,0.57,False,False
+2022,Connecticut,CT,attorney general,2022 Connecticut Attorney General election,Total,,,1250913,100.0,False,False
+2022,Connecticut,CT,state treasurer,2022 Connecticut State Treasurer election,Winning,Erick Russell,Total,652031,52.39,True,False
+2022,Connecticut,CT,state treasurer,2022 Connecticut State Treasurer election,Candidate,Erick Russell,Democratic,631819,50.77,False,False
+2022,Connecticut,CT,state treasurer,2022 Connecticut State Treasurer election,Candidate,Harry Arora,Republican,559123,44.93,False,False
+2022,Connecticut,CT,state treasurer,2022 Connecticut State Treasurer election,Candidate,Jennifer Baldwin,Independent,24709,1.99,False,False
+2022,Connecticut,CT,state treasurer,2022 Connecticut State Treasurer election,Candidate,JoAnna Laiscell,Libertarian,8564,0.69,False,False
+2022,Connecticut,CT,state treasurer,2022 Connecticut State Treasurer election,Total,,,1244427,100.0,False,False
+2022,Connecticut,CT,governor,2022 Connecticut gubernatorial election,Winning,Ned Lamont,Total,710186,55.97,True,True
+2022,Connecticut,CT,governor,2022 Connecticut gubernatorial election,Candidate,Ned Lamont,Democratic,691146,54.47,False,False
+2022,Connecticut,CT,governor,2022 Connecticut gubernatorial election,Candidate,Bob Stefanowski,Republican,546209,43.05,False,False
+2022,Connecticut,CT,governor,2022 Connecticut gubernatorial election,Candidate,Robert Hotaling,Independent,12400,0.98,False,False
+2022,Connecticut,CT,governor,2022 Connecticut gubernatorial election,Candidate,Michelle Louise Bicking (write-in),Green,98,0.0,False,False
+2022,Connecticut,CT,governor,2022 Connecticut gubernatorial election,Total,,,1268893,100.0,False,False
+2022,Delaware,DE,attorney general,2022 Delaware Attorney General election,Winning,Kathleen Jennings,Democratic,171837,53.83,True,True
+2022,Delaware,DE,attorney general,2022 Delaware Attorney General election,Candidate,Julianne E. Murray,Republican,147369,46.17,False,False
+2022,Delaware,DE,attorney general,2022 Delaware Attorney General election,Total,,,319206,100.0,False,False
+2022,Delaware,DE,state treasurer,2022 Delaware State Treasurer election,Winning,Colleen Davis,Democratic,170438,53.64,True,True
+2022,Delaware,DE,state treasurer,2022 Delaware State Treasurer election,Candidate,Greg Coverdale,Republican,147307,46.36,False,False
+2022,Delaware,DE,state treasurer,2022 Delaware State Treasurer election,Total,,,317745,100.0,False,False
+2022,Florida,FL,attorney general,2022 Florida attorney general election,Winning,Ashley Moody,Republican,4651279,60.59,True,True
+2022,Florida,FL,attorney general,2022 Florida attorney general election,Candidate,Aramis Ayala,Democratic,3025943,39.41,False,False
+2022,Florida,FL,attorney general,2022 Florida attorney general election,Total,,,7677222,100.0,False,False
+2022,Florida,FL,governor,2022 Florida gubernatorial election,Winning,Ron DeSantis (incumbent) Jeanette Nuñez,Republican,4614210,59.37,True,True
+2022,Florida,FL,governor,2022 Florida gubernatorial election,Candidate,Charlie Crist Karla Hernandez,Democratic,3106313,39.97,False,False
+2022,Florida,FL,governor,2022 Florida gubernatorial election,Candidate,"Carmen Jackie Gimenez Kyle ""KC"" Gibson",Independent,31577,0.41,False,False
+2022,Florida,FL,governor,2022 Florida gubernatorial election,Candidate,"Hector Roos Jerry ""Tub"" Rorabaugh",Libertarian,19299,0.25,False,False
+2022,Florida,FL,governor,2022 Florida gubernatorial election,Total,,,7771399,100.0,False,False
+2022,Georgia,GA,attorney general,2022 Georgia Attorney General election,Winning,Chris Carr,Republican,2032500,51.86,True,True
+2022,Georgia,GA,attorney general,2022 Georgia Attorney General election,Candidate,Jen Jordan,Democratic,1826437,46.6,False,False
+2022,Georgia,GA,attorney general,2022 Georgia Attorney General election,Candidate,Martin Cowen,Libertarian,60107,1.53,False,False
+2022,Georgia,GA,attorney general,2022 Georgia Attorney General election,Total,,,3919044,100.0,False,False
+2022,Georgia,GA,secretary of state,2022 Georgia Secretary of State election,Winning,Brad Raffensperger,Republican,2081241,53.23,True,True
+2022,Georgia,GA,secretary of state,2022 Georgia Secretary of State election,Candidate,Bee Nguyen,Democratic,1719922,43.99,False,False
+2022,Georgia,GA,secretary of state,2022 Georgia Secretary of State election,Candidate,Ted Metz,Libertarian,108884,2.78,False,False
+2022,Georgia,GA,secretary of state,2022 Georgia Secretary of State election,Total,,,3910047,100.0,False,False
+2022,Georgia,GA,governor,2022 Georgia gubernatorial election,Winning,Brian Kemp,Republican,2111572,53.41,True,True
+2022,Georgia,GA,governor,2022 Georgia gubernatorial election,Candidate,Stacey Abrams,Democratic,1813673,45.88,False,False
+2022,Georgia,GA,governor,2022 Georgia gubernatorial election,Candidate,Shane T. Hazel,Libertarian,28163,0.71,False,False
+2022,Georgia,GA,governor,2022 Georgia gubernatorial election,Total,,,3953408,100.0,False,False
+2022,Guamanian,GU,governor,2022 Guam gubernatorial election,Winning,Lou Leon Guerrero,Democratic,18623,55.49,True,True
+2022,Guamanian,GU,governor,2022 Guam gubernatorial election,Candidate,Felix Camacho,Republican,14786,44.06,False,False
+2022,Guamanian,GU,governor,2022 Guam gubernatorial election,Write-in,,,152,0.45,False,False
+2022,Guamanian,GU,governor,2022 Guam gubernatorial election,Total,,,33561,100.0,False,False
+2022,Hawaii,HI,governor,2022 Hawaii gubernatorial election,Winning,Josh Green,Democratic,261025,63.16,True,False
+2022,Hawaii,HI,governor,2022 Hawaii gubernatorial election,Candidate,Duke Aiona,Republican,152237,36.84,False,False
+2022,Hawaii,HI,governor,2022 Hawaii gubernatorial election,Total,,,413262,100.0,False,False
+2022,Idaho,ID,attorney general,"Idaho Attorney General election, 2022",Winning,Raúl Labrador,Republican,367579,62.6,True,False
+2022,Idaho,ID,attorney general,"Idaho Attorney General election, 2022",Candidate,Tom Arkoosh,Democratic,219405,37.4,False,False
+2022,Idaho,ID,attorney general,"Idaho Attorney General election, 2022",Total,,,586984,100.0,False,False
+2022,Idaho,ID,state treasurer,2022 Idaho State Treasurer election,Winning,Julie Ellsworth,Republican,412502,71.11,True,True
+2022,Idaho,ID,state treasurer,2022 Idaho State Treasurer election,Candidate,Deborah Silver,Democratic,167596,28.89,False,False
+2022,Idaho,ID,state treasurer,2022 Idaho State Treasurer election,Total,,,580098,100.0,False,False
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Winning,Brad Little,Republican,358598,60.51,True,True
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Candidate,Stephen Heidt,Democratic,120160,20.28,False,False
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Candidate,Ammon Bundy,Independent,101835,17.18,False,False
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Candidate,Paul Sand,Libertarian,6714,1.13,False,False
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Candidate,Chantyrose Davison,Constitution,5250,0.89,False,False
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Candidate,Lisa Marie (write-in),Independent,46,0.01,False,False
+2022,Idaho,ID,governor,2022 Idaho gubernatorial election,Total,,,592603,100.0,False,False
+2022,Illinois,IL,attorney general,2022 Illinois Attorney General election,Winning,Kwame Raoul,Democratic,2219420,54.35,True,True
+2022,Illinois,IL,attorney general,2022 Illinois Attorney General election,Candidate,Thomas G. DeVore,Republican,1774468,43.45,False,False
+2022,Illinois,IL,attorney general,2022 Illinois Attorney General election,Candidate,Daniel K. Robin,Libertarian,89664,2.2,False,False
+2022,Illinois,IL,attorney general,2022 Illinois Attorney General election,Total,,,4083552,100.0,False,False
+2022,Illinois,IL,secretary of state,2022 Illinois Secretary of State election,Winning,Alexi Giannoulias,Democratic,2220713,54.28,True,False
+2022,Illinois,IL,secretary of state,2022 Illinois Secretary of State election,Candidate,Dan Brady,Republican,1783070,43.59,False,False
+2022,Illinois,IL,secretary of state,2022 Illinois Secretary of State election,Candidate,Jon Stewart,Libertarian,87092,2.13,False,False
+2022,Illinois,IL,secretary of state,2022 Illinois Secretary of State election,Write-in,,,73,0.0,False,False
+2022,Illinois,IL,secretary of state,2022 Illinois Secretary of State election,Total,,,4090948,100.0,False,False
+2022,Illinois,IL,state treasurer,2022 Illinois State Treasurer election,Winning,Mike Frerichs,Democratic,2206434,54.29,True,True
+2022,Illinois,IL,state treasurer,2022 Illinois State Treasurer election,Candidate,Tom Demmer,Republican,1767242,43.48,False,False
+2022,Illinois,IL,state treasurer,2022 Illinois State Treasurer election,Candidate,Preston Nelson,Libertarian,90647,2.23,False,False
+2022,Illinois,IL,state treasurer,2022 Illinois State Treasurer election,Write-in,,,38,0.0,False,False
+2022,Illinois,IL,state treasurer,2022 Illinois State Treasurer election,Total,,,4064361,100.0,False,False
+2022,Illinois,IL,governor,2022 Illinois gubernatorial election,Winning,JB Pritzker,Democratic,2253748,54.91,True,True
+2022,Illinois,IL,governor,2022 Illinois gubernatorial election,Candidate,Darren Bailey,Republican,1739095,42.37,False,False
+2022,Illinois,IL,governor,2022 Illinois gubernatorial election,Candidate,Scott Schluter,Libertarian,111712,2.72,False,False
+2022,Illinois,IL,governor,2022 Illinois gubernatorial election,Write-in,,,81,0.0,False,False
+2022,Illinois,IL,governor,2022 Illinois gubernatorial election,Total,,,4104636,100.0,False,False
+2022,Indiana,IN,secretary of state,2022 Indiana Secretary of State election,Winning,Diego Morales,Republican,999893,54.13,True,False
+2022,Indiana,IN,secretary of state,2022 Indiana Secretary of State election,Candidate,Destiny Wells,Democratic,742624,40.21,False,False
+2022,Indiana,IN,secretary of state,2022 Indiana Secretary of State election,Candidate,Jeff Maurer,Libertarian,104519,5.66,False,False
+2022,Indiana,IN,secretary of state,2022 Indiana Secretary of State election,Candidate,David Wetterer (write-in),Green,107,0.0,False,False
+2022,Indiana,IN,secretary of state,2022 Indiana Secretary of State election,Candidate,Andrew Straw (write-in),Disability,36,0.0,False,False
+2022,Indiana,IN,secretary of state,2022 Indiana Secretary of State election,Total,,,1847179,100.0,False,False
+2022,Indiana,IN,state treasurer,2022 Indiana State Treasurer election,Winning,Daniel Elliott,Republican,1121158,60.87,True,False
+2022,Indiana,IN,state treasurer,2022 Indiana State Treasurer election,Candidate,Jessica McClellan,Democratic,720778,39.13,False,False
+2022,Indiana,IN,state treasurer,2022 Indiana State Treasurer election,Total,,,1841936,100.0,False,False
+2022,Iowa,IA,attorney general,2022 Iowa Attorney General election,Winning,Brenna Bird,Republican,611432,50.82,True,False
+2022,Iowa,IA,attorney general,2022 Iowa Attorney General election,Candidate,Tom Miller,Democratic,590890,49.11,False,True
+2022,Iowa,IA,attorney general,2022 Iowa Attorney General election,Write-in,,,801,0.07,False,False
+2022,Iowa,IA,attorney general,2022 Iowa Attorney General election,Total,,,1202322,100.0,False,False
+2022,Iowa,IA,secretary of state,2022 Iowa Secretary of State election,Winning,Paul D. Pate,Republican,723250,60.05,True,True
+2022,Iowa,IA,secretary of state,2022 Iowa Secretary of State election,Candidate,Joel Miller,Democratic,480474,39.88,False,False
+2022,Iowa,IA,secretary of state,2022 Iowa Secretary of State election,Write-in,,,708,0.06,False,False
+2022,Iowa,IA,secretary of state,2022 Iowa Secretary of State election,Total,,,1204432,100.0,False,False
+2022,Iowa,IA,state treasurer,2022 Iowa State Treasurer election,Winning,Roby Smith,Republican,614943,51.26,True,False
+2022,Iowa,IA,state treasurer,2022 Iowa State Treasurer election,Candidate,Michael Fitzgerald,Democratic,584021,48.68,False,True
+2022,Iowa,IA,state treasurer,2022 Iowa State Treasurer election,Write-in,,,667,0.06,False,False
+2022,Iowa,IA,state treasurer,2022 Iowa State Treasurer election,Total,,,1199631,100.0,False,False
+2022,Iowa,IA,governor,2022 Iowa gubernatorial election,Winning,Kim Reynolds,Republican,709198,58.04,True,True
+2022,Iowa,IA,governor,2022 Iowa gubernatorial election,Candidate,Deidre DeJear,Democratic,482950,39.53,False,False
+2022,Iowa,IA,governor,2022 Iowa gubernatorial election,Candidate,Rick Stewart,Libertarian,28998,2.37,False,False
+2022,Iowa,IA,governor,2022 Iowa gubernatorial election,Write-in,,,718,0.06,False,False
+2022,Iowa,IA,governor,2022 Iowa gubernatorial election,Total,,,1221864,100.0,False,False
+2022,Kansas,KS,attorney general,2022 Kansas Attorney General election,Winning,Kris Kobach,Republican,506817,50.8,True,False
+2022,Kansas,KS,attorney general,2022 Kansas Attorney General election,Candidate,Chris Mann,Democratic,490925,49.2,False,False
+2022,Kansas,KS,attorney general,2022 Kansas Attorney General election,Total,,,997742,100.0,False,False
+2022,Kansas,KS,secretary of state,2022 Kansas Secretary of State election,Winning,Scott Schwab,Republican,580908,58.36,True,True
+2022,Kansas,KS,secretary of state,2022 Kansas Secretary of State election,Candidate,Jeanna Repass,Democratic,386661,38.84,False,False
+2022,Kansas,KS,secretary of state,2022 Kansas Secretary of State election,Candidate,Cullene Lang,Libertarian,27844,2.8,False,False
+2022,Kansas,KS,secretary of state,2022 Kansas Secretary of State election,Total,,,995413,100.0,False,False
+2022,Kansas,KS,state treasurer,2022 Kansas State Treasurer election,Winning,Steven Johnson,Republican,537488,54.03,True,False
+2022,Kansas,KS,state treasurer,2022 Kansas State Treasurer election,Candidate,Lynn Rogers,Democratic,411813,41.39,False,True
+2022,Kansas,KS,state treasurer,2022 Kansas State Treasurer election,Candidate,Steve Roberts,Libertarian,45540,4.58,False,False
+2022,Kansas,KS,state treasurer,2022 Kansas State Treasurer election,Total,,,994841,100.0,False,False
+2022,Kansas,KS,governor,2022 Kansas gubernatorial election,Winning,Laura Kelly,Democratic,499849,49.54,True,True
+2022,Kansas,KS,governor,2022 Kansas gubernatorial election,Candidate,Derek Schmidt,Republican,477591,47.33,False,False
+2022,Kansas,KS,governor,2022 Kansas gubernatorial election,Candidate,Dennis Pyle,Independent,20452,2.03,False,False
+2022,Kansas,KS,governor,2022 Kansas gubernatorial election,Candidate,Seth Cordell,Libertarian,11106,1.1,False,False
+2022,Kansas,KS,governor,2022 Kansas gubernatorial election,Total,,,1008998,100.0,False,False
+2022,Maine,ME,governor,2022 Maine gubernatorial election,Winning,Janet Mills,Democratic,376934,55.69,True,True
+2022,Maine,ME,governor,2022 Maine gubernatorial election,Candidate,Paul LePage,Republican,287304,42.45,False,False
+2022,Maine,ME,governor,2022 Maine gubernatorial election,Candidate,Sam Hunkler,Independent,12581,1.86,False,False
+2022,Maine,ME,governor,2022 Maine gubernatorial election,Total,,,676819,100.0,False,False
+2022,Maryland,MD,attorney general,2022 Maryland Attorney General election,Winning,Anthony Brown,Democratic,1287418,64.95,True,False
+2022,Maryland,MD,attorney general,2022 Maryland Attorney General election,Candidate,Michael Peroutka,Republican,691910,34.9,False,False
+2022,Maryland,MD,attorney general,2022 Maryland Attorney General election,Write-in,,,2962,0.15,False,False
+2022,Maryland,MD,attorney general,2022 Maryland Attorney General election,Total,,,1982290,100.0,False,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Winning,Wes Moore,Democratic,1293944,64.53,True,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Candidate,Dan Cox,Republican,644000,32.12,False,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Candidate,David Lashar,Libertarian,30101,1.5,False,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Candidate,David Harding,Class,17154,0.86,False,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Candidate,Nancy Wallace,Green,14580,0.73,False,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Write-in,,,5444,0.27,False,False
+2022,Maryland,MD,governor,2022 Maryland gubernatorial election,Total,,,2005223,100.0,False,False
+2022,Massachusetts,MA,attorney general,2022 Massachusetts Attorney General election,Winning,Andrea Campbell,Democratic,1539624,62.85,True,False
+2022,Massachusetts,MA,attorney general,2022 Massachusetts Attorney General election,Candidate,"James R. McMahon, III",Republican,908608,37.09,False,False
+2022,Massachusetts,MA,attorney general,2022 Massachusetts Attorney General election,Write-in,,,1550,0.06,False,False
+2022,Massachusetts,MA,attorney general,2022 Massachusetts Attorney General election,Total,,,2449782,100.0,False,False
+2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Winning,Maura Healey,Democratic,1584403,63.74,True,False
+2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Candidate,Geoff Diehl,Republican,859343,34.57,False,False
+2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Candidate,Kevin Reed,Libertarian,39244,1.58,False,False
+2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Write-in,,,2806,0.11,False,False
+2022,Massachusetts,MA,governor,2022 Massachusetts gubernatorial election,Total,,,2485796,100.0,False,False
+2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Winning,Dana Nessel,Democratic,2329195,53.16,True,True
+2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Candidate,Matthew DePerno,Republican,1952408,44.56,False,False
+2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Candidate,Joseph W. McHugh Jr.,Libertarian,67846,1.55,False,False
+2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Candidate,Gerald T. Van Sickle,Constitution,32431,0.74,False,False
+2022,Michigan,MI,attorney general,2022 Michigan Attorney General election,Total,,,4381880,100.0,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Winning,Jocelyn Benson,Democratic,2467859,55.86,True,True
+2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Kristina Karamo,Republican,1852510,41.93,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Gregory Scott Stempfle,Libertarian,52982,1.2,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Christine Schwartz,Constitution,27937,0.63,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Candidate,Larry James Hutchinson Jr.,Green,16615,0.38,False,False
+2022,Michigan,MI,secretary of state,2022 Michigan Secretary of State election,Total,,,4417903,100.0,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Winning,Gretchen Whitmer,Democratic,2430505,54.47,True,True
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Tudor Dixon,Republican,1960635,43.94,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Mary Buzuma,Libertarian,38800,0.87,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Donna Brandenburg,Constitution,16246,0.36,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Kevin Hogan,Green,10766,0.24,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Candidate,Daryl M. Simpson,Law,4973,0.11,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Write-in,,,47,0.0,False,False
+2022,Michigan,MI,governor,2022 Michigan gubernatorial election,Total,,,4461972,100.0,False,False
+2022,Minnesota,MN,attorney general,2022 Minnesota Attorney General election,Winning,Keith Ellison,Minnesota Democratic–farmer–labor,1254371,50.37,True,True
+2022,Minnesota,MN,attorney general,2022 Minnesota Attorney General election,Candidate,Jim Schultz,Republican,1233556,49.53,False,False
+2022,Minnesota,MN,attorney general,2022 Minnesota Attorney General election,Write-in,,,2374,0.1,False,False
+2022,Minnesota,MN,attorney general,2022 Minnesota Attorney General election,Total,,,2490301,100.0,False,False
+2022,Minnesota,MN,secretary of state,2022 Minnesota Secretary of State election,Winning,Steve Simon,Minnesota Democratic–farmer–labor,1345685,54.53,True,True
+2022,Minnesota,MN,secretary of state,2022 Minnesota Secretary of State election,Candidate,Kim Crockett,Republican,1119949,45.38,False,False
+2022,Minnesota,MN,secretary of state,2022 Minnesota Secretary of State election,Write-in,,,2095,0.08,False,False
+2022,Minnesota,MN,secretary of state,2022 Minnesota Secretary of State election,Total,,,2467729,100.0,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Winning,Tim Walz,Minnesota Democratic–farmer–labor,1312349,52.27,True,True
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Candidate,Scott Jensen,Republican,1119941,44.61,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Candidate,James McCaskel,Now,29346,1.17,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Candidate,Steve Patterson,Grassroots–legalize Cannabis,22599,0.9,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Candidate,Hugh McTavish,Independence,18156,0.72,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Candidate,Gabrielle Prosser,Workers,7241,0.29,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Write-in,,,1029,0.04,False,False
+2022,Minnesota,MN,governor,2022 Minnesota gubernatorial election,Total,,,2510661,100.0,False,False
+2022,Nebraska,NE,attorney general,2022 Nebraska Attorney General election,Winning,Mike Hilgers,Republican,434671,69.73,True,False
+2022,Nebraska,NE,attorney general,2022 Nebraska Attorney General election,Candidate,Larry Bolinger,Now,188649,30.27,False,False
+2022,Nebraska,NE,secretary of state,2022 Nebraska Secretary of State election,Winning,Bob Evnen (inc.),Republican,500342,100.0,True,False
+2022,Nebraska,NE,secretary of state,2022 Nebraska Secretary of State election,Total,,,500342,100.0,False,False
+2022,Nebraska,NE,state treasurer,2022 Nebraska State Treasurer election,Winning,John Murante (inc.),Republican,431193,72.21,True,False
+2022,Nebraska,NE,state treasurer,2022 Nebraska State Treasurer election,Candidate,Katrina Tomsen,Libertarian,165951,27.79,False,False
+2022,Nebraska,NE,governor,2022 Nebraska gubernatorial election,Winning,Jim Pillen,Republican,398334,59.22,True,False
+2022,Nebraska,NE,governor,2022 Nebraska gubernatorial election,Candidate,Carol Blood,Democratic,242006,35.98,False,False
+2022,Nebraska,NE,governor,2022 Nebraska gubernatorial election,Candidate,Scott Zimmerman,Libertarian,26455,3.93,False,False
+2022,Nebraska,NE,governor,2022 Nebraska gubernatorial election,Write-in,,,5798,0.86,False,False
+2022,Nebraska,NE,governor,2022 Nebraska gubernatorial election,Total,,,672593,100.0,False,False
+2022,Nevada,NV,attorney general,2022 Nevada Attorney General election,Winning,Aaron Ford,Democratic,511263,52.25,True,True
+2022,Nevada,NV,attorney general,2022 Nevada Attorney General election,Candidate,Sigal Chattah,Republican,434084,44.36,False,False
+2022,Nevada,NV,attorney general,2022 Nevada Attorney General election,Total,,,978482,100.0,False,False
+2022,Nevada,NV,secretary of state,2022 Nevada Secretary of State election,Winning,Cisco Aguilar,Democratic,496569,48.95,True,False
+2022,Nevada,NV,secretary of state,2022 Nevada Secretary of State election,Candidate,Jim Marchant,Republican,473467,46.67,False,False
+2022,Nevada,NV,secretary of state,2022 Nevada Secretary of State election,Candidate,Janine Hansen,American,17472,1.72,False,False
+2022,Nevada,NV,secretary of state,2022 Nevada Secretary of State election,Candidate,Ross Crane,Libertarian,8821,0.87,False,False
+2022,Nevada,NV,secretary of state,2022 Nevada Secretary of State election,Total,,,1014473,100.0,False,False
+2022,Nevada,NV,state treasurer,2022 Nevada State Treasurer election,Winning,Zach Conine,Democratic,482762,47.7,True,True
+2022,Nevada,NV,state treasurer,2022 Nevada State Treasurer election,Candidate,Michele Fiore,Republican,465570,46.0,False,False
+2022,Nevada,NV,state treasurer,2022 Nevada State Treasurer election,Candidate,Margaret Hendrickson,American,19588,1.94,False,False
+2022,Nevada,NV,state treasurer,2022 Nevada State Treasurer election,Candidate,Bryan Elliott,Libertarian,16051,1.59,False,False
+2022,Nevada,NV,state treasurer,2022 Nevada State Treasurer election,Total,,,1012029,100.0,False,False
+2022,New Hampshire,NH,governor,2022 New Hampshire gubernatorial election,Winning,Chris Sununu,Republican,352813,56.98,True,True
+2022,New Hampshire,NH,governor,2022 New Hampshire gubernatorial election,Candidate,Tom Sherman,Democratic,256766,41.47,False,False
+2022,New Hampshire,NH,governor,2022 New Hampshire gubernatorial election,Candidate,Kelly Halldorson,Libertarian,5071,0.82,False,False
+2022,New Hampshire,NH,governor,2022 New Hampshire gubernatorial election,Candidate,Karlyn Borysenko,Libertarian,2772,0.45,False,False
+2022,New Hampshire,NH,governor,2022 New Hampshire gubernatorial election,Write-in,,,1713,0.28,False,False
+2022,New Hampshire,NH,governor,2022 New Hampshire gubernatorial election,Total,,,619135,100.0,False,False
+2022,New Mexico,NM,attorney general,2022 New Mexico Attorney General election,Winning,Raúl Torrez,Democratic,388592,55.31,True,False
+2022,New Mexico,NM,attorney general,2022 New Mexico Attorney General election,Candidate,Jeremy Gay,Republican,314023,44.69,False,False
+2022,New Mexico,NM,attorney general,2022 New Mexico Attorney General election,Total,,,702615,100.0,False,False
+2022,New Mexico,NM,secretary of state,2022 New Mexico Secretary of State election,Winning,Maggie Toulouse Oliver,Democratic,384526,54.52,True,True
+2022,New Mexico,NM,secretary of state,2022 New Mexico Secretary of State election,Candidate,Audrey Trujillo,Republican,300763,42.64,False,False
+2022,New Mexico,NM,secretary of state,2022 New Mexico Secretary of State election,Candidate,Mayna Myers,Libertarian,20050,2.84,False,False
+2022,New Mexico,NM,secretary of state,2022 New Mexico Secretary of State election,Total,,,705339,100.0,False,False
+2022,New Mexico,NM,state treasurer,2022 New Mexico State Treasurer election,Winning,Laura Montoya,Democratic,370089,53.15,True,False
+2022,New Mexico,NM,state treasurer,2022 New Mexico State Treasurer election,Candidate,Harry Montoya,Republican,326224,46.85,False,False
+2022,New Mexico,NM,state treasurer,2022 New Mexico State Treasurer election,Total,,,696313,100.0,False,False
+2022,New Mexico,NM,governor,2022 New Mexico gubernatorial election,Winning,Michelle Lujan Grisham,Democratic,370168,51.97,True,True
+2022,New Mexico,NM,governor,2022 New Mexico gubernatorial election,Candidate,Mark Ronchetti,Republican,324701,45.59,False,False
+2022,New Mexico,NM,governor,2022 New Mexico gubernatorial election,Candidate,Karen Bedonie,Libertarian,17387,2.44,False,False
+2022,New Mexico,NM,governor,2022 New Mexico gubernatorial election,Total,,,712256,100.0,False,False
+2022,New York,NY,attorney general,2022 New York Attorney General election,Candidate,Letitia James,New York State Democratic Committee,2875687,49.58,False,False
+2022,New York,NY,attorney general,2022 New York Attorney General election,Candidate,Michael Henry,New York Republican State Committee,2317573,39.96,False,False
+2022,New York,NY,attorney general,2022 New York Attorney General election,Candidate,Write ins,Write Ins,3073,0.05,False,False
+2022,New York,NY,attorney general,2022 New York Attorney General election,Total,,,5802630,100.0,False,False
+2022,New York State,NY,state treasurer,2022 New York State Comptroller election,Candidate,Thomas DiNapoli,New York State Democratic Committee,2980833,51.67,False,False
+2022,New York State,NY,state treasurer,2022 New York State Comptroller election,Candidate,Paul Rodriguez,New York Republican State Committee,2171067,37.64,False,False
+2022,New York State,NY,state treasurer,2022 New York State Comptroller election,Candidate,Write ins,Write Ins,2880,0.05,False,False
+2022,New York State,NY,state treasurer,2022 New York State Comptroller election,Total,,,5771396,100.0,False,False
+2022,New York,NY,governor,2022 New York gubernatorial election,Candidate,Kathy Hochul,New York State Democratic Committee,2879092,48.7,False,False
+2022,New York,NY,governor,2022 New York gubernatorial election,Candidate,Lee Zeldin,New York Republican State Committee,2449394,41.43,False,False
+2022,New York,NY,governor,2022 New York gubernatorial election,Write-in,,,9290,0.16,False,False
+2022,New York,NY,governor,2022 New York gubernatorial election,Total,,,5912286,100.0,False,False
+2022,North Dakota,ND,attorney general,2022 North Dakota Attorney General election,Winning,Drew Wrigley,Republican,166517,70.95,True,True
+2022,North Dakota,ND,attorney general,2022 North Dakota Attorney General election,Candidate,Tim Lamb,North Dakota Democratic-npl,67609,28.81,False,False
+2022,North Dakota,ND,attorney general,2022 North Dakota Attorney General election,Write-in,,,576,0.24,False,False
+2022,North Dakota,ND,attorney general,2022 North Dakota Attorney General election,Total,,,234702,100.0,False,False
+2022,North Dakota,ND,secretary of state,2022 North Dakota Secretary of State election,Winning,Michael Howe,Republican,147816,63.2,True,True
+2022,North Dakota,ND,secretary of state,2022 North Dakota Secretary of State election,Candidate,Jeffrey Powell,North Dakota Democratic-npl,64254,27.5,False,False
+2022,North Dakota,ND,secretary of state,2022 North Dakota Secretary of State election,Candidate,Charles Tuttle,Independent,21517,9.2,False,False
+2022,North Dakota,ND,secretary of state,2022 North Dakota Secretary of State election,Write-in,,,241,0.1,False,False
+2022,North Dakota,ND,secretary of state,2022 North Dakota Secretary of State election,Total,,,233828,100.0,False,False
+2022,Ohio,OH,attorney general,2022 Ohio Attorney General election,Winning,Dave Yost,Republican,2484753,60.13,True,True
+2022,Ohio,OH,attorney general,2022 Ohio Attorney General election,Candidate,Jeffrey Crossman,Democratic,1647644,39.87,False,False
+2022,Ohio,OH,attorney general,2022 Ohio Attorney General election,Total,,,4132397,100.0,False,False
+2022,Ohio,OH,secretary of state,2022 Ohio secretary of state election,Winning,Frank LaRose,Republican,2444382,59.29,True,True
+2022,Ohio,OH,secretary of state,2022 Ohio secretary of state election,Candidate,Chelsea Clark,Democratic,1635824,39.68,False,False
+2022,Ohio,OH,secretary of state,2022 Ohio secretary of state election,Candidate,Terpsehore Tore Maras,Independent,42753,1.04,False,False
+2022,Ohio,OH,secretary of state,2022 Ohio secretary of state election,Total,,,4122959,100.0,False,False
+2022,Ohio,OH,state treasurer,2022 Ohio State Treasurer election,Winning,Robert Sprague,Republican,2390542,58.55,True,True
+2022,Ohio,OH,state treasurer,2022 Ohio State Treasurer election,Candidate,Scott Schertzer,Democratic,1692160,41.45,False,False
+2022,Ohio,OH,state treasurer,2022 Ohio State Treasurer election,Total,,,4082702,100.0,False,False
+2022,Ohio,OH,governor,2022 Ohio gubernatorial election,Winning,Mike DeWine,Republican,2580424,62.41,True,True
+2022,Ohio,OH,governor,2022 Ohio gubernatorial election,Candidate,Nan Whaley,Democratic,1545489,37.38,False,False
+2022,Ohio,OH,governor,2022 Ohio gubernatorial election,Write-in,,,8964,0.22,False,False
+2022,Ohio,OH,governor,2022 Ohio gubernatorial election,Total,,,4134877,100.0,False,False
+2022,Oklahoma,OK,attorney general,2022 Oklahoma Attorney General election,Winning,Gentner Drummond,Republican,792466,73.76,True,False
+2022,Oklahoma,OK,attorney general,2022 Oklahoma Attorney General election,Candidate,Lynda Steele,Libertarian,281923,26.24,False,False
+2022,Oklahoma,OK,attorney general,2022 Oklahoma Attorney General election,Total,,,1074389,100.0,False,False
+2022,Oklahoma,OK,state treasurer,2022 Oklahoma state treasurer election,Winning,Todd Russ,Republican,738545,64.77,True,False
+2022,Oklahoma,OK,state treasurer,2022 Oklahoma state treasurer election,Candidate,Charles de Coune,Democratic,349876,30.68,False,False
+2022,Oklahoma,OK,state treasurer,2022 Oklahoma state treasurer election,Candidate,Gregory Sadler,Libertarian,51858,4.55,False,False
+2022,Oklahoma,OK,state treasurer,2022 Oklahoma state treasurer election,Total,,,1140279,100.0,False,False
+2022,Oklahoma,OK,governor,2022 Oklahoma gubernatorial election,Winning,Kevin Stitt,Republican,639484,55.45,True,True
+2022,Oklahoma,OK,governor,2022 Oklahoma gubernatorial election,Candidate,Joy Hofmeister,Democratic,481904,41.79,False,False
+2022,Oklahoma,OK,governor,2022 Oklahoma gubernatorial election,Candidate,Natalie Bruno,Libertarian,16243,1.41,False,False
+2022,Oklahoma,OK,governor,2022 Oklahoma gubernatorial election,Candidate,Ervin Yen,Independent,15653,1.36,False,False
+2022,Oklahoma,OK,governor,2022 Oklahoma gubernatorial election,Total,,,1153284,100.0,False,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Winning,Tina Kotek,Democratic,917074,46.96,True,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Candidate,Christine Drazan,Republican,850347,43.54,False,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Candidate,Betsy Johnson,Independent,168431,8.62,False,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Candidate,Donice Noelle Smith,Constitution,8051,0.41,False,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Candidate,R. Leon Noble,Libertarian,6867,0.35,False,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Write-in,,,2113,0.11,False,False
+2022,Oregon,OR,governor,2022 Oregon gubernatorial election,Total,,,1952883,100.0,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Winning,Josh Shapiro,Democratic,3031137,56.49,True,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Doug Mastriano,Republican,2238477,41.71,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Matt Hackenburg,Libertarian,51611,0.96,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Christina DiGiulio,Green,24436,0.46,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Candidate,Joe Soloski,Keystone,20518,0.38,False,False
+2022,Pennsylvania,PA,governor,2022 Pennsylvania gubernatorial election,Total,,,5366179,100.0,False,False
+2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Winning,Peter Neronha,Democratic,217066,61.49,True,True
+2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Candidate,Charles Calenda,Republican,135471,38.38,False,False
+2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Write-in,,,460,0.13,False,False
+2022,Rhode Island,RI,attorney general,2022 Rhode Island Attorney General election,Total,,,352997,100.0,False,False
+2022,Rhode Island,RI,state treasurer,2022 Rhode Island General Treasurer election,Winning,James Diossa,Democratic,190775,54.33,True,False
+2022,Rhode Island,RI,state treasurer,2022 Rhode Island General Treasurer election,Candidate,James Lathrop,Republican,159834,45.51,False,False
+2022,Rhode Island,RI,state treasurer,2022 Rhode Island General Treasurer election,Write-in,,,555,0.16,False,False
+2022,Rhode Island,RI,state treasurer,2022 Rhode Island General Treasurer election,Total,,,351164,100.0,False,False
+2022,Rhode Island,RI,secretary of state,2022 Rhode Island Secretary of State election,Winning,Gregg Amore,Democratic,208981,59.54,True,False
+2022,Rhode Island,RI,secretary of state,2022 Rhode Island Secretary of State election,Candidate,Pat Cortellessa,Republican,141457,40.31,False,False
+2022,Rhode Island,RI,secretary of state,2022 Rhode Island Secretary of State election,Write-in,,,527,0.15,False,False
+2022,Rhode Island,RI,secretary of state,2022 Rhode Island Secretary of State election,Total,,,350965,100.0,False,False
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Winning,Dan McKee,Democratic,207166,57.92,True,True
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Candidate,Ashley Kalus,Republican,139001,38.86,False,False
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Candidate,Zachary Hurwitz,Independent,4512,1.26,False,False
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Candidate,Paul Rianna Jr.,Independent,3123,0.87,False,False
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Candidate,Elijah Gizzarelli,Libertarian,2811,0.79,False,False
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Write-in,,,1057,0.3,False,False
+2022,Rhode Island,RI,governor,2022 Rhode Island gubernatorial election,Total,,,357670,100.0,False,False
+2022,South Carolina,SC,attorney general,2022 South Carolina Attorney General election,Winning,Alan Wilson,Republican,1223080,97.32,True,True
+2022,South Carolina,SC,attorney general,2022 South Carolina Attorney General election,Candidate,Write-in,Write-ins,33709,2.68,False,False
+2022,South Carolina,SC,attorney general,2022 South Carolina Attorney General election,Total,,,1256789,100.0,False,False
+2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Winning,Mark Hammond,Republican,1071451,63.33,True,True
+2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Candidate,Rosemounda Peggy Butler,Democratic,619341,36.61,False,False
+2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Write-in,,,1109,0.07,False,False
+2022,South Carolina,SC,secretary of state,2022 South Carolina Secretary of State election,Total,,,1691901,100.0,False,False
+2022,South Carolina,SC,state treasurer,2022 South Carolina Treasurer election,Winning,Curtis Loftis,Republican,1129961,79.67,True,True
+2022,South Carolina,SC,state treasurer,2022 South Carolina Treasurer election,Candidate,Sarah E. Work,Alliance,281,19.86,False,False
+2022,South Carolina,SC,state treasurer,2022 South Carolina Treasurer election,Candidate,Write-in,,6630,0.47,False,False
+2022,South Carolina,SC,state treasurer,2022 South Carolina Treasurer election,Total,,,1418286,100.0,False,False
+2022,South Carolina,SC,governor,2022 South Carolina gubernatorial election,Winning,Henry McMaster,Republican,988501,58.04,True,True
+2022,South Carolina,SC,governor,2022 South Carolina gubernatorial election,Candidate,Joe Cunningham,Democratic,692691,40.67,False,False
+2022,South Carolina,SC,governor,2022 South Carolina gubernatorial election,Candidate,Morgan Bruce Reeves,Libertarian,20826,1.22,False,False
+2022,South Carolina,SC,governor,2022 South Carolina gubernatorial election,Write-in,,,1174,0.07,False,False
+2022,South Carolina,SC,governor,2022 South Carolina gubernatorial election,Total,,,1703192,100.0,False,False
+2022,South Dakota,SD,attorney general,2022 South Dakota Attorney General election,Winning,Marty Jackley,Republican,257419,100.0,True,False
+2022,South Dakota,SD,attorney general,2022 South Dakota Attorney General election,Total,,,257419,100.0,False,False
+2022,South Dakota,SD,secretary of state,2022 South Dakota Secretary of State election,Winning,Monae Johnson,Republican,212348,63.9,True,False
+2022,South Dakota,SD,secretary of state,2022 South Dakota Secretary of State election,Candidate,Thomas Cool,Democratic,119975,36.1,False,False
+2022,South Dakota,SD,secretary of state,2022 South Dakota Secretary of State election,Total,,,332323,100.0,False,False
+2022,South Dakota,SD,state treasurer,2022 South Dakota State Treasurer election,Winning,Josh Haeder,Republican,219334,67.02,True,True
+2022,South Dakota,SD,state treasurer,2022 South Dakota State Treasurer election,Candidate,John Cunningham,Democratic,107916,32.98,False,False
+2022,South Dakota,SD,state treasurer,2022 South Dakota State Treasurer election,Total,,,327250,100.0,False,False
+2022,South Dakota,SD,governor,2022 South Dakota gubernatorial election,Winning,Kristi Noem,Republican,217035,61.98,True,True
+2022,South Dakota,SD,governor,2022 South Dakota gubernatorial election,Candidate,Jamie Smith,Democratic,123148,35.17,False,False
+2022,South Dakota,SD,governor,2022 South Dakota gubernatorial election,Candidate,Tracey Quint,Libertarian,9983,2.85,False,False
+2022,South Dakota,SD,governor,2022 South Dakota gubernatorial election,Total,,,350166,100.0,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Winning,Bill Lee,Republican,1129390,64.91,True,True
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Jason Martin,Democratic,572818,32.92,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,John Gentry,Independent,15395,0.89,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Constance Every,Independent,10277,0.59,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Deborah Rouse,Independent,3772,0.22,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Rick Tyler,Independent,2380,0.14,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Charles Van Morgan,Independent,1862,0.11,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Basil Marceaux,Independent,1568,0.09,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Alfred O'Neil,Independent,1216,0.07,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Michael Scantland,Independent,815,0.05,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Lemichael D. Wilson,Write-in Candidate,386,0.02,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Charles Carney,Write-in Candidate,2,0.0,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Stephen C. Maxwell,Write-in Candidate,1,0.0,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Candidate,Kameron Parker Scott,Write-in Candidate,0,0.0,False,False
+2022,Tennessee,TN,governor,2022 Tennessee gubernatorial election,Total,,,1739882,100.0,False,False
+2022,Texas,TX,attorney general,2022 Texas Attorney General election,Winning,Ken Paxton,Republican,4278986,53.42,True,True
+2022,Texas,TX,attorney general,2022 Texas Attorney General election,Candidate,Rochelle Garza,Democratic,3497267,43.66,False,False
+2022,Texas,TX,attorney general,2022 Texas Attorney General election,Candidate,Mark Ash,Libertarian,233750,2.92,False,False
+2022,Texas,TX,attorney general,2022 Texas Attorney General election,Total,,,8010003,100.0,False,False
+2022,Texas,TX,governor,2022 Texas gubernatorial election,Winning,Greg Abbott,Republican,4435558,54.75,True,True
+2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Beto O'Rourke,Democratic,3553656,43.86,False,False
+2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Mark Tippetts,Libertarian,81932,1.01,False,False
+2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Delilah Barrios,Green,28584,0.35,False,False
+2022,Texas,TX,governor,2022 Texas gubernatorial election,Candidate,Jacqueline Abernathy,Solidarity,1243,0.02,False,False
+2022,Texas,TX,governor,2022 Texas gubernatorial election,Total,,,8101994,100.0,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Winning,Charity Clark,Democratic,179098,65.1,True,False
+2022,Vermont,VT,attorney general,Republican primary results,Candidate,Mike Tagliavia,Republican,95661,34.8,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Write-in,,,467,0.2,False,False
+2022,Vermont,VT,attorney general,Republican primary results,Total,,,275226,100.0,False,False
+2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Winning,Sarah Copeland Hanzas,Democratic,179087,65.03,True,False
+2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Candidate,H. Brooke Paige,Republican,95666,34.74,False,False
+2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Write-in,,,626,0.23,False,False
+2022,Vermont,VT,secretary of state,2022 Vermont Secretary of State election,Total,,,275379,100.0,False,False
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Winning,Phil Scott,Republican,202147,70.91,True,True
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Candidate,Brenda Siegel,Democratic/progressive,68248,23.94,False,False
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Candidate,Kevin Hoyt,Independent,6022,2.06,False,False
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Candidate,Peter Duval,Independent,4723,1.62,False,False
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Candidate,Bernard Peters,Independent,2315,0.79,False,False
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Write-in,,,1346,0.46,False,False
+2022,Vermont,VT,governor,2022 Vermont gubernatorial election,Total,,,284801,100.0,False,False
+2022,Wisconsin,WI,attorney general,2022 Wisconsin Attorney General election,Winning,Josh Kaul,Democratic,1333369,50.64,True,True
+2022,Wisconsin,WI,attorney general,2022 Wisconsin Attorney General election,Candidate,Eric Toney,Republican,1298369,49.31,False,False
+2022,Wisconsin,WI,attorney general,2022 Wisconsin Attorney General election,Write-in,,,1539,0.06,False,False
+2022,Wisconsin,WI,attorney general,2022 Wisconsin Attorney General election,Total,,,2633277,100.0,False,False
+2022,Wisconsin,WI,secretary of state,2022 Wisconsin Secretary of State election,Winning,Doug La Follette,Democratic,1268748,48.3,True,True
+2022,Wisconsin,WI,secretary of state,2022 Wisconsin Secretary of State election,Candidate,Amy Loudenbeck,Republican,1261306,48.01,False,False
+2022,Wisconsin,WI,secretary of state,2022 Wisconsin Secretary of State election,Candidate,Neil Harmon,Libertarian,54413,2.07,False,False
+2022,Wisconsin,WI,secretary of state,2022 Wisconsin Secretary of State election,Candidate,Sharyl R. McFarland,Green,41532,1.58,False,False
+2022,Wisconsin,WI,secretary of state,2022 Wisconsin Secretary of State election,Write-in,,,944,0.04,False,False
+2022,Wisconsin,WI,secretary of state,2022 Wisconsin Secretary of State election,Total,,,2626943,100.0,False,False
+2022,Wisconsin,WI,state treasurer,2022 Wisconsin State Treasurer election,Winning,John Leiber,Republican,1293553,49.62,True,False
+2022,Wisconsin,WI,state treasurer,2022 Wisconsin State Treasurer election,Candidate,Aaron Richardson,Democratic,1254949,48.14,False,False
+2022,Wisconsin,WI,state treasurer,2022 Wisconsin State Treasurer election,Candidate,Andrew Zuelke,Constitution,57333,2.2,False,False
+2022,Wisconsin,WI,state treasurer,2022 Wisconsin State Treasurer election,Write-in,,,1268,0.05,False,False
+2022,Wisconsin,WI,state treasurer,2022 Wisconsin State Treasurer election,Total,,,2607103,100.0,False,False
+2022,Wisconsin,WI,governor,2022 Wisconsin gubernatorial election,Winning,Tony Evers,Democratic,1358774,51.15,True,True
+2022,Wisconsin,WI,governor,2022 Wisconsin gubernatorial election,Candidate,Tim Michels,Republican,1268535,47.75,False,False
+2022,Wisconsin,WI,governor,2022 Wisconsin gubernatorial election,Candidate,Joan Ellis Beglinger (withdrawn),Independent,27198,1.02,False,False
+2022,Wisconsin,WI,governor,2022 Wisconsin gubernatorial election,Write-in,,,1983,0.07,False,False
+2022,Wisconsin,WI,governor,2022 Wisconsin gubernatorial election,Total,,,2656490,100.0,False,False
+2022,Wyoming,WY,governor,2022 Wyoming gubernatorial election,Winning,Mark Gordon,Republican,143696,74.07,True,True
+2022,Wyoming,WY,governor,2022 Wyoming gubernatorial election,Candidate,Theresa Livingston,Democratic,30686,15.82,False,False
+2022,Wyoming,WY,governor,2022 Wyoming gubernatorial election,Candidate,Jared Baldes,Libertarian,8157,4.2,False,False
+2022,Wyoming,WY,governor,2022 Wyoming gubernatorial election,Write-in,,,11461,5.91,False,False
+2022,Wyoming,WY,governor,2022 Wyoming gubernatorial election,Total,,,194000,100.0,False,False

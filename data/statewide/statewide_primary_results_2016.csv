@@ -1,0 +1,134 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2016,Delaware,DE,governor,Republican primary results,Winning,Colin Bonini,Republican,21150,69.88,True,False
+2016,Delaware,DE,governor,Republican primary results,Candidate,Lacey Lafferty,Republican,9115,30.12,False,False
+2016,Delaware,DE,governor,Republican primary results,Total,,,30265,100.0,False,False
+2016,Indiana,IN,governor,Republican primary results,Winning,Mike Pence,Republican,815699,100.0,True,True
+2016,Indiana,IN,governor,Republican primary results,Total,,,815699,100.0,False,False
+2016,Indiana,IN,governor,Democratic primary results,Winning,John R. Gregg,Democratic,547375,100.0,True,False
+2016,Indiana,IN,governor,Democratic primary results,Total,,,547375,100.0,False,False
+2016,Missouri,MO,attorney general,Democratic primary results,Winning,Teresa Hensley,Democratic,167626,52.7,True,False
+2016,Missouri,MO,attorney general,Democratic primary results,Candidate,Jake Zimmerman,Democratic,150322,47.3,False,False
+2016,Missouri,MO,attorney general,Democratic primary results,Total,,,317948,100.0,False,False
+2016,Missouri,MO,attorney general,Republican primary results,Winning,Josh Hawley,Republican,415702,64.2,True,False
+2016,Missouri,MO,attorney general,Republican primary results,Candidate,Kurt Schaefer,Republican,231657,35.8,False,False
+2016,Missouri,MO,attorney general,Republican primary results,Total,,,647359,100.0,False,False
+2016,Missouri,MO,governor,Democratic primary results,Winning,Chris Koster,Democratic,256272,78.75,True,False
+2016,Missouri,MO,governor,Democratic primary results,Candidate,Eric Morrison,Democratic,31474,9.67,False,False
+2016,Missouri,MO,governor,Democratic primary results,Candidate,Charles Wheeler,Democratic,25756,7.92,False,False
+2016,Missouri,MO,governor,Democratic primary results,Candidate,Leonard Steinman,Democratic,11911,3.66,False,False
+2016,Missouri,MO,governor,Democratic primary results,Total,,,325413,100.0,False,False
+2016,Missouri,MO,governor,Republican primary results,Winning,Eric Greitens,Republican,236481,34.56,True,False
+2016,Missouri,MO,governor,Republican primary results,Candidate,John Brunner,Republican,169620,24.79,False,False
+2016,Missouri,MO,governor,Republican primary results,Candidate,Peter Kinder,Republican,141629,20.7,False,False
+2016,Missouri,MO,governor,Republican primary results,Candidate,Catherine Hanaway,Republican,136521,19.95,False,False
+2016,Missouri,MO,governor,Republican primary results,Total,,,684251,100.0,False,False
+2016,Montana,MT,governor,Democratic primary results,Winning,Steve Bullock,Democratic,109450,91.3,True,True
+2016,Montana,MT,governor,Democratic primary results,Candidate,Bill McChesney,Democratic,10486,8.7,False,False
+2016,Montana,MT,governor,Democratic primary results,Total,,,119936,100.0,False,False
+2016,Montana,MT,governor,Republican primary results,Winning,Greg Gianforte,Republican,109882,76.4,True,False
+2016,Montana,MT,governor,Republican primary results,Candidate,Terry Nelson,Republican,33987,23.6,False,False
+2016,Montana,MT,governor,Republican primary results,Total,,,143869,100.0,False,False
+2016,New Hampshire,NH,governor,Democratic primary results,Winning,Colin Van Ostern,Democratic,37696,51.99,True,False
+2016,New Hampshire,NH,governor,Democratic primary results,Candidate,Steve Marchand,Democratic,18338,25.29,False,False
+2016,New Hampshire,NH,governor,Democratic primary results,Candidate,Mark Connolly,Democratic,14840,20.47,False,False
+2016,New Hampshire,NH,governor,Democratic primary results,Candidate,Ian Freeman,Democratic,1069,1.47,False,False
+2016,New Hampshire,NH,governor,Democratic primary results,Candidate,Derek Dextraze,Democratic,557,0.77,False,False
+2016,New Hampshire,NH,governor,Democratic primary results,Total,,,72500,100.0,False,False
+2016,New Hampshire,NH,governor,Republican primary results,Winning,Chris Sununu,Republican,34137,30.68,True,False
+2016,New Hampshire,NH,governor,Republican primary results,Candidate,Frank Edelblut,Republican,33149,29.79,False,False
+2016,New Hampshire,NH,governor,Republican primary results,Candidate,Ted Gatsas,Republican,22840,20.53,False,False
+2016,New Hampshire,NH,governor,Republican primary results,Candidate,Jeanie Forrester,Republican,19716,17.72,False,False
+2016,New Hampshire,NH,governor,Republican primary results,Candidate,John Lavoie,Republican,1429,1.28,False,False
+2016,New Hampshire,NH,governor,Republican primary results,Total,,,111271,100.0,False,False
+2016,North Carolina,NC,attorney general,Democratic primary results,Winning,Josh Stein,Democratic,510003,53.37,True,False
+2016,North Carolina,NC,attorney general,Democratic primary results,Candidate,Marcus Williams,Democratic,445524,46.63,False,False
+2016,North Carolina,NC,attorney general,Democratic primary results,Total,,,955527,100.0,False,False
+2016,North Carolina,NC,attorney general,Republican primary results,Winning,Buck Newton,Republican,503880,54.9,True,False
+2016,North Carolina,NC,attorney general,Republican primary results,Candidate,Jim O'Neill,Republican,414073,45.1,False,False
+2016,North Carolina,NC,attorney general,Republican primary results,Total,,,917953,100.0,False,False
+2016,North Carolina,NC,governor,Republican primary results,Winning,Pat McCrory,Republican,869114,82.0,True,True
+2016,North Carolina,NC,governor,Republican primary results,Candidate,Robert Brawley,Republican,112624,11.0,False,False
+2016,North Carolina,NC,governor,Republican primary results,Candidate,Charles Moss,Republican,81315,7.0,False,False
+2016,North Carolina,NC,governor,Republican primary results,Total,,,1063053,100.0,False,False
+2016,North Carolina,NC,governor,Democratic primary results,Winning,Roy Cooper,Democratic,710658,69.0,True,False
+2016,North Carolina,NC,governor,Democratic primary results,Candidate,Kenneth Spaulding,Democratic,323774,31.0,False,False
+2016,North Carolina,NC,governor,Democratic primary results,Total,,,1034432,100.0,False,False
+2016,North Dakota,ND,governor,First convention ballot,Candidate,Wayne Stenehjem,Republican,769,47.97,False,False
+2016,North Dakota,ND,governor,First convention ballot,Candidate,Rick Becker,Republican,587,36.61,False,False
+2016,North Dakota,ND,governor,First convention ballot,Candidate,Doug Burgum,Republican,247,15.4,False,False
+2016,North Dakota,ND,governor,First convention ballot,Total,,,1603,100.0,False,False
+2016,North Dakota,ND,governor,Second convention ballot,Winning,Wayne Stenehjem,Republican,823,51.5,True,False
+2016,North Dakota,ND,governor,Second convention ballot,Candidate,Rick Becker,Republican,618,38.67,False,False
+2016,North Dakota,ND,governor,Second convention ballot,Candidate,Doug Burgum,Republican,157,9.82,False,False
+2016,North Dakota,ND,governor,Second convention ballot,Total,,,1598,100.0,False,False
+2016,North Dakota,ND,governor,Republican primary results,Winning,Doug Burgum,Republican,68042,59.47,True,False
+2016,North Dakota,ND,governor,Republican primary results,Candidate,Wayne Stenehjem,Republican,44158,38.59,False,False
+2016,North Dakota,ND,governor,Republican primary results,Candidate,Paul Sorum,Republican,2164,1.89,False,False
+2016,North Dakota,ND,governor,Republican primary results,Candidate,Write-in,Republican,51,0.04,False,False
+2016,North Dakota,ND,governor,Republican primary results,Total,,,114415,100.0,False,False
+2016,North Dakota,ND,governor,Democratic-NPL primary results,Winning,Marvin Nelson,North Dakota Democratic-npl,17278,99.66,True,False
+2016,North Dakota,ND,governor,Democratic-NPL primary results,Candidate,Write-in,North Dakota Democratic-npl,59,0.34,False,False
+2016,North Dakota,ND,governor,Democratic-NPL primary results,Total,,,17337,100.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Winning,Kate Brown,Democratic,494890,83.03,True,True
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Candidate,Julian Bell,Democratic,49313,8.27,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Candidate,Dave Stauffer,Democratic,16108,2.7,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Candidate,Steve Johnson,Democratic,13363,2.24,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Candidate,Kevin M. Forsythe,Democratic,10147,1.7,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Candidate,Chet Chance,Democratic,5636,0.95,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Candidate,Write-ins,Democratic,6595,1.11,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Democratic primary",Total,,,596052,100.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Winning,William C. Pierce,Republican,171158,47.66,True,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Candidate,Allen Alley,Republican,103388,28.79,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Candidate,Bruce Cuff,Republican,41598,11.58,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Candidate,Bob Niemeyer,Republican,35669,9.93,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Candidate,Bob Forthan,Republican,4290,1.19,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Candidate,Write-ins,Republican,3020,0.84,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Republican primary",Total,,,359123,100.0,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Independent primary",Winning,Cliff Thomason,Independent,9806,34.89,True,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Independent primary",Candidate,Patrick Barney,Independent,6840,24.34,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Independent primary",Candidate,Write-ins,Independent,11460,40.77,False,False
+2016,Oregon,OR,governor,"Oregon gubernatorial special election, 2016 Independent primary",Total,,,28106,100.0,False,False
+2016,Pennsylvania,PA,attorney general,Democratic primary results,Winning,Josh Shapiro,Democratic,725168,47.03,True,False
+2016,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,Stephen Zappala,Democratic,566501,36.74,False,False
+2016,Pennsylvania,PA,attorney general,Democratic primary results,Candidate,John Morganelli,Democratic,250097,16.22,False,False
+2016,Pennsylvania,PA,attorney general,Democratic primary results,Total,,,1541766,100.0,False,False
+2016,Pennsylvania,PA,attorney general,Republican primary results,Winning,John Rafferty,Republican,819510,63.82,True,False
+2016,Pennsylvania,PA,attorney general,Republican primary results,Candidate,Joe Peters,Republican,464491,36.18,False,False
+2016,Pennsylvania,PA,attorney general,Republican primary results,Total,,,1284001,100.0,False,False
+2016,Utah,UT,governor,Republican primary results,Winning,Gary Herbert,Republican,176866,71.75,True,True
+2016,Utah,UT,governor,Republican primary results,Candidate,Jonathan Johnson,Republican,69663,28.25,False,False
+2016,Utah,UT,governor,Republican primary results,Total,,,246529,100.0,False,False
+2016,Vermont,VT,governor,Democratic primary results,Winning,Sue Minter,Democratic,35979,51.2,True,False
+2016,Vermont,VT,governor,Democratic primary results,Candidate,Matt Dunne,Democratic,26699,38.0,False,False
+2016,Vermont,VT,governor,Democratic primary results,Candidate,Peter Galbraith,Democratic,6616,9.4,False,False
+2016,Vermont,VT,governor,Democratic primary results,Candidate,Cris Ericson,Democratic,538,0.8,False,False
+2016,Vermont,VT,governor,Democratic primary results,Candidate,H. Brooke Paige,Democratic,387,0.6,False,False
+2016,Vermont,VT,governor,Democratic primary results,Candidate,Write-ins,Democratic,579,1.84,False,False
+2016,Vermont,VT,governor,Democratic primary results,Total,,,70798,100.0,False,False
+2016,Vermont,VT,governor,Republican primary results,Winning,Phil Scott,Republican,27669,60.5,True,False
+2016,Vermont,VT,governor,Republican primary results,Candidate,Bruce Lisman,Republican,18055,39.5,False,False
+2016,Vermont,VT,governor,Republican primary results,Candidate,Write-ins,Republican,48,0.22,False,False
+2016,Vermont,VT,governor,Republican primary results,Total,,,45772,100.0,False,False
+2016,Vermont,VT,governor,Liberty Union primary results,Winning,"Bill ""Spaceman"" Lee",Union,6,100.0,True,False
+2016,Vermont,VT,governor,Liberty Union primary results,Total,,,6,100.0,False,False
+2016,Washington,WA,attorney general,Blanket primary election results,Winning,Bob Ferguson,Democratic,906493,72.61,True,True
+2016,Washington,WA,attorney general,Blanket primary election results,Winning,Joshua Trumbull,Libertarian,341932,27.39,True,False
+2016,Washington,WA,attorney general,Blanket primary election results,Total,,,1248425,100.0,False,False
+2016,Washington,WA,governor,Blanket primary results,Winning,Jay Inslee,Democratic,687412,49.3,True,True
+2016,Washington,WA,governor,Blanket primary results,Winning,Bill Bryant,Republican,534519,38.33,True,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Bill Hirt,Republican,48382,3.47,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Patrick O'Rourke,Democratic,40572,2.91,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Steve Rubenstein,Independent,22582,1.62,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,James Robert Deal,Democratic,14623,1.05,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Johnathan Dodds,Democratic,14152,1.01,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Goodspaceguy,Republican,13191,0.95,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Mary Martin,Workers,10374,0.74,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,David Blomstrom,Independent,4512,0.32,False,False
+2016,Washington,WA,governor,Blanket primary results,Candidate,Christian Joubert,Independent,4103,0.29,False,False
+2016,Washington,WA,governor,Blanket primary results,Total,,,1394422,100.0,False,False
+2016,West Virginia,WV,governor,Democratic primary results,Winning,Jim Justice,Democratic,132704,51.39,True,False
+2016,West Virginia,WV,governor,Democratic primary results,Candidate,Booth Goodwin,Democratic,65416,25.32,False,False
+2016,West Virginia,WV,governor,Democratic primary results,Candidate,Jeff Kessler,Democratic,60230,23.31,False,False
+2016,West Virginia,WV,governor,Democratic primary results,Total,,,258350,100.0,False,False
+2016,West Virginia,WV,governor,Republican primary results,Winning,Bill Cole,Republican,161127,100.0,True,False
+2016,West Virginia,WV,governor,Republican primary results,Total,,,161127,100.0,False,False

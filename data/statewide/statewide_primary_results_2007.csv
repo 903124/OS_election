@@ -1,0 +1,20 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2007,Kentucky,KY,governor,Republican primary results,Winning,Ernie Fletcher,Republican,101328,50.08,True,True
+2007,Kentucky,KY,governor,Republican primary results,Candidate,Anne Northup,Republican,73919,36.53,False,False
+2007,Kentucky,KY,governor,Republican primary results,Candidate,Billy Harper,Republican,27092,13.39,False,False
+2007,Kentucky,KY,governor,Republican primary results,Total,,,202339,100.0,False,False
+2007,Kentucky,KY,governor,Democratic primary results,Winning,Steve Beshear,Democratic,142838,41.02,True,False
+2007,Kentucky,KY,governor,Democratic primary results,Candidate,Bruce Lunsford,Democratic,74578,21.42,False,False
+2007,Kentucky,KY,governor,Democratic primary results,Candidate,Steve Henry,Democratic,60893,17.49,False,False
+2007,Kentucky,KY,governor,Democratic primary results,Candidate,Jody Richards,Democratic,45433,13.05,False,False
+2007,Kentucky,KY,governor,Democratic primary results,Candidate,Gatewood Galbraith,Democratic,20704,5.95,False,False
+2007,Kentucky,KY,governor,Democratic primary results,Candidate,Otis Hensley,Democratic,3792,1.09,False,False
+2007,Kentucky,KY,governor,Democratic primary results,Total,,,348238,100.0,False,False
+2007,Mississippi,MS,governor,Republican primary results,Winning,Haley Barbour,Republican,184036,93.11,True,True
+2007,Mississippi,MS,governor,Republican primary results,Candidate,Frederick Jones,Republican,13611,6.89,False,False
+2007,Mississippi,MS,governor,Republican primary results,Total,,,197647,100.0,False,False
+2007,Mississippi,MS,governor,Democratic primary results,Winning,"John Arthur Eaves, Jr.",Democratic,314012,70.29,True,False
+2007,Mississippi,MS,governor,Democratic primary results,Candidate,William Compton,Democratic,52343,11.72,False,False
+2007,Mississippi,MS,governor,Democratic primary results,Candidate,Fred Smith,Democratic,49170,11.01,False,False
+2007,Mississippi,MS,governor,Democratic primary results,Candidate,Louis Fondren,Democratic,31197,6.98,False,False
+2007,Mississippi,MS,governor,Democratic primary results,Total,,,446722,100.0,False,False

@@ -1,0 +1,85 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2012,Missouri,MO,governor,Democratic primary results,Winning,Jay Nixon,Democratic,269865,86.0,True,True
+2012,Missouri,MO,governor,Democratic primary results,Candidate,William Campbell,Democratic,25721,8.2,False,False
+2012,Missouri,MO,governor,Democratic primary results,Candidate,Clay Thunderhawk,Democratic,18228,5.8,False,False
+2012,Missouri,MO,governor,Democratic primary results,Total,,,313814,100.0,False,False
+2012,Missouri,MO,governor,Republican primary results,Winning,Dave Spence,Republican,333578,59.9,True,False
+2012,Missouri,MO,governor,Republican primary results,Candidate,Bill Randles,Republican,90651,16.3,False,False
+2012,Missouri,MO,governor,Republican primary results,Candidate,Fred Sauer,Republican,83695,15.0,False,False
+2012,Missouri,MO,governor,Republican primary results,Candidate,John Weiler,Republican,49006,8.8,False,False
+2012,Missouri,MO,governor,Republican primary results,Total,,,556930,100.0,False,False
+2012,Missouri,MO,governor,Libertarian primary results,Winning,Jim Higgins,Libertarian,2500,100.0,True,False
+2012,Missouri,MO,governor,Libertarian primary results,Total,,,2500,100.0,False,False
+2012,Montana,MT,governor,Democratic primary results,Winning,Steve Bullock,Democratic,76738,86.6,True,False
+2012,Montana,MT,governor,Democratic primary results,Candidate,Heather Margolis,Democratic,11823,13.4,False,False
+2012,Montana,MT,governor,Democratic primary results,Total,,,88561,100.0,False,False
+2012,Montana,MT,governor,Republican primary results,Winning,Rick Hill,Republican,46802,34.4,True,False
+2012,Montana,MT,governor,Republican primary results,Candidate,Corey Stapleton,Republican,24661,18.1,False,False
+2012,Montana,MT,governor,Republican primary results,Candidate,Ken Miller,Republican,24496,18.0,False,False
+2012,Montana,MT,governor,Republican primary results,Candidate,Jim O'Hara,Republican,16653,12.2,False,False
+2012,Montana,MT,governor,Republican primary results,Candidate,Neil Livingstone,Republican,12038,8.8,False,False
+2012,Montana,MT,governor,Republican primary results,Candidate,Jim Lynch,Republican,8323,6.1,False,False
+2012,Montana,MT,governor,Republican primary results,Candidate,Bob Fanning,Republican,3087,2.3,False,False
+2012,Montana,MT,governor,Republican primary results,Total,,,136060,100.0,False,False
+2012,New Hampshire,NH,governor,Democratic primary results,Winning,Maggie Hassan,Democratic,45120,53.1,True,False
+2012,New Hampshire,NH,governor,Democratic primary results,Candidate,Jackie Cilley,Democratic,33066,38.9,False,False
+2012,New Hampshire,NH,governor,Democratic primary results,Candidate,Bill Kennedy,Democratic,5936,7.0,False,False
+2012,New Hampshire,NH,governor,Democratic primary results,Candidate,Other,Democratic,850,1.0,False,False
+2012,New Hampshire,NH,governor,Democratic primary results,Total,,,84972,100.0,False,False
+2012,New Hampshire,NH,governor,Republican primary results,Winning,Ovide Lamontagne,Republican,73437,67.7,True,False
+2012,New Hampshire,NH,governor,Republican primary results,Candidate,Kevin Smith,Republican,32396,29.8,False,False
+2012,New Hampshire,NH,governor,Republican primary results,Candidate,Robert Tarr,Republican,1725,1.6,False,False
+2012,New Hampshire,NH,governor,Republican primary results,Candidate,Other,Republican,988,0.9,False,False
+2012,New Hampshire,NH,governor,Republican primary results,Total,,,108546,100.0,False,False
+2012,North Carolina,NC,governor,Democratic primary results,Winning,Walter Dalton,Democratic,425618,45.8,True,False
+2012,North Carolina,NC,governor,Democratic primary results,Candidate,Bob Etheridge,Democratic,353209,38.0,False,False
+2012,North Carolina,NC,governor,Democratic primary results,Candidate,Bill Faison,Democratic,51759,5.6,False,False
+2012,North Carolina,NC,governor,Democratic primary results,Candidate,Gardenia Henley,Democratic,48402,5.2,False,False
+2012,North Carolina,NC,governor,Democratic primary results,Candidate,Gary M. Dunn,Democratic,27163,2.9,False,False
+2012,North Carolina,NC,governor,Democratic primary results,Candidate,Bruce Blackmon,Democratic,22158,2.4,False,False
+2012,North Carolina,NC,governor,Democratic primary results,Total,,,928309,100.0,False,False
+2012,North Carolina,NC,governor,Republican primary results,Winning,Pat McCrory,Republican,744226,83.4,True,False
+2012,North Carolina,NC,governor,Republican primary results,Candidate,Paul Wright,Republican,46986,5.3,False,False
+2012,North Carolina,NC,governor,Republican primary results,Candidate,Scott Jones,Republican,30884,3.5,False,False
+2012,North Carolina,NC,governor,Republican primary results,Candidate,Jim Mahan,Republican,29794,3.3,False,False
+2012,North Carolina,NC,governor,Republican primary results,Candidate,Jim Harney,Republican,26242,2.9,False,False
+2012,North Carolina,NC,governor,Republican primary results,Candidate,Charles Kenneth Moss,Republican,13696,1.5,False,False
+2012,North Carolina,NC,governor,Republican primary results,Total,,,891828,100.0,False,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Winning,Gary Herbert,Republican,2253,57.67,True,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Winning,Morgan Philpot,Republican,905,23.16,True,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Candidate,David Kirkham,Republican,358,9.16,False,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Candidate,Ken Sumsion,Republican,254,6.5,False,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Candidate,William Skokos,Republican,128,3.28,False,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Candidate,Lane Ronnow,Republican,9,0.23,False,False
+2012,Utah,UT,governor,"Republican convention, 1st round results",Total,,,3907,100.0,False,False
+2012,Utah,UT,governor,"Republican convention, 2nd round results",Winning,Gary Herbert,Republican,2464,63.26,True,False
+2012,Utah,UT,governor,"Republican convention, 2nd round results",Candidate,Morgan Philpot,Republican,1431,36.74,False,False
+2012,Utah,UT,governor,"Republican convention, 2nd round results",Total,,,3895,100.0,False,False
+2012,Washington,WA,governor,Blanket primary results,Winning,Jay Inslee,Democratic,664534,47.13,True,False
+2012,Washington,WA,governor,Blanket primary results,Winning,Rob McKenna,Republican,604872,42.9,True,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,Shahram Hadian,Republican,46169,3.27,False,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,Rob Hill,Democratic,45453,3.22,False,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,James White,Independent,13764,0.98,False,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,Christian Joubert,Independent,10457,0.74,False,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,L. Dale Sorgen,Independent,9734,0.69,False,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,Max Sampson,Republican,8753,0.62,False,False
+2012,Washington,WA,governor,Blanket primary results,Candidate,Javier O. Lopez,Republican,6131,0.43,False,False
+2012,Washington,WA,governor,Blanket primary results,Total,,,1409867,100.0,False,False
+2012,West Virginia,WV,governor,Democratic primary results,Winning,Earl Ray Tomblin,Democratic,170481,84.4,True,True
+2012,West Virginia,WV,governor,Democratic primary results,Candidate,Arne Moltis,Democratic,31587,15.6,False,False
+2012,West Virginia,WV,governor,Democratic primary results,Total,,,202068,100.0,False,False
+2012,West Virginia,WV,governor,Republican primary results,Winning,Bill Maloney,Republican,86925,83.5,True,False
+2012,West Virginia,WV,governor,Republican primary results,Candidate,Ralph William Clark,Republican,17165,16.5,False,False
+2012,West Virginia,WV,governor,Republican primary results,Total,,,104090,100.0,False,False
+2012,Wisconsin,WI,governor,Republican primary results,Winning,Scott Walker,Republican,626962,96.88,True,True
+2012,Wisconsin,WI,governor,Republican primary results,Candidate,Arthur Kohl-Riggs,Republican,19939,3.08,False,False
+2012,Wisconsin,WI,governor,Republican primary results,Candidate,Patrick J. O'Brien (write-in),Republican,17,0.0,False,False
+2012,Wisconsin,WI,governor,Republican primary results,Candidate,Scattering,Republican,204,0.03,False,False
+2012,Wisconsin,WI,governor,Republican primary results,Total,,,647122,100.0,False,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Winning,Tom Barrett,Democratic,390191,58.1,True,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Kathleen Falk,Democratic,229236,34.13,False,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Kathleen Vinehout,Democratic,26967,4.02,False,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Douglas La Follette,Democratic,19497,2.9,False,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Gladys Huber,Democratic,4847,0.72,False,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Scattering,Democratic,864,0.13,False,False
+2012,Wisconsin,WI,governor,Democratic gubernatorial primary results,Total,,,671602,100.0,False,False

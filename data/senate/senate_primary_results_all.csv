@@ -8650,6 +8650,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2012,Wyoming,Democratic primary results,Primary,Candidate,False,William Bryk,Democratic Party (United States),"3,047",17.8
 2012,Wyoming,Democratic primary results,Primary,Candidate,False,Write-in,Democratic Party (United States),222,1.3
 2012,Wyoming,Democratic primary results,Primary,Total,False,,,"17,072",100
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Winning,False,Ed Markey,Democratic Party (United States),"311,219",57.35%
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Candidate,False,Stephen F. Lynch,Democratic Party (United States),"230,335",42.44%
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Candidate,False,All others,Democratic Party (United States),"1,150",0.21%
+2013,Massachusetts (special),2013 Democratic Senate primary,Primary,Total,False,,,"542,704",100%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Winning,False,Gabriel E. Gomez,Republican Party (United States),"96,057",50.75%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Candidate,False,Michael J. Sullivan,Republican Party (United States),"67,946",35.89%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Candidate,False,Daniel Winslow,Republican Party (United States),"24,662",13.03%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Candidate,False,All others,Republican Party (United States),628,0.33%
+2013,Massachusetts (special),2013 Republican Senate primary,Primary,Total,False,,,"189,293",100%
+2013,New Jersey (special),Republican primary results,Primary,Winning,False,Steve Lonegan,Republican Party (United States),"103,280",80.09%
+2013,New Jersey (special),Republican primary results,Primary,Candidate,False,Alieta Eck,Republican Party (United States),"25,669",19.91%
+2013,New Jersey (special),Republican primary results,Primary,Total,False,,,"128,958",100.00%
+2013,New Jersey (special),Democratic primary results,Primary,Winning,False,Cory Booker,Democratic Party (United States),"216,936",59.17%
+2013,New Jersey (special),Democratic primary results,Primary,Candidate,False,Frank Pallone,Democratic Party (United States),"72,584",19.80%
+2013,New Jersey (special),Democratic primary results,Primary,Candidate,False,Rush Holt Jr.,Democratic Party (United States),"61,463",16.76%
+2013,New Jersey (special),Democratic primary results,Primary,Candidate,False,Sheila Oliver,Democratic Party (United States),"15,656",4.27%
+2013,New Jersey (special),Democratic primary results,Primary,Total,False,,,"366,639",100.00%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Winning,True,Mark Begich,Democratic Party (United States),"58,092",83.31%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Winning,False,Thom Walker,Alaska Libertarian Party,"3,167",4.54%
 2014,Alaska,Democratic–Libertarian–Independence primary results,Primary,Winning,False,Vic Kohring,Alaskan Independence Party,"2,557",3.67%
@@ -9279,9 +9296,9 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2016,Washington,Blanket primary results,Primary,Candidate,False,Zach Haller,Independent (United States),"5,092",0.37%
 2016,Washington,Blanket primary results,Primary,Candidate,False,Alex Tsimerman,Independent (United States),"4,117",0.30%
 2016,Washington,Blanket primary results,Primary,Total,False,,,"1,384,996",100.00%
-2016,Wisconsin,Democratic primary results,Primary,Winning,False,Russ Feingold,Democratic Party (United States),"303,282",90.14%
-2016,Wisconsin,Democratic primary results,Primary,Candidate,False,Scott Harbach,Democratic Party (United States),"33,185",9.86%
-2016,Wisconsin,Democratic primary results,Primary,Total,False,,,"336,467",100.00%
+2016,Wisconsin,Democratic primary results,Primary,Winning,False,Russ Feingold,Democratic Party (United States),"303,791",90.13%
+2016,Wisconsin,Democratic primary results,Primary,Candidate,False,Scott Harbach,Democratic Party (United States),"33,096",9.82%
+2016,Wisconsin,Democratic primary results,Primary,Total,False,,,"337,079",100.00%
 2018,Arizona,Republican primary results,Primary,Winning,False,Martha McSally,Republican Party (United States),"357,626",54.57%
 2018,Arizona,Republican primary results,Primary,Candidate,False,Kelli Ward,Republican Party (United States),"180,926",27.61%
 2018,Arizona,Republican primary results,Primary,Candidate,False,Joe Arpaio,Republican Party (United States),"116,555",17.79%
@@ -10641,6 +10658,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Colorado,Democratic primary results,Primary,Total,False,,,"895,358",100.0
 2026,Colorado,Republican primary results,Primary,Winning,False,Mark Baisley,Republican Party (United States),"445,352",100.0
 2026,Colorado,Republican primary results,Primary,Total,False,,,"445,352",100.0
+2026,Delaware,Democratic primary results,Primary,Candidate,True,Chris Coons,Democratic Party (United States),,
+2026,Delaware,Democratic primary results,Primary,Candidate,False,Jeff Appelhans,Democratic Party (United States),,
+2026,Delaware,Democratic primary results,Primary,Candidate,False,Eric No-Trump Hansen,Democratic Party (United States),,
+2026,Delaware,Democratic primary results,Primary,Candidate,False,Mary Louve,Democratic Party (United States),,
+2026,Delaware,Democratic primary results,Primary,Total,False,,,,100.0
+2026,Delaware,Republican primary results,Primary,Candidate,False,Michael Katz,Republican Party (United States),,
+2026,Delaware,Republican primary results,Primary,Candidate,False,John Shulli,Republican Party (United States),,
+2026,Delaware,Republican primary results,Primary,Total,False,,,,100.0
 2026,Florida (special),Republican primary results,Primary,Winning,True,Ashley Moody,Republican Party (United States),"1,320,780",79.6
 2026,Florida (special),Republican primary results,Primary,Candidate,False,Chris Gleason,Republican Party (United States),"228,010",13.7
 2026,Florida (special),Republican primary results,Primary,Candidate,False,Ernie Rivera,Republican Party (United States),"79,973",4.8
@@ -10814,23 +10839,23 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Nebraska,Legal Marijuana Now primary results,Primary,Winning,False,Mike Marvin,Legal Marijuana Now Party,829,66.4
 2026,Nebraska,Legal Marijuana Now primary results,Primary,Candidate,False,Earl Starkey,Legal Marijuana Now Party,420,33.6
 2026,Nebraska,Legal Marijuana Now primary results,Primary,Total,False,,,"1,249",100.0
-2026,New Hampshire,Democratic primary results,Primary,Winning,False,Chris Pappas,Democratic Party (United States),"98,235",64.9
-2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Karishma Manzur,Democratic Party (United States),"49,563",32.8
-2026,New Hampshire,Democratic primary results,Primary,Candidate,False,David Jarvis,Democratic Party (United States),"1,193",0.8
-2026,New Hampshire,Democratic primary results,Primary,Candidate,False,John Vail,Democratic Party (United States),951,0.6
-2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Maxwell L. Saal,Democratic Party (United States),934,0.6
-2026,New Hampshire,Democratic primary results,Primary,Write-in,False,,,400,0.3
-2026,New Hampshire,Democratic primary results,Primary,Total,False,,,"151,276",100.0
-2026,New Hampshire,Republican primary results,Primary,Winning,False,John E. Sununu,Republican Party (United States),"74,612",68.4
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Scott Brown,Republican Party (United States),"29,302",26.8
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Sky Danley,Republican Party (United States),"1,179",1.1
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Sabrina Ann Smith,Republican Party (United States),952,0.9
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Andy Martin,Republican Party (United States),773,0.7
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Mary Maxwell,Republican Party (United States),753,0.7
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Tom Alciere,Republican Party (United States),601,0.6
-2026,New Hampshire,Republican primary results,Primary,Candidate,False,Richard A. McMenamon II,Republican Party (United States),394,0.4
-2026,New Hampshire,Republican primary results,Primary,Write-in,False,,,593,0.5
-2026,New Hampshire,Republican primary results,Primary,Total,False,,,"109,159",100.0
+2026,New Hampshire,Democratic primary results,Primary,Winning,False,Chris Pappas,Democratic Party (United States),"100,053",65.1
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Karishma Manzur,Democratic Party (United States),"50,307",32.7
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,David Jarvis,Democratic Party (United States),"1,212",0.8
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,John Vail,Democratic Party (United States),955,0.6
+2026,New Hampshire,Democratic primary results,Primary,Candidate,False,Maxwell L. Saal,Democratic Party (United States),932,0.6
+2026,New Hampshire,Democratic primary results,Primary,Write-in,False,,,355,0.2
+2026,New Hampshire,Democratic primary results,Primary,Total,False,,,"153,814",100.0
+2026,New Hampshire,Republican primary results,Primary,Winning,False,John E. Sununu,Republican Party (United States),"75,789",68.3
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Scott Brown,Republican Party (United States),"29,672",26.7
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Sky Danley,Republican Party (United States),"1,192",1.1
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Sabrina Ann Smith,Republican Party (United States),955,0.9
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Andy Martin,Republican Party (United States),786,0.7
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Mary Maxwell,Republican Party (United States),774,0.7
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Tom Alciere,Republican Party (United States),602,0.5
+2026,New Hampshire,Republican primary results,Primary,Candidate,False,Richard A. McMenamon II,Republican Party (United States),403,0.4
+2026,New Hampshire,Republican primary results,Primary,Write-in,False,,,845,0.8
+2026,New Hampshire,Republican primary results,Primary,Total,False,,,"111,018",100.0
 2026,New Jersey,Democratic primary results,Primary,Winning,True,Cory Booker,Democratic Party (United States),"587,980",100.0
 2026,New Jersey,Democratic primary results,Primary,Total,False,,,"587,980",100.0
 2026,New Jersey,Republican primary results,Primary,Winning,False,Justin Murphy,Republican Party (United States),"82,272",33.4
@@ -10892,12 +10917,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Oregon,Republican primary results,Primary,Candidate,False,Tim Skelton,Republican Party (United States),"5,626",1.5
 2026,Oregon,Republican primary results,Primary,Candidate,False,Write-in,Republican Party (United States),"3,254",0.9
 2026,Oregon,Republican primary results,Primary,Total,False,,,"366,201",100.0
-2026,Rhode Island,Democratic primary results,Primary,Winning,True,Jack Reed,Democratic Party (United States),"96,586",76.9
-2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Connor Burbridge,Democratic Party (United States),"16,838",13.4
-2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Luis Daniel Muñoz,Democratic Party (United States),"12,205",9.7
-2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"125,629",100.0
-2026,Rhode Island,Republican primary results,Primary,Winning,False,Raymond McKay,Republican Party (United States),"20,203",100.0
-2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,203",100.0
+2026,Rhode Island,Democratic primary results,Primary,Winning,True,Jack Reed,Democratic Party (United States),"98,072",76.9
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Connor Burbridge,Democratic Party (United States),"17,082",13.4
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Luis Daniel Muñoz,Democratic Party (United States),"12,414",9.7
+2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"127,568",100.0
+2026,Rhode Island,Republican primary results,Primary,Winning,False,Raymond McKay,Republican Party (United States),"20,290",100.0
+2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,290",100.0
 2026,South Carolina,Republican primary results,Primary,Winning,True,Lindsey Graham,Republican Party (United States),"264,091",56.8
 2026,South Carolina,Republican primary results,Primary,Candidate,False,Mark Lynch,Republican Party (United States),"134,360",28.9
 2026,South Carolina,Republican primary results,Primary,Candidate,False,Thomas Dismukes,Republican Party (United States),"24,164",5.2

@@ -1,0 +1,142 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2020,Delaware,DE,governor,"Delaware gubernatorial election, 2020",Winning,John Carney,Democratic,292903,59.46,True,True
+2020,Delaware,DE,governor,"Delaware gubernatorial election, 2020",Candidate,Julianne Murray,Republican,190312,38.63,False,False
+2020,Delaware,DE,governor,"Delaware gubernatorial election, 2020",Candidate,Kathy DeMatteis,Independent,6150,1.25,False,False
+2020,Delaware,DE,governor,"Delaware gubernatorial election, 2020",Candidate,John Machurek,Libertarian,3270,0.66,False,False
+2020,Delaware,DE,governor,"Delaware gubernatorial election, 2020",Total,,,492635,100.0,False,False
+2020,Indiana,IN,attorney general,2020 Indiana attorney general election,Winning,Todd Rokita,Republican,1722007,58.34,True,False
+2020,Indiana,IN,attorney general,2020 Indiana attorney general election,Candidate,Jonathan Weinzapfel,Democratic,1229644,41.66,False,False
+2020,Indiana,IN,attorney general,2020 Indiana attorney general election,Total,,,2951651,100.0,False,False
+2020,Indiana,IN,governor,"Indiana gubernatorial election, 2020",Winning,Eric Holcomb,Republican,1706727,56.51,True,True
+2020,Indiana,IN,governor,"Indiana gubernatorial election, 2020",Candidate,Woody Myers,Democratic,968094,32.05,False,False
+2020,Indiana,IN,governor,"Indiana gubernatorial election, 2020",Candidate,Donald Rainwater,Libertarian,345567,11.44,False,False
+2020,Indiana,IN,governor,"Indiana gubernatorial election, 2020",Total,,,3020388,100.0,False,False
+2020,Missouri,MO,attorney general,"Missouri Attorney General election, 2020",Winning,Eric Schmitt,Republican,1752792,59.38,True,True
+2020,Missouri,MO,attorney general,"Missouri Attorney General election, 2020",Candidate,Rich Finneran,Democratic,1117713,37.87,False,False
+2020,Missouri,MO,attorney general,"Missouri Attorney General election, 2020",Candidate,Kevin C. Babock,Libertarian,81100,2.75,False,False
+2020,Missouri,MO,attorney general,"Missouri Attorney General election, 2020",Total,,,2951605,100.0,False,False
+2020,Missouri,MO,secretary of state,"Missouri Secretary of State election, 2020",Winning,Jay Ashcroft,Republican,1790873,60.59,True,True
+2020,Missouri,MO,secretary of state,"Missouri Secretary of State election, 2020",Candidate,Yinka Faleti,Democratic,1072415,36.28,False,False
+2020,Missouri,MO,secretary of state,"Missouri Secretary of State election, 2020",Candidate,Carl Herman Freese,Libertarian,55320,1.87,False,False
+2020,Missouri,MO,secretary of state,"Missouri Secretary of State election, 2020",Candidate,Paul Lehmann,Green,23981,0.81,False,False
+2020,Missouri,MO,secretary of state,"Missouri Secretary of State election, 2020",Candidate,Paul Venable,Constitution,13066,0.44,False,False
+2020,Missouri,MO,secretary of state,"Missouri Secretary of State election, 2020",Total,,,2955655,100.0,False,False
+2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Winning,Scott Fitzpatrick,Republican,1742943,59.1,True,True
+2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Candidate,Vicki Englund,Democratic,1122547,38.06,False,False
+2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Candidate,Nick Kasoff,Libertarian,64615,2.19,False,False
+2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Candidate,Joseph Civettini,Green,19107,0.65,False,False
+2020,Missouri,MO,state treasurer,2020 Missouri State Treasurer election,Total,,,2949212,100.0,False,False
+2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Winning,Mike Parson,Republican,1720202,57.11,True,True
+2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Candidate,Nicole Galloway,Democratic,1225771,40.69,False,False
+2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Candidate,Rik Combs,Libertarian,49067,1.63,False,False
+2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Candidate,Jerome Bauer,Green,17234,0.57,False,False
+2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Write-in,,,13,0.0,False,False
+2020,Missouri,MO,governor,"Missouri gubernatorial election, 2020",Total,,,3012287,100.0,False,False
+2020,Montana,MT,attorney general,2020 Montana Attorney General election,Winning,Austin Knudsen,Republican,348322,58.51,True,False
+2020,Montana,MT,attorney general,2020 Montana Attorney General election,Candidate,Raph Graybill,Democratic,247025,41.49,False,False
+2020,Montana,MT,attorney general,2020 Montana Attorney General election,Total,,,595347,100.0,False,False
+2020,Montana,MT,secretary of state,2020 Montana Secretary of State election,Winning,Christi Jacobsen,Republican,352939,59.56,True,False
+2020,Montana,MT,secretary of state,2020 Montana Secretary of State election,Candidate,Bryce Bennett,Democratic,239617,40.44,False,False
+2020,Montana,MT,secretary of state,2020 Montana Secretary of State election,Total,,,592556,100.0,False,False
+2020,Montana,MT,governor,2020 Montana gubernatorial election,Winning,Greg Gianforte,Republican,328548,54.43,True,False
+2020,Montana,MT,governor,2020 Montana gubernatorial election,Candidate,Mike Cooney,Democratic,250860,41.56,False,False
+2020,Montana,MT,governor,2020 Montana gubernatorial election,Candidate,Lyman Bishop,Libertarian,24179,4.01,False,False
+2020,Montana,MT,governor,2020 Montana gubernatorial election,Write-in,,,21,0.0,False,False
+2020,Montana,MT,governor,2020 Montana gubernatorial election,Total,,,603608,100.0,False,False
+2020,New Hampshire,NH,governor,2020 New Hampshire gubernatorial election,Winning,Chris Sununu,Republican,516609,65.12,True,True
+2020,New Hampshire,NH,governor,2020 New Hampshire gubernatorial election,Candidate,Dan Feltes,Democratic,264639,33.36,False,False
+2020,New Hampshire,NH,governor,2020 New Hampshire gubernatorial election,Candidate,Darryl W. Perry,Libertarian,11329,1.43,False,False
+2020,New Hampshire,NH,governor,2020 New Hampshire gubernatorial election,Write-in,,,683,0.09,False,False
+2020,New Hampshire,NH,governor,2020 New Hampshire gubernatorial election,Total,,,793260,100.0,False,False
+2020,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2020",Winning,Josh Stein,Democratic,2713400,50.13,True,True
+2020,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2020",Candidate,Jim O'Neill,Republican,2699778,49.87,False,False
+2020,North Carolina,NC,attorney general,"North Carolina Attorney General election, 2020",Total,,,5413178,100.0,False,False
+2020,North Carolina,NC,secretary of state,2020 North Carolina Secretary of State election,Winning,Elaine Marshall,Democratic,2755571,51.16,True,True
+2020,North Carolina,NC,secretary of state,2020 North Carolina Secretary of State election,Candidate,E.C. Sykes,Republican,2630559,48.84,False,False
+2020,North Carolina,NC,secretary of state,2020 North Carolina Secretary of State election,Total,,,5386130,100.0,False,False
+2020,North Carolina,NC,governor,2020 North Carolina gubernatorial election,Winning,Roy Cooper,Democratic,2834790,51.52,True,True
+2020,North Carolina,NC,governor,2020 North Carolina gubernatorial election,Candidate,Dan Forest,Republican,2586605,47.01,False,False
+2020,North Carolina,NC,governor,2020 North Carolina gubernatorial election,Candidate,Steven J. DiFiore,Libertarian,60449,1.1,False,False
+2020,North Carolina,NC,governor,2020 North Carolina gubernatorial election,Candidate,Al Pisano,Constitution,20934,0.38,False,False
+2020,North Carolina,NC,governor,2020 North Carolina gubernatorial election,Total,,,5502778,100.0,False,False
+2020,North Dakota,ND,governor,"North Dakota gubernatorial election, 2020",Winning,Doug Burgum,Republican,235479,65.84,True,True
+2020,North Dakota,ND,governor,"North Dakota gubernatorial election, 2020",Candidate,Shelley Lenz,North Dakota Democratic–nonpartisan League,90789,25.38,False,False
+2020,North Dakota,ND,governor,"North Dakota gubernatorial election, 2020",Candidate,DuWayne Hendrickson,Libertarian,13853,3.87,False,False
+2020,North Dakota,ND,governor,"North Dakota gubernatorial election, 2020",Write-in,,,17538,4.9,False,False
+2020,North Dakota,ND,governor,"North Dakota gubernatorial election, 2020",Total,,,357659,100.0,False,False
+2020,Oregon,OR,attorney general,2020 Oregon Attorney General election,Winning,Ellen Rosenblum,Democratic,1264716,55.97,True,True
+2020,Oregon,OR,attorney general,2020 Oregon Attorney General election,Candidate,Michael Cross,Republican,934357,41.35,False,False
+2020,Oregon,OR,attorney general,2020 Oregon Attorney General election,Candidate,Lars Hedbor,Libertarian,52087,2.31,False,False
+2020,Oregon,OR,attorney general,2020 Oregon Attorney General election,Write-in,,,8490,0.38,False,False
+2020,Oregon,OR,attorney general,2020 Oregon Attorney General election,Total,,,2259650,100.0,False,False
+2020,Oregon,OR,secretary of state,2020 Oregon Secretary of State election,Winning,Shemia Fagan,Democratic,1146370,50.31,True,False
+2020,Oregon,OR,secretary of state,2020 Oregon Secretary of State election,Candidate,Kim Thatcher,Republican,984597,43.21,False,False
+2020,Oregon,OR,secretary of state,2020 Oregon Secretary of State election,Candidate,Nathalie Paravicini,Green,82211,3.61,False,False
+2020,Oregon,OR,secretary of state,2020 Oregon Secretary of State election,Candidate,Kyle Markley,Libertarian,62985,2.76,False,False
+2020,Oregon,OR,secretary of state,2020 Oregon Secretary of State election,Write-in,,,2340,0.1,False,False
+2020,Oregon,OR,secretary of state,2020 Oregon Secretary of State election,Total,,,2278503,100.0,False,False
+2020,Oregon,OR,state treasurer,2020 Oregon State Treasurer election,Winning,Tobias Read,Democratic,1166703,51.68,True,True
+2020,Oregon,OR,state treasurer,2020 Oregon State Treasurer election,Candidate,Jeff Gudman,Republican,936916,41.5,False,False
+2020,Oregon,OR,state treasurer,2020 Oregon State Treasurer election,Candidate,Chris Henry,Independent,99870,4.42,False,False
+2020,Oregon,OR,state treasurer,2020 Oregon State Treasurer election,Candidate,Michael Marsh,Constitution,51894,2.3,False,False
+2020,Oregon,OR,state treasurer,2020 Oregon State Treasurer election,Write-in,,,2072,0.09,False,False
+2020,Oregon,OR,state treasurer,2020 Oregon State Treasurer election,Total,,,2257455,100.0,False,False
+2020,Pennsylvania,PA,attorney general,"Pennsylvania Attorney General election, 2020",Winning,Josh Shapiro,Democratic,3461472,50.85,True,True
+2020,Pennsylvania,PA,attorney general,"Pennsylvania Attorney General election, 2020",Candidate,Heather Heidelbaugh,Republican,3153831,46.33,False,False
+2020,Pennsylvania,PA,attorney general,"Pennsylvania Attorney General election, 2020",Candidate,Daniel Wassmer,Libertarian,120489,1.77,False,False
+2020,Pennsylvania,PA,attorney general,"Pennsylvania Attorney General election, 2020",Candidate,Richard L. Weiss,Green,70804,1.04,False,False
+2020,Pennsylvania,PA,attorney general,"Pennsylvania Attorney General election, 2020",Total,,,6806596,100.0,False,False
+2020,Pennsylvania,PA,state treasurer,"Pennsylvania State Treasurer election, 2020",Winning,Stacy Garrity,Republican,3291877,48.68,True,False
+2020,Pennsylvania,PA,state treasurer,"Pennsylvania State Treasurer election, 2020",Candidate,Joe Torsella,Democratic,3239331,47.91,False,True
+2020,Pennsylvania,PA,state treasurer,"Pennsylvania State Treasurer election, 2020",Candidate,Joseph Soloski,Libertarian,148614,2.2,False,False
+2020,Pennsylvania,PA,state treasurer,"Pennsylvania State Treasurer election, 2020",Candidate,Timothy Runkle,Green,81984,1.21,False,False
+2020,Pennsylvania,PA,state treasurer,"Pennsylvania State Treasurer election, 2020",Total,,,6761806,100.0,False,False
+2020,Utah,UT,attorney general,2020 Utah Attorney General election,Winning,Sean Reyes,Republican,878853,60.58,True,True
+2020,Utah,UT,attorney general,2020 Utah Attorney General election,Candidate,Greg Skordas,Democratic,489499,33.74,False,False
+2020,Utah,UT,attorney general,2020 Utah Attorney General election,Candidate,Rudy Bautista,Libertarian,82444,5.68,False,False
+2020,Utah,UT,attorney general,2020 Utah Attorney General election,Total,,,1450797,100.0,False,False
+2020,Utah,UT,governor,2020 Utah gubernatorial election,Winning,Spencer Cox,Republican,918754,62.98,True,False
+2020,Utah,UT,governor,2020 Utah gubernatorial election,Candidate,Christopher Peterson,Democratic,442754,30.35,False,False
+2020,Utah,UT,governor,2020 Utah gubernatorial election,Candidate,Daniel Cottam,Libertarian,51393,3.52,False,False
+2020,Utah,UT,governor,2020 Utah gubernatorial election,Candidate,Gregory Duerden,Independent American,25810,1.77,False,False
+2020,Utah,UT,governor,2020 Utah gubernatorial election,Write-in,,,20167,1.38,False,False
+2020,Utah,UT,governor,2020 Utah gubernatorial election,Total,,,1458878,100.0,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Winning,Phil Scott,Republican,248412,68.49,True,True
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,David Zuckerman,Progressive,99214,27.35,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,Kevin Hoyt,Independent,4576,1.26,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,Emily Peyton,Independent,3505,0.97,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,Erynn Hazlett Whitney,Independent,1777,0.49,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,Wayne Billado III,Independent,1431,0.39,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,Michael A. Devost,Independent,1160,0.32,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Candidate,Charly Dickerson,Independent,1037,0.29,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Write-in,,,1599,0.44,False,False
+2020,Vermont,VT,governor,2020 Vermont gubernatorial election,Total,,,362711,100.0,False,False
+2020,Washington,WA,attorney general,2020 Washington Attorney General election,Winning,Bob Ferguson,Democratic,2226418,56.43,True,True
+2020,Washington,WA,attorney general,2020 Washington Attorney General election,Candidate,Matt Larkin,Republican,1714927,43.47,False,False
+2020,Washington,WA,attorney general,2020 Washington Attorney General election,Write-in,,,3968,0.1,False,False
+2020,Washington,WA,attorney general,2020 Washington Attorney General election,Total,,,3945313,100.0,False,False
+2020,Washington,WA,secretary of state,2020 Washington Secretary of State election,Winning,Kim Wyman,Republican,2116141,53.61,True,True
+2020,Washington,WA,secretary of state,2020 Washington Secretary of State election,Candidate,Gael Tarleton,Democratic,1826710,46.27,False,False
+2020,Washington,WA,secretary of state,2020 Washington Secretary of State election,Write-in,,,4666,0.12,False,False
+2020,Washington,WA,secretary of state,2020 Washington Secretary of State election,Total,,,3947517,100.0,False,False
+2020,Washington,WA,state treasurer,2020 Washington State Treasurer election,Winning,Mike Pellicciotti,Democratic,2089159,53.41,True,False
+2020,Washington,WA,state treasurer,2020 Washington State Treasurer election,Candidate,Duane Davidson,Republican,1818895,46.5,False,True
+2020,Washington,WA,state treasurer,2020 Washington State Treasurer election,Write-in,,,3339,0.09,False,False
+2020,Washington,WA,state treasurer,2020 Washington State Treasurer election,Total,,,3911393,100.0,False,False
+2020,Washington,WA,governor,2020 Washington gubernatorial election,Winning,Jay Inslee,Democratic,2294243,56.56,True,True
+2020,Washington,WA,governor,2020 Washington gubernatorial election,Candidate,Loren Culp,Republican,1749066,43.12,False,False
+2020,Washington,WA,governor,2020 Washington gubernatorial election,Write-in,,,13145,0.32,False,False
+2020,Washington,WA,governor,2020 Washington gubernatorial election,Total,,,4056454,100.0,False,False
+2020,West Virginia,WV,secretary of state,2020 West Virginia Secretary of State election,Winning,Mac Warner,Republican,447537,58.26,True,True
+2020,West Virginia,WV,secretary of state,2020 West Virginia Secretary of State election,Candidate,Natalie Tennant,Democratic,320650,41.74,False,False
+2020,West Virginia,WV,secretary of state,2020 West Virginia Secretary of State election,Total,,,768187,100.0,False,False
+2020,West Virginia,WV,state treasurer,2020 West Virginia State Treasurer election,Winning,Riley Moore,Republican,425745,56.31,True,False
+2020,West Virginia,WV,state treasurer,2020 West Virginia State Treasurer election,Candidate,John Perdue,Democratic,330316,43.69,False,True
+2020,West Virginia,WV,state treasurer,2020 West Virginia State Treasurer election,Total,,,756061,100.0,False,False
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Winning,Jim Justice,Republican,497944,63.49,True,True
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Candidate,Ben Salango,Democratic,237024,30.22,False,False
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Candidate,Erika Kolenich,Libertarian,22527,2.87,False,False
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Candidate,S. Marshall Wilson (write-in),Together,15120,1.93,False,False
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Candidate,Daniel Lutz,Mountain,11309,1.44,False,False
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Write-in,,,363,0.05,False,False
+2020,West Virginia,WV,governor,"West Virginia gubernatorial election, 2020",Total,,,784287,100.0,False,False

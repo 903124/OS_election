@@ -1,0 +1,873 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2026,Alabama,AL,attorney general,Republican primary,Winning,Katherine Robertson,Republican,189183,40.53,True,False
+2026,Alabama,AL,attorney general,Republican primary,Winning,Jay Mitchell,Republican,160616,34.41,True,False
+2026,Alabama,AL,attorney general,Republican primary,Total,,,466730,100.0,False,False
+2026,Alabama,AL,attorney general,Republican primary runoff,Winning,Katherine Robertson,Republican,168424,55.07,True,False
+2026,Alabama,AL,attorney general,Republican primary runoff,Candidate,Jay Mitchell,Republican,137412,44.93,False,False
+2026,Alabama,AL,attorney general,Republican primary runoff,Total,,,305836,100.0,False,False
+2026,Alabama,AL,secretary of state,Republican primary,Winning,Caroleene Dobson,Republican,286914,65.48,True,False
+2026,Alabama,AL,secretary of state,Republican primary,Candidate,Christopher Christian Horn,Republican,99108,22.62,False,False
+2026,Alabama,AL,secretary of state,Republican primary,Candidate,Glenda S. Jackson,Republican,52173,11.91,False,False
+2026,Alabama,AL,secretary of state,Republican primary,Total,,,438195,100.0,False,False
+2026,Alabama,AL,state treasurer,Republican primary,Winning,Young Boozer,Republican,306295,68.04,True,True
+2026,Alabama,AL,state treasurer,Republican primary,Candidate,Steve Lolley,Republican,143864,31.96,False,False
+2026,Alabama,AL,state treasurer,Republican primary,Total,,,450159,100.0,False,False
+2026,Alabama,AL,governor,Republican primary,Winning,Tommy Tuberville,Republican,421754,85.4,True,False
+2026,Alabama,AL,governor,Republican primary,Candidate,Ken McFeeters,Republican,47166,9.6,False,False
+2026,Alabama,AL,governor,Republican primary,Candidate,"""Alabama"" Will Santivasci",Republican,24456,5.0,False,False
+2026,Alabama,AL,governor,Republican primary,Total,,,493376,100.0,False,False
+2026,Alabama,AL,governor,Democratic primary,Winning,Doug Jones,Democratic,286612,78.6,True,False
+2026,Alabama,AL,governor,Democratic primary,Candidate,Yolanda Rochelle Flowers,Democratic,18230,5.0,False,False
+2026,Alabama,AL,governor,Democratic primary,Candidate,Jamel J. Brown,Democratic,15808,4.3,False,False
+2026,Alabama,AL,governor,Democratic primary,Candidate,"Chad ""Chig"" Martin",Democratic,5765,1.6,False,False
+2026,Alabama,AL,governor,Democratic primary,Candidate,"Nathan ""Nate"" Mathis",Democratic,2953,0.8,False,False
+2026,Alabama,AL,governor,Democratic primary,Total,,,364635,100.0,False,False
+2026,Alaska,AK,governor,Top-four primary results,Winning,Jonathan Kreiss-Tomkins Zac Johnson,Democratic,37006,22.5,True,False
+2026,Alaska,AK,governor,Top-four primary results,Winning,Bernadette Wilson Mike Shower,Republican,16468,10.0,True,False
+2026,Alaska,AK,governor,Top-four primary results,Winning,Dave Bronson Josh Church,Republican,13364,8.1,True,False
+2026,Alaska,AK,governor,Top-four primary results,Winning,Treg Taylor Candice English,Republican,11928,7.3,True,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Tom Begich (withdrew) Julia Hnilicka (withdrew),Democratic,34172,20.8,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Click Bishop (withdrew) Greta Schuerch (withdrew),Republican,11527,7.0,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Adam Crum Robert Craig,Republican,8922,5.4,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Shelley Hughes Blake Gettys,Republican,8776,5.4,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Bill Walker Randy Hoffbeck,Independent,7341,4.5,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Matt Heilala Jesse Sumner (withdrew),Republican,4330,2.6,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Meda DeWitt Christopher Steere,Independent,4184,2.5,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Edna DeVries George Hightower,Republican,2167,1.3,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Lesil McGuire Elizabeth Rexford,Republican,2098,1.3,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Michael Loren Gilbert Timothy Hickel,Republican,675,0.4,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,"James W. ""JP4"" Parkin Ramadhani ""Ram"" Greer",Republican,638,0.4,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,Destry J. Payne Sr. Cliff Silvers,Independent,372,0.2,False,False
+2026,Alaska,AK,governor,Top-four primary results,Candidate,"Henry R. ""Hank"" Kroll Tommy R. Nicholson III",Republican,335,0.2,False,False
+2026,Alaska,AK,governor,Top-four primary results,Total,,,164303,100.0,False,False
+2026,Arizona,AZ,attorney general,Democratic primary results,Winning,Kris Mayes,Democratic,502510,100.0,True,True
+2026,Arizona,AZ,attorney general,Democratic primary results,Total,,,502510,100.0,False,False
+2026,Arizona,AZ,attorney general,Republican primary results,Winning,Warren Petersen,Republican,333955,56.4,True,False
+2026,Arizona,AZ,attorney general,Republican primary results,Candidate,Rodney Glassman,Republican,258173,43.6,False,False
+2026,Arizona,AZ,attorney general,Republican primary results,Total,,,592128,100.0,False,False
+2026,Arizona,AZ,secretary of state,Democratic primary results,Winning,Adrian Fontes,Democratic,496732,100.0,True,True
+2026,Arizona,AZ,secretary of state,Democratic primary results,Total,,,496732,100.0,False,False
+2026,Arizona,AZ,secretary of state,Republican primary results,Winning,Alexander Kolodin,Republican,345675,59.8,True,False
+2026,Arizona,AZ,secretary of state,Republican primary results,Candidate,Gina Swoboda,Republican,231986,40.2,False,False
+2026,Arizona,AZ,secretary of state,Republican primary results,Total,,,577661,100.0,False,False
+2026,Arizona,AZ,secretary of state,Green primary results,Winning,Duwayne Collier,Green,421,66.0,True,False
+2026,Arizona,AZ,secretary of state,Green primary results,Candidate,Jon Robert Ralston (write-in),Green,217,34.0,False,False
+2026,Arizona,AZ,secretary of state,Green primary results,Total,,,638,100.0,False,False
+2026,Arizona,AZ,state treasurer,Republican primary results,Winning,Elijah Norton,Republican,326944,56.4,True,False
+2026,Arizona,AZ,state treasurer,Republican primary results,Candidate,Katherine Haley,Republican,252792,43.6,False,False
+2026,Arizona,AZ,state treasurer,Republican primary results,Total,,,579736,100.0,False,False
+2026,Arizona,AZ,state treasurer,Democratic primary results,Winning,Nick Mansour,Democratic,485793,100.0,True,False
+2026,Arizona,AZ,state treasurer,Democratic primary results,Total,,,485793,100.0,False,False
+2026,Arizona,AZ,governor,Democratic primary results,Winning,Katie Hobbs,Democratic,512550,100.0,True,True
+2026,Arizona,AZ,governor,Democratic primary results,Total,,,512550,100.0,False,False
+2026,Arizona,AZ,governor,Republican primary results,Winning,Andy Biggs,Republican,453819,74.0,True,False
+2026,Arizona,AZ,governor,Republican primary results,Candidate,David Schweikert,Republican,88284,14.4,False,False
+2026,Arizona,AZ,governor,Republican primary results,Candidate,Scott Neely,Republican,42871,7.0,False,False
+2026,Arizona,AZ,governor,Republican primary results,Candidate,Ken Miceli,Republican,28026,4.6,False,False
+2026,Arizona,AZ,governor,Republican primary results,Total,,,613000,100.0,False,False
+2026,Arizona,AZ,governor,No Labels primary results,Winning,Teri Hourihan,Labels,5596,56.1,True,False
+2026,Arizona,AZ,governor,No Labels primary results,Candidate,Hugh Lytle,Labels,4384,43.9,False,False
+2026,Arizona,AZ,governor,No Labels primary results,Total,,,9980,100.0,False,False
+2026,Arizona,AZ,governor,Green primary results,Winning,Risa Lombardo,Green,430,67.2,True,False
+2026,Arizona,AZ,governor,Green primary results,Candidate,Carlos Melendez (write-in),Green,202,31.6,False,False
+2026,Arizona,AZ,governor,Green primary results,Candidate,Athena Eastwood (write-in),Green,4,0.6,False,False
+2026,Arizona,AZ,governor,Green primary results,Candidate,William Pounds (write-in),Green,4,0.6,False,False
+2026,Arizona,AZ,governor,Green primary results,Total,,,640,100.0,False,False
+2026,Arkansas,AR,secretary of state,Republican primary,Winning,Bryan Norris,Republican,91933,34.3,True,False
+2026,Arkansas,AR,secretary of state,Republican primary,Winning,Kim Hammer,Republican,90003,33.6,True,False
+2026,Arkansas,AR,secretary of state,Republican primary,Candidate,Cathy Hardin Harrison,Republican,85854,32.1,False,False
+2026,Arkansas,AR,secretary of state,Republican primary,Total,,,267790,100.0,False,False
+2026,Arkansas,AR,secretary of state,Republican primary runoff,Winning,Kim Hammer,Republican,40945,50.6,True,False
+2026,Arkansas,AR,secretary of state,Republican primary runoff,Candidate,Bryan Norris,Republican,40032,49.4,False,False
+2026,Arkansas,AR,secretary of state,Republican primary runoff,Total,,,80977,100.0,False,False
+2026,Arkansas,AR,governor,Democratic primary results,Winning,Fredrick Love,Democratic,104725,81.0,True,False
+2026,Arkansas,AR,governor,Democratic primary results,Candidate,Supha Xayprasith-Mays,Democratic,24520,19.0,False,False
+2026,Arkansas,AR,governor,Democratic primary results,Total,,,129245,100.0,False,False
+2026,California,CA,attorney general,Blanket primary results,Winning,Rob Bonta,Democratic,4979967,56.62,True,True
+2026,California,CA,attorney general,Blanket primary results,Winning,Michael Gates,Republican,3337433,37.94,True,False
+2026,California,CA,attorney general,Blanket primary results,Candidate,Marjorie Mikels,Green,478450,5.44,False,False
+2026,California,CA,attorney general,Blanket primary results,Total,,,8795850,100.0,False,False
+2026,California,CA,secretary of state,Blanket primary results,Winning,Shirley Weber,Democratic,5092491,58.7,True,True
+2026,California,CA,secretary of state,Blanket primary results,Winning,Donald P. Wagner,Republican,3187180,36.74,True,False
+2026,California,CA,secretary of state,Blanket primary results,Candidate,Michael Feinstein,Green,207602,2.39,False,False
+2026,California,CA,secretary of state,Blanket primary results,Candidate,Gary Blenner,Green,187925,2.17,False,False
+2026,California,CA,secretary of state,Blanket primary results,Total,,,8675198,100.0,False,False
+2026,California,CA,governor,Primary election results,Winning,Xavier Becerra,Democratic,2591857,27.98,True,False
+2026,California,CA,governor,Primary election results,Candidate,Tom Steyer,Democratic,2110707,22.79,False,False
+2026,California,CA,governor,Primary election results,Candidate,Chad Bianco,Republican,941708,10.17,False,False
+2026,California,CA,governor,Primary election results,Candidate,Katie Porter,Democratic,403908,4.36,False,False
+2026,California,CA,governor,Primary election results,Candidate,Matt Mahan,Democratic,327537,3.54,False,False
+2026,California,CA,governor,Primary election results,Candidate,Antonio Villaraigosa,Democratic,104107,1.12,False,False
+2026,California,CA,governor,Primary election results,Candidate,Tony Thurmond,Democratic,63762,0.69,False,False
+2026,California,CA,governor,Primary election results,Candidate,Ramsey Robinson,Freedom,51803,0.56,False,False
+2026,California,CA,governor,Primary election results,Candidate,Betty Yee (withdrawn),Democratic,40873,0.44,False,False
+2026,California,CA,governor,Primary election results,Candidate,Eric Swalwell (withdrawn),Democratic,28164,0.3,False,False
+2026,California,CA,governor,Primary election results,Candidate,Tim Nelson,Republican,23712,0.26,False,False
+2026,California,CA,governor,Primary election results,Candidate,Butch Ware (write-in),Green,22493,0.24,False,False
+2026,California,CA,governor,Primary election results,Candidate,Randeep S. Dhillon,Republican,21937,0.24,False,False
+2026,California,CA,governor,Primary election results,Candidate,Barack D. Obama Shaw,Democratic,16716,0.18,False,False
+2026,California,CA,governor,Primary election results,Candidate,Carolina Buhler,Democratic,15013,0.16,False,False
+2026,California,CA,governor,Primary election results,Candidate,Leo Samuel Zacky,Republican,14708,0.16,False,False
+2026,California,CA,governor,Primary election results,Candidate,Gretha Solórzano,Republican,12563,0.14,False,False
+2026,California,CA,governor,Primary election results,Candidate,Matthew Chase Levy,Democratic,11059,0.12,False,False
+2026,California,CA,governor,Primary election results,Candidate,Tom Woodard (withdrawn),Libertarian,9328,0.1,False,False
+2026,California,CA,governor,Primary election results,Candidate,"Erin ""Zez"" Zezulak",Democratic,9251,0.1,False,False
+2026,California,CA,governor,Primary election results,Candidate,Louis A. De Barraicua,Democratic,8851,0.1,False,False
+2026,California,CA,governor,Primary election results,Candidate,Mohammad Arif,Democratic,8458,0.09,False,False
+2026,California,CA,governor,Primary election results,Candidate,Leo Naranjo IV,Republican,8099,0.09,False,False
+2026,California,CA,governor,Primary election results,Candidate,Nancy D. Young,No party preference,7012,0.08,False,False
+2026,California,CA,governor,Primary election results,Candidate,James Athans Jr.,Republican,6633,0.07,False,False
+2026,California,CA,governor,Primary election results,Candidate,Joseph Cabrera,No party preference,6196,0.07,False,False
+2026,California,CA,governor,Primary election results,Candidate,David Zickefoose,Republican,5882,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Satish Rao,Democratic,5668,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Christine R. Sarmiento,No party preference,5643,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Jon Henderson,No party preference,5589,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Alicia Olivia Lapp,Republican,5370,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Amanda Martin,No party preference,5234,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Frederic C. Schultz,No party preference,5230,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Rafael M. Hernandez,Republican,5223,0.06,False,False
+2026,California,CA,governor,Primary election results,Candidate,Scott P. Shields,Democratic,5043,0.05,False,False
+2026,California,CA,governor,Primary election results,Candidate,Derek Grasty,Democratic,4994,0.05,False,False
+2026,California,CA,governor,Primary election results,Candidate,Larry Azevedo,Democratic,4675,0.05,False,False
+2026,California,CA,governor,Primary election results,Candidate,Elaine Culotti,No party preference,4483,0.05,False,False
+2026,California,CA,governor,Primary election results,Candidate,Patricia De Luca Basualdo,Republican,4064,0.04,False,False
+2026,California,CA,governor,Primary election results,Candidate,Mauro Alberto Orozco,No party preference,4052,0.04,False,False
+2026,California,CA,governor,Primary election results,Candidate,Raji Rab,Democratic,3606,0.04,False,False
+2026,California,CA,governor,Primary election results,Candidate,Sophia Edum-a-Sam,Democratic,3550,0.04,False,False
+2026,California,CA,governor,Primary election results,Candidate,Brent Maupin,No party preference,3132,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Akinyemi Agbede,Democratic,3037,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Lewis Herms,No party preference,2995,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Naomi Bar-Lev,No party preference,2744,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Daniel Mercuri,No party preference,2667,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Ché Ahn (write-in),Republican,2419,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Gary Howard Kidgell,Democratic,2415,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Joel E. Jacob,Democratic,2350,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Thunder Parley,Democratic,2320,0.03,False,False
+2026,California,CA,governor,Primary election results,Candidate,Margaret Trowe,No party preference,2286,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,LivingForGod AndCountry DeMott,No party preference,2206,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,Reza Safarnejad,No party preference,1990,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,Duane Terrence Loynes Jr.,No party preference,1905,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,Don J. Grundmann,No party preference,1903,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,Anne Komarovsk,No party preference,1535,0.02,False,False
+2026,California,CA,governor,Primary election results,Candidate,Dawit Kellel,No party preference,1360,0.01,False,False
+2026,California,CA,governor,Primary election results,Candidate,Sam Sandak,No party preference,1222,0.01,False,False
+2026,California,CA,governor,Primary election results,Candidate,Max Fomin,No party preference,842,0.01,False,False
+2026,California,CA,governor,Primary election results,Candidate,Lukasz Adam Filinski,No party preference,527,0.01,False,False
+2026,California,CA,governor,Primary election results,Candidate,Serge Fiankan,No party preference,488,0.01,False,False
+2026,California,CA,governor,Primary election results,Candidate,Sean Forbes (write-in),No party preference,22,0.0,False,False
+2026,California,CA,governor,Primary election results,Candidate,Jibri J. Peavy (write-in),Democratic,10,0.0,False,False
+2026,California,CA,governor,Primary election results,Candidate,Dirk Langer (write-in),No party preference,8,0.0,False,False
+2026,California,CA,governor,Primary election results,Candidate,Kalid Meky (write-in),Democratic,5,0.0,False,False
+2026,California,CA,governor,Primary election results,Candidate,Michael J. Dilger (write-in),No party preference,1,0.0,False,False
+2026,California,CA,governor,Primary election results,Total,,,9262468,100.0,False,False
+2026,Colorado,CO,attorney general,Democratic primary results,Winning,Jena Griswold,Democratic,385788,44.2,True,False
+2026,Colorado,CO,attorney general,Democratic primary results,Candidate,David Seligman,Democratic,172829,19.8,False,False
+2026,Colorado,CO,attorney general,Democratic primary results,Candidate,Michael Dougherty,Democratic,170269,19.5,False,False
+2026,Colorado,CO,attorney general,Democratic primary results,Candidate,Hetal Doshi,Democratic,143662,16.5,False,False
+2026,Colorado,CO,attorney general,Democratic primary results,Total,,,872548,100.0,False,False
+2026,Colorado,CO,attorney general,Republican primary results,Winning,Michael Allen,Republican,287516,59.9,True,False
+2026,Colorado,CO,attorney general,Republican primary results,Candidate,David Willson,Republican,192529,40.1,False,False
+2026,Colorado,CO,attorney general,Republican primary results,Total,,,480045,100.0,False,False
+2026,Colorado,CO,secretary of state,Democratic primary results,Winning,Amanda Gonzalez,Democratic,530299,64.4,True,False
+2026,Colorado,CO,secretary of state,Democratic primary results,Candidate,Jessie Danielson,Democratic,293351,35.6,False,False
+2026,Colorado,CO,secretary of state,Democratic primary results,Total,,,823650,100.0,False,False
+2026,Colorado,CO,secretary of state,Republican primary results,Winning,James Wiley,Republican,445626,100.0,True,False
+2026,Colorado,CO,secretary of state,Republican primary results,Total,,,445626,100.0,False,False
+2026,Colorado,CO,secretary of state,Libertarian primary results,Winning,Alex Astley,Libertarian,2204,61.9,True,False
+2026,Colorado,CO,secretary of state,Libertarian primary results,Candidate,Sean Vadney,Libertarian,1357,38.1,False,False
+2026,Colorado,CO,secretary of state,Libertarian primary results,Total,,,3561,100.0,False,False
+2026,Colorado,CO,state treasurer,Democratic primary results,Winning,Jeff Bridges,Democratic,713618,100.0,True,False
+2026,Colorado,CO,state treasurer,Democratic primary results,Total,,,713618,100.0,False,False
+2026,Colorado,CO,state treasurer,Republican primary results,Winning,Kevin Grantham,Republican,447606,100.0,True,False
+2026,Colorado,CO,state treasurer,Republican primary results,Total,,,447606,100.0,False,False
+2026,Colorado,CO,governor,Democratic primary results,Winning,Phil Weiser,Democratic,505444,56.9,True,False
+2026,Colorado,CO,governor,Democratic primary results,Candidate,Michael Bennet,Democratic,383131,43.1,False,False
+2026,Colorado,CO,governor,Democratic primary results,Total,,,888575,100.0,False,False
+2026,Colorado,CO,governor,Republican primary results,Winning,Victor Marx,Republican,208455,39.9,True,False
+2026,Colorado,CO,governor,Republican primary results,Candidate,Barbara Kirkmeyer,Republican,205990,39.4,False,False
+2026,Colorado,CO,governor,Republican primary results,Candidate,Scott Bottoms,Republican,108529,20.8,False,False
+2026,Colorado,CO,governor,Republican primary results,Total,,,522974,100.0,False,False
+2026,Colorado,CO,governor,Unity primary results,Winning,Jeff Peckman,Unity,146,53.7,True,False
+2026,Colorado,CO,governor,Unity primary results,Candidate,Paul Noel Fiorino,Unity,126,46.3,False,False
+2026,Colorado,CO,governor,Unity primary results,Total,,,272,100.0,False,False
+2026,Connecticut,CT,governor,"May 16, 2026 Democratic convention results",Winning,Ned Lamont,Democratic,1468,74.6,True,True
+2026,Connecticut,CT,governor,"May 16, 2026 Democratic convention results",Candidate,Josh Elliott,Democratic,501,25.4,False,False
+2026,Connecticut,CT,governor,"May 16, 2026 Democratic convention results",Total,,,1969,100.0,False,False
+2026,Connecticut,CT,governor,Democratic primary results,Winning,Ned Lamont,Democratic,126497,67.9,True,True
+2026,Connecticut,CT,governor,Democratic primary results,Candidate,Josh Elliott,Democratic,59849,32.1,False,False
+2026,Connecticut,CT,governor,Democratic primary results,Total,,,186346,100.0,False,False
+2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Kathy Jennings,Democratic,,,False,True
+2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Dwayne Bensing,Democratic,,,False,False
+2026,Delaware,DE,attorney general,Democratic primary results,Candidate,Patty Rickman,Democratic,,,False,False
+2026,Delaware,DE,attorney general,Democratic primary results,Total,,,,100.0,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Ted Lauzen,Democratic,,,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Mike Miller,Democratic,,,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Candidate,Michael Smith,Democratic,,,False,False
+2026,Delaware,DE,state treasurer,Democratic primary results,Total,,,,100.0,False,False
+2026,District of Columbia,DC,attorney general,Democratic primary,Winning,Brian Schwalb,District,115909,90.63,True,True
+2026,District of Columbia,DC,attorney general,Democratic primary,Candidate,J.P. Szymkowicz,District,11381,8.9,False,False
+2026,District of Columbia,DC,attorney general,Democratic primary,Write-in,,,605,0.47,False,False
+2026,District of Columbia,DC,attorney general,Democratic primary,Total,,,127895,100.0,False,False
+2026,District of Columbia,DC,attorney general,Republican primary,Winning,Manuel Rivera,District,2530,92.17,True,False
+2026,District of Columbia,DC,attorney general,Republican primary,Write-in,,,215,7.83,False,False
+2026,District of Columbia,DC,attorney general,Republican primary,Total,,,2745,100.0,False,False
+2026,District of Columbia,DC,attorney general,Statehood Green primary,Write-in,,,290,100.0,False,False
+2026,District of Columbia,DC,attorney general,Statehood Green primary,Total,,,290,100.0,False,False
+2026,Georgia,GA,attorney general,Republican primary,Winning,Brian Strickland,Republican,608583,71.6,True,False
+2026,Georgia,GA,attorney general,Republican primary,Candidate,Bill Cowsert,Republican,241382,28.4,False,False
+2026,Georgia,GA,attorney general,Republican primary,Total,,,849965,100.0,False,False
+2026,Georgia,GA,attorney general,Democratic primary,Winning,Tanya Miller,Democratic,880160,84.6,True,False
+2026,Georgia,GA,attorney general,Democratic primary,Candidate,Bob Trammell,Democratic,160852,15.5,False,False
+2026,Georgia,GA,attorney general,Democratic primary,Total,,,1041012,100.0,False,False
+2026,Georgia,GA,secretary of state,Republican primary,Winning,Tim Fleming,Republican,334055,39.2,True,False
+2026,Georgia,GA,secretary of state,Republican primary,Winning,Vernon Jones,Republican,232448,27.3,True,False
+2026,Georgia,GA,secretary of state,Republican primary,Candidate,Kelvin King,Republican,135795,15.9,False,False
+2026,Georgia,GA,secretary of state,Republican primary,Candidate,Gabriel Sterling,Republican,101746,12.0,False,False
+2026,Georgia,GA,secretary of state,Republican primary,Candidate,Ted Metz,Republican,47724,5.6,False,False
+2026,Georgia,GA,secretary of state,Republican primary,Total,,,851768,100.0,False,False
+2026,Georgia,GA,secretary of state,Republican primary runoff,Winning,Tim Fleming,Republican,430455,64.5,True,False
+2026,Georgia,GA,secretary of state,Republican primary runoff,Candidate,Vernon Jones,Republican,236920,35.5,False,False
+2026,Georgia,GA,secretary of state,Republican primary runoff,Total,,,667375,100.0,False,False
+2026,Georgia,GA,secretary of state,Democratic primary,Winning,Penny Brown Reynolds,Democratic,435185,42.34,True,False
+2026,Georgia,GA,secretary of state,Democratic primary,Winning,Dana Barrett,Democratic,361997,35.22,True,False
+2026,Georgia,GA,secretary of state,Democratic primary,Candidate,Cam Ashling,Democratic,126515,12.31,False,False
+2026,Georgia,GA,secretary of state,Democratic primary,Candidate,Adrian Consonery Jr.,Democratic,104140,10.13,False,False
+2026,Georgia,GA,secretary of state,Democratic primary,Total,,,1027837,100.0,False,False
+2026,Georgia,GA,secretary of state,Democratic primary runoff,Winning,Penny Brown Reynolds,Democratic,242439,63.1,True,False
+2026,Georgia,GA,secretary of state,Democratic primary runoff,Candidate,Dana Barrett,Democratic,141759,36.9,False,False
+2026,Georgia,GA,secretary of state,Democratic primary runoff,Total,,,384198,100.0,False,False
+2026,Georgia,GA,governor,Republican primary results,Winning,Burt Jones,Republican,358184,38.4,True,False
+2026,Georgia,GA,governor,Republican primary results,Winning,Rick Jackson,Republican,303621,32.5,True,False
+2026,Georgia,GA,governor,Republican primary results,Candidate,Brad Raffensperger,Republican,140085,15.0,False,False
+2026,Georgia,GA,governor,Republican primary results,Candidate,Chris Carr,Republican,110720,11.9,False,False
+2026,Georgia,GA,governor,Republican primary results,Candidate,Clark Dean,Republican,7051,0.8,False,False
+2026,Georgia,GA,governor,Republican primary results,Candidate,Gregg Kirkpatrick,Republican,5537,0.6,False,False
+2026,Georgia,GA,governor,Republican primary results,Candidate,Ken Yasger,Republican,4770,0.5,False,False
+2026,Georgia,GA,governor,Republican primary results,Candidate,Thomas Williams,Republican,3849,0.4,False,False
+2026,Georgia,GA,governor,Republican primary results,Total,,,933817,100.0,False,False
+2026,Georgia,GA,governor,Republican primary runoff results,Winning,Rick Jackson,Republican,373543,52.6,True,False
+2026,Georgia,GA,governor,Republican primary runoff results,Candidate,Burt Jones,Republican,336011,47.4,False,False
+2026,Georgia,GA,governor,Republican primary runoff results,Total,,,709554,100.0,False,False
+2026,Georgia,GA,governor,Democratic primary results,Winning,Keisha Lance Bottoms,Democratic,608264,56.2,True,False
+2026,Georgia,GA,governor,Democratic primary results,Candidate,Jason Esteves,Democratic,201852,18.7,False,False
+2026,Georgia,GA,governor,Democratic primary results,Candidate,Mike Thurmond,Democratic,139787,12.9,False,False
+2026,Georgia,GA,governor,Democratic primary results,Candidate,Geoff Duncan,Democratic,75721,7.0,False,False
+2026,Georgia,GA,governor,Democratic primary results,Candidate,Derrick Jackson,Democratic,25050,2.3,False,False
+2026,Georgia,GA,governor,Democratic primary results,Candidate,Amanda Duffy,Democratic,18808,1.7,False,False
+2026,Georgia,GA,governor,Democratic primary results,Candidate,Olujimi Brown,Democratic,12329,1.1,False,False
+2026,Georgia,GA,governor,Democratic primary results,Total,,,1081811,100.0,False,False
+2026,Guam,GU,governor,Democratic primary results,Winning,Therese Terlaje,Democratic,6446,47.75,True,False
+2026,Guam,GU,governor,Democratic primary results,Candidate,Josh Tenorio,Democratic,5994,44.4,False,False
+2026,Guam,GU,governor,Democratic primary results,Candidate,Joe S. San Agustin,Democratic,1050,7.78,False,False
+2026,Guam,GU,governor,Democratic primary results,Write-in,,,9,0.07,False,False
+2026,Guam,GU,governor,Democratic primary results,Total,,,13499,100.0,False,False
+2026,Guam,GU,governor,Republican primary results,Winning,Vicente Ada,Republican,5179,60.51,True,False
+2026,Guam,GU,governor,Republican primary results,Candidate,Frank F. Blas Jr.,Republican,3367,39.34,False,False
+2026,Guam,GU,governor,Republican primary results,Write-in,,,13,0.15,False,False
+2026,Guam,GU,governor,Republican primary results,Total,,,8559,100.0,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Winning,Josh Green,Democratic,184289,81.7,True,True
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Lauren Kapoliahi’iaka Shim,Democratic,11199,5.0,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,George Lucas-Tadeo,Democratic,8134,3.6,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Duke Bourgoin,Democratic,4595,2.0,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Total,,,208217,100.0,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Winning,Derek Kawakami,Democratic,140247,62.2,True,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Della Au Belatti,Democratic,55245,24.5,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,John Choi,Democratic,13009,5.8,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Sam Puletasi,Democratic,2152,1.0,False,False
+2026,Hawaii,HI,governor,Democratic primary results,Candidate,Ku L. Cuadra,Democratic,1417,0.6,False,False
+2026,Hawaii,HI,governor,Republican primary results,Winning,Gary Cordery,Republican,36428,66.6,True,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Ken Fujiyama,Republican,11599,21.2,False,False
+2026,Hawaii,HI,governor,Republican primary results,Total,,,48027,100.0,False,False
+2026,Hawaii,HI,governor,Republican primary results,Winning,Daniel Anthony,Republican,16982,31.1,True,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Margaret Rose Mejia,Republican,10833,19.8,False,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Robert E. Peters,Republican,8899,16.3,False,False
+2026,Hawaii,HI,governor,Republican primary results,Candidate,Hopelin Cresencia,Republican,8070,14.8,False,False
+2026,Idaho,ID,attorney general,Republican primary results,Winning,Raúl Labrador,Republican,186106,100.0,True,True
+2026,Idaho,ID,attorney general,Republican primary results,Total,,,186106,100.0,False,False
+2026,Idaho,ID,attorney general,Democratic primary results,Winning,Lori Hickman,Democratic,43348,100.0,True,False
+2026,Idaho,ID,attorney general,Democratic primary results,Total,,,43348,100.0,False,False
+2026,Idaho,ID,secretary of state,Republican primary results,Winning,Phil McGrane,Republican,188149,100.0,True,True
+2026,Idaho,ID,secretary of state,Republican primary results,Total,,,188149,100.0,False,False
+2026,Idaho,ID,secretary of state,Democratic primary results,Winning,Shawn Keenan,Democratic,43139,100.0,True,False
+2026,Idaho,ID,secretary of state,Democratic primary results,Total,,,43139,100.0,False,False
+2026,Idaho,ID,state treasurer,Republican primary results,Winning,Julie Ellsworth,Republican,186498,100.0,True,True
+2026,Idaho,ID,state treasurer,Republican primary results,Total,,,186498,100.0,False,False
+2026,Idaho,ID,state treasurer,Democratic primary results,Winning,Kevin Jones,Democratic,42780,100.0,True,False
+2026,Idaho,ID,state treasurer,Democratic primary results,Total,,,42780,100.0,False,False
+2026,Idaho,ID,governor,Republican primary,Winning,Brad Little,Republican,140778,58.96,True,True
+2026,Idaho,ID,governor,Republican primary,Candidate,Mark Fitzpatrick,Republican,68546,28.67,False,False
+2026,Idaho,ID,governor,Republican primary,Candidate,Lisa Marie,Republican,7215,3.02,False,False
+2026,Idaho,ID,governor,Republican primary,Candidate,Justin Plante,Republican,5286,2.21,False,False
+2026,Idaho,ID,governor,Republican primary,Candidate,Sean Crystal,Republican,4558,1.91,False,False
+2026,Idaho,ID,governor,Republican primary,Candidate,Ron James,Republican,4510,1.89,False,False
+2026,Idaho,ID,governor,Republican primary,Candidate,Daniel Fowler,Republican,4197,1.75,False,False
+2026,Idaho,ID,governor,Republican primary,Candidate,Ethan Giles,Republican,3672,1.54,False,False
+2026,Idaho,ID,governor,Republican primary,Total,,,238762,100.0,False,False
+2026,Idaho,ID,governor,Democratic primary,Winning,Terri Pickens,Democratic,30331,61.42,True,False
+2026,Idaho,ID,governor,Democratic primary,Candidate,Jill Kirkham,Democratic,8377,16.96,False,False
+2026,Idaho,ID,governor,Democratic primary,Candidate,Maxine Durand,Democratic,7178,14.53,False,False
+2026,Idaho,ID,governor,Democratic primary,Candidate,Chanelle Torrez,Democratic,3500,7.09,False,False
+2026,Idaho,ID,governor,Democratic primary,Total,,,49386,100.0,False,False
+2026,Illinois,IL,attorney general,Democratic primary results,Winning,Kwame Raoul,Democratic,1155998,100.0,True,True
+2026,Illinois,IL,attorney general,Democratic primary results,Total,,,1155998,100.0,False,False
+2026,Illinois,IL,attorney general,Republican primary results,Winning,Bob Fioretti,Republican,495600,100.0,True,False
+2026,Illinois,IL,attorney general,Republican primary results,Total,,,495600,100.0,False,False
+2026,Illinois,IL,secretary of state,Democratic primary results,Winning,Alexi Giannoulias,Democratic,1171435,100.0,True,True
+2026,Illinois,IL,secretary of state,Democratic primary results,Total,,,1171435,100.0,False,False
+2026,Illinois,IL,secretary of state,Republican primary results,Winning,Diane Harris,Republican,279727,53.0,True,False
+2026,Illinois,IL,secretary of state,Republican primary results,Candidate,Walter Adamczyk,Republican,248198,47.0,False,False
+2026,Illinois,IL,secretary of state,Republican primary results,Total,,,527925,100.0,False,False
+2026,Illinois,IL,state treasurer,Democratic primary results,Winning,Mike Frerichs,Democratic,1119356,100.0,True,False
+2026,Illinois,IL,state treasurer,Democratic primary results,Total,,,1119356,100.0,False,False
+2026,Illinois,IL,state treasurer,Republican primary results,Winning,Max Solomon (write-in),Republican,22990,100.0,True,False
+2026,Illinois,IL,state treasurer,Republican primary results,Total,,,22990,100.0,False,False
+2026,Illinois,IL,governor,Democratic primary results,Winning,JB Pritzker,Democratic,1197587,100.0,True,True
+2026,Illinois,IL,governor,Democratic primary results,Total,,,1197587,100.0,False,False
+2026,Illinois,IL,governor,Republican primary results,Winning,Darren Bailey,Republican,304162,53.3,True,False
+2026,Illinois,IL,governor,Republican primary results,Candidate,Ted Dabrowski,Republican,165229,28.9,False,False
+2026,Illinois,IL,governor,Republican primary results,Candidate,James Mendrick,Republican,54599,9.6,False,False
+2026,Illinois,IL,governor,Republican primary results,Candidate,Rick Heidner,Republican,46374,8.1,False,False
+2026,Illinois,IL,governor,Republican primary results,Total,,,570364,100.0,False,False
+2026,Iowa,IA,attorney general,Republican primary results,Winning,Brenna Bird,Republican,181254,99.1,True,True
+2026,Iowa,IA,attorney general,Republican primary results,Write-in,,,1581,0.9,False,False
+2026,Iowa,IA,attorney general,Republican primary results,Total,,,182835,100.0,False,False
+2026,Iowa,IA,attorney general,Democratic primary results,Winning,Nathan Willems,Democratic,175646,99.8,True,False
+2026,Iowa,IA,attorney general,Democratic primary results,Write-in,,,380,0.2,False,False
+2026,Iowa,IA,attorney general,Democratic primary results,Total,,,176026,100.0,False,False
+2026,Iowa,IA,secretary of state,Republican primary results,Winning,Paul Pate,Republican,183807,99.6,True,True
+2026,Iowa,IA,secretary of state,Republican primary results,Write-in,,,827,0.5,False,False
+2026,Iowa,IA,secretary of state,Republican primary results,Total,,,184634,100.0,False,False
+2026,Iowa,IA,secretary of state,Democratic primary results,Winning,Ryan Peterman,Democratic,176658,99.8,True,False
+2026,Iowa,IA,secretary of state,Democratic primary results,Write-in,,,438,0.3,False,False
+2026,Iowa,IA,secretary of state,Democratic primary results,Total,,,177096,100.0,False,False
+2026,Iowa,IA,state treasurer,Republican primary results,Winning,Roby Smith,Republican,175007,99.5,True,True
+2026,Iowa,IA,state treasurer,Republican primary results,Write-in,,,849,0.5,False,False
+2026,Iowa,IA,state treasurer,Republican primary results,Total,,,175856,100.0,False,False
+2026,Iowa,IA,state treasurer,Democratic primary results,Winning,John Norwood,Democratic,176032,99.8,True,False
+2026,Iowa,IA,state treasurer,Democratic primary results,Write-in,,,340,0.2,False,False
+2026,Iowa,IA,state treasurer,Democratic primary results,Total,,,176372,100.0,False,False
+2026,Iowa,IA,governor,Republican primary results,Winning,Zach Lahn,Republican,80765,37.7,True,False
+2026,Iowa,IA,governor,Republican primary results,Candidate,Randy Feenstra,Republican,79113,36.9,False,False
+2026,Iowa,IA,governor,Republican primary results,Candidate,Adam Steen,Republican,31087,14.5,False,False
+2026,Iowa,IA,governor,Republican primary results,Candidate,Brad Sherman,Republican,15076,7.0,False,False
+2026,Iowa,IA,governor,Republican primary results,Candidate,Eddie Andrews,Republican,7694,3.6,False,False
+2026,Iowa,IA,governor,Republican primary results,Write-in,,,794,0.4,False,False
+2026,Iowa,IA,governor,Republican primary results,Total,,,214529,100.0,False,False
+2026,Iowa,IA,governor,Democratic primary results,Winning,Rob Sand,Democratic,189442,99.6,True,False
+2026,Iowa,IA,governor,Democratic primary results,Write-in,,,751,0.4,False,False
+2026,Iowa,IA,governor,Democratic primary results,Total,,,190193,100.0,False,False
+2026,Kansas,KS,attorney general,Republican primary results,Winning,Kris Kobach,Republican,278204,100.0,True,True
+2026,Kansas,KS,attorney general,Republican primary results,Total,,,278204,100.0,False,False
+2026,Kansas,KS,attorney general,Democratic primary results,Winning,Chris Mann,Democratic,199541,100.0,True,False
+2026,Kansas,KS,attorney general,Democratic primary results,Total,,,199541,100.0,False,False
+2026,Kansas,KS,secretary of state,Republican primary results,Winning,Pat Proctor,Republican,266853,100.0,True,False
+2026,Kansas,KS,secretary of state,Republican primary results,Total,,,266853,100.0,False,False
+2026,Kansas,KS,secretary of state,Democratic primary results,Winning,Jennifer Day,Democratic,176899,85.3,True,False
+2026,Kansas,KS,secretary of state,Democratic primary results,Candidate,Samuel Lane,Democratic,30467,14.7,False,False
+2026,Kansas,KS,secretary of state,Democratic primary results,Total,,,207366,100.0,False,False
+2026,Kansas,KS,state treasurer,Republican primary results,Winning,Steven Johnson,Republican,275638,100.0,True,True
+2026,Kansas,KS,state treasurer,Republican primary results,Total,,,275638,100.0,False,False
+2026,Kansas,KS,state treasurer,Democratic primary results,Winning,Juan Luengo,Democratic,193763,100.0,True,False
+2026,Kansas,KS,state treasurer,Democratic primary results,Total,,,193763,100.0,False,False
+2026,Kansas,KS,governor,Democratic primary results,Winning,Cindy Holscher KC Ohaebosim,Democratic,108478,48.6,True,False
+2026,Kansas,KS,governor,Democratic primary results,Candidate,Ethan Corson Renee Duxler,Democratic,86623,38.8,False,False
+2026,Kansas,KS,governor,Democratic primary results,Candidate,Curt Skoog Jennifer Bacani McKenny,Democratic,28024,12.6,False,False
+2026,Kansas,KS,governor,Democratic primary results,Total,,,223125,100.0,False,False
+2026,Kansas,KS,governor,Republican primary results,Winning,Ty Masterson Jeff Klemp,Republican,147213,43.2,True,False
+2026,Kansas,KS,governor,Republican primary results,Candidate,Philip Sarnecki Joy Eakins,Republican,76292,22.4,False,False
+2026,Kansas,KS,governor,Republican primary results,Candidate,Vicki Schmidt Joe Newland,Republican,46693,13.7,False,False
+2026,Kansas,KS,governor,Republican primary results,Candidate,Scott Schwab Ken Rahjes,Republican,37318,10.9,False,False
+2026,Kansas,KS,governor,Republican primary results,Candidate,Charlotte O'Hara Michelle Dombrosky,Republican,14493,4.3,False,False
+2026,Kansas,KS,governor,Republican primary results,Candidate,Stacy Rogers Michael Smith,Republican,11789,3.5,False,False
+2026,Kansas,KS,governor,Republican primary results,Candidate,Nick Reinecker Katy Reinecker,Republican,7122,2.1,False,False
+2026,Kansas,KS,governor,Republican primary results,Total,,,340920,100.0,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Winning,Robert Charles,Republican,269,31.87,True,False
+2026,Maine,ME,governor,Republican convention straw poll results,Candidate,Ben Midgley,Republican,230,27.25,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Candidate,Jonathan Bush,Republican,96,11.37,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Candidate,Garrett Mason,Republican,76,9.0,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Candidate,Owen McCarthy,Republican,74,8.77,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Candidate,Robert Wessels,Republican,54,6.34,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Candidate,David Jones,Republican,45,5.33,False,False
+2026,Maine,ME,governor,Republican convention straw poll results,Total,,,844,100.0,False,False
+2026,Maryland,MD,attorney general,Democratic primary results,Winning,Anthony Brown,Democratic,568685,100.0,True,True
+2026,Maryland,MD,attorney general,Democratic primary results,Total,,,568685,100.0,False,False
+2026,Maryland,MD,attorney general,Republican primary results,Winning,James B. Rutledge III,Republican,161800,100.0,True,False
+2026,Maryland,MD,attorney general,Republican primary results,Total,,,161800,100.0,False,False
+2026,Maryland,MD,governor,Democratic primary results,Winning,Wes Moore,Democratic,558768,88.3,True,True
+2026,Maryland,MD,governor,Democratic primary results,Candidate,Eric Felber,Democratic,74312,11.7,False,False
+2026,Maryland,MD,governor,Democratic primary results,Total,,,633080,100.0,False,False
+2026,Maryland,MD,governor,Republican primary results,Winning,Dan Cox,Republican,89982,43.3,True,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,Ed Hale,Republican,74877,36.0,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,John Myrick,Republican,13200,6.4,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,Carl Brunner,Republican,12700,6.1,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,Shannon Wright,Republican,4907,2.4,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,L. D. Burkindine,Republican,3746,1.8,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,Nancy Taylor†,Republican,3690,1.8,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,Michael Oakes,Republican,2583,1.2,False,False
+2026,Maryland,MD,governor,Republican primary results,Candidate,Douglas Larcomb,Republican,2132,1.0,False,False
+2026,Maryland,MD,governor,Republican primary results,Total,,,207817,100.0,False,False
+2026,Massachusetts,MA,attorney general,Democratic primary results,Winning,Andrea Campbell,Democratic,742871,99.3,True,True
+2026,Massachusetts,MA,attorney general,Democratic primary results,Write-in,,,5222,0.7,False,False
+2026,Massachusetts,MA,attorney general,Democratic primary results,Total,,,748093,100.0,False,False
+2026,Massachusetts,MA,attorney general,Republican primary results,Winning,Michael Walsh,Republican,214932,99.4,True,False
+2026,Massachusetts,MA,attorney general,Republican primary results,Write-in,,,1317,0.6,False,False
+2026,Massachusetts,MA,attorney general,Republican primary results,Total,,,216249,100.0,False,False
+2026,Massachusetts,MA,governor,Democratic primary results,Winning,Maura Healey,Democratic,767711,98.3,True,True
+2026,Massachusetts,MA,governor,Democratic primary results,Write-in,,,12897,1.7,False,False
+2026,Massachusetts,MA,governor,Democratic primary results,Total,,,780608,100.0,False,False
+2026,Massachusetts,MA,governor,Democratic primary results,Winning,Kim Driscoll,Democratic,745562,99.2,True,True
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Winning,Michael Minogue,Republican,1262,70.4,True,False
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Candidate,Brian Shortsleeve,Republican,278,15.5,False,False
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Candidate,Mike Kennealy,Republican,253,14.1,False,False
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Total,,,1793,100.0,False,False
+2026,Massachusetts,MA,governor,Republican primary results,Winning,Michael Minogue,Republican,194758,75.6,True,False
+2026,Massachusetts,MA,governor,Republican primary results,Candidate,Brian Shortsleeve,Republican,62161,24.1,False,False
+2026,Massachusetts,MA,governor,Republican primary results,Write-in,,,612,0.3,False,False
+2026,Massachusetts,MA,governor,Republican primary results,Total,,,257531,100.0,False,False
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Winning,Anne Brensley,Republican,1100,56.1,True,False
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Candidate,Anne Manning-Martin,Republican,536,27.3,False,False
+2026,Massachusetts,MA,governor,"Republican convention vote, April 25",Candidate,Shawn Oliver,Republican,325,16.6,False,False
+2026,Massachusetts,MA,governor,Republican primary results,Winning,Shawn Oliver,Republican,195352,91.6,True,False
+2026,Massachusetts,MA,governor,Republican primary results,Candidate,Anne Manning Martin (write-in),Republican,14611,6.9,False,False
+2026,Michigan,MI,governor,Democratic primary results,Winning,Jocelyn Benson,Democratic,1251160,83.22,True,False
+2026,Michigan,MI,governor,Democratic primary results,Candidate,Chris Swanson,Democratic,252236,16.78,False,False
+2026,Michigan,MI,governor,Democratic primary results,Write-in,,,10,0.0,False,False
+2026,Michigan,MI,governor,Democratic primary results,Total,,,1503406,100.0,False,False
+2026,Michigan,MI,governor,Republican primary results,Winning,John James,Republican,466714,50.05,True,False
+2026,Michigan,MI,governor,Republican primary results,Candidate,Perry Johnson,Republican,328194,35.2,False,False
+2026,Michigan,MI,governor,Republican primary results,Candidate,Mike Cox (withdrawn),Republican,121261,13.0,False,False
+2026,Michigan,MI,governor,Republican primary results,Candidate,Aric Nesbitt (withdrawn),Republican,16295,1.75,False,False
+2026,Michigan,MI,governor,Republican primary results,Total,,,932464,100.0,False,False
+2026,Minnesota,MN,attorney general,Democratic primary results,Winning,Keith Ellison,Democratic,573187,84.7,True,True
+2026,Minnesota,MN,attorney general,Democratic primary results,Candidate,David J.S. Madgett,Democratic,103743,15.3,False,False
+2026,Minnesota,MN,attorney general,Democratic primary results,Total,,,676930,100.0,False,False
+2026,Minnesota,MN,attorney general,Republican primary results,Winning,Ron Schutz,Republican,369353,100.0,True,False
+2026,Minnesota,MN,attorney general,Republican primary results,Total,,,369353,100.0,False,False
+2026,Minnesota,MN,secretary of state,Democratic primary results,Winning,Steve Simon,Minnesota Democratic–farmer–labor,615129,100.0,True,False
+2026,Minnesota,MN,secretary of state,Democratic primary results,Total,,,615129,100.0,False,False
+2026,Minnesota,MN,secretary of state,Republican primary results,Winning,Tad Jude,Republican,229804,60.3,True,False
+2026,Minnesota,MN,secretary of state,Republican primary results,Candidate,Wendy Phillips,Republican,151599,39.7,False,False
+2026,Minnesota,MN,secretary of state,Republican primary results,Total,,,381403,100.0,False,False
+2026,Minnesota,MN,governor,DFL caucus straw poll results,Winning,Amy Klobuchar,Minnesota Democratic–farmer–labor,22484,71.71,True,False
+2026,Minnesota,MN,governor,DFL caucus straw poll results,Candidate,Christopher Seymore,Minnesota Democratic–farmer–labor,397,1.27,False,False
+2026,Minnesota,MN,governor,DFL caucus straw poll results,Write-in,,,1097,3.5,False,False
+2026,Minnesota,MN,governor,DFL caucus straw poll results,Total,,,31355,100.0,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Winning,Amy Klobuchar,Minnesota Democratic–farmer–labor,615041,89.7,True,False
+2026,Minnesota,MN,governor,Democratic primary results,Candidate,Kobey Layne,Minnesota Democratic–farmer–labor,39528,5.8,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Candidate,Mohammad Wazwaz,Minnesota Democratic–farmer–labor,9633,1.4,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Candidate,Po Vang,Minnesota Democratic–farmer–labor,8834,1.3,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Candidate,"Ole ""Viking"" Savior",Minnesota Democratic–farmer–labor,5491,0.8,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Candidate,Tom Evenstad,Minnesota Democratic–farmer–labor,3843,0.6,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Candidate,Bill Gates Jr.,Minnesota Democratic–farmer–labor,3380,0.5,False,False
+2026,Minnesota,MN,governor,Democratic primary results,Total,,,685750,100.0,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Winning,Lisa Demuth,Republican,5827,31.86,True,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Kendall Qualls,Republican,4624,25.28,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Mike Lindell,Republican,3235,17.69,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Scott Jensen,Republican,1185,6.48,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Kristin Robbins,Republican,776,4.24,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Phil Parrish,Republican,728,3.98,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Patrick Knight,Republican,362,1.98,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Jeff Johnson,Republican,139,0.76,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Peggy Bennett,Republican,112,0.61,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Brad Kohler,Republican,78,0.43,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,Raul Estrada,Republican,62,0.34,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Candidate,John Krhin,Republican,59,0.32,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Write-in,,,56,0.31,False,False
+2026,Minnesota,MN,governor,Republican caucus straw poll results,Total,,,18289,100.0,False,False
+2026,Minnesota,MN,governor,Republican primary results,Winning,Lisa Demuth,Republican,179683,43.4,True,False
+2026,Minnesota,MN,governor,Republican primary results,Candidate,Mike Lindell,Republican,134282,32.5,False,False
+2026,Minnesota,MN,governor,Republican primary results,Candidate,Kendall Qualls,Republican,88416,21.4,False,False
+2026,Minnesota,MN,governor,Republican primary results,Candidate,John Krhin,Republican,4663,1.1,False,False
+2026,Minnesota,MN,governor,Republican primary results,Candidate,Ross Nova,Republican,2760,0.7,False,False
+2026,Minnesota,MN,governor,Republican primary results,Candidate,Raul Estrada,Republican,2408,0.6,False,False
+2026,Minnesota,MN,governor,Republican primary results,Candidate,Loner Blue,Republican,1393,0.3,False,False
+2026,Minnesota,MN,governor,Republican primary results,Total,,,413605,100.0,False,False
+2026,Nebraska,NE,attorney general,Republican primary,Winning,Mike Hilgers,Republican,161220,100.0,True,True
+2026,Nebraska,NE,attorney general,Republican primary,Total,,,161220,100.0,False,False
+2026,Nebraska,NE,attorney general,Democratic primary,Winning,Jocelyn Brasher,Democratic,111939,100.0,True,False
+2026,Nebraska,NE,attorney general,Democratic primary,Total,,,111939,100.0,False,False
+2026,Nebraska,NE,secretary of state,Republican primary,Winning,Scott Petersen,Republican,97430,54.64,True,False
+2026,Nebraska,NE,secretary of state,Republican primary,Candidate,Bob Evnen,Republican,80850,45.36,False,True
+2026,Nebraska,NE,secretary of state,Republican primary,Total,,,178280,100.0,False,False
+2026,Nebraska,NE,secretary of state,Democratic primary,Winning,Sarah Slattery,Democratic,109344,91.16,True,False
+2026,Nebraska,NE,secretary of state,Democratic primary,Candidate,Lee Cimfel,Democratic,10608,8.84,False,False
+2026,Nebraska,NE,secretary of state,Democratic primary,Total,,,119952,100.0,False,False
+2026,Nebraska,NE,state treasurer,Republican primary,Winning,Joey Spellerberg,Republican,156208,100.0,True,True
+2026,Nebraska,NE,state treasurer,Republican primary,Total,,,156208,100.0,False,False
+2026,Nebraska,NE,state treasurer,Democratic primary,Winning,Daniel Ebers,Democratic,107214,100.0,True,False
+2026,Nebraska,NE,state treasurer,Democratic primary,Total,,,107214,100.0,False,False
+2026,Nebraska,NE,governor,Republican primary,Winning,Jim Pillen,Republican,142301,75.4,True,True
+2026,Nebraska,NE,governor,Republican primary,Candidate,John Walz,Republican,18066,9.6,False,False
+2026,Nebraska,NE,governor,Republican primary,Candidate,Sheila Korth-Focken,Republican,14621,7.8,False,False
+2026,Nebraska,NE,governor,Republican primary,Candidate,Gary Rogge,Republican,6986,3.7,False,False
+2026,Nebraska,NE,governor,Republican primary,Candidate,Jacy Todd,Republican,5125,2.7,False,False
+2026,Nebraska,NE,governor,Republican primary,Candidate,Sal Holguin,Republican,1612,0.9,False,False
+2026,Nebraska,NE,governor,Republican primary,Total,,,188711,100.0,False,False
+2026,Nebraska,NE,governor,Democratic primary,Winning,Lynne Walz,Democratic,116458,91.5,True,False
+2026,Nebraska,NE,governor,Democratic primary,Candidate,Larry Marvin,Democratic,10847,8.5,False,False
+2026,Nebraska,NE,governor,Democratic primary,Total,,,127305,100.0,False,False
+2026,Nebraska,NE,governor,Legal Marijuana Now primary,Winning,Rick Beard,Now,349,69.1,True,False
+2026,Nebraska,NE,governor,Legal Marijuana Now primary,Candidate,James Charvat,Now,156,30.9,False,False
+2026,Nebraska,NE,governor,Legal Marijuana Now primary,Total,,,505,100.0,False,False
+2026,Nevada,NV,attorney general,Democratic primary results,Winning,Nicole Cannizzaro,Democratic,112561,60.7,True,False
+2026,Nevada,NV,attorney general,Democratic primary results,Candidate,Zach Conine,Democratic,65256,35.2,False,False
+2026,Nevada,NV,attorney general,Democratic primary results,Total,,,185587,100.0,False,False
+2026,Nevada,NV,attorney general,Republican primary results,Winning,Adriana Guzmán Fralick,Republican,111922,60.1,True,False
+2026,Nevada,NV,attorney general,Republican primary results,Candidate,Danny Tarkanian,Republican,64402,34.6,False,False
+2026,Nevada,NV,attorney general,Republican primary results,Total,,,186188,100.0,False,False
+2026,Nevada,NV,secretary of state,Republican primary results,Winning,Jim Marchant,Republican,58863,32.6,True,False
+2026,Nevada,NV,secretary of state,Republican primary results,Candidate,Shirley Folkins-Roberts,Republican,55228,30.6,False,False
+2026,Nevada,NV,secretary of state,Republican primary results,Candidate,Sharron Angle,Republican,47392,26.2,False,False
+2026,Nevada,NV,secretary of state,Republican primary results,Candidate,Socorro Keenan,Republican,6104,3.4,False,False
+2026,Nevada,NV,secretary of state,Republican primary results,Total,,,180722,100.0,False,False
+2026,Nevada,NV,state treasurer,Democratic primary results,Winning,Tya Mathis-Coleman,Democratic,101211,55.2,True,False
+2026,Nevada,NV,state treasurer,Democratic primary results,Candidate,Joe Dalia,Democratic,56168,30.6,False,False
+2026,Nevada,NV,state treasurer,Democratic primary results,Candidate,Jay Maharjan,Democratic,14964,8.2,False,False
+2026,Nevada,NV,state treasurer,Democratic primary results,Total,,,183340,100.0,False,False
+2026,Nevada,NV,state treasurer,Republican primary results,Winning,Drew Johnson,Republican,80831,45.5,True,False
+2026,Nevada,NV,state treasurer,Republican primary results,Candidate,Jeff Carter,Republican,78105,43.9,False,False
+2026,Nevada,NV,state treasurer,Republican primary results,Total,,,177765,100.0,False,False
+2026,Nevada,NV,governor,Republican primary results,Winning,Joe Lombardo,Republican,172150,90.8,True,True
+2026,Nevada,NV,governor,Republican primary results,Candidate,Irina Hansen,Republican,4114,2.2,False,False
+2026,Nevada,NV,governor,Republican primary results,Candidate,Matthew Winterhawk,Republican,3452,1.8,False,False
+2026,Nevada,NV,governor,Republican primary results,Candidate,Donald J. Beaudry Jr.,Republican,2482,1.3,False,False
+2026,Nevada,NV,governor,Republican primary results,Candidate,M. Kameron Hawkins,Republican,1230,0.7,False,False
+2026,Nevada,NV,governor,Republican primary results,Candidate,Jose M. Zalaya,Republican,1095,0.6,False,False
+2026,Nevada,NV,governor,Republican primary results,Candidate,Barak Zilberberg,Republican,744,0.4,False,False
+2026,Nevada,NV,governor,Republican primary results,Total,,,189638,100.0,False,False
+2026,Nevada,NV,governor,Democratic primary results,Winning,Aaron Ford,Democratic,118831,63.3,True,False
+2026,Nevada,NV,governor,Democratic primary results,Candidate,Alexis Hill,Democratic,44849,23.9,False,False
+2026,Nevada,NV,governor,Democratic primary results,Candidate,James Cooper,Democratic,6657,3.5,False,False
+2026,Nevada,NV,governor,Democratic primary results,Candidate,Sunshine Arterburn,Democratic,5012,2.7,False,False
+2026,Nevada,NV,governor,Democratic primary results,Candidate,Emile Bouari,Democratic,2795,1.5,False,False
+2026,Nevada,NV,governor,Democratic primary results,Candidate,Miqehl Bayfield,Democratic,2172,1.2,False,False
+2026,Nevada,NV,governor,Democratic primary results,Total,,,187818,100.0,False,False
+2026,New Hampshire,NH,governor,Republican primary results,Winning,Kelly Ayotte,Republican,100920,91.9,True,True
+2026,New Hampshire,NH,governor,Republican primary results,Candidate,Shaun Fife,Republican,4418,4.0,False,False
+2026,New Hampshire,NH,governor,Republican primary results,Candidate,Bob Wayne McClory,Republican,3890,3.5,False,False
+2026,New Hampshire,NH,governor,Republican primary results,Write-in,,,644,0.6,False,False
+2026,New Hampshire,NH,governor,Republican primary results,Total,,,109872,100.0,False,False
+2026,New Hampshire,NH,governor,Democratic primary results,Winning,Cinde Warmington,Democratic,126223,96.4,True,False
+2026,New Hampshire,NH,governor,Democratic primary results,Write-in,,,4788,3.6,False,False
+2026,New Hampshire,NH,governor,Democratic primary results,Total,,,131011,100.0,False,False
+2026,New Mexico,NM,attorney general,Democratic primary results,Winning,Raúl Torrez,Democratic,189828,100.0,True,True
+2026,New Mexico,NM,attorney general,Democratic primary results,Total,,,189828,100.0,False,False
+2026,New Mexico,NM,attorney general,Republican primary results,Winning,Samuel Kane,Republican,96092,100.0,True,False
+2026,New Mexico,NM,attorney general,Republican primary results,Total,,,96092,100.0,False,False
+2026,New Mexico,NM,secretary of state,Democratic primary results,Winning,Amanda López Askin,Democratic,108159,53.2,True,False
+2026,New Mexico,NM,secretary of state,Democratic primary results,Candidate,Katharine Clark,Democratic,95372,46.8,False,False
+2026,New Mexico,NM,secretary of state,Democratic primary results,Total,,,203531,100.0,False,False
+2026,New Mexico,NM,secretary of state,Republican primary results,Winning,Ramona Goolsby,Republican,96620,100.0,True,False
+2026,New Mexico,NM,secretary of state,Republican primary results,Total,,,96620,100.0,False,False
+2026,New Mexico,NM,state treasurer,Democratic primary results,Winning,Laura Montoya,Democratic,181212,100.0,True,True
+2026,New Mexico,NM,state treasurer,Democratic primary results,Total,,,181212,100.0,False,False
+2026,New Mexico,NM,state treasurer,Republican primary results,Winning,Jim Ellison (write-in),Republican,29614,100.0,True,False
+2026,New Mexico,NM,state treasurer,Republican primary results,Total,,,29614,100.0,False,False
+2026,New Mexico,NM,governor,Democratic primary results,Winning,Deb Haaland,Democratic,158713,72.3,True,False
+2026,New Mexico,NM,governor,Democratic primary results,Candidate,Sam Bregman,Democratic,60619,27.7,False,False
+2026,New Mexico,NM,governor,Democratic primary results,Total,,,219332,100.0,False,False
+2026,New Mexico,NM,governor,Democratic primary results,Winning,Maggie Toulouse Oliver,Democratic,169930,80.0,True,False
+2026,New Mexico,NM,governor,Democratic primary results,Candidate,Harold Pope Jr.,Democratic,42515,20.0,False,False
+2026,New Mexico,NM,governor,Republican primary results,Winning,Gregg Hull,Republican,56708,47.0,True,False
+2026,New Mexico,NM,governor,Republican primary results,Candidate,Doug Turner,Republican,44480,36.9,False,False
+2026,New Mexico,NM,governor,Republican primary results,Candidate,Duke Rodriguez,Republican,19393,16.1,False,False
+2026,New Mexico,NM,governor,Republican primary results,Total,,,120581,100.0,False,False
+2026,New Mexico,NM,governor,Republican primary results,Winning,David Gallegos,Republican,56640,49.7,True,False
+2026,New Mexico,NM,governor,Republican primary results,Candidate,Aubrey Blair Dunn,Republican,42954,37.8,False,False
+2026,New Mexico,NM,governor,Republican primary results,Candidate,Manuel Lardizabal,Republican,14183,12.5,False,False
+2026,North Dakota,ND,attorney general,Republican primary results,Winning,Drew Wrigley,Republican,74486,99.2,True,True
+2026,North Dakota,ND,attorney general,Republican primary results,Write-in,,,579,0.8,False,False
+2026,North Dakota,ND,attorney general,Republican primary results,Total,,,75065,100.0,False,False
+2026,North Dakota,ND,attorney general,Democratic–NPL primary results,Winning,Tim Lamb,North Dakota Democratic–nonpartisan League,33913,99.7,True,False
+2026,North Dakota,ND,attorney general,Democratic–NPL primary results,Write-in,,,108,0.3,False,False
+2026,North Dakota,ND,attorney general,Democratic–NPL primary results,Total,,,34021,100.0,False,False
+2026,North Dakota,ND,secretary of state,Republican primary results,Winning,Michael Howe,Republican,74102,99.6,True,True
+2026,North Dakota,ND,secretary of state,Republican primary results,Write-in,,,329,0.4,False,False
+2026,North Dakota,ND,secretary of state,Republican primary results,Total,,,74431,100.0,False,False
+2026,North Dakota,ND,secretary of state,Democratic–NPL primary results,Winning,Ryan Braunberger,North Dakota Democratic–nonpartisan League,34180,99.8,True,False
+2026,North Dakota,ND,secretary of state,Democratic–NPL primary results,Write-in,,,62,0.2,False,False
+2026,North Dakota,ND,secretary of state,Democratic–NPL primary results,Total,,,34242,100.0,False,False
+2026,Ohio,OH,attorney general,Republican primary,Winning,Keith Faber,Republican,698856,100.0,True,False
+2026,Ohio,OH,attorney general,Republican primary,Total,,,698856,100.0,False,False
+2026,Ohio,OH,attorney general,Democratic primary,Winning,John Kulewicz,Democratic,445336,63.1,True,False
+2026,Ohio,OH,attorney general,Democratic primary,Candidate,Elliot Forhan,Democratic,260407,36.9,False,False
+2026,Ohio,OH,attorney general,Democratic primary,Total,,,705743,100.0,False,False
+2026,Ohio,OH,secretary of state,Republican primary,Winning,Robert Sprague,Republican,543551,70.21,True,False
+2026,Ohio,OH,secretary of state,Republican primary,Candidate,Marcell Strbich,Republican,230584,29.79,False,False
+2026,Ohio,OH,secretary of state,Republican primary,Total,,,774135,100.0,False,False
+2026,Ohio,OH,secretary of state,Democratic primary,Winning,Allison Russo,Democratic,487313,67.4,True,False
+2026,Ohio,OH,secretary of state,Democratic primary,Candidate,Bryan Hambley,Democratic,235668,32.6,False,False
+2026,Ohio,OH,secretary of state,Democratic primary,Total,,,722981,100.0,False,False
+2026,Ohio,OH,secretary of state,Libertarian primary,Winning,Tom Pruss,Libertarian,8633,100.0,True,False
+2026,Ohio,OH,secretary of state,Libertarian primary,Total,,,8633,100.0,False,False
+2026,Ohio,OH,state treasurer,Republican primary,Winning,Jay Edwards,Republican,412114,53.06,True,False
+2026,Ohio,OH,state treasurer,Republican primary,Candidate,Kristina Roegner,Republican,364556,46.94,False,False
+2026,Ohio,OH,state treasurer,Republican primary,Total,,,776670,100.0,False,False
+2026,Ohio,OH,state treasurer,Democratic primary,Winning,Seth Walsh,Democratic,677424,100.0,True,False
+2026,Ohio,OH,state treasurer,Democratic primary,Total,,,677424,100.0,False,False
+2026,Ohio,OH,governor,Republican primary,Winning,Vivek Ramaswamy,Republican,676562,82.43,True,False
+2026,Ohio,OH,governor,Republican primary,Candidate,Casey Putsch,Republican,144184,17.57,False,False
+2026,Ohio,OH,governor,Republican primary,Total,,,820746,100.0,False,False
+2026,Ohio,OH,governor,Democratic primary,Winning,Amy Acton,Democratic,767360,100.0,True,False
+2026,Ohio,OH,governor,Democratic primary,Total,,,767360,100.0,False,False
+2026,Ohio,OH,governor,Libertarian primary,Winning,Don Kissick,Libertarian,8705,97.97,True,False
+2026,Ohio,OH,governor,Libertarian primary,Candidate,Travis Jon Vought,Libertarian,180,2.03,False,False
+2026,Ohio,OH,governor,Libertarian primary,Total,,,8885,100.0,False,False
+2026,Oklahoma,OK,attorney general,Republican primary results,Winning,Jon Echols,Republican,207832,55.0,True,False
+2026,Oklahoma,OK,attorney general,Republican primary results,Candidate,Jeff Starling,Republican,170061,45.0,False,False
+2026,Oklahoma,OK,attorney general,Republican primary results,Total,,,377893,100.0,False,False
+2026,Oklahoma,OK,state treasurer,Republican primary results,Winning,Cindy Byrd,Republican,232773,61.7,True,False
+2026,Oklahoma,OK,state treasurer,Republican primary results,Candidate,Todd Russ,Republican,144780,38.3,False,True
+2026,Oklahoma,OK,state treasurer,Republican primary results,Total,,,377553,100.0,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Winning,Gentner Drummond,Republican,105832,26.3,True,False
+2026,Oklahoma,OK,governor,Republican primary results,Winning,Mike Mazzei,Republican,104691,26.0,True,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Chip Keating,Republican,74379,18.5,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Jake A. Merrick,Republican,58341,14.5,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Charles McCall,Republican,47519,11.8,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Leisa Mitchell Haynes,Republican,4121,1.0,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Jennifer Domenico,Republican,3796,0.9,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Kenneth Sturgell,Republican,2935,0.7,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Candidate,Calup Anthony Taylor,Republican,1485,0.4,False,False
+2026,Oklahoma,OK,governor,Republican primary results,Total,,,403099,100.0,False,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Winning,Mike Mazzei,Republican,186678,50.3,True,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Candidate,Gentner Drummond,Republican,184631,49.7,False,False
+2026,Oklahoma,OK,governor,Republican primary runoff results,Total,,,371309,100.0,False,False
+2026,Oklahoma,OK,governor,Democratic primary results,Winning,Cyndi Munson,Democratic,129225,74.9,True,False
+2026,Oklahoma,OK,governor,Democratic primary results,Candidate,Constance Johnson,Democratic,38414,22.3,False,False
+2026,Oklahoma,OK,governor,Democratic primary results,Candidate,Arya Azma,Democratic,4824,2.8,False,False
+2026,Oklahoma,OK,governor,Democratic primary results,Total,,,172463,100.0,False,False
+2026,Oregon,OR,governor,Democratic primary results,Winning,Tina Kotek,Democratic,385999,83.6,True,True
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Brittany N. Jones,Democratic,13939,3.0,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,"Forest ""Fora"" Alexander",Democratic,12684,2.8,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Miranda Weigler,Democratic,10161,2.2,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Tristan Sheppard,Democratic,6006,1.3,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,James Atkinson IV,Democratic,5902,1.3,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,David Beem,Democratic,4863,1.1,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Steve Laible,Democratic,3692,0.8,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Cal Kishawi,Democratic,2422,0.5,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Donnie Beckwith,Democratic,1799,0.4,False,False
+2026,Oregon,OR,governor,Democratic primary results,Candidate,Write-in,Democratic,14228,3.1,False,False
+2026,Oregon,OR,governor,Democratic primary results,Total,,,461695,100.0,False,False
+2026,Oregon,OR,governor,Republican primary results,Winning,Christine Drazan,Republican,172474,40.5,True,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Ed Diehl,Republican,140458,33.0,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Chris Dudley,Republican,71929,16.9,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,David Medina,Republican,21742,5.1,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Danielle Bethell,Republican,9629,2.3,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Brad Peters,Republican,1827,0.4,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Paul Romero,Republican,1615,0.4,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Kyle Duyck,Republican,1562,0.4,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Robert Neuman,Republican,680,0.2,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Martin Ward,Republican,539,0.1,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Hope Dalrymple,Republican,534,0.1,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,DeAngelo Turner,Republican,377,0.1,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Wen Waddell,Republican,321,0.1,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Tim Youker,Republican,248,0.1,False,False
+2026,Oregon,OR,governor,Republican primary results,Candidate,Write-in,Republican,1622,0.4,False,False
+2026,Oregon,OR,governor,Republican primary results,Total,,,425557,100.0,False,False
+2026,Pennsylvania,PA,governor,Democratic primary results,Winning,Josh Shapiro,Democratic,1116960,100.0,True,True
+2026,Pennsylvania,PA,governor,Democratic primary results,Total,,,1116960,100.0,False,False
+2026,Pennsylvania,PA,governor,Democratic primary results,Winning,Austin Davis,Democratic,1072694,100.0,True,True
+2026,Pennsylvania,PA,governor,Republican primary results,Winning,Stacy Garrity,Republican,641534,100.0,True,False
+2026,Pennsylvania,PA,governor,Republican primary results,Total,,,641534,100.0,False,False
+2026,Pennsylvania,PA,governor,Republican primary results,Winning,Jason Richey,Republican,428740,65.6,True,False
+2026,Pennsylvania,PA,governor,Republican primary results,Candidate,John Ventre,Republican,225238,34.4,False,False
+2026,Rhode Island,RI,state treasurer,Democratic primary results,Winning,James Diossa,Democratic,105966,100.0,True,True
+2026,Rhode Island,RI,state treasurer,Democratic primary results,Total,,,105966,100.0,False,False
+2026,Rhode Island,RI,state treasurer,Republican primary results,Winning,Micholas Credle,Republican,20296,100.0,True,False
+2026,Rhode Island,RI,state treasurer,Republican primary results,Total,,,20296,100.0,False,False
+2026,Rhode Island,RI,secretary of state,Democratic primary results,Winning,Gregg Amore,Democratic,108803,100.0,True,True
+2026,Rhode Island,RI,secretary of state,Democratic primary results,Total,,,108803,100.0,False,False
+2026,Rhode Island,RI,governor,Democratic primary results,Winning,Helena Buonanno Foulkes,Democratic,81009,62.5,True,False
+2026,Rhode Island,RI,governor,Democratic primary results,Candidate,Dan McKee,Democratic,48687,37.5,False,True
+2026,Rhode Island,RI,governor,Democratic primary results,Total,,,129696,100.0,False,False
+2026,Rhode Island,RI,governor,Republican primary results,Candidate,Aaron Guckian,Republican,11671,50.6,False,False
+2026,Rhode Island,RI,governor,Republican primary results,Candidate,Elaine Pelino,Republican,11400,49.4,False,False
+2026,Rhode Island,RI,governor,Republican primary results,Total,,,23071,100.0,False,False
+2026,South Carolina,SC,attorney general,Republican primary results,Winning,Stephen Goldfinch,Republican,175921,40.0,True,False
+2026,South Carolina,SC,attorney general,Republican primary results,Winning,David Stumbo,Republican,156876,35.7,True,False
+2026,South Carolina,SC,attorney general,Republican primary results,Candidate,David Pascoe,Republican,107086,24.3,False,False
+2026,South Carolina,SC,attorney general,Republican primary results,Total,,,439883,100.0,False,False
+2026,South Carolina,SC,attorney general,Republican primary runoff results,Winning,David Stumbo,Republican,172944,55.7,True,False
+2026,South Carolina,SC,attorney general,Republican primary runoff results,Candidate,Stephen Goldfinch,Republican,137270,44.3,False,False
+2026,South Carolina,SC,attorney general,Republican primary runoff results,Total,,,310214,100.0,False,False
+2026,South Carolina,SC,secretary of state,Democratic primary results,Winning,Jason Belton,Democratic,179659,50.6,True,False
+2026,South Carolina,SC,secretary of state,Democratic primary results,Candidate,Edwina Winter,Democratic,175628,49.4,False,False
+2026,South Carolina,SC,secretary of state,Democratic primary results,Total,,,355287,100.0,False,False
+2026,South Carolina,SC,state treasurer,Democratic primary results,Winning,Vincent Coe,Democratic,195339,55.8,True,False
+2026,South Carolina,SC,state treasurer,Democratic primary results,Candidate,Trav Robertson,Democratic,154989,44.2,False,False
+2026,South Carolina,SC,state treasurer,Democratic primary results,Total,,,350328,100.0,False,False
+2026,South Carolina,SC,governor,Republican primary results,Winning,Pamela Evette,Republican,136480,28.9,True,False
+2026,South Carolina,SC,governor,Republican primary results,Winning,Alan Wilson,Republican,123643,26.2,True,False
+2026,South Carolina,SC,governor,Republican primary results,Candidate,Ralph Norman,Republican,80790,17.1,False,False
+2026,South Carolina,SC,governor,Republican primary results,Candidate,Rom Reddy,Republican,66992,14.2,False,False
+2026,South Carolina,SC,governor,Republican primary results,Candidate,Nancy Mace,Republican,57380,12.1,False,False
+2026,South Carolina,SC,governor,Republican primary results,Candidate,Josh Kimbrell (withdrawn),Republican,3957,0.8,False,False
+2026,South Carolina,SC,governor,Republican primary results,Candidate,Jacqueline DuBose (decertified),Republican,3714,0.8,False,False
+2026,South Carolina,SC,governor,Republican primary results,Total,,,472956,100.0,False,False
+2026,South Carolina,SC,governor,Republican primary runoff results,Winning,Alan Wilson,Republican,218569,68.6,True,False
+2026,South Carolina,SC,governor,Republican primary runoff results,Candidate,Pamela Evette,Republican,100227,31.4,False,False
+2026,South Carolina,SC,governor,Republican primary runoff results,Total,,,318796,100.0,False,False
+2026,South Carolina,SC,governor,Democratic primary results,Winning,Jermaine Johnson,Democratic,221951,59.7,True,False
+2026,South Carolina,SC,governor,Democratic primary results,Candidate,Billy Webster,Democratic,110303,29.7,False,False
+2026,South Carolina,SC,governor,Democratic primary results,Candidate,William Mullins McLeod Jr.,Democratic,39739,10.7,False,False
+2026,South Carolina,SC,governor,Democratic primary results,Total,,,371993,100.0,False,False
+2026,South Dakota,SD,governor,Republican primary results,Winning,Toby Doeden,Republican,41712,30.6,True,False
+2026,South Dakota,SD,governor,Republican primary results,Winning,Larry Rhoden,Republican,34321,25.2,True,True
+2026,South Dakota,SD,governor,Republican primary results,Candidate,Dusty Johnson,Republican,31856,23.4,False,False
+2026,South Dakota,SD,governor,Republican primary results,Candidate,Jon Hansen,Republican,28341,20.8,False,False
+2026,South Dakota,SD,governor,Republican primary results,Total,,,136230,100.0,False,False
+2026,South Dakota,SD,governor,Republican primary runoff results,Winning,Larry Rhoden,Republican,83582,70.8,True,True
+2026,South Dakota,SD,governor,Republican primary runoff results,Candidate,Toby Doeden,Republican,34430,29.2,False,False
+2026,South Dakota,SD,governor,Republican primary runoff results,Total,,,118012,100.0,False,False
+2026,Tennessee,TN,governor,Republican primary results,Winning,Marsha Blackburn,Republican,311329,43.4,True,False
+2026,Tennessee,TN,governor,Republican primary results,Candidate,John Rose,Republican,235512,32.9,False,False
+2026,Tennessee,TN,governor,Republican primary results,Candidate,Monty Fritts,Republican,167971,23.4,False,False
+2026,Tennessee,TN,governor,Republican primary results,Write-in,,,1862,0.3,False,False
+2026,Tennessee,TN,governor,Republican primary results,Total,,,716674,100.0,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Winning,Jerri Green,Democratic,244194,69.0,True,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Carnita Atwater,Democratic,63254,17.9,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Kevin Lee McCants,Democratic,18961,5.4,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Tim Cyr,Democratic,14796,4.2,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Candidate,Adam Kurtz,Democratic,12456,3.5,False,False
+2026,Tennessee,TN,governor,Democratic primary results,Total,,,353661,100.0,False,False
+2026,Texas,TX,attorney general,Republican primary,Winning,Mayes Middleton,Republican,811171,39.1,True,False
+2026,Texas,TX,attorney general,Republican primary,Winning,Chip Roy,Republican,655064,31.6,True,False
+2026,Texas,TX,attorney general,Republican primary,Candidate,Joan Huffman,Republican,312998,15.1,False,False
+2026,Texas,TX,attorney general,Republican primary,Candidate,Aaron Reitz,Republican,293698,14.2,False,False
+2026,Texas,TX,attorney general,Republican primary,Total,,,2072931,100.0,False,False
+2026,Texas,TX,attorney general,Republican primary runoff results,Winning,Mayes Middleton,Republican,757625,55.2,True,False
+2026,Texas,TX,attorney general,Republican primary runoff results,Candidate,Chip Roy,Republican,614009,44.8,False,False
+2026,Texas,TX,attorney general,Republican primary runoff results,Total,,,1371634,100.0,False,False
+2026,Texas,TX,attorney general,Democratic primary,Winning,Nathan Johnson,Democratic,1003967,48.1,True,False
+2026,Texas,TX,attorney general,Democratic primary,Winning,Joe Jaworski,Democratic,551898,26.4,True,False
+2026,Texas,TX,attorney general,Democratic primary,Candidate,"Anthony ""Tony"" Box",Democratic,531177,25.5,False,False
+2026,Texas,TX,attorney general,Democratic primary,Total,,,2087042,100.0,False,False
+2026,Texas,TX,attorney general,Democratic primary runoff results,Winning,Nathan Johnson,Democratic,334199,60.5,True,False
+2026,Texas,TX,attorney general,Democratic primary runoff results,Candidate,Joe Jaworski,Democratic,218224,39.5,False,False
+2026,Texas,TX,attorney general,Democratic primary runoff results,Total,,,552423,100.0,False,False
+2026,Texas,TX,governor,Republican primary,Winning,Greg Abbott,Republican,1764924,81.8,True,True
+2026,Texas,TX,governor,Republican primary,Candidate,"Pete ""Doc"" Chambers",Republican,240640,11.2,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Evelyn Brooks,Republican,44142,2.0,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Arturo Espinosa,Republican,23444,1.1,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Charles Andrew Crouch,Republican,15405,0.7,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Kenneth Hyde,Republican,14941,0.7,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Nathaniel Welch,Republican,12057,0.6,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Mark V. Goloby,Republican,10991,0.5,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Stephen Samuelson,Republican,10864,0.5,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,Ronnie Tullos,Republican,10352,0.5,False,False
+2026,Texas,TX,governor,Republican primary,Candidate,"R.F. ""Bob"" Achgill",Republican,9119,0.4,False,False
+2026,Texas,TX,governor,Republican primary,Total,,,2156879,100.0,False,False
+2026,Texas,TX,governor,Democratic primary,Winning,Gina Hinojosa,Democratic,1289576,58.5,True,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Chris Bell,Democratic,216787,9.8,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,"Angela ""Tia Angie"" Villescaz",Democratic,150752,6.8,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Patricia Abrego,Democratic,128632,5.8,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Andrew White (withdrawn),Democratic,117392,5.3,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Bobby Cole,Democratic,112675,5.1,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Jose Navarro Balbuena,Democratic,65826,3.0,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Carlton W. Hart,Democratic,63278,2.9,False,False
+2026,Texas,TX,governor,Democratic primary,Candidate,Zach Vance,Democratic,58753,2.7,False,False
+2026,Texas,TX,governor,Democratic primary,Total,,,2203671,100.0,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results,Winning,Stacey Plaskett Milton E. Potter,Democratic,4727,46.99,True,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results,Candidate,Tregenza Roach Novelle Francis,Democratic,3197,31.78,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results,Candidate,Donna Frett-Gregory Rodney Moorehead,Democratic,2091,20.79,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results,Write-in,,,45,0.45,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results,Total,,,10060,100.0,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Croix,Winning,Stacey Plaskett Milton E. Potter,Democratic,2720,57.0,True,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Croix,Candidate,Tregenza Roach Novelle Francis,Democratic,1237,25.92,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Croix,Candidate,Donna Frett-Gregory Rodney Moorehead,Democratic,796,16.68,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Croix,Write-in,,,19,0.4,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Croix,Total,,,4772,100.0,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Thomas and Saint John,Winning,Tregenza Roach Novelle Francis,Democratic,1817,37.94,True,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Thomas and Saint John,Candidate,Stacey Plaskett Milton E. Potter,Democratic,1773,37.02,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Thomas and Saint John,Candidate,Donna Frett-Gregory Rodney Moorehead,Democratic,1179,24.61,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Thomas and Saint John,Write-in,,,20,0.43,False,False
+2026,United States Virgin Islands,VI,governor,2026 Democratic gubernatorial primary results in Saint Thomas and Saint John,Total,,,4789,100.0,False,False
+2026,Vermont,VT,attorney general,Democratic primary results,Winning,Charity Clark,Democratic,72943,99.1,True,True
+2026,Vermont,VT,attorney general,Democratic primary results,Write-in,,,651,0.9,False,False
+2026,Vermont,VT,attorney general,Democratic primary results,Total,,,73594,100.0,False,False
+2026,Vermont,VT,attorney general,Republican primary results,Winning,H. Brooke Paige,Republican,16687,96.6,True,False
+2026,Vermont,VT,attorney general,Republican primary results,Write-in,,,581,3.4,False,False
+2026,Vermont,VT,attorney general,Republican primary results,Total,,,17268,100.0,False,False
+2026,Vermont,VT,secretary of state,Democratic primary results,Winning,Sarah Copeland Hanzas,Democratic,72355,98.7,True,True
+2026,Vermont,VT,secretary of state,Democratic primary results,Write-in,,,972,1.3,False,False
+2026,Vermont,VT,secretary of state,Democratic primary results,Total,,,73327,100.0,False,False
+2026,Vermont,VT,secretary of state,Republican primary results,Winning,H. Brooke Paige,Republican,17542,97.4,True,False
+2026,Vermont,VT,secretary of state,Republican primary results,Write-in,,,467,2.6,False,False
+2026,Vermont,VT,secretary of state,Republican primary results,Total,,,18009,100.0,False,False
+2026,Vermont,VT,secretary of state,Progressive primary results,Winning,Rachel Shaw,Progressive,320,86.0,True,False
+2026,Vermont,VT,secretary of state,Progressive primary results,Write-in,,,52,14.0,False,False
+2026,Vermont,VT,secretary of state,Progressive primary results,Total,,,372,100.0,False,False
+2026,Vermont,VT,state treasurer,Democratic primary results,Winning,Mike Pieciak,Democratic,75777,99.0,True,True
+2026,Vermont,VT,state treasurer,Democratic primary results,Write-in,,,740,1.0,False,False
+2026,Vermont,VT,state treasurer,Democratic primary results,Total,,,76517,100.0,False,False
+2026,Vermont,VT,state treasurer,Republican primary results,Winning,H. Brooke Paige,Republican,17968,96.5,True,False
+2026,Vermont,VT,state treasurer,Republican primary results,Write-in,,,660,3.5,False,False
+2026,Vermont,VT,state treasurer,Republican primary results,Total,,,18628,100.0,False,False
+2026,Vermont,VT,state treasurer,Progressive primary results,Winning,Zachary Hampl,Progressive,289,79.2,True,False
+2026,Vermont,VT,state treasurer,Progressive primary results,Write-in,,,76,20.8,False,False
+2026,Vermont,VT,state treasurer,Progressive primary results,Total,,,365,100.0,False,False
+2026,Vermont,VT,governor,Republican primary results,Winning,Phil Scott,Republican,21466,98.5,True,True
+2026,Vermont,VT,governor,Republican primary results,Write-in,,,333,1.5,False,False
+2026,Vermont,VT,governor,Republican primary results,Total,,,21799,100.0,False,False
+2026,Vermont,VT,governor,Democratic primary results,Winning,Amanda Janoo,Democratic,39614,49.1,True,False
+2026,Vermont,VT,governor,Democratic primary results,Candidate,Aly Richards,Democratic,37570,46.6,False,False
+2026,Vermont,VT,governor,Democratic primary results,Write-in,,,3509,4.3,False,False
+2026,Vermont,VT,governor,Democratic primary results,Total,,,80693,100.0,False,False
+2026,Wisconsin,WI,attorney general,Democratic primary results,Winning,Josh Kaul,Democratic,673582,99.7,True,True
+2026,Wisconsin,WI,attorney general,Democratic primary results,Write-in,,,2280,0.3,False,False
+2026,Wisconsin,WI,attorney general,Democratic primary results,Total,,,675862,100.0,False,False
+2026,Wisconsin,WI,attorney general,Republican primary results,Winning,Eric Toney,Republican,423342,99.7,True,False
+2026,Wisconsin,WI,attorney general,Republican primary results,Write-in,,,1164,0.3,False,False
+2026,Wisconsin,WI,attorney general,Republican primary results,Total,,,424506,100.0,False,False
+2026,Wisconsin,WI,secretary of state,Democratic primary results,Winning,JoCasta Zamarripa,Democratic,641609,99.6,True,False
+2026,Wisconsin,WI,secretary of state,Democratic primary results,Write-in,,,2344,0.4,False,False
+2026,Wisconsin,WI,secretary of state,Democratic primary results,Total,,,643753,100.0,False,False
+2026,Wisconsin,WI,secretary of state,Republican primary results,Winning,Jay Schroeder,Republican,201187,47.2,True,False
+2026,Wisconsin,WI,secretary of state,Republican primary results,Candidate,Nate Pollnow,Republican,108792,25.5,False,False
+2026,Wisconsin,WI,secretary of state,Republican primary results,Candidate,Cindy Werner,Republican,61619,14.4,False,False
+2026,Wisconsin,WI,secretary of state,Republican primary results,Candidate,Brayden Myer,Republican,54112,12.7,False,False
+2026,Wisconsin,WI,secretary of state,Republican primary results,Write-in,,,1002,0.2,False,False
+2026,Wisconsin,WI,secretary of state,Republican primary results,Total,,,426712,100.0,False,False
+2026,Wisconsin,WI,state treasurer,Republican primary results,Winning,John Leiber,Republican,414940,99.8,True,True
+2026,Wisconsin,WI,state treasurer,Republican primary results,Write-in,,,1055,0.2,False,False
+2026,Wisconsin,WI,state treasurer,Republican primary results,Total,,,415995,100.0,False,False
+2026,Wisconsin,WI,state treasurer,Democratic primary results,Winning,Yee Leng Xiong,Democratic,381375,57.1,True,False
+2026,Wisconsin,WI,state treasurer,Democratic primary results,Candidate,Dylan Helmenstine,Democratic,284960,42.7,False,False
+2026,Wisconsin,WI,state treasurer,Democratic primary results,Write-in,,,1638,0.2,False,False
+2026,Wisconsin,WI,state treasurer,Democratic primary results,Total,,,667973,100.0,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Winning,David Crowley,Democratic,315413,39.81,True,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Francesca Hong,Democratic,311740,39.35,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Kelda Roys,Democratic,59394,7.5,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Joel Brennan,Democratic,37084,4.68,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Sara Rodriguez (withdrawn),Democratic,32674,4.12,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Mandela Barnes (withdrawn),Democratic,32435,4.09,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Missy Hughes (withdrawn),Democratic,3230,0.41,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Brett Hulsey (write-in; withdrawn),Democratic,13,0.0,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Candidate,Tim Reppen (write-in),Democratic,10,0.0,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Write-in,,,297,0.04,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Total,,,792290,100.0,False,False
+2026,Wisconsin,WI,governor,Democratic primary results,Winning,Sarah Godlewski,Democratic,661675,99.57,True,False
+2026,Wisconsin,WI,governor,Republican primary results,Winning,Tom Tiffany,Republican,468019,95.32,True,False
+2026,Wisconsin,WI,governor,Republican primary results,Candidate,Andy Manske,Republican,22573,4.6,False,False
+2026,Wisconsin,WI,governor,Republican primary results,Candidate,Dennis Williams (write-in),Republican,17,0.0,False,False
+2026,Wisconsin,WI,governor,Republican primary results,Write-in,,,404,0.08,False,False
+2026,Wisconsin,WI,governor,Republican primary results,Total,,,491013,100.0,False,False
+2026,Wisconsin,WI,governor,Republican primary results,Winning,David Varnam,Republican,239042,55.48,True,False
+2026,Wisconsin,WI,governor,Republican primary results,Candidate,Will Martin,Republican,190811,44.28,False,False
+2026,Wyoming,WY,secretary of state,Republican primary results,Winning,Robert Short,Republican,53314,45.6,True,False
+2026,Wyoming,WY,secretary of state,Republican primary results,Candidate,Rachel Rodriguez-Williams,Republican,38567,33.0,False,False
+2026,Wyoming,WY,secretary of state,Republican primary results,Candidate,Charles Young,Republican,17846,15.3,False,False
+2026,Wyoming,WY,secretary of state,Republican primary results,Candidate,Qwenton Eagle Oviatt,Republican,7087,6.1,False,False
+2026,Wyoming,WY,secretary of state,Republican primary results,Total,,,116814,100.0,False,False
+2026,Wyoming,WY,secretary of state,Democratic primary results,Winning,Bryan McCarty,Democratic,11207,100.0,True,False
+2026,Wyoming,WY,secretary of state,Democratic primary results,Total,,,11207,100.0,False,False
+2026,Wyoming,WY,state treasurer,Republican primary results,Winning,Curt Meier,Republican,78702,68.2,True,True
+2026,Wyoming,WY,state treasurer,Republican primary results,Candidate,Scott Smith,Republican,36613,31.8,False,False
+2026,Wyoming,WY,state treasurer,Republican primary results,Total,,,115315,100.0,False,False
+2026,Wyoming,WY,governor,Republican primary results,Winning,Eric Barlow,Republican,58820,45.1,True,False
+2026,Wyoming,WY,governor,Republican primary results,Candidate,Megan Degenfelder,Republican,38739,29.7,False,False
+2026,Wyoming,WY,governor,Republican primary results,Candidate,Brent Bien,Republican,30843,23.6,False,False
+2026,Wyoming,WY,governor,Republican primary results,Candidate,Curt Blake,Republican,2161,1.7,False,False
+2026,Wyoming,WY,governor,Republican primary results,Total,,,130563,100.0,False,False
+2026,Wyoming,WY,governor,Democratic primary results,Winning,Kenneth Casner,Democratic,10706,100.0,True,False
+2026,Wyoming,WY,governor,Democratic primary results,Total,,,10706,100.0,False,False

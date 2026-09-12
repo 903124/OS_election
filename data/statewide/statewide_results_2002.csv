@@ -12,7 +12,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Arkansas,AR,governor,Mike Huckabee,Republican,53.0,True,True
 2002,Arkansas,AR,governor,Jimmie Lou Fisher,Democratic,47.0,False,False
 2002,California,CA,governor,Gray Davis,Democratic,47.3,True,True
-2002,California,CA,governor,Bill Simon (politician)|Bill Simon,Politician,42.4,False,False
+2002,California,CA,governor,Bill Simon,Politician,42.4,False,False
 2002,California,CA,governor,Peter Camejo,Green,5.3,False,False
 2002,California,CA,governor,Gary Copeland,Libertarian,2.2,False,False
 2002,California,CA,governor,Reinhold Gulke,American Independent,1.7,False,False
@@ -22,9 +22,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Colorado,CO,governor,Ronald Forthofer,Green,2.3,False,False
 2002,Colorado,CO,governor,Ralph Shnelvar,Libertarian,1.4,False,False
 2002,Connecticut,CT,governor,John G. Rowland,Republican,56.1,True,True
-2002,Connecticut,CT,governor,Bill Curry (politician)|Bill Curry,Politician,43.9,False,False
+2002,Connecticut,CT,governor,Bill Curry,Politician,43.9,False,False
 2002,Florida,FL,governor,Jeb Bush,Republican,56.0,True,True
-2002,Florida,FL,governor,Bill McBride (candidate)|Bill McBride,Candidate,43.2,False,False
+2002,Florida,FL,governor,Bill McBride,Candidate,43.2,False,False
 2002,Georgia,GA,governor,Sonny Perdue,Republican,51.4,True,False
 2002,Georgia,GA,governor,Roy Barnes,Democratic,46.3,False,True
 2002,Georgia,GA,governor,Garrett Hayes,Libertarian,2.3,False,False
@@ -34,7 +34,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Idaho,ID,governor,Jerry Brady,Democratic,41.7,False,False
 2002,Idaho,ID,governor,Daniel Adams,Libertarian,2.0,False,False
 2002,Illinois,IL,governor,Rod Blagojevich,Democratic,52.2,True,False
-2002,Illinois,IL,governor,Jim Ryan (politician)|Jim Ryan,Politician,45.1,False,False
+2002,Illinois,IL,governor,Jim Ryan,Politician,45.1,False,False
 2002,Illinois,IL,governor,Calvin Skinner,Libertarian,2.1,False,False
 2002,Iowa,IA,governor,Tom Vilsack,Democratic,52.7,True,True
 2002,Iowa,IA,governor,Doug Gross,Republican,44.5,False,False
@@ -46,12 +46,12 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Kansas,KS,governor,Dennis Hawver,Libertarian,1.0,False,False
 2002,Maine,ME,governor,John Baldacci,Democratic,47.1,True,False
 2002,Maine,ME,governor,Peter Cianchette,Republican,41.5,False,False
-2002,Maine,ME,governor,Jonathan Carter (politician)|Jonathan Carter,Politician,9.3,False,False
-2002,Maine,ME,governor,John Michael (politician)|John Michael,Politician,2.1,False,False
+2002,Maine,ME,governor,Jonathan Carter,Politician,9.3,False,False
+2002,Maine,ME,governor,John Michael,Politician,2.1,False,False
 2002,Maryland,MD,governor,Bob Ehrlich,Republican,51.5,True,False
-2002,Maryland,MD,governor,Kathleen Kennedy Townsend|Kathleen K. Townsend,Democratic,47.7,False,False
+2002,Maryland,MD,governor,Kathleen K. Townsend,Democratic,47.7,False,False
 2002,Massachusetts,MA,governor,Mitt Romney,Republican,49.8,True,False
-2002,Massachusetts,MA,governor,Shannon O'Brien (Massachusetts politician)|Shannon O'Brien,Massachusetts Politician,44.9,False,False
+2002,Massachusetts,MA,governor,Shannon O'Brien,Massachusetts Politician,44.9,False,False
 2002,Massachusetts,MA,governor,Jill Stein,Green-rainbow,3.5,False,False
 2002,Massachusetts,MA,governor,Carla Howell,Libertarian,1.1,False,False
 2002,Michigan,MI,governor,Jennifer Granholm,Democratic,51.4,True,False
@@ -64,7 +64,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Nebraska,NE,governor,Stormy Dean,Democratic,27.5,False,False
 2002,Nebraska,NE,governor,Paul A. Rosberg,Nebraska,3.8,False,False
 2002,Nevada,NV,governor,Kenny Guinn,Republican,68.2,True,True
-2002,Nevada,NV,governor,Joe Neal (politician)|Joe Neal,Politician,22.0,False,False
+2002,Nevada,NV,governor,Joe Neal,Politician,22.0,False,False
 2002,Nevada,NV,governor,Dick Geyer,Libertarian,1.6,False,False
 2002,Nevada,NV,governor,David G. Holmgren,Independent American,1.4,False,False
 2002,Nevada,NV,governor,Jerry L. Norton,Independent,1.1,False,False
@@ -83,12 +83,12 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,Ohio,OH,governor,John Eastman,Independent,3.9,False,False
 2002,Oklahoma,OK,governor,Brad Henry,Democratic,43.3,True,False
 2002,Oklahoma,OK,governor,Steve Largent,Republican,42.6,False,False
-2002,Oklahoma,OK,governor,Gary Richardson (lawyer)|Gary Richardson,Lawyer,14.1,False,False
+2002,Oklahoma,OK,governor,Gary Richardson,Lawyer,14.1,False,False
 2002,Oregon,OR,governor,Ted Kulongoski,Democratic,49.0,True,False
 2002,Oregon,OR,governor,Kevin Mannix,Republican,46.2,False,False
 2002,Oregon,OR,governor,Tom Cox,Libertarian,4.6,False,False
 2002,Pennsylvania,PA,governor,Ed Rendell,Democratic,53.4,True,False
-2002,Pennsylvania,PA,governor,D. Michael Fisher|Mike Fisher,Republican,44.4,False,False
+2002,Pennsylvania,PA,governor,Mike Fisher,Republican,44.4,False,False
 2002,Pennsylvania,PA,governor,Ken Krawchuk,Libertarian,1.1,False,False
 2002,Pennsylvania,PA,governor,Mike Morrill,Green,1.1,False,False
 2002,Rhode Island,RI,governor,Donald Carcieri,Republican,54.8,True,False
@@ -96,18 +96,18 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2002,South Carolina,SC,governor,Mark Sanford,Republican,52.9,True,False
 2002,South Carolina,SC,governor,Jim Hodges,Democratic,47.0,False,True
 2002,South Dakota,SD,governor,Mike Rounds,Republican,56.8,True,False
-2002,South Dakota,SD,governor,James W. Abbott|Jim Abbott,Democratic,41.9,False,False
+2002,South Dakota,SD,governor,Jim Abbott,Democratic,41.9,False,False
 2002,Tennessee,TN,governor,Phil Bredesen,Democratic,50.6,True,False
 2002,Tennessee,TN,governor,Van Hilleary,Republican,47.6,False,False
 2002,Texas,TX,governor,Rick Perry,Republican,57.8,True,True
-2002,Texas,TX,governor,Tony Sanchez (politician)|Tony Sanchez,Politician,40.0,False,False
+2002,Texas,TX,governor,Tony Sanchez,Politician,40.0,False,False
 2002,Texas,TX,governor,Jeff Daiell,Libertarian,1.5,False,False
 2002,Vermont,VT,governor,Jim Douglas,Republican,44.9,True,False
 2002,Vermont,VT,governor,Doug Racine,Democratic,42.4,False,False
 2002,Vermont,VT,governor,Cornelius Hogan,Independent,9.7,False,False
 2002,Wisconsin,WI,governor,Jim Doyle,Democratic,45.1,True,False
 2002,Wisconsin,WI,governor,Scott McCallum,Republican,41.4,False,True
-2002,Wisconsin,WI,governor,Ed Thompson (Wisconsin politician)|Ed Thompson,Wisconsin Politician,10.4,False,False
+2002,Wisconsin,WI,governor,Ed Thompson,Wisconsin Politician,10.4,False,False
 2002,Wisconsin,WI,governor,Jim Young,Green,2.5,False,False
 2002,Wyoming,WY,governor,Dave Freudenthal,Democratic,50.0,True,False
 2002,Wyoming,WY,governor,Eli Bebout,Republican,47.9,False,False

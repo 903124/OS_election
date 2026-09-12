@@ -1,0 +1,378 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2014,Alabama,AL,governor,Republican primary results,Winning,Robert J. Bentley,Republican,388247.0,89.35,True,True
+2014,Alabama,AL,governor,Republican primary results,Candidate,Stacy Lee George,Republican,25134.0,5.78,False,False
+2014,Alabama,AL,governor,Republican primary results,Candidate,Bob Starkey,Republican,21144.0,4.87,False,False
+2014,Alabama,AL,governor,Republican primary results,Total,,,434525.0,100.0,False,False
+2014,Alabama,AL,governor,Democratic primary results,Winning,Parker Griffith,Democratic,115433.0,63.9,True,False
+2014,Alabama,AL,governor,Democratic primary results,Candidate,Kevin Bass,Democratic,65225.0,36.1,False,False
+2014,Alabama,AL,governor,Democratic primary results,Total,,,180658.0,100.0,False,False
+2014,Alaska,AK,governor,Republican primary results,Winning,Sean Parnell,Republican,80903.0,75.86,True,True
+2014,Alaska,AK,governor,Republican primary results,Candidate,Russ Millette,Republican,11296.0,10.59,False,False
+2014,Alaska,AK,governor,Republican primary results,Candidate,Brad Snowden,Republican,10594.0,9.93,False,False
+2014,Alaska,AK,governor,Republican primary results,Candidate,"Gerald L. ""Tap"" Heikes",Republican,3855.0,3.61,False,False
+2014,Alaska,AK,governor,Republican primary results,Total,,,106648.0,100.0,False,False
+2014,Alaska,AK,governor,Republican primary results,Winning,Dan Sullivan,Republican,74758.0,70.7,True,False
+2014,Alaska,AK,governor,Republican primary results,Candidate,Kelly Wolf,Republican,30985.0,29.3,False,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Winning,Byron Mallott,Democratic,42327.0,66.89,True,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Winning,Carolyn Clift,Libertarian,10436.0,16.49,True,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Candidate,Phil Stoddard,Democratic,10514.0,16.62,False,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Total,,,63277.0,100.0,False,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Winning,Hollis French,Democratic,40271.0,62.08,True,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Winning,Andrew C. Lee,Libertarian,8238.0,12.7,True,False
+2014,Alaska,AK,governor,Democratic–Libertarian–Independence primary results,Candidate,Bob Williams,Democratic,16358.0,25.22,False,False
+2014,Arizona,AZ,governor,Republican primary results,Winning,Doug Ducey,Republican,200607.0,37.05,True,False
+2014,Arizona,AZ,governor,Republican primary results,Candidate,Scott Smith,Republican,119107.0,22.0,False,False
+2014,Arizona,AZ,governor,Republican primary results,Candidate,Christine Jones,Republican,89922.0,16.61,False,False
+2014,Arizona,AZ,governor,Republican primary results,Candidate,Ken Bennett,Republican,62010.0,11.45,False,False
+2014,Arizona,AZ,governor,Republican primary results,Candidate,Andrew Thomas,Republican,43822.0,8.09,False,False
+2014,Arizona,AZ,governor,Republican primary results,Candidate,Frank Riggs,Republican,24168.0,4.46,False,False
+2014,Arizona,AZ,governor,Republican primary results,Candidate,Write-in,Republican,1804.0,0.03,False,False
+2014,Arizona,AZ,governor,Republican primary results,Total,,,541440.0,100.0,False,False
+2014,Arizona,AZ,governor,Democratic primary results,Winning,Fred DuVal,Democratic,271276.0,97.0,True,False
+2014,Arizona,AZ,governor,Democratic primary results,Candidate,Write-in,Democratic,8578.0,3.0,False,False
+2014,Arizona,AZ,governor,Democratic primary results,Total,,,279854.0,100.0,False,False
+2014,Arkansas,AR,governor,Republican primary results,Winning,Asa Hutchinson,Republican,130752.0,72.95,True,False
+2014,Arkansas,AR,governor,Republican primary results,Candidate,Curtis Coleman,Republican,48473.0,27.05,False,False
+2014,Arkansas,AR,governor,Republican primary results,Total,,,179225.0,100.0,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Winning,Jerry Brown,Democratic,,45.6,True,True
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Winning,Tim Donnelly,Republican,,18.3,True,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Glenn Champ,Republican,,7.3,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Andrew Blount,Republican,,5.4,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Alma Marie Winston,Republican,,4.1,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Neel Kashkari,Republican,,3.8,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Robert Newman,No party preference,,3.1,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Akinyemi Agbede,Democratic,,2.8,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Luis J. Rodriguez,Green,,2.6,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Cindy Sheehan,Freedom,,2.3,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Richard William Aguirre,Republican,,1.7,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,"""Bo"" Bogdan Ambrozewicz",No party preference,,0.9,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Janel Hyeshia Buycks,No party preference,,0.8,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Rakesh Kumar Christian,No party preference,,0.7,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Candidate,Joe Leicht,No party preference,,0.6,False,False
+2014,California,CA,governor,"[http://blog.sfgate.com/nov05election/2014/04/24/shocker-gop-registered-sex-offender-beats-kashkari-in-new-governors-race-poll/ Clear Path Strategies poll of 1,000 likely voters, April 2–6, 2014. MoE: ±?]",Total,,,,100.0,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Winning,Jerry Brown,Democratic,2354769.0,54.34,True,True
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Winning,Neel Kashkari,Republican,839767.0,19.38,True,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Tim Donnelly,Republican,643236.0,14.85,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Andrew Blount,Republican,89749.0,2.07,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Glenn Champ,Republican,76066.0,1.76,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Luis J. Rodriguez,Green,66872.0,1.54,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Cindy Sheehan,Freedom,52707.0,1.22,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Alma Marie Winston,Republican,46042.0,1.06,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Robert Newman,No party preference,44120.0,1.02,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Akinyemi Agbede,Democratic,37024.0,0.85,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Richard William Aguirre,Republican,35125.0,0.81,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,"""Bo"" Bogdan Ambrozewicz",No party preference,14929.0,0.35,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Janel Hyeshia Buycks,No party preference,12136.0,0.28,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Rakesh Kumar Christian,No party preference,11142.0,0.26,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Joe Leicht,No party preference,9307.0,0.22,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Karen Jill Bernal,Write-in Candidate,17.0,0.01,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Nickolas Wildstar,Write-in Candidate,17.0,0.01,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Candidate,Jimelle L. Walls,Write-in Candidate,3.0,0.01,False,False
+2014,California,CA,governor,"California gubernatorial primary election, 2014",Total,,,4333028.0,100.0,False,False
+2014,Colorado,CO,governor,Democratic primary results,Winning,John Hickenlooper,Democratic,214403.0,100.0,True,True
+2014,Colorado,CO,governor,Democratic primary results,Total,,,214403.0,100.0,False,False
+2014,Colorado,CO,governor,Republican primary results,Winning,Bob Beauprez,Republican,116333.0,30.24,True,False
+2014,Colorado,CO,governor,Republican primary results,Candidate,Tom Tancredo,Republican,102830.0,26.73,False,False
+2014,Colorado,CO,governor,Republican primary results,Candidate,Scott Gessler,Republican,89213.0,23.19,False,False
+2014,Colorado,CO,governor,Republican primary results,Candidate,Mike Kopp,Republican,76373.0,19.85,False,False
+2014,Colorado,CO,governor,Republican primary results,Total,,,384749.0,100.0,False,False
+2014,Connecticut,CT,governor,Republican primary results,Winning,Thomas C. Foley,Republican,44144.0,55.58,True,False
+2014,Connecticut,CT,governor,Republican primary results,Candidate,John P. McKinney,Republican,35282.0,44.42,False,False
+2014,Connecticut,CT,governor,Republican primary results,Total,,,79426.0,100.0,False,False
+2014,Connecticut,CT,governor,Republican primary results,Winning,Heather Bond Somers,Republican,26980.0,34.46,True,False
+2014,Connecticut,CT,governor,Republican primary results,Candidate,Penny Bacchiochi,Republican,26311.0,33.06,False,False
+2014,Connecticut,CT,governor,Republican primary results,Candidate,David M. Walker,Republican,25014.0,31.94,False,False
+2014,Florida,FL,governor,Republican primary results,Winning,Rick Scott,Republican,831887.0,87.65,True,True
+2014,Florida,FL,governor,Republican primary results,Candidate,Elizabeth Cuevas-Neunder,Republican,100496.0,10.59,False,False
+2014,Florida,FL,governor,Republican primary results,Candidate,Yinka Adeshina,Republican,16761.0,1.77,False,False
+2014,Florida,FL,governor,Republican primary results,Total,,,949144.0,100.0,False,False
+2014,Florida,FL,governor,Democratic primary results,Winning,Charlie Crist,Democratic,623001.0,74.36,True,False
+2014,Florida,FL,governor,Democratic primary results,Candidate,Nan Rich,Democratic,214795.0,25.64,False,False
+2014,Florida,FL,governor,Democratic primary results,Total,,,837796.0,100.0,False,False
+2014,Georgia,GA,governor,Republican primary results,Winning,Nathan Deal,Republican,430170.0,72.15,True,True
+2014,Georgia,GA,governor,Republican primary results,Candidate,David Pennington,Republican,99548.0,16.7,False,False
+2014,Georgia,GA,governor,Republican primary results,Candidate,John Barge,Republican,66500.0,11.15,False,False
+2014,Georgia,GA,governor,Republican primary results,Total,,,596218.0,100.0,False,False
+2014,Georgia,GA,governor,Democratic primary results,Winning,Jason Carter,Democratic,304243.0,100.0,True,False
+2014,Georgia,GA,governor,Democratic primary results,Total,,,304243.0,100.0,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Winning,David Ige,Democratic,157050.0,66.01,True,False
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Neil Abercrombie,Democratic,73507.0,30.09,False,True
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Van Tanabe,Democratic,2622.0,1.01,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Blank vote,Democratic,4614.0,1.94,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Over vote,Democratic,124.0,0.05,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Total,,,237917.0,100.0,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Winning,Shan Tsutsui,Democratic,120779.0,50.77,True,True
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Clayton Hee,Democratic,81255.0,34.15,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Mary Zanakis,Democratic,18174.0,7.64,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Miles Shiratori,Democratic,2593.0,1.09,False,False
+2014,Hawaii,HI,governor,Democratic primary results,Candidate,Sam Puletasi,Democratic,2126.0,0.89,False,False
+2014,Hawaii,HI,governor,Republican primary results,Winning,Duke Aiona,Republican,41832.0,94.77,True,False
+2014,Hawaii,HI,governor,Republican primary results,Candidate,Stuart Todd Gregory,Republican,640.0,1.45,False,False
+2014,Hawaii,HI,governor,Republican primary results,Candidate,Charles (Trump) Collins,Republican,580.0,1.31,False,False
+2014,Hawaii,HI,governor,Republican primary results,Candidate,Blank vote,Republican,1054.0,2.39,False,False
+2014,Hawaii,HI,governor,Republican primary results,Candidate,Over vote,Republican,36.0,0.08,False,False
+2014,Hawaii,HI,governor,Republican primary results,Total,,,44142.0,100.0,False,False
+2014,Hawaii,HI,governor,Republican primary results,Winning,Elwin Ahu,Republican,27678.0,62.07,True,False
+2014,Hawaii,HI,governor,Republican primary results,Candidate,"Warner ""Kimo"" Sutton",Republican,11511.0,26.08,False,False
+2014,Hawaii,HI,governor,Libertarian primary results,Winning,Jeff Davis,Libertarian,587.0,82.56,True,False
+2014,Hawaii,HI,governor,Libertarian primary results,Candidate,Blank vote,Libertarian,124.0,17.44,False,False
+2014,Hawaii,HI,governor,Libertarian primary results,Total,,,711.0,100.0,False,False
+2014,Hawaii,HI,governor,Libertarian primary results,Winning,Cynthia (Lahi) Marlin,Libertarian,555.0,78.06,True,False
+2014,Hawaii,HI,governor,Independent Party primary results,Winning,Mufi Hannemann,Independent,2103.0,88.62,True,False
+2014,Hawaii,HI,governor,Independent Party primary results,Candidate,Blank vote,Independent,269.0,11.34,False,False
+2014,Hawaii,HI,governor,Independent Party primary results,Candidate,Over vote,Independent,1.0,0.04,False,False
+2014,Hawaii,HI,governor,Independent Party primary results,Total,,,2373.0,100.0,False,False
+2014,Hawaii,HI,governor,Independent Party primary results,Winning,Les Chang,Independent,1370.0,57.73,True,False
+2014,Hawaii,HI,governor,Independent primary results,Candidate,Misty Davis,Independent,201.0,18.03,False,False
+2014,Hawaii,HI,governor,Independent primary results,Candidate,Richard Morse,Independent,98.0,8.79,False,False
+2014,Hawaii,HI,governor,Independent primary results,Candidate,Khis Dejean Caldwell,Independent,85.0,7.62,False,False
+2014,Hawaii,HI,governor,Independent primary results,Candidate,Joe Spatola,Independent,40.0,3.59,False,False
+2014,Hawaii,HI,governor,Independent primary results,Candidate,Blank vote,Independent,687.0,61.61,False,False
+2014,Hawaii,HI,governor,Independent primary results,Candidate,Over vote,Independent,4.0,0.36,False,False
+2014,Hawaii,HI,governor,Independent primary results,Total,,,1115.0,100.0,False,False
+2014,Idaho,ID,governor,Republican primary results,Winning,Butch Otter,Republican,79779.0,51.4,True,True
+2014,Idaho,ID,governor,Republican primary results,Candidate,Russ Fulcher,Republican,67694.0,43.6,False,False
+2014,Idaho,ID,governor,Republican primary results,Candidate,Harley Brown,Republican,5084.0,3.3,False,False
+2014,Idaho,ID,governor,Republican primary results,Candidate,Walt Bayes,Republican,2753.0,1.8,False,False
+2014,Idaho,ID,governor,Republican primary results,Total,,,155310.0,100.0,False,False
+2014,Idaho,ID,governor,Democratic primary results,Winning,A.J. Balukoff,Democratic,16751.0,65.3,True,False
+2014,Idaho,ID,governor,Democratic primary results,Candidate,Terry Kerr,Democratic,8887.0,34.7,False,False
+2014,Idaho,ID,governor,Democratic primary results,Total,,,25638.0,100.0,False,False
+2014,Illinois,IL,governor,Democratic primary results,Winning,Pat Quinn,Democratic,321818.0,71.94,True,True
+2014,Illinois,IL,governor,Democratic primary results,Candidate,Tio Hardiman,Democratic,125500.0,28.06,False,False
+2014,Illinois,IL,governor,Democratic primary results,Total,,,447318.0,100.0,False,False
+2014,Illinois,IL,governor,Republican primary results,Winning,Bruce Rauner,Republican,328934.0,40.13,True,False
+2014,Illinois,IL,governor,Republican primary results,Candidate,Kirk Dillard,Republican,305120.0,37.22,False,False
+2014,Illinois,IL,governor,Republican primary results,Candidate,Bill Brady,Republican,123708.0,15.09,False,False
+2014,Illinois,IL,governor,Republican primary results,Candidate,Dan Rutherford,Republican,61848.0,7.55,False,False
+2014,Illinois,IL,governor,Republican primary results,Total,,,819624.0,100.0,False,False
+2014,Iowa,IA,governor,Republican primary results,Winning,Terry Branstad,Republican,129712.0,83.0,True,True
+2014,Iowa,IA,governor,Republican primary results,Candidate,Tom Hoefling,Republican,26284.0,16.82,False,False
+2014,Iowa,IA,governor,Republican primary results,Candidate,Write-In,Republican,279.0,0.18,False,False
+2014,Iowa,IA,governor,Republican primary results,Total,,,156275.0,100.0,False,False
+2014,Iowa,IA,governor,Democratic primary results,Winning,Jack Hatch,Democratic,60404.0,99.26,True,False
+2014,Iowa,IA,governor,Democratic primary results,Candidate,Write-in,Democratic,448.0,0.74,False,False
+2014,Iowa,IA,governor,Democratic primary results,Total,,,60852.0,100.0,False,False
+2014,Kansas,KS,governor,Republican primary results,Winning,Sam Brownback,Republican,166687.0,63.2,True,True
+2014,Kansas,KS,governor,Republican primary results,Candidate,Jennifer Winn,Republican,96907.0,36.7,False,False
+2014,Kansas,KS,governor,Republican primary results,Total,,,263594.0,100.0,False,False
+2014,Kansas,KS,governor,Democratic primary results,Winning,Paul Davis,Democratic,66357.0,100.0,True,False
+2014,Kansas,KS,governor,Democratic primary results,Total,,,66357.0,100.0,False,False
+2014,Maine,ME,governor,Republican primary results,Winning,Paul LePage,Republican,50856.0,81.61,True,True
+2014,Maine,ME,governor,Republican primary results,Candidate,Blank ballots,,11457.0,18.39,False,False
+2014,Maine,ME,governor,Republican primary results,Total,,,62313.0,100.0,False,False
+2014,Maine,ME,governor,Democratic primary results,Winning,Mike Michaud,Democratic,56286.0,86.48,True,False
+2014,Maine,ME,governor,Democratic primary results,Candidate,Blank ballots,,8799.0,13.52,False,False
+2014,Maine,ME,governor,Democratic primary results,Total,,,65085.0,100.0,False,False
+2014,Maryland,MD,governor,Democratic primary results,Winning,Anthony Brown,Democratic,249398.0,51.41,True,False
+2014,Maryland,MD,governor,Democratic primary results,Candidate,Doug Gansler,Democratic,117383.0,24.2,False,False
+2014,Maryland,MD,governor,Democratic primary results,Candidate,Heather Mizeur,Democratic,104721.0,21.59,False,False
+2014,Maryland,MD,governor,Democratic primary results,Candidate,Cindy Walsh,Democratic,6863.0,1.41,False,False
+2014,Maryland,MD,governor,Democratic primary results,Candidate,Charles U. Smith,Democratic,3507.0,0.72,False,False
+2014,Maryland,MD,governor,Democratic primary results,Candidate,Ralph Jaffe,Democratic,3221.0,0.66,False,False
+2014,Maryland,MD,governor,Democratic primary results,Total,,,485093.0,100.0,False,False
+2014,Maryland,MD,governor,Republican primary results,Winning,Larry Hogan,Republican,92376.0,42.98,True,False
+2014,Maryland,MD,governor,Republican primary results,Candidate,David R. Craig,Republican,62639.0,29.14,False,False
+2014,Maryland,MD,governor,Republican primary results,Candidate,Charles Lollar,Republican,33292.0,15.49,False,False
+2014,Maryland,MD,governor,Republican primary results,Candidate,Ron George,Republican,26628.0,12.39,False,False
+2014,Maryland,MD,governor,Republican primary results,Total,,,214935.0,100.0,False,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Winning,Steve Grossman,Democratic,1547.0,35.2,True,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Winning,Martha Coakley,Democratic,1024.0,23.3,True,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Winning,Donald Berwick,Democratic,972.0,22.1,True,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Candidate,Juliette Kayyem,Democratic,535.0,12.1,False,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Candidate,Joseph Avellone,Democratic,311.0,7.1,False,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Total,,,4389.0,100.0,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Winning,Martha Coakley,Democratic,229156.0,42.4,True,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Steve Grossman,Democratic,196594.0,36.4,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Donald Berwick,Democratic,113988.0,21.1,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Other,Democratic,995.0,0.2,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Blank votes,Democratic,15359.0,,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Total,,,556092.0,100.0,False,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Winning,Steve Kerrigan,Democratic,1625.0,37.6,True,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Winning,Michael Lake,Democratic,1529.0,35.4,True,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Winning,Leland Cheung,Democratic,695.0,16.2,True,False
+2014,Massachusetts,MA,governor,Democratic convention vote,Candidate,James Arena-DeRosa,Democratic,460.0,10.6,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Winning,Steve Kerrigan,Democratic,222562.0,50.7,True,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Leland Cheung,Democratic,128645.0,29.3,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Michael Lake,Democratic,86006.0,19.6,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,All Others,Democratic,1435.0,0.3,False,False
+2014,Massachusetts,MA,governor,Democratic primary results,Candidate,Blank Votes,Democratic,117444.0,,False,False
+2014,Massachusetts,MA,governor,Republican primary results,Winning,Charlie Baker,Republican,116004.0,74.1,True,False
+2014,Massachusetts,MA,governor,Republican primary results,Candidate,Mark Fisher,Republican,40240.0,25.7,False,False
+2014,Massachusetts,MA,governor,Republican primary results,Candidate,All Others,Republican,336.0,0.2,False,False
+2014,Massachusetts,MA,governor,Republican primary results,Candidate,Blank Votes,Republican,30327.0,,False,False
+2014,Massachusetts,MA,governor,Republican primary results,Total,,,159936.0,100.0,False,False
+2014,Michigan,MI,governor,Republican primary results,Winning,Rick Snyder,Republican,617720.0,100.0,True,True
+2014,Michigan,MI,governor,Republican primary results,Total,,,617720.0,100.0,False,False
+2014,Michigan,MI,governor,Democratic primary results,Winning,Mark Schauer,Democratic,513263.0,100.0,True,False
+2014,Michigan,MI,governor,Democratic primary results,Total,,,513263.0,100.0,False,False
+2014,Minnesota,MN,governor,Democratic primary election results,Winning,Mark Dayton/Tina Smith,Minnesota Democratic–farmer–labor,177849.0,92.99,True,True
+2014,Minnesota,MN,governor,Democratic primary election results,Candidate,Leslie Davis/Gregor Soderberg,Minnesota Democratic–farmer–labor,8530.0,4.46,False,False
+2014,Minnesota,MN,governor,Democratic primary election results,Candidate,Bill Dahn/James Vigliotti,Minnesota Democratic–farmer–labor,4880.0,2.55,False,False
+2014,Minnesota,MN,governor,Democratic primary election results,Total,,,191259.0,100.0,False,False
+2014,Minnesota,MN,governor,Republican primary election results,Winning,Jeff Johnson/Bill Kuisle,Republican,55836.0,30.33,True,False
+2014,Minnesota,MN,governor,Republican primary election results,Candidate,Kurt Zellers/Dean Simpson,Republican,44046.0,23.92,False,False
+2014,Minnesota,MN,governor,Republican primary election results,Candidate,Marty Seifert/Pam Myhra,Republican,38851.0,21.1,False,False
+2014,Minnesota,MN,governor,Republican primary election results,Candidate,Scott Honour/Karin Housley,Republican,38377.0,20.84,False,False
+2014,Minnesota,MN,governor,Republican primary election results,Candidate,Merrill Anderson/Mark Anderson,Republican,7000.0,3.8,False,False
+2014,Minnesota,MN,governor,Republican primary election results,Total,,,184110.0,100.0,False,False
+2014,Minnesota,MN,governor,Independence primary election results,Winning,Hannah Nicollet/Tim Gieseke,Independence,5822.0,100.0,True,False
+2014,Minnesota,MN,governor,Independence primary election results,Total,,,5822.0,100.0,False,False
+2014,Nebraska,NE,governor,Republican primary results,Winning,Pete Ricketts,Republican,58671.0,26.91,True,False
+2014,Nebraska,NE,governor,Republican primary results,Candidate,Jon Bruning,Republican,56324.0,25.84,False,False
+2014,Nebraska,NE,governor,Republican primary results,Candidate,Beau McCoy,Republican,46196.0,21.19,False,False
+2014,Nebraska,NE,governor,Republican primary results,Candidate,Mike Foley,Republican,42394.0,19.44,False,False
+2014,Nebraska,NE,governor,Republican primary results,Candidate,Tom Carlson,Republican,9080.0,4.17,False,False
+2014,Nebraska,NE,governor,Republican primary results,Candidate,Bryan Slone,Republican,8265.0,3.79,False,False
+2014,Nebraska,NE,governor,Republican primary results,Total,,,221930.0,100.0,False,False
+2014,Nebraska,NE,governor,Democratic primary results,Winning,Chuck Hassebrook,Democratic,65620.0,100.0,True,False
+2014,Nebraska,NE,governor,Democratic primary results,Total,,,65620.0,100.0,False,False
+2014,Nebraska,NE,governor,Libertarian primary results,Winning,"Mark G. Elworth, Jr.",Libertarian,402.0,100.0,True,False
+2014,Nebraska,NE,governor,Libertarian primary results,Total,,,402.0,100.0,False,False
+2014,Nevada,NV,governor,Republican primary results,Winning,Brian Sandoval,Republican,105857.0,89.88,True,True
+2014,Nevada,NV,governor,Republican primary results,Candidate,Edward Hamilton,Republican,3758.0,3.19,False,False
+2014,Nevada,NV,governor,Republican primary results,Candidate,None of These Candidates,,3509.0,2.98,False,False
+2014,Nevada,NV,governor,Republican primary results,Candidate,William Tarbell,Republican,1966.0,1.67,False,False
+2014,Nevada,NV,governor,Republican primary results,Candidate,Thomas Tighe,Republican,1495.0,1.27,False,False
+2014,Nevada,NV,governor,Republican primary results,Candidate,Gary Marinch,Republican,1195.0,1.01,False,False
+2014,Nevada,NV,governor,Republican primary results,Total,,,117780.0,100.0,False,False
+2014,Nevada,NV,governor,Democratic primary results,Winning,Bob Goodman,Democratic,17961.0,24.77,True,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,None of These Candidates,,21725.0,29.96,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,Stephen Frye,Democratic,8231.0,11.35,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,John Rutledge,Democratic,6039.0,8.33,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,Charles Chang,Democratic,5619.0,7.75,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,Chris Hyepock,Democratic,4743.0,6.54,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,Allen Rheinhart,Democratic,3605.0,4.97,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,Abdul Shabazz,Democratic,2731.0,3.77,False,False
+2014,Nevada,NV,governor,Democratic primary results,Candidate,Frederick Conquest,Democratic,1867.0,2.57,False,False
+2014,Nevada,NV,governor,Democratic primary results,Total,,,72521.0,100.0,False,False
+2014,New Hampshire,NH,governor,Democratic primary results,Winning,Maggie Hassan,Democratic,39115.0,93.07,True,False
+2014,New Hampshire,NH,governor,Democratic primary results,Candidate,Ian Freeman,Democratic,1719.0,4.09,False,False
+2014,New Hampshire,NH,governor,Democratic primary results,Candidate,Clecia Terrio,Democratic,704.0,1.68,False,False
+2014,New Hampshire,NH,governor,Democratic primary results,Candidate,Other,Democratic,488.0,1.16,False,False
+2014,New Hampshire,NH,governor,Democratic primary results,Total,,,42026.0,100.0,False,False
+2014,New Hampshire,NH,governor,Republican primary results,Winning,Walter Havenstein,Republican,62766.0,55.7,True,False
+2014,New Hampshire,NH,governor,Republican primary results,Candidate,Andrew Hemingway,Republican,42005.0,37.3,False,False
+2014,New Hampshire,NH,governor,Republican primary results,Candidate,Daniel Greene,Republican,5362.0,4.8,False,False
+2014,New Hampshire,NH,governor,Republican primary results,Candidate,Jonathan Smolin,Republican,2620.0,2.3,False,False
+2014,New Hampshire,NH,governor,Republican primary results,Total,,,112753.0,100.0,False,False
+2014,New Mexico,NM,governor,Republican primary results,Winning,Susana Martínez,Republican,64413.0,100.0,True,True
+2014,New Mexico,NM,governor,Republican primary results,Total,,,67127.0,100.0,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Winning,Gary K. King,Democratic,43918.0,35.03,True,False
+2014,New Mexico,NM,governor,Democratic primary results,Candidate,Alan Webber,Democratic,28406.0,22.66,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Candidate,Lawrence Rael,Democratic,24878.0,19.84,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Candidate,Howie Morales,Democratic,17863.0,14.25,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Candidate,Linda M. Lopez,Democratic,10288.0,8.21,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Candidate,Mario J. Martinez (write-in),Democratic,16.0,0.01,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Candidate,Phillip George Chavez (write-in),Democratic,2.0,0.0,False,False
+2014,New Mexico,NM,governor,Democratic primary results,Total,,,125371.0,100.0,False,False
+2014,New York,NY,governor,Democratic Party gubernatorial primary results,Winning,Andrew Cuomo,Democratic,361380.0,62.92,True,True
+2014,New York,NY,governor,Democratic Party gubernatorial primary results,Candidate,Zephyr Teachout,Democratic,192210.0,33.47,False,False
+2014,New York,NY,governor,Democratic Party gubernatorial primary results,Candidate,Randy Credico,Democratic,20760.0,3.61,False,False
+2014,New York,NY,governor,Democratic Party gubernatorial primary results,Total,,,574350.0,100.0,False,False
+2014,New York,NY,governor,Democratic Party lieutenant gubernatorial primary results,Winning,Kathy Hochul,Democratic,329089.0,60.2,True,False
+2014,New York,NY,governor,Democratic Party lieutenant gubernatorial primary results,Candidate,Tim Wu,Democratic,217614.0,39.8,False,False
+2014,New York,NY,governor,Democratic Party lieutenant gubernatorial primary results,Total,,,546703.0,100.0,False,False
+2014,Ohio,OH,governor,Republican primary results,Winning,John Kasich,Republican,559671.0,100.0,True,True
+2014,Ohio,OH,governor,Republican primary results,Total,,,559671.0,100.0,False,False
+2014,Ohio,OH,governor,Democratic primary results,Winning,Ed FitzGerald,Democratic,366056.0,83.15,True,False
+2014,Ohio,OH,governor,Democratic primary results,Candidate,Larry Ealy,Democratic,74197.0,16.85,False,False
+2014,Ohio,OH,governor,Democratic primary results,Total,,,440253.0,100.0,False,False
+2014,Ohio,OH,governor,Green Party primary results,Winning,Anita Rios,Green,674.0,100.0,True,False
+2014,Ohio,OH,governor,Green Party primary results,Total,,,674.0,100.0,False,False
+2014,Oklahoma,OK,governor,Republican primary results,Winning,Mary Fallin,Republican,200035.0,75.52,True,True
+2014,Oklahoma,OK,governor,Republican primary results,Candidate,Chad Moody,Republican,40839.0,15.42,False,False
+2014,Oklahoma,OK,governor,Republican primary results,Candidate,Dax Ewbank,Republican,24020.0,9.07,False,False
+2014,Oklahoma,OK,governor,Republican primary results,Total,,,264894.0,100.0,False,False
+2014,Oregon,OR,governor,Democratic primary results,Winning,John Kitzhaber,Democratic,268654.0,89.0,True,True
+2014,Oregon,OR,governor,Democratic primary results,Candidate,Ifeanyichukwu C. Diru,Democratic,27833.0,9.22,False,False
+2014,Oregon,OR,governor,Democratic primary results,Candidate,write-ins,,5388.0,1.78,False,False
+2014,Oregon,OR,governor,Democratic primary results,Total,,,301875.0,100.0,False,False
+2014,Oregon,OR,governor,Republican primary results,Winning,Dennis Richardson,Republican,163695.0,65.86,True,False
+2014,Oregon,OR,governor,Republican primary results,Candidate,Gordon Challstrom,Republican,24693.0,9.93,False,False
+2014,Oregon,OR,governor,Republican primary results,Candidate,Bruce Cuff,Republican,23912.0,9.62,False,False
+2014,Oregon,OR,governor,Republican primary results,Candidate,Mae Rafferty,Republican,16920.0,6.8,False,False
+2014,Oregon,OR,governor,Republican primary results,Candidate,Tim Carr,Republican,14847.0,5.97,False,False
+2014,Oregon,OR,governor,Republican primary results,Candidate,Darren Karr,Republican,2474.0,1.0,False,False
+2014,Oregon,OR,governor,Republican primary results,Candidate,write-ins,,2011.0,0.8,False,False
+2014,Oregon,OR,governor,Republican primary results,Total,,,248552.0,100.0,False,False
+2014,Pennsylvania,PA,governor,Republican primary results,Candidate,Tom Corbett,Republican,,,False,True
+2014,Pennsylvania,PA,governor,Republican primary results,Total,,,373465.0,100.0,False,False
+2014,Pennsylvania,PA,governor,Democratic primary results,Winning,Tom Wolf,Democratic,488917.0,57.86,True,False
+2014,Pennsylvania,PA,governor,Democratic primary results,Candidate,Allyson Schwartz,Democratic,149027.0,17.64,False,False
+2014,Pennsylvania,PA,governor,Democratic primary results,Candidate,Rob McCord,Democratic,142311.0,16.84,False,False
+2014,Pennsylvania,PA,governor,Democratic primary results,Candidate,Katie McGinty,Democratic,64754.0,7.66,False,False
+2014,Pennsylvania,PA,governor,Democratic primary results,Total,,,845009.0,100.0,False,False
+2014,Rhode Island,RI,governor,Democratic primary results,Winning,Gina Raimondo,Democratic,53990.0,42.15,True,False
+2014,Rhode Island,RI,governor,Democratic primary results,Candidate,Angel Taveras,Democratic,37326.0,29.14,False,False
+2014,Rhode Island,RI,governor,Democratic primary results,Candidate,Clay Pell,Democratic,34515.0,26.94,False,False
+2014,Rhode Island,RI,governor,Democratic primary results,Candidate,Todd Giroux,Democratic,2264.0,1.77,False,False
+2014,Rhode Island,RI,governor,Democratic primary results,Total,,,128095.0,100.0,False,False
+2014,Rhode Island,RI,governor,Republican primary results,Winning,Allan Fung,Republican,17530.0,54.9,True,False
+2014,Rhode Island,RI,governor,Republican primary results,Candidate,Ken Block,Republican,14399.0,45.1,False,False
+2014,Rhode Island,RI,governor,Republican primary results,Total,,,31929.0,100.0,False,False
+2014,South Dakota,SD,governor,Republican primary results,Winning,Dennis Daugaard,Republican,60017.0,80.87,True,True
+2014,South Dakota,SD,governor,Republican primary results,Candidate,Lora Hubbel,Republican,14196.0,19.13,False,False
+2014,South Dakota,SD,governor,Republican primary results,Total,,,74213.0,100.0,False,False
+2014,South Dakota,SD,governor,Democratic primary results,Winning,Susan Wismer,Democratic,15311.0,55.49,True,False
+2014,South Dakota,SD,governor,Democratic primary results,Candidate,Joe Lowe,Democratic,12283.0,44.51,False,False
+2014,South Dakota,SD,governor,Democratic primary results,Total,,,27594.0,100.0,False,False
+2014,Tennessee,TN,governor,Republican primary results,Winning,Bill Haslam,Republican,570997.0,87.68,True,True
+2014,Tennessee,TN,governor,Republican primary results,Candidate,"Mark ""Coonrippy"" Brown",Republican,44165.0,6.78,False,False
+2014,Tennessee,TN,governor,Republican primary results,Candidate,Donald Ray McFolin,Republican,22968.0,3.53,False,False
+2014,Tennessee,TN,governor,Republican primary results,Candidate,"Basil Marceaux, Sr.",Republican,13117.0,2.01,False,False
+2014,Tennessee,TN,governor,Republican primary results,Total,,,651247.0,100.0,False,False
+2014,Tennessee,TN,governor,Democratic primary results,Winning,"Charles V. ""Charlie"" Brown",Democratic,95114.0,41.71,True,False
+2014,Tennessee,TN,governor,Democratic primary results,Candidate,"Wm. H. ""John"" McKamey",Democratic,59200.0,25.96,False,False
+2014,Tennessee,TN,governor,Democratic primary results,Candidate,Kennedy Spellman Johnson,Democratic,55718.0,24.44,False,False
+2014,Tennessee,TN,governor,Democratic primary results,Candidate,Ron Noonan,Democratic,17993.0,7.89,False,False
+2014,Tennessee,TN,governor,Democratic primary results,Total,,,228025.0,100.0,False,False
+2014,Texas,TX,governor,Republican primary results,Winning,Greg Abbott,Republican,1224014.0,91.48,True,False
+2014,Texas,TX,governor,Republican primary results,Candidate,Lisa Fritsch,Republican,59221.0,4.42,False,False
+2014,Texas,TX,governor,Republican primary results,Candidate,Miriam Martinez,Republican,35585.0,2.65,False,False
+2014,Texas,TX,governor,Republican primary results,Candidate,Larry Kilgore,Republican,19055.0,1.42,False,False
+2014,Texas,TX,governor,Republican primary results,Total,,,1337875.0,100.0,False,False
+2014,Texas,TX,governor,Democratic primary results,Winning,Wendy Davis,Democratic,432595.0,78.08,True,False
+2014,Texas,TX,governor,Democratic primary results,Candidate,Ray Madrigal,Democratic,121419.0,21.91,False,False
+2014,Texas,TX,governor,Democratic primary results,Total,,,554014.0,100.0,False,False
+2014,Vermont,VT,governor,Democratic primary results,Winning,Peter Shumlin,Democratic,15260.0,76.96,True,True
+2014,Vermont,VT,governor,Democratic primary results,Candidate,H. Brooke Paige,Democratic,3199.0,16.13,False,False
+2014,Vermont,VT,governor,Democratic primary results,Candidate,Write-in,Democratic,1369.0,6.9,False,False
+2014,Vermont,VT,governor,Democratic primary results,Total,,,19828.0,100.0,False,False
+2014,Vermont,VT,governor,Republican primary results,Winning,Scott Milne,Republican,11486.0,71.74,True,False
+2014,Vermont,VT,governor,Republican primary results,Candidate,Steve Berry,Republican,1106.0,6.91,False,False
+2014,Vermont,VT,governor,Republican primary results,Candidate,Emily Peyton,Republican,1060.0,6.62,False,False
+2014,Vermont,VT,governor,Republican primary results,Candidate,Brian Sarandon,Republican,981.0,6.12,False,False
+2014,Vermont,VT,governor,Republican primary results,Candidate,Write-in,Republican,2358.0,14.73,False,False
+2014,Vermont,VT,governor,Republican primary results,Total,,,16010.0,100.0,False,False
+2014,Vermont,VT,governor,Progressive primary results,Candidate,Write-in,Progressive,114.0,100.0,False,False
+2014,Vermont,VT,governor,Liberty Union primary results,Winning,Peter Diamondstone,Union,133.0,89.26,True,False
+2014,Vermont,VT,governor,Liberty Union primary results,Candidate,Write-in,Union,16.0,10.74,False,False
+2014,Vermont,VT,governor,Liberty Union primary results,Total,,,149.0,100.0,False,False
+2014,Wisconsin,WI,governor,Republican gubernatorial primary results,Winning,Scott Walker,Republican,238715.0,99.42,True,True
+2014,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Steve R. Evans (write-in),Republican,94.0,0.04,False,False
+2014,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Scattering,Republican,1293.0,0.54,False,False
+2014,Wisconsin,WI,governor,Republican gubernatorial primary results,Total,,,240102.0,100.0,False,False
+2014,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Winning,Rebecca Kleefisch,Republican,228864.0,99.69,True,True
+2014,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Candidate,Scattering,Republican,704.0,0.31,False,False
+2014,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Total,,,229568.0,100.0,False,False
+2014,Wisconsin,WI,governor,Democratic gubernatorial primary results,Winning,Mary Burke,Democratic,259926.0,83.28,True,False
+2014,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Brett Hulsey,Democratic,51830.0,16.61,False,False
+2014,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Scattering,Democratic,350.0,0.11,False,False
+2014,Wisconsin,WI,governor,Democratic gubernatorial primary results,Total,,,312106.0,100.0,False,False
+2014,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Winning,John Lehman,Democratic,144591.0,55.24,True,False
+2014,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Mary Jo Walters,Democratic,116518.0,44.52,False,False
+2014,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Scattering,Democratic,631.0,0.24,False,False
+2014,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Total,,,261740.0,100.0,False,False
+2014,Wyoming,WY,governor,Republican primary results,Winning,Matt Mead,Republican,53673.0,54.04,True,True
+2014,Wyoming,WY,governor,Republican primary results,Candidate,Taylor Haynes,Republican,31532.0,31.75,False,False
+2014,Wyoming,WY,governor,Republican primary results,Candidate,Cindy Hill,Republican,12464.0,12.55,False,False
+2014,Wyoming,WY,governor,Republican primary results,Candidate,Write-in,Republican,215.0,0.22,False,False
+2014,Wyoming,WY,governor,Republican primary results,Candidate,Over Votes,Republican,26.0,0.03,False,False
+2014,Wyoming,WY,governor,Republican primary results,Candidate,Under Votes,Republican,1402.0,1.41,False,False
+2014,Wyoming,WY,governor,Republican primary results,Total,,,99312.0,100.0,False,False
+2014,Wyoming,WY,governor,Democratic primary results,Winning,Pete Gosar,Democratic,15289.0,83.52,True,False
+2014,Wyoming,WY,governor,Democratic primary results,Candidate,Write-in,Democratic,510.0,2.78,False,False
+2014,Wyoming,WY,governor,Democratic primary results,Candidate,Over Votes,Democratic,5.0,0.03,False,False
+2014,Wyoming,WY,governor,Democratic primary results,Candidate,Under Votes,Democratic,2502.0,13.67,False,False
+2014,Wyoming,WY,governor,Democratic primary results,Total,,,18306.0,100.0,False,False

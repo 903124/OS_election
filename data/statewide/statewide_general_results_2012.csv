@@ -1,0 +1,63 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Winning,Jack Markell,Democratic,275993,69.34,True,True
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Candidate,Jeff Cragg,Republican,113793,28.59,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Candidate,Mark Perri,Green,4575,1.15,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Candidate,Jesse McVay,Libertarian,3668,0.92,False,False
+2012,Delaware,DE,governor,"Delaware gubernatorial election, 2012",Total,,,398029,100.0,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Winning,Mike Pence/Sue Ellspermann,Republican,1275424,49.49,True,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Candidate,John R. Gregg/Vi Simpson,Democratic,1200016,46.56,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Candidate,Rupert Boneham,Libertarian,101868,3.95,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Candidate,Donnie Harold Harris (write-in),Independent,21,0.0,False,False
+2012,Indiana,IN,governor,"Indiana gubernatorial election, 2012",Total,,,2577329,100.0,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Winning,Jay Nixon,Democratic,1494056,54.77,True,True
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Candidate,Dave Spence,Republican,1160265,42.53,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Candidate,Jim Higgins,Libertarian,73509,2.7,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Write-in,,,53,0.0,False,False
+2012,Missouri,MO,governor,"Missouri gubernatorial election, 2012",Total,,,2727883,100.0,False,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Winning,Steve Bullock,Democratic,236450,48.9,True,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Candidate,Rick Hill,Republican,228879,47.34,False,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Candidate,Ron Vandevender,Libertarian,18160,3.76,False,False
+2012,Montana,MT,governor,2012 Montana gubernatorial election,Total,,,483489,100.0,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Winning,Maggie Hassan,Democratic,378934,54.61,True,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Candidate,Ovide Lamontagne,Republican,295026,42.52,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Candidate,John J. Babiarz,Libertarian,19251,2.77,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Write-in,,,666,0.1,False,False
+2012,New Hampshire,NH,governor,2012 New Hampshire gubernatorial election,Total,,,693877,100.0,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Winning,Pat McCrory,Republican,2440707,54.62,True,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Candidate,Walter Dalton,Democratic,1931580,43.23,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Candidate,Barbara Howe,Libertarian,94652,2.12,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Write-in,,,1356,0.03,False,False
+2012,North Carolina,NC,governor,2012 North Carolina gubernatorial election,Total,,,4468295,100.0,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Winning,Jack Dalrymple,Republican,200525,63.1,True,True
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Candidate,Ryan Taylor,North Dakota Democratic-npl,109048,34.31,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Candidate,Paul Sorum,Independent,5356,1.69,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Candidate,Roland Riemers,Independent,2618,0.82,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Write-in,,,267,0.08,False,False
+2012,North Dakota,ND,governor,"North Dakota gubernatorial election, 2012",Total,,,317814,100.0,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Winning,Gary Herbert,Republican,688592,68.41,True,True
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Peter Cooke,Democratic,277622,27.58,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Ken Larsen,Libertarian,22611,2.25,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Kirk D. Pearson,Constitution,17696,1.76,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,Dennis C. Owen,Write-in,2,0.0,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Candidate,David J. Cannon,Write-in,1,0.0,False,False
+2012,Utah,UT,governor,2012 Utah gubernatorial election,Total,,,1006524,100.0,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Winning,Peter Shumlin,Democratic,170749,57.8,True,True
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Randy Brock,Republican,110940,37.55,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Emily Peyton,Independent,5868,1.99,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Cris Ericson,Marijuana,5583,1.89,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Candidate,Dave Eagle,Union,1303,0.44,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Write-in,,,969,0.33,False,False
+2012,Vermont,VT,governor,2012 Vermont gubernatorial election,Total,,,295412,100.0,False,False
+2012,Washington,WA,governor,2012 Washington gubernatorial election,Winning,Jay Inslee,Democratic,1582802,51.54,True,False
+2012,Washington,WA,governor,2012 Washington gubernatorial election,Candidate,Rob McKenna,Republican,1488245,48.46,False,False
+2012,Washington,WA,governor,2012 Washington gubernatorial election,Total,,,3071047,100.0,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Winning,Earl Ray Tomblin,Democratic,335468,50.49,True,True
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Candidate,Bill Maloney,Republican,303291,45.65,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Candidate,Jesse Johnson,Mountain,16787,2.53,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Candidate,David Moran,Libertarian,8909,1.34,False,False
+2012,West Virginia,WV,governor,"West Virginia gubernatorial election, 2012",Total,,,664455,100.0,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Winning,Scott Walker,Republican,1335585,53.08,True,True
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Candidate,Tom Barrett,Democratic,1164480,46.28,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Candidate,Hari Trivedi,Independent,14463,0.57,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Candidate,Scattering,,1537,0.06,False,False
+2012,Wisconsin,WI,governor,2012 Wisconsin gubernatorial recall election,Total,,,2516065,100.0,False,False

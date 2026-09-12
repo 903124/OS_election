@@ -1,0 +1,18 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2019,Kentucky,KY,attorney general,"Kentucky Attorney General election, 2019",Winning,Daniel Cameron,Republican,823343,57.8,True,False
+2019,Kentucky,KY,attorney general,"Kentucky Attorney General election, 2019",Candidate,Greg Stumbo,Democratic,602218,42.2,False,False
+2019,Kentucky,KY,attorney general,"Kentucky Attorney General election, 2019",Total,,,1425561,100.0,False,False
+2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Winning,Andy Beshear,Democratic,709890,49.19,True,False
+2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Candidate,Matthew G. Bevin,Republican,704754,48.84,False,True
+2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Candidate,John Hicks,Libertarian,28433,1.97,False,False
+2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Candidate,Blackii Effing Whyte,Write-in,46,0.0,False,False
+2019,Kentucky,KY,governor,2019 Kentucky gubernatorial election,Total,,,1443123,100.0,False,False
+2019,Louisiana,LA,attorney general,"Louisiana Attorney General election, 2019",Winning,Jeff Landry,Republican,855338,66.21,True,True
+2019,Louisiana,LA,attorney general,"Louisiana Attorney General election, 2019",Candidate,Ike Jackson,Democratic,436531,33.79,False,False
+2019,Louisiana,LA,attorney general,"Louisiana Attorney General election, 2019",Total,,,1291869,100.0,False,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election runoff,Winning,John Bel Edwards,Democratic,774498,51.33,True,True
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election runoff,Candidate,Eddie Rispone,Republican,734286,48.67,False,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election runoff,Total,,,1508784,100.0,False,False
+2019,Mississippi,MS,attorney general,2019 Mississippi Attorney General election,Winning,Lynn Fitch,Republican,507468,57.83,True,False
+2019,Mississippi,MS,attorney general,2019 Mississippi Attorney General election,Candidate,Jennifer Riley Collins,Democratic,370068,42.17,False,False
+2019,Mississippi,MS,attorney general,2019 Mississippi Attorney General election,Total,,,877536,100.0,False,False

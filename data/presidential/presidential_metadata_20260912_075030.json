@@ -1,0 +1,2135 @@
+{
+  "years": {
+    "2020": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 325848,
+        "totals_row": {
+          "Donald Trump": 1441170,
+          "Joe Biden": 849624,
+          "Other": 32488
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "rows": 0,
+        "counties": 0
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 2069475,
+        "totals_row": {
+          "Joe Biden": 1672143,
+          "Donald Trump": 1661686,
+          "Other": 53497
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 169956,
+        "totals_row": {
+          "Donald Trump": 760647,
+          "Joe Biden": 423932,
+          "Other": 34490
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 4264365,
+        "totals_row": {
+          "Joe Biden": 11110250,
+          "Donald Trump": 6006429,
+          "Other": 384202
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 393829,
+        "totals_row": {
+          "Joe Biden": 1804352,
+          "Donald Trump": 1364607,
+          "Other": 88021
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 472990,
+        "totals_row": {
+          "Joe Biden": 1080831,
+          "Donald Trump": 715291,
+          "Other": 28309
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.003,
+          "Other": 0.018
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 287633,
+        "totals_row": {
+          "Joe Biden": 296268,
+          "Donald Trump": 200603,
+          "Other": 7475
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": -4.495
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 1156816,
+        "totals_row": {
+          "Donald Trump": 5668731,
+          "Joe Biden": 5297045,
+          "Other": 101680
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.208
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 523931,
+        "totals_row": {
+          "Joe Biden": 2473633,
+          "Donald Trump": 2461854,
+          "Other": 64473
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 382114,
+        "totals_row": {
+          "Joe Biden": 366130,
+          "Donald Trump": 196864,
+          "Other": 11475
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 132,
+        "counties": 44,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 261488,
+        "totals_row": {
+          "Donald Trump": 554119,
+          "Joe Biden": 287021,
+          "Other": 29211
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 2325405,
+        "totals_row": {
+          "Joe Biden": 3471915,
+          "Donald Trump": 2446891,
+          "Other": 114938
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 15.457
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 391134,
+        "totals_row": {
+          "Donald Trump": 1729863,
+          "Joe Biden": 1242505,
+          "Other": 67413
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": -0.059
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 258755,
+        "totals_row": {
+          "Donald Trump": 897672,
+          "Joe Biden": 759061,
+          "Other": 34138
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 315,
+        "counties": 105,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 349386,
+        "totals_row": {
+          "Donald Trump": 771406,
+          "Joe Biden": 570323,
+          "Other": 35755
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 387870,
+        "totals_row": {
+          "Donald Trump": 1326646,
+          "Joe Biden": 772474,
+          "Other": 38889
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 208182,
+        "totals_row": {
+          "Donald Trump": 1255776,
+          "Joe Biden": 856034,
+          "Other": 36252
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 193765,
+        "totals_row": {
+          "Joe Biden": 435072,
+          "Donald Trump": 360737,
+          "Other": 23652
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": -1.057,
+          "Donald Trump": -0.232,
+          "Other": -1.192
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 533743,
+        "totals_row": {
+          "Joe Biden": 1985023,
+          "Donald Trump": 976414,
+          "Other": 75593
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 863577,
+        "totals_row": {
+          "Joe Biden": 2382202,
+          "Donald Trump": 1167202,
+          "Other": 81998
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 874018,
+        "totals_row": {
+          "Joe Biden": 2804045,
+          "Donald Trump": 2649864,
+          "Other": 93277
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 755969,
+        "totals_row": {
+          "Joe Biden": 1717077,
+          "Donald Trump": 1484065,
+          "Other": 76029
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 99995,
+        "totals_row": {
+          "Donald Trump": 756764,
+          "Joe Biden": 539398,
+          "Other": 17597
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 536446,
+        "totals_row": {
+          "Donald Trump": 1718736,
+          "Joe Biden": 1253014,
+          "Other": 58998
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 83821,
+        "totals_row": {
+          "Donald Trump": 343602,
+          "Joe Biden": 244786,
+          "Other": 15286
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 276540,
+        "totals_row": {
+          "Donald Trump": 556846,
+          "Joe Biden": 374583,
+          "Other": 24954
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.003,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 972510,
+        "totals_row": {
+          "Joe Biden": 703486,
+          "Donald Trump": 669890,
+          "Other": 32000
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 231659,
+        "totals_row": {
+          "Joe Biden": 424937,
+          "Donald Trump": 365660,
+          "Other": 15608
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 495849,
+        "totals_row": {
+          "Joe Biden": 2608400,
+          "Donald Trump": 1883313,
+          "Other": 57744
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 317590,
+        "totals_row": {
+          "Joe Biden": 501614,
+          "Donald Trump": 401894,
+          "Other": 20457
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 916009,
+        "totals_row": {
+          "Joe Biden": 5244886,
+          "Donald Trump": 3251997,
+          "Other": 135372
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 631830,
+        "totals_row": {
+          "Donald Trump": 2758775,
+          "Joe Biden": 2684292,
+          "Other": 81737
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 159,
+        "counties": 53,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 86053,
+        "totals_row": {
+          "Donald Trump": 235595,
+          "Joe Biden": 114902,
+          "Other": 11322
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 440,
+        "counties": 88,
+        "candidates": [
+          "Donald Trump",
+          "Howie Hawkins",
+          "Jo Jorgensen",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 632532,
+        "totals_row": {
+          "Donald Trump": 3154834,
+          "Joe Biden": 2679165,
+          "Jo Jorgensen": 67569,
+          "Howie Hawkins": 18812,
+          "Other": 12018
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Jo Jorgensen": 0.0,
+          "Howie Hawkins": -8.718,
+          "Other": 14.046
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 231,
+        "counties": 77,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 294740,
+        "totals_row": {
+          "Donald Trump": 1020280,
+          "Joe Biden": 503890,
+          "Other": 36529
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 463659,
+        "totals_row": {
+          "Joe Biden": 1340383,
+          "Donald Trump": 958448,
+          "Other": 75490
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 268,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Jo Jorgensen",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 743966,
+        "totals_row": {
+          "Joe Biden": 3461221,
+          "Donald Trump": 3379055,
+          "Jo Jorgensen": 79445,
+          "Other": 20728
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Jo Jorgensen": 0.0,
+          "Other": 0.0
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 272667,
+        "totals_row": {
+          "Joe Biden": 306210,
+          "Donald Trump": 199837,
+          "Other": 10336
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 258155,
+        "totals_row": {
+          "Donald Trump": 1385103,
+          "Joe Biden": 1091541,
+          "Other": 36685
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": -0.027
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Donald Trump",
+          "Jo Jorgensen",
+          "Joe Biden"
+        ],
+        "total_votes": 92326,
+        "totals_row": {
+          "Donald Trump": 261043,
+          "Joe Biden": 150471,
+          "Jo Jorgensen": 11095
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Jo Jorgensen": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 382055,
+        "totals_row": {
+          "Donald Trump": 1852475,
+          "Joe Biden": 1143711,
+          "Other": 57665
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 1641257,
+        "totals_row": {
+          "Donald Trump": 5890347,
+          "Joe Biden": 5259126,
+          "Other": 175813
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 87,
+        "counties": 29,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 541175,
+        "totals_row": {
+          "Donald Trump": 865140,
+          "Joe Biden": 560282,
+          "Other": 62867
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 98915,
+        "totals_row": {
+          "Joe Biden": 242820,
+          "Donald Trump": 112704,
+          "Other": 11904
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 399,
+        "counties": 133,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 600823,
+        "totals_row": {
+          "Joe Biden": 2413568,
+          "Donald Trump": 1962430,
+          "Other": 84526
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 1210507,
+        "totals_row": {
+          "Joe Biden": 2369612,
+          "Donald Trump": 1584651,
+          "Other": 133368
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 82250,
+        "totals_row": {
+          "Donald Trump": 545382,
+          "Joe Biden": 235984,
+          "Other": 13365
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 459723,
+        "totals_row": {
+          "Joe Biden": 1630866,
+          "Donald Trump": 1610184,
+          "Other": 56991
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 44982,
+        "totals_row": {
+          "Donald Trump": 193559,
+          "Joe Biden": 73491,
+          "Other": 9715
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Joe Biden": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Joe Biden",
+          "Other"
+        ],
+        "total_votes": 62918,
+        "totals_row": {
+          "Joe Biden": 317323,
+          "Donald Trump": 18586,
+          "Other": 8447
+        },
+        "county_sums_vs_totals_pct": {
+          "Joe Biden": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      }
+    },
+    "2024": {
+      "AL": {
+        "state": "Alabama",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 298704,
+        "totals_row": {
+          "Donald Trump": 1462616,
+          "Kamala Harris": 772412,
+          "Other": 30062
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AK": {
+        "state": "Alaska",
+        "rows": 90,
+        "counties": 30,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 132899,
+        "totals_row": null,
+        "county_sums_vs_totals_pct": null
+      },
+      "AZ": {
+        "state": "Arizona",
+        "rows": 45,
+        "counties": 15,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 2054415,
+        "totals_row": {
+          "Donald Trump": 1770242,
+          "Kamala Harris": 1582860,
+          "Other": 37059
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "AR": {
+        "state": "Arkansas",
+        "rows": 225,
+        "counties": 75,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 153924,
+        "totals_row": {
+          "Donald Trump": 759241,
+          "Kamala Harris": 396905,
+          "Other": 26530
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CA": {
+        "state": "California",
+        "rows": 174,
+        "counties": 58,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 3729089,
+        "totals_row": {
+          "Kamala Harris": 9276179,
+          "Donald Trump": 6081697,
+          "Other": 507599
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CO": {
+        "state": "Colorado",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 380986,
+        "totals_row": {
+          "Kamala Harris": 1728159,
+          "Donald Trump": 1377441,
+          "Other": 87145
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "CT": {
+        "state": "Connecticut",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 452303,
+        "totals_row": {
+          "Kamala Harris": 992053,
+          "Donald Trump": 736918,
+          "Other": 30039
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DE": {
+        "state": "Delaware",
+        "rows": 9,
+        "counties": 3,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 276859,
+        "totals_row": {
+          "Kamala Harris": 289758,
+          "Donald Trump": 214351,
+          "Other": 8803
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "FL": {
+        "state": "Florida",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1094105,
+        "totals_row": {
+          "Donald Trump": 6110125,
+          "Kamala Harris": 4683038,
+          "Other": 100589
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "GA": {
+        "state": "Georgia",
+        "rows": 477,
+        "counties": 159,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 535238,
+        "totals_row": {
+          "Donald Trump": 2663117,
+          "Kamala Harris": 2548017,
+          "Other": 39771
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": -2.16
+        }
+      },
+      "HI": {
+        "state": "Hawaii",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 340921,
+        "totals_row": {
+          "Kamala Harris": 313044,
+          "Donald Trump": 193661,
+          "Other": 9996
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ID": {
+        "state": "Idaho",
+        "rows": 132,
+        "counties": 44,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 267419,
+        "totals_row": {
+          "Donald Trump": 605246,
+          "Kamala Harris": 274972,
+          "Other": 24839
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 8.108
+        }
+      },
+      "IL": {
+        "state": "Illinois",
+        "rows": 306,
+        "counties": 102,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 2079239,
+        "totals_row": {
+          "Kamala Harris": 3062863,
+          "Donald Trump": 2449079,
+          "Other": 121928
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IN": {
+        "state": "Indiana",
+        "rows": 276,
+        "counties": 92,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 354368,
+        "totals_row": {
+          "Donald Trump": 1720347,
+          "Kamala Harris": 1163603,
+          "Other": 60386
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "IA": {
+        "state": "Iowa",
+        "rows": 297,
+        "counties": 99,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 256838,
+        "totals_row": {
+          "Donald Trump": 927019,
+          "Kamala Harris": 707278,
+          "Other": 29209
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KS": {
+        "state": "Kansas",
+        "rows": 315,
+        "counties": 105,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 343780,
+        "totals_row": {
+          "Donald Trump": 758802,
+          "Kamala Harris": 544853,
+          "Other": 23936
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "KY": {
+        "state": "Kentucky",
+        "rows": 360,
+        "counties": 120,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 355722,
+        "totals_row": {
+          "Donald Trump": 1337494,
+          "Kamala Harris": 704043,
+          "Other": 32993
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 6.898
+        }
+      },
+      "LA": {
+        "state": "Louisiana",
+        "rows": 192,
+        "counties": 64,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 190643,
+        "totals_row": {
+          "Donald Trump": 1208505,
+          "Kamala Harris": 766870,
+          "Other": 31600
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ME": {
+        "state": "Maine",
+        "rows": 48,
+        "counties": 16,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 192656,
+        "totals_row": {
+          "Kamala Harris": 430342,
+          "Donald Trump": 376991,
+          "Other": 17473
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": -0.07,
+          "Donald Trump": -0.037,
+          "Other": 0.315
+        }
+      },
+      "MD": {
+        "state": "Maryland",
+        "rows": 72,
+        "counties": 24,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 519221,
+        "totals_row": {
+          "Kamala Harris": 1902577,
+          "Donald Trump": 1035550,
+          "Other": 100207
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MA": {
+        "state": "Massachusetts",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 814832,
+        "totals_row": {
+          "Kamala Harris": 2126518,
+          "Donald Trump": 1251303,
+          "Other": 95847
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MI": {
+        "state": "Michigan",
+        "rows": 249,
+        "counties": 83,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 856690,
+        "totals_row": {
+          "Donald Trump": 2816636,
+          "Kamala Harris": 2736533,
+          "Other": 111017
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MN": {
+        "state": "Minnesota",
+        "rows": 261,
+        "counties": 87,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 720173,
+        "totals_row": {
+          "Kamala Harris": 1656979,
+          "Donald Trump": 1519032,
+          "Other": 77909
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MS": {
+        "state": "Mississippi",
+        "rows": 246,
+        "counties": 82,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 86830,
+        "totals_row": {
+          "Donald Trump": 747744,
+          "Kamala Harris": 466668,
+          "Other": 13596
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MO": {
+        "state": "Missouri",
+        "rows": 345,
+        "counties": 115,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 502738,
+        "totals_row": {
+          "Donald Trump": 1751986,
+          "Kamala Harris": 1200599,
+          "Other": 42742
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "MT": {
+        "state": "Montana",
+        "rows": 168,
+        "counties": 56,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 81393,
+        "totals_row": {
+          "Donald Trump": 352079,
+          "Kamala Harris": 231906,
+          "Other": 19005
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NE": {
+        "state": "Nebraska",
+        "rows": 279,
+        "counties": 93,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 275145,
+        "totals_row": {
+          "Donald Trump": 564816,
+          "Kamala Harris": 369995,
+          "Other": 17371
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NV": {
+        "state": "Nevada",
+        "rows": 51,
+        "counties": 17,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1031223,
+        "totals_row": {
+          "Donald Trump": 751205,
+          "Kamala Harris": 705197,
+          "Other": 28438
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NH": {
+        "state": "New Hampshire",
+        "rows": 30,
+        "counties": 10,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 234440,
+        "totals_row": {
+          "Kamala Harris": 418488,
+          "Donald Trump": 395523,
+          "Other": 12178
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NJ": {
+        "state": "New Jersey",
+        "rows": 63,
+        "counties": 21,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 459077,
+        "totals_row": {
+          "Kamala Harris": 2220713,
+          "Donald Trump": 1968215,
+          "Other": 83797
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NM": {
+        "state": "New Mexico",
+        "rows": 99,
+        "counties": 33,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 310844,
+        "totals_row": {
+          "Kamala Harris": 478802,
+          "Donald Trump": 423391,
+          "Other": 21210
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NY": {
+        "state": "New York",
+        "rows": 186,
+        "counties": 62,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 853744,
+        "totals_row": {
+          "Kamala Harris": 4619195,
+          "Donald Trump": 3578899,
+          "Other": 102117
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "NC": {
+        "state": "North Carolina",
+        "rows": 300,
+        "counties": 100,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 653580,
+        "totals_row": {
+          "Donald Trump": 2898423,
+          "Kamala Harris": 2715375,
+          "Other": 85343
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "ND": {
+        "state": "North Dakota",
+        "rows": 159,
+        "counties": 53,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 90851,
+        "totals_row": {
+          "Donald Trump": 246505,
+          "Kamala Harris": 112327,
+          "Other": 9323
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OH": {
+        "state": "Ohio",
+        "rows": 264,
+        "counties": 88,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 604184,
+        "totals_row": {
+          "Donald Trump": 3180117,
+          "Kamala Harris": 2533700,
+          "Other": 86012
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": -6.384
+        }
+      },
+      "OK": {
+        "state": "Oklahoma",
+        "rows": 231,
+        "counties": 77,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 288923,
+        "totals_row": {
+          "Donald Trump": 1036213,
+          "Kamala Harris": 499599,
+          "Other": 30361
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "OR": {
+        "state": "Oregon",
+        "rows": 108,
+        "counties": 36,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 414250,
+        "totals_row": {
+          "Kamala Harris": 1240600,
+          "Donald Trump": 919480,
+          "Other": 84413
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "PA": {
+        "state": "Pennsylvania",
+        "rows": 201,
+        "counties": 67,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 721441,
+        "totals_row": {
+          "Donald Trump": 3543308,
+          "Kamala Harris": 3423042,
+          "Other": 68485
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": -0.918
+        }
+      },
+      "RI": {
+        "state": "Rhode Island",
+        "rows": 15,
+        "counties": 5,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 269679,
+        "totals_row": {
+          "Kamala Harris": 283750,
+          "Donald Trump": 214291,
+          "Other": 13775
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SC": {
+        "state": "South Carolina",
+        "rows": 138,
+        "counties": 46,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 263316,
+        "totals_row": {
+          "Donald Trump": 1483747,
+          "Kamala Harris": 1028452,
+          "Other": 35941
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "SD": {
+        "state": "South Dakota",
+        "rows": 198,
+        "counties": 66,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 93986,
+        "totals_row": {
+          "Donald Trump": 272081,
+          "Kamala Harris": 146859,
+          "Other": 9982
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TN": {
+        "state": "Tennessee",
+        "rows": 285,
+        "counties": 95,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 326497,
+        "totals_row": {
+          "Donald Trump": 1966865,
+          "Kamala Harris": 1056265,
+          "Other": 40812
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "TX": {
+        "state": "Texas",
+        "rows": 762,
+        "counties": 254,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1557484,
+        "totals_row": {
+          "Donald Trump": 6393597,
+          "Kamala Harris": 4835250,
+          "Other": 159827
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "UT": {
+        "state": "Utah",
+        "rows": 87,
+        "counties": 29,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 509637,
+        "totals_row": {
+          "Donald Trump": 883818,
+          "Kamala Harris": 562566,
+          "Other": 42110
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VT": {
+        "state": "Vermont",
+        "rows": 42,
+        "counties": 14,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 97329,
+        "totals_row": {
+          "Kamala Harris": 235791,
+          "Donald Trump": 119395,
+          "Other": 14236
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "VA": {
+        "state": "Virginia",
+        "rows": 399,
+        "counties": 133,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 589427,
+        "totals_row": {
+          "Kamala Harris": 2335395,
+          "Donald Trump": 2075085,
+          "Other": 95461
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WA": {
+        "state": "Washington",
+        "rows": 117,
+        "counties": 39,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 1130502,
+        "totals_row": {
+          "Kamala Harris": 2245849,
+          "Donald Trump": 1530923,
+          "Other": 147471
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WV": {
+        "state": "West Virginia",
+        "rows": 165,
+        "counties": 55,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 75239,
+        "totals_row": {
+          "Donald Trump": 533556,
+          "Kamala Harris": 214309,
+          "Other": 14525
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WI": {
+        "state": "Wisconsin",
+        "rows": 216,
+        "counties": 72,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 464107,
+        "totals_row": {
+          "Donald Trump": 1697626,
+          "Kamala Harris": 1668229,
+          "Other": 57063
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "WY": {
+        "state": "Wyoming",
+        "rows": 69,
+        "counties": 23,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 43362,
+        "totals_row": {
+          "Donald Trump": 192633,
+          "Kamala Harris": 69527,
+          "Other": 6888
+        },
+        "county_sums_vs_totals_pct": {
+          "Donald Trump": 0.0,
+          "Kamala Harris": 0.0,
+          "Other": 0.0
+        }
+      },
+      "DC": {
+        "state": "District of Columbia",
+        "rows": 24,
+        "counties": 8,
+        "candidates": [
+          "Donald Trump",
+          "Kamala Harris",
+          "Other"
+        ],
+        "total_votes": 48678,
+        "totals_row": {
+          "Kamala Harris": 294185,
+          "Donald Trump": 21076,
+          "Other": 10608
+        },
+        "county_sums_vs_totals_pct": {
+          "Kamala Harris": 0.0,
+          "Donald Trump": 0.0,
+          "Other": 0.0
+        }
+      }
+    }
+  },
+  "missing_articles": []
+}

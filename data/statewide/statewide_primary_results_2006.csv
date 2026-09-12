@@ -1,0 +1,283 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2006,Alabama,AL,governor,Republican primary results,Winning,Bob Riley,Republican,306665.0,66.66,True,True
+2006,Alabama,AL,governor,Republican primary results,Candidate,Roy Moore,Republican,153354.0,33.34,False,False
+2006,Alabama,AL,governor,Republican primary results,Total,,,460019.0,100.0,False,False
+2006,Alabama,AL,governor,Democratic primary results,Winning,Lucy Baxley,Democratic,279165.0,59.84,True,False
+2006,Alabama,AL,governor,Democratic primary results,Candidate,Don Siegelman,Democratic,170016.0,36.44,False,False
+2006,Alabama,AL,governor,Democratic primary results,Candidate,Joe Copeland,Democratic,4141.0,0.89,False,False
+2006,Alabama,AL,governor,Democratic primary results,Candidate,Nathan Mathis,Democratic,4000.0,0.86,False,False
+2006,Alabama,AL,governor,Democratic primary results,Candidate,Katherine Mack,Democratic,3392.0,0.73,False,False
+2006,Alabama,AL,governor,Democratic primary results,Candidate,James Potts,Democratic,3333.0,0.71,False,False
+2006,Alabama,AL,governor,Democratic primary results,Candidate,Harry Lyon,Democratic,2490.0,0.53,False,False
+2006,Alabama,AL,governor,Democratic primary results,Total,,,466537.0,100.0,False,False
+2006,Alaska,AK,governor,2006 Republican primary for Alaska governor,Winning,Sarah Palin,Republican,51443.0,50.59,True,False
+2006,Alaska,AK,governor,2006 Republican primary for Alaska governor,Candidate,John Binkley,Republican,30349.0,29.84,False,False
+2006,Alaska,AK,governor,2006 Republican primary for Alaska governor,Candidate,Frank Murkowski,Republican,19412.0,19.09,False,True
+2006,Alaska,AK,governor,2006 Republican primary for Alaska governor,Candidate,Gerald Heikes,Republican,280.0,0.28,False,False
+2006,Alaska,AK,governor,2006 Republican primary for Alaska governor,Candidate,Merica Hlatcu,Republican,211.0,0.21,False,False
+2006,Alaska,AK,governor,2006 Republican primary for Alaska governor,Total,,,101695.0,100.0,False,False
+2006,Alaska,AK,governor,2006 Democratic primary for Alaska governor,Winning,Tony Knowles,Democratic,37316.0,74.63,True,False
+2006,Alaska,AK,governor,2006 Democratic primary for Alaska governor,Candidate,Eric Croft,Democratic,11952.0,23.9,False,False
+2006,Alaska,AK,governor,2006 Democratic primary for Alaska governor,Candidate,Bruce Lemke,Democratic,732.0,1.46,False,False
+2006,Alaska,AK,governor,2006 Democratic primary for Alaska governor,Total,,,50000.0,100.0,False,False
+2006,Arizona,AZ,governor,Democratic primary results,Winning,Janet Napolitano,Democratic,230881.0,100.0,True,True
+2006,Arizona,AZ,governor,Democratic primary results,Total,,,230881.0,100.0,False,False
+2006,Arizona,AZ,governor,Republican primary results,Winning,Len Munsil,Republican,155778.0,50.56,True,False
+2006,Arizona,AZ,governor,Republican primary results,Candidate,Don Goldwater,Republican,122283.0,39.39,False,False
+2006,Arizona,AZ,governor,Republican primary results,Candidate,Mike Harris,Republican,18734.0,6.08,False,False
+2006,Arizona,AZ,governor,Republican primary results,Candidate,Gary Tupper,Republican,11250.0,3.65,False,False
+2006,Arizona,AZ,governor,Republican primary results,Candidate,Steve Moore (write-in),Republican,49.0,0.2,False,False
+2006,Arizona,AZ,governor,Republican primary results,Total,,,308094.0,100.0,False,False
+2006,Arizona,AZ,governor,Libertarian primary results,Winning,Barry Hess,Libertarian,3063.0,100.0,True,False
+2006,Arizona,AZ,governor,Libertarian primary results,Total,,,3063.0,100.0,False,False
+2006,California,CA,governor,Republican primary results,Winning,Arnold Schwarzenegger,Republican,1724296.0,89.99,True,True
+2006,California,CA,governor,Republican primary results,Candidate,Robert C. Newman II,Republican,68663.0,3.58,False,False
+2006,California,CA,governor,Republican primary results,Candidate,Bill Chambers,Republican,65488.0,3.42,False,False
+2006,California,CA,governor,Republican primary results,Candidate,Jeffrey R. Burns,Republican,57652.0,3.01,False,False
+2006,California,CA,governor,Republican primary results,Total,,,1916099.0,100.0,False,False
+2006,California,CA,governor,Democratic primary results,Winning,Phil Angelides,Democratic,1202884.0,48.0,True,False
+2006,California,CA,governor,Democratic primary results,Candidate,Steve Westly,Democratic,1081971.0,43.17,False,False
+2006,California,CA,governor,Democratic primary results,Candidate,Barbara Becnel,Democratic,66550.0,2.66,False,False
+2006,California,CA,governor,Democratic primary results,Candidate,Joe Brouillette,Democratic,42077.0,1.68,False,False
+2006,California,CA,governor,Democratic primary results,Candidate,Michael Strimling,Democratic,35122.0,1.4,False,False
+2006,California,CA,governor,Democratic primary results,Candidate,Frank A. Macaluso Jr.,Democratic,30871.0,1.23,False,False
+2006,California,CA,governor,Democratic primary results,Candidate,Vibert Greene,Democratic,25747.0,1.03,False,False
+2006,California,CA,governor,Democratic primary results,Candidate,Jerald Robert Gerst,Democratic,21039.0,0.84,False,False
+2006,California,CA,governor,Democratic primary results,Total,,,2506261.0,100.0,False,False
+2006,California,CA,governor,Green primary results,Winning,Peter Miguel Camejo,Green,33546.0,100.0,True,False
+2006,California,CA,governor,Green primary results,Total,,,33546.0,100.0,False,False
+2006,California,CA,governor,Libertarian primary,Winning,Art Olivier,Libertarian,16445.0,100.0,True,False
+2006,California,CA,governor,Libertarian primary,Total,,,16445.0,100.0,False,False
+2006,California,CA,governor,Peace and Freedom primary,Winning,Janice Jordan,Freedom,3849.0,100.0,True,False
+2006,California,CA,governor,Peace and Freedom primary,Total,,,3849.0,100.0,False,False
+2006,California,CA,governor,American Independent primary results,Winning,Edward C. Noonan,Independent,25096.0,100.0,True,False
+2006,California,CA,governor,American Independent primary results,Total,,,25096.0,100.0,False,False
+2006,Colorado,CO,governor,Democratic primary results,Winning,Bill Ritter,Democratic,142586.0,100.0,True,False
+2006,Colorado,CO,governor,Democratic primary results,Total,,,142586.0,100.0,False,False
+2006,Colorado,CO,governor,Republican primary results,Winning,Bob Beauprez,Republican,193804.0,100.0,True,False
+2006,Colorado,CO,governor,Republican primary results,Total,,,193804.0,100.0,False,False
+2006,Connecticut,CT,governor,"2006 Democratic gubernatorial convention, Connecticut",Winning,Dannel Malloy,Democratic,799.0,50.13,True,False
+2006,Connecticut,CT,governor,"2006 Democratic gubernatorial convention, Connecticut",Candidate,John DeStefano Jr.,Democratic,795.0,49.87,False,False
+2006,Connecticut,CT,governor,"2006 Democratic gubernatorial primary, Connecticut",Winning,John DeStefano Jr.,Democratic,135431.0,50.78,True,False
+2006,Connecticut,CT,governor,"2006 Democratic gubernatorial primary, Connecticut",Candidate,Dannel Malloy,Democratic,131258.0,49.22,False,False
+2006,Florida,FL,governor,Democratic primary results,Winning,Jim Davis,Democratic,405879.0,47.32,True,False
+2006,Florida,FL,governor,Democratic primary results,Candidate,Rod Smith,Democratic,353161.0,41.17,False,False
+2006,Florida,FL,governor,Democratic primary results,Candidate,Carol Castagnero,Democratic,45161.0,5.27,False,False
+2006,Florida,FL,governor,Democratic primary results,Candidate,Glenn Burkett,Democratic,32984.0,3.85,False,False
+2006,Florida,FL,governor,Democratic primary results,Candidate,John M. Crotty,Democratic,20629.0,2.4,False,False
+2006,Florida,FL,governor,Democratic primary results,Total,,,857814.0,100.0,False,False
+2006,Florida,FL,governor,Republican primary results,Winning,Charlie Crist,Republican,630816.0,63.98,True,False
+2006,Florida,FL,governor,Republican primary results,Candidate,Tom Gallagher,Republican,330165.0,33.49,False,False
+2006,Florida,FL,governor,Republican primary results,Candidate,Vernon Palmer,Republican,13547.0,1.37,False,False
+2006,Florida,FL,governor,Republican primary results,Candidate,Michael W. St. Jean,Republican,11458.0,1.16,False,False
+2006,Florida,FL,governor,Republican primary results,Total,,,985986.0,100.0,False,False
+2006,Georgia,GA,governor,Democratic primary results,Winning,Mark Taylor,Democratic,249188.0,52.1,True,False
+2006,Georgia,GA,governor,Democratic primary results,Candidate,Cathy Cox,Democratic,211978.0,44.3,False,False
+2006,Georgia,GA,governor,Democratic primary results,Candidate,Bill Bolton,Democratic,10552.0,1.7,False,False
+2006,Georgia,GA,governor,Democratic primary results,Candidate,Mac McCarley,Democratic,10399.0,0.6,False,False
+2006,Georgia,GA,governor,Democratic primary results,Total,,,482117.0,100.0,False,False
+2006,Georgia,GA,governor,Republican primary results,Winning,Sonny Perdue,Republican,370756.0,88.4,True,True
+2006,Georgia,GA,governor,Republican primary results,Candidate,Ray McBerry,Republican,48498.0,12.6,False,False
+2006,Georgia,GA,governor,Republican primary results,Total,,,419254.0,100.0,False,False
+2006,Hawaii,HI,governor,Republican primary results,Winning,Linda Lingle,Republican,31275.0,97.42,True,True
+2006,Hawaii,HI,governor,Republican primary results,Candidate,George Peabody,Republican,322.0,1.0,False,False
+2006,Hawaii,HI,governor,Republican primary results,Candidate,George L. Berish,Republican,295.0,0.92,False,False
+2006,Hawaii,HI,governor,Republican primary results,Candidate,Paul Manner,Republican,211.0,0.66,False,False
+2006,Hawaii,HI,governor,Republican primary results,Total,,,32103.0,100.0,False,False
+2006,Hawaii,HI,governor,Democratic primary results,Winning,Randy Iwase,Democratic,119058.0,66.43,True,False
+2006,Hawaii,HI,governor,Democratic primary results,Candidate,"William J. Aila, Jr.",Democratic,43845.0,24.46,False,False
+2006,Hawaii,HI,governor,Democratic primary results,Candidate,Van K. Tanabe,Democratic,16317.0,9.1,False,False
+2006,Hawaii,HI,governor,Democratic primary results,Total,,,179220.0,100.0,False,False
+2006,Idaho,ID,governor,Republican primary results,Winning,Butch Otter,Republican,96045.0,70.02,True,False
+2006,Idaho,ID,governor,Republican primary results,Candidate,Dan Adamson,Republican,29093.0,21.21,False,False
+2006,Idaho,ID,governor,Republican primary results,Candidate,Jack Alan Johnson,Republican,7652.0,5.58,False,False
+2006,Idaho,ID,governor,Republican primary results,Candidate,Walter Bayes,Republican,4385.0,3.2,False,False
+2006,Idaho,ID,governor,Republican primary results,Total,,,137175.0,100.0,False,False
+2006,Idaho,ID,governor,Democratic Primary results,Winning,Jerry Brady,Democratic,25261.0,82.98,True,False
+2006,Idaho,ID,governor,Democratic Primary results,Candidate,Lee Chaney,Democratic,5182.0,17.02,False,False
+2006,Idaho,ID,governor,Democratic Primary results,Total,,,30443.0,100.0,False,False
+2006,Illinois,IL,governor,Democratic gubernatorial primary results,Winning,Rod Blagojevich,Democratic,669006.0,70.84,True,True
+2006,Illinois,IL,governor,Democratic gubernatorial primary results,Candidate,Edwin Eisendrath,Democratic,275375.0,29.16,False,False
+2006,Illinois,IL,governor,Democratic gubernatorial primary results,Total,,,944397.0,100.0,False,False
+2006,Illinois,IL,governor,Democratic lieutenant gubernatorial primary results,Winning,Pat Quinn,Democratic,819005.0,100.0,True,True
+2006,Illinois,IL,governor,Democratic lieutenant gubernatorial primary results,Candidate,Pamela R. Schadow,Democratic,17.0,0.0,False,False
+2006,Illinois,IL,governor,Democratic lieutenant gubernatorial primary results,Total,,,819022.0,100.0,False,False
+2006,Illinois,IL,governor,Republican gubernatorial primary results,Winning,Judy Baar Topinka,Republican,280701.0,38.15,True,False
+2006,Illinois,IL,governor,Republican gubernatorial primary results,Candidate,Jim Oberweis,Republican,233576.0,31.74,False,False
+2006,Illinois,IL,governor,Republican gubernatorial primary results,Candidate,Bill Brady,Republican,135370.0,18.4,False,False
+2006,Illinois,IL,governor,Republican gubernatorial primary results,Candidate,Ron Gidwitz,Republican,80068.0,10.88,False,False
+2006,Illinois,IL,governor,Republican gubernatorial primary results,Candidate,Andy Martin,Republican,6095.0,0.83,False,False
+2006,Illinois,IL,governor,Republican gubernatorial primary results,Total,,,735810.0,100.0,False,False
+2006,Illinois,IL,governor,Republican lieutenant gubernatorial primary results,Winning,Joe Birkett,Republican,342950.0,50.63,True,False
+2006,Illinois,IL,governor,Republican lieutenant gubernatorial primary results,Candidate,Steve Rauschenberger,Republican,202905.0,29.95,False,False
+2006,Illinois,IL,governor,Republican lieutenant gubernatorial primary results,Candidate,Sandy Wegman,Republican,90255.0,13.32,False,False
+2006,Illinois,IL,governor,Republican lieutenant gubernatorial primary results,Candidate,Lawrence L. Bruckner,Republican,41307.0,6.19,False,False
+2006,Illinois,IL,governor,Republican lieutenant gubernatorial primary results,Candidate,Jeremy Bryan Cole,Republican,14.0,0.0,False,False
+2006,Illinois,IL,governor,Republican lieutenant gubernatorial primary results,Total,,,677431.0,100.0,False,False
+2006,Iowa,IA,governor,Democratic primary results,Winning,Chet Culver,Democratic,58131.0,39.08,True,False
+2006,Iowa,IA,governor,Democratic primary results,Candidate,Mike Blouin,Democratic,50728.0,34.1,False,False
+2006,Iowa,IA,governor,Democratic primary results,Candidate,Ed Fallon,Democratic,38253.0,25.72,False,False
+2006,Iowa,IA,governor,Democratic primary results,Candidate,Sal Mohamed,Democratic,1545.0,1.04,False,False
+2006,Iowa,IA,governor,Democratic primary results,Candidate,Write-ins,Democratic,94.0,0.06,False,False
+2006,Iowa,IA,governor,Democratic primary results,Total,,,148751.0,100.0,False,False
+2006,Iowa,IA,governor,Republican primary results,Winning,Jim Nussle,Republican,73975.0,100.0,True,False
+2006,Iowa,IA,governor,Republican primary results,Total,,,73975.0,100.0,False,False
+2006,Kansas,KS,governor,Democratic primary results,Winning,Kathleen Sebelius,Democratic,76046.0,100.0,True,True
+2006,Kansas,KS,governor,Democratic primary results,Total,,,76046.0,100.0,False,False
+2006,Kansas,KS,governor,Republican primary results,Winning,Jim Barnett,Republican,70299.0,36.18,True,False
+2006,Kansas,KS,governor,Republican primary results,Candidate,Ken R. Canfield,Republican,51365.0,26.44,False,False
+2006,Kansas,KS,governor,Republican primary results,Candidate,Robin Jennison,Republican,42678.0,21.97,False,False
+2006,Kansas,KS,governor,Republican primary results,Candidate,Timothy V. Pickell,Republican,10473.0,5.39,False,False
+2006,Kansas,KS,governor,Republican primary results,Candidate,Rex Crowell,Republican,8677.0,4.47,False,False
+2006,Kansas,KS,governor,Republican primary results,Candidate,Dennis Hawver,Republican,6661.0,3.43,False,False
+2006,Kansas,KS,governor,Republican primary results,Candidate,"Richard ""Rode"" Rodewald",Republican,4142.0,2.13,False,False
+2006,Kansas,KS,governor,Republican primary results,Total,,,194295.0,100.0,False,False
+2006,Maine,ME,governor,Democratic primary results,Winning,John Baldacci,Democratic,40314.0,75.81,True,True
+2006,Maine,ME,governor,Democratic primary results,Candidate,Christopher Miller,Democratic,12861.0,24.19,False,False
+2006,Maine,ME,governor,Democratic primary results,Total,,,53175.0,100.0,False,False
+2006,Maine,ME,governor,Republican primary results,Winning,Chandler Woodcock,Republican,27025.0,38.58,True,False
+2006,Maine,ME,governor,Republican primary results,Candidate,Peter Mills,Republican,24631.0,35.17,False,False
+2006,Maine,ME,governor,Republican primary results,Candidate,Dave Emery,Republican,18388.0,26.25,False,False
+2006,Maine,ME,governor,Republican primary results,Total,,,70044.0,100.0,False,False
+2006,Maryland,MD,governor,Democratic primary results,Winning,Martin O'Malley,Democratic,524671.0,100.0,True,False
+2006,Maryland,MD,governor,Democratic primary results,Total,,,524671.0,100.0,False,False
+2006,Maryland,MD,governor,Republican primary results,Winning,Bob Ehrlich,Republican,213744.0,100.0,True,True
+2006,Maryland,MD,governor,Republican primary results,Total,,,213744.0,100.0,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 2006",Candidate,Deval Patrick,Democratic,452229.0,49.57,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 2006",Candidate,Chris Gabrieli,Democratic,248301.0,27.22,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 2006",Candidate,Tom Reilly,Democratic,211031.0,23.13,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 2006",Candidate,All others,Write-in,787.0,0.08,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 2006",Candidate,Blanks,Write-in,14054.0,1.51,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 2006",Total,,,926402.0,100.0,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic lieutenant gubernatorial primary, 2006",Candidate,Tim Murray,Democratic,351009.0,42.6,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic lieutenant gubernatorial primary, 2006",Candidate,Deborah Goldberg,Democratic,279771.0,33.95,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic lieutenant gubernatorial primary, 2006",Candidate,Andrea Silbert,Democratic,191638.0,23.26,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic lieutenant gubernatorial primary, 2006",Candidate,All others,Write-in,1591.0,0.19,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic lieutenant gubernatorial primary, 2006",Candidate,Blanks,Write-in,102393.0,11.0,False,False
+2006,Massachusetts,MA,governor,"Massachusetts Democratic lieutenant gubernatorial primary, 2006",Total,,,926402.0,100.0,False,False
+2006,Michigan,MI,governor,Democratic primary results,Winning,Jennifer Granholm,Democratic,531322.0,100.0,True,True
+2006,Michigan,MI,governor,Democratic primary results,Total,,,531322.0,100.0,False,False
+2006,Minnesota,MN,governor,"Republican gubernatorial primary election, 2006",Winning,Tim Pawlenty,Republican,147622.0,88.87,True,True
+2006,Minnesota,MN,governor,"Republican gubernatorial primary election, 2006",Candidate,Sue Jeffers,Republican,18490.0,11.13,False,False
+2006,Minnesota,MN,governor,"Republican gubernatorial primary election, 2006",Total,,,166112.0,100.0,False,False
+2006,Minnesota,MN,governor,"Democratic–Farmer–Labor gubernatorial primary election, 2006",Winning,Mike Hatch,Minnesota Democratic–farmer–labor,231643.0,73.2,True,False
+2006,Minnesota,MN,governor,"Democratic–Farmer–Labor gubernatorial primary election, 2006",Candidate,Becky Lourey,Minnesota Democratic–farmer–labor,77430.0,24.47,False,False
+2006,Minnesota,MN,governor,"Democratic–Farmer–Labor gubernatorial primary election, 2006",Candidate,Ole Savior,Minnesota Democratic–farmer–labor,7397.0,2.34,False,False
+2006,Minnesota,MN,governor,"Democratic–Farmer–Labor gubernatorial primary election, 2006",Total,,,316470.0,100.0,False,False
+2006,Minnesota,MN,governor,"Independence gubernatorial primary election, 2006",Winning,Peter Hutchinson,Independence,7725.0,66.09,True,False
+2006,Minnesota,MN,governor,"Independence gubernatorial primary election, 2006",Candidate,Pam Ellison,Independence,3964.0,33.91,False,False
+2006,Minnesota,MN,governor,"Independence gubernatorial primary election, 2006",Total,,,11689.0,100.0,False,False
+2006,Nebraska,NE,governor,Republican Party primary results,Winning,Dave Heineman,Republican,138216.0,50.26,True,True
+2006,Nebraska,NE,governor,Republican Party primary results,Candidate,Tom Osborne,Republican,121973.0,44.36,False,False
+2006,Nebraska,NE,governor,Republican Party primary results,Candidate,Dave Nabity,Republican,14786.0,5.38,False,False
+2006,Nebraska,NE,governor,Republican Party primary results,Total,,,274975.0,100.0,False,False
+2006,Nebraska,NE,governor,Democratic Party primary results,Winning,David Hahn,Democratic,68004.0,91.57,True,False
+2006,Nebraska,NE,governor,Democratic Party primary results,Candidate,"Glenn R. Boot, Jr.",Democratic,6259.0,8.43,False,False
+2006,Nebraska,NE,governor,Democratic Party primary results,Total,,,74263.0,100.0,False,False
+2006,Nebraska,NE,governor,Nebraska Party primary results,Winning,Barry Richards,Nebraska,138.0,100.0,True,False
+2006,Nebraska,NE,governor,Nebraska Party primary results,Total,,,138.0,100.0,False,False
+2006,Nevada,NV,governor,Democratic primary results,Winning,Dina Titus,Democratic,63999.0,53.76,True,False
+2006,Nevada,NV,governor,Democratic primary results,Candidate,James B. Gibson,Democratic,42966.0,36.09,False,False
+2006,Nevada,NV,governor,Democratic primary results,Candidate,None of These Candidates,,7062.0,5.93,False,False
+2006,Nevada,NV,governor,Democratic primary results,Candidate,Leola McConnell,Democratic,5019.0,4.22,False,False
+2006,Nevada,NV,governor,Democratic primary results,Total,,,119046.0,100.0,False,False
+2006,New Hampshire,NH,governor,Democratic Primary results,Winning,John Lynch,Democratic,43442.0,99.51,True,True
+2006,New Hampshire,NH,governor,Democratic Primary results,Candidate,Write-ins,Democratic,214.0,0.49,False,False
+2006,New Hampshire,NH,governor,Democratic Primary results,Total,,,43656.0,100.0,False,False
+2006,New Hampshire,NH,governor,Republican primary results,Winning,Jim Coburn,Republican,30352.0,85.4,True,False
+2006,New Hampshire,NH,governor,Republican primary results,Candidate,Write-ins,Republican,5190.0,14.6,False,False
+2006,New Hampshire,NH,governor,Republican primary results,Total,,,35542.0,100.0,False,False
+2006,New Mexico,NM,governor,Democratic primary results,Winning,Bill Richardson,Democratic,107720.0,99.64,True,True
+2006,New Mexico,NM,governor,Democratic primary results,Candidate,Anselmo A. Chávez (write-in),Democratic,388.0,0.36,False,False
+2006,New Mexico,NM,governor,Democratic primary results,Total,,,108108.0,100.0,False,False
+2006,New Mexico,NM,governor,Republican primary results,Winning,James R. Damron,Republican,52888.0,99.58,True,False
+2006,New Mexico,NM,governor,Republican primary results,Candidate,George Bailey (write-in),Republican,225.0,0.42,False,False
+2006,New Mexico,NM,governor,Republican primary results,Total,,,53113.0,100.0,False,False
+2006,New York,NY,governor,Democratic gubernatorial primary results,Winning,Eliot Spitzer,Democratic,624684.0,81.88,True,False
+2006,New York,NY,governor,Democratic gubernatorial primary results,Candidate,Tom Suozzi,Democratic,138263.0,18.12,False,False
+2006,New York,NY,governor,Democratic gubernatorial primary results,Total,,,762947.0,100.0,False,False
+2006,Ohio,OH,governor,Democratic primary results,Winning,Ted Strickland,Democratic,634114.0,79.23,True,False
+2006,Ohio,OH,governor,Democratic primary results,Candidate,Bryan Flannery,Democratic,166253.0,20.77,False,False
+2006,Ohio,OH,governor,Democratic primary results,Total,,,800367.0,100.0,False,False
+2006,Ohio,OH,governor,Republican primary results,Winning,Ken Blackwell,Republican,460349.0,55.73,True,False
+2006,Ohio,OH,governor,Republican primary results,Candidate,Jim Petro,Republican,365618.0,44.27,False,False
+2006,Ohio,OH,governor,Republican primary results,Total,,,825967.0,100.0,False,False
+2006,Oklahoma,OK,governor,Democratic primary results,Winning,Brad Henry,Democratic,226957.0,85.82,True,True
+2006,Oklahoma,OK,governor,Democratic primary results,Candidate,"Andrew W. Marr, Jr.",Democratic,37510.0,14.18,False,False
+2006,Oklahoma,OK,governor,Democratic primary results,Total,,,264467.0,100.0,False,False
+2006,Oklahoma,OK,governor,Republican primary results,Winning,Ernest Istook,Republican,99650.0,54.71,True,False
+2006,Oklahoma,OK,governor,Republican primary results,Candidate,Bob Sullivan,Republican,56347.0,30.94,False,False
+2006,Oklahoma,OK,governor,Republican primary results,Candidate,James Allen Williamson,Republican,17769.0,9.76,False,False
+2006,Oklahoma,OK,governor,Republican primary results,Candidate,Jim Evanoff,Republican,8370.0,4.6,False,False
+2006,Oklahoma,OK,governor,Republican primary results,Total,,,182136.0,100.0,False,False
+2006,Oregon,OR,governor,Democratic Primary results,Winning,Ted Kulongoski (inc.),Democratic,170944.0,53.56,True,False
+2006,Oregon,OR,governor,Democratic Primary results,Candidate,Jim Hill,Democratic,92439.0,28.96,False,False
+2006,Oregon,OR,governor,Democratic Primary results,Candidate,Pete Sorenson,Democratic,51346.0,16.09,False,False
+2006,Oregon,OR,governor,Democratic Primary results,Candidate,Scattering,Democratic,4448.0,1.39,False,False
+2006,Oregon,OR,governor,Democratic Primary results,Total,,,319177.0,100.0,False,False
+2006,Oregon,OR,governor,Republican primary results,Winning,Ron Saxton,Republican,125286.0,41.69,True,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,Kevin Mannix,Republican,89553.0,29.8,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,Jason Atkinson,Republican,67057.0,22.31,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,W. Ames Curtright,Republican,7414.0,2.47,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,Gordon Leitch,Republican,3100.0,1.03,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,William E. Spidal,Republican,2537.0,0.84,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,David W. Beem,Republican,1659.0,0.55,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,Bob Leonard Forthan,Republican,841.0,0.28,False,False
+2006,Oregon,OR,governor,Republican primary results,Candidate,Scattering,Republican,3107.0,1.03,False,False
+2006,Oregon,OR,governor,Republican primary results,Total,,,300554.0,100.0,False,False
+2006,Pennsylvania,PA,governor,Democratic primary results,Candidate,Ed Rendell,Democratic,,,False,True
+2006,Pennsylvania,PA,governor,Democratic primary results,Total,,,654985.0,100.0,False,False
+2006,Pennsylvania,PA,governor,Republican primary results,Candidate,Lynn Swann,Republican,,,False,False
+2006,Pennsylvania,PA,governor,Republican primary results,Total,,,583658.0,100.0,False,False
+2006,Rhode Island,RI,governor,Republican Party primary results,Winning,Donald Carcieri,Republican,51650.0,100.0,True,True
+2006,Rhode Island,RI,governor,Republican Party primary results,Total,,,51650.0,100.0,False,False
+2006,Rhode Island,RI,governor,Democratic Party primary results,Winning,Charles J. Fogarty,Democratic,69595.0,100.0,True,False
+2006,Rhode Island,RI,governor,Democratic Party primary results,Total,,,69595.0,100.0,False,False
+2006,South Carolina,SC,governor,Democratic primary results,Winning,Tommy Moore,Democratic,88092.0,63.68,True,False
+2006,South Carolina,SC,governor,Democratic primary results,Candidate,Frank Willis,Democratic,42317.0,30.59,False,False
+2006,South Carolina,SC,governor,Democratic primary results,Candidate,C. Dennis Aughtry,Democratic,7934.0,5.74,False,False
+2006,South Carolina,SC,governor,Democratic primary results,Total,,,138343.0,100.0,False,False
+2006,South Carolina,SC,governor,Republican primary results,Winning,Mark Sanford,Republican,160238.0,64.8,True,True
+2006,South Carolina,SC,governor,Republican primary results,Candidate,Oscar Lovelace,Republican,87043.0,35.2,False,False
+2006,South Carolina,SC,governor,Republican primary results,Total,,,247281.0,100.0,False,False
+2006,South Dakota,SD,governor,Democratic primary results,Winning,Jack Billion,Democratic,22527.0,61.91,True,False
+2006,South Dakota,SD,governor,Democratic primary results,Candidate,Dennis Weise,Democratic,13862.0,38.09,False,False
+2006,South Dakota,SD,governor,Democratic primary results,Total,,,36389.0,100.0,False,False
+2006,Tennessee,TN,governor,Democratic Party primary results,Winning,Phil Bredesen,Democratic,393004.0,88.5,True,True
+2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,John Jay Hooker,Democratic,31933.0,7.19,False,False
+2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,Tim Sevier,Democratic,11562.0,2.6,False,False
+2006,Tennessee,TN,governor,Democratic Party primary results,Candidate,Walt Ward,Democratic,7555.0,1.7,False,False
+2006,Tennessee,TN,governor,Democratic Party primary results,Total,,,444054.0,100.0,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Winning,Jim Bryson,Republican,160786.0,50.03,True,False
+2006,Tennessee,TN,governor,Republican Primary results,Candidate,David M. Farmer,Republican,50900.0,15.84,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Candidate,Joe Kirkpatrick,Republican,34491.0,10.73,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Candidate,Mark Albertini,Republican,29184.0,9.08,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Candidate,Wayne Thomas Bailey,Republican,24273.0,7.55,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Candidate,Wayne Young,Republican,11997.0,3.73,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Candidate,Timothy Thomas,Republican,9747.0,3.03,False,False
+2006,Tennessee,TN,governor,Republican Primary results,Total,,,321378.0,100.0,False,False
+2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Winning,Jim Doyle,Democratic,318523.0,99.3,True,True
+2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Scattering,Democratic,2259.0,0.7,False,False
+2006,Wisconsin,WI,governor,Democratic gubernatorial primary results,Total,,,320782.0,100.0,False,False
+2006,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Winning,Barbara Lawton,Democratic,287616.0,99.71,True,True
+2006,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Scattering,Democratic,834.0,0.29,False,False
+2006,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Total,,,288450.0,100.0,False,False
+2006,Wisconsin,WI,governor,Republican gubernatorial primary results,Winning,Mark Green,Republican,233216.0,99.66,True,False
+2006,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Scattering,Republican,804.0,0.34,False,False
+2006,Wisconsin,WI,governor,Republican gubernatorial primary results,Total,,,234020.0,100.0,False,False
+2006,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Winning,Jean Hundertmark,Republican,119283.0,56.02,True,False
+2006,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Candidate,Nick Voegeli,Republican,93391.0,43.86,False,False
+2006,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Candidate,Scattering,Republican,243.0,0.11,False,False
+2006,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Total,,,212917.0,100.0,False,False
+2006,Wisconsin,WI,governor,Green Party gubernatorial primary results,Winning,Nelson Eisman,Green,1707.0,98.33,True,False
+2006,Wisconsin,WI,governor,Green Party gubernatorial primary results,Candidate,Scattering,Green,29.0,1.67,False,False
+2006,Wisconsin,WI,governor,Green Party gubernatorial primary results,Total,,,1736.0,100.0,False,False
+2006,Wisconsin,WI,governor,Green lieutenant gubernatorial primary results,Winning,Leon Todd,Green,1676.0,99.23,True,False
+2006,Wisconsin,WI,governor,Green lieutenant gubernatorial primary results,Candidate,Scattering,Green,13.0,0.77,False,False
+2006,Wisconsin,WI,governor,Green lieutenant gubernatorial primary results,Total,,,1689.0,100.0,False,False
+2006,Wyoming,WY,governor,Democratic primary results,Winning,Dave Freudenthal,Democratic,26550.0,89.66,True,True
+2006,Wyoming,WY,governor,Democratic primary results,Candidate,Al Hamburg,Democratic,3062.0,10.34,False,False
+2006,Wyoming,WY,governor,Democratic primary results,Total,,,29612.0,100.0,False,False
+2006,Wyoming,WY,governor,Republican primary results,Winning,Ray Hunkins,Republican,51803.0,74.64,True,False
+2006,Wyoming,WY,governor,Republican primary results,Candidate,John H. Self,Republican,17598.0,25.36,False,False
+2006,Wyoming,WY,governor,Republican primary results,Total,,,69401.0,100.0,False,False

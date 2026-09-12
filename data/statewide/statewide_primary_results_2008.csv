@@ -1,0 +1,32 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2008,Delaware,DE,governor,Democratic primary results,Winning,Jack Markell,Democratic,37849,51.17,True,False
+2008,Delaware,DE,governor,Democratic primary results,Candidate,John Carney,Democratic,36112,48.83,False,False
+2008,Delaware,DE,governor,Democratic primary results,Total,,,73961,100.0,False,False
+2008,Delaware,DE,governor,Republican primary results,Winning,Bill Lee,Republican,20826,71.88,True,False
+2008,Delaware,DE,governor,Republican primary results,Candidate,Michael Protack,Republican,8146,28.12,False,False
+2008,Delaware,DE,governor,Republican primary results,Total,,,28972,100.0,False,False
+2008,Montana,MT,governor,Democratic primary results,Winning,Brian Schweitzer,Democratic,159820,91.3,True,True
+2008,Montana,MT,governor,Democratic primary results,Candidate,William Fischer,Democratic,9865,5.64,False,False
+2008,Montana,MT,governor,Democratic primary results,Candidate,Donald Pogreba,Democratic,5358,3.06,False,False
+2008,Montana,MT,governor,Democratic primary results,Total,,,175043,100.0,False,False
+2008,Montana,MT,governor,Republican primary results,Winning,Roy Brown,Republican,65883,80.81,True,False
+2008,Montana,MT,governor,Republican primary results,Candidate,Larry Steele,Republican,15643,19.19,False,False
+2008,Montana,MT,governor,Republican primary results,Total,,,81526,100.0,False,False
+2008,New Hampshire,NH,governor,Democratic primary results,Winning,John Lynch,Democratic,44549,90.69,True,True
+2008,New Hampshire,NH,governor,Democratic primary results,Candidate,Kathryn Forry,Democratic,4444,9.05,False,False
+2008,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,131,0.27,False,False
+2008,New Hampshire,NH,governor,Democratic primary results,Total,,,49124,100.0,False,False
+2008,New Hampshire,NH,governor,Republican primary results,Winning,Joseph Kenney,Republican,49235,92.69,True,False
+2008,New Hampshire,NH,governor,Republican primary results,Candidate,Write-ins,Republican,3885,7.31,False,False
+2008,New Hampshire,NH,governor,Republican primary results,Total,,,53120,100.0,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Winning,Christine Gregoire,Democratic,696306,48.27,True,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Winning,Dino Rossi,Republican,668571,46.35,True,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,John W. Aiken Jr.,Republican,21564,1.49,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,Christian Pierre Joubert,Democratic,16646,1.15,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,James White,Independent,10884,0.75,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,Duff Badgley,Green,9702,0.67,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,Christopher A. Tudor,Independent,5600,0.39,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,Will Baker,Reform,5201,0.36,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,Javier O. Lopez,Republican,4981,0.35,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Candidate,Mohammad Hasan Said,Independent,3002,0.21,False,False
+2008,Washington,WA,governor,Nonpartisan blanket primary results,Total,,,1442457,100.0,False,False

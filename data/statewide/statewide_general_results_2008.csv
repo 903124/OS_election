@@ -1,0 +1,49 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Winning,Jack Markell,Democratic,266861,67.52,True,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Candidate,Bill Lee,Republican,126662,32.05,False,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Candidate,Jeffrey Brown,Enigma,1681,0.43,False,False
+2008,Delaware,DE,governor,2008 Delaware gubernatorial election,Total,,,395204,100.0,False,False
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Winning,Mitch Daniels/Becky Skillman,Republican,1563885,57.84,True,True
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Candidate,Jill Long Thompson/Dennie Oxley,Democratic,1082463,40.04,False,False
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Candidate,Andy Horning,Libertarian,57376,2.12,False,False
+2008,Indiana,IN,governor,2008 Indiana gubernatorial election,Candidate,Write-Ins,No,27,0.0,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Winning,Jay Nixon,Democratic,1680611,58.4,True,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Candidate,Kenny Hulshof,Republican,1136364,39.49,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Candidate,Andrew Finkenstadt,Libertarian,31850,1.11,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Candidate,Gregory Thompson,Constitution,28941,1.01,False,False
+2008,Missouri,MO,governor,2008 Missouri gubernatorial election,Write-in,,,12,0.0,False,False
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Winning,Brian Schweitzer,Democratic,318670,65.47,True,True
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Candidate,Roy Brown,Republican,158268,32.52,False,False
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Candidate,Stan Jones,Libertarian,9796,2.01,False,False
+2008,Montana,MT,governor,2008 Montana gubernatorial election,Total,,,486734,100.0,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Winning,John Lynch,Democratic,479042,70.15,True,True
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Candidate,Joseph Kenney,Republican,188555,27.61,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Candidate,Susan Newell,Libertarian,14987,2.19,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Write-in,,,326,0.05,False,False
+2008,New Hampshire,NH,governor,2008 New Hampshire gubernatorial election,Total,,,682910,100.0,False,False
+2008,North Carolina,NC,governor,"North Carolina gubernatorial election, 2008",Winning,Bev Perdue,Democratic,2146189,50.27,True,False
+2008,North Carolina,NC,governor,"North Carolina gubernatorial election, 2008",Candidate,Pat McCrory,Republican,2001168,46.88,False,False
+2008,North Carolina,NC,governor,"North Carolina gubernatorial election, 2008",Candidate,Michael C. Munger,Libertarian,121584,2.85,False,False
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Winning,John Hoeven,Republican,235009,74.44,True,True
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,Tim Mathern,North Dakota Democratic-npl,74279,23.53,False,False
+2008,North Dakota,ND,governor,"North Dakota gubernatorial election, 2008",Candidate,DuWayne Hendrickson,Independent,6404,2.03,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Winning,Jon Huntsman Jr.,Republican,735049,77.63,True,True
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Bob Springmeyer,Democratic,186503,19.72,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Dell Schanze,Libertarian,24820,2.62,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Candidate,Bob Doughton,Write-in,153,0.02,False,False
+2008,Utah,UT,governor,2008 Utah gubernatorial election,Total,,,945525,100.0,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Winning,Jim Douglas,Republican,170492,53.43,True,True
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Anthony Pollina,Independent,69791,21.87,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Gaye Symington,Democratic,69534,21.79,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Tony O'Connor,Independent,3106,0.97,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Sam Young,Independent,2490,0.78,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Pete Diamondstone,Union,1710,0.54,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,Cris Ericson,Independent,1704,0.53,False,False
+2008,Vermont,VT,governor,2008 Vermont gubernatorial election,Candidate,write-ins,,258,0.08,False,False
+2008,Washington,WA,governor,2008 Washington gubernatorial election,Winning,Christine Gregoire,Democratic,1598738,53.24,True,True
+2008,Washington,WA,governor,2008 Washington gubernatorial election,Candidate,Dino Rossi,Republican,1404124,46.76,False,False
+2008,Washington,WA,governor,2008 Washington gubernatorial election,Total,,,3002862,100.0,False,False
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Winning,Joe Manchin,Democratic,492697,69.81,True,True
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Candidate,Russ Weeks,Republican,181612,25.73,False,False
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Candidate,Jesse Johnson,Mountain,31486,4.46,False,False
+2008,West Virginia,WV,governor,"West Virginia gubernatorial election, 2008",Total,,,705795,100.0,False,False

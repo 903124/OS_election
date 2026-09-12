@@ -1,0 +1,84 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2004,Indiana,IN,governor,Democratic primary results,Winning,Joe Kernan,Democratic,283924,100.0,True,True
+2004,Indiana,IN,governor,Democratic primary results,Total,,,283924,100.0,False,False
+2004,Indiana,IN,governor,Republican primary results,Winning,Mitch Daniels,Republican,335828,66.4,True,False
+2004,Indiana,IN,governor,Republican primary results,Candidate,Eric Miller,Republican,169930,33.6,False,False
+2004,Indiana,IN,governor,Republican primary results,Total,,,505758,100.0,False,False
+2004,Missouri,MO,governor,Republican primary results,Winning,Matt Blunt,Republican,534393,68.28,True,False
+2004,Missouri,MO,governor,Republican primary results,Candidate,Karen Skelton-Memhardt,Republican,126089,20.85,False,False
+2004,Missouri,MO,governor,Republican primary results,Candidate,Jen Sievers,Republican,18733,3.1,False,False
+2004,Missouri,MO,governor,Republican primary results,Candidate,Jeff Killian,Republican,10423,1.72,False,False
+2004,Missouri,MO,governor,Republican primary results,Candidate,Roy W. Lang,Republican,8750,1.45,False,False
+2004,Missouri,MO,governor,Republican primary results,Candidate,Martin Lindstedt,Republican,6369,1.05,False,False
+2004,Missouri,MO,governor,Republican primary results,Total,,,604757,100.0,False,False
+2004,Missouri,MO,governor,Democratic primary results,Winning,Claire McCaskill,Democratic,437780,51.64,True,False
+2004,Missouri,MO,governor,Democratic primary results,Candidate,Bob Holden,Democratic,383734,45.27,False,True
+2004,Missouri,MO,governor,Democratic primary results,Candidate,Jim LePage,Democratic,16761,1.98,False,False
+2004,Missouri,MO,governor,Democratic primary results,Candidate,Jeffery A. Emrick,Democratic,9473,1.12,False,False
+2004,Missouri,MO,governor,Democratic primary results,Total,,,847748,100.0,False,False
+2004,Montana,MT,governor,Democratic primary results,Winning,Brian Schweitzer,Democratic,68738,72.51,True,False
+2004,Montana,MT,governor,Democratic primary results,Candidate,John Vincent,Democratic,26057,27.49,False,False
+2004,Montana,MT,governor,Democratic primary results,Total,,,94795,100.0,False,False
+2004,Montana,MT,governor,Republican primary results,Winning,Bob Brown,Republican,43145,39.15,True,False
+2004,Montana,MT,governor,Republican primary results,Candidate,Pat Davison,Republican,25319,22.98,False,False
+2004,Montana,MT,governor,Republican primary results,Candidate,Ken Miller,Republican,24313,22.06,False,False
+2004,Montana,MT,governor,Republican primary results,Candidate,Tom Keating,Republican,17421,15.81,False,False
+2004,Montana,MT,governor,Republican primary results,Total,,,110198,100.0,False,False
+2004,New Hampshire,NH,governor,Democratic Primary results,Winning,John Lynch,Democratic,43798,74.28,True,False
+2004,New Hampshire,NH,governor,Democratic Primary results,Candidate,Paul McEachern,Democratic,14403,24.43,False,False
+2004,New Hampshire,NH,governor,Democratic Primary results,Candidate,Write-ins,Democratic,761,1.29,False,False
+2004,New Hampshire,NH,governor,Democratic Primary results,Total,,,58962,100.0,False,False
+2004,New Hampshire,NH,governor,Republican primary results,Winning,Craig Benson,Republican,49097,74.0,True,True
+2004,New Hampshire,NH,governor,Republican primary results,Candidate,Charles Tarbell,Republican,13621,20.53,False,False
+2004,New Hampshire,NH,governor,Republican primary results,Candidate,Write-ins,Republican,3632,5.47,False,False
+2004,New Hampshire,NH,governor,Republican primary results,Total,,,66350,100.0,False,False
+2004,Utah,UT,governor,Republican Convention results,Winning,Jon Huntsman Jr.,Republican,959,27.98,True,False
+2004,Utah,UT,governor,Republican Convention results,Winning,Nolan Karras,Republican,607,17.71,True,False
+2004,Utah,UT,governor,Republican Convention results,Candidate,Fred Lampropoulos,Republican,584,17.04,False,False
+2004,Utah,UT,governor,Republican Convention results,Candidate,Olene Walker,Republican,495,14.44,False,True
+2004,Utah,UT,governor,Republican Convention results,Candidate,Marty Stephens,Republican,380,11.09,False,False
+2004,Utah,UT,governor,Republican Convention results,Candidate,James Hansen,Republican,278,8.11,False,False
+2004,Utah,UT,governor,Republican Convention results,Candidate,Parley Hellewell,Republican,121,3.53,False,False
+2004,Utah,UT,governor,Republican Convention results,Candidate,Gary Benson,Republican,4,0.12,False,False
+2004,Utah,UT,governor,Republican Convention Results: Candidates Reduced to Two with Instant Runoff,Winning,Jon Huntsman Jr.,Republican,1707,51.28,True,False
+2004,Utah,UT,governor,Republican Convention Results: Candidates Reduced to Two with Instant Runoff,Candidate,Nolan Karras,Republican,1622,48.72,False,False
+2004,Utah,UT,governor,Republican primary results,Winning,Jon Huntsman Jr.,Republican,102955,66.4,True,False
+2004,Utah,UT,governor,Republican primary results,Candidate,Nolan Karras,Republican,52048,33.6,False,False
+2004,Utah,UT,governor,Republican primary results,Total,,,155003,100.0,False,False
+2004,Vermont,VT,governor,Democratic primary results,Winning,Peter Clavelle,Democratic,23218,94.65,True,False
+2004,Vermont,VT,governor,Democratic primary results,Candidate,Write-ins,Democratic,1313,5.35,False,False
+2004,Vermont,VT,governor,Democratic primary results,Total,,,24531,100.0,False,False
+2004,Vermont,VT,governor,Republican primary results,Winning,Jim Douglas (inc.),Republican,15806,98.74,True,False
+2004,Vermont,VT,governor,Republican primary results,Candidate,Write-ins,Republican,202,1.26,False,False
+2004,Vermont,VT,governor,Republican primary results,Total,,,16008,100.0,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Christine Gregoire,,504018,65.62,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Ron Sims,,228306,29.72,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Mike The Mover,,15118,1.96,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Don Hansler,,8636,1.12,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Scott Headland,,6983,0.9,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Eugen Buculei,,5005,0.65,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Dino Rossi,,444337,85.14,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Bill Meyer,,44448,8.51,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,John W. Aiken Jr.,,33104,6.34,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Ruth Bennett,,7382,56.48,False,False
+2004,Washington,WA,governor,Primary elections,Candidate,Michael Nelson,,5687,43.51,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Winning,Joe Manchin,Democratic,149362,52.73,True,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,Lloyd G. Jackson II,Democratic,77052,27.2,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,Jim Lees,Democratic,40161,14.18,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,"Lacy Wright, Jr.",Democratic,4963,1.75,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,Jerry Baker,Democratic,3009,1.06,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,James A. Baughman,Democratic,2999,1.06,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,Phillip Frye,Democratic,2892,1.02,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Candidate,Lou Davis,Democratic,2824,1.0,False,False
+2004,West Virginia,WV,governor,Democratic primary results,Total,,,283262,100.0,False,False
+2004,West Virginia,WV,governor,Republican primary results,Winning,Monty Warner,Republican,26041,22.87,True,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Dan R. Moore,Republican,22748,19.98,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Rob Capehart,Republican,19694,17.29,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Richard Robb,Republican,11824,10.38,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Douglas E. McKinney,Republican,10476,9.2,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Larry V. Faircloth,Republican,9123,8.01,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Joseph Oliverio,Republican,7687,6.75,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,"James D. Radcliffe, Jr.",Republican,3013,2.65,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,Charles G. Railey,Republican,2345,2.06,False,False
+2004,West Virginia,WV,governor,Republican primary results,Candidate,"Carroll B. Bowden, Sr.",Republican,925,0.81,False,False
+2004,West Virginia,WV,governor,Republican primary results,Total,,,113876,100.0,False,False
