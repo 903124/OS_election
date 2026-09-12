@@ -4,7 +4,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Alabama,AL,governor,Jimmy Blake,Libertarian,3.3,False,False
 2022,Alaska,AK,governor,Mike Dunleavy,Republican,50.3,True,True
 2022,Alaska,AK,governor,Les Gara,Democratic,24.2,False,False
-2022,Alaska,AK,governor,Bill Walker (American politician)|Bill Walker,Independent,20.7,False,False
+2022,Alaska,AK,governor,Bill Walker,Independent,20.7,False,False
 2022,Alaska,AK,governor,Charlie Pierce,Republican,4.5,False,False
 2022,Arizona,AZ,governor,Katie Hobbs,Democratic,50.3,True,False
 2022,Arizona,AZ,governor,Kari Lake,Republican,49.7,False,False
@@ -49,14 +49,14 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Michigan,MI,governor,Gretchen Whitmer,Democratic,54.5,True,True
 2022,Michigan,MI,governor,Tudor Dixon,Republican,43.9,False,False
 2022,Minnesota,MN,governor,Tim Walz,Minnesota Democratic–farmer–labor,52.3,True,True
-2022,Minnesota,MN,governor,Scott Jensen (Minnesota politician)|Scott Jensen,Republican,44.6,False,False
+2022,Minnesota,MN,governor,Scott Jensen,Republican,44.6,False,False
 2022,Nebraska,NE,governor,Jim Pillen,Republican,59.7,True,False
 2022,Nebraska,NE,governor,Carol Blood,Democratic,36.3,False,False
 2022,Nebraska,NE,governor,Scott Zimmerman,Libertarian,4.0,False,False
 2022,Nevada,NV,governor,Joe Lombardo,Republican,48.8,True,False
 2022,Nevada,NV,governor,Steve Sisolak,Democratic,47.3,False,True
 2022,New Hampshire,NH,governor,Chris Sununu,Republican,57.1,True,True
-2022,New Hampshire,NH,governor,Tom Sherman (politician)|Tom Sherman,Democratic,41.6,False,False
+2022,New Hampshire,NH,governor,Tom Sherman,Democratic,41.6,False,False
 2022,New Mexico,NM,governor,Michelle Lujan Grisham,Democratic,52.0,True,True
 2022,New Mexico,NM,governor,Mark Ronchetti,Republican,45.6,False,False
 2022,New Mexico,NM,governor,Karen Bedonie,Libertarian,2.4,False,False
@@ -76,10 +76,10 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Rhode Island,RI,governor,Dan McKee,Democratic,57.9,True,True
 2022,Rhode Island,RI,governor,Ashley Kalus,Republican,38.9,False,False
 2022,South Carolina,SC,governor,Henry McMaster,Republican,58.1,True,True
-2022,South Carolina,SC,governor,Joe Cunningham (American politician)|Joe Cunningham,Democratic,40.7,False,False
+2022,South Carolina,SC,governor,Joe Cunningham,Democratic,40.7,False,False
 2022,South Carolina,SC,governor,Bruce Reeves,Libertarian,1.2,False,False
 2022,South Dakota,SD,governor,Kristi Noem,Republican,62.0,True,True
-2022,South Dakota,SD,governor,Jamie Smith (politician)|Jamie Smith,Democratic,35.2,False,False
+2022,South Dakota,SD,governor,Jamie Smith,Democratic,35.2,False,False
 2022,South Dakota,SD,governor,Tracey Quint,Libertarian,2.9,False,False
 2022,Tennessee,TN,governor,Bill Lee,Republican,64.9,True,True
 2022,Tennessee,TN,governor,Jason Martin,Democratic,32.9,False,False
@@ -100,7 +100,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,District of Columbia,DC,governor,Stacia Hall,Republican,5.9,False,False
 2022,District of Columbia,DC,governor,Dennis Sobin,Libertarian,1.3,False,False
 2022,Guam,GU,governor,Lou Leon Guerrero,Democratic,55.5,True,True
-2022,Guam,GU,governor,Felix Perez Camacho|Felix Camacho,Republican,44.1,False,False
+2022,Guam,GU,governor,Felix Camacho,Republican,44.1,False,False
 2022,Northern Mariana Islands,MP,governor,Ralph Torres,Republican,38.8,True,True
 2022,Northern Mariana Islands,MP,governor,Arnold Palacios,Independent,33.2,False,False
 2022,Northern Mariana Islands,MP,governor,Tina Sablan,Democratic,28.0,False,False
@@ -134,7 +134,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Illinois,IL,attorney general,Tom DeVore,Republican,43.9,False,False
 2022,Illinois,IL,attorney general,Daniel Robin,Libertarian,2.2,False,False
 2022,Iowa,IA,attorney general,Brenna Bird,Republican,50.9,True,False
-2022,Iowa,IA,attorney general,Tom Miller (politician)|Tom Miller,Democratic,49.1,False,True
+2022,Iowa,IA,attorney general,Tom Miller,Democratic,49.1,False,True
 2022,Kansas,KS,attorney general,Kris Kobach,Republican,50.8,True,False
 2022,Kansas,KS,attorney general,Chris Mann,Democratic,49.2,False,False
 2022,Maryland,MD,attorney general,Anthony Brown,Democratic,65.0,True,False
@@ -196,7 +196,7 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Idaho,ID,secretary of state,Phil McGrane,Republican,72.5,True,False
 2022,Idaho,ID,secretary of state,Shawn Keenan,Democratic,27.5,False,False
 2022,Illinois,IL,secretary of state,Alexi Giannoulias,Democratic,53.8,True,False
-2022,Illinois,IL,secretary of state,Dan Brady (Illinois politician)|Dan Brady,Republican,44.1,False,False
+2022,Illinois,IL,secretary of state,Dan Brady,Republican,44.1,False,False
 2022,Illinois,IL,secretary of state,Jon Stewart,Libertarian,2.1,False,False
 2022,Indiana,IN,secretary of state,Diego Morales,Republican,54.1,True,False
 2022,Indiana,IN,secretary of state,Destiny Scott Wells,Democratic,40.2,False,False
@@ -265,9 +265,9 @@ year,state,state_code,office,candidate,party,percentage,winner,incumbent
 2022,Indiana,IN,state treasurer,Daniel Elliott,Republican,60.9,True,False
 2022,Indiana,IN,state treasurer,Jessica McClellan,Democratic,39.1,False,False
 2022,Iowa,IA,state treasurer,Roby Smith,Republican,51.3,True,False
-2022,Iowa,IA,state treasurer,Michael Fitzgerald (Iowa politician)|Michael Fitzgerald,Democratic,48.7,False,True
+2022,Iowa,IA,state treasurer,Michael Fitzgerald,Democratic,48.7,False,True
 2022,Kansas,KS,state treasurer,Steven Johnson,Republican,54.0,True,False
-2022,Kansas,KS,state treasurer,Lynn Rogers (politician)|Lynn Rogers,Democratic,41.4,False,True
+2022,Kansas,KS,state treasurer,Lynn Rogers,Democratic,41.4,False,True
 2022,Kansas,KS,state treasurer,Steve Roberts,Libertarian,4.6,False,False
 2022,Massachusetts,MA,state treasurer,Deb Goldberg,Democratic,76.5,True,True
 2022,Massachusetts,MA,state treasurer,Cristina Crawford,Libertarian,23.1,False,False

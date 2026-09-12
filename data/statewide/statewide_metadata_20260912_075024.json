@@ -1,0 +1,2820 @@
+{
+  "years": {
+    "2018": {
+      "governor": {
+        "rows": 125,
+        "states": 40
+      },
+      "attorney general": {
+        "rows": 68,
+        "states": 33
+      },
+      "secretary of state": null,
+      "state treasurer": null
+    },
+    "2019": {
+      "governor": {
+        "rows": 8,
+        "states": 3
+      },
+      "attorney general": {
+        "rows": 6,
+        "states": 3
+      },
+      "secretary of state": null,
+      "state treasurer": null
+    },
+    "2020": {
+      "governor": {
+        "rows": 45,
+        "states": 13
+      },
+      "attorney general": {
+        "rows": 26,
+        "states": 10
+      },
+      "secretary of state": {
+        "rows": 20,
+        "states": 7
+      },
+      "state treasurer": {
+        "rows": 20,
+        "states": 9
+      }
+    },
+    "2021": {
+      "governor": {
+        "rows": 6,
+        "states": 3
+      },
+      "attorney general": {
+        "rows": 0,
+        "states": 0
+      },
+      "secretary of state": null,
+      "state treasurer": null
+    },
+    "2022": {
+      "governor": {
+        "rows": 109,
+        "states": 40
+      },
+      "attorney general": {
+        "rows": 68,
+        "states": 31
+      },
+      "secretary of state": {
+        "rows": 62,
+        "states": 25
+      },
+      "state treasurer": {
+        "rows": 68,
+        "states": 28
+      }
+    },
+    "2023": {
+      "governor": {
+        "rows": 0,
+        "states": 0
+      },
+      "attorney general": {
+        "rows": 6,
+        "states": 3
+      },
+      "secretary of state": {
+        "rows": 6,
+        "states": 3
+      },
+      "state treasurer": {
+        "rows": 6,
+        "states": 3
+      }
+    },
+    "2024": {
+      "governor": {
+        "rows": 41,
+        "states": 13
+      },
+      "attorney general": {
+        "rows": 26,
+        "states": 10
+      },
+      "secretary of state": {
+        "rows": 18,
+        "states": 7
+      },
+      "state treasurer": {
+        "rows": 22,
+        "states": 10
+      }
+    },
+    "2025": {
+      "governor": {
+        "rows": 6,
+        "states": 2
+      },
+      "attorney general": null,
+      "secretary of state": null,
+      "state treasurer": null
+    },
+    "2026": {
+      "governor": {
+        "rows": 150,
+        "states": 40
+      },
+      "attorney general": {
+        "rows": 68,
+        "states": 33
+      },
+      "secretary of state": {
+        "rows": 59,
+        "states": 26
+      },
+      "state treasurer": {
+        "rows": 52,
+        "states": 25
+      }
+    }
+  },
+  "races": {
+    "2018 Alabama Attorney General election": {
+      "year": 2018,
+      "state": "Alabama",
+      "office": "attorney general",
+      "primary_rows": 11,
+      "general_rows": 4
+    },
+    "2018 Alabama gubernatorial election": {
+      "year": 2018,
+      "state": "Alabama",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 4
+    },
+    "2018 Alaska gubernatorial election": {
+      "year": 2018,
+      "state": "Alaska",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 6
+    },
+    "2018 Arizona Attorney General election": {
+      "year": 2018,
+      "state": "Arizona",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2018 Arizona gubernatorial election": {
+      "year": 2018,
+      "state": "Arizona",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 5
+    },
+    "2018 Arkansas Attorney General election": {
+      "year": 2018,
+      "state": "Arkansas",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2018 Arkansas gubernatorial election": {
+      "year": 2018,
+      "state": "Arkansas",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2018 California Attorney General election": {
+      "year": 2018,
+      "state": "California",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2018 California gubernatorial election": {
+      "year": 2018,
+      "state": "California",
+      "office": "governor",
+      "primary_rows": 33,
+      "general_rows": 3
+    },
+    "2018 Colorado Attorney General election": {
+      "year": 2018,
+      "state": "Colorado",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2018 Colorado gubernatorial election": {
+      "year": 2018,
+      "state": "Colorado",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 4
+    },
+    "2018 Connecticut Attorney General election": {
+      "year": 2018,
+      "state": "Connecticut",
+      "office": "attorney general",
+      "primary_rows": 7,
+      "general_rows": 5
+    },
+    "2018 Connecticut gubernatorial election": {
+      "year": 2018,
+      "state": "Connecticut",
+      "office": "governor",
+      "primary_rows": 14,
+      "general_rows": 8
+    },
+    "2018 Delaware Attorney General election": {
+      "year": 2018,
+      "state": "Delaware",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2018 District of Columbia Attorney General election": {
+      "year": 2018,
+      "state": "District of Columbia",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2018 Florida Attorney General election": {
+      "year": 2018,
+      "state": "Florida",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2018 Florida gubernatorial election": {
+      "year": 2018,
+      "state": "Florida",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 8
+    },
+    "2018 Georgia Attorney General election": {
+      "year": 2018,
+      "state": "Georgia",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2018 Georgia gubernatorial election": {
+      "year": 2018,
+      "state": "Georgia",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 5
+    },
+    "2018 Guamanian gubernatorial election": {
+      "year": 2018,
+      "state": "Guamanian",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 4
+    },
+    "2018 Hawaii gubernatorial election": {
+      "year": 2018,
+      "state": "Hawaii",
+      "office": "governor",
+      "primary_rows": 28,
+      "general_rows": 5
+    },
+    "2018 Idaho gubernatorial election": {
+      "year": 2018,
+      "state": "Idaho",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 6
+    },
+    "2018 Illinois Attorney General election": {
+      "year": 2018,
+      "state": "Illinois",
+      "office": "attorney general",
+      "primary_rows": 12,
+      "general_rows": 4
+    },
+    "2018 Illinois gubernatorial election": {
+      "year": 2018,
+      "state": "Illinois",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 6
+    },
+    "2018 Iowa Attorney General election": {
+      "year": 2018,
+      "state": "Iowa",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 4
+    },
+    "2018 Iowa gubernatorial election": {
+      "year": 2018,
+      "state": "Iowa",
+      "office": "governor",
+      "primary_rows": 15,
+      "general_rows": 6
+    },
+    "2018 Kansas gubernatorial election": {
+      "year": 2018,
+      "state": "Kansas",
+      "office": "governor",
+      "primary_rows": 14,
+      "general_rows": 6
+    },
+    "2018 Maine gubernatorial election": {
+      "year": 2018,
+      "state": "Maine",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2018 Maryland Attorney General election": {
+      "year": 2018,
+      "state": "Maryland",
+      "office": "attorney general",
+      "primary_rows": 2,
+      "general_rows": 4
+    },
+    "2018 Maryland gubernatorial election": {
+      "year": 2018,
+      "state": "Maryland",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 6
+    },
+    "2018 Massachusetts gubernatorial election": {
+      "year": 2018,
+      "state": "Massachusetts",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 4
+    },
+    "2018 Michigan Attorney General election": {
+      "year": 2018,
+      "state": "Michigan",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 6
+    },
+    "2018 Michigan gubernatorial election": {
+      "year": 2018,
+      "state": "Michigan",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 8
+    },
+    "2018 Minnesota Attorney General election": {
+      "year": 2018,
+      "state": "Minnesota",
+      "office": "attorney general",
+      "primary_rows": 10,
+      "general_rows": 5
+    },
+    "2018 Minnesota gubernatorial election": {
+      "year": 2018,
+      "state": "Minnesota",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 6
+    },
+    "2018 Nebraska Attorney General election": {
+      "year": 2018,
+      "state": "Nebraska",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2018 Nebraska gubernatorial election": {
+      "year": 2018,
+      "state": "Nebraska",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 3
+    },
+    "2018 Nevada Attorney General election": {
+      "year": 2018,
+      "state": "Nevada",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2018 Nevada gubernatorial election": {
+      "year": 2018,
+      "state": "Nevada",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 7
+    },
+    "2018 New Hampshire gubernatorial election": {
+      "year": 2018,
+      "state": "New Hampshire",
+      "office": "governor",
+      "primary_rows": 21,
+      "general_rows": 5
+    },
+    "2018 New Mexico gubernatorial election": {
+      "year": 2018,
+      "state": "New Mexico",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 3
+    },
+    "2018 New York Attorney General election": {
+      "year": 2018,
+      "state": "New York",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 7
+    },
+    "2018 New York gubernatorial election": {
+      "year": 2018,
+      "state": "New York",
+      "office": "governor",
+      "primary_rows": 5,
+      "general_rows": 8
+    },
+    "2018 Northern Mariana Islands gubernatorial election": {
+      "year": 2018,
+      "state": "Northern Mariana Islands",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2018 Ohio Attorney General election": {
+      "year": 2018,
+      "state": "Ohio",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2018 Ohio gubernatorial election": {
+      "year": 2018,
+      "state": "Ohio",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 6
+    },
+    "2018 Oklahoma gubernatorial election": {
+      "year": 2018,
+      "state": "Oklahoma",
+      "office": "governor",
+      "primary_rows": 24,
+      "general_rows": 4
+    },
+    "2018 Oregon gubernatorial election": {
+      "year": 2018,
+      "state": "Oregon",
+      "office": "governor",
+      "primary_rows": 22,
+      "general_rows": 8
+    },
+    "2018 Pennsylvania gubernatorial election": {
+      "year": 2018,
+      "state": "Pennsylvania",
+      "office": "governor",
+      "primary_rows": 16,
+      "general_rows": 5
+    },
+    "2018 Rhode Island gubernatorial election": {
+      "year": 2018,
+      "state": "Rhode Island",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 8
+    },
+    "2018 South Carolina gubernatorial election": {
+      "year": 2018,
+      "state": "South Carolina",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 4
+    },
+    "2018 South Dakota Attorney General election": {
+      "year": 2018,
+      "state": "South Dakota",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2018 South Dakota gubernatorial election": {
+      "year": 2018,
+      "state": "South Dakota",
+      "office": "governor",
+      "primary_rows": 3,
+      "general_rows": 4
+    },
+    "2018 Tennessee gubernatorial election": {
+      "year": 2018,
+      "state": "Tennessee",
+      "office": "governor",
+      "primary_rows": 11,
+      "general_rows": 30
+    },
+    "2018 Texas Attorney General election": {
+      "year": 2018,
+      "state": "Texas",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2018 Texas gubernatorial election": {
+      "year": 2018,
+      "state": "Texas",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 4
+    },
+    "2018 United States Virgin Islands gubernatorial election": {
+      "year": 2018,
+      "state": "United States Virgin Islands",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2018 Vermont gubernatorial election": {
+      "year": 2018,
+      "state": "Vermont",
+      "office": "governor",
+      "primary_rows": 19,
+      "general_rows": 9
+    },
+    "2018 Wisconsin Attorney General election": {
+      "year": 2018,
+      "state": "Wisconsin",
+      "office": "attorney general",
+      "primary_rows": 8,
+      "general_rows": 5
+    },
+    "2018 Wisconsin gubernatorial election": {
+      "year": 2018,
+      "state": "Wisconsin",
+      "office": "governor",
+      "primary_rows": 39,
+      "general_rows": 8
+    },
+    "2018 Wyoming gubernatorial election": {
+      "year": 2018,
+      "state": "Wyoming",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 6
+    },
+    "2019 Kentucky Attorney General election": {
+      "year": 2019,
+      "state": "Kentucky",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2019 Kentucky gubernatorial election": {
+      "year": 2019,
+      "state": "Kentucky",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 5
+    },
+    "2019 Louisiana Attorney General election": {
+      "year": 2019,
+      "state": "Louisiana",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2019 Louisiana gubernatorial election": {
+      "year": 2019,
+      "state": "Louisiana",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 3
+    },
+    "2019 Mississippi Attorney General election": {
+      "year": 2019,
+      "state": "Mississippi",
+      "office": "attorney general",
+      "primary_rows": 7,
+      "general_rows": 3
+    },
+    "2019 Mississippi gubernatorial election": {
+      "year": 2019,
+      "state": "Mississippi",
+      "office": "governor",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2020 American Samoa gubernatorial election": {
+      "year": 2020,
+      "state": "American Samoa",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2020 Delaware gubernatorial election": {
+      "year": 2020,
+      "state": "Delaware",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 5
+    },
+    "2020 Indiana Attorney General election": {
+      "year": 2020,
+      "state": "Indiana",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2020 Indiana gubernatorial election": {
+      "year": 2020,
+      "state": "Indiana",
+      "office": "governor",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2020 Missouri Attorney General election": {
+      "year": 2020,
+      "state": "Missouri",
+      "office": "attorney general",
+      "primary_rows": 7,
+      "general_rows": 4
+    },
+    "2020 Missouri Secretary of State election": {
+      "year": 2020,
+      "state": "Missouri",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 6
+    },
+    "2020 Missouri State Treasurer election": {
+      "year": 2020,
+      "state": "Missouri",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 5
+    },
+    "2020 Missouri gubernatorial election": {
+      "year": 2020,
+      "state": "Missouri",
+      "office": "governor",
+      "primary_rows": 4,
+      "general_rows": 6
+    },
+    "2020 Montana Attorney General election": {
+      "year": 2020,
+      "state": "Montana",
+      "office": "attorney general",
+      "primary_rows": 8,
+      "general_rows": 3
+    },
+    "2020 Montana Secretary of State election": {
+      "year": 2020,
+      "state": "Montana",
+      "office": "secretary of state",
+      "primary_rows": 9,
+      "general_rows": 3
+    },
+    "2020 Montana gubernatorial election": {
+      "year": 2020,
+      "state": "Montana",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 5
+    },
+    "2020 New Hampshire gubernatorial election": {
+      "year": 2020,
+      "state": "New Hampshire",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 5
+    },
+    "2020 North Carolina Attorney General election": {
+      "year": 2020,
+      "state": "North Carolina",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2020 North Carolina Secretary of State election": {
+      "year": 2020,
+      "state": "North Carolina",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2020 North Carolina gubernatorial election": {
+      "year": 2020,
+      "state": "North Carolina",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2020 North Dakota gubernatorial election": {
+      "year": 2020,
+      "state": "North Dakota",
+      "office": "governor",
+      "primary_rows": 5,
+      "general_rows": 5
+    },
+    "2020 Oregon Attorney General election": {
+      "year": 2020,
+      "state": "Oregon",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2020 Oregon Secretary of State election": {
+      "year": 2020,
+      "state": "Oregon",
+      "office": "secretary of state",
+      "primary_rows": 9,
+      "general_rows": 6
+    },
+    "2020 Oregon State Treasurer election": {
+      "year": 2020,
+      "state": "Oregon",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 6
+    },
+    "2020 Pennsylvania Attorney General election": {
+      "year": 2020,
+      "state": "Pennsylvania",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 5
+    },
+    "2020 Pennsylvania State Treasurer election": {
+      "year": 2020,
+      "state": "Pennsylvania",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 5
+    },
+    "2020 Puerto Rico gubernatorial election": {
+      "year": 2020,
+      "state": "Puerto Rico",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2020 Utah Attorney General election": {
+      "year": 2020,
+      "state": "Utah",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 4
+    },
+    "2020 Utah gubernatorial election": {
+      "year": 2020,
+      "state": "Utah",
+      "office": "governor",
+      "primary_rows": 2,
+      "general_rows": 6
+    },
+    "2020 Vermont gubernatorial election": {
+      "year": 2020,
+      "state": "Vermont",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 10
+    },
+    "2020 Washington Attorney General election": {
+      "year": 2020,
+      "state": "Washington",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2020 Washington Secretary of State election": {
+      "year": 2020,
+      "state": "Washington",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2020 Washington State Treasurer election": {
+      "year": 2020,
+      "state": "Washington",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2020 Washington gubernatorial election": {
+      "year": 2020,
+      "state": "Washington",
+      "office": "governor",
+      "primary_rows": 38,
+      "general_rows": 4
+    },
+    "2020 West Virginia Secretary of State election": {
+      "year": 2020,
+      "state": "West Virginia",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2020 West Virginia State Treasurer election": {
+      "year": 2020,
+      "state": "West Virginia",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2020 West Virginia gubernatorial election": {
+      "year": 2020,
+      "state": "West Virginia",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 7
+    },
+    "2021 California gubernatorial recall election": {
+      "year": 2021,
+      "state": "California",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 54
+    },
+    "2021 New Jersey gubernatorial election": {
+      "year": 2021,
+      "state": "New Jersey",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 6
+    },
+    "2021 Virginia gubernatorial election": {
+      "year": 2021,
+      "state": "Virginia",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2022 Alabama Attorney General election": {
+      "year": 2022,
+      "state": "Alabama",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 4
+    },
+    "2022 Alabama Secretary of State election": {
+      "year": 2022,
+      "state": "Alabama",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 5
+    },
+    "2022 Alabama State Treasurer election": {
+      "year": 2022,
+      "state": "Alabama",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2022 Alabama gubernatorial election": {
+      "year": 2022,
+      "state": "Alabama",
+      "office": "governor",
+      "primary_rows": 20,
+      "general_rows": 5
+    },
+    "2022 Alaska gubernatorial election": {
+      "year": 2022,
+      "state": "Alaska",
+      "office": "governor",
+      "primary_rows": 11,
+      "general_rows": 6
+    },
+    "2022 Arizona Attorney General election": {
+      "year": 2022,
+      "state": "Arizona",
+      "office": "attorney general",
+      "primary_rows": 11,
+      "general_rows": 6
+    },
+    "2022 Arizona Secretary of State election": {
+      "year": 2022,
+      "state": "Arizona",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 3
+    },
+    "2022 Arizona State Treasurer election": {
+      "year": 2022,
+      "state": "Arizona",
+      "office": "state treasurer",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2022 Arizona gubernatorial election": {
+      "year": 2022,
+      "state": "Arizona",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 4
+    },
+    "2022 Arkansas Attorney General election": {
+      "year": 2022,
+      "state": "Arkansas",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 3
+    },
+    "2022 Arkansas Secretary of State election": {
+      "year": 2022,
+      "state": "Arkansas",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2022 Arkansas State Treasurer election": {
+      "year": 2022,
+      "state": "Arkansas",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 3
+    },
+    "2022 Arkansas gubernatorial election": {
+      "year": 2022,
+      "state": "Arkansas",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 4
+    },
+    "2022 California Attorney General election": {
+      "year": 2022,
+      "state": "California",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2022 California Secretary of State election": {
+      "year": 2022,
+      "state": "California",
+      "office": "secretary of state",
+      "primary_rows": 9,
+      "general_rows": 3
+    },
+    "2022 California State Treasurer election": {
+      "year": 2022,
+      "state": "California",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2022 California gubernatorial election": {
+      "year": 2022,
+      "state": "California",
+      "office": "governor",
+      "primary_rows": 29,
+      "general_rows": 3
+    },
+    "2022 Colorado Attorney General election": {
+      "year": 2022,
+      "state": "Colorado",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2022 Colorado Secretary of State election": {
+      "year": 2022,
+      "state": "Colorado",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 7
+    },
+    "2022 Colorado State Treasurer election": {
+      "year": 2022,
+      "state": "Colorado",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2022 Colorado gubernatorial election": {
+      "year": 2022,
+      "state": "Colorado",
+      "office": "governor",
+      "primary_rows": 3,
+      "general_rows": 7
+    },
+    "2022 Connecticut Attorney General election": {
+      "year": 2022,
+      "state": "Connecticut",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 5
+    },
+    "2022 Connecticut State Treasurer election": {
+      "year": 2022,
+      "state": "Connecticut",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 6
+    },
+    "2022 Connecticut gubernatorial election": {
+      "year": 2022,
+      "state": "Connecticut",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 6
+    },
+    "2022 Delaware Attorney General election": {
+      "year": 2022,
+      "state": "Delaware",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2022 Delaware State Treasurer election": {
+      "year": 2022,
+      "state": "Delaware",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2022 Florida Attorney General election": {
+      "year": 2022,
+      "state": "Florida",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2022 Florida gubernatorial election": {
+      "year": 2022,
+      "state": "Florida",
+      "office": "governor",
+      "primary_rows": 5,
+      "general_rows": 5
+    },
+    "2022 Georgia Attorney General election": {
+      "year": 2022,
+      "state": "Georgia",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Georgia Secretary of State election": {
+      "year": 2022,
+      "state": "Georgia",
+      "office": "secretary of state",
+      "primary_rows": 14,
+      "general_rows": 4
+    },
+    "2022 Georgia gubernatorial election": {
+      "year": 2022,
+      "state": "Georgia",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 4
+    },
+    "2022 Guamanian gubernatorial election": {
+      "year": 2022,
+      "state": "Guamanian",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 4
+    },
+    "2022 Hawaii gubernatorial election": {
+      "year": 2022,
+      "state": "Hawaii",
+      "office": "governor",
+      "primary_rows": 31,
+      "general_rows": 3
+    },
+    "2022 Idaho Attorney General election": {
+      "year": 2022,
+      "state": "Idaho",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2022 Idaho Secretary of State election": {
+      "year": 2022,
+      "state": "Idaho",
+      "office": "secretary of state",
+      "primary_rows": 2,
+      "general_rows": 0
+    },
+    "2022 Idaho State Treasurer election": {
+      "year": 2022,
+      "state": "Idaho",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2022 Idaho gubernatorial election": {
+      "year": 2022,
+      "state": "Idaho",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 7
+    },
+    "2022 Illinois Attorney General election": {
+      "year": 2022,
+      "state": "Illinois",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Illinois Secretary of State election": {
+      "year": 2022,
+      "state": "Illinois",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 5
+    },
+    "2022 Illinois State Treasurer election": {
+      "year": 2022,
+      "state": "Illinois",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 5
+    },
+    "2022 Illinois gubernatorial election": {
+      "year": 2022,
+      "state": "Illinois",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 5
+    },
+    "2022 Indiana Secretary of State election": {
+      "year": 2022,
+      "state": "Indiana",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 6
+    },
+    "2022 Indiana State Treasurer election": {
+      "year": 2022,
+      "state": "Indiana",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2022 Iowa Attorney General election": {
+      "year": 2022,
+      "state": "Iowa",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Iowa Secretary of State election": {
+      "year": 2022,
+      "state": "Iowa",
+      "office": "secretary of state",
+      "primary_rows": 7,
+      "general_rows": 4
+    },
+    "2022 Iowa State Treasurer election": {
+      "year": 2022,
+      "state": "Iowa",
+      "office": "state treasurer",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Iowa gubernatorial election": {
+      "year": 2022,
+      "state": "Iowa",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2022 Kansas Attorney General election": {
+      "year": 2022,
+      "state": "Kansas",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2022 Kansas Secretary of State election": {
+      "year": 2022,
+      "state": "Kansas",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2022 Kansas State Treasurer election": {
+      "year": 2022,
+      "state": "Kansas",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2022 Kansas gubernatorial election": {
+      "year": 2022,
+      "state": "Kansas",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2022 Maine gubernatorial election": {
+      "year": 2022,
+      "state": "Maine",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Maryland Attorney General election": {
+      "year": 2022,
+      "state": "Maryland",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Maryland gubernatorial election": {
+      "year": 2022,
+      "state": "Maryland",
+      "office": "governor",
+      "primary_rows": 16,
+      "general_rows": 7
+    },
+    "2022 Massachusetts Attorney General election": {
+      "year": 2022,
+      "state": "Massachusetts",
+      "office": "attorney general",
+      "primary_rows": 13,
+      "general_rows": 4
+    },
+    "2022 Massachusetts gubernatorial election": {
+      "year": 2022,
+      "state": "Massachusetts",
+      "office": "governor",
+      "primary_rows": 19,
+      "general_rows": 5
+    },
+    "2022 Michigan Attorney General election": {
+      "year": 2022,
+      "state": "Michigan",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 5
+    },
+    "2022 Michigan Secretary of State election": {
+      "year": 2022,
+      "state": "Michigan",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 6
+    },
+    "2022 Michigan gubernatorial election": {
+      "year": 2022,
+      "state": "Michigan",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 8
+    },
+    "2022 Minnesota Attorney General election": {
+      "year": 2022,
+      "state": "Minnesota",
+      "office": "attorney general",
+      "primary_rows": 7,
+      "general_rows": 4
+    },
+    "2022 Minnesota Secretary of State election": {
+      "year": 2022,
+      "state": "Minnesota",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Minnesota gubernatorial election": {
+      "year": 2022,
+      "state": "Minnesota",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 8
+    },
+    "2022 Nebraska Attorney General election": {
+      "year": 2022,
+      "state": "Nebraska",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 2
+    },
+    "2022 Nebraska Secretary of State election": {
+      "year": 2022,
+      "state": "Nebraska",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 2
+    },
+    "2022 Nebraska State Treasurer election": {
+      "year": 2022,
+      "state": "Nebraska",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 2
+    },
+    "2022 Nebraska gubernatorial election": {
+      "year": 2022,
+      "state": "Nebraska",
+      "office": "governor",
+      "primary_rows": 15,
+      "general_rows": 5
+    },
+    "2022 Nevada Attorney General election": {
+      "year": 2022,
+      "state": "Nevada",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 3
+    },
+    "2022 Nevada Secretary of State election": {
+      "year": 2022,
+      "state": "Nevada",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 5
+    },
+    "2022 Nevada State Treasurer election": {
+      "year": 2022,
+      "state": "Nevada",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 5
+    },
+    "2022 New Hampshire gubernatorial election": {
+      "year": 2022,
+      "state": "New Hampshire",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 6
+    },
+    "2022 New Mexico Attorney General election": {
+      "year": 2022,
+      "state": "New Mexico",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2022 New Mexico Secretary of State election": {
+      "year": 2022,
+      "state": "New Mexico",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 New Mexico State Treasurer election": {
+      "year": 2022,
+      "state": "New Mexico",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2022 New Mexico gubernatorial election": {
+      "year": 2022,
+      "state": "New Mexico",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 4
+    },
+    "2022 New York Attorney General election": {
+      "year": 2022,
+      "state": "New York",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2022 New York State Comptroller election": {
+      "year": 2022,
+      "state": "New York State",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2022 New York gubernatorial election": {
+      "year": 2022,
+      "state": "New York",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 4
+    },
+    "2022 North Dakota Attorney General election": {
+      "year": 2022,
+      "state": "North Dakota",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2022 North Dakota Secretary of State election": {
+      "year": 2022,
+      "state": "North Dakota",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 5
+    },
+    "2022 Northern Mariana Islands gubernatorial election": {
+      "year": 2022,
+      "state": "Northern Mariana Islands",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2022 Ohio Attorney General election": {
+      "year": 2022,
+      "state": "Ohio",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2022 Ohio Secretary of State election": {
+      "year": 2022,
+      "state": "Ohio",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2022 Ohio State Treasurer election": {
+      "year": 2022,
+      "state": "Ohio",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2022 Ohio gubernatorial election": {
+      "year": 2022,
+      "state": "Ohio",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 4
+    },
+    "2022 Oklahoma Attorney General election": {
+      "year": 2022,
+      "state": "Oklahoma",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 3
+    },
+    "2022 Oklahoma State Treasurer election": {
+      "year": 2022,
+      "state": "Oklahoma",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2022 Oklahoma gubernatorial election": {
+      "year": 2022,
+      "state": "Oklahoma",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 5
+    },
+    "2022 Oregon gubernatorial election": {
+      "year": 2022,
+      "state": "Oregon",
+      "office": "governor",
+      "primary_rows": 36,
+      "general_rows": 7
+    },
+    "2022 Pennsylvania gubernatorial election": {
+      "year": 2022,
+      "state": "Pennsylvania",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 6
+    },
+    "2022 Rhode Island Attorney General election": {
+      "year": 2022,
+      "state": "Rhode Island",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2022 Rhode Island General Treasurer election": {
+      "year": 2022,
+      "state": "Rhode Island",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2022 Rhode Island Secretary of State election": {
+      "year": 2022,
+      "state": "Rhode Island",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2022 Rhode Island gubernatorial election": {
+      "year": 2022,
+      "state": "Rhode Island",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 7
+    },
+    "2022 South Carolina Attorney General election": {
+      "year": 2022,
+      "state": "South Carolina",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 3
+    },
+    "2022 South Carolina Secretary of State election": {
+      "year": 2022,
+      "state": "South Carolina",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2022 South Carolina State Treasurer election": {
+      "year": 2022,
+      "state": "South Carolina",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2022 South Carolina gubernatorial election": {
+      "year": 2022,
+      "state": "South Carolina",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 5
+    },
+    "2022 South Dakota Attorney General election": {
+      "year": 2022,
+      "state": "South Dakota",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 2
+    },
+    "2022 South Dakota Secretary of State election": {
+      "year": 2022,
+      "state": "South Dakota",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2022 South Dakota State Treasurer election": {
+      "year": 2022,
+      "state": "South Dakota",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2022 South Dakota gubernatorial election": {
+      "year": 2022,
+      "state": "South Dakota",
+      "office": "governor",
+      "primary_rows": 3,
+      "general_rows": 4
+    },
+    "2022 Tennessee gubernatorial election": {
+      "year": 2022,
+      "state": "Tennessee",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 15
+    },
+    "2022 Texas Attorney General election": {
+      "year": 2022,
+      "state": "Texas",
+      "office": "attorney general",
+      "primary_rows": 17,
+      "general_rows": 4
+    },
+    "2022 Texas gubernatorial election": {
+      "year": 2022,
+      "state": "Texas",
+      "office": "governor",
+      "primary_rows": 11,
+      "general_rows": 6
+    },
+    "2022 United States Virgin Islands gubernatorial election": {
+      "year": 2022,
+      "state": "United States Virgin Islands",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2022 Vermont Attorney General election": {
+      "year": 2022,
+      "state": "Vermont",
+      "office": "attorney general",
+      "primary_rows": 10,
+      "general_rows": 4
+    },
+    "2022 Vermont Secretary of State election": {
+      "year": 2022,
+      "state": "Vermont",
+      "office": "secretary of state",
+      "primary_rows": 11,
+      "general_rows": 4
+    },
+    "2022 Vermont State Treasurer election": {
+      "year": 2022,
+      "state": "Vermont",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2022 Vermont gubernatorial election": {
+      "year": 2022,
+      "state": "Vermont",
+      "office": "governor",
+      "primary_rows": 11,
+      "general_rows": 7
+    },
+    "2022 Wisconsin Attorney General election": {
+      "year": 2022,
+      "state": "Wisconsin",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2022 Wisconsin Secretary of State election": {
+      "year": 2022,
+      "state": "Wisconsin",
+      "office": "secretary of state",
+      "primary_rows": 9,
+      "general_rows": 6
+    },
+    "2022 Wisconsin State Treasurer election": {
+      "year": 2022,
+      "state": "Wisconsin",
+      "office": "state treasurer",
+      "primary_rows": 9,
+      "general_rows": 5
+    },
+    "2022 Wisconsin gubernatorial election": {
+      "year": 2022,
+      "state": "Wisconsin",
+      "office": "governor",
+      "primary_rows": 21,
+      "general_rows": 5
+    },
+    "2022 Wyoming Secretary of State election": {
+      "year": 2022,
+      "state": "Wyoming",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2022 Wyoming gubernatorial election": {
+      "year": 2022,
+      "state": "Wyoming",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 5
+    },
+    "2023 Kentucky Attorney General election": {
+      "year": 2023,
+      "state": "Kentucky",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2023 Kentucky Secretary of State election": {
+      "year": 2023,
+      "state": "Kentucky",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2023 Kentucky gubernatorial election": {
+      "year": 2023,
+      "state": "Kentucky",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 4
+    },
+    "2023 Louisiana Attorney General election": {
+      "year": 2023,
+      "state": "Louisiana",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2023 Louisiana gubernatorial election": {
+      "year": 2023,
+      "state": "Louisiana",
+      "office": "governor",
+      "primary_rows": 16,
+      "general_rows": 0
+    },
+    "2023 Mississippi Attorney General election": {
+      "year": 2023,
+      "state": "Mississippi",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2023 Mississippi gubernatorial election": {
+      "year": 2023,
+      "state": "Mississippi",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2024 Delaware gubernatorial election": {
+      "year": 2024,
+      "state": "Delaware",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 3
+    },
+    "2024 Indiana Attorney General election": {
+      "year": 2024,
+      "state": "Indiana",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2024 Indiana gubernatorial election": {
+      "year": 2024,
+      "state": "Indiana",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 5
+    },
+    "2024 Missouri Attorney General election": {
+      "year": 2024,
+      "state": "Missouri",
+      "office": "attorney general",
+      "primary_rows": 7,
+      "general_rows": 4
+    },
+    "2024 Missouri Secretary of State election": {
+      "year": 2024,
+      "state": "Missouri",
+      "office": "secretary of state",
+      "primary_rows": 13,
+      "general_rows": 5
+    },
+    "2024 Missouri State Treasurer election": {
+      "year": 2024,
+      "state": "Missouri",
+      "office": "state treasurer",
+      "primary_rows": 11,
+      "general_rows": 5
+    },
+    "2024 Missouri gubernatorial election": {
+      "year": 2024,
+      "state": "Missouri",
+      "office": "governor",
+      "primary_rows": 16,
+      "general_rows": 6
+    },
+    "2024 Montana Attorney General election": {
+      "year": 2024,
+      "state": "Montana",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2024 Montana Secretary of State election": {
+      "year": 2024,
+      "state": "Montana",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2024 Montana gubernatorial election": {
+      "year": 2024,
+      "state": "Montana",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2024 New Hampshire gubernatorial election": {
+      "year": 2024,
+      "state": "New Hampshire",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 5
+    },
+    "2024 North Carolina Attorney General election": {
+      "year": 2024,
+      "state": "North Carolina",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2024 North Carolina Secretary of State election": {
+      "year": 2024,
+      "state": "North Carolina",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2024 North Carolina State Treasurer election": {
+      "year": 2024,
+      "state": "North Carolina",
+      "office": "state treasurer",
+      "primary_rows": 7,
+      "general_rows": 3
+    },
+    "2024 North Carolina gubernatorial election": {
+      "year": 2024,
+      "state": "North Carolina",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 6
+    },
+    "2024 North Dakota State Treasurer election": {
+      "year": 2024,
+      "state": "North Dakota",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 3
+    },
+    "2024 North Dakota gubernatorial election": {
+      "year": 2024,
+      "state": "North Dakota",
+      "office": "governor",
+      "primary_rows": 5,
+      "general_rows": 5
+    },
+    "2024 Oregon Attorney General election": {
+      "year": 2024,
+      "state": "Oregon",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2024 Oregon Secretary of State election": {
+      "year": 2024,
+      "state": "Oregon",
+      "office": "secretary of state",
+      "primary_rows": 12,
+      "general_rows": 5
+    },
+    "2024 Oregon State Treasurer election": {
+      "year": 2024,
+      "state": "Oregon",
+      "office": "state treasurer",
+      "primary_rows": 7,
+      "general_rows": 5
+    },
+    "2024 Pennsylvania Attorney General election": {
+      "year": 2024,
+      "state": "Pennsylvania",
+      "office": "attorney general",
+      "primary_rows": 9,
+      "general_rows": 7
+    },
+    "2024 Pennsylvania State Treasurer election": {
+      "year": 2024,
+      "state": "Pennsylvania",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 6
+    },
+    "2024 Puerto Rico gubernatorial election": {
+      "year": 2024,
+      "state": "Puerto Rico",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2024 Utah Attorney General election": {
+      "year": 2024,
+      "state": "Utah",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 6
+    },
+    "2024 Utah State Treasurer election": {
+      "year": 2024,
+      "state": "Utah",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2024 Utah gubernatorial election": {
+      "year": 2024,
+      "state": "Utah",
+      "office": "governor",
+      "primary_rows": 3,
+      "general_rows": 8
+    },
+    "2024 Vermont Attorney General election": {
+      "year": 2024,
+      "state": "Vermont",
+      "office": "attorney general",
+      "primary_rows": 9,
+      "general_rows": 5
+    },
+    "2024 Vermont Secretary of State election": {
+      "year": 2024,
+      "state": "Vermont",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2024 Vermont State Treasurer election": {
+      "year": 2024,
+      "state": "Vermont",
+      "office": "state treasurer",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2024 Vermont gubernatorial election": {
+      "year": 2024,
+      "state": "Vermont",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 7
+    },
+    "2024 Washington Attorney General election": {
+      "year": 2024,
+      "state": "Washington",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 4
+    },
+    "2024 Washington Secretary of State election": {
+      "year": 2024,
+      "state": "Washington",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 4
+    },
+    "2024 Washington State Treasurer election": {
+      "year": 2024,
+      "state": "Washington",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 4
+    },
+    "2024 Washington gubernatorial election": {
+      "year": 2024,
+      "state": "Washington",
+      "office": "governor",
+      "primary_rows": 30,
+      "general_rows": 4
+    },
+    "2024 West Virginia Attorney General election": {
+      "year": 2024,
+      "state": "West Virginia",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2024 West Virginia Secretary of State election": {
+      "year": 2024,
+      "state": "West Virginia",
+      "office": "secretary of state",
+      "primary_rows": 7,
+      "general_rows": 3
+    },
+    "2024 West Virginia State Treasurer election": {
+      "year": 2024,
+      "state": "West Virginia",
+      "office": "state treasurer",
+      "primary_rows": 2,
+      "general_rows": 3
+    },
+    "2024 West Virginia gubernatorial election": {
+      "year": 2024,
+      "state": "West Virginia",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 7
+    },
+    "2025 New Jersey gubernatorial election": {
+      "year": 2025,
+      "state": "New Jersey",
+      "office": "governor",
+      "primary_rows": 41,
+      "general_rows": 5
+    },
+    "2025 Virginia gubernatorial election": {
+      "year": 2025,
+      "state": "Virginia",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 4
+    },
+    "2026 Alabama Attorney General election": {
+      "year": 2026,
+      "state": "Alabama",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Alabama Secretary of State election": {
+      "year": 2026,
+      "state": "Alabama",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Alabama State Treasurer election": {
+      "year": 2026,
+      "state": "Alabama",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 Alabama gubernatorial election": {
+      "year": 2026,
+      "state": "Alabama",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 0
+    },
+    "2026 Alaska gubernatorial election": {
+      "year": 2026,
+      "state": "Alaska",
+      "office": "governor",
+      "primary_rows": 18,
+      "general_rows": 4
+    },
+    "2026 Arizona Attorney General election": {
+      "year": 2026,
+      "state": "Arizona",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2026 Arizona Secretary of State election": {
+      "year": 2026,
+      "state": "Arizona",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 4
+    },
+    "2026 Arizona State Treasurer election": {
+      "year": 2026,
+      "state": "Arizona",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2026 Arizona gubernatorial election": {
+      "year": 2026,
+      "state": "Arizona",
+      "office": "governor",
+      "primary_rows": 15,
+      "general_rows": 5
+    },
+    "2026 Arkansas Attorney General election": {
+      "year": 2026,
+      "state": "Arkansas",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Arkansas Secretary of State election": {
+      "year": 2026,
+      "state": "Arkansas",
+      "office": "secretary of state",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 Arkansas State Treasurer election": {
+      "year": 2026,
+      "state": "Arkansas",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Arkansas gubernatorial election": {
+      "year": 2026,
+      "state": "Arkansas",
+      "office": "governor",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 California Attorney General election": {
+      "year": 2026,
+      "state": "California",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2026 California Secretary of State election": {
+      "year": 2026,
+      "state": "California",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 3
+    },
+    "2026 California gubernatorial election": {
+      "year": 2026,
+      "state": "California",
+      "office": "governor",
+      "primary_rows": 68,
+      "general_rows": 3
+    },
+    "2026 Colorado Attorney General election": {
+      "year": 2026,
+      "state": "Colorado",
+      "office": "attorney general",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 Colorado Secretary of State election": {
+      "year": 2026,
+      "state": "Colorado",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 Colorado State Treasurer election": {
+      "year": 2026,
+      "state": "Colorado",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Colorado gubernatorial election": {
+      "year": 2026,
+      "state": "Colorado",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 0
+    },
+    "2026 Connecticut Attorney General election": {
+      "year": 2026,
+      "state": "Connecticut",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Connecticut State Treasurer election": {
+      "year": 2026,
+      "state": "Connecticut",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Connecticut gubernatorial election": {
+      "year": 2026,
+      "state": "Connecticut",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Delaware Attorney General election": {
+      "year": 2026,
+      "state": "Delaware",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Delaware State Treasurer election": {
+      "year": 2026,
+      "state": "Delaware",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 District of Columbia Attorney General election": {
+      "year": 2026,
+      "state": "District of Columbia",
+      "office": "attorney general",
+      "primary_rows": 9,
+      "general_rows": 0
+    },
+    "2026 Florida Attorney General election": {
+      "year": 2026,
+      "state": "Florida",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 3
+    },
+    "2026 Florida gubernatorial election": {
+      "year": 2026,
+      "state": "Florida",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 9
+    },
+    "2026 Georgia Attorney General election": {
+      "year": 2026,
+      "state": "Georgia",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Georgia Secretary of State election": {
+      "year": 2026,
+      "state": "Georgia",
+      "office": "secretary of state",
+      "primary_rows": 17,
+      "general_rows": 0
+    },
+    "2026 Georgia gubernatorial election": {
+      "year": 2026,
+      "state": "Georgia",
+      "office": "governor",
+      "primary_rows": 20,
+      "general_rows": 0
+    },
+    "2026 Guam Attorney General election": {
+      "year": 2026,
+      "state": "Guam",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Guam gubernatorial election": {
+      "year": 2026,
+      "state": "Guam",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 3
+    },
+    "2026 Hawaii gubernatorial election": {
+      "year": 2026,
+      "state": "Hawaii",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 0
+    },
+    "2026 Idaho Attorney General election": {
+      "year": 2026,
+      "state": "Idaho",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Idaho Secretary of State election": {
+      "year": 2026,
+      "state": "Idaho",
+      "office": "secretary of state",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Idaho State Treasurer election": {
+      "year": 2026,
+      "state": "Idaho",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Idaho gubernatorial election": {
+      "year": 2026,
+      "state": "Idaho",
+      "office": "governor",
+      "primary_rows": 14,
+      "general_rows": 0
+    },
+    "2026 Illinois Attorney General election": {
+      "year": 2026,
+      "state": "Illinois",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Illinois Secretary of State election": {
+      "year": 2026,
+      "state": "Illinois",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Illinois State Treasurer election": {
+      "year": 2026,
+      "state": "Illinois",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Illinois gubernatorial election": {
+      "year": 2026,
+      "state": "Illinois",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 Indiana Secretary of State election": {
+      "year": 2026,
+      "state": "Indiana",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Indiana State Treasurer election": {
+      "year": 2026,
+      "state": "Indiana",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Iowa Attorney General election": {
+      "year": 2026,
+      "state": "Iowa",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Iowa Secretary of State election": {
+      "year": 2026,
+      "state": "Iowa",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Iowa State Treasurer election": {
+      "year": 2026,
+      "state": "Iowa",
+      "office": "state treasurer",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Iowa gubernatorial election": {
+      "year": 2026,
+      "state": "Iowa",
+      "office": "governor",
+      "primary_rows": 10,
+      "general_rows": 4
+    },
+    "2026 Kansas Attorney General election": {
+      "year": 2026,
+      "state": "Kansas",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Kansas Secretary of State election": {
+      "year": 2026,
+      "state": "Kansas",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Kansas State Treasurer election": {
+      "year": 2026,
+      "state": "Kansas",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Kansas gubernatorial election": {
+      "year": 2026,
+      "state": "Kansas",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 0
+    },
+    "2026 Maine gubernatorial election": {
+      "year": 2026,
+      "state": "Maine",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 Maryland Attorney General election": {
+      "year": 2026,
+      "state": "Maryland",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 3
+    },
+    "2026 Maryland gubernatorial election": {
+      "year": 2026,
+      "state": "Maryland",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 5
+    },
+    "2026 Massachusetts Attorney General election": {
+      "year": 2026,
+      "state": "Massachusetts",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Massachusetts gubernatorial election": {
+      "year": 2026,
+      "state": "Massachusetts",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 0
+    },
+    "2026 Michigan Attorney General election": {
+      "year": 2026,
+      "state": "Michigan",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Michigan Secretary of State election": {
+      "year": 2026,
+      "state": "Michigan",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Michigan gubernatorial election": {
+      "year": 2026,
+      "state": "Michigan",
+      "office": "governor",
+      "primary_rows": 9,
+      "general_rows": 0
+    },
+    "2026 Minnesota Attorney General election": {
+      "year": 2026,
+      "state": "Minnesota",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Minnesota Secretary of State election": {
+      "year": 2026,
+      "state": "Minnesota",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Minnesota gubernatorial election": {
+      "year": 2026,
+      "state": "Minnesota",
+      "office": "governor",
+      "primary_rows": 34,
+      "general_rows": 0
+    },
+    "2026 Nebraska Attorney General election": {
+      "year": 2026,
+      "state": "Nebraska",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Nebraska Secretary of State election": {
+      "year": 2026,
+      "state": "Nebraska",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 5
+    },
+    "2026 Nebraska State Treasurer election": {
+      "year": 2026,
+      "state": "Nebraska",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Nebraska gubernatorial election": {
+      "year": 2026,
+      "state": "Nebraska",
+      "office": "governor",
+      "primary_rows": 13,
+      "general_rows": 0
+    },
+    "2026 Nevada Attorney General election": {
+      "year": 2026,
+      "state": "Nevada",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Nevada Secretary of State election": {
+      "year": 2026,
+      "state": "Nevada",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Nevada State Treasurer election": {
+      "year": 2026,
+      "state": "Nevada",
+      "office": "state treasurer",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 Nevada gubernatorial election": {
+      "year": 2026,
+      "state": "Nevada",
+      "office": "governor",
+      "primary_rows": 15,
+      "general_rows": 0
+    },
+    "2026 New Hampshire gubernatorial election": {
+      "year": 2026,
+      "state": "New Hampshire",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 New Mexico Attorney General election": {
+      "year": 2026,
+      "state": "New Mexico",
+      "office": "attorney general",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 New Mexico Secretary of State election": {
+      "year": 2026,
+      "state": "New Mexico",
+      "office": "secretary of state",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 New Mexico State Treasurer election": {
+      "year": 2026,
+      "state": "New Mexico",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 New Mexico gubernatorial election": {
+      "year": 2026,
+      "state": "New Mexico",
+      "office": "governor",
+      "primary_rows": 12,
+      "general_rows": 0
+    },
+    "2026 New York Attorney General election": {
+      "year": 2026,
+      "state": "New York",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 New York gubernatorial election": {
+      "year": 2026,
+      "state": "New York",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 North Dakota Attorney General election": {
+      "year": 2026,
+      "state": "North Dakota",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 North Dakota Secretary of State election": {
+      "year": 2026,
+      "state": "North Dakota",
+      "office": "secretary of state",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Northern Mariana Islands Attorney General election": {
+      "year": 2026,
+      "state": "Northern Mariana Islands",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Northern Mariana Islands gubernatorial election": {
+      "year": 2026,
+      "state": "Northern Mariana Islands",
+      "office": "governor",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 Ohio Attorney General election": {
+      "year": 2026,
+      "state": "Ohio",
+      "office": "attorney general",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Ohio Secretary of State election": {
+      "year": 2026,
+      "state": "Ohio",
+      "office": "secretary of state",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 Ohio State Treasurer election": {
+      "year": 2026,
+      "state": "Ohio",
+      "office": "state treasurer",
+      "primary_rows": 5,
+      "general_rows": 0
+    },
+    "2026 Ohio gubernatorial election": {
+      "year": 2026,
+      "state": "Ohio",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 Oklahoma Attorney General election": {
+      "year": 2026,
+      "state": "Oklahoma",
+      "office": "attorney general",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 Oklahoma State Treasurer election": {
+      "year": 2026,
+      "state": "Oklahoma",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 Oklahoma gubernatorial election": {
+      "year": 2026,
+      "state": "Oklahoma",
+      "office": "governor",
+      "primary_rows": 17,
+      "general_rows": 0
+    },
+    "2026 Oregon gubernatorial election": {
+      "year": 2026,
+      "state": "Oregon",
+      "office": "governor",
+      "primary_rows": 28,
+      "general_rows": 0
+    },
+    "2026 Pennsylvania gubernatorial election": {
+      "year": 2026,
+      "state": "Pennsylvania",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 Rhode Island General Treasurer election": {
+      "year": 2026,
+      "state": "Rhode Island",
+      "office": "state treasurer",
+      "primary_rows": 4,
+      "general_rows": 0
+    },
+    "2026 Rhode Island Secretary of State election": {
+      "year": 2026,
+      "state": "Rhode Island",
+      "office": "secretary of state",
+      "primary_rows": 2,
+      "general_rows": 0
+    },
+    "2026 Rhode Island gubernatorial election": {
+      "year": 2026,
+      "state": "Rhode Island",
+      "office": "governor",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 South Carolina Attorney General election": {
+      "year": 2026,
+      "state": "South Carolina",
+      "office": "attorney general",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 South Carolina Secretary of State election": {
+      "year": 2026,
+      "state": "South Carolina",
+      "office": "secretary of state",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 South Carolina State Treasurer election": {
+      "year": 2026,
+      "state": "South Carolina",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 South Carolina gubernatorial election": {
+      "year": 2026,
+      "state": "South Carolina",
+      "office": "governor",
+      "primary_rows": 15,
+      "general_rows": 0
+    },
+    "2026 South Dakota Attorney General election": {
+      "year": 2026,
+      "state": "South Dakota",
+      "office": "attorney general",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 South Dakota Secretary of State election": {
+      "year": 2026,
+      "state": "South Dakota",
+      "office": "secretary of state",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 South Dakota State Treasurer election": {
+      "year": 2026,
+      "state": "South Dakota",
+      "office": "state treasurer",
+      "primary_rows": 0,
+      "general_rows": 0
+    },
+    "2026 South Dakota gubernatorial election": {
+      "year": 2026,
+      "state": "South Dakota",
+      "office": "governor",
+      "primary_rows": 8,
+      "general_rows": 0
+    },
+    "2026 Tennessee gubernatorial election": {
+      "year": 2026,
+      "state": "Tennessee",
+      "office": "governor",
+      "primary_rows": 11,
+      "general_rows": 0
+    },
+    "2026 Texas Attorney General election": {
+      "year": 2026,
+      "state": "Texas",
+      "office": "attorney general",
+      "primary_rows": 15,
+      "general_rows": 4
+    },
+    "2026 Texas gubernatorial election": {
+      "year": 2026,
+      "state": "Texas",
+      "office": "governor",
+      "primary_rows": 22,
+      "general_rows": 4
+    },
+    "2026 United States Virgin Islands gubernatorial election": {
+      "year": 2026,
+      "state": "United States Virgin Islands",
+      "office": "governor",
+      "primary_rows": 15,
+      "general_rows": 0
+    },
+    "2026 Vermont Attorney General election": {
+      "year": 2026,
+      "state": "Vermont",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 0
+    },
+    "2026 Vermont Secretary of State election": {
+      "year": 2026,
+      "state": "Vermont",
+      "office": "secretary of state",
+      "primary_rows": 9,
+      "general_rows": 0
+    },
+    "2026 Vermont State Treasurer election": {
+      "year": 2026,
+      "state": "Vermont",
+      "office": "state treasurer",
+      "primary_rows": 9,
+      "general_rows": 0
+    },
+    "2026 Vermont gubernatorial election": {
+      "year": 2026,
+      "state": "Vermont",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 Wisconsin Attorney General election": {
+      "year": 2026,
+      "state": "Wisconsin",
+      "office": "attorney general",
+      "primary_rows": 6,
+      "general_rows": 3
+    },
+    "2026 Wisconsin Secretary of State election": {
+      "year": 2026,
+      "state": "Wisconsin",
+      "office": "secretary of state",
+      "primary_rows": 9,
+      "general_rows": 4
+    },
+    "2026 Wisconsin State Treasurer election": {
+      "year": 2026,
+      "state": "Wisconsin",
+      "office": "state treasurer",
+      "primary_rows": 7,
+      "general_rows": 3
+    },
+    "2026 Wisconsin gubernatorial election": {
+      "year": 2026,
+      "state": "Wisconsin",
+      "office": "governor",
+      "primary_rows": 19,
+      "general_rows": 3
+    },
+    "2026 Wyoming Secretary of State election": {
+      "year": 2026,
+      "state": "Wyoming",
+      "office": "secretary of state",
+      "primary_rows": 7,
+      "general_rows": 0
+    },
+    "2026 Wyoming State Treasurer election": {
+      "year": 2026,
+      "state": "Wyoming",
+      "office": "state treasurer",
+      "primary_rows": 3,
+      "general_rows": 0
+    },
+    "2026 Wyoming gubernatorial election": {
+      "year": 2026,
+      "state": "Wyoming",
+      "office": "governor",
+      "primary_rows": 7,
+      "general_rows": 0
+    }
+  },
+  "missing_articles": [
+    "2018 United States secretary of state elections",
+    "2018 United States state treasurer elections",
+    "2019 United States secretary of state elections",
+    "2019 United States state treasurer elections",
+    "2021 United States secretary of state elections",
+    "2021 United States state treasurer elections",
+    "2025 United States attorney general elections",
+    "2025 United States secretary of state elections",
+    "2025 United States state treasurer elections",
+    "2022 Wyoming State Treasurer election"
+  ]
+}

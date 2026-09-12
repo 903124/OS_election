@@ -1,0 +1,14 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2021,New Jersey,NJ,governor,Democratic primary results,Winning,Phil Murphy,Democratic,382984,100.0,True,True
+2021,New Jersey,NJ,governor,Democratic primary results,Total,,,382984,100.0,False,False
+2021,New Jersey,NJ,governor,Republican primary results,Winning,Jack Ciattarelli,Republican,167690,49.46,True,False
+2021,New Jersey,NJ,governor,Republican primary results,Candidate,Philip Rizzo,Republican,87007,25.66,False,False
+2021,New Jersey,NJ,governor,Republican primary results,Candidate,Hirsh V. Singh,Republican,73155,21.58,False,False
+2021,New Jersey,NJ,governor,Republican primary results,Candidate,Brian D. Levine,Republican,11181,3.3,False,False
+2021,New Jersey,NJ,governor,Republican primary results,Total,,,339033,100.0,False,False
+2021,Virginia,VA,governor,Democratic primary results,Winning,Terry McAuliffe,Democratic,307367,62.1,True,False
+2021,Virginia,VA,governor,Democratic primary results,Candidate,Jennifer Carroll Foy,Democratic,98052,19.81,False,False
+2021,Virginia,VA,governor,Democratic primary results,Candidate,Jennifer McClellan,Democratic,58213,11.76,False,False
+2021,Virginia,VA,governor,Democratic primary results,Candidate,Justin Fairfax,Democratic,17606,3.56,False,False
+2021,Virginia,VA,governor,Democratic primary results,Candidate,Lee J. Carter,Democratic,13694,2.77,False,False
+2021,Virginia,VA,governor,Democratic primary results,Total,,,494932,100.0,False,False

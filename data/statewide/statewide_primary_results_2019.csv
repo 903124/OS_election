@@ -1,0 +1,20 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Winning,John Bel Edwards,Democratic,625970,46.59,True,True
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Winning,Eddie Rispone,Republican,368319,27.42,True,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Candidate,Ralph Abraham,Republican,317149,23.61,False,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Candidate,Oscar Dantzler,Democratic,10993,0.82,False,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Candidate,Patrick Landry,Republican,10966,0.82,False,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Candidate,Gary Landrieu,Independent,10084,0.75,False,False
+2019,Louisiana,LA,governor,2019 Louisiana gubernatorial election,Total,,,1343481,100.0,False,False
+2019,Mississippi,MS,attorney general,Republican primary results,Winning,Lynn Fitch,Republican,163733,44.2,True,False
+2019,Mississippi,MS,attorney general,Republican primary results,Winning,Andy Taggart,Republican,105689,28.6,True,False
+2019,Mississippi,MS,attorney general,Republican primary results,Total,,,370020,100.0,False,False
+2019,Mississippi,MS,attorney general,Republican runoff results,Candidate,Andy Taggart,Republican,154807,47.9,False,False
+2019,Mississippi,MS,attorney general,Republican runoff results,Total,,,323085,100.0,False,False
+2019,Mississippi,MS,attorney general,Democratic primary results,Winning,Jennifer Riley Collins,Democratic,253042,100.0,True,False
+2019,Mississippi,MS,attorney general,Democratic primary results,Total,,,253042,100.0,False,False
+2019,Mississippi,MS,governor,Republican primary results,Winning,Tate Reeves,Republican,187312,48.9,True,False
+2019,Mississippi,MS,governor,Republican primary results,Winning,Bill Waller Jr.,Republican,128010,33.4,True,False
+2019,Mississippi,MS,governor,Republican primary results,Candidate,Robert Foster,Republican,67758,17.7,False,False
+2019,Mississippi,MS,governor,Republican primary results,Candidate,Bill Waller Jr.,Republican,152201,45.9,False,False
+2019,Mississippi,MS,governor,Republican primary results,Total,,,383080,100.0,False,False

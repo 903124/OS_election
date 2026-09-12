@@ -1,0 +1,207 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+2020,Delaware,DE,governor,Democratic primary results,Winning,John Carney,Democratic,101142,84.77,True,True
+2020,Delaware,DE,governor,Democratic primary results,Candidate,"David Lamar Williams, Jr.",Democratic,18169,15.23,False,False
+2020,Delaware,DE,governor,Democratic primary results,Total,,,119311,100.0,False,False
+2020,Delaware,DE,governor,Republican primary results,Winning,Julianne Murray,Republican,22819,41.15,True,False
+2020,Delaware,DE,governor,Republican primary results,Candidate,Colin Bonini,Republican,19161,34.56,False,False
+2020,Delaware,DE,governor,Republican primary results,Candidate,Bryant Richardson,Republican,4262,7.69,False,False
+2020,Delaware,DE,governor,Republican primary results,Candidate,Scott Walker,Republican,3998,7.21,False,False
+2020,Delaware,DE,governor,Republican primary results,Candidate,David Bosco,Republican,3660,6.6,False,False
+2020,Delaware,DE,governor,Republican primary results,Candidate,David Graham,Republican,1547,2.79,False,False
+2020,Delaware,DE,governor,Republican primary results,Total,,,55447,100.0,False,False
+2020,Indiana,IN,governor,Republican primary results,Winning,Eric Holcomb,Republican,524496,97.85,True,True
+2020,Indiana,IN,governor,Republican primary results,Total,,,524496,98.66,False,False
+2020,Indiana,IN,governor,Democratic primary results,Winning,Woody Myers,Democratic,408230,100.0,True,False
+2020,Indiana,IN,governor,Democratic primary results,Total,,,408230,100.0,False,False
+2020,Missouri,MO,attorney general,Republican primary results,Winning,Eric Schmitt,Republican,602577,100.0,True,True
+2020,Missouri,MO,attorney general,Republican primary results,Total,,,602577,100.0,False,False
+2020,Missouri,MO,attorney general,Democratic primary results,Winning,Richard Finneran,Democratic,272516,55.39,True,False
+2020,Missouri,MO,attorney general,Democratic primary results,Candidate,Elad Gross,Democratic,219462,44.61,False,False
+2020,Missouri,MO,attorney general,Democratic primary results,Total,,,491978,100.0,False,False
+2020,Missouri,MO,attorney general,Libertarian primary results,Winning,Kevin C. Babcock,Libertarian,4089,100.0,True,False
+2020,Missouri,MO,attorney general,Libertarian primary results,Total,,,4089,100.0,False,False
+2020,Missouri,MO,secretary of state,Republican primary results,Winning,Jay Ashcroft,Republican,620822,100.0,True,True
+2020,Missouri,MO,secretary of state,Republican primary results,Total,,,620822,100.0,False,False
+2020,Missouri,MO,secretary of state,Democratic primary results,Winning,Yinka Faleti,Democratic,470955,100.0,True,False
+2020,Missouri,MO,secretary of state,Democratic primary results,Total,,,470955,100.0,False,False
+2020,Missouri,MO,state treasurer,Republican primary results,Winning,Scott Fitzpatrick,Republican,597408,100.0,True,True
+2020,Missouri,MO,state treasurer,Republican primary results,Total,,,597408,100.0,False,False
+2020,Missouri,MO,state treasurer,Democratic primary results,Winning,Vicki Englund,Democratic,473904,100.0,True,False
+2020,Missouri,MO,state treasurer,Democratic primary results,Total,,,473904,100.0,False,False
+2020,Missouri,MO,governor,Republican primary results,Winning,Mike Parson,Republican,511566,74.93,True,True
+2020,Missouri,MO,governor,Republican primary results,Total,,,682756,100.0,False,False
+2020,Missouri,MO,governor,Democratic primary results,Winning,Nicole Galloway,Democratic,455203,84.62,True,False
+2020,Missouri,MO,governor,Democratic primary results,Total,,,537927,100.0,False,False
+2020,Montana,MT,attorney general,Republican primary results,Winning,Austin Knudsen,Republican,116113,59.8,True,False
+2020,Montana,MT,attorney general,Republican primary results,Candidate,Jon Bennion,Republican,78161,40.2,False,False
+2020,Montana,MT,attorney general,Republican primary results,Total,,,194274,100.0,False,False
+2020,Montana,MT,attorney general,Democratic primary results,Winning,Raph Graybill,Democratic,79772,57.1,True,False
+2020,Montana,MT,attorney general,Democratic primary results,Candidate,Kimberly Dudik,Democratic,59963,42.9,False,False
+2020,Montana,MT,attorney general,Democratic primary results,Total,,,139735,100.0,False,False
+2020,Montana,MT,attorney general,Green primary results,Winning,Roy Davis,Green,748,100.0,True,False
+2020,Montana,MT,attorney general,Green primary results,Total,,,748,100.0,False,False
+2020,Montana,MT,secretary of state,Republican primary results,Winning,Christi Jacobsen,Republican,57941,29.4,True,False
+2020,Montana,MT,secretary of state,Republican primary results,Candidate,Scott Sales,Republican,49759,25.3,False,False
+2020,Montana,MT,secretary of state,Republican primary results,Candidate,Brad Johnson,Republican,45526,23.1,False,False
+2020,Montana,MT,secretary of state,Republican primary results,Candidate,Forrest Mandeville,Republican,20318,10.3,False,False
+2020,Montana,MT,secretary of state,Republican primary results,Candidate,Bowen Greenwood,Republican,14080,7.1,False,False
+2020,Montana,MT,secretary of state,Republican primary results,Candidate,Kurt Johnson,Republican,9346,4.7,False,False
+2020,Montana,MT,secretary of state,Republican primary results,Total,,,196970,100.0,False,False
+2020,Montana,MT,secretary of state,Democratic primary results,Winning,Bryce Bennett,Democratic,130109,100.0,True,False
+2020,Montana,MT,secretary of state,Democratic primary results,Total,,,130109,100.0,False,False
+2020,Montana,MT,governor,Democratic primary results,Winning,Mike Cooney,Democratic,81527,54.86,True,False
+2020,Montana,MT,governor,Democratic primary results,Candidate,Whitney Williams,Democratic,67066,45.14,False,False
+2020,Montana,MT,governor,Democratic primary results,Total,,,148593,100.0,False,False
+2020,Montana,MT,governor,Republican primary results,Winning,Greg Gianforte,Republican,119247,53.44,True,False
+2020,Montana,MT,governor,Republican primary results,Candidate,Tim Fox,Republican,60823,27.26,False,False
+2020,Montana,MT,governor,Republican primary results,Candidate,Albert Olszewski,Republican,43080,19.3,False,False
+2020,Montana,MT,governor,Republican primary results,Total,,,223150,100.0,False,False
+2020,New Hampshire,NH,governor,Republican primary results,Winning,Chris Sununu,Republican,130703,89.67,True,True
+2020,New Hampshire,NH,governor,Republican primary results,Candidate,Karen Testerman,Republican,13589,9.32,False,False
+2020,New Hampshire,NH,governor,Republican primary results,Candidate,Nobody,Republican,1239,0.85,False,False
+2020,New Hampshire,NH,governor,Republican primary results,Candidate,Andru Volinsky (write-in),Democratic,93,0.06,False,False
+2020,New Hampshire,NH,governor,Republican primary results,Candidate,Dan Feltes (write-in),Democratic,3,0.0,False,False
+2020,New Hampshire,NH,governor,Republican primary results,Total,,,145757,100.0,False,False
+2020,New Hampshire,NH,governor,Democratic primary results,Winning,Dan Feltes,Democratic,72318,50.9,True,False
+2020,New Hampshire,NH,governor,Democratic primary results,Candidate,Andru Volinsky,Democratic,65455,46.06,False,False
+2020,New Hampshire,NH,governor,Democratic primary results,Candidate,Chris Sununu (write-in),Republican,4276,3.0,False,False
+2020,New Hampshire,NH,governor,Democratic primary results,Candidate,Karen Testerman (write-in),Republican,39,0.03,False,False
+2020,New Hampshire,NH,governor,Democratic primary results,Candidate,Nobody (write-in),Republican,6,0.01,False,False
+2020,New Hampshire,NH,governor,Democratic primary results,Total,,,142094,100.0,False,False
+2020,North Carolina,NC,attorney general,Republican primary results,Winning,Jim O'Neill,Republican,338567,46.55,True,False
+2020,North Carolina,NC,attorney general,Republican primary results,Candidate,Sam Hayes,Republican,226453,31.14,False,False
+2020,North Carolina,NC,attorney general,Republican primary results,Candidate,Christine Mumma,Republican,162301,22.31,False,False
+2020,North Carolina,NC,attorney general,Republican primary results,Total,,,727321,100.0,False,False
+2020,North Carolina,NC,secretary of state,Republican primary results,Winning,E.C. Sykes,Republican,296457,42.91,True,False
+2020,North Carolina,NC,secretary of state,Republican primary results,Candidate,Chad Brown,Republican,262595,38.01,False,False
+2020,North Carolina,NC,secretary of state,Republican primary results,Candidate,Michael LaPaglia,Republican,131832,19.08,False,False
+2020,North Carolina,NC,secretary of state,Republican primary results,Total,,,690884,100.0,False,False
+2020,North Carolina,NC,governor,Democratic primary results,Winning,Roy Cooper,Democratic,1128829,87.19,True,True
+2020,North Carolina,NC,governor,Democratic primary results,Candidate,Ernest T. Reeves,Democratic,165804,12.81,False,False
+2020,North Carolina,NC,governor,Democratic primary results,Total,,,1294633,100.0,False,False
+2020,North Carolina,NC,governor,Republican primary results,Winning,Dan Forest,Republican,698077,88.95,True,False
+2020,North Carolina,NC,governor,Republican primary results,Candidate,Holly Grange,Republican,86714,11.05,False,False
+2020,North Carolina,NC,governor,Republican primary results,Total,,,784791,100.0,False,False
+2020,North Dakota,ND,governor,Republican primary results,Winning,Doug Burgum,Republican,96119,89.51,True,True
+2020,North Dakota,ND,governor,Republican primary results,Total,,,107379,100.0,False,False
+2020,North Dakota,ND,governor,North Dakota Democratic–Nonpartisan League Party primary results,Winning,Shelley Lenz,North Dakota Democratic–nonpartisan League,34501,99.33,True,False
+2020,North Dakota,ND,governor,North Dakota Democratic–Nonpartisan League Party primary results,Candidate,Write-In,North Dakota Democratic–nonpartisan League,231,0.67,False,False
+2020,North Dakota,ND,governor,North Dakota Democratic–Nonpartisan League Party primary results,Total,,,34732,100.0,False,False
+2020,Oregon,OR,attorney general,Democratic primary results,Winning,Ellen Rosenblum,Democratic,483273,99.04,True,True
+2020,Oregon,OR,attorney general,Democratic primary results,Write-in,,,4661,0.96,False,False
+2020,Oregon,OR,attorney general,Democratic primary results,Total,,,487934,100.0,False,False
+2020,Oregon,OR,attorney general,Republican primary results,Winning,Michael Cross,Republican,279909,96.71,True,False
+2020,Oregon,OR,attorney general,Republican primary results,Write-in,,,9537,3.29,False,False
+2020,Oregon,OR,attorney general,Republican primary results,Total,,,289446,100.0,False,False
+2020,Oregon,OR,secretary of state,Republican primary results,Winning,Kim Thatcher,Republican,312296,85.62,True,False
+2020,Oregon,OR,secretary of state,Republican primary results,Candidate,Dave Stauffer,Republican,48839,13.39,False,False
+2020,Oregon,OR,secretary of state,Republican primary results,Write-in,,,3625,0.99,False,False
+2020,Oregon,OR,secretary of state,Republican primary results,Total,,,364760,100.0,False,False
+2020,Oregon,OR,secretary of state,Democratic primary results,Winning,Shemia Fagan,Democratic,209682,36.23,True,False
+2020,Oregon,OR,secretary of state,Democratic primary results,Candidate,Mark Hass,Democratic,205230,35.46,False,False
+2020,Oregon,OR,secretary of state,Democratic primary results,Candidate,Jamie McLeod-Skinner,Democratic,159430,27.55,False,False
+2020,Oregon,OR,secretary of state,Democratic primary results,Write-in,,,4395,0.76,False,False
+2020,Oregon,OR,secretary of state,Democratic primary results,Total,,,578737,100.0,False,False
+2020,Oregon,OR,state treasurer,Democratic primary results,Write-in,,,5956,1.27,False,False
+2020,Oregon,OR,state treasurer,Democratic primary results,Total,,,470385,100.0,False,False
+2020,Oregon,OR,state treasurer,Republican primary results,Write-in,,,3223,1.04,False,False
+2020,Oregon,OR,state treasurer,Republican primary results,Total,,,308812,100.0,False,False
+2020,Pennsylvania,PA,attorney general,Democratic primary results,Total,,,1429414,100.0,False,False
+2020,Pennsylvania,PA,attorney general,Republican primary results,Candidate,Heather Heidelbaugh,Republican,1055168,100.0,False,False
+2020,Pennsylvania,PA,attorney general,Republican primary results,Total,,,1055168,100.0,False,False
+2020,Pennsylvania,PA,state treasurer,Democratic primary results,Winning,Joe Torsella,Democratic,1381763,100.0,True,True
+2020,Pennsylvania,PA,state treasurer,Democratic primary results,Total,,,1381763,100.0,False,False
+2020,Pennsylvania,PA,state treasurer,Republican primary results,Winning,Stacy Garrity,Republican,1047510,100.0,True,False
+2020,Pennsylvania,PA,state treasurer,Republican primary results,Total,,,1047510,100.0,False,False
+2020,Utah,UT,attorney general,Republican primary results,Winning,Sean Reyes,Republican,275212,54.04,True,True
+2020,Utah,UT,attorney general,Republican primary results,Candidate,David O. Leavitt,Republican,234036,45.96,False,False
+2020,Utah,UT,attorney general,Republican primary results,Total,,,509248,100.0,False,False
+2020,Utah,UT,governor,Republican primary results,Winning,Spencer Cox,Republican,190565,36.15,True,False
+2020,Utah,UT,governor,Republican primary results,Total,,,527178,100.0,False,False
+2020,Vermont,VT,governor,Republican primary results,Winning,Phil Scott,Republican,42275,72.67,True,True
+2020,Vermont,VT,governor,Republican primary results,Candidate,John Klar,Republican,12762,21.94,False,False
+2020,Vermont,VT,governor,Republican primary results,Candidate,Emily Peyton,Republican,970,1.67,False,False
+2020,Vermont,VT,governor,Republican primary results,Candidate,Douglas Cavett,Republican,966,1.66,False,False
+2020,Vermont,VT,governor,Republican primary results,Candidate,Bernard Peters,Republican,772,1.33,False,False
+2020,Vermont,VT,governor,Republican primary results,Candidate,Write-ins,Republican,426,0.73,False,False
+2020,Vermont,VT,governor,Republican primary results,Total,,,58171,100.0,False,False
+2020,Vermont,VT,governor,Democratic primary results,Winning,David Zuckerman,Democratic,48150,47.56,True,False
+2020,Vermont,VT,governor,Democratic primary results,Candidate,Rebecca Holcombe,Democratic,37599,37.14,False,False
+2020,Vermont,VT,governor,Democratic primary results,Candidate,Patrick Winburn,Democratic,7662,7.57,False,False
+2020,Vermont,VT,governor,Democratic primary results,Candidate,Ralph Corbo,Democratic,1288,1.27,False,False
+2020,Vermont,VT,governor,Democratic primary results,Candidate,Write-ins,Democratic,6533,6.45,False,False
+2020,Vermont,VT,governor,Democratic primary results,Total,,,101232,100.0,False,False
+2020,Washington,WA,attorney general,Blanket primary election results,Winning,Bob Ferguson,Democratic,1356225,55.79,True,True
+2020,Washington,WA,attorney general,Blanket primary election results,Winning,Matt Larkin,Republican,575470,23.67,True,False
+2020,Washington,WA,attorney general,Blanket primary election results,Candidate,Brett Rogers,Republican,296843,12.21,False,False
+2020,Washington,WA,attorney general,Blanket primary election results,Candidate,Mike Vaska,Republican,199826,8.22,False,False
+2020,Washington,WA,attorney general,Blanket primary election results,Write-in,,,2372,0.1,False,False
+2020,Washington,WA,attorney general,Blanket primary election results,Total,,,2430736,100.0,False,False
+2020,Washington,WA,secretary of state,Top-two primary results,Winning,Kim Wyman,Republican,1238455,50.89,True,True
+2020,Washington,WA,secretary of state,Top-two primary results,Winning,Gael Tarleton,Democratic,1053584,43.29,True,False
+2020,Washington,WA,secretary of state,Top-two primary results,Candidate,Ed Minger,Independent,87982,3.62,False,False
+2020,Washington,WA,secretary of state,Top-two primary results,Candidate,Gentry Lange,Progressive,51826,2.13,False,False
+2020,Washington,WA,secretary of state,Top-two primary results,Write-in,,,1919,0.08,False,False
+2020,Washington,WA,secretary of state,Top-two primary results,Total,,,2433766,100.0,False,False
+2020,Washington,WA,state treasurer,Blanket primary results,Winning,Mike Pellicciotti,Democratic,1279452,53.22,True,False
+2020,Washington,WA,state treasurer,Blanket primary results,Winning,Duane Davidson,Republican,1121885,46.67,True,True
+2020,Washington,WA,state treasurer,Blanket primary results,Write-in,,,2604,0.11,False,False
+2020,Washington,WA,state treasurer,Blanket primary results,Total,,,2403941,100.0,False,False
+2020,Washington,WA,governor,Top-two primary election results,Winning,Jay Inslee,Democratic,1247916,50.14,True,True
+2020,Washington,WA,governor,Top-two primary election results,Winning,Loren Culp,Republican,433238,17.41,True,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Joshua Freed,Republican,222553,8.94,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Tim Eyman,Republican,159495,6.41,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Raul Garcia,Republican,135045,5.43,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Phil Fortunato,Republican,99265,3.99,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Don L. Rivers,Democratic,25601,1.03,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Leon Lawson,Republican,23073,0.93,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Liz Hallock,Green,21537,0.87,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Cairo D'Almeida,Democratic,14657,0.59,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Anton Sakharov,Republican,13935,0.56,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Nate Herzog,Pre2016 Republican,11303,0.45,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Gene Hart,Democratic,10605,0.43,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Omari Tahir Garrett,Democratic,8751,0.35,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Ryan Ryals,Unaffiliated,6264,0.25,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Henry Clay Dennison,Workers,5970,0.24,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Goodspaceguy,Republican,5646,0.23,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Richard L. Carpenter,Republican,4962,0.2,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Elaina J. Gonzales,Independent,4772,0.19,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Matthew Murray,Republican,4489,0.18,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Thor Amundson,Independent,3638,0.15,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Bill Hirt,Republican,2854,0.11,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Martin L. Wheeler,Republican,2686,0.11,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Ian Gonzales,Republican,2537,0.1,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Joshua Wolf,New-liberty,2315,0.09,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Cregan M. Newhouse,No party preference,2291,0.09,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Brian R. Weed,No party preference,2178,0.09,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Alex Tsimerman,Standupamerica,1721,0.07,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Tylor Grow,Republican,1509,0.06,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Dylan B. Nails,Independent,1470,0.06,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Craig Campbell,Independent,1178,0.05,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,William Miller,Patriot,1148,0.05,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Cameron M. Vessey,No party preference,718,0.03,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,Winston Wilkes,Propertarianist,702,0.03,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,David W. Blomstrom,Republic,519,0.02,False,False
+2020,Washington,WA,governor,Top-two primary election results,Candidate,David Voltz,Labour,480,0.02,False,False
+2020,Washington,WA,governor,Top-two primary election results,Write-in,,,1938,0.08,False,False
+2020,Washington,WA,governor,Top-two primary election results,Total,,,2488959,100.0,False,False
+2020,West Virginia,WV,secretary of state,Republican primary results,Winning,Mac Warner,Republican,176915,100.0,True,True
+2020,West Virginia,WV,secretary of state,Republican primary results,Total,,,176915,100.0,False,False
+2020,West Virginia,WV,secretary of state,Democratic primary results,Winning,Natalie Tennant,Democratic,175600,100.0,True,False
+2020,West Virginia,WV,secretary of state,Democratic primary results,Total,,,175600,100.0,False,False
+2020,West Virginia,WV,state treasurer,Democratic primary results,Winning,John Perdue,Democratic,170519,100.0,True,True
+2020,West Virginia,WV,state treasurer,Democratic primary results,Total,,,170519,100.0,False,False
+2020,West Virginia,WV,state treasurer,Republican primary results,Winning,Riley Moore,Republican,166977,100.0,True,False
+2020,West Virginia,WV,state treasurer,Republican primary results,Total,,,166977,100.0,False,False
+2020,West Virginia,WV,governor,Republican primary results,Winning,Jim Justice,Republican,133258,62.7,True,True
+2020,West Virginia,WV,governor,Republican primary results,Candidate,Woody Thrasher,Republican,38898,18.3,False,False
+2020,West Virginia,WV,governor,Republican primary results,Candidate,Michael Folk,Republican,26735,12.58,False,False
+2020,West Virginia,WV,governor,Republican primary results,Candidate,Doug Six,Republican,4429,2.08,False,False
+2020,West Virginia,WV,governor,Republican primary results,Candidate,Brooke Lunsford,Republican,3849,1.81,False,False
+2020,West Virginia,WV,governor,Republican primary results,Candidate,Shelly Jean Fitzhugh,Republican,2799,1.32,False,False
+2020,West Virginia,WV,governor,Republican primary results,Candidate,Chuck Sheedy,Republican,2552,1.2,False,False
+2020,West Virginia,WV,governor,Republican primary results,Total,,,212520,100.0,False,False
+2020,West Virginia,WV,governor,Democratic primary results,Winning,Ben Salango,Democratic,74805,38.68,True,False
+2020,West Virginia,WV,governor,Democratic primary results,Candidate,Stephen Smith,Democratic,65544,33.89,False,False
+2020,West Virginia,WV,governor,Democratic primary results,Candidate,Ron Stollings,Democratic,25782,13.33,False,False
+2020,West Virginia,WV,governor,Democratic primary results,Total,,,193401,100.0,False,False
