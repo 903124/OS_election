@@ -146,6 +146,16 @@ def build_parser() -> argparse.ArgumentParser:
     sub.choices["senate"].add_argument("--include-off-years", **off_year_flag)
     sub.choices["house"].add_argument("--include-off-years", **off_year_flag)
 
+    sub.choices["house"].add_argument(
+        "--include-votes", action=argparse.BooleanOptionalAction, default=True,
+        help="Fetch each year's per-state race articles and merge their "
+             "election-box vote counts onto the results (votes per "
+             "candidate, total_votes per race; empty where no article/box "
+             "exists). Default: on; disable with --no-include-votes to "
+             "skip the extra per-state article fetches — the columns are "
+             "still emitted, empty, so the schema stays stable.",
+    )
+
     sub.add_parser(
         "state-leg", parents=[common],
         help="Parse state legislature results (year range)",
@@ -346,6 +356,7 @@ def main(argv: Optional[List[str]] = None) -> int:
             out_dir=args.output,
             client=client,
             include_off_years=getattr(args, "include_off_years", True),
+            include_votes=getattr(args, "include_votes", True),
         )
 
     if args.command in ("state-leg", "all"):

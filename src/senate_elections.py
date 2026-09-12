@@ -190,6 +190,58 @@ _SKIP_HEADERS = ("poll source", "source", "date", "sample", "margin", "other",
 
 _DASH_CHARS = ("-", "–", "—")
 
+#: Plausibility bounds for a margin of error in percentage points.  The
+#: largest MoE observed in real polling tables is ~11%; anything above 20
+#: points cannot come from a real poll and indicates a mis-aligned cell
+#: (a sample size like '450 (LV)' or a candidate pct that shifted columns).
+_MOE_MAX_PCT = 20.0
+
+_MOE_NUMBER_RE = re.compile(r"\d+(?:\.\d+)?")
+#: '2% – 4' / '2 – 4' — a reported MoE *range* has no single value
+_MOE_RANGE_RE = re.compile(r"\d\s*%?\s*[-–—]\s*\.?\d")
+#: parenthetical qualifier or range — '(LV)', '(RV)', '(2% – 4%)'
+_MOE_PAREN_RE = re.compile(r"\([^)]{1,24}\)")
+
+
+def _parse_moe_value(raw) -> Optional[float]:
+    """
+    Parse a raw polling-table MoE cell into a numeric margin of error.
+
+    '±3.7%' / '± 5.0%' / '± 5%' / '+ 3.29%' / '3.42%' → 3.7 / 5.0 / 5.0 / 3.29 / 3.42
+    '± -3.1' → 3.1 (sign typo); '± 3.79.%' → 3.79 (source typo)
+
+    Non-numeric or unusable cells → None (empty in the CSV):
+      dashes ('–'), '± n/a%', '±n/a', '± nil', 'rowspan=2' markup,
+      sample sizes leaked from a mis-aligned cell ('450 (LV)', '500 (RV)'),
+      MoE ranges ('± (2% – 4%)') and implausible values (> 20 points).
+    """
+    if raw is None:
+        return None
+    try:
+        if pd.isna(raw):
+            return None
+    except (TypeError, ValueError):
+        pass
+    s = str(raw).strip()
+    if not s or s in _DASH_CHARS:
+        return None
+    low = s.lower()
+    if any(t in low for t in ("n/a", "na%", "nil", "rowspan", "?", "unknown")):
+        return None
+    if _MOE_PAREN_RE.search(s) or _MOE_RANGE_RE.search(s):
+        return None
+    m = _MOE_NUMBER_RE.search(s)
+    if not m:
+        return None
+    try:
+        val = abs(float(m.group(0)))
+    except ValueError:
+        return None
+    if val <= 0 or val > _MOE_MAX_PCT:
+        return None
+    return round(val, 2)
+
+
 #: leading cell attributes like style="..." / colspan="2" (possibly several)
 _ATTR_RE = re.compile(r"^\s*(?:[a-zA-Z-]+\s*=\s*\"[^\"]*\"\s*)+")
 
@@ -674,6 +726,11 @@ def wide_to_long_polls(
     Long format columns:
         State, Primary_Type, Poll_Source, Date, Sample, MoE,
         Candidate, Party, Pct, Incumbent
+
+    ``MoE`` is emitted as a numeric margin of error in percentage points
+    (see :func:`_parse_moe_value`): the raw cell text ('± 4.3%') is parsed
+    to ``4.3`` and unusable cells (dashes, 'n/a', leaked sample sizes,
+    MoE ranges) become empty.
     """
     if df_wide.empty:
         return pd.DataFrame()
@@ -734,6 +791,8 @@ def wide_to_long_polls(
     df_long = df_long.dropna(subset=["Pct"])
     if "MoE" in df_long.columns:
         df_long["MoE"] = df_long["MoE"].replace(_MISSING, pd.NA)
+        # numeric margin of error in percentage points — unusable cells → NA
+        df_long["MoE"] = df_long["MoE"].map(_parse_moe_value)
     if "Sample" in df_long.columns:
         df_long["Sample"] = df_long["Sample"].replace(_MISSING, pd.NA)
 
