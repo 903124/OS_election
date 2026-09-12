@@ -1,0 +1,27 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1995,Kentucky,KY,governor,1995 Kentucky gubernatorial election,Winning,Paul E. Patton,Democratic,500605,50.88,True,False
+1995,Kentucky,KY,governor,1995 Kentucky gubernatorial election,Candidate,Larry Forgy,Republican,479227,48.71,False,False
+1995,Kentucky,KY,governor,1995 Kentucky gubernatorial election,Candidate,Gatewood Galbraith,Write-in,3965,0.4,False,False
+1995,Kentucky,KY,governor,1995 Kentucky gubernatorial election,Total,,,983797,100.0,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Winning,Mike Foster,Republican,385267,26.1,True,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Winning,Cleo Fields,Democratic,280921,19.03,True,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Mary Landrieu,Democratic,271938,18.43,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Buddy Roemer,Republican,263330,17.84,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Phil Preis,Democratic,133271,9.03,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Melinda Schwegmann,Democratic,71288,4.83,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Robert Adley,Democratic,27534,1.87,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,"Arthur D. ""Jim"" Nichols",Independent,16616,1.13,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Gene H. Alexander,Democratic,5688,0.39,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Kenneth Woods,Independent,4964,0.34,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Darryl Paul Ward,Independent,4210,0.29,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Belinda Alexandrenko,Democratic,3161,0.21,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Lonnie Creech,Independent,2338,0.16,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Ronnie Glynn Johnson,Independent,1884,0.13,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Candidate,Anne Thompson,Independent,1416,0.1,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election jungle primary, 1995",Total,,,1473826,100.0,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 1995",Winning,Mike Foster,Republican,984499,63.5,True,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 1995",Candidate,Cleo Fields,Democratic,565861,36.5,False,False
+1995,Louisiana,LA,governor,"Louisiana gubernatorial election runoff, 1995",Total,,,1550360,100.0,False,False
+1995,Mississippi,MS,governor,"Mississippi gubernatorial election, 1995",Winning,Kirk Fordice,Republican,455261,55.56,True,True
+1995,Mississippi,MS,governor,"Mississippi gubernatorial election, 1995",Candidate,Dick Molpus,Democratic,364210,44.44,False,False
+1995,Mississippi,MS,governor,"Mississippi gubernatorial election, 1995",Total,,,819471,100.0,False,False

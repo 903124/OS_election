@@ -26,7 +26,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Illinois (special),Republican primary,Primary,Candidate,False,Republican Party (United States),Frank L. Smith,"355,356",36.74
 1928,Illinois (special),Republican primary,Primary,Candidate,False,Write-in,Others,3,0.00
 1928,Illinois (special),Republican primary,Primary,Total,False,,,"967,256",100
-1928,Maine,1928 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Frederick Hale,"77,830",63.61%
+1928,Maine,1928 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (United States),Frederick Hale,"77,830",63.61%
 1928,Maine,1928 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Owen Brewster,"44,524",36.39%
 1928,Maine,1928 Republican U.S. Senate primary,Primary,Total,False,,,"122,354",100.00%
 1928,Maine,1928 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),Herbert E. Holmes,"8,927",99.32%
@@ -90,7 +90,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,North Dakota,Republican primary results,Primary,Candidate,False,Republican Party (United States),C. P. Stone,"10,247",5.55%
 1928,North Dakota,Republican primary results,Primary,Candidate,False,Republican Party (United States),Herman N. Midtbo,"1,685",0.91%
 1928,North Dakota,Republican primary results,Primary,Total,False,,,"184,729",100.00%
-1928,Tennessee,1928 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Kenneth McKellar,"120,298",63.25%
+1928,Tennessee,1928 Democratic Senate primary,Primary,Winning,True,Democratic Party (United States),Kenneth McKellar,"120,298",63.25%
 1928,Tennessee,1928 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Finis James Garrett,"64,470",33.90%
 1928,Tennessee,1928 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),John Randolph Neal Jr.,"3,510",1.85%
 1928,Tennessee,1928 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),George L. Casey,"1,908",1.00%

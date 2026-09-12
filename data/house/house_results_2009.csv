@@ -1,48 +1,48 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2009,house,California,CA,10,John Garamendi,Democratic,25.7,False,False,True
-2009,house,California,CA,10,David Harmer,Republican,21.05,False,False,True
-2009,house,California,CA,10,Mark DeSaulnier,Democratic,17.6,False,False,True
-2009,house,California,CA,10,Joan Buchanan,Democratic,12.02,False,False,True
-2009,house,California,CA,10,Anthony Woods,Democratic,8.75,False,False,True
-2009,house,California,CA,10,Chris Bunch,Republican,4.54,False,False,True
-2009,house,California,CA,10,Gary Clift,Republican,3.88,False,False,True
-2009,house,California,CA,10,John Toth,Republican,3.11,False,False,True
-2009,house,California,CA,10,David Peterson,Republican,1.56,False,False,True
-2009,house,California,CA,10,Jeremy Cloward,Green,0.51,False,False,True
-2009,house,California,CA,10,Mark Loos,Republican,0.39,False,False,True
-2009,house,California,CA,10,Adriel Hampton,Democratic,0.35,False,False,True
-2009,house,California,CA,10,Jerome Denham,Independent,0.29,False,False,True
-2009,house,California,CA,10,Mary McIlroy,Freedom,0.25,False,False,True
-2009,house,California,CA,10,Tiffany Attwood (write-in),Democratic,0.0,False,False,True
-2009,house,California,CA,32,Judy Chu,Democratic Party (california),61.8,True,False,True
-2009,house,California,CA,32,Betty Chu,Republican Party (california),33.0,False,False,True
-2009,house,California,CA,32,Christopher Agrella,Libertarian Party (california),5.2,False,False,True
-2009,house,California,CA,32,Eleanor Garcia (write-in),Independent,0.0,False,False,True
-2009,house,Illinois,IL,5,Mike Quigley,Democratic,69.2,True,False,True
-2009,house,Illinois,IL,5,Rosanna Pulido,Republican,24.2,False,False,True
-2009,house,Illinois,IL,5,Matt Reichel,Green,6.6,False,False,True
-2009,house,Illinois,IL,5,John Fritchey,Democratic,18.0,False,False,True
-2009,house,Illinois,IL,5,Sara Feigenholtz,Democratic,17.0,False,False,True
-2009,house,Illinois,IL,5,Victor Forys,Democratic,12.0,False,False,True
-2009,house,Illinois,IL,5,Patrick J. O'Connor,Democratic,12.0,False,False,True
-2009,house,Illinois,IL,5,Charles Wheelan,Democratic,7.0,False,False,True
-2009,house,Illinois,IL,5,Tom Geoghegan,Democratic,6.0,False,False,True
-2009,house,Illinois,IL,5,Paul Bryar,Democratic,2.0,False,False,True
-2009,house,Illinois,IL,5,Jan Donatelli,Democratic,2.0,False,False,True
-2009,house,Illinois,IL,5,Frank Annunzio,Democratic,1.0,False,False,True
-2009,house,Illinois,IL,5,Cary Capparelli,Democratic,1.0,False,False,True
-2009,house,Illinois,IL,5,Carlos Monteagudo,Democratic,1.0,False,False,True
-2009,house,Illinois,IL,5,Tom Hanson,Republican,21.0,False,False,True
-2009,house,Illinois,IL,5,David Anderson,Republican,18.0,False,False,True
-2009,house,Illinois,IL,5,Gregory Bedell,Republican,17.0,False,False,True
-2009,house,Illinois,IL,5,Daniel Kay,Republican,10.0,False,False,True
-2009,house,Illinois,IL,5,Jon Stewart,Republican,9.0,False,False,True
-2009,house,Illinois,IL,5,Deb Gordils,Green,32.0,False,False,True
-2009,house,Illinois,IL,5,Mark Fredrickson,Green,14.0,False,False,True
-2009,house,Illinois,IL,5,Alan Augustson,Green,13.0,False,False,True
-2009,house,Illinois,IL,5,Simon Ribeiro,Green,8.0,False,False,True
-2009,house,New York,NY,20,Scott Murphy,New York State Democratic Committee,,False,False,True
-2009,house,New York,NY,20,Jim Tedisco,New York Republican State Committee,,False,False,True
-2009,house,New York,NY,23,Bill Owens,Democratic,,False,False,True
-2009,house,New York,NY,23,Doug Hoffman,Conservative,46.0,False,False,True
-2009,house,New York,NY,23,Dede Scozzafava,Republican,,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2009,house,California,CA,10,107303,John Garamendi,Democratic,27580,25.7,False,False,True
+2009,house,California,CA,10,107303,David Harmer,Republican,22582,21.05,False,False,True
+2009,house,California,CA,10,107303,Mark DeSaulnier,Democratic,18888,17.6,False,False,True
+2009,house,California,CA,10,107303,Joan Buchanan,Democratic,12896,12.02,False,False,True
+2009,house,California,CA,10,107303,Anthony Woods,Democratic,9388,8.75,False,False,True
+2009,house,California,CA,10,107303,Chris Bunch,Republican,4871,4.54,False,False,True
+2009,house,California,CA,10,107303,Gary Clift,Republican,4158,3.88,False,False,True
+2009,house,California,CA,10,107303,John Toth,Republican,3340,3.11,False,False,True
+2009,house,California,CA,10,107303,David Peterson,Republican,1671,1.56,False,False,True
+2009,house,California,CA,10,107303,Jeremy Cloward,Green,552,0.51,False,False,True
+2009,house,California,CA,10,107303,Mark Loos,Republican,418,0.39,False,False,True
+2009,house,California,CA,10,107303,Adriel Hampton,Democratic,376,0.35,False,False,True
+2009,house,California,CA,10,107303,Jerome Denham,Independent,309,0.29,False,False,True
+2009,house,California,CA,10,107303,Mary McIlroy,Freedom,272,0.25,False,False,True
+2009,house,California,CA,10,107303,Tiffany Attwood (write-in),Democratic,2,0.0,False,False,True
+2009,house,California,CA,32,26182,Judy Chu,Democratic Party (california),16194,61.8,True,False,True
+2009,house,California,CA,32,26182,Betty Chu,Republican Party (california),8630,33.0,False,False,True
+2009,house,California,CA,32,26182,Christopher Agrella,Libertarian Party (california),1356,5.2,False,False,True
+2009,house,California,CA,32,26182,Eleanor Garcia (write-in),Independent,2,0.0,False,False,True
+2009,house,Illinois,IL,5,44134,Mike Quigley,Democratic,30561,69.2,True,False,True
+2009,house,Illinois,IL,5,44134,Rosanna Pulido,Republican,10662,24.2,False,False,True
+2009,house,Illinois,IL,5,44134,Matt Reichel,Green,2911,6.6,False,False,True
+2009,house,Illinois,IL,5,54856,John Fritchey,Democratic,9813,18.0,False,False,True
+2009,house,Illinois,IL,5,54856,Sara Feigenholtz,Democratic,9166,17.0,False,False,True
+2009,house,Illinois,IL,5,54856,Victor Forys,Democratic,6415,12.0,False,False,True
+2009,house,Illinois,IL,5,54856,Patrick J. O'Connor,Democratic,6371,12.0,False,False,True
+2009,house,Illinois,IL,5,54856,Charles Wheelan,Democratic,3672,7.0,False,False,True
+2009,house,Illinois,IL,5,54856,Tom Geoghegan,Democratic,3336,6.0,False,False,True
+2009,house,Illinois,IL,5,54856,Paul Bryar,Democratic,1111,2.0,False,False,True
+2009,house,Illinois,IL,5,54856,Jan Donatelli,Democratic,890,2.0,False,False,True
+2009,house,Illinois,IL,5,54856,Frank Annunzio,Democratic,750,1.0,False,False,True
+2009,house,Illinois,IL,5,54856,Cary Capparelli,Democratic,713,1.0,False,False,True
+2009,house,Illinois,IL,5,54856,Carlos Monteagudo,Democratic,519,1.0,False,False,True
+2009,house,Illinois,IL,5,3977,Tom Hanson,Republican,855,21.0,False,False,True
+2009,house,Illinois,IL,5,3977,David Anderson,Republican,711,18.0,False,False,True
+2009,house,Illinois,IL,5,3977,Gregory Bedell,Republican,663,17.0,False,False,True
+2009,house,Illinois,IL,5,3977,Daniel Kay,Republican,379,10.0,False,False,True
+2009,house,Illinois,IL,5,3977,Jon Stewart,Republican,368,9.0,False,False,True
+2009,house,Illinois,IL,5,491,Deb Gordils,Green,155,32.0,False,False,True
+2009,house,Illinois,IL,5,491,Mark Fredrickson,Green,71,14.0,False,False,True
+2009,house,Illinois,IL,5,491,Alan Augustson,Green,62,13.0,False,False,True
+2009,house,Illinois,IL,5,491,Simon Ribeiro,Green,37,8.0,False,False,True
+2009,house,New York,NY,20,139015,Scott Murphy,New York State Democratic Committee,70240,,False,False,True
+2009,house,New York,NY,20,139015,Jim Tedisco,New York Republican State Committee,68775,,False,False,True
+2009,house,New York,NY,23,143361,Bill Owens,Democratic,66548,,False,False,True
+2009,house,New York,NY,23,143361,Doug Hoffman,Conservative,69553,46.0,False,False,True
+2009,house,New York,NY,23,143361,Dede Scozzafava,Republican,7260,,False,False,True

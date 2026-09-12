@@ -1,70 +1,867 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-1956,house,California,CA,1,Hubert B. Scudder,Republican,53.6,True,True,False
-1956,house,California,CA,1,Clem Miller,Democratic,46.4,False,False,False
-1956,house,California,CA,2,Clair Engle,Democratic,100.0,True,True,False
-1956,house,California,CA,3,John E. Moss,Democratic,68.6,True,True,False
-1956,house,California,CA,3,Noel C. Stevenson,Republican,31.4,False,False,False
-1956,house,California,CA,4,William S. Mailliard,Republican,61.9,True,True,False
-1956,house,California,CA,4,James L. Quigley,Democratic,38.1,False,False,False
-1956,house,California,CA,5,John F. Shelley,Democratic,100.0,True,True,False
-1956,house,California,CA,6,John F. Baldwin Jr.,Republican,53.7,True,True,False
-1956,house,California,CA,6,H. Roberts Quinney,Democratic,46.3,False,False,False
-1956,house,California,CA,7,John J. Allen Jr.,Republican,52.8,True,True,False
-1956,house,California,CA,7,Laurance L. Cross,Democratic,47.2,False,False,False
-1956,house,California,CA,8,George P. Miller,Democratic,65.6,True,True,False
-1956,house,California,CA,8,Robert Lee Watkins,Republican,34.4,False,False,False
-1956,house,California,CA,9,J. Arthur Younger,Republican,60.3,True,True,False
-1956,house,California,CA,9,James T. McKay,Democratic,39.7,False,False,False
-1956,house,California,CA,10,Charles Gubser,Republican,60.7,True,True,False
-1956,house,California,CA,10,William H. Vatcher Jr.,Democratic,39.3,False,False,False
-1956,house,California,CA,11,John J. McFall,Democratic,53.1,True,False,False
-1956,house,California,CA,11,J. Leroy Johnson,Republican,46.9,False,True,False
-1956,house,California,CA,12,B. F. Sisk,Democratic,73.0,True,True,False
-1956,house,California,CA,12,Robert B. Moore,Republican,27.0,False,False,False
-1956,house,California,CA,13,Charles M. Teague,Republican,59.6,True,True,False
-1956,house,California,CA,13,William Kirk Stewart,Democratic,40.4,False,False,False
-1956,house,California,CA,14,Harlan Hagen,Democratic,63.0,True,True,False
-1956,house,California,CA,14,Myron D. Tisdel,Republican,37.0,False,False,False
-1956,house,California,CA,15,Gordon L. McDonough,Republican,57.9,True,True,False
-1956,house,California,CA,15,Emery S. Petty,Democratic,42.1,False,False,False
-1956,house,California,CA,16,Donald L. Jackson,Republican,60.8,True,True,False
-1956,house,California,CA,16,G. Robert Fleming,Democratic,39.2,False,False,False
-1956,house,California,CA,17,Cecil R. King,Democratic,64.9,True,True,False
-1956,house,California,CA,17,Charles A. Franklin,Republican,35.1,False,False,False
-1956,house,California,CA,18,Craig Hosmer,Republican,59.3,True,True,False
-1956,house,California,CA,18,Raymond C. Simpson,Democratic,40.7,False,False,False
-1956,house,California,CA,19,Chet Holifield,Democratic,73.8,True,True,False
-1956,house,California,CA,19,Roy E. Reynolds,Republican,26.2,False,False,False
-1956,house,California,CA,20,H. Allen Smith,Republican,70.8,True,False,True
-1956,house,California,CA,20,Eugene Radding,Democratic,29.2,False,False,True
-1956,house,California,CA,21,Edgar W. Hiestand,Republican,62.6,True,True,False
-1956,house,California,CA,21,W. C. Stethem,Democratic,37.4,False,False,False
-1956,house,California,CA,22,Joseph F. Holt,Republican,59.8,True,True,False
-1956,house,California,CA,22,Irving Glasband,Democratic,40.2,False,False,False
-1956,house,California,CA,23,Clyde Doyle,Democratic,70.9,True,True,False
-1956,house,California,CA,23,E. Elgie Calvin,Republican,29.1,False,False,False
-1956,house,California,CA,24,Glenard P. Lipscomb,Republican,61.9,True,True,False
-1956,house,California,CA,24,Fay Porter,Democratic,38.1,False,False,False
-1956,house,California,CA,25,Patrick J. Hillings,Republican,63.8,True,True,False
-1956,house,California,CA,25,John G. Sobieski,Democratic,36.2,False,False,False
-1956,house,California,CA,26,James Roosevelt,Democratic,68.8,True,True,False
-1956,house,California,CA,26,Edward H. Gibbons,Republican,31.2,False,False,False
-1956,house,California,CA,27,Harry R. Sheppard,Democratic,100.0,True,True,False
-1956,house,California,CA,28,James B. Utt,Republican,64.5,True,True,False
-1956,house,California,CA,28,Gordon T. Shepard,Democratic,35.5,False,False,False
-1956,house,California,CA,29,Dalip Singh Saund,Democratic,51.5,True,False,True
-1956,house,California,CA,29,Jacqueline Cochran Odlum,Republican,48.5,False,False,True
-1956,house,California,CA,30,Bob Wilson,Republican,66.7,True,True,False
-1956,house,California,CA,30,George A. Cheney,Democratic,33.3,False,False,False
-1956,house,South Carolina,SC,1,L. Mendel Rivers,Democratic,100.0,True,True,False
-1956,house,South Carolina,SC,2,John J. Riley,Democratic,100.0,True,True,False
-1956,house,South Carolina,SC,3,William Jennings Bryan Dorn,Democratic,93.2,True,True,True
-1956,house,South Carolina,SC,3,Maka Knox,Republican,6.8,False,False,True
-1956,house,South Carolina,SC,4,Robert T. Ashmore,Democratic,85.1,True,True,False
-1956,house,South Carolina,SC,4,Dan H. Wallace Jr.,Republican,14.9,False,False,False
-1956,house,South Carolina,SC,5,Robert W. Hemphill,Democratic,100.0,True,False,True
-1956,house,South Carolina,SC,6,John L. McMillan,Democratic,100.0,True,True,False
-1956,house,Alaska,AK,AL,Bob Bartlett,Democratic,67.0,True,True,False
-1956,house,Alaska,AK,AL,Byron A. Gillam,Republican,33.0,False,False,False
-1956,house,Hawaii,HI,AL,John A. Burns,Democratic,55.18,True,False,False
-1956,house,Hawaii,HI,AL,Elizabeth P. Farrington,Republican,44.82,False,True,False
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+1956,house,Alabama,AL,1,,Frank W. Boykin,Democratic,,100.0,True,True,False
+1956,house,Alabama,AL,2,,George M. Grant,Democratic,,100.0,True,True,False
+1956,house,Alabama,AL,3,,George W. Andrews,Democratic,,100.0,True,True,False
+1956,house,Alabama,AL,4,,Kenneth A. Roberts,Democratic,,73.4,True,True,False
+1956,house,Alabama,AL,4,,Roy Banks,Republican,,26.6,False,False,False
+1956,house,Alabama,AL,5,,Albert Rains,Democratic,,100.0,True,True,False
+1956,house,Alabama,AL,6,,Armistead Selden,Democratic,,100.0,True,True,False
+1956,house,Alabama,AL,7,,Carl Elliott,Democratic,,100.0,True,True,False
+1956,house,Alabama,AL,8,,Robert E. Jones Jr.,Democratic,,80.7,True,True,False
+1956,house,Alabama,AL,8,,J. G. Fortney,Republican,,19.3,False,False,False
+1956,house,Alabama,AL,9,,George Huddleston Jr.,Democratic,,65.9,True,True,False
+1956,house,Alabama,AL,9,,William L. Longshore Jr.,Republican,,34.1,False,False,False
+1956,house,Arizona,AZ,1,,John Jacob Rhodes,Republican,,54.9,True,True,False
+1956,house,Arizona,AZ,1,,William P. Mahoney,Democratic,,45.1,False,False,False
+1956,house,Arizona,AZ,2,,Stewart Udall,Democratic,,60.1,True,True,False
+1956,house,Arizona,AZ,2,,Jack Speiden,Republican,,39.9,False,False,False
+1956,house,Arkansas,AR,1,,Ezekiel C. Gathings,Democratic,,100.0,True,True,False
+1956,house,Arkansas,AR,2,,Wilbur Mills,Democratic,,100.0,True,True,False
+1956,house,Arkansas,AR,3,,James William Trimble,Democratic,,61.3,True,True,False
+1956,house,Arkansas,AR,3,,William S. Spicer,Republican,,38.7,False,False,False
+1956,house,Arkansas,AR,4,,Oren Harris,Democratic,,100.0,True,True,False
+1956,house,Arkansas,AR,5,,Brooks Hays,Democratic,,100.0,True,True,False
+1956,house,Arkansas,AR,6,,William F. Norrell,Democratic,,100.0,True,True,False
+1956,house,California,CA,1,191566,Hubert B. Scudder,Republican,102604,53.6,True,True,False
+1956,house,California,CA,1,191566,Clem Miller,Democratic,,46.4,False,False,False
+1956,house,California,CA,2,136544,Clair Engle,Democratic,136544,100.0,True,True,False
+1956,house,California,CA,3,193819,John E. Moss,Democratic,132930,68.6,True,True,False
+1956,house,California,CA,3,193819,Noel C. Stevenson,Republican,60889,31.4,False,False,False
+1956,house,California,CA,4,176320,William S. Mailliard,Republican,109188,61.9,True,True,False
+1956,house,California,CA,4,176320,James L. Quigley,Democratic,67132,38.1,False,False,False
+1956,house,California,CA,5,104358,John F. Shelley,Democratic,104358,100.0,True,True,False
+1956,house,California,CA,6,183648,John F. Baldwin Jr.,Republican,98683,53.7,True,True,False
+1956,house,California,CA,6,183648,H. Roberts Quinney,Democratic,84965,46.3,False,False,False
+1956,house,California,CA,7,143863,John J. Allen Jr.,Republican,75932,52.8,True,True,False
+1956,house,California,CA,7,143863,Laurance L. Cross,Democratic,67931,47.2,False,False,False
+1956,house,California,CA,8,208420,George P. Miller,Democratic,136720,65.6,True,True,False
+1956,house,California,CA,8,208420,Robert Lee Watkins,Republican,71700,34.4,False,False,False
+1956,house,California,CA,9,159892,J. Arthur Younger,Republican,96388,60.3,True,True,False
+1956,house,California,CA,9,159892,James T. McKay,Democratic,63504,39.7,False,False,False
+1956,house,California,CA,10,212477,Charles Gubser,Republican,,60.7,True,True,False
+1956,house,California,CA,10,212477,William H. Vatcher Jr.,Democratic,,39.3,False,False,False
+1956,house,California,CA,11,133078,John J. McFall,Democratic,70630,53.1,True,False,False
+1956,house,California,CA,11,133078,J. Leroy Johnson,Republican,,46.9,False,True,False
+1956,house,California,CA,12,150583,B. F. Sisk,Democratic,,73.0,True,True,False
+1956,house,California,CA,12,150583,Robert B. Moore,Republican,40663,27.0,False,False,False
+1956,house,California,CA,13,174576,Charles M. Teague,Republican,104009,59.6,True,True,False
+1956,house,California,CA,13,174576,William Kirk Stewart,Democratic,70567,40.4,False,False,False
+1956,house,California,CA,14,149970,Harlan Hagen,Democratic,94461,63.0,True,True,False
+1956,house,California,CA,14,149970,Myron D. Tisdel,Republican,,37.0,False,False,False
+1956,house,California,CA,15,167863,Gordon L. McDonough,Republican,97182,57.9,True,True,False
+1956,house,California,CA,15,167863,Emery S. Petty,Democratic,70681,42.1,False,False,False
+1956,house,California,CA,16,137674,Donald L. Jackson,Republican,84050,60.8,True,True,False
+1956,house,California,CA,16,137674,G. Robert Fleming,Democratic,,39.2,False,False,False
+1956,house,California,CA,17,242170,Cecil R. King,Democratic,157270,64.9,True,True,False
+1956,house,California,CA,17,242170,Charles A. Franklin,Republican,84900,35.1,False,False,False
+1956,house,California,CA,18,174019,Craig Hosmer,Republican,103108,59.3,True,True,False
+1956,house,California,CA,18,174019,Raymond C. Simpson,Democratic,,40.7,False,False,False
+1956,house,California,CA,19,157556,Chet Holifield,Democratic,116287,73.8,True,True,False
+1956,house,California,CA,19,157556,Roy E. Reynolds,Republican,41269,26.2,False,False,False
+1956,house,California,CA,20,120708,H. Allen Smith,Republican,85459,70.8,True,False,True
+1956,house,California,CA,20,120708,Eugene Radding,Democratic,35249,29.2,False,False,True
+1956,house,California,CA,21,245362,Edgar W. Hiestand,Republican,153679,62.6,True,True,False
+1956,house,California,CA,21,245362,W. C. Stethem,Democratic,,37.4,False,False,False
+1956,house,California,CA,22,162631,Joseph F. Holt,Republican,97317,59.8,True,True,False
+1956,house,California,CA,22,162631,Irving Glasband,Democratic,65314,40.2,False,False,False
+1956,house,California,CA,23,169207,Clyde Doyle,Democratic,120109,70.9,True,True,False
+1956,house,California,CA,23,169207,E. Elgie Calvin,Republican,,29.1,False,False,False
+1956,house,California,CA,24,135812,Glenard P. Lipscomb,Republican,84120,61.9,True,True,False
+1956,house,California,CA,24,135812,Fay Porter,Democratic,51692,38.1,False,False,False
+1956,house,California,CA,25,260485,Patrick J. Hillings,Republican,166305,63.8,True,True,False
+1956,house,California,CA,25,260485,John G. Sobieski,Democratic,,36.2,False,False,False
+1956,house,California,CA,26,193266,James Roosevelt,Democratic,133036,68.8,True,True,False
+1956,house,California,CA,26,193266,Edward H. Gibbons,Republican,60230,31.2,False,False,False
+1956,house,California,CA,27,124662,Harry R. Sheppard,Democratic,124662,100.0,True,True,False
+1956,house,California,CA,28,247147,James B. Utt,Republican,159456,64.5,True,True,False
+1956,house,California,CA,28,247147,Gordon T. Shepard,Democratic,87691,35.5,False,False,False
+1956,house,California,CA,29,106679,Dalip Singh Saund,Democratic,54989,51.5,True,False,True
+1956,house,California,CA,29,106679,Jacqueline Cochran Odlum,Republican,51690,48.5,False,False,True
+1956,house,California,CA,30,213865,Bob Wilson,Republican,142753,66.7,True,True,False
+1956,house,California,CA,30,213865,George A. Cheney,Democratic,71112,33.3,False,False,False
+1956,house,Colorado,CO,1,,Byron G. Rogers,Democratic,,57.8,True,True,False
+1956,house,Colorado,CO,1,,Ellen G. Harris,Republican,,42.2,False,False,False
+1956,house,Colorado,CO,2,,William S. Hill,Republican,,53.4,True,True,False
+1956,house,Colorado,CO,2,,Byron L. Johnson,Democratic,,46.6,False,False,False
+1956,house,Colorado,CO,3,,John Chenoweth,Republican,,50.2,True,True,False
+1956,house,Colorado,CO,3,,Alva B. Adams,Democratic,,49.8,False,False,False
+1956,house,Colorado,CO,4,,Wayne N. Aspinall,Democratic,,61.8,True,True,False
+1956,house,Colorado,CO,4,,Hugh L. Caldwell,Republican,,38.2,False,False,False
+1956,house,Connecticut,CT,1,,Edwin H. May Jr.,Republican,,53.5,True,False,True
+1956,house,Connecticut,CT,1,,Patrick J. Ward,Democratic,,46.1,False,False,True
+1956,house,Connecticut,CT,1,,Donald B. LaCroix,Independent Republican,,0.4,False,False,True
+1956,house,Connecticut,CT,2,,Horace Seely-Brown Jr.,Republican,,59.0,True,True,False
+1956,house,Connecticut,CT,2,,Douglas J. Bennet,Democratic,,41.0,False,False,False
+1956,house,Connecticut,CT,3,,Albert W. Cretella,Republican,,60.0,True,True,False
+1956,house,Connecticut,CT,3,,Robert Giaimo,Democratic,,40.0,False,False,False
+1956,house,Connecticut,CT,4,,Albert P. Morano,Republican,,68.4,True,True,False
+1956,house,Connecticut,CT,4,,Jack Stock,Democratic,,31.1,False,False,False
+1956,house,Connecticut,CT,4,,Harold Saunders,Socialist Party of America,,0.5,False,False,False
+1956,house,Connecticut,CT,5,,James T. Patterson,Republican,,61.9,True,True,False
+1956,house,Connecticut,CT,5,,Luke F. Martin,Democratic,,38.1,False,False,False
+1956,house,Connecticut,CT,AL,,Antoni Sadlak,Republican,,61.5,True,True,False
+1956,house,Connecticut,CT,AL,,Matthew P. Kuta,Democratic,,38.5,False,False,False
+1956,house,Delaware,DE,AL,,Harry G. Haskell Jr.,Republican,,52.0,True,False,False
+1956,house,Delaware,DE,AL,,Harris McDowell,Democratic,,48.0,False,True,False
+1956,house,Florida,FL,1,,William C. Cramer,Republican,,56.4,True,True,False
+1956,house,Florida,FL,1,,Winton H. King,Democratic,,43.6,False,False,False
+1956,house,Florida,FL,2,,Charles E. Bennett,Democratic,,100.0,True,True,False
+1956,house,Florida,FL,3,,Bob Sikes,Democratic,,89.6,True,True,True
+1956,house,Florida,FL,3,,Arthur Barker,Republican,,10.4,False,False,True
+1956,house,Florida,FL,4,,Dante Fascell,Democratic,,60.9,True,True,False
+1956,house,Florida,FL,4,,Leland Hyzer,Republican,,39.1,False,False,False
+1956,house,Florida,FL,5,,Syd Herlong,Democratic,,51.4,True,True,False
+1956,house,Florida,FL,5,,Arnold L. Lund,Republican,,48.6,False,False,False
+1956,house,Florida,FL,6,,Paul Rogers,Democratic,,54.7,True,True,False
+1956,house,Florida,FL,6,,Dorothy A. Smith,Republican,,45.3,False,False,False
+1956,house,Florida,FL,7,,James A. Haley,Democratic,,62.4,True,True,False
+1956,house,Florida,FL,7,,Gus Nelson,Republican,,37.6,False,False,False
+1956,house,Florida,FL,8,,Donald Ray Matthews,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,1,,Prince Preston,Democratic,,78.3,True,True,False
+1956,house,Georgia,GA,1,,Harry P. Anestos,Independent,,21.2,False,False,False
+1956,house,Georgia,GA,1,,Other,Republican,,0.5,False,False,False
+1956,house,Georgia,GA,2,,J. L. Pilcher,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,2,,Albert Maples,Independent,,0.01,False,False,False
+1956,house,Georgia,GA,3,,Tic Forrester,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,3,,J. M. Brophy,Republican,,0.004,False,False,False
+1956,house,Georgia,GA,4,,John Flynt,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,4,,Other,Republican,,0.03,False,False,False
+1956,house,Georgia,GA,5,,James C. Davis,Democratic,,59.2,True,True,False
+1956,house,Georgia,GA,5,,Randolph W. Thrower,Republican,,40.8,False,False,False
+1956,house,Georgia,GA,5,,Joe McDow,Independent,,0.001,False,False,False
+1956,house,Georgia,GA,6,,Carl Vinson,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,7,,Henderson Lovelace Lanham,Democratic,,99.7,True,True,False
+1956,house,Georgia,GA,7,,H. M. King,Republican,,0.3,False,False,False
+1956,house,Georgia,GA,8,,Iris Faircloth Blitch,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,8,,J. M. Kent,Republican,,0.006,False,False,False
+1956,house,Georgia,GA,9,,Phil Landrum,Democratic,,100.0,True,True,False
+1956,house,Georgia,GA,10,,Paul Brown,Democratic,,99.8,True,True,False
+1956,house,Georgia,GA,10,,Others,Republican,,0.2,False,False,False
+1956,house,Idaho,ID,1,,Gracie Pfost,Democratic,,55.1,True,True,False
+1956,house,Idaho,ID,1,,Louise Shadduck,Republican,,44.9,False,False,False
+1956,house,Idaho,ID,2,,Hamer H. Budge,Republican,,60.0,True,True,False
+1956,house,Idaho,ID,2,,J. W. Reynolds,Democratic,,40.0,False,False,False
+1956,house,Illinois,IL,1,,William L. Dawson,Democratic,,64.4,True,True,False
+1956,house,Illinois,IL,1,,George W. Lawrence,Republican,,35.6,False,False,False
+1956,house,Illinois,IL,2,,Barratt O'Hara,Democratic,,55.3,True,True,False
+1956,house,Illinois,IL,2,,George B. McKibbin,Republican,,44.7,False,False,False
+1956,house,Illinois,IL,3,,Emmet Byrne,Republican,,51.4,True,False,False
+1956,house,Illinois,IL,3,,James C. Murray,Democratic,,48.6,False,True,False
+1956,house,Illinois,IL,4,,William E. McVey,Republican,,60.0,True,True,False
+1956,house,Illinois,IL,4,,Michael Hinko,Democratic,,40.0,False,False,False
+1956,house,Illinois,IL,5,,John C. Kluczynski,Democratic,,61.8,True,True,False
+1956,house,Illinois,IL,5,,Lawrence Welnowski,Republican,,38.2,False,False,False
+1956,house,Illinois,IL,6,,Thomas J. O'Brien,Democratic,,62.0,True,True,False
+1956,house,Illinois,IL,6,,John J. Dillon,Republican,,38.0,False,False,False
+1956,house,Illinois,IL,7,,James Bowler,Democratic,,71.7,True,True,False
+1956,house,Illinois,IL,7,,Gabriel L. Grimaldi,Republican,,28.3,False,False,False
+1956,house,Illinois,IL,8,,Thomas S. Gordon,Democratic,,59.5,True,True,False
+1956,house,Illinois,IL,8,,Victor O. Wright,Republican,,40.5,False,False,False
+1956,house,Illinois,IL,9,,Sidney R. Yates,Democratic,,54.0,True,True,False
+1956,house,Illinois,IL,9,,Johann S. Ackerman,Republican,,46.0,False,False,False
+1956,house,Illinois,IL,10,,Harold R. Collier,Republican,,64.4,True,False,True
+1956,house,Illinois,IL,10,,Marvin E. Lore,Democratic,,35.6,False,False,True
+1956,house,Illinois,IL,11,,Timothy P. Sheehan,Republican,,55.5,True,True,False
+1956,house,Illinois,IL,11,,Roman Pucinski,Democratic,,44.5,False,False,False
+1956,house,Illinois,IL,12,,Charles A. Boyle,Democratic,,53.2,True,True,False
+1956,house,Illinois,IL,12,,Edgar A. Jonas,Republican,,46.8,False,False,False
+1956,house,Illinois,IL,13,,Marguerite S. Church,Republican,,71.6,True,True,False
+1956,house,Illinois,IL,13,,Helen Benson Leys,Democratic,,28.4,False,False,False
+1956,house,Illinois,IL,14,,Russell W. Keeney,Republican,,70.6,True,False,True
+1956,house,Illinois,IL,14,,Harold J. Spelman,Democratic,,29.4,False,False,True
+1956,house,Illinois,IL,15,,Noah M. Mason,Republican,,64.6,True,True,False
+1956,house,Illinois,IL,15,,Stanley Hubbs,Democratic,,35.4,False,False,False
+1956,house,Illinois,IL,16,,Leo E. Allen,Republican,,63.7,True,True,False
+1956,house,Illinois,IL,16,,Glen F. Kunkle,Democratic,,36.3,False,False,False
+1956,house,Illinois,IL,17,,Leslie C. Arends,Republican,,64.9,True,True,False
+1956,house,Illinois,IL,17,,C. E. Spang,Democratic,,35.1,False,False,False
+1956,house,Illinois,IL,18,,Robert H. Michel,Republican,,58.8,True,False,True
+1956,house,Illinois,IL,18,,Fred Allen,Democratic,,41.2,False,False,True
+1956,house,Illinois,IL,19,,Robert B. Chiperfield,Republican,,55.8,True,True,False
+1956,house,Illinois,IL,19,,Martin P. Sutor,Democratic,,44.2,False,False,False
+1956,house,Illinois,IL,20,,Sid Simpson,Republican,,59.6,True,True,False
+1956,house,Illinois,IL,20,,Henry W. Pollock,Democratic,,40.4,False,False,False
+1956,house,Illinois,IL,21,,Peter F. Mack Jr.,Democratic,,53.5,True,True,False
+1956,house,Illinois,IL,21,,Frederic S. O'Hara,Republican,,46.5,False,False,False
+1956,house,Illinois,IL,22,,William L. Springer,Republican,,62.3,True,True,False
+1956,house,Illinois,IL,22,,E. H. Winegarner,Democratic,,37.7,False,False,False
+1956,house,Illinois,IL,23,,Charles W. Vursell,Republican,,52.6,True,True,False
+1956,house,Illinois,IL,23,,Albert R. Imle,Democratic,,47.4,False,False,False
+1956,house,Illinois,IL,24,,Melvin Price,Democratic,,68.2,True,True,False
+1956,house,Illinois,IL,24,,Waldo E. Schellenger,Republican,,31.8,False,False,False
+1956,house,Illinois,IL,25,,Kenneth J. Gray,Democratic,,53.8,True,True,False
+1956,house,Illinois,IL,25,,Samuel J. Scott,Republican,,46.2,False,False,False
+1956,house,Indiana,IN,1,,Ray Madden,Democratic,,52.6,True,True,False
+1956,house,Indiana,IN,1,,Donald K. Stimson Jr.,Republican,,47.2,False,False,False
+1956,house,Indiana,IN,1,,Harry C. Beamer,Prohibition,,0.2,False,False,False
+1956,house,Indiana,IN,2,,Charles A. Halleck,Republican,,62.2,True,True,False
+1956,house,Indiana,IN,2,,Thurman C. Crook,Democratic,,37.4,False,False,False
+1956,house,Indiana,IN,2,,J. O. Johnston,Prohibition,,0.3,False,False,False
+1956,house,Indiana,IN,3,,F. Jay Nimtz,Republican,,53.1,True,False,True
+1956,house,Indiana,IN,3,,John Brademas,Democratic,,46.9,False,False,True
+1956,house,Indiana,IN,4,,E. Ross Adair,Republican,,63.4,True,True,False
+1956,house,Indiana,IN,4,,F. Dean Bechtol,Democratic,,36.3,False,False,False
+1956,house,Indiana,IN,4,,Claude Swartz,Prohibition,,0.2,False,False,False
+1956,house,Indiana,IN,5,,John V. Beamer,Republican,,56.4,True,True,False
+1956,house,Indiana,IN,5,,William Catlin Whitehead,Democratic,,43.1,False,False,False
+1956,house,Indiana,IN,5,,Ralph G. Stallsmith,Prohibition,,0.5,False,False,False
+1956,house,Indiana,IN,6,,Cecil M. Harden,Republican,,55.0,True,True,False
+1956,house,Indiana,IN,6,,John W. King,Democratic,,44.8,False,False,False
+1956,house,Indiana,IN,6,,Woodrow Shields,Prohibition,,0.2,False,False,False
+1956,house,Indiana,IN,7,,William G. Bray,Republican,,57.2,True,True,False
+1956,house,Indiana,IN,7,,Vernon R. Hill,Democratic,,42.8,False,False,False
+1956,house,Indiana,IN,8,,Winfield K. Denton,Democratic,,50.1,True,True,False
+1956,house,Indiana,IN,8,,D. Bailey Merrill,Republican,,49.7,False,False,False
+1956,house,Indiana,IN,8,,Raymond Morris,Prohibition,,0.3,False,False,False
+1956,house,Indiana,IN,9,,Earl Wilson,Republican,,53.4,True,True,False
+1956,house,Indiana,IN,9,,Wilfrid J. Ullirch,Democratic,,46.3,False,False,False
+1956,house,Indiana,IN,9,,Elmer D. Riggs,Prohibition,,0.3,False,False,False
+1956,house,Indiana,IN,10,,Ralph Harvey,Republican,,56.3,True,True,False
+1956,house,Indiana,IN,10,,Gerald C. Carmony,Democratic,,43.3,False,False,False
+1956,house,Indiana,IN,10,,Thomas E. Booher,Prohibition,,0.4,False,False,False
+1956,house,Indiana,IN,11,,Charles B. Brownson,Republican,,59.4,True,True,False
+1956,house,Indiana,IN,11,,John C. Carvey,Democratic,,40.5,False,False,False
+1956,house,Indiana,IN,11,,Paul W. Cox,Prohibition,,0.2,False,False,False
+1956,house,Iowa,IA,1,,Fred Schwengel,Republican,,58.0,True,True,False
+1956,house,Iowa,IA,1,,Ronald O. Bramhall,Democratic,,42.0,False,False,False
+1956,house,Iowa,IA,2,,Henry O. Talle,Republican,,51.4,True,True,False
+1956,house,Iowa,IA,2,,Leonard G. Wolf,Democratic,,48.6,False,False,False
+1956,house,Iowa,IA,3,,H. R. Gross,Republican,,58.6,True,True,False
+1956,house,Iowa,IA,3,,Michael Micich,Democratic,,41.4,False,False,False
+1956,house,Iowa,IA,4,,Karl M. LeCompte,Republican,,50.7,True,True,False
+1956,house,Iowa,IA,4,,Steven V. Carter,Democratic,,49.3,False,False,False
+1956,house,Iowa,IA,5,,Paul Cunningham,Republican,,51.1,True,True,False
+1956,house,Iowa,IA,5,,William F. Denman,Democratic,,48.9,False,False,False
+1956,house,Iowa,IA,6,,Merwin Coad,Democratic,,50.1,True,False,False
+1956,house,Iowa,IA,6,,James I. Dolliver,Republican,,49.9,False,True,False
+1956,house,Iowa,IA,7,,Ben F. Jensen,Republican,,55.4,True,True,False
+1956,house,Iowa,IA,7,,John L. Jensen,Democratic,,44.6,False,False,False
+1956,house,Iowa,IA,8,,Charles B. Hoeven,Republican,,60.1,True,True,False
+1956,house,Iowa,IA,8,,Robert J. Salem,Democratic,,39.9,False,False,False
+1956,house,Kansas,KS,1,,William H. Avery,Republican,,53.1,True,True,False
+1956,house,Kansas,KS,1,,Howard S. Miller,Democratic,,45.8,False,False,False
+1956,house,Kansas,KS,1,,Howard Hadin,Prohibition,,1.1,False,False,False
+1956,house,Kansas,KS,2,,Errett P. Scrivner,Republican,,54.9,True,True,False
+1956,house,Kansas,KS,2,,Newell A. George,Democratic,,45.1,False,False,False
+1956,house,Kansas,KS,3,,Myron V. George,Republican,,55.0,True,True,False
+1956,house,Kansas,KS,3,,Denver D. Hargis,Democratic,,45.0,False,False,False
+1956,house,Kansas,KS,4,,Edward Herbert Rees,Republican,,53.8,True,True,False
+1956,house,Kansas,KS,4,,John D. Montgomery,Democratic,,46.2,False,False,False
+1956,house,Kansas,KS,5,,J. Floyd Breeding,Democratic,,50.5,True,False,True
+1956,house,Kansas,KS,5,,John W. Crutcher,Republican,,49.5,False,False,True
+1956,house,Kansas,KS,6,,Wint Smith,Republican,,51.1,True,True,False
+1956,house,Kansas,KS,6,,Elmo J. Mahoney,Democratic,,48.9,False,False,False
+1956,house,Kentucky,KY,1,,Noble Jones Gregory,Democratic,,100.0,True,True,False
+1956,house,Kentucky,KY,2,,William Natcher,Democratic,,51.3,True,True,False
+1956,house,Kentucky,KY,2,,R. B. Blakenship,Republican,,48.7,False,False,False
+1956,house,Kentucky,KY,3,,John M. Robsion Jr.,Republican,,56.8,True,True,False
+1956,house,Kentucky,KY,3,,Philip Ardery,Democratic,,43.2,False,False,False
+1956,house,Kentucky,KY,4,,Frank Chelf,Democratic,,56.3,True,True,False
+1956,house,Kentucky,KY,4,,John Basil Preston,Republican,,43.7,False,False,False
+1956,house,Kentucky,KY,5,,Brent Spence,Democratic,,55.9,True,True,False
+1956,house,Kentucky,KY,5,,Jule Appel,Republican,,44.1,False,False,False
+1956,house,Kentucky,KY,6,,John C. Watts,Democratic,,52.7,True,True,False
+1956,house,Kentucky,KY,6,,Wallace Jones,Republican,,47.3,False,False,False
+1956,house,Kentucky,KY,7,,Carl D. Perkins,Democratic,,52.4,True,True,False
+1956,house,Kentucky,KY,7,,Scott Craft,Republican,,47.6,False,False,False
+1956,house,Kentucky,KY,7,,Florence Montague,Prohibition,,0.08,False,False,False
+1956,house,Kentucky,KY,8,,Eugene Siler,Republican,,71.7,True,True,False
+1956,house,Kentucky,KY,8,,Mitchel S. Fannin,Democratic,,28.3,False,False,False
+1956,house,Louisiana,LA,1,,F. Edward Hébert,Democratic,,100.0,True,True,False
+1956,house,Louisiana,LA,2,,Hale Boggs,Democratic,,64.5,True,True,False
+1956,house,Louisiana,LA,2,,George R. Blue,Republican,,35.5,False,False,False
+1956,house,Louisiana,LA,3,,Edwin E. Willis,Democratic,,100.0,True,True,False
+1956,house,Louisiana,LA,4,,Overton Brooks,Democratic,,68.1,True,True,False
+1956,house,Louisiana,LA,4,,Calhoun Allen Jr.,Republican,,31.9,False,False,False
+1956,house,Louisiana,LA,5,,Otto Passman,Democratic,,100.0,True,True,False
+1956,house,Louisiana,LA,6,,James H. Morrison,Democratic,,100.0,True,True,False
+1956,house,Louisiana,LA,7,,T. Ashton Thompson,Democratic,,100.0,True,True,False
+1956,house,Louisiana,LA,8,,George S. Long,Democratic,,100.0,True,True,False
+1956,house,Maine,ME,1,,Robert Hale,Republican,,50.0,True,True,False
+1956,house,Maine,ME,1,,James C. Oliver,Democratic,,50.0,False,False,False
+1956,house,Maine,ME,2,,Frank M. Coffin,Democratic,,53.4,True,False,True
+1956,house,Maine,ME,2,,James L. Reid,Republican,,46.6,False,False,True
+1956,house,Maine,ME,3,,Clifford McIntire,Republican,,60.6,True,True,False
+1956,house,Maine,ME,3,,Kenneth B. Colbath,Democratic,,39.4,False,False,False
+1956,house,Maryland,MD,1,,Edward T. Miller,Republican,,55.7,True,True,False
+1956,house,Maryland,MD,1,,Hamilton P. Fox,Democratic,,44.3,False,False,False
+1956,house,Maryland,MD,2,,James Devereux,Republican,,58.1,True,True,False
+1956,house,Maryland,MD,2,,A. Gordon Boone,Democratic,,41.9,False,False,False
+1956,house,Maryland,MD,3,,Edward Garmatz,Democratic,,69.7,True,True,False
+1956,house,Maryland,MD,3,,Harry Kemper,Republican,,30.3,False,False,False
+1956,house,Maryland,MD,4,,George Fallon,Democratic,,53.8,True,True,False
+1956,house,Maryland,MD,4,,George Denys Hubbard,Republican,,46.2,False,False,False
+1956,house,Maryland,MD,5,,Richard Lankford,Democratic,,56.8,True,True,False
+1956,house,Maryland,MD,5,,William B. Prendergast,Republican,,43.2,False,False,False
+1956,house,Maryland,MD,6,,DeWitt Hyde,Republican,,54.2,True,True,False
+1956,house,Maryland,MD,6,,John R. Foley,Democratic,,45.8,False,False,False
+1956,house,Maryland,MD,7,,Samuel Friedel,Democratic,,59.0,True,True,False
+1956,house,Maryland,MD,7,,David A. Halley,Republican,,41.0,False,False,False
+1956,house,Massachusetts,MA,1,,John W. Heselton,Republican,,63.6,True,True,False
+1956,house,Massachusetts,MA,1,,Howard W. Shea,Democratic,,36.0,False,False,False
+1956,house,Massachusetts,MA,1,,Gaetano T. Maratea,Prohibition,,0.4,False,False,False
+1956,house,Massachusetts,MA,2,,Edward Boland,Democratic,,61.2,True,True,False
+1956,house,Massachusetts,MA,2,,Foster W. Doty,Republican,,38.8,False,False,False
+1956,house,Massachusetts,MA,3,,Philip J. Philbin,Democratic,,70.9,True,True,False
+1956,house,Massachusetts,MA,3,,Robert A. Parker,Republican,,29.1,False,False,False
+1956,house,Massachusetts,MA,4,,Harold Donohue,Democratic,,59.4,True,True,False
+1956,house,Massachusetts,MA,4,,Mary R. Wheller,Republican,,40.6,False,False,False
+1956,house,Massachusetts,MA,5,,Edith Nourse Rogers,Republican,,73.3,True,True,False
+1956,house,Massachusetts,MA,5,,Lawrence E. Corcoran,Democratic,,26.7,False,False,False
+1956,house,Massachusetts,MA,6,,William H. Bates,Republican,,100.0,True,True,False
+1956,house,Massachusetts,MA,7,,Thomas J. Lane,Democratic,,68.5,True,True,False
+1956,house,Massachusetts,MA,7,,Robert T. Breed,Republican,,31.5,False,False,False
+1956,house,Massachusetts,MA,8,,Torbert Macdonald,Democratic,,54.8,True,True,False
+1956,house,Massachusetts,MA,8,,C. Eugene Farnam,Republican,,45.2,False,False,False
+1956,house,Massachusetts,MA,9,,Donald W. Nicholson,Republican,,61.1,True,True,False
+1956,house,Massachusetts,MA,9,,William McAuliffe,Democratic,,38.9,False,False,False
+1956,house,Massachusetts,MA,10,,Laurence Curtis,Republican,,53.0,True,True,False
+1956,house,Massachusetts,MA,10,,Jackson J. Holtz,Democratic,,47.0,False,False,False
+1956,house,Massachusetts,MA,11,,Tip O'Neill,Democratic,,75.3,True,True,False
+1956,house,Massachusetts,MA,11,,Rudolph E. Mottola,Republican,,24.7,False,False,False
+1956,house,Massachusetts,MA,12,,John W. McCormack,Democratic,,82.5,True,True,False
+1956,house,Massachusetts,MA,12,,James S. Tremblay,Republican,,17.5,False,False,False
+1956,house,Massachusetts,MA,13,,Dick Wigglesworth,Republican,,55.6,True,True,False
+1956,house,Massachusetts,MA,13,,Richard E. McCormack,Democratic,,44.4,False,False,False
+1956,house,Massachusetts,MA,14,,Joseph W. Martin Jr.,Republican,,62.4,True,True,False
+1956,house,Massachusetts,MA,14,,Edward F. Doolan,Democratic,,37.6,False,False,False
+1956,house,Michigan,MI,1,,Thaddeus M. Machrowicz,Democratic,,86.1,True,True,False
+1956,house,Michigan,MI,1,,Walter Czarnecki,Republican,,13.9,False,False,False
+1956,house,Michigan,MI,2,,George Meader,Republican,,63.1,True,True,False
+1956,house,Michigan,MI,2,,Franklin J. Shepherd,Democratic,,36.6,False,False,False
+1956,house,Michigan,MI,2,,Verdon R. Dunckel,Prohibition,,0.3,False,False,False
+1956,house,Michigan,MI,3,,August E. Johansen,Republican,,63.8,True,True,False
+1956,house,Michigan,MI,3,,Truman Barkhuff,Democratic,,35.8,False,False,False
+1956,house,Michigan,MI,3,,Clarence O. Button,Prohibition,,0.5,False,False,False
+1956,house,Michigan,MI,4,,Clare Hoffman,Republican,,62.0,True,True,False
+1956,house,Michigan,MI,4,,Samuel I. Clark,Democratic,,38.0,False,False,False
+1956,house,Michigan,MI,5,,Gerald Ford,Republican,,67.1,True,True,False
+1956,house,Michigan,MI,5,,George E. Clay,Democratic,,32.9,False,False,False
+1956,house,Michigan,MI,6,,Charles E. Chamberlain,Republican,,50.8,True,False,False
+1956,house,Michigan,MI,6,,Donald Hayworth,Democratic,,49.0,False,True,False
+1956,house,Michigan,MI,6,,Herbert E. Crouter,Prohibition,,0.2,False,False,False
+1956,house,Michigan,MI,7,,Robert J. McIntosh,Republican,,53.7,True,False,True
+1956,house,Michigan,MI,7,,Ira D. McCoy,Democratic,,46.3,False,False,True
+1956,house,Michigan,MI,8,,Alvin Morell Bentley,Republican,,64.1,True,True,False
+1956,house,Michigan,MI,8,,William R. Hart,Democratic,,35.6,False,False,False
+1956,house,Michigan,MI,8,,D. Ruth Larson,Prohibition,,0.3,False,False,False
+1956,house,Michigan,MI,9,,Robert P. Griffin,Republican,,56.0,True,False,False
+1956,house,Michigan,MI,9,,William E. Baker,Democratic,,44.0,False,False,False
+1956,house,Michigan,MI,10,,Elford Albin Cederberg,Republican,,65.6,True,True,False
+1956,house,Michigan,MI,10,,William J. Kelly,Democratic,,34.4,False,False,False
+1956,house,Michigan,MI,11,,Victor A. Knox,Republican,,56.1,True,True,False
+1956,house,Michigan,MI,11,,Prentiss M. Brown Jr.,Democratic,,43.9,False,False,False
+1956,house,Michigan,MI,12,,John B. Bennett,Republican,,56.3,True,True,False
+1956,house,Michigan,MI,12,,Joseph S. Mack,Democratic,,43.7,False,False,False
+1956,house,Michigan,MI,13,,Charles Diggs,Democratic,,69.8,True,True,False
+1956,house,Michigan,MI,13,,Willis F. Ward,Republican,,30.2,False,False,False
+1956,house,Michigan,MI,14,,Louis C. Rabaut,Democratic,,56.8,True,True,False
+1956,house,Michigan,MI,14,,Harold F. Youngblood,Republican,,43.2,False,False,False
+1956,house,Michigan,MI,15,,John D. Dingell Jr.,Democratic,,74.1,True,True,False
+1956,house,Michigan,MI,15,,Larry Middleton,Republican,,25.8,False,False,False
+1956,house,Michigan,MI,15,,Roxann Higgs,Prohibition,,0.1,False,False,False
+1956,house,Michigan,MI,16,,John Lesinski Jr.,Democratic,,64.1,True,True,False
+1956,house,Michigan,MI,16,,Arthur Kurtz,Republican,,35.6,False,False,False
+1956,house,Michigan,MI,16,,Earl A. Johnson,Prohibition,,0.3,False,False,False
+1956,house,Michigan,MI,17,,Martha Griffiths,Democratic,,53.3,True,True,False
+1956,house,Michigan,MI,17,,George E. Smith,Republican,,46.5,False,False,False
+1956,house,Michigan,MI,17,,Walter D. Carpenter,Prohibition,,0.2,False,False,False
+1956,house,Michigan,MI,18,,William Broomfield,Republican,,56.7,True,False,True
+1956,house,Michigan,MI,18,,Paul Sutton,Democratic,,43.3,False,False,True
+1956,house,Minnesota,MN,1,,August H. Andresen,Republican,,61.5,True,True,False
+1956,house,Minnesota,MN,1,,Arnold L. Fredriksen,DFL,,38.5,False,False,False
+1956,house,Minnesota,MN,2,,Joseph P. O'Hara,Republican,,63.8,True,True,False
+1956,house,Minnesota,MN,2,,Harold Zupp,DFL,,36.2,False,False,False
+1956,house,Minnesota,MN,3,,Roy Wier,DFL,,52.0,True,True,False
+1956,house,Minnesota,MN,3,,George Mikan,Republican,,48.0,False,False,False
+1956,house,Minnesota,MN,4,,Eugene McCarthy,DFL,,64.1,True,True,False
+1956,house,Minnesota,MN,4,,Edward C. Slettedahl,Republican,,35.9,False,False,False
+1956,house,Minnesota,MN,5,,Walter Judd,Republican,,56.0,True,True,False
+1956,house,Minnesota,MN,5,,Joe Robbie,DFL,,44.0,False,False,False
+1956,house,Minnesota,MN,6,,Fred Marshall,DFL,,56.2,True,True,False
+1956,house,Minnesota,MN,6,,Joseph L. Kaczmarek,Republican,,43.8,False,False,False
+1956,house,Minnesota,MN,7,,H. Carl Andersen,Republican,,55.9,True,True,False
+1956,house,Minnesota,MN,7,,Clint Haroldson,DFL,,44.1,False,False,False
+1956,house,Minnesota,MN,8,,John Blatnik,DFL,,73.2,True,True,False
+1956,house,Minnesota,MN,8,,Alfred J. Weinberg,Republican,,26.8,False,False,False
+1956,house,Minnesota,MN,9,,Coya Knutson,DFL,,52.7,True,True,False
+1956,house,Minnesota,MN,9,,Harold Hagen,Republican,,47.3,False,False,False
+1956,house,Mississippi,MS,1,,Thomas Abernethy,Democratic,,100.0,True,True,False
+1956,house,Mississippi,MS,2,,Jamie Whitten,Democratic,,100.0,True,True,False
+1956,house,Mississippi,MS,3,,Frank E. Smith,Democratic,,100.0,True,True,False
+1956,house,Mississippi,MS,4,,John Bell Williams,Democratic,,100.0,True,True,False
+1956,house,Mississippi,MS,5,,W. Arthur Winstead,Democratic,,100.0,True,True,False
+1956,house,Mississippi,MS,6,,William M. Colmer,Democratic,,100.0,True,True,False
+1956,house,Missouri,MO,1,,Frank M. Karsten,Democratic,,66.3,True,True,False
+1956,house,Missouri,MO,1,,Bill Bangert,Republican,,33.7,False,False,False
+1956,house,Missouri,MO,2,,Thomas B. Curtis,Republican,,51.8,True,True,False
+1956,house,Missouri,MO,2,,James L. Sullivan,Democratic,,48.2,False,False,False
+1956,house,Missouri,MO,3,,Leonor Sullivan,Democratic,,69.6,True,True,False
+1956,house,Missouri,MO,3,,Sidney R. Redmond,Republican,,30.4,False,False,False
+1956,house,Missouri,MO,4,,George H. Christopher,Democratic,,51.8,True,True,False
+1956,house,Missouri,MO,4,,Jeffrey P. Hillelson,Republican,,48.2,False,False,False
+1956,house,Missouri,MO,5,,Richard Bolling,Democratic,,57.2,True,True,False
+1956,house,Missouri,MO,5,,Lem T. Jones Jr.,Republican,,42.8,False,False,False
+1956,house,Missouri,MO,6,,William Raleigh Hull Jr.,Democratic,,52.0,True,True,False
+1956,house,Missouri,MO,6,,Stanley I. Dale,Republican,,48.0,False,False,False
+1956,house,Missouri,MO,7,,Charles Harrison Brown,Democratic,,50.3,True,False,False
+1956,house,Missouri,MO,7,,Dewey Short,Republican,,49.7,False,True,False
+1956,house,Missouri,MO,8,,A. S. J. Carnahan,Democratic,,54.3,True,True,False
+1956,house,Missouri,MO,8,,Frank W. May,Republican,,45.7,False,False,False
+1956,house,Missouri,MO,9,,Clarence Cannon,Democratic,,100.0,True,True,False
+1956,house,Missouri,MO,10,,Paul C. Jones,Democratic,,100.0,True,True,False
+1956,house,Missouri,MO,11,,Morgan M. Moulder,Democratic,,50.8,True,True,False
+1956,house,Missouri,MO,11,,George H. Miller,Republican,,49.2,False,False,False
+1956,house,Montana,MT,1,,Lee Metcalf,Democratic,,62.1,True,True,False
+1956,house,Montana,MT,1,,Bill McDonald,Republican,,37.9,False,False,False
+1956,house,Montana,MT,2,,LeRoy H. Anderson,Democratic,,50.9,True,False,False
+1956,house,Montana,MT,2,,Orvin B. Fjare,Republican,,49.1,False,True,False
+1956,house,Nebraska,NE,1,,Phil Weaver,Republican,,67.0,True,True,False
+1956,house,Nebraska,NE,1,,Samuel Freeman,Democratic,,33.0,False,False,False
+1956,house,Nebraska,NE,2,,Glenn Cunningham,Republican,,53.4,True,False,True
+1956,house,Nebraska,NE,2,,Joseph Benesch,Democratic,,45.0,False,False,True
+1956,house,Nebraska,NE,2,,Al Misegadis,Write-in,,1.7,False,False,True
+1956,house,Nebraska,NE,3,,R. D. Harrison,Republican,,50.1,True,True,False
+1956,house,Nebraska,NE,3,,Lawrence Brock,Democratic,,49.9,False,False,False
+1956,house,Nebraska,NE,4,,Arthur L. Miller,Republican,,65.7,True,True,False
+1956,house,Nebraska,NE,4,,Carlton W. Laird,Democratic,,34.3,False,False,False
+1956,house,Nevada,NV,AL,,Walter Baring,Democratic,,54.2,True,False,True
+1956,house,Nevada,NV,AL,,Richard W. Horton,Republican,,45.8,False,False,True
+1956,house,New Hampshire,NH,1,,Chester E. Merrow,Republican,,57.4,True,True,False
+1956,house,New Hampshire,NH,1,,James B. Sullivan,Democratic,,42.6,False,False,False
+1956,house,New Hampshire,NH,2,,Perkins Bass,Republican,,65.9,True,True,False
+1956,house,New Hampshire,NH,2,,George F. Brown,Democratic,,34.1,False,False,False
+1956,house,New Jersey,NJ,1,,Charles A. Wolverton,Republican,,58.3,True,True,False
+1956,house,New Jersey,NJ,1,,J. Frank Crawford,Democratic,,41.5,False,False,False
+1956,house,New Jersey,NJ,1,,Bernardo S. Doganiero,Socialist Labor,,0.2,False,False,False
+1956,house,New Jersey,NJ,2,,T. Millet Hand,Republican,,67.8,True,True,False
+1956,house,New Jersey,NJ,2,,Thomas C. Stewart,Democratic,,32.0,False,False,False
+1956,house,New Jersey,NJ,2,,Morris Karp,Socialist Labor,,0.1,False,False,False
+1956,house,New Jersey,NJ,3,,James C. Auchincloss,Republican,,65.3,True,True,False
+1956,house,New Jersey,NJ,3,,Sidney Shiff,Democratic,,34.7,False,False,False
+1956,house,New Jersey,NJ,4,,Frank Thompson,Democratic,,54.5,True,True,False
+1956,house,New Jersey,NJ,4,,William H. Wells,Republican,,45.5,False,False,False
+1956,house,New Jersey,NJ,5,,Peter Frelinghuysen Jr.,Republican,,64.5,True,True,False
+1956,house,New Jersey,NJ,5,,Francis C. Foley Jr.,Democratic,,35.4,False,False,False
+1956,house,New Jersey,NJ,5,,Harry Press,Socialist Labor,,0.2,False,False,False
+1956,house,New Jersey,NJ,6,,Florence P. Dwyer,Republican,,50.6,True,False,False
+1956,house,New Jersey,NJ,6,,Harrison A. Williams,Democratic,,48.5,False,True,False
+1956,house,New Jersey,NJ,6,,Ithamar Quigley,Prohibition,,0.9,False,False,False
+1956,house,New Jersey,NJ,7,,William B. Widnall,Republican,,70.7,True,True,False
+1956,house,New Jersey,NJ,7,,Daniel Amster,Democratic,,29.3,False,False,False
+1956,house,New Jersey,NJ,8,,Gordon Canfield,Republican,,60.8,True,True,False
+1956,house,New Jersey,NJ,8,,Walter H. Gardner,Democratic,,38.7,False,False,False
+1956,house,New Jersey,NJ,8,,Harry Santhouse,Socialist Labor,,0.4,False,False,False
+1956,house,New Jersey,NJ,8,,Stephen Bell,Other,,0.09,False,False,False
+1956,house,New Jersey,NJ,9,,Frank C. Osmers Jr.,Republican,,67.8,True,True,False
+1956,house,New Jersey,NJ,9,,Robert D. Gruen,Democratic,,31.9,False,False,False
+1956,house,New Jersey,NJ,9,,Herman H. Rhael,Socialist Labor,,0.3,False,False,False
+1956,house,New Jersey,NJ,10,,Peter W. Rodino,Democratic,,56.1,True,True,False
+1956,house,New Jersey,NJ,10,,G. George Addonzio,Republican,,43.9,False,False,False
+1956,house,New Jersey,NJ,11,,Hugh J. Addonizio,Democratic,,51.7,True,True,False
+1956,house,New Jersey,NJ,11,,Chester K. Ligham,Republican,,46.8,False,False,False
+1956,house,New Jersey,NJ,11,,William H. Smullen,Other,,1.5,False,False,False
+1956,house,New Jersey,NJ,12,,Robert Kean,Republican,,59.7,True,True,False
+1956,house,New Jersey,NJ,12,,Irving L. Hodes,Democratic,,38.7,False,False,False
+1956,house,New Jersey,NJ,12,,Winfred O. Perry,Conservative,,1.4,False,False,False
+1956,house,New Jersey,NJ,12,,Daniel Roberts,Socialist Workers,,0.2,False,False,False
+1956,house,New Jersey,NJ,13,,Alfred Sieminski,Democratic,,45.0,True,True,False
+1956,house,New Jersey,NJ,13,,Norman H. Roth,Republican,,44.9,False,False,False
+1956,house,New Jersey,NJ,13,,Mortimer P. Cullity,Independent,,4.5,False,False,False
+1956,house,New Jersey,NJ,13,,John F. Connelly,Independent,,3.4,False,False,False
+1956,house,New Jersey,NJ,13,,Anthony J. Worosile,Independent,,1.8,False,False,False
+1956,house,New Jersey,NJ,13,,Joseph H. Burgess,Independent,,0.4,False,False,False
+1956,house,New Jersey,NJ,14,,Vincent J. Dellay,Republican,,52.3,True,False,False
+1956,house,New Jersey,NJ,14,,T. James Tumulty,Democratic,,45.6,False,True,False
+1956,house,New Jersey,NJ,14,,John E. Walton,Independent,,2.1,False,False,False
+1956,house,New Mexico,NM,AL,,John J. Dempsey,Democratic,,26.7,True,True,False
+1956,house,New Mexico,NM,AL,,Antonio M. Fernández,Democratic,,26.4,True,False,False
+1956,house,New Mexico,NM,AL,,Dudley Cornell,Republican,,23.6,False,False,False
+1956,house,New Mexico,NM,AL,,Forrest S. Atchley,Republican,,23.2,False,False,False
+1956,house,New York,NY,1,,Stuyvesant Wainwright,Republican,,65.8,True,True,False
+1956,house,New York,NY,1,,T. Bronson O'Reilly,Democratic,,34.2,False,False,False
+1956,house,New York,NY,2,,Steven Derounian,Republican,,67.5,True,True,False
+1956,house,New York,NY,2,,Julius J. D'Amato,Democratic,,32.5,False,False,False
+1956,house,New York,NY,3,,Frank J. Becker,Republican,,61.9,True,True,False
+1956,house,New York,NY,3,,Francis X. Hardiman,Democratic,,38.1,False,False,False
+1956,house,New York,NY,4,,Henry J. Latham,Republican,,55.8,True,True,False
+1956,house,New York,NY,4,,Joseph J. Perrini,Democratic,,44.2,False,False,False
+1956,house,New York,NY,5,,Albert H. Bosch,Republican,,58.6,True,True,False
+1956,house,New York,NY,5,,John J. Quinn,Democratic,,41.4,False,False,False
+1956,house,New York,NY,6,,Lester Holtzman,Democratic,,56.9,True,True,False
+1956,house,New York,NY,6,,Albert H. Buschmann,Republican,,43.1,False,False,False
+1956,house,New York,NY,7,,James J. Delaney,Democratic,,50.0,True,True,False
+1956,house,New York,NY,7,,Joseph Stockinger,Republican,,50.0,False,False,False
+1956,house,New York,NY,8,,Victor Anfuso,Democratic,,65.6,True,True,False
+1956,house,New York,NY,8,,Julius Reinlieb,Republican,,34.4,False,False,False
+1956,house,New York,NY,9,,Eugene Keogh,Democratic,,62.8,True,True,False
+1956,house,New York,NY,9,,Benjamin W. Feldman,Republican,,37.2,False,False,False
+1956,house,New York,NY,10,,Edna F. Kelly,Democratic,,73.2,True,True,False
+1956,house,New York,NY,10,,Abraham Sher,Republican,,26.8,False,False,False
+1956,house,New York,NY,11,,Emanuel Celler,Democratic,,77.7,True,True,False
+1956,house,New York,NY,11,,Henry D. Dorfman,Republican,,22.3,False,False,False
+1956,house,New York,NY,12,,Francis E. Dorn,Republican,,57.6,True,True,False
+1956,house,New York,NY,12,,Donald L. O'Toole,Democratic,,42.4,False,False,False
+1956,house,New York,NY,13,,Abraham J. Multer,Democratic,,71.2,True,True,False
+1956,house,New York,NY,13,,Joseph Moriber,Republican,,28.8,False,False,False
+1956,house,New York,NY,14,,John J. Rooney,Democratic,,64.2,True,True,False
+1956,house,New York,NY,14,,Jacob P. Lefkowitz,Republican,,35.8,False,False,False
+1956,house,New York,NY,15,,John H. Ray,Republican,,61.8,True,True,False
+1956,house,New York,NY,15,,Ralph Di Iorio,Democratic,,38.2,False,False,False
+1956,house,New York,NY,16,,Adam Clayton Powell Jr.,Democratic,,69.7,True,True,False
+1956,house,New York,NY,16,,Joseph A. Bailey,Republican,,19.9,False,False,False
+1956,house,New York,NY,16,,Formington Taylor,Liberal Party (New York),,10.3,False,False,False
+1956,house,New York,NY,17,,Frederic Coudert Jr.,Republican,,50.9,True,True,False
+1956,house,New York,NY,17,,Anthony B. Akers,Democratic,,49.1,False,False,False
+1956,house,New York,NY,18,,Alfred E. Santangelo,Democratic,,58.0,True,False,False
+1956,house,New York,NY,18,,James G. Donovan,Republican,,42.0,False,True,False
+1956,house,New York,NY,19,,Leonard Farbstein,Democratic,,68.4,True,False,True
+1956,house,New York,NY,19,,Maurice G. Henry Jr.,Republican,,31.6,False,False,True
+1956,house,New York,NY,20,,Ludwig Teller,Democratic,,63.8,True,False,True
+1956,house,New York,NY,20,,Milton H. Adler,Republican,,36.2,False,False,True
+1956,house,New York,NY,21,,Herbert Zelenko,Democratic,,66.5,True,True,False
+1956,house,New York,NY,21,,Dalton J. Shapo,Democratic,,33.5,False,False,False
+1956,house,New York,NY,22,,James C. Healey,Democratic,,64.1,True,True,False
+1956,house,New York,NY,22,,Henry Rose,Republican,,24.7,False,False,False
+1956,house,New York,NY,22,,David I. Wells,Liberal Party (New York),,11.2,False,False,False
+1956,house,New York,NY,23,,Isidore Dollinger,Democratic,,68.5,True,True,False
+1956,house,New York,NY,23,,Philip Myer,Republican,,21.9,False,False,False
+1956,house,New York,NY,23,,Hyman Fromowitz,Liberal Party (New York),,9.6,False,False,False
+1956,house,New York,NY,24,,Charles A. Buckley,Democratic,,54.7,True,True,False
+1956,house,New York,NY,24,,Harold Grosberg,Republican,,32.3,False,False,False
+1956,house,New York,NY,24,,Elias Rosenblatt,Liberal Party (New York),,13.0,False,False,False
+1956,house,New York,NY,25,,Paul A. Fino,Republican,,59.4,True,True,False
+1956,house,New York,NY,25,,Edward A. Cunningham,Democratic,,35.5,False,False,False
+1956,house,New York,NY,25,,Bernard Tobacman,Liberal Party (New York),,5.1,False,False,False
+1956,house,New York,NY,26,,Edwin B. Dooley,Republican,,67.4,True,False,True
+1956,house,New York,NY,26,,Julia L. Crews,Democratic,,32.6,False,False,True
+1956,house,New York,NY,27,,Ralph W. Gwinn,Republican,,58.1,True,True,False
+1956,house,New York,NY,27,,William D. Carlebach,Democratic,,41.9,False,False,False
+1956,house,New York,NY,28,,Katharine St. George,Republican,,62.2,True,True,False
+1956,house,New York,NY,28,,William H. Mauldin,Democratic,,37.8,False,False,False
+1956,house,New York,NY,29,,J. Ernest Wharton,Republican,,71.4,True,True,False
+1956,house,New York,NY,29,,Vincent di Gennaro,Democratic,,28.6,False,False,False
+1956,house,New York,NY,30,,Leo W. O'Brien,Democratic,,55.8,True,True,False
+1956,house,New York,NY,30,,Robert E. Gray,Republican,,44.2,False,False,False
+1956,house,New York,NY,31,,Dean P. Taylor,Republican,,71.8,True,True,False
+1956,house,New York,NY,31,,Theodore A. Knapp,Democratic,,28.2,False,False,False
+1956,house,New York,NY,32,,Bernard W. Kearney,Republican,,67.5,True,True,False
+1956,house,New York,NY,32,,R. Joseph Giblin,Democratic,,32.5,False,False,False
+1956,house,New York,NY,33,,Clarence E. Kilburn,Republican,,72.7,True,True,False
+1956,house,New York,NY,33,,Louis C. Britton,Democratic,,27.3,False,False,False
+1956,house,New York,NY,34,,William R. Williams,Republican,,57.5,True,True,False
+1956,house,New York,NY,34,,Edwin L. Slusarczyk,Democratic,,42.5,False,False,False
+1956,house,New York,NY,35,,R. Walter Riehlman,Republican,,67.0,True,True,False
+1956,house,New York,NY,35,,Thomas J. Lowery,Democratic,,32.2,False,False,False
+1956,house,New York,NY,35,,Benjamin Copley,American Labor,,0.8,False,False,False
+1956,house,New York,NY,36,,John Taber,Republican,,69.6,True,True,False
+1956,house,New York,NY,36,,Lewis S. Bell,Democratic,,30.4,False,False,False
+1956,house,New York,NY,37,,W. Sterling Cole,Republican,,71.6,True,True,False
+1956,house,New York,NY,37,,Francis P. Hogan,Democratic,,28.4,False,False,False
+1956,house,New York,NY,38,,Kenneth Keating,Republican,,71.7,True,True,False
+1956,house,New York,NY,38,,Reed Harding,Democratic,,28.3,False,False,False
+1956,house,New York,NY,39,,Harold C. Ostertag,Republican,,70.5,True,True,False
+1956,house,New York,NY,39,,William H. Mostyn,Democratic,,29.5,False,False,False
+1956,house,New York,NY,40,,William E. Miller,Republican,,64.3,True,True,False
+1956,house,New York,NY,40,,A. Thorne Hills,Democratic,,35.7,False,False,False
+1956,house,New York,NY,41,,Edmund P. Radwan,Republican,,64.4,True,True,False
+1956,house,New York,NY,41,,Edward P. Jehle,Democratic,,35.6,False,False,False
+1956,house,New York,NY,42,,John R. Pillion,Republican,,58.7,True,True,False
+1956,house,New York,NY,42,,James Kane Jr.,Democratic,,40.3,False,False,False
+1956,house,New York,NY,42,,David E. Gundlach,Liberal Party (New York),,1.0,False,False,False
+1956,house,New York,NY,43,,Daniel A. Reed,Republican,,68.7,True,True,False
+1956,house,New York,NY,43,,T. Joseph Lynch,Democratic,,31.3,False,False,False
+1956,house,North Carolina,NC,1,,Herbert C. Bonner,Democratic,,88.6,True,True,False
+1956,house,North Carolina,NC,1,,Zeno O. Ratcliff,Republican,,11.4,False,False,False
+1956,house,North Carolina,NC,2,,Lawrence H. Fountain,Democratic,,100.0,True,True,False
+1956,house,North Carolina,NC,3,,Graham A. Barden,Democratic,,78.8,True,True,False
+1956,house,North Carolina,NC,3,,Joe Reynolds,Republican,,21.2,False,False,False
+1956,house,North Carolina,NC,4,,Harold D. Cooley,Democratic,,100.0,True,True,False
+1956,house,North Carolina,NC,5,,Ralph James Scott,Democratic,,59.7,True,False,False
+1956,house,North Carolina,NC,5,,Joe New,Republican,,40.3,False,False,False
+1956,house,North Carolina,NC,6,,Carl T. Durham,Democratic,,100.0,True,True,False
+1956,house,North Carolina,NC,7,,Alton Lennon,Democratic,,84.0,True,False,False
+1956,house,North Carolina,NC,7,,C. Dana Malpass,Republican,,16.0,False,False,False
+1956,house,North Carolina,NC,8,,Alvin Paul Kitchin,Democratic,,59.5,True,False,False
+1956,house,North Carolina,NC,8,,Fred E. Myers,Republican,,40.5,False,False,False
+1956,house,North Carolina,NC,9,,Hugh Quincy Alexander,Democratic,,53.9,True,True,False
+1956,house,North Carolina,NC,9,,A. M. Miller,Republican,,46.1,False,False,False
+1956,house,North Carolina,NC,10,,Charles R. Jonas,Republican,,62.7,True,True,False
+1956,house,North Carolina,NC,10,,Ben E. Douglas,Democratic,,37.3,False,False,False
+1956,house,North Carolina,NC,11,,Basil Lee Whitener,Democratic,,100.0,True,False,True
+1956,house,North Carolina,NC,12,,George A. Shuford,Democratic,,54.5,True,True,False
+1956,house,North Carolina,NC,12,,Richard C. Clarke Jr.,Republican,,45.5,False,False,False
+1956,house,North Dakota,ND,AL,,Usher L. Burdick,Republican,,32.0,True,True,False
+1956,house,North Dakota,ND,AL,,Otto Krueger,Republican,,30.3,True,False,False
+1956,house,North Dakota,ND,AL,,Agnes Geelan,Democratic-NPL,,19.1,False,False,False
+1956,house,North Dakota,ND,AL,,S. B. Hocking,Democratic-NPL,,18.6,False,False,False
+1956,house,Ohio,OH,1,,Gordon H. Scherer,Republican,,64.7,True,True,False
+1956,house,Ohio,OH,1,,Leonard D. Slutz,Democratic,,35.3,False,False,False
+1956,house,Ohio,OH,2,,William E. Hess,Republican,,65.5,True,True,False
+1956,house,Ohio,OH,2,,James T. Dewan,Democratic,,34.5,False,False,False
+1956,house,Ohio,OH,3,,Paul F. Schenck,Republican,,59.0,True,True,False
+1956,house,Ohio,OH,3,,R. William Patterson,Democratic,,41.0,False,False,False
+1956,house,Ohio,OH,4,,William McCulloch,Republican,,68.8,True,True,False
+1956,house,Ohio,OH,4,,Ortha O. Barr Jr.,Democratic,,31.2,False,False,False
+1956,house,Ohio,OH,5,,Cliff Clevenger,Republican,,62.3,True,True,False
+1956,house,Ohio,OH,5,,George E. Rafferty,Democratic,,37.7,False,False,False
+1956,house,Ohio,OH,6,,James G. Polk,Democratic,,54.5,True,True,False
+1956,house,Ohio,OH,6,,Albert L. Daniels,Republican,,45.5,False,False,False
+1956,house,Ohio,OH,7,,Clarence J. Brown,Republican,,65.9,True,True,False
+1956,house,Ohio,OH,7,,Joseph A. Sullivan,Democratic,,34.1,False,False,False
+1956,house,Ohio,OH,8,,Jackson E. Betts,Republican,,63.5,True,True,False
+1956,house,Ohio,OH,8,,Robert M. Corry,Democratic,,36.5,False,False,False
+1956,house,Ohio,OH,9,,Thomas L. Ashley,Democratic,,55.2,True,True,False
+1956,house,Ohio,OH,9,,Harvey G. Straub,Republican,,44.8,False,False,False
+1956,house,Ohio,OH,10,,Thomas A. Jenkins,Republican,,100.0,True,True,False
+1956,house,Ohio,OH,11,,David S. Dennison Jr.,Republican,,58.4,True,False,True
+1956,house,Ohio,OH,11,,James P. Bennett,Democratic,,41.6,False,False,True
+1956,house,Ohio,OH,12,,John M. Vorys,Republican,,61.8,True,True,False
+1956,house,Ohio,OH,12,,Walter J. Shapter Jr.,Democratic,,38.2,False,False,False
+1956,house,Ohio,OH,13,,A. David Baumhart Jr.,Republican,,70.7,True,True,False
+1956,house,Ohio,OH,13,,J. P. Henderson,Democratic,,29.3,False,False,False
+1956,house,Ohio,OH,14,,William H. Ayres,Republican,,58.9,True,True,False
+1956,house,Ohio,OH,14,,Bernard Rosen,Democratic,,41.1,False,False,False
+1956,house,Ohio,OH,15,,John E. Henderson,Republican,,60.5,True,True,False
+1956,house,Ohio,OH,15,,Herbert U. Smith,Democratic,,39.5,False,False,False
+1956,house,Ohio,OH,16,,Frank T. Bow,Republican,,55.2,True,True,False
+1956,house,Ohio,OH,16,,John McSweeney,Democratic,,44.8,False,False,False
+1956,house,Ohio,OH,17,,J. Harry McGregor,Republican,,66.5,True,True,False
+1956,house,Ohio,OH,17,,Robert W. Levering,Democratic,,33.5,False,False,False
+1956,house,Ohio,OH,18,,Wayne Hays,Democratic,,59.6,True,True,False
+1956,house,Ohio,OH,18,,Joseph Miller,Republican,,40.4,False,False,False
+1956,house,Ohio,OH,19,,Michael J. Kirwan,Democratic,,68.7,True,True,False
+1956,house,Ohio,OH,19,,Ralph E. Turner,Republican,,31.3,False,False,False
+1956,house,Ohio,OH,20,,Michael A. Feighan,Democratic,,65.3,True,True,False
+1956,house,Ohio,OH,20,,John H. Ferguson,Republican,,34.7,False,False,False
+1956,house,Ohio,OH,21,,Charles Vanik,Democratic,,71.6,True,True,False
+1956,house,Ohio,OH,21,,Charles H. Loeb,Republican,,28.4,False,False,False
+1956,house,Ohio,OH,22,,Frances P. Bolton,Republican,,66.7,True,True,False
+1956,house,Ohio,OH,22,,Harry A. Blachman,Democratic,,33.3,False,False,False
+1956,house,Ohio,OH,23,,William E. Minshall Jr.,Republican,,69.0,True,True,False
+1956,house,Ohio,OH,23,,George A. Hurley,Democratic,,31.0,False,False,False
+1956,house,Oklahoma,OK,1,,Page Belcher,Republican,,57.2,True,True,False
+1956,house,Oklahoma,OK,1,,Harry B. Moreland,Democratic,,42.8,False,False,False
+1956,house,Oklahoma,OK,2,,Ed Edmondson,Democratic,,60.2,True,True,False
+1956,house,Oklahoma,OK,2,,Percy Butler,Republican,,39.8,False,False,False
+1956,house,Oklahoma,OK,3,,Carl Albert,Democratic,,76.5,True,True,False
+1956,house,Oklahoma,OK,3,,Chapin Wallace,Republican,,23.0,False,False,False
+1956,house,Oklahoma,OK,3,,John R. Patrick,Independent,,0.5,False,False,False
+1956,house,Oklahoma,OK,4,,Tom Steed,Democratic,,61.1,True,True,False
+1956,house,Oklahoma,OK,4,,Harold H. Potter,Republican,,38.9,False,False,False
+1956,house,Oklahoma,OK,5,,John Jarman,Democratic,,63.7,True,True,False
+1956,house,Oklahoma,OK,5,,Hobart H. Hobbs,Republican,,36.3,False,False,False
+1956,house,Oklahoma,OK,6,,Toby Morris,Democratic,,68.9,True,False,False
+1956,house,Oklahoma,OK,6,,Fred L. Coogan,Republican,,31.1,False,False,False
+1956,house,Oregon,OR,1,,A. Walter Norblad,Republican,,54.7,True,True,False
+1956,house,Oregon,OR,1,,Jason Lee,Democratic,,45.3,False,False,False
+1956,house,Oregon,OR,2,,Al Ullman,Democratic,,50.7,True,False,False
+1956,house,Oregon,OR,2,,Sam Coon,Republican,,49.3,False,True,False
+1956,house,Oregon,OR,3,,Edith Green,Democratic,,61.6,True,True,False
+1956,house,Oregon,OR,3,,Phil J. Roth,Republican,,38.4,False,False,False
+1956,house,Oregon,OR,4,,Charles O. Porter,Democratic,,51.3,True,False,False
+1956,house,Oregon,OR,4,,Harris Ellsworth,Republican,,48.7,False,True,False
+1956,house,Pennsylvania,PA,1,,William A. Barrett,Democratic,,62.7,True,True,False
+1956,house,Pennsylvania,PA,1,,A. J. Cammarota,Republican,,37.3,False,False,False
+1956,house,Pennsylvania,PA,2,,Kathryn E. Granahan,Democratic,,61.89,True,False,True
+1956,house,Pennsylvania,PA,2,,Robert F. Frankenfield,Republican,,38.11,False,False,True
+1956,house,Pennsylvania,PA,3,,James A. Byrne,Democratic,,59.9,True,True,False
+1956,house,Pennsylvania,PA,3,,Charles H. Sporkin,Republican,,40.1,False,False,False
+1956,house,Pennsylvania,PA,4,,Earl Chudoff,Democratic,,69.1,True,True,False
+1956,house,Pennsylvania,PA,4,,Horace C. Scott,Republican,,30.9,False,False,False
+1956,house,Pennsylvania,PA,5,,William J. Green Jr.,Democratic,,53.3,True,True,False
+1956,house,Pennsylvania,PA,5,,James J. Schissler,Republican,,46.7,False,False,False
+1956,house,Pennsylvania,PA,6,,Hugh Scott,Republican,,51.5,True,True,False
+1956,house,Pennsylvania,PA,6,,Herbert J. McGlinchey,Democratic,,48.5,False,False,False
+1956,house,Pennsylvania,PA,7,,Benjamin F. James,Republican,,61.9,True,True,False
+1956,house,Pennsylvania,PA,7,,William A. Welsh,Democratic,,38.1,False,False,False
+1956,house,Pennsylvania,PA,8,,Willard S. Curtin,Republican,,55.9,True,False,True
+1956,house,Pennsylvania,PA,8,,John P. Fullam,Democratic,,44.1,False,False,True
+1956,house,Pennsylvania,PA,9,,Paul B. Dague,Republican,,68.4,True,True,False
+1956,house,Pennsylvania,PA,9,,Edward G. Wilson,Democratic,,31.6,False,False,False
+1956,house,Pennsylvania,PA,10,,Joseph L. Carrigg,Republican,,55.8,True,True,False
+1956,house,Pennsylvania,PA,10,,Jerome P. Casey,Democratic,,44.2,False,False,False
+1956,house,Pennsylvania,PA,11,,Daniel Flood,Democratic,,53.1,True,True,False
+1956,house,Pennsylvania,PA,11,,Enoch H. Thomas Jr.,Republican,,46.9,False,False,False
+1956,house,Pennsylvania,PA,12,,Ivor D. Fenton,Republican,,56.5,True,True,False
+1956,house,Pennsylvania,PA,12,,George G. Lindsay,Democratic,,43.5,False,False,False
+1956,house,Pennsylvania,PA,13,,Samuel K. McConnell Jr.,Republican,,66.7,True,True,False
+1956,house,Pennsylvania,PA,13,,Alfred M. Klein,Democratic,,33.3,False,False,False
+1956,house,Pennsylvania,PA,14,,George M. Rhodes,Democratic,,51.3,True,True,False
+1956,house,Pennsylvania,PA,14,,Thomas K. Leinbach,Republican,,48.4,False,False,False
+1956,house,Pennsylvania,PA,14,,Birch Wilson,Socialist Party of America,,0.3,False,False,False
+1956,house,Pennsylvania,PA,15,,Francis E. Walter,Democratic,,55.6,True,True,False
+1956,house,Pennsylvania,PA,15,,George M. Berg,Republican,,44.4,False,False,False
+1956,house,Pennsylvania,PA,16,,Walter M. Mumma,Republican,,60.5,True,True,False
+1956,house,Pennsylvania,PA,16,,Guy J. Swope,Democratic,,39.5,False,False,False
+1956,house,Pennsylvania,PA,17,,Alvin Bush,Republican,,58.6,True,True,False
+1956,house,Pennsylvania,PA,17,,Dean R. Fisher,Democratic,,41.4,False,False,False
+1956,house,Pennsylvania,PA,18,,Richard M. Simpson,Republican,,59.9,True,True,False
+1956,house,Pennsylvania,PA,18,,Ross E. Hershberger,Democratic,,40.1,False,False,False
+1956,house,Pennsylvania,PA,19,,S. Walter Stauffer,Republican,,53.8,True,False,False
+1956,house,Pennsylvania,PA,19,,James M. Quigley,Democratic,,46.2,False,True,False
+1956,house,Pennsylvania,PA,20,,James E. Van Zandt,Republican,,63.0,True,True,False
+1956,house,Pennsylvania,PA,20,,John R. Stewart,Democratic,,37.0,False,False,False
+1956,house,Pennsylvania,PA,21,,Augustine B. Kelley,Democratic,,56.8,True,True,False
+1956,house,Pennsylvania,PA,21,,Herbert O. Morrison,Republican,,43.2,False,False,False
+1956,house,Pennsylvania,PA,22,,John P. Saylor,Republican,,56.9,True,True,False
+1956,house,Pennsylvania,PA,22,,Joseph C. Dolan,Democratic,,43.1,False,False,False
+1956,house,Pennsylvania,PA,23,,Leon H. Gavin,Republican,,66.1,True,True,False
+1956,house,Pennsylvania,PA,23,,Grace M. Sloan,Democratic,,33.9,False,False,False
+1956,house,Pennsylvania,PA,24,,Carroll D. Kearns,Republican,,57.8,True,True,False
+1956,house,Pennsylvania,PA,24,,William D. Thomas,Democratic,,42.2,False,False,False
+1956,house,Pennsylvania,PA,25,,Frank M. Clark,Democratic,,51.3,True,True,False
+1956,house,Pennsylvania,PA,25,,Sidney L. Lockley,Republican,,48.7,False,False,False
+1956,house,Pennsylvania,PA,26,,Thomas E. Morgan,Democratic,,61.9,True,True,False
+1956,house,Pennsylvania,PA,26,,I. Willits McCaskey,Republican,,38.1,False,False,False
+1956,house,Pennsylvania,PA,27,,James G. Fulton,Republican,,66.0,True,True,False
+1956,house,Pennsylvania,PA,27,,Kenneth L. Stilley,Democratic,,34.0,False,False,False
+1956,house,Pennsylvania,PA,28,,Herman P. Eberharter,Democratic,,57.8,True,True,False
+1956,house,Pennsylvania,PA,28,,Richard C. Witt,Republican,,42.2,False,False,False
+1956,house,Pennsylvania,PA,29,,Bob Corbett,Republican,,64.7,True,True,False
+1956,house,Pennsylvania,PA,29,,Joseph A. Guerrier,Democratic,,35.3,False,False,False
+1956,house,Pennsylvania,PA,30,,Elmer J. Holland,Democratic,,59.8,True,True,True
+1956,house,Pennsylvania,PA,30,,Ross V. Walker,Republican,,40.2,False,False,True
+1956,house,Rhode Island,RI,1,,Aime Forand,Democratic,,56.0,True,True,False
+1956,house,Rhode Island,RI,1,,Samuel H. Ramsay,Republican,,44.0,False,False,False
+1956,house,Rhode Island,RI,2,,John E. Fogarty,Democratic,,52.2,True,True,False
+1956,house,Rhode Island,RI,2,,Thomas H. Needham,Republican,,47.8,False,False,False
+1956,house,South Carolina,SC,1,31114,L. Mendel Rivers,Democratic,31112,100.0,True,True,False
+1956,house,South Carolina,SC,2,49287,John J. Riley,Democratic,49284,100.0,True,True,False
+1956,house,South Carolina,SC,3,42282,William Jennings Bryan Dorn,Democratic,,93.2,True,True,True
+1956,house,South Carolina,SC,3,42282,Maka Knox,Republican,2885,6.8,False,False,True
+1956,house,South Carolina,SC,4,63115,Robert T. Ashmore,Democratic,53722,85.1,True,True,False
+1956,house,South Carolina,SC,4,63115,Dan H. Wallace Jr.,Republican,9393,14.9,False,False,False
+1956,house,South Carolina,SC,5,36454,Robert W. Hemphill,Democratic,36454,100.0,True,False,True
+1956,house,South Carolina,SC,6,39752,John L. McMillan,Democratic,39749,100.0,True,True,False
+1956,house,South Dakota,SD,1,,George McGovern,Democratic,,52.4,True,False,False
+1956,house,South Dakota,SD,1,,Harold Lovre,Republican,,47.6,False,True,False
+1956,house,South Dakota,SD,2,,E. Y. Berry,Republican,,55.9,True,True,False
+1956,house,South Dakota,SD,2,,Tom Eastman Jr.,Democratic,,44.1,False,False,False
+1956,house,Tennessee,TN,1,,B. Carroll Reece,Republican,,72.1,True,True,False
+1956,house,Tennessee,TN,1,,Arthur W. Bright,Democratic,,27.8,False,False,False
+1956,house,Tennessee,TN,1,,R. G. Duvaney,Independent,,0.01,False,False,False
+1956,house,Tennessee,TN,2,,Howard Baker Sr.,Republican,,100.0,True,True,False
+1956,house,Tennessee,TN,2,,R. G. Crossno,Independent,,0.001,False,False,False
+1956,house,Tennessee,TN,3,,James B. Frazier Jr.,Democratic,,53.7,True,True,False
+1956,house,Tennessee,TN,3,,P. H. Woods,Republican,,46.3,False,False,False
+1956,house,Tennessee,TN,4,,Joe L. Evins,Democratic,,98.4,True,True,False
+1956,house,Tennessee,TN,4,,Joe Smith,Republican,,1.6,False,False,False
+1956,house,Tennessee,TN,4,,Jack D. Walker,Independent,,0.002,False,False,False
+1956,house,Tennessee,TN,5,,J. Carlton Loser,Democratic,,74.5,True,False,True
+1956,house,Tennessee,TN,5,,George Spence,Republican,,25.5,False,False,True
+1956,house,Tennessee,TN,6,,Ross Bass,Democratic,,100.0,True,True,False
+1956,house,Tennessee,TN,7,,Tom J. Murray,Democratic,,100.0,True,True,False
+1956,house,Tennessee,TN,8,,Jere Cooper,Democratic,,100.0,True,True,False
+1956,house,Tennessee,TN,9,,Clifford Davis,Democratic,,71.7,True,True,False
+1956,house,Tennessee,TN,9,,Herbert L. Harper,Republican,,28.3,False,False,False
+1956,house,Tennessee,TN,9,,Robert Dobbs,Independent,,0.003,False,False,False
+1956,house,Tennessee,TN,9,,Joseph Marsh,Independent,,0.001,False,False,False
+1956,house,Texas,TX,1,,Wright Patman,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,2,,Jack Brooks,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,3,,Lindley Beckworth,Democratic,,83.5,True,False,True
+1956,house,Texas,TX,3,,R. E. Kennedy,Republican,,16.5,False,False,True
+1956,house,Texas,TX,4,,Sam Rayburn,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,5,,Bruce Alger,Republican,,55.6,True,True,False
+1956,house,Texas,TX,5,,Henry Wade,Democratic,,44.4,False,False,False
+1956,house,Texas,TX,6,,Olin E. Teague,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,7,,John Dowdy,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,8,,Albert Thomas,Democratic,,60.4,True,True,False
+1956,house,Texas,TX,8,,C. Anthony Friloux Jr.,Republican,,38.0,False,False,False
+1956,house,Texas,TX,8,,W. C. Miller,Constitution,,1.6,False,False,False
+1956,house,Texas,TX,9,,Clark W. Thompson,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,10,,Homer Thornberry,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,11,,William R. Poage,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,12,,Jim Wright,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,13,,Frank N. Ikard,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,14,,John Young,Democratic,,87.3,True,False,False
+1956,house,Texas,TX,14,,Olive B. Stichter,Republican,,12.7,False,False,False
+1956,house,Texas,TX,15,,Joe M. Kilgore,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,16,,J. T. Rutherford,Democratic,,64.6,True,True,False
+1956,house,Texas,TX,16,,Charles H. Gibson,Republican,,35.4,False,False,False
+1956,house,Texas,TX,17,,Omar Burleson,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,18,,Walter E. Rogers,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,19,,George H. Mahon,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,20,,Paul J. Kilday,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,21,,O. C. Fisher,Democratic,,100.0,True,True,False
+1956,house,Texas,TX,AL,,Martin Dies Jr.,Democratic,,98.5,True,True,False
+1956,house,Texas,TX,AL,,Fred T. Spangler,Constitution,,1.5,False,False,False
+1956,house,Utah,UT,1,,Henry Aldous Dixon,Republican,,60.9,True,True,False
+1956,house,Utah,UT,1,,Carlyle F. Gronning,Democratic,,39.1,False,False,False
+1956,house,Utah,UT,2,,William A. Dawson,Republican,,57.6,True,True,False
+1956,house,Utah,UT,2,,Oscar W. McConkie Jr.,Democratic,,42.4,False,False,False
+1956,house,Vermont,VT,AL,,Winston L. Prouty,Republican,,67.1,True,True,False
+1956,house,Vermont,VT,AL,,Camille E. St. Amour,Democratic,,32.9,False,False,False
+1956,house,Virginia,VA,1,,Edward J. Robeson Jr.,Democratic,,50.8,True,True,False
+1956,house,Virginia,VA,1,,Horace E. Henderson,Republican,,49.2,False,False,False
+1956,house,Virginia,VA,2,,Porter Hardy Jr.,Democratic,,76.4,True,True,False
+1956,house,Virginia,VA,2,,William R. Burns,Republican,,23.6,False,False,False
+1956,house,Virginia,VA,3,,J. Vaughan Gary,Democratic,,59.1,True,True,False
+1956,house,Virginia,VA,3,,Royal E. Cabell Jr.,Republican,,40.9,False,False,False
+1956,house,Virginia,VA,4,,Watkins Abbitt,Democratic,,100.0,True,True,False
+1956,house,Virginia,VA,5,,William M. Tuck,Democratic,,67.4,True,True,False
+1956,house,Virginia,VA,5,,Jackson L. Kiser,Republican,,32.6,False,False,False
+1956,house,Virginia,VA,6,,Dick Poff,Republican,,62.1,True,True,False
+1956,house,Virginia,VA,6,,John L. Whitehead,Democratic,,37.6,False,False,False
+1956,house,Virginia,VA,6,,J. B. Brayman,Social Democratic,,0.3,False,False,False
+1956,house,Virginia,VA,7,,Burr Harrison,Democratic,,69.0,True,True,False
+1956,house,Virginia,VA,7,,A. R. Dunning,Republican,,31.0,False,False,False
+1956,house,Virginia,VA,8,,Howard W. Smith,Democratic,,67.3,True,True,False
+1956,house,Virginia,VA,8,,Horace B. Clay,Republican,,32.7,False,False,False
+1956,house,Virginia,VA,9,,W. Pat Jennings,Democratic,,54.1,True,True,False
+1956,house,Virginia,VA,9,,William C. Wampler,Republican,,45.9,False,False,False
+1956,house,Virginia,VA,10,,Joel Broyhill,Republican,,56.2,True,True,False
+1956,house,Virginia,VA,10,,Warren D. Quenstedt,Democratic,,42.9,False,False,False
+1956,house,Virginia,VA,10,,Richard O. Read,Independent,,0.9,False,False,False
+1956,house,Washington,WA,1,,Thomas Pelly,Republican,,58.1,True,True,False
+1956,house,Washington,WA,1,,James B. Wilson,Democratic,,41.9,False,False,False
+1956,house,Washington,WA,2,,Jack Westland,Republican,,56.0,True,True,False
+1956,house,Washington,WA,2,,Payson Peterson,Democratic,,44.0,False,False,False
+1956,house,Washington,WA,3,,Russell V. Mack,Republican,,56.5,True,True,False
+1956,house,Washington,WA,3,,Al McCoy,Democratic,,43.5,False,False,False
+1956,house,Washington,WA,4,,Hal Holmes,Republican,,50.4,True,True,False
+1956,house,Washington,WA,4,,Frank LeRoux,Democratic,,49.6,False,False,False
+1956,house,Washington,WA,5,,Walt Horan,Republican,,53.8,True,True,False
+1956,house,Washington,WA,5,,Tom Delaney,Democratic,,46.2,False,False,False
+1956,house,Washington,WA,6,,Thor C. Tollefson,Republican,,54.0,True,True,False
+1956,house,Washington,WA,6,,John T. McCutcheon,Democratic,,46.0,False,False,False
+1956,house,Washington,WA,AL,,Don Magnuson,Democratic,,58.5,True,True,False
+1956,house,Washington,WA,AL,,Philip Evans,Republican,,41.5,False,False,False
+1956,house,West Virginia,WV,1,,Arch A. Moore Jr.,Republican,,50.3,True,False,True
+1956,house,West Virginia,WV,1,,C. Lee Spillers,Democratic,,49.7,False,False,True
+1956,house,West Virginia,WV,2,,Harley O. Staggers,Democratic,,52.4,True,True,False
+1956,house,West Virginia,WV,2,,Mary Elkins,Republican,,47.6,False,False,False
+1956,house,West Virginia,WV,3,,Cleveland M. Bailey,Democratic,,51.5,True,True,False
+1956,house,West Virginia,WV,3,,Daniel L. Louchery,Republican,,48.5,False,False,False
+1956,house,West Virginia,WV,4,,Will E. Neal,Republican,,52.8,True,False,False
+1956,house,West Virginia,WV,4,,Maurice G. Burnside,Democratic,,47.2,False,True,False
+1956,house,West Virginia,WV,5,,Elizabeth Kee,Democratic,,60.7,True,True,False
+1956,house,West Virginia,WV,5,,William H. Sanders,Republican,,39.3,False,False,False
+1956,house,West Virginia,WV,6,,Robert Byrd,Democratic,,57.4,True,True,False
+1956,house,West Virginia,WV,6,,Cleo C. Jones,Republican,,42.6,False,False,False
+1956,house,Wisconsin,WI,1,,Lawrence H. Smith,Republican,,57.1,True,True,False
+1956,house,Wisconsin,WI,1,,Gerald T. Flynn,Democratic,,42.9,False,False,False
+1956,house,Wisconsin,WI,2,,Donald E. Tewes,Republican,,55.3,True,False,True
+1956,house,Wisconsin,WI,2,,Robert Kastenmeier,Democratic,,44.7,False,False,True
+1956,house,Wisconsin,WI,3,,Gardner R. Withrow,Republican,,61.2,True,True,False
+1956,house,Wisconsin,WI,3,,Norman M. Clapp,Democratic,,38.8,False,False,False
+1956,house,Wisconsin,WI,4,,Clement Zablocki,Democratic,,65.7,True,True,False
+1956,house,Wisconsin,WI,4,,William J. Burke,Republican,,34.3,False,False,False
+1956,house,Wisconsin,WI,5,,Henry S. Reuss,Democratic,,57.8,True,True,False
+1956,house,Wisconsin,WI,5,,Russell Wirth Jr.,Republican,,42.2,False,False,False
+1956,house,Wisconsin,WI,6,,William Van Pelt,Republican,,67.2,True,True,False
+1956,house,Wisconsin,WI,6,,Rudolph J. Ploetz,Democratic,,32.8,False,False,False
+1956,house,Wisconsin,WI,7,,Melvin Laird,Republican,,61.8,True,True,False
+1956,house,Wisconsin,WI,7,,Margaret Anderson,Democratic,,38.2,False,False,False
+1956,house,Wisconsin,WI,8,,John W. Byrnes,Republican,,64.6,True,True,False
+1956,house,Wisconsin,WI,8,,Milo Singler,Democratic,,35.4,False,False,False
+1956,house,Wisconsin,WI,9,,Lester Johnson,Democratic,,51.4,True,True,False
+1956,house,Wisconsin,WI,9,,Arthur L. Peterson,Republican,,48.6,False,False,False
+1956,house,Wisconsin,WI,10,,Alvin O'Konski,Republican,,64.5,True,True,False
+1956,house,Wisconsin,WI,10,,Carl E. Lauri,Democratic,,35.5,False,False,False
+1956,house,Wyoming,WY,AL,,Keith Thomson,Republican,,58.2,True,True,False
+1956,house,Wyoming,WY,AL,,Jerry A. O'Callaghan,Democratic,,41.8,False,False,False
+1956,house,Alaska,AK,AL,,Bob Bartlett,Democratic,,67.0,True,True,False
+1956,house,Alaska,AK,AL,,Byron A. Gillam,Republican,,33.0,False,False,False
+1956,house,Hawaii,HI,AL,,John A. Burns,Democratic,,55.18,True,False,False
+1956,house,Hawaii,HI,AL,,Elizabeth P. Farrington,Republican,,44.82,False,True,False

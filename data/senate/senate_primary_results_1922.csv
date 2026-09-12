@@ -26,7 +26,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Candidate,False,Burton E. Sweet,Republican Party (United States),"35,406",10.94%
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Candidate,False,Claude M. Stanley,Republican Party (United States),"12,593",3.89%
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Total,False,,,"323,622",100.00%
-1922,Maine,1922 Republican U.S. Senate primary,Primary,Winning,False,Frederick Hale,Republican Party (United States),"40,151",59.83%
+1922,Maine,1922 Republican U.S. Senate primary,Primary,Winning,True,Frederick Hale,Republican Party (United States),"40,151",59.83%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Candidate,False,Frank E. Guernsey,Republican Party (United States),"18,937",28.22%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Candidate,False,Howard Davies,Republican Party (United States),"8,039",11.95%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Total,False,,,"67,107",100.00%
@@ -59,7 +59,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Hubert D. Stephens,Democratic Party (United States),"65,980",41.53%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Belle Kearney,Democratic Party (United States),"18,303",11.52%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"158,880",100.00%
-1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Winning,False,James A. Reed,Democratic Party (United States),"195,955",49.49%
+1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Winning,True,James A. Reed,Democratic Party (United States),"195,955",49.49%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Breckinridge Long,Democratic Party (United States),"190,013",47.99%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Robert I. Young,Democratic Party (United States),"9,979",2.52%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"395,947",100.00%
@@ -108,7 +108,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,North Dakota,Republican primary results,Primary,Total,False,,,"177,471",100.00%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Winning,False,Earle B. Mayfield,Democratic Party (United States),"153,538",26.78%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Pa Ferguson,Democratic Party (United States),"127,071",22.16%
-1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Charles Culberson,Democratic Party (United States),"99,635",17.38%
+1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,True,Charles Culberson,Democratic Party (United States),"99,635",17.38%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Cullen F. Thomas,Democratic Party (United States),"88,026",15.35%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Charles Ousley,Democratic Party (United States),"62,451",10.89%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Robert Lee Henry,Democratic Party (United States),"41,567",7.25%

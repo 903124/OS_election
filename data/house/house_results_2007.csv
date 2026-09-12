@@ -1,33 +1,33 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2007,house,California,CA,37,Laura Richardson,Democratic,36.5,True,False,True
-2007,house,California,CA,37,John Kanaley,Republican,7.4,True,False,True
-2007,house,California,CA,37,Daniel Brezenoff,Green,1.2,True,False,True
-2007,house,California,CA,37,Herb Peters,Libertarian,1.0,True,False,True
-2007,house,California,CA,37,Jenny Oropeza,Democratic,30.4,False,False,True
-2007,house,California,CA,37,Valerie McDonald,Democratic,9.2,False,False,True
-2007,house,California,CA,37,Peter Mathews,Democratic,3.4,False,False,True
-2007,house,California,CA,37,Teri Ramirez,Republican,1.9,False,False,True
-2007,house,California,CA,37,Jeffrey Leavitt,Republican,1.2,False,False,True
-2007,house,California,CA,37,Albert Robles (write-in),Democratic,1.1,False,False,True
-2007,house,California,CA,37,Ed Wilson,Democratic,1.1,False,False,True
-2007,house,California,CA,37,L. J. Guillory,Republican,1.1,False,False,True
-2007,house,California,CA,37,George Parmer,Democratic,0.7,False,False,True
-2007,house,California,CA,37,Lee Davis,Democratic,0.6,False,False,True
-2007,house,California,CA,37,Jeffrey Price,Democratic,0.4,False,False,True
-2007,house,California,CA,37,Bill Grisolia,Democratic,0.4,False,False,True
-2007,house,California,CA,37,Felicia Ford,Democratic,0.4,False,False,True
-2007,house,California,CA,37,Marvin Evans,Democratic,0.1,False,False,True
-2007,house,California,CA,37,Lee Davis (write-in),Independent,0.1,False,False,True
-2007,house,California,CA,37,Christopher Remple (write-in),Independent,0.0,False,False,True
-2007,house,Massachusetts,MA,5,Niki Tsongas,Democratic,51.32,True,False,True
-2007,house,Massachusetts,MA,5,Jim Ogonowski,Republican,45.1,False,False,True
-2007,house,Massachusetts,MA,5,Patrick O. Murphy,Independent,2.05,False,False,True
-2007,house,Massachusetts,MA,5,Kurt Hayes,Independent,1.06,False,False,True
-2007,house,Massachusetts,MA,5,Kevin Thompson,Constitution,0.47,False,False,True
-2007,house,Ohio,OH,5,Bob Latta,Republican,56.96,True,False,True
-2007,house,Ohio,OH,5,Robin Weirauch,Democratic,42.87,False,False,True
-2007,house,Ohio,OH,5,Write-ins,Write-ins,0.17,False,False,True
-2007,house,Virginia,VA,1,Rob Wittman,Republican,60.77,True,False,True
-2007,house,Virginia,VA,1,Philip Forgit,Democratic,37.34,False,False,True
-2007,house,Virginia,VA,1,Lucky R. Narain,Independent,1.78,False,False,True
-2007,house,Virginia,VA,1,Write-ins,Write-ins,0.11,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2007,house,California,CA,37,32736,Laura Richardson,Democratic,11956,36.5,True,False,True
+2007,house,California,CA,37,32736,John Kanaley,Republican,2425,7.4,True,False,True
+2007,house,California,CA,37,32736,Daniel Brezenoff,Green,391,1.2,True,False,True
+2007,house,California,CA,37,32736,Herb Peters,Libertarian,342,1.0,True,False,True
+2007,house,California,CA,37,32736,Jenny Oropeza,Democratic,9960,30.4,False,False,True
+2007,house,California,CA,37,32736,Valerie McDonald,Democratic,3027,9.2,False,False,True
+2007,house,California,CA,37,32736,Peter Mathews,Democratic,1125,3.4,False,False,True
+2007,house,California,CA,37,32736,Teri Ramirez,Republican,612,1.9,False,False,True
+2007,house,California,CA,37,32736,Jeffrey Leavitt,Republican,386,1.2,False,False,True
+2007,house,California,CA,37,32736,Albert Robles (write-in),Democratic,363,1.1,False,False,True
+2007,house,California,CA,37,32736,Ed Wilson,Democratic,362,1.1,False,False,True
+2007,house,California,CA,37,32736,L. J. Guillory,Republican,361,1.1,False,False,True
+2007,house,California,CA,37,32736,George Parmer,Democratic,242,0.7,False,False,True
+2007,house,California,CA,37,32736,Lee Davis,Democratic,202,0.6,False,False,True
+2007,house,California,CA,37,32736,Jeffrey Price,Democratic,142,0.4,False,False,True
+2007,house,California,CA,37,32736,Bill Grisolia,Democratic,141,0.4,False,False,True
+2007,house,California,CA,37,32736,Felicia Ford,Democratic,122,0.4,False,False,True
+2007,house,California,CA,37,32736,Marvin Evans,Democratic,29,0.1,False,False,True
+2007,house,California,CA,37,23706,Lee Davis (write-in),Independent,12,0.1,False,False,True
+2007,house,California,CA,37,23706,Christopher Remple (write-in),Independent,1,0.0,False,False,True
+2007,house,Massachusetts,MA,5,105922,Niki Tsongas,Democratic,54363,51.32,True,False,True
+2007,house,Massachusetts,MA,5,105922,Jim Ogonowski,Republican,47770,45.1,False,False,True
+2007,house,Massachusetts,MA,5,105922,Patrick O. Murphy,Independent,2170,2.05,False,False,True
+2007,house,Massachusetts,MA,5,105922,Kurt Hayes,Independent,1125,1.06,False,False,True
+2007,house,Massachusetts,MA,5,105922,Kevin Thompson,Constitution,494,0.47,False,False,True
+2007,house,Ohio,OH,5,98510,Bob Latta,Republican,56114,56.96,True,False,True
+2007,house,Ohio,OH,5,98510,Robin Weirauch,Democratic,42229,42.87,False,False,True
+2007,house,Ohio,OH,5,98510,Write-ins,Write-ins,167,0.17,False,False,True
+2007,house,Virginia,VA,1,70382,Rob Wittman,Republican,42772,60.77,True,False,True
+2007,house,Virginia,VA,1,70382,Philip Forgit,Democratic,26282,37.34,False,False,True
+2007,house,Virginia,VA,1,70382,Lucky R. Narain,Independent,1253,1.78,False,False,True
+2007,house,Virginia,VA,1,70382,Write-ins,Write-ins,75,0.11,False,False,True

@@ -629,7 +629,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Candidate,False,Burton E. Sweet,Republican Party (United States),"35,406",10.94%
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Candidate,False,Claude M. Stanley,Republican Party (United States),"12,593",3.89%
 1922,Iowa (special),1922 Republican U.S. Senate primary,Primary,Total,False,,,"323,622",100.00%
-1922,Maine,1922 Republican U.S. Senate primary,Primary,Winning,False,Frederick Hale,Republican Party (United States),"40,151",59.83%
+1922,Maine,1922 Republican U.S. Senate primary,Primary,Winning,True,Frederick Hale,Republican Party (United States),"40,151",59.83%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Candidate,False,Frank E. Guernsey,Republican Party (United States),"18,937",28.22%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Candidate,False,Howard Davies,Republican Party (United States),"8,039",11.95%
 1922,Maine,1922 Republican U.S. Senate primary,Primary,Total,False,,,"67,107",100.00%
@@ -662,7 +662,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Hubert D. Stephens,Democratic Party (United States),"65,980",41.53%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Belle Kearney,Democratic Party (United States),"18,303",11.52%
 1922,Mississippi,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"158,880",100.00%
-1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Winning,False,James A. Reed,Democratic Party (United States),"195,955",49.49%
+1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Winning,True,James A. Reed,Democratic Party (United States),"195,955",49.49%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Breckinridge Long,Democratic Party (United States),"190,013",47.99%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Robert I. Young,Democratic Party (United States),"9,979",2.52%
 1922,Missouri,1922 Democratic U.S. Senate primary,Primary,Total,False,,,"395,947",100.00%
@@ -711,7 +711,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,North Dakota,Republican primary results,Primary,Total,False,,,"177,471",100.00%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Winning,False,Earle B. Mayfield,Democratic Party (United States),"153,538",26.78%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Pa Ferguson,Democratic Party (United States),"127,071",22.16%
-1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Charles Culberson,Democratic Party (United States),"99,635",17.38%
+1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,True,Charles Culberson,Democratic Party (United States),"99,635",17.38%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Cullen F. Thomas,Democratic Party (United States),"88,026",15.35%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Charles Ousley,Democratic Party (United States),"62,451",10.89%
 1922,Texas,1922 Democratic U.S. Senate primary,Primary,Candidate,False,Robert Lee Henry,Democratic Party (United States),"41,567",7.25%
@@ -747,6 +747,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1922,Wyoming,Democratic primary,Primary,Total,False,,,"12,682",100.00%
 1922,Wyoming,Republican primary,Primary,Winning,False,Frank W. Mondell,Republican Party (United States),"25,055",100.00%
 1922,Wyoming,Republican primary,Primary,Total,False,,,"25,055",100.00%
+1923,Vermont (special),Republican primary results,Primary,Winning,False,Porter H. Dale,Republican Party (United States),"26,654",53.7%
+1923,Vermont (special),Republican primary results,Primary,Candidate,False,John W. Redmond,Republican Party (United States),"13,727",27.6%
+1923,Vermont (special),Republican primary results,Primary,Candidate,False,Stanley C. Wilson,Republican Party (United States),"9,250",18.6%
+1923,Vermont (special),Republican primary results,Primary,Candidate,False,Other,Republican Party (United States),28,0.1%
+1923,Vermont (special),Republican primary results,Primary,Total,False,,,"49,659",100.0%
+1923,Vermont (special),Democratic primary results,Primary,Winning,False,Park H. Pollard,Democratic Party (United States),"1,428",99.0%
+1923,Vermont (special),Democratic primary results,Primary,Candidate,False,Other,Democratic Party (United States),15,1.0%
+1923,Vermont (special),Democratic primary results,Primary,Total,False,,,"1,443",100.0%
 1924,Colorado,Democratic primary results,Primary,Winning,False,Alva B. Adams,Democratic Party (United States),"44,891",100.00
 1924,Colorado,Democratic primary results,Primary,Total,False,,,"44,891",100.00
 1924,Colorado,Republican primary results,Primary,Winning,False,Lawrence C. Phipps (inc.),Republican Party (United States),"81,596",100.00
@@ -1085,7 +1093,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1928,Illinois (special),Republican primary,Primary,Candidate,False,Frank L. Smith,Republican Party (United States),"355,356",36.74
 1928,Illinois (special),Republican primary,Primary,Candidate,False,Others,Write-in,3,0.00
 1928,Illinois (special),Republican primary,Primary,Total,False,,,"967,256",100
-1928,Maine,1928 Republican U.S. Senate primary,Primary,Winning,False,Frederick Hale,Republican Party (United States),"77,830",63.61%
+1928,Maine,1928 Republican U.S. Senate primary,Primary,Winning,True,Frederick Hale,Republican Party (United States),"77,830",63.61%
 1928,Maine,1928 Republican U.S. Senate primary,Primary,Candidate,False,Owen Brewster,Republican Party (United States),"44,524",36.39%
 1928,Maine,1928 Republican U.S. Senate primary,Primary,Total,False,,,"122,354",100.00%
 1928,Maine,1928 Democratic U.S. Senate primary,Primary,Winning,False,Herbert E. Holmes,Democratic Party (United States),"8,927",99.32%
@@ -1149,7 +1157,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1928,North Dakota,Republican primary results,Primary,Candidate,False,C. P. Stone,Republican Party (United States),"10,247",5.55%
 1928,North Dakota,Republican primary results,Primary,Candidate,False,Herman N. Midtbo,Republican Party (United States),"1,685",0.91%
 1928,North Dakota,Republican primary results,Primary,Total,False,,,"184,729",100.00%
-1928,Tennessee,1928 Democratic Senate primary,Primary,Winning,False,Kenneth McKellar,Democratic Party (United States),"120,298",63.25%
+1928,Tennessee,1928 Democratic Senate primary,Primary,Winning,True,Kenneth McKellar,Democratic Party (United States),"120,298",63.25%
 1928,Tennessee,1928 Democratic Senate primary,Primary,Candidate,False,Finis James Garrett,Democratic Party (United States),"64,470",33.90%
 1928,Tennessee,1928 Democratic Senate primary,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"3,510",1.85%
 1928,Tennessee,1928 Democratic Senate primary,Primary,Candidate,False,George L. Casey,Democratic Party (United States),"1,908",1.00%
@@ -1351,7 +1359,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Harry S. Kessler,Democratic Party (United States),"4,647",11.70
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Owen T. Stratton,Democratic Party (United States),"4,219",10.62
 1932,Idaho,Democratic primary results,Primary,Total,False,,,"39,725",
-1932,Idaho,Republican primary results,Primary,Winning,False,John Thomas,Republican Party (United States),"32,812",66.65
+1932,Idaho,Republican primary results,Primary,Winning,True,John Thomas,Republican Party (United States),"32,812",66.65
 1932,Idaho,Republican primary results,Primary,Candidate,False,J. Wesley Holden,Republican Party (United States),"16,418",33.35
 1932,Idaho,Republican primary results,Primary,Total,False,,,"49,230",
 1932,Illinois,Democratic primary,Primary,Winning,False,William H. Dieterich,Democratic Party (United States),"342,360",51.04
@@ -1515,7 +1523,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1934,Florida,1934 Democratic U.S. Senate primary,Primary,Candidate,False,James F. Sikes,Democratic Party (United States),"14,558",6.81%
 1934,Florida,1934 Democratic U.S. Senate primary,Primary,Candidate,False,Hortense K. Wells,Democratic Party (United States),"8,167",3.82%
 1934,Florida,1934 Democratic U.S. Senate primary,Primary,Total,False,,,"213,897",100.00%
-1934,Maine,1934 Republican U.S. Senate primary,Primary,Winning,False,Frederick Hale,Republican Party (United States),"61,141",76.70%
+1934,Maine,1934 Republican U.S. Senate primary,Primary,Winning,True,Frederick Hale,Republican Party (United States),"61,141",76.70%
 1934,Maine,1934 Republican U.S. Senate primary,Primary,Candidate,False,Louis A. Jack,Republican Party (United States),"18,578",23.30%
 1934,Maine,1934 Republican U.S. Senate primary,Primary,Total,False,,,"79,719",100.00%
 1934,Maine,1934 Democratic U.S. Senate primary,Primary,Winning,False,F. Harold Dubord,Democratic Party (United States),"15,743",54.03%
@@ -1569,7 +1577,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1934,Montana,Republican Primary results,Primary,Total,False,,,"51,361",100.00
 1934,Montana (special),Democratic Party primary results,Primary,Winning,False,James E. Murray,Democratic Party (United States),"19,640",24.89%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,James F. O'Connor,Democratic Party (United States),"18,194",23.05%
-1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,John E. Erickson,Democratic Party (United States),"17,440",22.10%
+1934,Montana (special),Democratic Party primary results,Primary,Candidate,True,John E. Erickson,Democratic Party (United States),"17,440",22.10%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,Louis P. Donovan,Democratic Party (United States),"10,212",12.94%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,John A. Lovelace,Democratic Party (United States),"8,649",10.96%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,W. W. Hamilton,Democratic Party (United States),"4,788",6.07%
@@ -1593,7 +1601,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1934,Ohio,1934 Democratic Senate primary,Primary,Candidate,False,Charles F. West,Democratic Party (United States),"168,120",28.05%
 1934,Ohio,1934 Democratic Senate primary,Primary,Candidate,False,George White,Democratic Party (United States),"167,939",28.02%
 1934,Ohio,1934 Democratic Senate primary,Primary,Total,False,,,"599,457",100.00%
-1934,Tennessee,1934 Democratic Senate primary,Primary,Winning,False,Kenneth McKellar,Democratic Party (United States),"212,226",83.99%
+1934,Tennessee,1934 Democratic Senate primary,Primary,Winning,True,Kenneth McKellar,Democratic Party (United States),"212,226",83.99%
 1934,Tennessee,1934 Democratic Senate primary,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"40,463",16.01%
 1934,Tennessee,1934 Democratic Senate primary,Primary,Total,False,,,"252,689",100.00%
 1934,Tennessee (special),Democratic Party primary results,Primary,Winning,True,Nathan L. Bachman,Democratic Party (United States),"166,293",57.85%
@@ -2000,7 +2008,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1940,Idaho (special),Democratic primary results,Primary,Candidate,False,James R. Bothwell,Democratic Party (United States),"17,935",33.80
 1940,Idaho (special),Democratic primary results,Primary,Candidate,False,George E. Donart,Democratic Party (United States),"16,145",30.42
 1940,Idaho (special),Democratic primary results,Primary,Total,False,,,"53,064",
-1940,Idaho (special),Republican primary results,Primary,Winning,False,John Thomas,Republican Party (United States),"32,732",60.66
+1940,Idaho (special),Republican primary results,Primary,Winning,True,John Thomas,Republican Party (United States),"32,732",60.66
 1940,Idaho (special),Republican primary results,Primary,Candidate,False,Abe McGregor Goff,Republican Party (United States),"7,476",13.86
 1940,Idaho (special),Republican primary results,Primary,Candidate,False,"J. D. ""Cy"" Price",Republican Party (United States),"4,647",8.61
 1940,Idaho (special),Republican primary results,Primary,Candidate,False,E. W. Sinclair,Republican Party (United States),"4,021",7.45
@@ -2116,7 +2124,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1940,Ohio,1940 Republican Senate primary,Primary,Candidate,False,Dudley A. White,Republican Party (United States),"235,344",41.01%
 1940,Ohio,1940 Republican Senate primary,Primary,Candidate,False,Charles E. Wharton,Republican Party (United States),"35,258",6.14%
 1940,Ohio,1940 Republican Senate primary,Primary,Total,False,,,"573,941",100.00%
-1940,Tennessee,1940 Democratic Senate primary,Primary,Winning,False,Kenneth McKellar,Democratic Party (United States),"230,055",91.54%
+1940,Tennessee,1940 Democratic Senate primary,Primary,Winning,True,Kenneth McKellar,Democratic Party (United States),"230,055",91.54%
 1940,Tennessee,1940 Democratic Senate primary,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"14,583",5.80%
 1940,Tennessee,1940 Democratic Senate primary,Primary,Candidate,False,Claude C. Tolen,Democratic Party (United States),"6,671",2.66%
 1940,Tennessee,1940 Democratic Senate primary,Primary,Total,False,,,"251,309",100.00%
@@ -2193,7 +2201,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Francis M. Bistline,Democratic Party (United States),"4,550",14.18
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Owen T. Stratton,Democratic Party (United States),"1,706",5.31
 1942,Idaho,Democratic primary results,Primary,Total,False,,,"32,098",
-1942,Idaho,Republican primary results,Primary,Winning,False,John Thomas,Republican Party (United States),"18,947",63.19
+1942,Idaho,Republican primary results,Primary,Winning,True,John Thomas,Republican Party (United States),"18,947",63.19
 1942,Idaho,Republican primary results,Primary,Candidate,False,John C. Sanborn,Republican Party (United States),"5,582",18.62
 1942,Idaho,Republican primary results,Primary,Candidate,False,Presley F. Horne,Republican Party (United States),"5,455",18.19
 1942,Idaho,Republican primary results,Primary,Total,False,,,"29,984",
@@ -2335,7 +2343,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,South Dakota,Republican primary,Primary,Winning,False,Harlan J. Bushfield,Republican Party (United States),"52,342",63.32%
 1942,South Dakota,Republican primary,Primary,Candidate,False,Olive A. Ringsrud,Republican Party (United States),"30,325",36.68%
 1942,South Dakota,Republican primary,Primary,Total,False,,,"82,667",100.00%
-1942,Tennessee,Democratic Party primary results,Primary,Winning,False,Tom Stewart,Democratic Party (United States),"136,415",51.89%
+1942,Tennessee,Democratic Party primary results,Primary,Winning,True,Tom Stewart,Democratic Party (United States),"136,415",51.89%
 1942,Tennessee,Democratic Party primary results,Primary,Candidate,False,Edward W. Carmack Jr.,Democratic Party (United States),"116,841",44.44%
 1942,Tennessee,Democratic Party primary results,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"9,653",3.67%
 1942,Tennessee,Democratic Party primary results,Primary,Total,False,,,"262,909",100.00%
@@ -2359,7 +2367,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1944,Arizona,Democratic primary results,Primary,Total,False,,,"75,635",100.00
 1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Winning,False,J. William Fulbright,Democratic Party (United States),"67,168",36.33%
 1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Candidate,False,Homer Martin Adkins,Democratic Party (United States),"49,795",26.93%
-1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Candidate,False,L. H. Barton,Democratic Party (United States),"43,053",23.28%
+1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Candidate,False,T. H. Barton,Democratic Party (United States),"43,053",23.28%
 1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Candidate,True,Hattie Caraway,Democratic Party (United States),"24,881",13.46%
 1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Total,False,,,"184,897",100.00%
 1944,Arkansas,1944 Democratic U.S. Senate primary,Primary,Winning,False,J. William Fulbright,Democratic Party (United States),"117,121",57.90%
@@ -2650,7 +2658,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1946,Ohio (special),1946 Democratic Senate primary,Primary,Candidate,False,Marvin C. Harrison,Democratic Party (United States),"70,697",25.18%
 1946,Ohio (special),1946 Democratic Senate primary,Primary,Candidate,False,Edward A. Huth,Democratic Party (United States),"12,133",4.32%
 1946,Ohio (special),1946 Democratic Senate primary,Primary,Total,False,,,"280,810",100.00%
-1946,Tennessee,1946 Democratic Senate primary,Primary,Winning,False,Kenneth McKellar,Democratic Party (United States),"188,805",61.95%
+1946,Tennessee,1946 Democratic Senate primary,Primary,Winning,True,Kenneth McKellar,Democratic Party (United States),"188,805",61.95%
 1946,Tennessee,1946 Democratic Senate primary,Primary,Candidate,False,Edward W. Carmack Jr.,Democratic Party (United States),"107,363",35.23%
 1946,Tennessee,1946 Democratic Senate primary,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"3,130",1.03%
 1946,Tennessee,1946 Democratic Senate primary,Primary,Candidate,False,Herman H. Ross,Democratic Party (United States),"2,995",0.98%
@@ -2672,7 +2680,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1946,Virginia,1946 Democratic U.S. Senate primary,Primary,Candidate,False,Martin A. Hutchinson,Democratic Party (US),"81,605",36.51%
 1946,Virginia,1946 Democratic U.S. Senate primary,Primary,Total,False,,,"223,528",100.00%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Winning,False,Harry Cain,Republican Party (US),"158,596",43.88%
-1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Winning,False,Hugh Mitchell,Democratic Party (US),"134,286",37.15%
+1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Winning,True,Hugh Mitchell,Democratic Party (US),"134,286",37.15%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Candidate,False,Russell H. Fluent,Democratic Party (US),"35,758",9.89%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Candidate,False,Ed F. Oldfield,Republican Party (US),"21,017",5.82%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Candidate,False,Sam C. Herren,Republican Party (US),"11,789",3.26%
@@ -2796,7 +2804,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1948,South Dakota,Republican primary,Primary,Candidate,False,Otto B. Lindstad,Republican Party (United States),"12,022",15.49%
 1948,South Dakota,Republican primary,Primary,Total,False,,,"77,617",100.00%
 1948,Tennessee,Democratic Party primary results,Primary,Winning,False,C. Estes Kefauver,Democratic Party (United States),"171,791",42.24%
-1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,A. Tom Stewart,Democratic Party (United States),"129,873",31.94%
+1948,Tennessee,Democratic Party primary results,Primary,Candidate,True,A. Tom Stewart,Democratic Party (United States),"129,873",31.94%
 1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,John Mitchell,Democratic Party (United States),"96,192",23.65%
 1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,George W. Hardin,Democratic Party (United States),"5,415",1.33%
 1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,John R. Neal,Democratic Party (United States),"1,876",0.46%
@@ -3040,7 +3048,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1952,Minnesota,Democratic primary election results,Primary,Candidate,False,John A. McDonough,Minnesota Democratic–Farmer–Labor Party,"64,094",27.56%
 1952,Minnesota,Democratic primary election results,Primary,Candidate,False,F. H. Shoemaker,Minnesota Democratic–Farmer–Labor Party,"42,029",18.07%
 1952,Minnesota,Democratic primary election results,Primary,Total,False,,,"232,549",100.00%
-1952,Minnesota,Republican primary election results,Primary,Winning,False,Edward J. Thye,Republican Party of Minnesota,"321,659",84.84%
+1952,Minnesota,Republican primary election results,Primary,Winning,True,Edward J. Thye,Republican Party of Minnesota,"321,659",84.84%
 1952,Minnesota,Republican primary election results,Primary,Candidate,False,Edward C. Slettedahl,Republican Party of Minnesota,"23,427",6.18%
 1952,Minnesota,Republican primary election results,Primary,Candidate,False,John M. Arneson,Republican Party of Minnesota,"13,653",3.60%
 1952,Minnesota,Republican primary election results,Primary,Candidate,False,Arthur D. Russell,Republican Party of Minnesota,"11,221",2.96%
@@ -3099,7 +3107,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1952,Rhode Island,Democratic primary results,Primary,Winning,True,John Pastore,Democratic Party (United States),unopposed,
 1952,Rhode Island,Republican primary results,Primary,Winning,False,Bayard Ewing,Republican Party (United States),unopposed,
 1952,Tennessee,1952 Democratic Senate primary,Primary,Winning,False,Albert Gore Sr.,Democratic Party (United States),"334,957",56.54%
-1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,Kenneth McKellar,Democratic Party (United States),"245,054",41.36%
+1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,True,Kenneth McKellar,Democratic Party (United States),"245,054",41.36%
 1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"7,181",1.21%
 1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,Herman H. Ross,Democratic Party (United States),"4,950",0.84%
 1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,James Patrick Sutton (write-in),Democratic Party (United States),293,0.05%
@@ -3164,7 +3172,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1954,Idaho,Republican primary results,Primary,Winning,True,Henry Dworshak,Republican Party (United States),"56,333",87.57
 1954,Idaho,Republican primary results,Primary,Candidate,False,Les Lambson,Republican Party (United States),"7,998",12.43
 1954,Idaho,Republican primary results,Primary,Total,False,,,"64,331",
-1954,Illinois,Democratic primary results,Primary,Winning,False,Paul H. Douglas,Democratic Party (United States),"587,084",100
+1954,Illinois,Democratic primary results,Primary,Winning,True,Paul H. Douglas,Democratic Party (United States),"587,084",100
 1954,Illinois,Democratic primary results,Primary,Write-in,False,,,5,0.00
 1954,Illinois,Democratic primary results,Primary,Total,False,,,"587,089",100
 1954,Illinois,Republican primary results,Primary,Winning,False,Joseph T. Meek,Republican Party (United States),"283,843",33.61
@@ -3421,6 +3429,19 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1956,Wisconsin,1956 U.S. Senate Republican primary,Primary,Candidate,False,Glenn R. Davis,Republican Party (United States),"211,016",46.70%
 1956,Wisconsin,1956 U.S. Senate Republican primary,Primary,Candidate,False,Howard H. Boyle,Republican Party (United States),"19,826",4.39%
 1956,Wisconsin,1956 U.S. Senate Republican primary,Primary,Total,False,,,"451,884",100.00%
+1957,Wisconsin (special),Democratic primary results,Primary,Winning,False,William Proxmire,Democratic Party (United States),"86,341",60.29
+1957,Wisconsin (special),Democratic primary results,Primary,Candidate,False,Clement J. Zablocki,Democratic Party (United States),"56,817",39.67
+1957,Wisconsin (special),Democratic primary results,Primary,Candidate,False,,Scattering,62,0.04
+1957,Wisconsin (special),Democratic primary results,Primary,Total,False,,,"143,220",100.00
+1957,Wisconsin (special),Republican primary results,Primary,Winning,False,Walter J. Kohler Jr.,Republican Party (United States),"109,256",34.43
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,Glenn Robert Davis,Republican Party (United States),"100,532",31.68
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,Alvin E. O'Konski,Republican Party (United States),"66,784",21.05
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,Warren P. Knowles,Republican Party (United States),"23,996",7.56
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,Henry P. Hughes,Republican Party (United States),"7,488",2.36
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,Gerald D. Lorge,Republican Party (United States),"7,326",2.31
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,John C. Schafer,Republican Party (United States),"1,906",0.60
+1957,Wisconsin (special),Republican primary results,Primary,Candidate,False,,Write-in,44,0.01
+1957,Wisconsin (special),Republican primary results,Primary,Total,False,,,"317,332",100.00
 1958,Arizona,Democratic primary results,Primary,Winning,False,Ernest McFarland,Democratic Party (United States),"111,429",72.5%
 1958,Arizona,Democratic primary results,Primary,Candidate,False,Stephen W. Langmade,Democratic Party (United States),"42,199",27.5%
 1958,Arizona,Democratic primary results,Primary,Total,False,,,"153,628",100.0
@@ -3563,7 +3584,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1960,Idaho,Democratic primary runoff results,Primary,Total,False,,,"25,291",
 1960,Idaho,Republican primary results,Primary,Winning,True,Henry Dworshak,Republican Party (United States),"44,030",100.00
 1960,Idaho,Republican primary results,Primary,Total,False,,,"44,030",
-1960,Illinois,Democratic primary results,Primary,Winning,False,Paul H. Douglas,Democratic Party (United States),"916,951",100
+1960,Illinois,Democratic primary results,Primary,Winning,True,Paul H. Douglas,Democratic Party (United States),"916,951",100
 1960,Illinois,Democratic primary results,Primary,Write-in,False,,,8,0.00
 1960,Illinois,Democratic primary results,Primary,Total,False,,,"916,959",100
 1960,Illinois,Republican primary results,Primary,Winning,False,Samuel W. Witwer,Republican Party (United States),"249,849",32.79
@@ -3654,7 +3675,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1960,New Jersey,Republican primary results,Primary,Candidate,False,Robert J. Morris,Republican Party (United States),"120,729",33.33
 1960,New Jersey,Republican primary results,Primary,Candidate,False,David Dearborn,Republican Party (United States),"10,687",2.95
 1960,New Jersey,Republican primary results,Primary,Total,False,,,"362,218",100.00
-1960,New Mexico,Democratic primary results,Primary,Winning,False,Clinton Anderson,Democratic Party (United States),"98,037",81.33
+1960,New Mexico,Democratic primary results,Primary,Winning,True,Clinton Anderson,Democratic Party (United States),"98,037",81.33
 1960,New Mexico,Democratic primary results,Primary,Candidate,False,James P. Speer,Democratic Party (United States),"9,360",7.77
 1960,New Mexico,Democratic primary results,Primary,Candidate,False,N. Tito Quintana,Democratic Party (United States),"8,981",7.45
 1960,New Mexico,Democratic primary results,Primary,Candidate,False,Mac J. Feldhake,Democratic Party (United States),"4,168",3.46
@@ -4011,7 +4032,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1964,Oklahoma (special),Republican primary,Primary,Candidate,False,Forest W. Beall,Republican Party (United States),"7,211",5.68%
 1964,Oklahoma (special),Republican primary,Primary,Total,False,,,"126,925",100.00%
 1964,Rhode Island,Democratic primary results,Primary,Winning,True,John Pastore,Democratic Party (United States),,unopposed
-1964,Rhode Island,Republican primary results,Primary,Winning,False,Ronald Rene Lagueux,Republican Party (United States),,unopposed
+1964,Rhode Island,Republican primary results,Primary,Winning,False,Ronald Lagueux,Republican Party (United States),,unopposed
 1964,Tennessee,1964 Democratic Senate primary,Primary,Winning,True,Albert Gore Sr.,Democratic Party (United States),"401,163",84.67%
 1964,Tennessee,1964 Democratic Senate primary,Primary,Candidate,False,Sam Galloway,Democratic Party (United States),"37,974",8.02%
 1964,Tennessee,1964 Democratic Senate primary,Primary,Candidate,False,W. N. McKinney,Democratic Party (United States),"21,414",4.52%
@@ -4075,7 +4096,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1966,Arkansas,1966 Democratic U.S. Senate primary results,Primary,Winning,False,John L. McClellan (inc.),Democratic Party (United States),"220,588",77.19%
 1966,Arkansas,1966 Democratic U.S. Senate primary results,Primary,Candidate,False,Foster Johnson,Democratic Party (United States),"91,746",22.81%
 1966,Arkansas,1966 Democratic U.S. Senate primary results,Primary,Total,False,,,"402,272",100.00%
-1966,Illinois,Democratic primary results,Primary,Winning,False,Paul H. Douglas,Democratic Party (United States),"840,936",100
+1966,Illinois,Democratic primary results,Primary,Winning,True,Paul H. Douglas,Democratic Party (United States),"840,936",100
 1966,Illinois,Democratic primary results,Primary,Write-in,False,,,3,0.00
 1966,Illinois,Democratic primary results,Primary,Total,False,,,"840,939",100
 1966,Illinois,Republican primary results,Primary,Winning,False,Charles H. Percy,Republican Party (United States),"605,815",90.64
@@ -4083,7 +4104,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1966,Illinois,Republican primary results,Primary,Candidate,False,"Lar ""America First"" Daly",Republican Party (United States),"23,889",3.57
 1966,Illinois,Republican primary results,Primary,Write-in,False,,,23,0.00
 1966,Illinois,Republican primary results,Primary,Total,False,,,"668,363",100
-1966,Iowa,1966 Republican Senate primary,Primary,Winning,False,Jack Miller,Republican Party (United States),"141,141",83.94%
+1966,Iowa,1966 Republican Senate primary,Primary,Winning,True,Jack Miller,Republican Party (United States),"141,141",83.94%
 1966,Iowa,1966 Republican Senate primary,Primary,Candidate,False,Herbert F. Hoover,Republican Party (United States),"27,007",16.06%
 1966,Iowa,1966 Republican Senate primary,Primary,Total,False,,,"168,148",100.00%
 1966,Iowa,1966 Democratic Senate primary,Primary,Winning,False,E.B. Smith,Democratic Party (United States),"39,870",50.14%
@@ -4163,7 +4184,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1966,New Jersey,Democratic primary results,Primary,Candidate,False,Clarence Coggins,Democratic Party (United States),"16,775",6.18%
 1966,New Jersey,Democratic primary results,Primary,Candidate,False,Jerry Charles Burmeister,Democratic Party (United States),"6,205",2.29%
 1966,New Jersey,Democratic primary results,Primary,Total,False,,,"271,442",100.00
-1966,New Mexico,Democratic Party primary results,Primary,Winning,False,Clinton Anderson (New Mexico politician),Democratic Party (United States),,unopposed
+1966,New Mexico,Democratic Party primary results,Primary,Winning,True,Clinton Anderson,Democratic Party (United States),,unopposed
 1966,New Mexico,Republican Party primary results,Primary,Winning,False,Anderson Carter,Republican Party (United States),,unopposed
 1966,North Carolina,1966 Democratic Senate primary,Primary,Winning,True,B. Everett Jordan,Democratic Party (United States),"445,454",79.26%
 1966,North Carolina,1966 Democratic Senate primary,Primary,Candidate,False,Hubert E. Seymour Jr.,Democratic Party (United States),"116,548",20.74%
@@ -4271,7 +4292,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1968,Illinois,Democratic primary,Primary,Winning,False,William G. Clark,Democratic Party (United States),"627,361",99.97
 1968,Illinois,Democratic primary,Primary,Write-in,False,,,218,0.04
 1968,Illinois,Democratic primary,Primary,Total,False,,,"627,579",100
-1968,Illinois,Republican primary,Primary,Winning,False,Everett McKinley Dirksen,Republican Party (United States),"622,710",92.15
+1968,Illinois,Republican primary,Primary,Winning,True,Everett McKinley Dirksen,Republican Party (United States),"622,710",92.15
 1968,Illinois,Republican primary,Primary,Candidate,False,Roy C. Johnson,Republican Party (United States),"53,069",7.85
 1968,Illinois,Republican primary,Primary,Write-in,False,,,17,0.00
 1968,Illinois,Republican primary,Primary,Total,False,,,"675,796",100
@@ -4352,7 +4373,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1968,Oregon,"Democratic primary for the United States Senate from Oregon, 1968",Primary,Candidate,False,Robert B. Duncan,Democratic Party (United States),"174,795",46.30%
 1968,Oregon,"Democratic primary for the United States Senate from Oregon, 1968",Primary,Candidate,False,Phil McAlmond,Democratic Party (United States),"17,658",4.68%
 1968,Oregon,"Democratic primary for the United States Senate from Oregon, 1968",Primary,Total,False,,,"377,544",100.00%
-1968,South Carolina,1968 Democratic primary for U.S. Senate in South Carolina,Primary,Winning,False,Fritz Hollings,Democratic Party (United States),"308,016",78.3
+1968,South Carolina,1968 Democratic primary for U.S. Senate in South Carolina,Primary,Winning,True,Fritz Hollings,Democratic Party (United States),"308,016",78.3
 1968,South Carolina,1968 Democratic primary for U.S. Senate in South Carolina,Primary,Total,False,,,"392,929",100.0
 1968,Utah,Democratic primary results,Primary,Winning,False,Milton L. Weilenmann,Democratic Party (United States),"47,908",50.70
 1968,Utah,Democratic primary results,Primary,Candidate,False,Phil L. Hansen,Democratic Party (United States),"46,579",49.30
@@ -10633,21 +10654,21 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Alabama,Democratic primary runoff results,Primary,Winning,False,Everett Wess,Democratic Party (United States),"49,396",54.6
 2026,Alabama,Democratic primary runoff results,Primary,Candidate,False,Dakarai Larriett,Democratic Party (United States),"41,065",45.4
 2026,Alabama,Democratic primary runoff results,Primary,Total,False,,,"90,461",100.0
-2026,Alaska,Blanket primary results,Primary,Winning,False,Mary Peltola,Democratic Party (United States),"82,244",49.5
-2026,Alaska,Blanket primary results,Primary,Winning,True,Dan S. Sullivan,Republican Party (United States),"68,726",41.4
-2026,Alaska,Blanket primary results,Primary,Winning,False,Gerald L. Heikes,Republican Party (United States),"1,741",1.1
-2026,Alaska,Blanket primary results,Primary,Candidate,False,David Leslie (withdrew),Democratic Party (United States),"1,850",1.1
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Carol Hafner,Democratic Party (United States),"1,009",0.6
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Heather McElwain,Republican Party (United States),972,0.6
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Dustin Darden,Republican Party (United States),808,0.5
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Scott Kohlhaas,Libertarian Party (United States),794,0.5
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Richard Benedict Mayers,Republican Party (United States),609,0.4
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Reece Roberts,Independent politician,602,0.4
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Sid Hill,Independent politician,522,0.3
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Fred C. Grauberger,Republican Party (United States),479,0.3
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Richard Grayson,Green Party (United States),432,0.3
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Shirley Saucerman,Independent politician,306,0.2
-2026,Alaska,Blanket primary results,Primary,Total,False,,,"166,004",100.0
+2026,Alaska,Top-four primary results,Primary,Winning,False,Mary Peltola,Democratic Party (United States),"82,244",49.5
+2026,Alaska,Top-four primary results,Primary,Winning,True,Dan S. Sullivan,Republican Party (United States),"68,726",41.4
+2026,Alaska,Top-four primary results,Primary,Winning,False,Gerald L. Heikes,Republican Party (United States),"1,741",1.1
+2026,Alaska,Top-four primary results,Primary,Candidate,False,David Leslie (withdrew),Democratic Party (United States),"1,850",1.1
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Carol Hafner,Democratic Party (United States),"1,009",0.6
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Heather McElwain,Republican Party (United States),972,0.6
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Dustin Darden,Republican Party (United States),808,0.5
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Scott Kohlhaas,Libertarian Party (United States),794,0.5
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Richard Benedict Mayers,Republican Party (United States),609,0.4
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Reece Roberts,Independent politician,602,0.4
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Sid Hill,Independent politician,522,0.3
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Fred C. Grauberger,Republican Party (United States),479,0.3
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Richard Grayson,Green Party (United States),432,0.3
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Shirley Saucerman,Independent politician,306,0.2
+2026,Alaska,Top-four primary results,Primary,Total,False,,,"166,004",100.0
 2026,Arkansas,Republican primary results,Primary,Winning,True,Tom Cotton,Republican Party (United States),"230,209",81.6
 2026,Arkansas,Republican primary results,Primary,Total,False,,,"281,973",100.0
 2026,Arkansas,Democratic primary results,Primary,Winning,False,Hallie Shoffner,Democratic Party (United States),"102,289",78.3
@@ -10773,7 +10794,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Maine,Republican primary results,Primary,Winning,True,Susan Collins,Republican Party (United States),"126,398",100.0
 2026,Maine,Republican primary results,Primary,Total,False,,,"126,398",100.0
 2026,Maine,Democratic primary results,Primary,Winning,False,Graham Platner,Democratic Party (United States),"156,084",72.1
-2026,Maine,Democratic primary results,Primary,Candidate,False,Janet Mills (withdrawn),Democratic Party (United States),"41,644",19.2
+2026,Maine,Democratic primary results,Primary,Candidate,False,Janet Mills (withdrawn),Democratic Party (United States),"41,644",19.3
 2026,Maine,Democratic primary results,Primary,Candidate,False,David Costello,Democratic Party (United States),"17,560",8.1
 2026,Maine,Democratic primary results,Primary,Candidate,False,Andrea LaFlamme (write-in),Democratic Party (United States),"1,114",0.5
 2026,Maine,Democratic primary results,Primary,Total,False,,,"216,402",100.0
@@ -10917,12 +10938,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 2026,Oregon,Republican primary results,Primary,Candidate,False,Tim Skelton,Republican Party (United States),"5,626",1.5
 2026,Oregon,Republican primary results,Primary,Candidate,False,Write-in,Republican Party (United States),"3,254",0.9
 2026,Oregon,Republican primary results,Primary,Total,False,,,"366,201",100.0
-2026,Rhode Island,Democratic primary results,Primary,Winning,True,Jack Reed,Democratic Party (United States),"98,072",76.9
-2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Connor Burbridge,Democratic Party (United States),"17,082",13.4
-2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Luis Daniel Muñoz,Democratic Party (United States),"12,414",9.7
-2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"127,568",100.0
-2026,Rhode Island,Republican primary results,Primary,Winning,False,Raymond McKay,Republican Party (United States),"20,290",100.0
-2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,290",100.0
+2026,Rhode Island,Democratic primary results,Primary,Winning,True,Jack Reed,Democratic Party (United States),"98,343",76.8
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Connor Burbridge,Democratic Party (United States),"17,159",13.4
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Luis Daniel Muñoz,Democratic Party (United States),"12,483",9.8
+2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"127,985",100.0
+2026,Rhode Island,Republican primary results,Primary,Winning,False,Raymond McKay,Republican Party (United States),"20,350",100.0
+2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,350",100.0
 2026,South Carolina,Republican primary results,Primary,Winning,True,Lindsey Graham,Republican Party (United States),"264,091",56.8
 2026,South Carolina,Republican primary results,Primary,Candidate,False,Mark Lynch,Republican Party (United States),"134,360",28.9
 2026,South Carolina,Republican primary results,Primary,Candidate,False,Thomas Dismukes,Republican Party (United States),"24,164",5.2

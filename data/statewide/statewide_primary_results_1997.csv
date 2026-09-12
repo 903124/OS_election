@@ -1,0 +1,8 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1997,New Jersey,NJ,governor,Republican Party primary results,Winning,Christine Todd Whitman,Republican,147731,100.0,True,True
+1997,New Jersey,NJ,governor,Republican Party primary results,Total,,,147731,100.0,False,False
+1997,New Jersey,NJ,governor,Democratic Party primary results,Winning,Jim McGreevey,Democratic,148153,39.86,True,False
+1997,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Rob Andrews,Democratic,138160,37.17,False,False
+1997,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Michael Murphy,Democratic,79172,21.3,False,False
+1997,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Frank C. Marmo,Democratic,6189,1.67,False,False
+1997,New Jersey,NJ,governor,Democratic Party primary results,Total,,,371674,100.0,False,False

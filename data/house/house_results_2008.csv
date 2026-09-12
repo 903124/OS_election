@@ -1,1144 +1,1144 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2008,house,Alabama,AL,1,Jo Bonner,Republican,98.3,True,True,False
-2008,house,Alabama,AL,2,Bobby Bright,Democratic,50.2,True,False,True
-2008,house,Alabama,AL,2,Jay Love,Republican,49.6,False,False,True
-2008,house,Alabama,AL,3,Mike Rogers,Republican,54.0,True,True,False
-2008,house,Alabama,AL,3,Josh Segall,Democratic,45.8,False,False,False
-2008,house,Alabama,AL,4,Robert Aderholt,Republican,74.8,True,True,False
-2008,house,Alabama,AL,4,Nicholas Sparks,Democratic,25.1,False,False,False
-2008,house,Alabama,AL,5,Parker Griffith,Democratic,51.5,True,False,True
-2008,house,Alabama,AL,5,Wayne Parker,Republican,47.9,False,False,True
-2008,house,Alabama,AL,6,Spencer Bachus,Republican,97.8,True,True,False
-2008,house,Alabama,AL,7,Artur Davis,Democratic,98.6,True,True,False
-2008,house,Alaska,AK,AL,Don Young,Republican,50.2,True,True,False
-2008,house,Alaska,AK,AL,Ethan Berkowitz,Democratic,45.0,False,False,False
-2008,house,Alaska,AK,AL,Don Wright,Alaskan Independence,4.5,False,False,False
-2008,house,Arizona,AZ,1,Ann Kirkpatrick,Democratic,55.9,True,False,True
-2008,house,Arizona,AZ,1,Sydney Hay,Republican,39.4,False,False,True
-2008,house,Arizona,AZ,1,Brent Maupin,Independent,3.4,False,False,True
-2008,house,Arizona,AZ,1,Thane Eichenauer,Libertarian,1.3,False,False,True
-2008,house,Arizona,AZ,2,Trent Franks,Republican,59.4,True,True,False
-2008,house,Arizona,AZ,2,John Thrasher,Democratic,37.2,False,False,False
-2008,house,Arizona,AZ,2,Powell Gammill,Libertarian,2.3,False,False,False
-2008,house,Arizona,AZ,2,William Crum,Green,1.1,False,False,False
-2008,house,Arizona,AZ,3,John Shadegg,Republican,54.1,True,True,False
-2008,house,Arizona,AZ,3,Bob Lord,Democratic,42.1,False,False,False
-2008,house,Arizona,AZ,3,Michael Shoen,Libertarian,3.8,False,False,False
-2008,house,Arizona,AZ,4,Ed Pastor,Democratic,72.1,True,True,False
-2008,house,Arizona,AZ,4,Don Karg,Republican,21.2,False,False,False
-2008,house,Arizona,AZ,4,Rebecca DeWitt,Green,3.6,False,False,False
-2008,house,Arizona,AZ,4,Joe Cobb,Libertarian,3.1,False,False,False
-2008,house,Arizona,AZ,5,Harry Mitchell,Democratic,53.2,True,True,False
-2008,house,Arizona,AZ,5,David Schweikert,Republican,43.6,False,False,False
-2008,house,Arizona,AZ,5,Warren Severin,Libertarian,3.2,False,False,False
-2008,house,Arizona,AZ,6,Jeff Flake,Republican,62.5,True,True,False
-2008,house,Arizona,AZ,6,Rebecca Schneider,Democratic,34.5,False,False,False
-2008,house,Arizona,AZ,6,Rick Biondi,Libertarian,3.0,False,False,False
-2008,house,Arizona,AZ,7,Raúl Grijalva,Democratic,63.3,True,True,False
-2008,house,Arizona,AZ,7,Joseph D. Sweeney,Republican,32.8,False,False,False
-2008,house,Arizona,AZ,7,Raymond Patrick Petrulsky,Libertarian,3.9,False,False,False
-2008,house,Arizona,AZ,8,Gabby Giffords,Democratic,54.7,True,True,False
-2008,house,Arizona,AZ,8,Tim Bee,Republican,42.8,False,False,False
-2008,house,Arizona,AZ,8,Paul Davis,Libertarian,2.5,False,False,False
-2008,house,Arkansas,AR,1,Marion Berry,Democratic,100.0,True,True,False
-2008,house,Arkansas,AR,2,Vic Snyder,Democratic,76.5,True,True,False
-2008,house,Arkansas,AR,2,Deb McFarland,Green,23.2,False,False,False
-2008,house,Arkansas,AR,3,John Boozman,Republican,78.5,True,True,False
-2008,house,Arkansas,AR,3,Abel Tomlinson,Green,21.5,False,False,False
-2008,house,Arkansas,AR,4,Mike Ross,Democratic,86.2,True,False,False
-2008,house,Arkansas,AR,4,Joshua Drake,Green,13.8,False,False,False
-2008,house,California,CA,1,Mike Thompson,Democratic,68.2,True,False,False
-2008,house,California,CA,1,Zane Starkewolf,Republican,23.3,False,False,False
-2008,house,California,CA,1,Carol Wolman,Green,8.5,False,False,False
-2008,house,California,CA,2,Wally Herger,Republican,57.9,True,True,False
-2008,house,California,CA,2,Jeff Morris,Democratic,42.1,False,False,False
-2008,house,California,CA,3,Dan Lungren,Republican,49.5,True,True,True
-2008,house,California,CA,3,Bill Durston,Democratic,44.0,False,False,True
-2008,house,California,CA,3,Dina Padilla,Peace and Freedom,4.2,False,False,True
-2008,house,California,CA,3,Art Tuma,Libertarian,2.3,False,False,True
-2008,house,California,CA,4,Tom McClintock,Republican,50.3,True,False,True
-2008,house,California,CA,4,Charles Brown,Democratic,49.7,False,False,True
-2008,house,California,CA,5,Doris Matsui,Democratic,74.3,True,True,False
-2008,house,California,CA,5,Paul Smith,Republican,20.9,False,False,False
-2008,house,California,CA,5,L. R. Roberts,Peace and Freedom,4.8,False,False,False
-2008,house,California,CA,6,Lynn Woolsey,Democratic,71.7,True,True,False
-2008,house,California,CA,6,Mike Halliwell,Republican,24.1,False,False,False
-2008,house,California,CA,6,Joel Smolen,Libertarian,4.2,False,False,False
-2008,house,California,CA,7,George Miller,Democratic,72.9,True,False,False
-2008,house,California,CA,7,Roger Petersen,Republican,21.8,False,False,False
-2008,house,California,CA,7,Bill Callison,Peace and Freedom,2.8,False,False,False
-2008,house,California,CA,7,Camden McConnell,Libertarian,2.5,False,False,False
-2008,house,California,CA,8,Nancy Pelosi,Democratic,71.9,True,True,False
-2008,house,California,CA,8,Cindy Sheehan,Independent,16.2,False,False,False
-2008,house,California,CA,8,Dana Walsh,Republican,9.7,False,False,False
-2008,house,California,CA,8,Philip Berg,Libertarian,2.2,False,False,False
-2008,house,California,CA,9,Barbara Lee,Democratic,86.1,True,True,False
-2008,house,California,CA,9,Charles Hargrave,Republican,9.7,False,False,False
-2008,house,California,CA,9,Jim Eyer,Libertarian,4.2,False,False,False
-2008,house,California,CA,10,Ellen Tauscher,Democratic,65.2,True,True,False
-2008,house,California,CA,10,Nicholas Gerber,Republican,31.1,False,False,False
-2008,house,California,CA,10,Eugene Ruyle,Peace and Freedom,3.7,False,False,False
-2008,house,California,CA,11,Jerry McNerney,Democratic,55.3,True,True,False
-2008,house,California,CA,11,Dean Andal,Republican,44.7,False,False,False
-2008,house,California,CA,12,Jackie Speier,Democratic,75.2,True,True,False
-2008,house,California,CA,12,Greg Conlon,Republican,18.5,False,False,False
-2008,house,California,CA,12,Nathalie Hrizi,Peace and Freedom,2.2,False,False,False
-2008,house,California,CA,12,Barry Hermanson,Green,2.1,False,False,False
-2008,house,California,CA,12,Kevin Peterson,Libertarian,2.0,False,False,False
-2008,house,California,CA,13,Pete Stark,Democratic,76.5,True,True,False
-2008,house,California,CA,13,Raymond Chui,Republican,23.5,False,False,False
-2008,house,California,CA,14,Anna Eshoo,Democratic,69.8,True,True,False
-2008,house,California,CA,14,Ronny Santana,Republican,22.3,False,False,False
-2008,house,California,CA,14,Brian Holtz,Libertarian,4.3,False,False,False
-2008,house,California,CA,14,Carol Brouillet,Green,3.6,False,False,False
-2008,house,California,CA,15,Mike Honda,Democratic,71.7,True,True,False
-2008,house,California,CA,15,Joyce Cordi,Republican,23.3,False,False,False
-2008,house,California,CA,15,Peter Myers,Green,5.0,False,False,False
-2008,house,California,CA,16,Zoe Lofgren,Democratic,71.4,True,True,False
-2008,house,California,CA,16,Charel Winston,Republican,24.0,False,False,False
-2008,house,California,CA,16,Steven Wells,Libertarian,4.6,False,False,False
-2008,house,California,CA,17,Sam Farr,Democratic,73.9,True,True,False
-2008,house,California,CA,17,Jeff Taylor,Republican,25.9,False,False,False
-2008,house,California,CA,18,Dennis Cardoza,Democratic,100.0,True,True,False
-2008,house,California,CA,19,George Radanovich,Republican,98.5,True,True,False
-2008,house,California,CA,20,Jim Costa,Democratic,74.4,True,True,False
-2008,house,California,CA,20,Jim Lopez,Republican,25.6,False,False,False
-2008,house,California,CA,21,Devin Nunes,Republican,68.4,True,True,False
-2008,house,California,CA,21,Larry Johnson,Democratic,31.6,False,False,False
-2008,house,California,CA,22,Kevin McCarthy,Republican,100.0,True,False,False
-2008,house,California,CA,23,Lois Capps,Democratic,68.1,True,True,False
-2008,house,California,CA,23,Matt Kokkonen,Republican,31.9,False,False,False
-2008,house,California,CA,24,Elton Gallegly,Republican,58.2,True,True,False
-2008,house,California,CA,24,Marta Jorgensen,Democratic,41.8,False,False,False
-2008,house,California,CA,25,Howard McKeon,Republican,57.8,True,True,False
-2008,house,California,CA,25,Jackie Conaway,Democratic,42.2,False,False,False
-2008,house,California,CA,26,David Dreier,Republican,52.7,True,True,False
-2008,house,California,CA,26,Russ Warner,Democratic,40.4,False,False,False
-2008,house,California,CA,26,Ted Brown,Libertarian,6.9,False,False,False
-2008,house,California,CA,27,Brad Sherman,Democratic,68.6,True,True,False
-2008,house,California,CA,27,Navraj Singh,Republican,24.8,False,False,False
-2008,house,California,CA,27,Tim Denton,Libertarian,6.6,False,False,False
-2008,house,California,CA,28,Howard Berman,Democratic,99.9,True,True,False
-2008,house,California,CA,29,Adam Schiff,Democratic,69.0,True,True,False
-2008,house,California,CA,29,Charles Hahn,Republican,26.7,False,False,False
-2008,house,California,CA,29,Alan Pyeatt,Libertarian,4.3,False,False,False
-2008,house,California,CA,30,Henry Waxman,Democratic,100.0,True,True,False
-2008,house,California,CA,31,Xavier Becerra,Democratic,100.0,True,True,False
-2008,house,California,CA,32,Hilda Solis,Democratic,100.0,True,True,False
-2008,house,California,CA,33,Diane Watson,Democratic,87.6,True,True,False
-2008,house,California,CA,33,David Crowley,Republican,12.4,False,False,False
-2008,house,California,CA,34,Lucille Roybal-Allard,Democratic,77.1,True,True,False
-2008,house,California,CA,34,Christopher Balding,Republican,22.9,False,False,False
-2008,house,California,CA,35,Maxine Waters,Democratic,82.6,True,True,False
-2008,house,California,CA,35,Ted Hayes,Republican,13.3,False,False,False
-2008,house,California,CA,35,Herb Peters,Libertarian,4.1,False,False,False
-2008,house,California,CA,36,Jane Harman,Democratic,68.7,True,True,True
-2008,house,California,CA,36,Brian Gibson,Republican,31.3,False,False,True
-2008,house,California,CA,37,Laura Richardson,Democratic,75.0,True,True,False
-2008,house,California,CA,37,Nick Dibs,Independent,24.4,False,False,False
-2008,house,California,CA,38,Grace Napolitano,Democratic,81.8,True,True,False
-2008,house,California,CA,38,Christopher Agrella,Libertarian,18.2,False,False,False
-2008,house,California,CA,39,Linda Sánchez,Democratic,69.7,True,True,False
-2008,house,California,CA,39,Diane Lenning,Republican,30.3,False,False,False
-2008,house,California,CA,40,Ed Royce,Republican,62.6,True,True,False
-2008,house,California,CA,40,Christina Avalos,Democratic,37.4,False,False,False
-2008,house,California,CA,41,Jerry Lewis,Republican,61.7,True,True,False
-2008,house,California,CA,41,Tim Prince,Democratic,38.3,False,False,False
-2008,house,California,CA,42,Gary Miller,Republican,60.2,True,True,False
-2008,house,California,CA,42,Ed Chau,Democratic,39.8,False,False,False
-2008,house,California,CA,43,Joe Baca,Democratic,69.2,True,True,False
-2008,house,California,CA,43,John Roberts,Republican,30.8,False,False,False
-2008,house,California,CA,44,Ken Calvert,Republican,51.2,True,True,False
-2008,house,California,CA,44,Bill Hedrick,Democratic,48.8,False,False,False
-2008,house,California,CA,45,Mary Bono,Republican,58.3,True,True,False
-2008,house,California,CA,45,Julie Bornstein,Democratic,41.7,False,False,False
-2008,house,California,CA,46,Dana Rohrabacher,Republican,52.6,True,True,False
-2008,house,California,CA,46,Debbie Cook,Democratic,43.1,False,False,False
-2008,house,California,CA,46,Tom Lash,Green,2.8,False,False,False
-2008,house,California,CA,46,Ernst Gasteiger,Libertarian,1.5,False,False,False
-2008,house,California,CA,47,Loretta Sanchez,Democratic,69.5,True,True,False
-2008,house,California,CA,47,Rosie Avila,Republican,25.5,False,False,False
-2008,house,California,CA,47,Robert Lauten,American Independent,5.0,False,False,False
-2008,house,California,CA,48,John Campbell,Republican,55.7,True,True,False
-2008,house,California,CA,48,Steve Young,Democratic,40.6,False,False,False
-2008,house,California,CA,48,Don Patterson,Libertarian,3.7,False,False,False
-2008,house,California,CA,49,Darrell Issa,Republican,58.3,True,True,False
-2008,house,California,CA,49,Robert Hamilton,Democratic,37.5,False,False,False
-2008,house,California,CA,49,Lars Grossmith,Libertarian,4.2,False,False,False
-2008,house,California,CA,50,Brian Bilbray,Republican,50.3,True,True,False
-2008,house,California,CA,50,Nick Leibham,Democratic,45.2,False,False,False
-2008,house,California,CA,50,Wayne Dunlap,Libertarian,4.5,False,False,False
-2008,house,California,CA,51,Bob Filner,Democratic,72.8,True,True,False
-2008,house,California,CA,51,David Lee Joy,Republican,24.2,False,False,False
-2008,house,California,CA,51,Frodo Litwin,Libertarian,3.0,False,False,False
-2008,house,California,CA,52,Duncan D. Hunter,Republican,56.4,True,False,True
-2008,house,California,CA,52,Mike Lumpkin,Democratic,39.0,False,False,True
-2008,house,California,CA,52,Michael Benoit,Libertarian,4.6,False,False,True
-2008,house,California,CA,53,Susan Davis,Democratic,68.5,True,False,False
-2008,house,California,CA,53,Michael Crimmins,Republican,27.5,False,False,False
-2008,house,California,CA,53,Edward Teyssier,Libertarian,4.0,False,False,False
-2008,house,Colorado,CO,1,Diana DeGette,Democratic,71.9,True,True,False
-2008,house,Colorado,CO,1,George Lilly,Republican,23.8,False,False,False
-2008,house,Colorado,CO,1,Martin Buchanan,Libertarian,4.3,False,False,False
-2008,house,Colorado,CO,2,Jared Polis,Democratic,62.6,True,False,True
-2008,house,Colorado,CO,2,Scott Starin,Republican,33.9,False,False,True
-2008,house,Colorado,CO,2,J. A. Calhoun,Green,2.9,False,False,True
-2008,house,Colorado,CO,2,Bill Hammons,Unity Party of America,0.6,False,False,True
-2008,house,Colorado,CO,3,John Salazar,Democratic,61.6,True,True,False
-2008,house,Colorado,CO,3,Wayne Wolf,Republican,38.4,False,False,False
-2008,house,Colorado,CO,4,Betsy Markey,Democratic,56.2,True,False,False
-2008,house,Colorado,CO,4,Marilyn Musgrave,Republican,43.8,False,True,False
-2008,house,Colorado,CO,5,Doug Lamborn,Republican,60.0,True,True,False
-2008,house,Colorado,CO,5,Hal Bidlack,Democratic,37.0,False,False,False
-2008,house,Colorado,CO,5,Brian Scott,Constitution,2.9,False,False,False
-2008,house,Colorado,CO,6,Mike Coffman,Republican,60.7,True,False,True
-2008,house,Colorado,CO,6,Hank Eng,Democratic,39.3,False,False,True
-2008,house,Colorado,CO,7,Ed Perlmutter,Democratic,63.5,True,True,False
-2008,house,Colorado,CO,7,John Lerew,Republican,36.5,False,False,False
-2008,house,Connecticut,CT,1,John Larson,Democratic,71.6,True,True,False
-2008,house,Connecticut,CT,1,Joe Visconti,Republican,26.0,False,False,False
-2008,house,Connecticut,CT,1,Steve Fournier,Green,2.4,False,False,False
-2008,house,Connecticut,CT,2,Joe Courtney,Democratic,65.7,True,False,False
-2008,house,Connecticut,CT,2,Sean Sullivan,Republican,32.4,False,False,False
-2008,house,Connecticut,CT,2,Scott Deshefy,Green,1.9,False,False,False
-2008,house,Connecticut,CT,3,Rosa DeLauro,Democratic,77.4,True,True,False
-2008,house,Connecticut,CT,3,Bo ItsHaky,Republican,19.7,False,False,False
-2008,house,Connecticut,CT,3,Ralph Ferrucci,Green,2.9,False,False,False
-2008,house,Connecticut,CT,4,Jim Himes,Democratic,51.3,True,False,False
-2008,house,Connecticut,CT,4,Chris Shays,Republican,47.6,False,True,False
-2008,house,Connecticut,CT,4,Michael Carrano,Libertarian,0.7,False,False,False
-2008,house,Connecticut,CT,4,Richard Duffee,Green,0.4,False,False,False
-2008,house,Connecticut,CT,5,Chris Murphy,Democratic,59.2,True,True,False
-2008,house,Connecticut,CT,5,David Cappiello,Republican,39.0,False,False,False
-2008,house,Connecticut,CT,5,Harold Burbank,Green,1.0,False,False,False
-2008,house,Connecticut,CT,5,Thomas Winn,Independent,0.8,False,False,False
-2008,house,Delaware,DE,AL,Mike Castle,Republican,61.1,True,True,False
-2008,house,Delaware,DE,AL,Karen Hartley-Nagle,Democratic,38.0,False,False,False
-2008,house,Delaware,DE,AL,Mark Parks,Libertarian,0.9,False,False,False
-2008,house,Florida,FL,1,Jeff Miller,Republican,70.2,True,False,False
-2008,house,Florida,FL,1,James Bryan,Democratic,29.8,False,False,False
-2008,house,Florida,FL,2,Allen Boyd,Democratic,61.9,True,True,False
-2008,house,Florida,FL,2,Mark Mulligan,Republican,38.1,False,False,False
-2008,house,Florida,FL,3,Corrine Brown,Democratic,100.0,True,True,False
-2008,house,Florida,FL,4,Ander Crenshaw,Republican,65.3,True,True,False
-2008,house,Florida,FL,4,Jay McGovern,Democratic,34.7,False,False,False
-2008,house,Florida,FL,5,Ginny Brown-Waite,Republican,61.2,True,True,False
-2008,house,Florida,FL,5,John Russell,Democratic,38.8,False,False,False
-2008,house,Florida,FL,6,Cliff Stearns,Republican,60.9,True,True,False
-2008,house,Florida,FL,6,Tim Cunha,Democratic,39.1,False,False,False
-2008,house,Florida,FL,7,John Mica,Republican,62.0,True,True,False
-2008,house,Florida,FL,7,Faye Armitage,Democratic,38.0,False,False,False
-2008,house,Florida,FL,8,Alan Grayson,Democratic,52.0,True,False,False
-2008,house,Florida,FL,8,Ric Keller,Republican,48.0,False,True,False
-2008,house,Florida,FL,9,Gus Bilirakis,Republican,62.2,True,True,False
-2008,house,Florida,FL,9,Bill Mitchell,Democratic,36.3,False,False,False
-2008,house,Florida,FL,9,Johnny Kalimnios,Independent,1.0,False,False,False
-2008,house,Florida,FL,9,Richard Emmons,Term Limits,0.6,False,False,False
-2008,house,Florida,FL,10,Bill Young,Republican,60.7,True,True,False
-2008,house,Florida,FL,10,Bob Hackworth,Democratic,39.3,False,False,False
-2008,house,Florida,FL,11,Kathy Castor,Democratic,71.7,True,True,False
-2008,house,Florida,FL,11,Eddie Adams,Republican,28.3,False,False,False
-2008,house,Florida,FL,12,Adam Putnam,Republican,57.5,True,True,False
-2008,house,Florida,FL,12,Doug Tudor,Democratic,42.5,False,False,False
-2008,house,Florida,FL,13,Vern Buchanan,Republican,55.5,True,True,False
-2008,house,Florida,FL,13,Christine Jennings,Democratic,37.5,False,False,False
-2008,house,Florida,FL,13,Jan Schneider,Independent,5.5,False,False,False
-2008,house,Florida,FL,13,Don Baldauf,Independent,1.5,False,False,False
-2008,house,Florida,FL,14,Connie Mack IV,Republican,59.4,True,True,False
-2008,house,Florida,FL,14,Robert Neeld,Democratic,24.8,False,False,False
-2008,house,Florida,FL,14,Burt Saunders,Independent,14.5,False,False,False
-2008,house,Florida,FL,14,Jeff George,Independent,1.3,False,False,False
-2008,house,Florida,FL,15,Bill Posey,Republican,53.1,True,False,True
-2008,house,Florida,FL,15,Stephen Blythe,Democratic,42.0,False,False,True
-2008,house,Florida,FL,15,Frank Zilaitis,Independent,3.9,False,False,True
-2008,house,Florida,FL,15,Trevor Lowing,Independent,1.0,False,False,True
-2008,house,Florida,FL,16,Tom Rooney,Republican,60.1,True,False,False
-2008,house,Florida,FL,16,Tim Mahoney,Democratic,39.9,False,True,False
-2008,house,Florida,FL,17,Kendrick Meek,Democratic,100.0,True,True,False
-2008,house,Florida,FL,18,Ileana Ros-Lehtinen,Republican,57.9,True,True,False
-2008,house,Florida,FL,18,Annette Taddeo,Democratic,42.1,False,False,False
-2008,house,Florida,FL,19,Robert Wexler,Democratic,66.2,True,True,False
-2008,house,Florida,FL,19,Edward Lynch,Republican,27.2,False,False,False
-2008,house,Florida,FL,19,Ben Graber,Independent,6.6,False,False,False
-2008,house,Florida,FL,20,Debbie Wasserman Schultz,Democratic,77.5,True,True,False
-2008,house,Florida,FL,20,Margaret Hostetter,Independent Republican,22.5,False,False,False
-2008,house,Florida,FL,21,Lincoln Díaz-Balart,Republican,57.9,True,True,False
-2008,house,Florida,FL,21,Raul Martinez,Democratic,42.1,False,False,False
-2008,house,Florida,FL,22,Ron Klein,Democratic,54.7,True,True,False
-2008,house,Florida,FL,22,Allen West,Republican,45.3,False,False,False
-2008,house,Florida,FL,23,Alcee Hastings,Democratic,82.1,True,True,False
-2008,house,Florida,FL,23,Marion Thorpe,Republican,17.8,False,False,False
-2008,house,Florida,FL,24,Suzanne Kosmas,Democratic,57.2,True,False,False
-2008,house,Florida,FL,24,Tom Feeney,Republican,41.1,False,True,False
-2008,house,Florida,FL,24,Gaurav Bhola,Independent,1.7,False,False,False
-2008,house,Florida,FL,25,Mario Díaz-Balart,Republican,53.1,True,True,False
-2008,house,Florida,FL,25,Joe Garcia,Democratic,46.9,False,False,False
-2008,house,Georgia,GA,1,Jack Kingston,Republican,66.5,True,True,False
-2008,house,Georgia,GA,1,Bill Gillespie,Democratic,33.5,False,False,False
-2008,house,Georgia,GA,2,Sanford Bishop,Democratic,68.9,True,True,False
-2008,house,Georgia,GA,2,Lee Ferrell,Republican,31.1,False,False,False
-2008,house,Georgia,GA,3,Lynn Westmoreland,Republican,65.7,True,True,False
-2008,house,Georgia,GA,3,Stephen Camp,Democratic,34.3,False,False,False
-2008,house,Georgia,GA,4,Hank Johnson,Democratic,99.9,True,True,False
-2008,house,Georgia,GA,5,John Lewis,Democratic,99.9,True,True,False
-2008,house,Georgia,GA,6,Tom Price,Republican,68.5,True,False,False
-2008,house,Georgia,GA,6,Bill Jones,Democratic,31.5,False,False,False
-2008,house,Georgia,GA,7,John Linder,Republican,62.0,True,True,False
-2008,house,Georgia,GA,7,Doug Heckman,Democratic,38.0,False,False,False
-2008,house,Georgia,GA,8,Jim Marshall,Democratic,57.2,True,False,False
-2008,house,Georgia,GA,8,Rick Goddard,Republican,42.8,False,False,False
-2008,house,Georgia,GA,9,Nathan Deal,Republican,75.5,True,True,False
-2008,house,Georgia,GA,9,Jeff Scott,Democratic,24.5,False,False,False
-2008,house,Georgia,GA,10,Paul Broun,Republican,60.7,True,True,False
-2008,house,Georgia,GA,10,Bobby Saxon,Democratic,39.3,False,False,False
-2008,house,Georgia,GA,11,Phil Gingrey,Republican,68.2,True,True,False
-2008,house,Georgia,GA,11,Hugh Gammon,Democratic,31.8,False,False,False
-2008,house,Georgia,GA,12,John Barrow,Democratic,66.0,True,False,False
-2008,house,Georgia,GA,12,John Stone,Republican,34.0,False,False,False
-2008,house,Georgia,GA,13,David Scott,Democratic,69.0,True,True,False
-2008,house,Georgia,GA,13,Deborah Honeycutt,Republican,31.0,False,False,False
-2008,house,Hawaii,HI,1,Neil Abercrombie,Democratic,77.1,True,True,False
-2008,house,Hawaii,HI,1,Steve Tataii,Republican,19.1,False,False,False
-2008,house,Hawaii,HI,1,Li Zhao,Libertarian,3.8,False,False,False
-2008,house,Hawaii,HI,2,Mazie Hirono,Democratic,76.1,True,True,False
-2008,house,Hawaii,HI,2,Roger B. Evans,Republican,20.4,False,False,False
-2008,house,Hawaii,HI,2,Shaun Stenshol,Independent,1.9,False,False,False
-2008,house,Hawaii,HI,2,Jeff Mallan,Libertarian,1.7,False,False,False
-2008,house,Idaho,ID,1,Walt Minnick,Democratic,50.6,True,False,False
-2008,house,Idaho,ID,1,Bill Sali,Republican,49.4,False,True,False
-2008,house,Idaho,ID,2,Mike Simpson,Republican,71.0,True,True,False
-2008,house,Idaho,ID,2,Debbie Holmes,Democratic,29.0,False,False,False
-2008,house,Illinois,IL,1,Bobby Rush,Democratic,85.9,True,True,False
-2008,house,Illinois,IL,1,Antoine Members,Republican,14.1,False,False,False
-2008,house,Illinois,IL,2,Jesse Jackson Jr.,Democratic,89.4,True,True,False
-2008,house,Illinois,IL,2,Anthony Williams,Republican,10.6,False,False,False
-2008,house,Illinois,IL,3,Dan Lipinski,Democratic,73.3,True,True,False
-2008,house,Illinois,IL,3,Michael Hawkins,Republican,21.4,False,False,False
-2008,house,Illinois,IL,3,Jerome Pohlen,Green,5.3,False,False,False
-2008,house,Illinois,IL,4,Luis Gutiérrez,Democratic,80.6,True,True,False
-2008,house,Illinois,IL,4,Daniel Cunningham,Republican,11.5,False,False,False
-2008,house,Illinois,IL,4,Omar Lopez,Green,7.9,False,False,False
-2008,house,Illinois,IL,5,Rahm Emanuel,Democratic,73.9,True,True,True
-2008,house,Illinois,IL,5,Tom Hanson,Republican,22.0,False,False,True
-2008,house,Illinois,IL,5,Alan Augustson,Green,4.1,False,False,True
-2008,house,Illinois,IL,6,Peter Roskam,Republican,57.6,True,True,False
-2008,house,Illinois,IL,6,Jill Morgenthaler,Democratic,42.4,False,False,False
-2008,house,Illinois,IL,7,Danny K. Davis,Democratic,85.0,True,True,False
-2008,house,Illinois,IL,7,Steve Miller,Republican,15.0,False,False,False
-2008,house,Illinois,IL,8,Melissa Bean,Democratic,60.7,True,True,False
-2008,house,Illinois,IL,8,Steve Greenberg,Republican,39.3,False,False,False
-2008,house,Illinois,IL,9,Jan Schakowsky,Democratic,74.7,True,True,False
-2008,house,Illinois,IL,9,Michael Younan,Republican,22.0,False,False,False
-2008,house,Illinois,IL,9,Morris Shanfield,Green,3.3,False,False,False
-2008,house,Illinois,IL,10,Mark Kirk,Republican,52.6,True,True,False
-2008,house,Illinois,IL,10,Dan Seals,Democratic,47.4,False,False,False
-2008,house,Illinois,IL,11,Debbie Halvorson,Democratic,58.4,True,False,True
-2008,house,Illinois,IL,11,Marty Ozinga,Republican,34.5,False,False,True
-2008,house,Illinois,IL,11,Jason Wallace,Green,7.1,False,False,True
-2008,house,Illinois,IL,12,Jerry Costello,Democratic,71.1,True,True,False
-2008,house,Illinois,IL,12,Tim Richardson,Republican,25.0,False,False,False
-2008,house,Illinois,IL,12,Rodger Jennings,Green,3.9,False,False,False
-2008,house,Illinois,IL,13,Judy Biggert,Republican,53.6,True,True,False
-2008,house,Illinois,IL,13,Scott Harper,Democratic,43.7,False,False,False
-2008,house,Illinois,IL,13,Steve Alesch,Green,2.7,False,False,False
-2008,house,Illinois,IL,14,Bill Foster,Democratic,57.7,True,False,False
-2008,house,Illinois,IL,14,Jim Oberweis,Republican,42.3,False,False,False
-2008,house,Illinois,IL,15,Tim Johnson,Republican,64.2,True,False,False
-2008,house,Illinois,IL,15,Steve Cox,Democratic,35.8,False,False,False
-2008,house,Illinois,IL,16,Donald Manzullo,Republican,60.9,True,True,False
-2008,house,Illinois,IL,16,Bob Abboud,Democratic,36.1,False,False,False
-2008,house,Illinois,IL,16,Scott Summers,Green,3.0,False,False,False
-2008,house,Illinois,IL,17,Phil Hare,Democratic,99.8,True,True,False
-2008,house,Illinois,IL,18,Aaron Schock,Republican,58.9,True,False,True
-2008,house,Illinois,IL,18,Colleen Callahan,Democratic,37.9,False,False,True
-2008,house,Illinois,IL,18,Sheldon Schafer,Green,3.2,False,False,True
-2008,house,Illinois,IL,19,John Shimkus,Republican,64.5,True,True,False
-2008,house,Illinois,IL,19,Daniel Davis,Democratic,33.4,False,False,False
-2008,house,Illinois,IL,19,Troy Dennis,Green,2.1,False,False,False
-2008,house,Indiana,IN,1,Pete Visclosky,Democratic,70.9,True,True,False
-2008,house,Indiana,IN,1,Mark Leyva,Republican,27.2,False,False,False
-2008,house,Indiana,IN,1,Jeff Duensing,Libertarian,1.9,False,False,False
-2008,house,Indiana,IN,2,Joe Donnelly,Democratic,67.1,True,True,False
-2008,house,Indiana,IN,2,Luke Puckett,Republican,30.2,False,False,False
-2008,house,Indiana,IN,2,Mark Vogel,Libertarian,2.7,False,False,False
-2008,house,Indiana,IN,3,Mark Souder,Republican,55.0,True,True,False
-2008,house,Indiana,IN,3,Mike Montagano,Democratic,39.7,False,False,False
-2008,house,Indiana,IN,3,William Larsen,Libertarian,5.3,False,False,False
-2008,house,Indiana,IN,4,Steve Buyer,Republican,59.9,True,True,False
-2008,house,Indiana,IN,4,Nels Ackerson,Democratic,40.1,False,False,False
-2008,house,Indiana,IN,5,Dan Burton,Republican,65.5,True,True,False
-2008,house,Indiana,IN,5,Mary Etta Ruley,Democratic,34.5,False,False,False
-2008,house,Indiana,IN,6,Mike Pence,Republican,63.9,True,True,False
-2008,house,Indiana,IN,6,Barry Welsh,Democratic,33.4,False,False,False
-2008,house,Indiana,IN,6,George Holland,Libertarian,2.7,False,False,False
-2008,house,Indiana,IN,7,André Carson,Democratic,65.1,True,True,False
-2008,house,Indiana,IN,7,Gabrielle Campo,Republican,34.9,False,False,False
-2008,house,Indiana,IN,8,Brad Ellsworth,Democratic,64.7,True,True,False
-2008,house,Indiana,IN,8,Greg Goode,Republican,35.3,False,False,False
-2008,house,Indiana,IN,9,Baron Hill,Democratic,57.8,True,False,False
-2008,house,Indiana,IN,9,Mike Sodrel,Republican,38.4,False,False,False
-2008,house,Indiana,IN,9,D. Eric Schansberg,Libertarian,3.8,False,False,False
-2008,house,Iowa,IA,1,Bruce Braley,Democratic,64.6,True,True,False
-2008,house,Iowa,IA,1,David Hartsuch,Republican,35.4,False,False,False
-2008,house,Iowa,IA,2,Dave Loebsack,Democratic,57.2,True,True,False
-2008,house,Iowa,IA,2,Mariannette Miller-Meeks,Republican,38.8,False,False,False
-2008,house,Iowa,IA,2,Wendy Barth,Green,2.2,False,False,False
-2008,house,Iowa,IA,2,Brian White,Independent,1.8,False,False,False
-2008,house,Iowa,IA,3,Leonard Boswell,Democratic,56.4,True,True,False
-2008,house,Iowa,IA,3,Kim Schmett,Republican,42.1,False,False,False
-2008,house,Iowa,IA,3,Frank Forrestal,Socialist Workers,1.5,False,False,False
-2008,house,Iowa,IA,4,Tom Latham,Republican,60.6,True,False,False
-2008,house,Iowa,IA,4,Becky Greenwald,Democratic,39.4,False,False,False
-2008,house,Iowa,IA,5,Steve King,Republican,59.8,True,True,False
-2008,house,Iowa,IA,5,Rob Hubler,Democratic,37.4,False,False,False
-2008,house,Iowa,IA,5,Victor Vara,Independent,2.8,False,False,False
-2008,house,Kansas,KS,1,Jerry Moran,Republican,81.8,True,True,False
-2008,house,Kansas,KS,1,James Bordonaro,Democratic,13.2,False,False,False
-2008,house,Kansas,KS,1,Kathleen Burton,Reform,2.7,False,False,False
-2008,house,Kansas,KS,1,Jack Warner,Libertarian,2.1,False,False,False
-2008,house,Kansas,KS,2,Lynn Jenkins,Republican,50.6,True,False,False
-2008,house,Kansas,KS,2,Nancy Boyda,Democratic,46.2,False,True,False
-2008,house,Kansas,KS,2,Leslie Martin,Reform,1.6,False,False,False
-2008,house,Kansas,KS,2,Robert Garrard,Libertarian,1.5,False,False,False
-2008,house,Kansas,KS,3,Dennis Moore,Democratic,56.4,True,False,False
-2008,house,Kansas,KS,3,Nick Jordan,Republican,39.6,False,False,False
-2008,house,Kansas,KS,3,Joe Bellis,Libertarian,2.8,False,False,False
-2008,house,Kansas,KS,3,Roger Tucker,Reform,1.0,False,False,False
-2008,house,Kansas,KS,4,Todd Tiahrt,Republican,63.4,True,True,False
-2008,house,Kansas,KS,4,Donald Betts,Democratic,32.3,False,False,False
-2008,house,Kansas,KS,4,Susan Ducey,Reform,2.2,False,False,False
-2008,house,Kansas,KS,4,Steven Rosile,Libertarian,1.9,False,False,False
-2008,house,Kentucky,KY,1,Ed Whitfield,Republican,64.3,True,True,False
-2008,house,Kentucky,KY,1,Heather Ryan,Democratic,35.7,False,False,False
-2008,house,Kentucky,KY,2,Brett Guthrie,Republican,52.6,True,False,True
-2008,house,Kentucky,KY,2,David Boswell,Democratic,47.4,False,False,True
-2008,house,Kentucky,KY,3,John Yarmuth,Democratic,59.4,True,True,False
-2008,house,Kentucky,KY,3,Anne Northup,Republican,40.6,False,False,False
-2008,house,Kentucky,KY,4,Geoff Davis,Republican,63.0,True,True,False
-2008,house,Kentucky,KY,4,Michael Kelly,Democratic,37.0,False,False,False
-2008,house,Kentucky,KY,5,Hal Rogers,Republican,84.1,True,True,False
-2008,house,Kentucky,KY,5,Jim Holbert,Independent,15.9,False,False,False
-2008,house,Kentucky,KY,6,Ben Chandler,Democratic,64.7,True,True,False
-2008,house,Kentucky,KY,6,Jon Larson,Republican,35.3,False,False,False
-2008,house,Louisiana,LA,1,Steve Scalise,Republican,65.7,True,True,False
-2008,house,Louisiana,LA,1,Jim Harlan,Democratic,34.3,False,False,False
-2008,house,Louisiana,LA,2,Joseph Cao,Republican,49.5,True,False,False
-2008,house,Louisiana,LA,2,Bill Jefferson,Democratic,46.8,False,False,False
-2008,house,Louisiana,LA,2,Malik Rahim,Green,2.8,False,False,False
-2008,house,Louisiana,LA,2,Gregory Kahn,Libertarian,0.8,False,False,False
-2008,house,Louisiana,LA,3,Charlie Melançon,Democratic,100.0,True,False,False
-2008,house,Louisiana,LA,4,John Fleming,Republican,48.1,True,False,True
-2008,house,Louisiana,LA,4,Paul Carmouche,Democratic,47.7,False,False,True
-2008,house,Louisiana,LA,4,Chester Kelly,Independent,3.5,False,False,True
-2008,house,Louisiana,LA,4,Gerard Bowen,Independent,0.7,False,False,True
-2008,house,Louisiana,LA,5,Rodney Alexander,Republican,100.0,True,True,False
-2008,house,Louisiana,LA,6,Bill Cassidy,Republican,48.1,True,False,False
-2008,house,Louisiana,LA,6,Don Cazayoux,Democratic,40.3,False,True,False
-2008,house,Louisiana,LA,6,Michael L. Jackson,Independent Democratic,11.6,False,False,False
-2008,house,Louisiana,LA,7,Charles Boustany,Republican,61.9,True,True,False
-2008,house,Louisiana,LA,7,Don Cravins Jr.,Democratic,34.3,False,False,False
-2008,house,Louisiana,LA,7,Peter Vidrine,Constitution,3.8,False,False,False
-2008,house,Maine,ME,1,Chellie Pingree,Democratic,54.9,True,False,True
-2008,house,Maine,ME,1,Charlie Summers,Republican,45.1,False,False,True
-2008,house,Maine,ME,2,Mike Michaud,Democratic,67.4,True,True,False
-2008,house,Maine,ME,2,John Frary,Republican,32.6,False,False,False
-2008,house,Maryland,MD,1,Frank Kratovil,Democratic,49.1,True,False,False
-2008,house,Maryland,MD,1,Andy Harris,Republican,48.3,False,False,False
-2008,house,Maryland,MD,1,Richard James Davis,Libertarian,2.5,False,False,False
-2008,house,Maryland,MD,2,Dutch Ruppersberger,Democratic,71.9,True,True,False
-2008,house,Maryland,MD,2,Richard Matthews,Republican,24.8,False,False,False
-2008,house,Maryland,MD,2,Lorenzo Gaztanaga,Libertarian,3.2,False,False,False
-2008,house,Maryland,MD,3,John Sarbanes,Democratic,69.7,True,True,False
-2008,house,Maryland,MD,3,Tom Harris,Republican,30.1,False,False,False
-2008,house,Maryland,MD,4,Donna Edwards,Democratic,85.8,True,True,False
-2008,house,Maryland,MD,4,Peter James,Republican,12.9,False,False,False
-2008,house,Maryland,MD,4,Thibeaux Lincecum,Libertarian,1.1,False,False,False
-2008,house,Maryland,MD,5,Steny Hoyer,Democratic,73.6,True,True,False
-2008,house,Maryland,MD,5,Collins Bailey,Republican,24.0,False,False,False
-2008,house,Maryland,MD,5,Darlene H. Nicholas,Libertarian,2.3,False,False,False
-2008,house,Maryland,MD,6,Roscoe Bartlett,Republican,57.8,True,True,False
-2008,house,Maryland,MD,6,Jennifer Dougherty,Democratic,38.8,False,False,False
-2008,house,Maryland,MD,6,Gary Hoover,Libertarian,3.3,False,False,False
-2008,house,Maryland,MD,7,Elijah Cummings,Democratic,79.5,True,True,False
-2008,house,Maryland,MD,7,Michael Hargadon,Republican,18.6,False,False,False
-2008,house,Maryland,MD,7,Ronald M. Owens-Bey,Libertarian,1.8,False,False,False
-2008,house,Maryland,MD,8,Chris Van Hollen,Democratic,75.1,True,True,False
-2008,house,Maryland,MD,8,Steve Hudson,Republican,21.7,False,False,False
-2008,house,Maryland,MD,8,Gordon Clark,Green,2.2,False,False,False
-2008,house,Maryland,MD,8,Ian Thomas,Libertarian,0.8,False,False,False
-2008,house,Massachusetts,MA,1,John Olver,Democratic,72.8,True,True,False
-2008,house,Massachusetts,MA,1,Nate Bech,Republican,27.0,False,False,False
-2008,house,Massachusetts,MA,2,Richard Neal,Democratic,100.0,True,True,False
-2008,house,Massachusetts,MA,3,Jim McGovern,Democratic,100.0,True,False,False
-2008,house,Massachusetts,MA,4,Barney Frank,Democratic,68.0,True,True,False
-2008,house,Massachusetts,MA,4,Earl Sholley,Republican,25.3,False,False,False
-2008,house,Massachusetts,MA,4,Susan Allen,Independent,6.6,False,False,False
-2008,house,Massachusetts,MA,5,Niki Tsongas,Democratic,100.0,True,True,False
-2008,house,Massachusetts,MA,6,John F. Tierney,Democratic,70.4,True,True,False
-2008,house,Massachusetts,MA,6,Richard Baker,Republican,29.5,False,False,False
-2008,house,Massachusetts,MA,7,Ed Markey,Democratic,75.6,True,True,False
-2008,house,Massachusetts,MA,7,John Cunningham,Republican,24.2,False,False,False
-2008,house,Massachusetts,MA,8,Mike Capuano,Democratic,100.0,True,True,False
-2008,house,Massachusetts,MA,9,Stephen Lynch,Democratic,100.0,True,False,False
-2008,house,Massachusetts,MA,10,Bill Delahunt,Democratic,100.0,True,True,False
-2008,house,Michigan,MI,1,Bart Stupak,Democratic,65.0,True,True,False
-2008,house,Michigan,MI,1,Tom Casperson,Republican,32.7,False,False,False
-2008,house,Michigan,MI,1,Jean Marie Treacy,Green,0.8,False,False,False
-2008,house,Michigan,MI,1,Dan Grow,Libertarian,0.8,False,False,False
-2008,house,Michigan,MI,1,Joshua Warren,US Taxpayers,0.6,False,False,False
-2008,house,Michigan,MI,2,Pete Hoekstra,Republican,62.4,True,True,False
-2008,house,Michigan,MI,2,Fred Johnson,Democratic,34.8,False,False,False
-2008,house,Michigan,MI,2,Dan Johnson,Libertarian,1.6,False,False,False
-2008,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,1.2,False,False,False
-2008,house,Michigan,MI,3,Vern Ehlers,Republican,61.1,True,True,False
-2008,house,Michigan,MI,3,Henry Sanchez,Democratic,35.4,False,False,False
-2008,house,Michigan,MI,3,Erwin Haas,Libertarian,3.4,False,False,False
-2008,house,Michigan,MI,4,Dave Camp,Republican,61.9,True,True,False
-2008,house,Michigan,MI,4,Andrew Concannon,Democratic,35.7,False,False,False
-2008,house,Michigan,MI,4,John Emerick,US Taxpayers,1.2,False,False,False
-2008,house,Michigan,MI,4,Allitta Hren,Libertarian,1.1,False,False,False
-2008,house,Michigan,MI,5,Dale Kildee,Democratic,70.4,True,True,False
-2008,house,Michigan,MI,5,Matt Sawicki,Republican,27.0,False,False,False
-2008,house,Michigan,MI,5,Leonard Schwartz,Libertarian,1.4,False,False,False
-2008,house,Michigan,MI,5,Ken Mathenia,Green,1.3,False,False,False
-2008,house,Michigan,MI,6,Fred Upton,Republican,58.9,True,True,False
-2008,house,Michigan,MI,6,Don Cooney,Democratic,38.6,False,False,False
-2008,house,Michigan,MI,6,Greg Merle,Libertarian,1.5,False,False,False
-2008,house,Michigan,MI,6,Edward Pinkney,Green,1.1,False,False,False
-2008,house,Michigan,MI,7,Mark Schauer,Democratic,48.8,True,False,False
-2008,house,Michigan,MI,7,Tim Walberg,Republican,46.5,False,True,False
-2008,house,Michigan,MI,7,Lynn Meadows,Green,3.0,False,False,False
-2008,house,Michigan,MI,7,Ken Proctor,Libertarian,1.8,False,False,False
-2008,house,Michigan,MI,8,Mike Rogers,Republican,56.5,True,False,False
-2008,house,Michigan,MI,8,Robert D. Alexander,Democratic,40.2,False,False,False
-2008,house,Michigan,MI,8,Will Tyler White,Libertarian,1.2,False,False,False
-2008,house,Michigan,MI,8,Aaron Stuttman,Green,1.1,False,False,False
-2008,house,Michigan,MI,8,George Zimmer,US Taxpayers,1.0,False,False,False
-2008,house,Michigan,MI,9,Gary Peters,Democratic,52.1,True,False,False
-2008,house,Michigan,MI,9,Joe Knollenberg,Republican,42.6,False,True,False
-2008,house,Michigan,MI,9,Jack Kevorkian,Independent,2.6,False,False,False
-2008,house,Michigan,MI,9,Adam Goodman,Libertarian,1.4,False,False,False
-2008,house,Michigan,MI,9,Doug Campbell,Green,1.4,False,False,False
-2008,house,Michigan,MI,10,Candice Miller,Republican,66.3,True,True,False
-2008,house,Michigan,MI,10,Robert Denison,Democratic,31.2,False,False,False
-2008,house,Michigan,MI,10,Neil Stephenson,Libertarian,1.3,False,False,False
-2008,house,Michigan,MI,10,Candace Caveny,Green,1.2,False,False,False
-2008,house,Michigan,MI,11,Thaddeus McCotter,Republican,51.4,True,True,False
-2008,house,Michigan,MI,11,Joseph Larkin,Democratic,45.4,False,False,False
-2008,house,Michigan,MI,11,John Tatar,Libertarian,1.7,False,False,False
-2008,house,Michigan,MI,11,Erik Shelley,Green,1.5,False,False,False
-2008,house,Michigan,MI,12,Sander Levin,Democratic,72.1,True,True,False
-2008,house,Michigan,MI,12,Bert Copple,Republican,23.9,False,False,False
-2008,house,Michigan,MI,12,John Vico,Libertarian,1.5,False,False,False
-2008,house,Michigan,MI,12,Les Townsend,US Taxpayers,1.3,False,False,False
-2008,house,Michigan,MI,12,Bill Opalicky,Green,1.2,False,False,False
-2008,house,Michigan,MI,13,Carolyn Cheeks Kilpatrick,Democratic,74.1,True,True,False
-2008,house,Michigan,MI,13,Edward Gubics,Republican,19.1,False,False,False
-2008,house,Michigan,MI,13,George Corsetti,Green,4.2,False,False,False
-2008,house,Michigan,MI,13,Gregory Creswell,Libertarian,2.6,False,False,False
-2008,house,Michigan,MI,14,John Conyers,Democratic,92.4,True,True,False
-2008,house,Michigan,MI,14,Rick Secula,Libertarian,4.4,False,False,False
-2008,house,Michigan,MI,14,Clyde Shabazz,Green,3.2,False,False,False
-2008,house,Michigan,MI,15,John Dingell,Democratic,70.7,True,True,False
-2008,house,Michigan,MI,15,John Lynch,Republican,25.0,False,False,False
-2008,house,Michigan,MI,15,Aimee Smith,Green,2.2,False,False,False
-2008,house,Michigan,MI,15,Greg Stempfle,Libertarian,1.2,False,False,False
-2008,house,Michigan,MI,15,James Wagner,US Taxpayers,1.0,False,False,False
-2008,house,Minnesota,MN,1,Tim Walz,DFL,62.5,True,False,False
-2008,house,Minnesota,MN,1,Brian Davis,Republican,32.9,False,False,False
-2008,house,Minnesota,MN,1,Gregory Mikkelson,Independence,4.5,False,False,False
-2008,house,Minnesota,MN,2,John Kline,Republican,57.3,True,False,False
-2008,house,Minnesota,MN,2,Steve Sarvi,DFL,42.6,False,False,False
-2008,house,Minnesota,MN,3,Erik Paulsen,Republican,48.5,True,False,True
-2008,house,Minnesota,MN,3,Ashwin Madia,DFL,40.9,False,False,True
-2008,house,Minnesota,MN,3,David Dillon,Independence,10.6,False,False,True
-2008,house,Minnesota,MN,4,Betty McCollum,DFL,68.4,True,False,False
-2008,house,Minnesota,MN,4,Ed Matthews,Republican,31.3,False,False,False
-2008,house,Minnesota,MN,5,Keith Ellison,DFL,70.9,True,False,False
-2008,house,Minnesota,MN,5,Barb Davis White,Republican,22.0,False,False,False
-2008,house,Minnesota,MN,5,Bill McGaughey,Independence,6.9,False,False,False
-2008,house,Minnesota,MN,6,Michele Bachmann,Republican,46.4,True,True,False
-2008,house,Minnesota,MN,6,Elwyn Tinklenberg,DFL,43.4,False,False,False
-2008,house,Minnesota,MN,6,Bob Anderson,Independence,10.0,False,False,False
-2008,house,Minnesota,MN,7,Collin Peterson,DFL,72.2,True,False,False
-2008,house,Minnesota,MN,7,Glen Menze,Republican,27.7,False,False,False
-2008,house,Minnesota,MN,8,Jim Oberstar,DFL,67.7,True,False,False
-2008,house,Minnesota,MN,8,Michael Cummins,Republican,32.2,False,False,False
-2008,house,Mississippi,MS,1,Travis Childers,Democratic,54.5,True,True,False
-2008,house,Mississippi,MS,1,Greg Davis,Republican,43.9,False,False,False
-2008,house,Mississippi,MS,1,Wally Pang,Independent,1.1,False,False,False
-2008,house,Mississippi,MS,1,John Wages Jr.,Green,0.6,False,False,False
-2008,house,Mississippi,MS,2,Bennie Thompson,Democratic,69.1,True,True,False
-2008,house,Mississippi,MS,2,Richard Cook,Republican,30.9,False,False,False
-2008,house,Mississippi,MS,3,Gregg Harper,Republican,62.5,True,False,True
-2008,house,Mississippi,MS,3,Joel Gill,Democratic,37.5,False,False,True
-2008,house,Mississippi,MS,4,Gene Taylor,Democratic,74.5,True,False,False
-2008,house,Mississippi,MS,4,John McCay,Republican,25.5,False,False,False
-2008,house,Missouri,MO,1,Lacy Clay,Democratic,86.9,True,True,False
-2008,house,Missouri,MO,1,Robb Cunningham,Libertarian,13.1,False,False,False
-2008,house,Missouri,MO,2,Todd Akin,Republican,62.3,True,True,False
-2008,house,Missouri,MO,2,Bill Haas,Democratic,35.4,False,False,False
-2008,house,Missouri,MO,2,Thomas Knapp,Libertarian,2.3,False,False,False
-2008,house,Missouri,MO,3,Russ Carnahan,Democratic,66.4,True,True,False
-2008,house,Missouri,MO,3,Chris Sander,Republican,30.4,False,False,False
-2008,house,Missouri,MO,3,Kevin Babcock,Libertarian,1.8,False,False,False
-2008,house,Missouri,MO,3,Cindy Redburn,Constitution,1.4,False,False,False
-2008,house,Missouri,MO,4,Ike Skelton,Democratic,65.9,True,True,False
-2008,house,Missouri,MO,4,Jeff Parnell,Republican,34.1,False,False,False
-2008,house,Missouri,MO,5,Emanuel Cleaver,Democratic,64.4,True,True,False
-2008,house,Missouri,MO,5,Jacob Turk,Republican,35.6,False,False,False
-2008,house,Missouri,MO,6,Sam Graves,Republican,59.4,True,True,False
-2008,house,Missouri,MO,6,Kay Barnes,Democratic,36.9,False,False,False
-2008,house,Missouri,MO,6,Dave Browning,Libertarian,3.7,False,False,False
-2008,house,Missouri,MO,7,Roy Blunt,Republican,67.8,True,True,False
-2008,house,Missouri,MO,7,Richard Monroe,Democratic,28.1,False,False,False
-2008,house,Missouri,MO,7,Kevin Craig,Libertarian,2.2,False,False,False
-2008,house,Missouri,MO,7,Travis Maddox,Constitution,1.9,False,False,False
-2008,house,Missouri,MO,8,Jo Ann Emerson,Republican,71.4,True,True,False
-2008,house,Missouri,MO,8,Joe Allen,Democratic,26.2,False,False,False
-2008,house,Missouri,MO,8,Branden McCullough,Libertarian,1.6,False,False,False
-2008,house,Missouri,MO,8,Richard Smith,Constitution,0.8,False,False,False
-2008,house,Missouri,MO,9,Blaine Luetkemeyer,Republican,50.0,True,False,True
-2008,house,Missouri,MO,9,Judy Baker,Democratic,47.5,False,False,True
-2008,house,Missouri,MO,9,Tamara Millay,Libertarian,2.5,False,False,True
-2008,house,Montana,MT,AL,Denny Rehberg,Republican,64.2,True,True,False
-2008,house,Montana,MT,AL,John Driscoll,Democratic,32.4,False,False,False
-2008,house,Montana,MT,AL,Mike Fellows,Libertarian,3.4,False,False,False
-2008,house,Nebraska,NE,1,Jeff Fortenberry,Republican,70.4,True,True,False
-2008,house,Nebraska,NE,1,Max Yashirin,Democratic,29.6,False,False,False
-2008,house,Nebraska,NE,2,Lee Terry,Republican,51.9,True,True,False
-2008,house,Nebraska,NE,2,Jim Esch,Democratic,48.1,False,False,False
-2008,house,Nebraska,NE,3,Adrian Smith,Republican,76.9,True,True,False
-2008,house,Nebraska,NE,3,Jay Stoddard,Democratic,23.1,False,False,False
-2008,house,Nevada,NV,1,Shelley Berkley,Democratic,67.6,True,True,False
-2008,house,Nevada,NV,1,Kenneth Wegner,Republican,28.4,False,False,False
-2008,house,Nevada,NV,1,Caren Alexander,Independent American,2.0,False,False,False
-2008,house,Nevada,NV,1,Raymond Duensing,Libertarian,2.0,False,False,False
-2008,house,Nevada,NV,2,Dean Heller,Republican,51.8,True,True,False
-2008,house,Nevada,NV,2,Jill Derby,Democratic,41.4,False,False,False
-2008,house,Nevada,NV,2,John Everhart,Independent American,3.4,False,False,False
-2008,house,Nevada,NV,2,Sean Patrick Morse,Libertarian,1.7,False,False,False
-2008,house,Nevada,NV,2,Craig Bergland,Green,1.6,False,False,False
-2008,house,Nevada,NV,3,Dina Titus,Democratic,47.4,True,False,False
-2008,house,Nevada,NV,3,Jon Porter,Republican,42.3,False,True,False
-2008,house,Nevada,NV,3,Jeffrey Reeves,Independent,4.3,False,False,False
-2008,house,Nevada,NV,3,Joseph Silvestri,Libertarian,2.9,False,False,False
-2008,house,Nevada,NV,3,Floyd Fitzgibbons,Independent American,2.0,False,False,False
-2008,house,Nevada,NV,3,Bob Gianquinta,Green,1.1,False,False,False
-2008,house,New Hampshire,NH,1,Carol Shea-Porter,Democratic,51.7,True,True,False
-2008,house,New Hampshire,NH,1,Jeb Bradley,Republican,45.8,False,False,False
-2008,house,New Hampshire,NH,1,Robert Kingsbury,Libertarian,2.4,False,False,False
-2008,house,New Hampshire,NH,2,Paul Hodes,Democratic,56.4,True,True,False
-2008,house,New Hampshire,NH,2,Jennifer Horn,Republican,41.4,False,False,False
-2008,house,New Hampshire,NH,2,Chester Lapointe II,Libertarian,2.1,False,False,False
-2008,house,New Jersey,NJ,1,Rob Andrews,Democratic,72.4,True,True,True
-2008,house,New Jersey,NJ,1,Dale Glading,Republican,26.0,False,False,True
-2008,house,New Jersey,NJ,1,Matthew Thieke,Green,0.7,False,False,True
-2008,house,New Jersey,NJ,1,Margaret Chapman,Independent,0.4,False,False,True
-2008,house,New Jersey,NJ,1,Everitt Williams,Independent,0.3,False,False,True
-2008,house,New Jersey,NJ,1,Alvin Lindsay,Independent,0.2,False,False,True
-2008,house,New Jersey,NJ,2,Frank LoBiondo,Republican,59.1,True,True,False
-2008,house,New Jersey,NJ,2,David Kurkowski,Democratic,39.1,False,False,False
-2008,house,New Jersey,NJ,2,Jason Grover,Green,0.6,False,False,False
-2008,house,New Jersey,NJ,2,Peter Boyce,Constitution,0.5,False,False,False
-2008,house,New Jersey,NJ,2,Gary Stein,Independent,0.5,False,False,False
-2008,house,New Jersey,NJ,2,Constantino Rozzo,Socialist,0.2,False,False,False
-2008,house,New Jersey,NJ,3,John Adler,Democratic,52.1,True,False,True
-2008,house,New Jersey,NJ,3,Chris Myers,Republican,47.9,False,False,True
-2008,house,New Jersey,NJ,4,Chris Smith,Republican,66.2,True,False,False
-2008,house,New Jersey,NJ,4,Joshua Zeitz,Democratic,32.6,False,False,False
-2008,house,New Jersey,NJ,4,Steven Welzer,Green,1.2,False,False,False
-2008,house,New Jersey,NJ,5,Scott Garrett,Republican,55.9,True,True,False
-2008,house,New Jersey,NJ,5,Dennis Shulman,Democratic,42.4,False,False,False
-2008,house,New Jersey,NJ,5,Ed Fanning,Green,1.7,False,False,False
-2008,house,New Jersey,NJ,6,Frank Pallone,Democratic,66.9,True,True,False
-2008,house,New Jersey,NJ,6,Robert McLeod,Republican,31.6,False,False,False
-2008,house,New Jersey,NJ,6,Herbert Tarbous,Independent,1.4,False,False,False
-2008,house,New Jersey,NJ,7,Leonard Lance,Republican,50.2,True,False,True
-2008,house,New Jersey,NJ,7,Linda Stender,Democratic,42.2,False,False,True
-2008,house,New Jersey,NJ,7,Michael Hsing,Independent,5.6,False,False,True
-2008,house,New Jersey,NJ,7,Dean Greco,Independent,1.1,False,False,True
-2008,house,New Jersey,NJ,7,Thomas Abrams,Independent,0.9,False,False,True
-2008,house,New Jersey,NJ,8,Bill Pascrell,Democratic,71.1,True,True,False
-2008,house,New Jersey,NJ,8,Rollie Straten,Republican,28.2,False,False,False
-2008,house,New Jersey,NJ,8,Derek DeMarco,Libertarian,0.7,False,False,False
-2008,house,New Jersey,NJ,9,Steve Rothman,Democratic,69.5,True,True,False
-2008,house,New Jersey,NJ,9,Vince Micco,Republican,31.0,False,False,False
-2008,house,New Jersey,NJ,9,Michael Perrone,Independent,0.5,False,False,False
-2008,house,New Jersey,NJ,10,Donald M. Payne,Democratic,98.9,True,True,False
-2008,house,New Jersey,NJ,10,Michael Taber,Socialist Workers,1.1,False,False,False
-2008,house,New Jersey,NJ,11,Rodney Frelinghuysen,Republican,61.8,True,True,False
-2008,house,New Jersey,NJ,11,Tom Wyka,Democratic,37.0,False,False,False
-2008,house,New Jersey,NJ,11,Chandler Tedholm,Independent,1.2,False,False,False
-2008,house,New Jersey,NJ,12,Rush Holt Jr.,Democratic,63.1,True,True,False
-2008,house,New Jersey,NJ,12,Alan Bateman,Republican,35.3,False,False,False
-2008,house,New Jersey,NJ,12,David Corsi,Independent,1.6,False,False,False
-2008,house,New Jersey,NJ,13,Albio Sires,Democratic,75.4,True,True,False
-2008,house,New Jersey,NJ,13,Joseph Turula,Republican,21.7,False,False,False
-2008,house,New Jersey,NJ,13,Julio Fernandez,Independent,2.3,False,False,False
-2008,house,New Jersey,NJ,13,Louis Vernotico,Independent,0.6,False,False,False
-2008,house,New Mexico,NM,1,Martin Heinrich,Democratic,55.7,True,False,True
-2008,house,New Mexico,NM,1,Darren White,Republican,44.3,False,False,True
-2008,house,New Mexico,NM,2,Harry Teague,Democratic,56.0,True,False,True
-2008,house,New Mexico,NM,2,Edward Tinsley,Republican,44.0,False,False,True
-2008,house,New Mexico,NM,3,Ben Ray Luján,Democratic,56.7,True,False,True
-2008,house,New Mexico,NM,3,Daniel East,Republican,30.5,False,False,True
-2008,house,New Mexico,NM,3,Carol Miller,Independent,12.8,False,False,True
-2008,house,New York,NY,1,Tim Bishop,Democratic,58.4,True,True,False
-2008,house,New York,NY,1,Lee Zeldin,Republican,41.6,False,False,False
-2008,house,New York,NY,2,Steve Israel,Democratic,66.9,True,True,False
-2008,house,New York,NY,2,Frank Stalzer,Republican,33.1,False,False,False
-2008,house,New York,NY,3,Peter King,Republican,63.9,True,True,False
-2008,house,New York,NY,3,Graham Long,Democratic,36.1,False,False,False
-2008,house,New York,NY,4,Carolyn McCarthy,Democratic,64.0,True,True,False
-2008,house,New York,NY,4,Jack Martins,Republican,36.0,False,False,False
-2008,house,New York,NY,5,Gary Ackerman,Democratic,70.7,True,True,False
-2008,house,New York,NY,5,Elizabeth Berney,Republican,27.4,False,False,False
-2008,house,New York,NY,5,Jun Policarpio,Conservative,1.9,False,False,False
-2008,house,New York,NY,6,Gregory Meeks,Democratic,100.0,True,True,False
-2008,house,New York,NY,7,Joe Crowley,Democratic,84.7,True,True,False
-2008,house,New York,NY,7,William Britt,Republican,15.3,False,False,False
-2008,house,New York,NY,8,Jerry Nadler,Democratic,80.5,True,True,False
-2008,house,New York,NY,8,Grace Lin,Republican,19.5,False,False,False
-2008,house,New York,NY,9,Anthony Weiner,Democratic,93.3,True,True,False
-2008,house,New York,NY,9,Alfred F. Donohue Jr.,Conservative,6.7,False,False,False
-2008,house,New York,NY,10,Edolphus Towns,Democratic,94.2,True,True,False
-2008,house,New York,NY,10,Salvatore Grupico,Republican,5.8,False,False,False
-2008,house,New York,NY,11,Yvette Clarke,Democratic,92.8,True,True,False
-2008,house,New York,NY,11,Hugh Carr,Republican,6.4,False,False,False
-2008,house,New York,NY,11,Cartrell Gore,Conservative,0.8,False,False,False
-2008,house,New York,NY,12,Nydia Velázquez,Democratic,90.0,True,True,False
-2008,house,New York,NY,12,Allan Romaguera,Republican,10.0,False,False,False
-2008,house,New York,NY,13,Michael McMahon,Democratic,60.9,True,False,True
-2008,house,New York,NY,13,Robert Straniere,Republican,33.3,False,False,True
-2008,house,New York,NY,13,Timothy Cochrane,Conservative,3.1,False,False,True
-2008,house,New York,NY,13,Carmine Morano,Independence,2.7,False,False,True
-2008,house,New York,NY,14,Carolyn Maloney,Democratic,79.8,True,True,False
-2008,house,New York,NY,14,Robert Heim,Republican,19.0,False,False,False
-2008,house,New York,NY,14,Isaiah Matos,Libertarian,1.2,False,False,False
-2008,house,New York,NY,15,Charles Rangel,Democratic,89.2,True,True,False
-2008,house,New York,NY,15,Edward Daniels,Republican,7.9,False,False,False
-2008,house,New York,NY,15,Craig Schley,Independent,1.9,False,False,False
-2008,house,New York,NY,15,Martin Koppel,Socialist Workers,1.1,False,False,False
-2008,house,New York,NY,16,José E. Serrano,Democratic,96.6,True,True,False
-2008,house,New York,NY,16,Ali Mohamed,Republican,3.4,False,False,False
-2008,house,New York,NY,17,Eliot Engel,Democratic,79.9,True,True,False
-2008,house,New York,NY,17,Robert Goodman,Republican,20.1,False,False,False
-2008,house,New York,NY,18,Nita Lowey,Democratic,68.5,True,True,False
-2008,house,New York,NY,18,James Russell,Republican,31.5,False,False,False
-2008,house,New York,NY,19,John Hall,Democratic,58.7,True,False,False
-2008,house,New York,NY,19,Kieran Lalor,Republican,41.3,False,False,False
-2008,house,New York,NY,20,Kirsten Gillibrand,Democratic,62.1,True,True,False
-2008,house,New York,NY,20,Sandy Treadwell,Republican,37.9,False,False,False
-2008,house,New York,NY,21,Paul Tonko,Democratic,62.1,True,False,True
-2008,house,New York,NY,21,James Buhrmaster,Republican,35.0,False,False,True
-2008,house,New York,NY,21,Phillip Steck,Independence,2.9,False,False,True
-2008,house,New York,NY,22,Maurice Hinchey,Democratic,66.3,True,True,False
-2008,house,New York,NY,22,George Phillips,Republican,33.7,False,False,False
-2008,house,New York,NY,23,John M. McHugh,Republican,65.3,True,True,False
-2008,house,New York,NY,23,Michael Oot,Democratic,34.7,False,False,False
-2008,house,New York,NY,24,Mike Arcuri,Democratic,52.0,True,True,False
-2008,house,New York,NY,24,Richard Hanna,Republican,48.0,False,False,False
-2008,house,New York,NY,25,Dan Maffei,Democratic,54.8,True,False,True
-2008,house,New York,NY,25,Dale Sweetland,Republican,41.9,False,False,True
-2008,house,New York,NY,25,Howie Hawkins,Green,3.3,False,False,True
-2008,house,New York,NY,26,Chris Lee,Republican,55.0,True,False,True
-2008,house,New York,NY,26,Alice Kryzan,Democratic,40.5,False,False,True
-2008,house,New York,NY,26,Jon Powers,Working Families,4.5,False,False,True
-2008,house,New York,NY,27,Brian Higgins,Democratic,74.4,True,True,False
-2008,house,New York,NY,27,Daniel Humiston,Republican,22.6,False,False,False
-2008,house,New York,NY,27,Harold Schroeder,Conservative,3.0,False,False,False
-2008,house,New York,NY,28,Louise Slaughter,Democratic,78.0,True,True,False
-2008,house,New York,NY,28,David Crimmen,Republican,22.0,False,False,False
-2008,house,New York,NY,29,Eric Massa,Democratic,51.0,True,False,False
-2008,house,New York,NY,29,Randy Kuhl,Republican,49.0,False,True,False
-2008,house,North Carolina,NC,1,G. K. Butterfield,Democratic,70.3,True,True,False
-2008,house,North Carolina,NC,1,Dean Stephens,Republican,29.7,False,False,False
-2008,house,North Carolina,NC,2,Bob Etheridge,Democratic,66.9,True,True,False
-2008,house,North Carolina,NC,2,Dan Mansell,Republican,31.3,False,False,False
-2008,house,North Carolina,NC,2,Will Adkins,Libertarian,1.8,False,False,False
-2008,house,North Carolina,NC,3,Walter B. Jones Jr.,Republican,65.9,True,True,False
-2008,house,North Carolina,NC,3,Craig Weber,Democratic,34.1,False,False,False
-2008,house,North Carolina,NC,4,David Price,Democratic,63.3,True,False,False
-2008,house,North Carolina,NC,5,Virginia Foxx,Republican,58.4,True,True,False
-2008,house,North Carolina,NC,5,Roy Carter,Democratic,41.6,False,False,False
-2008,house,North Carolina,NC,6,Howard Coble,Republican,67.0,True,True,False
-2008,house,North Carolina,NC,6,Teresa Sue Bratton,Democratic,33.0,False,False,False
-2008,house,North Carolina,NC,7,Mike McIntyre,Democratic,68.8,True,True,False
-2008,house,North Carolina,NC,7,Will Breazeale,Republican,31.2,False,False,False
-2008,house,North Carolina,NC,8,Larry Kissell,Democratic,55.4,True,False,False
-2008,house,North Carolina,NC,8,Robin Hayes,Republican,44.6,False,True,False
-2008,house,North Carolina,NC,9,Sue Myrick,Republican,62.4,True,True,False
-2008,house,North Carolina,NC,9,Harry Taylor,Democratic,35.9,False,False,False
-2008,house,North Carolina,NC,9,Andy Grum,Libertarian,1.7,False,False,False
-2008,house,North Carolina,NC,10,Patrick McHenry,Republican,57.6,True,True,False
-2008,house,North Carolina,NC,10,Daniel Johnson,Democratic,42.4,False,False,False
-2008,house,North Carolina,NC,11,Heath Shuler,Democratic,62.0,True,True,False
-2008,house,North Carolina,NC,11,Carl Mumpower,Republican,35.8,False,False,False
-2008,house,North Carolina,NC,11,Keith Smith,Libertarian,2.2,False,False,False
-2008,house,North Carolina,NC,12,Mel Watt,Democratic,71.6,True,True,False
-2008,house,North Carolina,NC,12,Ty Cobb,Republican,28.4,False,False,False
-2008,house,North Carolina,NC,13,Brad Miller,Democratic,65.9,True,False,False
-2008,house,North Carolina,NC,13,Hugh Webster,Republican,34.1,False,False,False
-2008,house,North Dakota,ND,AL,Earl Pomeroy,Democratic-NPL,62.0,True,True,False
-2008,house,North Dakota,ND,AL,Duane Sand,Republican,38.0,False,False,False
-2008,house,Ohio,OH,1,Steve Driehaus,Democratic,52.4,True,False,False
-2008,house,Ohio,OH,1,Steve Chabot,Republican,47.5,False,True,False
-2008,house,Ohio,OH,2,Jean Schmidt,Republican,44.8,True,True,False
-2008,house,Ohio,OH,2,Victoria Wulsin,Democratic,37.5,False,False,False
-2008,house,Ohio,OH,2,David Krikorian,Independent,17.7,False,False,False
-2008,house,Ohio,OH,3,Mike Turner,Republican,63.3,True,True,False
-2008,house,Ohio,OH,3,Jane Mitakides,Democratic,36.7,False,False,False
-2008,house,Ohio,OH,4,Jim Jordan,Republican,65.2,True,False,False
-2008,house,Ohio,OH,4,Mike Carroll,Democratic,34.8,False,False,False
-2008,house,Ohio,OH,5,Bob Latta,Republican,64.1,True,True,False
-2008,house,Ohio,OH,5,George Mays,Democratic,35.9,False,False,False
-2008,house,Ohio,OH,6,Charlie Wilson,Democratic,62.3,True,False,False
-2008,house,Ohio,OH,6,Dick Stobbs,Republican,32.8,False,False,False
-2008,house,Ohio,OH,6,Dennis Spisak,Green,4.9,False,False,False
-2008,house,Ohio,OH,7,Steve Austria,Republican,58.2,True,False,True
-2008,house,Ohio,OH,7,Sharen Neuhardt,Democratic,41.8,False,False,True
-2008,house,Ohio,OH,8,John Boehner,Republican,67.9,True,True,False
-2008,house,Ohio,OH,8,Nick von Stein,Democratic,32.1,False,False,False
-2008,house,Ohio,OH,9,Marcy Kaptur,Democratic,74.4,True,True,False
-2008,house,Ohio,OH,9,Bradley Leavitt,Republican,25.6,False,False,False
-2008,house,Ohio,OH,10,Dennis Kucinich,Democratic,57.0,True,True,False
-2008,house,Ohio,OH,10,Jim Trakas,Republican,39.1,False,False,False
-2008,house,Ohio,OH,10,Paul Conroy,Libertarian,3.9,False,False,False
-2008,house,Ohio,OH,11,Marcia Fudge,Democratic,85.2,True,False,True
-2008,house,Ohio,OH,11,Thomas Pekarek,Republican,14.7,False,False,True
-2008,house,Ohio,OH,12,Pat Tiberi,Republican,54.8,True,True,False
-2008,house,Ohio,OH,12,David Robinson,Democratic,42.2,False,False,False
-2008,house,Ohio,OH,12,Steven Linnabary,Libertarian,3.0,False,False,False
-2008,house,Ohio,OH,13,Betty Sutton,Democratic,64.5,True,True,False
-2008,house,Ohio,OH,13,David Potter,Republican,35.4,False,False,False
-2008,house,Ohio,OH,14,Steve LaTourette,Republican,58.3,True,True,False
-2008,house,Ohio,OH,14,William O'Neill,Democratic,38.7,False,False,False
-2008,house,Ohio,OH,14,David Macko,Libertarian,2.9,False,False,False
-2008,house,Ohio,OH,15,Mary Jo Kilroy,Democratic,45.9,True,False,True
-2008,house,Ohio,OH,15,Steve Stivers,Republican,45.2,False,False,True
-2008,house,Ohio,OH,15,Mark Michael Noble,Libertarian,4.6,False,False,True
-2008,house,Ohio,OH,15,Don Elijah Eckhart,Independent,4.3,False,False,True
-2008,house,Ohio,OH,16,John Boccieri,Democratic,55.4,True,False,True
-2008,house,Ohio,OH,16,Kirk Schuring,Republican,44.6,False,False,True
-2008,house,Ohio,OH,17,Tim Ryan,Democratic,78.2,True,False,False
-2008,house,Ohio,OH,17,Duane Grassell,Republican,21.8,False,False,False
-2008,house,Ohio,OH,18,Zack Space,Democratic,59.9,True,True,False
-2008,house,Ohio,OH,18,Fred Dailey,Republican,40.1,False,False,False
-2008,house,Oklahoma,OK,1,John Sullivan,Republican,66.2,True,False,False
-2008,house,Oklahoma,OK,1,Georgianna Oliver,Democratic,33.8,False,False,False
-2008,house,Oklahoma,OK,2,Dan Boren,Democratic,70.5,True,True,False
-2008,house,Oklahoma,OK,2,Raymond Wickson,Republican,29.5,False,False,False
-2008,house,Oklahoma,OK,3,Frank Lucas,Republican,69.7,True,True,False
-2008,house,Oklahoma,OK,3,Frankie Robbins,Democratic,23.6,False,False,False
-2008,house,Oklahoma,OK,3,Forrest Michael,Independent,6.7,False,False,False
-2008,house,Oklahoma,OK,4,Tom Cole,Republican,66.0,True,True,False
-2008,house,Oklahoma,OK,4,Blake Cummings,Democratic,29.2,False,False,False
-2008,house,Oklahoma,OK,4,David E. Joyce,Independent,4.8,False,False,False
-2008,house,Oklahoma,OK,5,Mary Fallin,Republican,65.9,True,True,False
-2008,house,Oklahoma,OK,5,Stephen L. Perry,Democratic,34.1,False,False,False
-2008,house,Oregon,OR,1,David Wu,Democratic,71.5,True,True,False
-2008,house,Oregon,OR,1,Joel Haugen,Independent,17.5,False,False,False
-2008,house,Oregon,OR,1,Scott Semrau,Constitution,4.3,False,False,False
-2008,house,Oregon,OR,1,H. Joe Tabor,Libertarian,3.3,False,False,False
-2008,house,Oregon,OR,1,Chris Henry,Pacific Green,2.1,False,False,False
-2008,house,Oregon,OR,2,Greg Walden,Republican,69.5,True,True,False
-2008,house,Oregon,OR,2,Noah Lemas,Democratic,25.8,False,False,False
-2008,house,Oregon,OR,2,Tristin Mock,Pacific Green,2.8,False,False,False
-2008,house,Oregon,OR,2,Richard Hake,Constitution,1.7,False,False,False
-2008,house,Oregon,OR,3,Earl Blumenauer,Democratic,74.5,True,True,False
-2008,house,Oregon,OR,3,Delia Lopez,Republican,20.8,False,False,False
-2008,house,Oregon,OR,3,Michael Meo,Pacific Green,4.4,False,False,False
-2008,house,Oregon,OR,4,Peter DeFazio,Democratic,82.3,True,True,False
-2008,house,Oregon,OR,4,Jaynee Germond,Constitution,12.9,False,False,False
-2008,house,Oregon,OR,4,Mike Beilstein,Pacific Green,3.9,False,False,False
-2008,house,Oregon,OR,5,Kurt Schrader,Democratic,54.3,True,False,True
-2008,house,Oregon,OR,5,Mike Erickson,Republican,38.3,False,False,True
-2008,house,Oregon,OR,5,Sean Bates,Independent,2.0,False,False,True
-2008,house,Oregon,OR,5,Douglas Patterson,Constitution,2.0,False,False,True
-2008,house,Oregon,OR,5,Alex Polikoff,Pacific Green,1.6,False,False,True
-2008,house,Oregon,OR,5,Steve Milligan,Libertarian,1.4,False,False,True
-2008,house,Pennsylvania,PA,1,Bob Brady,Democratic,90.8,True,True,False
-2008,house,Pennsylvania,PA,1,Mike Muhammad,Republican,9.2,False,False,False
-2008,house,Pennsylvania,PA,2,Chaka Fattah,Democratic,88.9,True,True,False
-2008,house,Pennsylvania,PA,2,Adam Lang,Republican,11.1,False,False,False
-2008,house,Pennsylvania,PA,3,Kathy Dahlkemper,Democratic,51.2,True,False,False
-2008,house,Pennsylvania,PA,3,Phil English,Republican,48.8,False,True,False
-2008,house,Pennsylvania,PA,4,Jason Altmire,Democratic,55.9,True,True,False
-2008,house,Pennsylvania,PA,4,Melissa Hart,Republican,44.1,False,False,False
-2008,house,Pennsylvania,PA,5,Glenn Thompson,Republican,56.7,True,False,True
-2008,house,Pennsylvania,PA,5,Mark McCracken,Democratic,41.0,False,False,True
-2008,house,Pennsylvania,PA,5,James Fryman,Libertarian,2.2,False,False,True
-2008,house,Pennsylvania,PA,6,Jim Gerlach,Republican,52.1,True,True,False
-2008,house,Pennsylvania,PA,6,Bob Roggio,Democratic,47.9,False,False,False
-2008,house,Pennsylvania,PA,7,Joe Sestak,Democratic,59.6,True,True,False
-2008,house,Pennsylvania,PA,7,Craig Williams,Republican,40.4,False,False,False
-2008,house,Pennsylvania,PA,8,Patrick Murphy,Democratic,56.8,True,False,False
-2008,house,Pennsylvania,PA,8,Tom Manion,Republican,41.6,False,False,False
-2008,house,Pennsylvania,PA,8,Tom Lingenfelter,Independent,1.6,False,False,False
-2008,house,Pennsylvania,PA,9,Bill Shuster,Republican,63.9,True,True,False
-2008,house,Pennsylvania,PA,9,Tony Barr,Democratic,36.1,False,False,False
-2008,house,Pennsylvania,PA,10,Chris Carney,Democratic,56.3,True,True,False
-2008,house,Pennsylvania,PA,10,Chris Hackett,Republican,43.7,False,False,False
-2008,house,Pennsylvania,PA,11,Paul Kanjorski,Democratic,51.6,True,True,False
-2008,house,Pennsylvania,PA,11,Lou Barletta,Republican,48.4,False,False,False
-2008,house,Pennsylvania,PA,12,John Murtha,Democratic,57.9,True,True,False
-2008,house,Pennsylvania,PA,12,William Russell,Republican,42.1,False,False,False
-2008,house,Pennsylvania,PA,13,Allyson Schwartz,Democratic,62.8,True,True,False
-2008,house,Pennsylvania,PA,13,John McDermott,Constitution,2.7,False,False,False
-2008,house,Pennsylvania,PA,14,Mike Doyle,Democratic,91.3,True,True,False
-2008,house,Pennsylvania,PA,14,Titus North,Green,8.7,False,False,False
-2008,house,Pennsylvania,PA,15,Charlie Dent,Republican,58.6,True,True,False
-2008,house,Pennsylvania,PA,15,Sam Bennett,Democratic,41.4,False,False,False
-2008,house,Pennsylvania,PA,16,Joe Pitts,Republican,55.8,True,True,False
-2008,house,Pennsylvania,PA,16,Bruce Slater,Democratic,39.4,False,False,False
-2008,house,Pennsylvania,PA,16,John Murphy,Independent,3.9,False,False,False
-2008,house,Pennsylvania,PA,16,Daniel Frank,Constitution,0.9,False,False,False
-2008,house,Pennsylvania,PA,17,Tim Holden,Democratic,63.7,True,True,False
-2008,house,Pennsylvania,PA,17,Toni Gilhooley,Republican,36.3,False,False,False
-2008,house,Pennsylvania,PA,18,Tim Murphy,Republican,64.1,True,False,False
-2008,house,Pennsylvania,PA,18,Steve O'Donnell,Democratic,35.9,False,False,False
-2008,house,Pennsylvania,PA,19,Todd Platts,Republican,66.6,True,True,False
-2008,house,Pennsylvania,PA,19,Phil Avillo,Democratic,33.4,False,False,False
-2008,house,Rhode Island,RI,1,Patrick J. Kennedy,Democratic,68.6,True,True,False
-2008,house,Rhode Island,RI,1,Jonathan Scott,Republican,24.3,False,False,False
-2008,house,Rhode Island,RI,1,Kenneth Capalbo,Independent,7.1,False,False,False
-2008,house,Rhode Island,RI,2,Jim Langevin,Democratic,70.1,True,True,False
-2008,house,Rhode Island,RI,2,Mark Zaccaria,Republican,29.9,False,False,False
-2008,house,South Carolina,SC,1,Henry Brown,Republican,51.9,True,True,False
-2008,house,South Carolina,SC,1,Linda Ketner,Democratic,47.9,False,False,False
-2008,house,South Carolina,SC,2,Joe Wilson,Republican,53.7,True,True,False
-2008,house,South Carolina,SC,2,Robert Miller,Democratic,46.2,False,False,False
-2008,house,South Carolina,SC,3,Gresham Barrett,Republican,64.7,True,True,False
-2008,house,South Carolina,SC,3,Jane Ballard Dyer,Democratic,35.2,False,False,False
-2008,house,South Carolina,SC,4,Bob Inglis,Republican,60.1,True,True,True
-2008,house,South Carolina,SC,4,Paul Corden,Democratic,36.9,False,False,True
-2008,house,South Carolina,SC,4,C. Faye Walters,Green,2.4,False,False,True
-2008,house,South Carolina,SC,5,John Spratt,Democratic,61.6,True,True,False
-2008,house,South Carolina,SC,5,Albert F. Spencer,Republican,37.0,False,False,False
-2008,house,South Carolina,SC,5,Frank Waggoner,Constitution,1.3,False,False,False
-2008,house,South Carolina,SC,6,Jim Clyburn,Democratic,67.5,True,True,False
-2008,house,South Carolina,SC,6,Nancy Harrelson,Republican,32.5,False,False,False
-2008,house,South Dakota,SD,AL,Stephanie Herseth Sandlin,Democratic,67.6,True,True,False
-2008,house,South Dakota,SD,AL,Chris Lien,Republican,32.4,False,False,False
-2008,house,Tennessee,TN,1,Phil Roe,Republican,71.8,True,False,False
-2008,house,Tennessee,TN,1,Rob Russell,Democratic,24.5,False,False,False
-2008,house,Tennessee,TN,1,Joel Goodman,Independent,1.7,False,False,False
-2008,house,Tennessee,TN,1,James Reeves,Independent,1.1,False,False,False
-2008,house,Tennessee,TN,1,Thomas Owens,Independent,0.8,False,False,False
-2008,house,Tennessee,TN,2,Jimmy Duncan,Republican,78.1,True,False,False
-2008,house,Tennessee,TN,2,Bob Scott,Democratic,21.9,False,False,False
-2008,house,Tennessee,TN,3,Zach Wamp,Republican,69.4,True,True,False
-2008,house,Tennessee,TN,3,Doug Vandagriff,Democratic,27.4,False,False,False
-2008,house,Tennessee,TN,3,Jean Howard-Hill,Independent,1.8,False,False,False
-2008,house,Tennessee,TN,3,Ed Choate,Independent,1.4,False,False,False
-2008,house,Tennessee,TN,4,Lincoln Davis,Democratic,58.8,True,True,False
-2008,house,Tennessee,TN,4,Monty Lankford,Republican,37.8,False,False,False
-2008,house,Tennessee,TN,4,James Anthony Gray,Independent,1.9,False,False,False
-2008,house,Tennessee,TN,4,Kevin Ragsdale,Independent,1.5,False,False,False
-2008,house,Tennessee,TN,5,Jim Cooper,Democratic,65.9,True,True,True
-2008,house,Tennessee,TN,5,Gerard Donovan,Republican,31.0,False,False,True
-2008,house,Tennessee,TN,5,Jon Jackson,Independent,2.0,False,False,True
-2008,house,Tennessee,TN,5,John Miglietta,Green,1.2,False,False,True
-2008,house,Tennessee,TN,6,Bart Gordon,Democratic,74.4,True,True,False
-2008,house,Tennessee,TN,6,Chris Baker,Independent,25.6,False,False,False
-2008,house,Tennessee,TN,7,Marsha Blackburn,Republican,68.6,True,True,False
-2008,house,Tennessee,TN,7,Randy Morris,Democratic,31.4,False,False,False
-2008,house,Tennessee,TN,8,John Tanner,Democratic,100.0,True,False,False
-2008,house,Tennessee,TN,9,Steve Cohen,Democratic,87.9,True,True,False
-2008,house,Tennessee,TN,9,Jake Ford,Independent,4.9,False,False,False
-2008,house,Tennessee,TN,9,Dewey Clark,Independent,4.4,False,False,False
-2008,house,Tennessee,TN,9,Mary Wright,Independent,2.8,False,False,False
-2008,house,Texas,TX,1,Louie Gohmert,Republican,87.6,True,True,False
-2008,house,Texas,TX,1,Roger Owen,Independent,12.4,False,False,False
-2008,house,Texas,TX,2,Ted Poe,Republican,88.9,True,True,False
-2008,house,Texas,TX,2,Craig Wolfe,Libertarian,11.1,False,False,False
-2008,house,Texas,TX,3,Sam Johnson,Republican,59.7,True,True,False
-2008,house,Texas,TX,3,Tom Daley,Democratic,38.0,False,False,False
-2008,house,Texas,TX,3,Christopher J. Claytor,Libertarian,2.2,False,False,False
-2008,house,Texas,TX,4,Ralph Hall,Republican,68.8,True,True,False
-2008,house,Texas,TX,4,Glenn Melancon,Democratic,29.3,False,False,False
-2008,house,Texas,TX,4,Fred Annett,Libertarian,1.9,False,False,False
-2008,house,Texas,TX,5,Jeb Hensarling,Republican,83.6,True,True,False
-2008,house,Texas,TX,5,Ken Ashby,Libertarian,16.4,False,False,False
-2008,house,Texas,TX,6,Joe Barton,Republican,62.0,True,True,False
-2008,house,Texas,TX,6,Ludwig Otto,Democratic,35.6,False,False,False
-2008,house,Texas,TX,6,Max Koch,Libertarian,2.4,False,False,False
-2008,house,Texas,TX,7,John Culberson,Republican,55.9,True,True,False
-2008,house,Texas,TX,7,Michael Skelly,Democratic,42.4,False,False,False
-2008,house,Texas,TX,7,Drew P. Parks,Libertarian,1.7,False,False,False
-2008,house,Texas,TX,8,Kevin Brady,Republican,72.6,True,True,False
-2008,house,Texas,TX,8,Kent Hargett,Democratic,24.8,False,False,False
-2008,house,Texas,TX,8,Brian Stevens,Libertarian,2.7,False,False,False
-2008,house,Texas,TX,9,Al Green,Democratic,93.6,True,False,False
-2008,house,Texas,TX,9,Brad Walters,Libertarian,6.4,False,False,False
-2008,house,Texas,TX,10,Michael McCaul,Republican,53.9,True,True,False
-2008,house,Texas,TX,10,Larry Joe Doherty,Democratic,43.1,False,False,False
-2008,house,Texas,TX,10,Matt Finkel,Libertarian,3.0,False,False,False
-2008,house,Texas,TX,11,Mike Conaway,Republican,88.3,True,True,False
-2008,house,Texas,TX,11,John Strohm,Libertarian,11.7,False,False,False
-2008,house,Texas,TX,12,Kay Granger,Republican,67.6,True,True,False
-2008,house,Texas,TX,12,Tracey Smith,Democratic,30.6,False,False,False
-2008,house,Texas,TX,12,Shiloh Sidney Shambaugh,Libertarian,1.8,False,False,False
-2008,house,Texas,TX,13,Mac Thornberry,Republican,77.6,True,True,False
-2008,house,Texas,TX,13,Roger Waun,Democratic,22.4,False,False,False
-2008,house,Texas,TX,14,Ron Paul,Republican,100.0,True,True,True
-2008,house,Texas,TX,15,Rubén Hinojosa,Democratic,65.7,True,True,False
-2008,house,Texas,TX,15,Eddie Zamora,Republican,31.9,False,False,False
-2008,house,Texas,TX,15,Gricha Raether,Libertarian,2.3,False,False,False
-2008,house,Texas,TX,16,Silvestre Reyes,Democratic,82.1,True,True,False
-2008,house,Texas,TX,16,Mette Baker,Libertarian,10.3,False,False,False
-2008,house,Texas,TX,16,Ben Mendoza,Independent,7.6,False,False,False
-2008,house,Texas,TX,17,Chet Edwards,Democratic,53.0,True,True,False
-2008,house,Texas,TX,17,Rob Curnock,Republican,45.5,False,False,False
-2008,house,Texas,TX,17,Gardner Osborne,Libertarian,1.5,False,False,False
-2008,house,Texas,TX,18,Sheila Jackson Lee,Democratic,77.3,True,True,False
-2008,house,Texas,TX,18,John Faulk,Republican,20.3,False,False,False
-2008,house,Texas,TX,18,Mike Taylor,Libertarian,2.3,False,False,False
-2008,house,Texas,TX,19,Randy Neugebauer,Republican,72.4,True,True,False
-2008,house,Texas,TX,19,Dwight Fullingim,Democratic,24.9,False,False,False
-2008,house,Texas,TX,19,Chip Peterson,Libertarian,2.6,False,False,False
-2008,house,Texas,TX,20,Charlie González,Democratic,71.9,True,True,False
-2008,house,Texas,TX,20,Robert Litoff,Republican,25.2,False,False,False
-2008,house,Texas,TX,20,Michael Idrogo,Libertarian,2.9,False,False,False
-2008,house,Texas,TX,21,Lamar Smith,Republican,80.0,True,True,False
-2008,house,Texas,TX,21,James Arthur Strohm,Libertarian,20.0,False,False,False
-2008,house,Texas,TX,22,Pete Olson,Republican,52.4,True,False,False
-2008,house,Texas,TX,22,Nick Lampson,Democratic,45.4,False,True,False
-2008,house,Texas,TX,22,John Wieder,Libertarian,2.2,False,False,False
-2008,house,Texas,TX,23,Ciro Rodriguez,Democratic,55.8,True,True,False
-2008,house,Texas,TX,23,Lyle Larson,Republican,41.9,False,False,False
-2008,house,Texas,TX,23,Lani Connolly,Libertarian,2.3,False,False,False
-2008,house,Texas,TX,24,Kenny Marchant,Republican,56.0,True,True,False
-2008,house,Texas,TX,24,Tom Love,Democratic,41.1,False,False,False
-2008,house,Texas,TX,24,David Casey,Libertarian,2.9,False,False,False
-2008,house,Texas,TX,25,Lloyd Doggett,Democratic,65.8,True,True,False
-2008,house,Texas,TX,25,George Morovich,Republican,30.4,False,False,False
-2008,house,Texas,TX,25,Jim Stutsman,Libertarian,3.7,False,False,False
-2008,house,Texas,TX,26,Michael C. Burgess,Republican,60.2,True,True,False
-2008,house,Texas,TX,26,Ken Leach,Democratic,36.4,False,False,False
-2008,house,Texas,TX,26,Stephanie Weiss,Libertarian,3.4,False,False,False
-2008,house,Texas,TX,27,Solomon Ortiz,Democratic,57.9,True,True,False
-2008,house,Texas,TX,27,Willie Vaden,Republican,38.4,False,False,False
-2008,house,Texas,TX,27,Robert Powell,Libertarian,3.7,False,False,False
-2008,house,Texas,TX,28,Henry Cuellar,Democratic,68.7,True,True,False
-2008,house,Texas,TX,28,Jim Fish,Republican,29.2,False,False,False
-2008,house,Texas,TX,28,Ross Lynn Leone,Libertarian,2.1,False,False,False
-2008,house,Texas,TX,29,Gene Green,Democratic,74.6,True,True,False
-2008,house,Texas,TX,29,Eric Story,Republican,23.9,False,False,False
-2008,house,Texas,TX,29,Joel Grace,Libertarian,1.5,False,False,False
-2008,house,Texas,TX,30,Eddie Bernice Johnson,Democratic,82.5,True,True,False
-2008,house,Texas,TX,30,Fred Wood,Republican,15.9,False,False,False
-2008,house,Texas,TX,30,Jarrett R. Woods,Libertarian,1.6,False,False,False
-2008,house,Texas,TX,31,John Carter,Republican,60.3,True,False,False
-2008,house,Texas,TX,31,Brian Ruiz,Democratic,36.6,False,False,False
-2008,house,Texas,TX,31,Barry Cooper,Libertarian,3.1,False,False,False
-2008,house,Texas,TX,32,Pete Sessions,Republican,57.2,True,True,False
-2008,house,Texas,TX,32,Eric Roberson,Democratic,40.6,False,False,False
-2008,house,Texas,TX,32,Alex Bischoff,Libertarian,2.2,False,False,False
-2008,house,Utah,UT,1,Rob Bishop,Republican,64.9,True,True,False
-2008,house,Utah,UT,1,Morgan Bowen,Democratic,30.5,False,False,False
-2008,house,Utah,UT,1,Kirk Pearson,Constitution,2.4,False,False,False
-2008,house,Utah,UT,1,Joseph Geddes Buchman,Libertarian,2.2,False,False,False
-2008,house,Utah,UT,2,Jim Matheson,Democratic,63.4,True,True,False
-2008,house,Utah,UT,2,Bill Dew,Republican,34.5,False,False,False
-2008,house,Utah,UT,2,Matthew Arndt,Libertarian,1.3,False,False,False
-2008,house,Utah,UT,2,Dennis Ray Emery,Constitution,0.8,False,False,False
-2008,house,Utah,UT,3,Jason Chaffetz,Republican,65.6,True,False,False
-2008,house,Utah,UT,3,Bennion L. Spencer,Democratic,28.3,False,False,False
-2008,house,Utah,UT,3,Jim Noorlander,Constitution,6.1,False,False,False
-2008,house,Vermont,VT,AL,Peter Welch,Democratic,83.2,True,True,False
-2008,house,Vermont,VT,AL,Mike Bethel,Independent,4.8,False,False,False
-2008,house,Vermont,VT,AL,Jerry Trudell,Independent,3.6,False,False,False
-2008,house,Vermont,VT,AL,Thomas James Herman,Vermont Progressive,3.0,False,False,False
-2008,house,Vermont,VT,AL,Cris Ericson,Marijuana,2.6,False,False,False
-2008,house,Vermont,VT,AL,Jane Newton,Liberty Union,1.7,False,False,False
-2008,house,Virginia,VA,1,Rob Wittman,Republican,56.6,True,True,False
-2008,house,Virginia,VA,1,Bill Day,Democratic,41.8,False,False,False
-2008,house,Virginia,VA,1,Nathan Larson,Libertarian,1.5,False,False,False
-2008,house,Virginia,VA,2,Glenn Nye,Democratic,52.4,True,False,False
-2008,house,Virginia,VA,2,Thelma Drake,Republican,47.5,False,True,False
-2008,house,Virginia,VA,3,Bobby Scott,Democratic,97.0,True,True,False
-2008,house,Virginia,VA,4,Randy Forbes,Republican,59.6,True,True,False
-2008,house,Virginia,VA,4,Andrea Miller,Democratic,40.2,False,False,False
-2008,house,Virginia,VA,5,Tom Perriello,Democratic,50.1,True,False,False
-2008,house,Virginia,VA,5,Virgil Goode,Republican,49.9,False,True,False
-2008,house,Virginia,VA,6,Bob Goodlatte,Republican,61.6,True,True,False
-2008,house,Virginia,VA,6,Sam Rasoul,Democratic,36.6,False,False,False
-2008,house,Virginia,VA,6,Janice Lee Allen,Independent,1.7,False,False,False
-2008,house,Virginia,VA,7,Eric Cantor,Republican,62.7,True,True,False
-2008,house,Virginia,VA,7,Anita Hartke,Democratic,37.1,False,False,False
-2008,house,Virginia,VA,8,Jim Moran,Democratic,67.9,True,True,False
-2008,house,Virginia,VA,8,Mark Ellmore,Republican,29.7,False,False,False
-2008,house,Virginia,VA,8,J. Ron Fisher,Independent Greens of Virginia,2.1,False,False,False
-2008,house,Virginia,VA,9,Rick Boucher,Democratic,97.1,True,True,False
-2008,house,Virginia,VA,10,Frank Wolf,Republican,58.8,True,False,False
-2008,house,Virginia,VA,10,Judy Feder,Democratic,38.8,False,False,False
-2008,house,Virginia,VA,10,Neeraj Nigam,Independent,2.2,False,False,False
-2008,house,Virginia,VA,11,Gerry Connolly,Democratic,54.7,True,False,True
-2008,house,Virginia,VA,11,Keith Fimian,Republican,43.0,False,False,True
-2008,house,Virginia,VA,11,Joseph Oddo,Independent Greens of Virginia,2.0,False,False,True
-2008,house,Washington,WA,1,Jay Inslee,Democratic,67.8,True,True,False
-2008,house,Washington,WA,1,Larry Ishmael,Republican,32.2,False,False,False
-2008,house,Washington,WA,2,Rick Larsen,Democratic,62.4,True,True,False
-2008,house,Washington,WA,2,Rick Bart,Republican,37.6,False,False,False
-2008,house,Washington,WA,3,Brian Baird,Democratic,64.0,True,True,False
-2008,house,Washington,WA,3,Michael Delavar,Republican,36.0,False,False,False
-2008,house,Washington,WA,4,Doc Hastings,Republican,63.1,True,True,False
-2008,house,Washington,WA,4,George Fearing,Democratic,36.9,False,False,False
-2008,house,Washington,WA,5,Cathy McMorris Rodgers,Republican,65.3,True,True,False
-2008,house,Washington,WA,5,Mark Mays,Democratic,34.7,False,False,False
-2008,house,Washington,WA,6,Norm Dicks,Democratic,66.9,True,True,False
-2008,house,Washington,WA,6,Doug Cloud,Republican,33.1,False,False,False
-2008,house,Washington,WA,7,Jim McDermott,Democratic,83.6,True,True,False
-2008,house,Washington,WA,7,Steve Beren,Republican,16.4,False,False,False
-2008,house,Washington,WA,8,Dave Reichert,Republican,52.8,True,True,False
-2008,house,Washington,WA,8,Darcy Burner,Democratic,47.2,False,False,False
-2008,house,Washington,WA,9,Adam Smith,Democratic,65.5,True,True,False
-2008,house,Washington,WA,9,James Postma,Republican,34.5,False,False,False
-2008,house,West Virginia,WV,1,Alan Mollohan,Democratic,99.9,True,True,False
-2008,house,West Virginia,WV,2,Shelley Moore Capito,Republican,57.1,True,True,False
-2008,house,West Virginia,WV,2,Anne Barth,Democratic,42.9,False,False,False
-2008,house,West Virginia,WV,3,Nick Rahall,Democratic,66.9,True,True,False
-2008,house,West Virginia,WV,3,Marty Gearheart,Republican,33.1,False,False,False
-2008,house,Wisconsin,WI,1,Paul Ryan,Republican,64.0,True,True,False
-2008,house,Wisconsin,WI,1,Marge Krupp,Democratic,34.7,False,False,False
-2008,house,Wisconsin,WI,1,Joseph Kexel,Libertarian,1.3,False,False,False
-2008,house,Wisconsin,WI,2,Tammy Baldwin,Democratic,69.3,True,True,False
-2008,house,Wisconsin,WI,2,Peter Theron,Republican,30.6,False,False,False
-2008,house,Wisconsin,WI,3,Ron Kind,Democratic,63.2,True,True,False
-2008,house,Wisconsin,WI,3,Paul Stark,Republican,34.4,False,False,False
-2008,house,Wisconsin,WI,3,Kevin Barrett,Libertarian,2.3,False,False,False
-2008,house,Wisconsin,WI,4,Gwen Moore,Democratic,87.6,True,True,False
-2008,house,Wisconsin,WI,4,Michael LaForest,Independent,11.5,False,False,False
-2008,house,Wisconsin,WI,5,Jim Sensenbrenner,Republican,79.6,True,True,False
-2008,house,Wisconsin,WI,5,Robert R. Raymond,Independent,20.2,False,False,False
-2008,house,Wisconsin,WI,6,Tom Petri,Republican,63.7,True,True,False
-2008,house,Wisconsin,WI,6,Roger Kittelson,Democratic,36.2,False,False,False
-2008,house,Wisconsin,WI,7,Dave Obey,Democratic,60.8,True,True,False
-2008,house,Wisconsin,WI,7,Dan Mielke,Republican,39.1,False,False,False
-2008,house,Wisconsin,WI,8,Steve Kagen,Democratic,54.0,True,True,False
-2008,house,Wisconsin,WI,8,John Gard,Republican,45.9,False,False,False
-2008,house,Wyoming,WY,AL,Cynthia Lummis,Republican,52.6,True,False,True
-2008,house,Wyoming,WY,AL,Gary Trauner,Democratic,42.8,False,False,True
-2008,house,Wyoming,WY,AL,W. David Herbert,Libertarian,4.4,False,False,True
-2008,house,American Samoa,AM,AL,Eni Faleomavaega,Democratic,60.4,True,True,False
-2008,house,American Samoa,AM,AL,Amata Coleman Radewagen,Republican,35.0,False,False,False
-2008,house,American Samoa,AM,AL,Rosie F. Tago Lancaster,Independent,4.6,False,False,False
-2008,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,92.3,True,True,False
-2008,house,District of Columbia,DC,AL,Maude Hills,Green,6.8,False,False,False
-2008,house,Guam,GU,AL,Madeleine Bordallo,Democratic,100.0,True,True,False
-2008,house,Northern Mariana Islands,NO,AL,Gregorio Sablan,Independent,24.5,True,False,True
-2008,house,Northern Mariana Islands,NO,AL,Pedro Tenorio,Republican,20.7,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,John Gonzales,Independent,18.7,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,Juan Lizama,Independent,17.3,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,Luis Cristostimo,Independent,9.5,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,David Cing,Democratic,2.9,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,Felipe Atalig,Independent,2.5,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,Chong Won,Independent,2.4,False,False,True
-2008,house,Northern Mariana Islands,NO,AL,John Davis,Independent,1.5,False,False,True
-2008,house,Puerto Rico,PU,AL,Pedro Pierluisi,New Progressive Party (Puerto Rico),53.1,True,False,True
-2008,house,Puerto Rico,PU,AL,Alfredo Salazar,Popular Democratic Party (Puerto Rico),42.5,False,False,True
-2008,house,Puerto Rico,PU,AL,Carlos Alberto Velazquez Lopez,Puerto Ricans for Puerto Rico,2.4,False,False,True
-2008,house,Puerto Rico,PU,AL,Jessica Martinez,Puerto Rican Independence,2.0,False,False,True
-2008,house,U.S. Virgin Islands,U.,AL,Donna Christensen,Democratic,99.6,True,True,False
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2008,house,Alabama,AL,1,214367,Jo Bonner,Republican,,98.3,True,True,False
+2008,house,Alabama,AL,2,287394,Bobby Bright,Democratic,144368,50.2,True,False,True
+2008,house,Alabama,AL,2,287394,Jay Love,Republican,142578,49.6,False,False,True
+2008,house,Alabama,AL,3,264120,Mike Rogers,Republican,142708,54.0,True,True,False
+2008,house,Alabama,AL,3,264120,Josh Segall,Democratic,,45.8,False,False,False
+2008,house,Alabama,AL,4,263167,Robert Aderholt,Republican,196741,74.8,True,True,False
+2008,house,Alabama,AL,4,263167,Nicholas Sparks,Democratic,,25.1,False,False,False
+2008,house,Alabama,AL,5,307282,Parker Griffith,Democratic,158324,51.5,True,False,True
+2008,house,Alabama,AL,5,307282,Wayne Parker,Republican,147314,47.9,False,False,True
+2008,house,Alabama,AL,6,287237,Spencer Bachus,Republican,,97.8,True,True,False
+2008,house,Alabama,AL,7,231701,Artur Davis,Democratic,,98.6,True,True,False
+2008,house,Alaska,AK,AL,327341,Don Young,Republican,158939,50.2,True,True,False
+2008,house,Alaska,AK,AL,327341,Ethan Berkowitz,Democratic,142560,45.0,False,False,False
+2008,house,Alaska,AK,AL,327341,Don Wright,Alaskan Independence,14274,4.5,False,False,False
+2008,house,Arizona,AZ,1,278787,Ann Kirkpatrick,Democratic,155791,55.9,True,False,True
+2008,house,Arizona,AZ,1,278787,Sydney Hay,Republican,109924,39.4,False,False,True
+2008,house,Arizona,AZ,1,278787,Brent Maupin,Independent,9394,3.4,False,False,True
+2008,house,Arizona,AZ,1,278787,Thane Eichenauer,Libertarian,3678,1.3,False,False,True
+2008,house,Arizona,AZ,2,338023,Trent Franks,Republican,200914,59.4,True,True,False
+2008,house,Arizona,AZ,2,338023,John Thrasher,Democratic,125611,37.2,False,False,False
+2008,house,Arizona,AZ,2,338023,Powell Gammill,Libertarian,7882,2.3,False,False,False
+2008,house,Arizona,AZ,2,338023,William Crum,Green,3616,1.1,False,False,False
+2008,house,Arizona,AZ,3,275161,John Shadegg,Republican,148800,54.1,True,True,False
+2008,house,Arizona,AZ,3,275161,Bob Lord,Democratic,115759,42.1,False,False,False
+2008,house,Arizona,AZ,3,275161,Michael Shoen,Libertarian,10602,3.8,False,False,False
+2008,house,Arizona,AZ,4,124427,Ed Pastor,Democratic,89721,72.1,True,True,False
+2008,house,Arizona,AZ,4,124427,Don Karg,Republican,26435,21.2,False,False,False
+2008,house,Arizona,AZ,4,124427,Rebecca DeWitt,Green,4464,3.6,False,False,False
+2008,house,Arizona,AZ,4,124427,Joe Cobb,Libertarian,3807,3.1,False,False,False
+2008,house,Arizona,AZ,5,280365,Harry Mitchell,Democratic,149033,53.2,True,True,False
+2008,house,Arizona,AZ,5,280365,David Schweikert,Republican,122165,43.6,False,False,False
+2008,house,Arizona,AZ,5,280365,Warren Severin,Libertarian,9158,3.2,False,False,False
+2008,house,Arizona,AZ,6,334176,Jeff Flake,Republican,208582,62.5,True,True,False
+2008,house,Arizona,AZ,6,334176,Rebecca Schneider,Democratic,115457,34.5,False,False,False
+2008,house,Arizona,AZ,6,334176,Rick Biondi,Libertarian,10137,3.0,False,False,False
+2008,house,Arizona,AZ,7,196489,Raúl Grijalva,Democratic,124304,63.3,True,True,False
+2008,house,Arizona,AZ,7,196489,Joseph D. Sweeney,Republican,,32.8,False,False,False
+2008,house,Arizona,AZ,7,196489,Raymond Patrick Petrulsky,Libertarian,,3.9,False,False,False
+2008,house,Arizona,AZ,8,328266,Gabby Giffords,Democratic,179629,54.7,True,True,False
+2008,house,Arizona,AZ,8,328266,Tim Bee,Republican,140553,42.8,False,False,False
+2008,house,Arizona,AZ,8,328266,Paul Davis,Libertarian,8081,2.5,False,False,False
+2008,house,Arkansas,AR,1,,Marion Berry,Democratic,,100.0,True,True,False
+2008,house,Arkansas,AR,2,277366,Vic Snyder,Democratic,212303,76.5,True,True,False
+2008,house,Arkansas,AR,2,277366,Deb McFarland,Green,64398,23.2,False,False,False
+2008,house,Arkansas,AR,3,274046,John Boozman,Republican,215196,78.5,True,True,False
+2008,house,Arkansas,AR,3,274046,Abel Tomlinson,Green,58850,21.5,False,False,False
+2008,house,Arkansas,AR,4,235781,Mike Ross,Democratic,203178,86.2,True,False,False
+2008,house,Arkansas,AR,4,235781,Joshua Drake,Green,32603,13.8,False,False,False
+2008,house,California,CA,1,290472,Mike Thompson,Democratic,197812,68.2,True,False,False
+2008,house,California,CA,1,290472,Zane Starkewolf,Republican,67853,23.3,False,False,False
+2008,house,California,CA,1,290472,Carol Wolman,Green,24793,8.5,False,False,False
+2008,house,California,CA,2,282337,Wally Herger,Republican,163459,57.9,True,True,False
+2008,house,California,CA,2,282337,Jeff Morris,Democratic,,42.1,False,False,False
+2008,house,California,CA,3,314046,Dan Lungren,Republican,155424,49.5,True,True,True
+2008,house,California,CA,3,314046,Bill Durston,Democratic,137971,44.0,False,False,True
+2008,house,California,CA,3,314046,Dina Padilla,Peace and Freedom,13378,4.2,False,False,True
+2008,house,California,CA,3,314046,Art Tuma,Libertarian,,2.3,False,False,True
+2008,house,California,CA,4,369780,Tom McClintock,Republican,185790,50.3,True,False,True
+2008,house,California,CA,4,369780,Charles Brown,Democratic,183990,49.7,False,False,True
+2008,house,California,CA,5,221155,Doris Matsui,Democratic,164242,74.3,True,True,False
+2008,house,California,CA,5,221155,Paul Smith,Republican,46002,20.9,False,False,False
+2008,house,California,CA,5,221155,L. R. Roberts,Peace and Freedom,,4.8,False,False,False
+2008,house,California,CA,6,320362,Lynn Woolsey,Democratic,229672,71.7,True,True,False
+2008,house,California,CA,6,320362,Mike Halliwell,Republican,77073,24.1,False,False,False
+2008,house,California,CA,6,320362,Joel Smolen,Libertarian,13617,4.2,False,False,False
+2008,house,California,CA,7,234773,George Miller,Democratic,170962,72.9,True,False,False
+2008,house,California,CA,7,234773,Roger Petersen,Republican,51166,21.8,False,False,False
+2008,house,California,CA,7,234773,Bill Callison,Peace and Freedom,,2.8,False,False,False
+2008,house,California,CA,7,234773,Camden McConnell,Libertarian,5950,2.5,False,False,False
+2008,house,California,CA,8,285247,Nancy Pelosi,Democratic,204996,71.9,True,True,False
+2008,house,California,CA,8,285247,Cindy Sheehan,Independent,46118,16.2,False,False,False
+2008,house,California,CA,8,285247,Dana Walsh,Republican,27614,9.7,False,False,False
+2008,house,California,CA,8,285247,Philip Berg,Libertarian,6504,2.2,False,False,False
+2008,house,California,CA,9,277600,Barbara Lee,Democratic,238915,86.1,True,True,False
+2008,house,California,CA,9,277600,Charles Hargrave,Republican,26917,9.7,False,False,False
+2008,house,California,CA,9,277600,Jim Eyer,Libertarian,,4.2,False,False,False
+2008,house,California,CA,10,295165,Ellen Tauscher,Democratic,192226,65.2,True,True,False
+2008,house,California,CA,10,295165,Nicholas Gerber,Republican,91877,31.1,False,False,False
+2008,house,California,CA,10,295165,Eugene Ruyle,Peace and Freedom,11062,3.7,False,False,False
+2008,house,California,CA,11,297616,Jerry McNerney,Democratic,164500,55.3,True,True,False
+2008,house,California,CA,11,297616,Dean Andal,Republican,133104,44.7,False,False,False
+2008,house,California,CA,12,266853,Jackie Speier,Democratic,200442,75.2,True,True,False
+2008,house,California,CA,12,266853,Greg Conlon,Republican,49258,18.5,False,False,False
+2008,house,California,CA,12,266853,Nathalie Hrizi,Peace and Freedom,5793,2.2,False,False,False
+2008,house,California,CA,12,266853,Barry Hermanson,Green,5776,2.1,False,False,False
+2008,house,California,CA,12,266853,Kevin Peterson,Libertarian,5584,2.0,False,False,False
+2008,house,California,CA,13,218276,Pete Stark,Democratic,166829,76.5,True,True,False
+2008,house,California,CA,13,218276,Raymond Chui,Republican,51447,23.5,False,False,False
+2008,house,California,CA,14,272766,Anna Eshoo,Democratic,190301,69.8,True,True,False
+2008,house,California,CA,14,272766,Ronny Santana,Republican,60610,22.3,False,False,False
+2008,house,California,CA,14,272766,Brian Holtz,Libertarian,11929,4.3,False,False,False
+2008,house,California,CA,14,272766,Carol Brouillet,Green,9926,3.6,False,False,False
+2008,house,California,CA,15,238589,Mike Honda,Democratic,170977,71.7,True,True,False
+2008,house,California,CA,15,238589,Joyce Cordi,Republican,55489,23.3,False,False,False
+2008,house,California,CA,15,238589,Peter Myers,Green,12123,5.0,False,False,False
+2008,house,California,CA,16,205327,Zoe Lofgren,Democratic,146481,71.4,True,True,False
+2008,house,California,CA,16,205327,Charel Winston,Republican,49399,24.0,False,False,False
+2008,house,California,CA,16,205327,Steven Wells,Libertarian,9447,4.6,False,False,False
+2008,house,California,CA,17,228626,Sam Farr,Democratic,168907,73.9,True,True,False
+2008,house,California,CA,17,228626,Jeff Taylor,Republican,59037,25.9,False,False,False
+2008,house,California,CA,18,130192,Dennis Cardoza,Democratic,130192,100.0,True,True,False
+2008,house,California,CA,19,182101,George Radanovich,Republican,179245,98.5,True,True,False
+2008,house,California,CA,20,125141,Jim Costa,Democratic,93023,74.4,True,True,False
+2008,house,California,CA,20,125141,Jim Lopez,Republican,32118,25.6,False,False,False
+2008,house,California,CA,21,209815,Devin Nunes,Republican,143498,68.4,True,True,False
+2008,house,California,CA,21,209815,Larry Johnson,Democratic,66317,31.6,False,False,False
+2008,house,California,CA,22,224549,Kevin McCarthy,Republican,224549,100.0,True,False,False
+2008,house,California,CA,23,251788,Lois Capps,Democratic,171403,68.1,True,True,False
+2008,house,California,CA,23,251788,Matt Kokkonen,Republican,80385,31.9,False,False,False
+2008,house,California,CA,24,300052,Elton Gallegly,Republican,174492,58.2,True,True,False
+2008,house,California,CA,24,300052,Marta Jorgensen,Democratic,125560,41.8,False,False,False
+2008,house,California,CA,25,250589,Howard McKeon,Republican,144660,57.8,True,True,False
+2008,house,California,CA,25,250589,Jackie Conaway,Democratic,105929,42.2,False,False,False
+2008,house,California,CA,26,267130,David Dreier,Republican,140615,52.7,True,True,False
+2008,house,California,CA,26,267130,Russ Warner,Democratic,108039,40.4,False,False,False
+2008,house,California,CA,26,267130,Ted Brown,Libertarian,18476,6.9,False,False,False
+2008,house,California,CA,27,212835,Brad Sherman,Democratic,145812,68.6,True,True,False
+2008,house,California,CA,27,212835,Navraj Singh,Republican,52852,24.8,False,False,False
+2008,house,California,CA,27,212835,Tim Denton,Libertarian,14171,6.6,False,False,False
+2008,house,California,CA,28,137621,Howard Berman,Democratic,137471,99.9,True,True,False
+2008,house,California,CA,29,212144,Adam Schiff,Democratic,146198,69.0,True,True,False
+2008,house,California,CA,29,212144,Charles Hahn,Republican,56727,26.7,False,False,False
+2008,house,California,CA,29,212144,Alan Pyeatt,Libertarian,9219,4.3,False,False,False
+2008,house,California,CA,30,242792,Henry Waxman,Democratic,242792,100.0,True,True,False
+2008,house,California,CA,31,110955,Xavier Becerra,Democratic,110955,100.0,True,True,False
+2008,house,California,CA,32,130150,Hilda Solis,Democratic,130142,100.0,True,True,False
+2008,house,California,CA,33,213460,Diane Watson,Democratic,186924,87.6,True,True,False
+2008,house,California,CA,33,213460,David Crowley,Republican,26536,12.4,False,False,False
+2008,house,California,CA,34,127769,Lucille Roybal-Allard,Democratic,98503,77.1,True,True,False
+2008,house,California,CA,34,127769,Christopher Balding,Republican,29266,22.9,False,False,False
+2008,house,California,CA,35,182579,Maxine Waters,Democratic,150778,82.6,True,True,False
+2008,house,California,CA,35,182579,Ted Hayes,Republican,24169,13.3,False,False,False
+2008,house,California,CA,35,182579,Herb Peters,Libertarian,7632,4.1,False,False,False
+2008,house,California,CA,36,250491,Jane Harman,Democratic,171948,68.7,True,True,True
+2008,house,California,CA,36,250491,Brian Gibson,Republican,78543,31.3,False,False,True
+2008,house,California,CA,37,175252,Laura Richardson,Democratic,131342,75.0,True,True,False
+2008,house,California,CA,37,175252,Nick Dibs,Independent,,24.4,False,False,False
+2008,house,California,CA,38,159324,Grace Napolitano,Democratic,130211,81.8,True,True,False
+2008,house,California,CA,38,159324,Christopher Agrella,Libertarian,29113,18.2,False,False,False
+2008,house,California,CA,39,179822,Linda Sánchez,Democratic,125289,69.7,True,True,False
+2008,house,California,CA,39,179822,Diane Lenning,Republican,54533,30.3,False,False,False
+2008,house,California,CA,40,231695,Ed Royce,Republican,144923,62.6,True,True,False
+2008,house,California,CA,40,231695,Christina Avalos,Democratic,86772,37.4,False,False,False
+2008,house,California,CA,41,258700,Jerry Lewis,Republican,159486,61.7,True,True,False
+2008,house,California,CA,41,258700,Tim Prince,Democratic,99214,38.3,False,False,False
+2008,house,California,CA,42,263313,Gary Miller,Republican,158404,60.2,True,True,False
+2008,house,California,CA,42,263313,Ed Chau,Democratic,104909,39.8,False,False,False
+2008,house,California,CA,43,156571,Joe Baca,Democratic,108259,69.2,True,True,False
+2008,house,California,CA,43,156571,John Roberts,Republican,48312,30.8,False,False,False
+2008,house,California,CA,44,253827,Ken Calvert,Republican,129937,51.2,True,True,False
+2008,house,California,CA,44,253827,Bill Hedrick,Democratic,123890,48.8,False,False,False
+2008,house,California,CA,45,266192,Mary Bono,Republican,,58.3,True,True,False
+2008,house,California,CA,45,266192,Julie Bornstein,Democratic,111026,41.7,False,False,False
+2008,house,California,CA,46,285277,Dana Rohrabacher,Republican,149818,52.6,True,True,False
+2008,house,California,CA,46,285277,Debbie Cook,Democratic,122891,43.1,False,False,False
+2008,house,California,CA,46,285277,Tom Lash,Green,,2.8,False,False,False
+2008,house,California,CA,46,285277,Ernst Gasteiger,Libertarian,4311,1.5,False,False,False
+2008,house,California,CA,47,123584,Loretta Sanchez,Democratic,85878,69.5,True,True,False
+2008,house,California,CA,47,123584,Rosie Avila,Republican,,25.5,False,False,False
+2008,house,California,CA,47,123584,Robert Lauten,American Independent,6274,5.0,False,False,False
+2008,house,California,CA,48,308702,John Campbell,Republican,171658,55.7,True,True,False
+2008,house,California,CA,48,308702,Steve Young,Democratic,125537,40.6,False,False,False
+2008,house,California,CA,48,308702,Don Patterson,Libertarian,11507,3.7,False,False,False
+2008,house,California,CA,49,240670,Darrell Issa,Republican,140300,58.3,True,True,False
+2008,house,California,CA,49,240670,Robert Hamilton,Democratic,90138,37.5,False,False,False
+2008,house,California,CA,49,240670,Lars Grossmith,Libertarian,10232,4.2,False,False,False
+2008,house,California,CA,50,313502,Brian Bilbray,Republican,157502,50.3,True,True,False
+2008,house,California,CA,50,313502,Nick Leibham,Democratic,141635,45.2,False,False,False
+2008,house,California,CA,50,313502,Wayne Dunlap,Libertarian,14365,4.5,False,False,False
+2008,house,California,CA,51,203825,Bob Filner,Democratic,148281,72.8,True,True,False
+2008,house,California,CA,51,203825,David Lee Joy,Republican,,24.2,False,False,False
+2008,house,California,CA,51,203825,Frodo Litwin,Libertarian,,3.0,False,False,False
+2008,house,California,CA,52,285138,Duncan D. Hunter,Republican,160724,56.4,True,False,True
+2008,house,California,CA,52,285138,Mike Lumpkin,Democratic,111051,39.0,False,False,True
+2008,house,California,CA,52,285138,Michael Benoit,Libertarian,13316,4.6,False,False,True
+2008,house,California,CA,53,235542,Susan Davis,Democratic,161315,68.5,True,False,False
+2008,house,California,CA,53,235542,Michael Crimmins,Republican,64658,27.5,False,False,False
+2008,house,California,CA,53,235542,Edward Teyssier,Libertarian,9569,4.0,False,False,False
+2008,house,Colorado,CO,1,283249,Diana DeGette,Democratic,203756,71.9,True,True,False
+2008,house,Colorado,CO,1,283249,George Lilly,Republican,67346,23.8,False,False,False
+2008,house,Colorado,CO,1,283249,Martin Buchanan,Libertarian,12136,4.3,False,False,False
+2008,house,Colorado,CO,2,344428,Jared Polis,Democratic,215602,62.6,True,False,True
+2008,house,Colorado,CO,2,344428,Scott Starin,Republican,116619,33.9,False,False,True
+2008,house,Colorado,CO,2,344428,J. A. Calhoun,Green,10031,2.9,False,False,True
+2008,house,Colorado,CO,2,344428,Bill Hammons,Unity Party of America,2176,0.6,False,False,True
+2008,house,Colorado,CO,3,330219,John Salazar,Democratic,203457,61.6,True,True,False
+2008,house,Colorado,CO,3,330219,Wayne Wolf,Republican,126762,38.4,False,False,False
+2008,house,Colorado,CO,4,333378,Betsy Markey,Democratic,187348,56.2,True,False,False
+2008,house,Colorado,CO,4,333378,Marilyn Musgrave,Republican,146030,43.8,False,True,False
+2008,house,Colorado,CO,5,305145,Doug Lamborn,Republican,183179,60.0,True,True,False
+2008,house,Colorado,CO,5,305145,Hal Bidlack,Democratic,113027,37.0,False,False,False
+2008,house,Colorado,CO,5,305145,Brian Scott,Constitution,8894,2.9,False,False,False
+2008,house,Colorado,CO,6,413518,Mike Coffman,Republican,250877,60.7,True,False,True
+2008,house,Colorado,CO,6,413518,Hank Eng,Democratic,162641,39.3,False,False,True
+2008,house,Colorado,CO,7,273994,Ed Perlmutter,Democratic,173937,63.5,True,True,False
+2008,house,Colorado,CO,7,273994,John Lerew,Republican,100057,36.5,False,False,False
+2008,house,Connecticut,CT,1,295557,John Larson,Democratic,,71.6,True,True,False
+2008,house,Connecticut,CT,1,295557,Joe Visconti,Republican,76860,26.0,False,False,False
+2008,house,Connecticut,CT,1,295557,Steve Fournier,Green,,2.4,False,False,False
+2008,house,Connecticut,CT,2,323041,Joe Courtney,Democratic,212148,65.7,True,False,False
+2008,house,Connecticut,CT,2,323041,Sean Sullivan,Republican,104574,32.4,False,False,False
+2008,house,Connecticut,CT,2,323041,Scott Deshefy,Green,,1.9,False,False,False
+2008,house,Connecticut,CT,3,296918,Rosa DeLauro,Democratic,230172,77.4,True,True,False
+2008,house,Connecticut,CT,3,296918,Bo ItsHaky,Republican,58583,19.7,False,False,False
+2008,house,Connecticut,CT,3,296918,Ralph Ferrucci,Green,8163,2.9,False,False,False
+2008,house,Connecticut,CT,4,308776,Jim Himes,Democratic,158475,51.3,True,False,False
+2008,house,Connecticut,CT,4,308776,Chris Shays,Republican,146854,47.6,False,True,False
+2008,house,Connecticut,CT,4,308776,Michael Carrano,Libertarian,,0.7,False,False,False
+2008,house,Connecticut,CT,4,308776,Richard Duffee,Green,1388,0.4,False,False,False
+2008,house,Connecticut,CT,5,299575,Chris Murphy,Democratic,179327,59.2,True,True,False
+2008,house,Connecticut,CT,5,299575,David Cappiello,Republican,117914,39.0,False,False,False
+2008,house,Connecticut,CT,5,299575,Harold Burbank,Green,,1.0,False,False,False
+2008,house,Connecticut,CT,5,299575,Thomas Winn,Independent,,0.8,False,False,False
+2008,house,Delaware,DE,AL,385457,Mike Castle,Republican,235437,61.1,True,True,False
+2008,house,Delaware,DE,AL,385457,Karen Hartley-Nagle,Democratic,146434,38.0,False,False,False
+2008,house,Delaware,DE,AL,385457,Mark Parks,Libertarian,3586,0.9,False,False,False
+2008,house,Florida,FL,1,331356,Jeff Miller,Republican,232559,70.2,True,False,False
+2008,house,Florida,FL,1,331356,James Bryan,Democratic,,29.8,False,False,False
+2008,house,Florida,FL,2,350367,Allen Boyd,Democratic,216804,61.9,True,True,False
+2008,house,Florida,FL,2,350367,Mark Mulligan,Republican,133404,38.1,False,False,False
+2008,house,Florida,FL,3,,Corrine Brown,Democratic,,100.0,True,True,False
+2008,house,Florida,FL,4,343442,Ander Crenshaw,Republican,224112,65.3,True,True,False
+2008,house,Florida,FL,4,343442,Jay McGovern,Democratic,119330,34.7,False,False,False
+2008,house,Florida,FL,5,433632,Ginny Brown-Waite,Republican,265186,61.2,True,True,False
+2008,house,Florida,FL,5,433632,John Russell,Democratic,168446,38.8,False,False,False
+2008,house,Florida,FL,6,374957,Cliff Stearns,Republican,228302,60.9,True,True,False
+2008,house,Florida,FL,6,374957,Tim Cunha,Democratic,146655,39.1,False,False,False
+2008,house,Florida,FL,7,385013,John Mica,Republican,238721,62.0,True,True,False
+2008,house,Florida,FL,7,385013,Faye Armitage,Democratic,146292,38.0,False,False,False
+2008,house,Florida,FL,8,332244,Alan Grayson,Democratic,172854,52.0,True,False,False
+2008,house,Florida,FL,8,332244,Ric Keller,Republican,159490,48.0,False,True,False
+2008,house,Florida,FL,9,348378,Gus Bilirakis,Republican,,62.2,True,True,False
+2008,house,Florida,FL,9,348378,Bill Mitchell,Democratic,126346,36.3,False,False,False
+2008,house,Florida,FL,9,348378,Johnny Kalimnios,Independent,,1.0,False,False,False
+2008,house,Florida,FL,9,348378,Richard Emmons,Term Limits,2042,0.6,False,False,False
+2008,house,Florida,FL,10,301220,Bill Young,Republican,182781,60.7,True,True,False
+2008,house,Florida,FL,10,301220,Bob Hackworth,Democratic,118430,39.3,False,False,False
+2008,house,Florida,FL,11,256931,Kathy Castor,Democratic,184106,71.7,True,True,False
+2008,house,Florida,FL,11,256931,Eddie Adams,Republican,,28.3,False,False,False
+2008,house,Florida,FL,12,323163,Adam Putnam,Republican,185698,57.5,True,True,False
+2008,house,Florida,FL,12,323163,Doug Tudor,Democratic,137465,42.5,False,False,False
+2008,house,Florida,FL,13,367996,Vern Buchanan,Republican,204382,55.5,True,True,False
+2008,house,Florida,FL,13,367996,Christine Jennings,Democratic,137967,37.5,False,False,False
+2008,house,Florida,FL,13,367996,Jan Schneider,Independent,20289,5.5,False,False,False
+2008,house,Florida,FL,13,367996,Don Baldauf,Independent,5358,1.5,False,False,False
+2008,house,Florida,FL,14,377891,Connie Mack IV,Republican,,59.4,True,True,False
+2008,house,Florida,FL,14,377891,Robert Neeld,Democratic,93590,24.8,False,False,False
+2008,house,Florida,FL,14,377891,Burt Saunders,Independent,54750,14.5,False,False,False
+2008,house,Florida,FL,14,377891,Jeff George,Independent,4949,1.3,False,False,False
+2008,house,Florida,FL,15,361871,Bill Posey,Republican,192151,53.1,True,False,True
+2008,house,Florida,FL,15,361871,Stephen Blythe,Democratic,,42.0,False,False,True
+2008,house,Florida,FL,15,361871,Frank Zilaitis,Independent,14274,3.9,False,False,True
+2008,house,Florida,FL,15,361871,Trevor Lowing,Independent,3495,1.0,False,False,True
+2008,house,Florida,FL,16,349247,Tom Rooney,Republican,209874,60.1,True,False,False
+2008,house,Florida,FL,16,349247,Tim Mahoney,Democratic,139373,39.9,False,True,False
+2008,house,Florida,FL,17,,Kendrick Meek,Democratic,,100.0,True,True,False
+2008,house,Florida,FL,18,242989,Ileana Ros-Lehtinen,Republican,140617,57.9,True,True,False
+2008,house,Florida,FL,18,242989,Annette Taddeo,Democratic,102372,42.1,False,False,False
+2008,house,Florida,FL,19,306036,Robert Wexler,Democratic,202465,66.2,True,True,False
+2008,house,Florida,FL,19,306036,Edward Lynch,Republican,,27.2,False,False,False
+2008,house,Florida,FL,19,306036,Ben Graber,Independent,20214,6.6,False,False,False
+2008,house,Florida,FL,20,261799,Debbie Wasserman Schultz,Democratic,202832,77.5,True,True,False
+2008,house,Florida,FL,20,261799,Margaret Hostetter,Independent Republican,58958,22.5,False,False,False
+2008,house,Florida,FL,21,237002,Lincoln Díaz-Balart,Republican,,57.9,True,True,False
+2008,house,Florida,FL,21,237002,Raul Martinez,Democratic,,42.1,False,False,False
+2008,house,Florida,FL,22,309151,Ron Klein,Democratic,169041,54.7,True,True,False
+2008,house,Florida,FL,22,309151,Allen West,Republican,140104,45.3,False,False,False
+2008,house,Florida,FL,23,210306,Alcee Hastings,Democratic,172835,82.1,True,True,False
+2008,house,Florida,FL,23,210306,Marion Thorpe,Republican,,17.8,False,False,False
+2008,house,Florida,FL,24,379370,Suzanne Kosmas,Democratic,211284,57.2,True,False,False
+2008,house,Florida,FL,24,379370,Tom Feeney,Republican,151863,41.1,False,True,False
+2008,house,Florida,FL,24,379370,Gaurav Bhola,Independent,6223,1.7,False,False,False
+2008,house,Florida,FL,25,246711,Mario Díaz-Balart,Republican,,53.1,True,True,False
+2008,house,Florida,FL,25,246711,Joe Garcia,Democratic,115820,46.9,False,False,False
+2008,house,Georgia,GA,1,249334,Jack Kingston,Republican,165890,66.5,True,True,False
+2008,house,Georgia,GA,1,249334,Bill Gillespie,Democratic,83444,33.5,False,False,False
+2008,house,Georgia,GA,2,229786,Sanford Bishop,Democratic,158435,68.9,True,True,False
+2008,house,Georgia,GA,2,229786,Lee Ferrell,Republican,71351,31.1,False,False,False
+2008,house,Georgia,GA,3,342580,Lynn Westmoreland,Republican,225055,65.7,True,True,False
+2008,house,Georgia,GA,3,342580,Stephen Camp,Democratic,117522,34.3,False,False,False
+2008,house,Georgia,GA,4,224694,Hank Johnson,Democratic,224494,99.9,True,True,False
+2008,house,Georgia,GA,5,231474,John Lewis,Democratic,231368,99.9,True,True,False
+2008,house,Georgia,GA,6,338071,Tom Price,Republican,231520,68.5,True,False,False
+2008,house,Georgia,GA,6,338071,Bill Jones,Democratic,106551,31.5,False,False,False
+2008,house,Georgia,GA,7,337513,John Linder,Republican,209354,62.0,True,True,False
+2008,house,Georgia,GA,7,337513,Doug Heckman,Democratic,128159,38.0,False,False,False
+2008,house,Georgia,GA,8,274687,Jim Marshall,Democratic,157241,57.2,True,False,False
+2008,house,Georgia,GA,8,274687,Rick Goddard,Republican,117446,42.8,False,False,False
+2008,house,Georgia,GA,9,288030,Nathan Deal,Republican,217493,75.5,True,True,False
+2008,house,Georgia,GA,9,288030,Jeff Scott,Democratic,70537,24.5,False,False,False
+2008,house,Georgia,GA,10,291903,Paul Broun,Republican,177265,60.7,True,True,False
+2008,house,Georgia,GA,10,291903,Bobby Saxon,Democratic,114638,39.3,False,False,False
+2008,house,Georgia,GA,11,299302,Phil Gingrey,Republican,204082,68.2,True,True,False
+2008,house,Georgia,GA,11,299302,Hugh Gammon,Democratic,,31.8,False,False,False
+2008,house,Georgia,GA,12,249335,John Barrow,Democratic,164562,66.0,True,False,False
+2008,house,Georgia,GA,12,249335,John Stone,Republican,84773,34.0,False,False,False
+2008,house,Georgia,GA,13,298239,David Scott,Democratic,205919,69.0,True,True,False
+2008,house,Georgia,GA,13,298239,Deborah Honeycutt,Republican,92320,31.0,False,False,False
+2008,house,Hawaii,HI,1,199917,Neil Abercrombie,Democratic,,77.1,True,True,False
+2008,house,Hawaii,HI,1,199917,Steve Tataii,Republican,38115,19.1,False,False,False
+2008,house,Hawaii,HI,1,199917,Li Zhao,Libertarian,7594,3.8,False,False,False
+2008,house,Hawaii,HI,2,217914,Mazie Hirono,Democratic,,76.1,True,True,False
+2008,house,Hawaii,HI,2,217914,Roger B. Evans,Republican,44425,20.4,False,False,False
+2008,house,Hawaii,HI,2,217914,Shaun Stenshol,Independent,4042,1.9,False,False,False
+2008,house,Hawaii,HI,2,217914,Jeff Mallan,Libertarian,3699,1.7,False,False,False
+2008,house,Idaho,ID,1,347585,Walt Minnick,Democratic,175898,50.6,True,False,False
+2008,house,Idaho,ID,1,347585,Bill Sali,Republican,171687,49.4,False,True,False
+2008,house,Idaho,ID,2,289655,Mike Simpson,Republican,205777,71.0,True,True,False
+2008,house,Idaho,ID,2,289655,Debbie Holmes,Democratic,,29.0,False,False,False
+2008,house,Illinois,IL,1,271397,Bobby Rush,Democratic,233036,85.9,True,True,False
+2008,house,Illinois,IL,1,271397,Antoine Members,Republican,38361,14.1,False,False,False
+2008,house,Illinois,IL,2,280776,Jesse Jackson Jr.,Democratic,251052,89.4,True,True,False
+2008,house,Illinois,IL,2,280776,Anthony Williams,Republican,29721,10.6,False,False,False
+2008,house,Illinois,IL,3,235524,Dan Lipinski,Democratic,172581,73.3,True,True,False
+2008,house,Illinois,IL,3,235524,Michael Hawkins,Republican,50336,21.4,False,False,False
+2008,house,Illinois,IL,3,235524,Jerome Pohlen,Green,12607,5.3,False,False,False
+2008,house,Illinois,IL,4,139606,Luis Gutiérrez,Democratic,,80.6,True,True,False
+2008,house,Illinois,IL,4,139606,Daniel Cunningham,Republican,,11.5,False,False,False
+2008,house,Illinois,IL,4,139606,Omar Lopez,Green,,7.9,False,False,False
+2008,house,Illinois,IL,5,230892,Rahm Emanuel,Democratic,170728,73.9,True,True,True
+2008,house,Illinois,IL,5,230892,Tom Hanson,Republican,50881,22.0,False,False,True
+2008,house,Illinois,IL,5,230892,Alan Augustson,Green,9283,4.1,False,False,True
+2008,house,Illinois,IL,6,256913,Peter Roskam,Republican,147906,57.6,True,True,False
+2008,house,Illinois,IL,6,256913,Jill Morgenthaler,Democratic,109007,42.4,False,False,False
+2008,house,Illinois,IL,7,276817,Danny K. Davis,Democratic,235343,85.0,True,True,False
+2008,house,Illinois,IL,7,276817,Steve Miller,Republican,41474,15.0,False,False,False
+2008,house,Illinois,IL,8,295525,Melissa Bean,Democratic,179444,60.7,True,True,False
+2008,house,Illinois,IL,8,295525,Steve Greenberg,Republican,116081,39.3,False,False,False
+2008,house,Illinois,IL,9,243694,Jan Schakowsky,Democratic,181948,74.7,True,True,False
+2008,house,Illinois,IL,9,243694,Michael Younan,Republican,,22.0,False,False,False
+2008,house,Illinois,IL,9,243694,Morris Shanfield,Green,8140,3.3,False,False,False
+2008,house,Illinois,IL,10,291258,Mark Kirk,Republican,153082,52.6,True,True,False
+2008,house,Illinois,IL,10,291258,Dan Seals,Democratic,138176,47.4,False,False,False
+2008,house,Illinois,IL,11,317895,Debbie Halvorson,Democratic,185652,58.4,True,False,True
+2008,house,Illinois,IL,11,317895,Marty Ozinga,Republican,109608,34.5,False,False,True
+2008,house,Illinois,IL,11,317895,Jason Wallace,Green,22635,7.1,False,False,True
+2008,house,Illinois,IL,12,298181,Jerry Costello,Democratic,212891,71.1,True,True,False
+2008,house,Illinois,IL,12,298181,Tim Richardson,Republican,74382,25.0,False,False,False
+2008,house,Illinois,IL,12,298181,Rodger Jennings,Green,10907,3.9,False,False,False
+2008,house,Illinois,IL,13,337771,Judy Biggert,Republican,180888,53.6,True,True,False
+2008,house,Illinois,IL,13,337771,Scott Harper,Democratic,147430,43.7,False,False,False
+2008,house,Illinois,IL,13,337771,Steve Alesch,Green,9402,2.7,False,False,False
+2008,house,Illinois,IL,14,321057,Bill Foster,Democratic,185404,57.7,True,False,False
+2008,house,Illinois,IL,14,321057,Jim Oberweis,Republican,135653,42.3,False,False,False
+2008,house,Illinois,IL,15,291514,Tim Johnson,Republican,,64.2,True,False,False
+2008,house,Illinois,IL,15,291514,Steve Cox,Democratic,104393,35.8,False,False,False
+2008,house,Illinois,IL,16,312220,Donald Manzullo,Republican,,60.9,True,True,False
+2008,house,Illinois,IL,16,312220,Bob Abboud,Democratic,,36.1,False,False,False
+2008,house,Illinois,IL,16,312220,Scott Summers,Green,9533,3.0,False,False,False
+2008,house,Illinois,IL,17,221478,Phil Hare,Democratic,220961,99.8,True,True,False
+2008,house,Illinois,IL,18,310088,Aaron Schock,Republican,182589,58.9,True,False,True
+2008,house,Illinois,IL,18,310088,Colleen Callahan,Democratic,117642,37.9,False,False,True
+2008,house,Illinois,IL,18,310088,Sheldon Schafer,Green,9857,3.2,False,False,True
+2008,house,Illinois,IL,19,315589,John Shimkus,Republican,203434,64.5,True,True,False
+2008,house,Illinois,IL,19,315589,Daniel Davis,Democratic,105338,33.4,False,False,False
+2008,house,Illinois,IL,19,315589,Troy Dennis,Green,6817,2.1,False,False,False
+2008,house,Indiana,IN,1,282022,Pete Visclosky,Democratic,199954,70.9,True,True,False
+2008,house,Indiana,IN,1,282022,Mark Leyva,Republican,76647,27.2,False,False,False
+2008,house,Indiana,IN,1,282022,Jeff Duensing,Libertarian,5421,1.9,False,False,False
+2008,house,Indiana,IN,2,279346,Joe Donnelly,Democratic,187416,67.1,True,True,False
+2008,house,Indiana,IN,2,279346,Luke Puckett,Republican,84455,30.2,False,False,False
+2008,house,Indiana,IN,2,279346,Mark Vogel,Libertarian,7475,2.7,False,False,False
+2008,house,Indiana,IN,3,282879,Mark Souder,Republican,155693,55.0,True,True,False
+2008,house,Indiana,IN,3,282879,Mike Montagano,Democratic,112309,39.7,False,False,False
+2008,house,Indiana,IN,3,282879,William Larsen,Libertarian,,5.3,False,False,False
+2008,house,Indiana,IN,4,321564,Steve Buyer,Republican,192526,59.9,True,True,False
+2008,house,Indiana,IN,4,321564,Nels Ackerson,Democratic,129038,40.1,False,False,False
+2008,house,Indiana,IN,5,358062,Dan Burton,Republican,234705,65.5,True,True,False
+2008,house,Indiana,IN,5,358062,Mary Etta Ruley,Democratic,123357,34.5,False,False,False
+2008,house,Indiana,IN,6,282412,Mike Pence,Republican,180608,63.9,True,True,False
+2008,house,Indiana,IN,6,282412,Barry Welsh,Democratic,94265,33.4,False,False,False
+2008,house,Indiana,IN,6,282412,George Holland,Libertarian,,2.7,False,False,False
+2008,house,Indiana,IN,7,265299,André Carson,Democratic,172650,65.1,True,True,False
+2008,house,Indiana,IN,7,265299,Gabrielle Campo,Republican,92645,34.9,False,False,False
+2008,house,Indiana,IN,8,291462,Brad Ellsworth,Democratic,188693,64.7,True,True,False
+2008,house,Indiana,IN,8,291462,Greg Goode,Republican,102769,35.3,False,False,False
+2008,house,Indiana,IN,9,313804,Baron Hill,Democratic,181281,57.8,True,False,False
+2008,house,Indiana,IN,9,313804,Mike Sodrel,Republican,120529,38.4,False,False,False
+2008,house,Indiana,IN,9,313804,D. Eric Schansberg,Libertarian,11994,3.8,False,False,False
+2008,house,Iowa,IA,1,289430,Bruce Braley,Democratic,,64.6,True,True,False
+2008,house,Iowa,IA,1,289430,David Hartsuch,Republican,102439,35.4,False,False,False
+2008,house,Iowa,IA,2,306097,Dave Loebsack,Democratic,,57.2,True,True,False
+2008,house,Iowa,IA,2,306097,Mariannette Miller-Meeks,Republican,118778,38.8,False,False,False
+2008,house,Iowa,IA,2,306097,Wendy Barth,Green,6664,2.2,False,False,False
+2008,house,Iowa,IA,2,306097,Brian White,Independent,5437,1.8,False,False,False
+2008,house,Iowa,IA,3,313639,Leonard Boswell,Democratic,,56.4,True,True,False
+2008,house,Iowa,IA,3,313639,Kim Schmett,Republican,132136,42.1,False,False,False
+2008,house,Iowa,IA,3,313639,Frank Forrestal,Socialist Workers,,1.5,False,False,False
+2008,house,Iowa,IA,4,306204,Tom Latham,Republican,,60.6,True,False,False
+2008,house,Iowa,IA,4,306204,Becky Greenwald,Democratic,120746,39.4,False,False,False
+2008,house,Iowa,IA,5,266437,Steve King,Republican,,59.8,True,True,False
+2008,house,Iowa,IA,5,266437,Rob Hubler,Democratic,99601,37.4,False,False,False
+2008,house,Iowa,IA,5,266437,Victor Vara,Independent,7406,2.8,False,False,False
+2008,house,Kansas,KS,1,262027,Jerry Moran,Republican,214549,81.8,True,True,False
+2008,house,Kansas,KS,1,262027,James Bordonaro,Democratic,34771,13.2,False,False,False
+2008,house,Kansas,KS,1,262027,Kathleen Burton,Reform,,2.7,False,False,False
+2008,house,Kansas,KS,1,262027,Jack Warner,Libertarian,5562,2.1,False,False,False
+2008,house,Kansas,KS,2,307308,Lynn Jenkins,Republican,155532,50.6,True,False,False
+2008,house,Kansas,KS,2,307308,Nancy Boyda,Democratic,142013,46.2,False,True,False
+2008,house,Kansas,KS,2,307308,Leslie Martin,Reform,,1.6,False,False,False
+2008,house,Kansas,KS,2,307308,Robert Garrard,Libertarian,4683,1.5,False,False,False
+2008,house,Kansas,KS,3,358858,Dennis Moore,Democratic,202541,56.4,True,False,False
+2008,house,Kansas,KS,3,358858,Nick Jordan,Republican,142307,39.6,False,False,False
+2008,house,Kansas,KS,3,358858,Joe Bellis,Libertarian,10073,2.8,False,False,False
+2008,house,Kansas,KS,3,358858,Roger Tucker,Reform,,1.0,False,False,False
+2008,house,Kansas,KS,4,280109,Todd Tiahrt,Republican,177617,63.4,True,True,False
+2008,house,Kansas,KS,4,280109,Donald Betts,Democratic,,32.3,False,False,False
+2008,house,Kansas,KS,4,280109,Susan Ducey,Reform,,2.2,False,False,False
+2008,house,Kansas,KS,4,280109,Steven Rosile,Libertarian,,1.9,False,False,False
+2008,house,Kentucky,KY,1,,Ed Whitfield,Republican,,64.3,True,True,False
+2008,house,Kentucky,KY,1,,Heather Ryan,Democratic,,35.7,False,False,False
+2008,house,Kentucky,KY,2,,Brett Guthrie,Republican,,52.6,True,False,True
+2008,house,Kentucky,KY,2,,David Boswell,Democratic,,47.4,False,False,True
+2008,house,Kentucky,KY,3,,John Yarmuth,Democratic,,59.4,True,True,False
+2008,house,Kentucky,KY,3,,Anne Northup,Republican,,40.6,False,False,False
+2008,house,Kentucky,KY,4,,Geoff Davis,Republican,,63.0,True,True,False
+2008,house,Kentucky,KY,4,,Michael Kelly,Democratic,,37.0,False,False,False
+2008,house,Kentucky,KY,5,,Hal Rogers,Republican,,84.1,True,True,False
+2008,house,Kentucky,KY,5,,Jim Holbert,Independent,,15.9,False,False,False
+2008,house,Kentucky,KY,6,,Ben Chandler,Democratic,,64.7,True,True,False
+2008,house,Kentucky,KY,6,,Jon Larson,Republican,,35.3,False,False,False
+2008,house,Louisiana,LA,1,288007,Steve Scalise,Republican,,65.7,True,True,False
+2008,house,Louisiana,LA,1,288007,Jim Harlan,Democratic,98839,34.3,False,False,False
+2008,house,Louisiana,LA,2,66846,Joseph Cao,Republican,33132,49.5,True,False,False
+2008,house,Louisiana,LA,2,66846,Bill Jefferson,Democratic,,46.8,False,False,False
+2008,house,Louisiana,LA,2,66846,Malik Rahim,Green,1880,2.8,False,False,False
+2008,house,Louisiana,LA,2,66846,Gregory Kahn,Libertarian,548,0.8,False,False,False
+2008,house,Louisiana,LA,3,,Charlie Melançon,Democratic,,100.0,True,False,False
+2008,house,Louisiana,LA,4,92572,John Fleming,Republican,44501,48.1,True,False,True
+2008,house,Louisiana,LA,4,92572,Paul Carmouche,Democratic,44151,47.7,False,False,True
+2008,house,Louisiana,LA,4,92572,Chester Kelly,Independent,,3.5,False,False,True
+2008,house,Louisiana,LA,4,92572,Gerard Bowen,Independent,,0.7,False,False,True
+2008,house,Louisiana,LA,5,,Rodney Alexander,Republican,,100.0,True,True,False
+2008,house,Louisiana,LA,6,312416,Bill Cassidy,Republican,150332,48.1,True,False,False
+2008,house,Louisiana,LA,6,312416,Don Cazayoux,Democratic,,40.3,False,True,False
+2008,house,Louisiana,LA,6,312416,Michael L. Jackson,Independent Democratic,36198,11.6,False,False,False
+2008,house,Louisiana,LA,7,286299,Charles Boustany,Republican,,61.9,True,True,False
+2008,house,Louisiana,LA,7,286299,Don Cravins Jr.,Democratic,98280,34.3,False,False,False
+2008,house,Louisiana,LA,7,286299,Peter Vidrine,Constitution,10846,3.8,False,False,False
+2008,house,Maine,ME,1,374559,Chellie Pingree,Democratic,205629,54.9,True,False,True
+2008,house,Maine,ME,1,374559,Charlie Summers,Republican,,45.1,False,False,True
+2008,house,Maine,ME,2,335542,Mike Michaud,Democratic,,67.4,True,True,False
+2008,house,Maine,ME,2,335542,John Frary,Republican,,32.6,False,False,False
+2008,house,Maryland,MD,1,360480,Frank Kratovil,Democratic,177065,49.1,True,False,False
+2008,house,Maryland,MD,1,360480,Andy Harris,Republican,174213,48.3,False,False,False
+2008,house,Maryland,MD,1,360480,Richard James Davis,Libertarian,,2.5,False,False,False
+2008,house,Maryland,MD,2,276333,Dutch Ruppersberger,Democratic,198578,71.9,True,True,False
+2008,house,Maryland,MD,2,276333,Richard Matthews,Republican,68561,24.8,False,False,False
+2008,house,Maryland,MD,2,276333,Lorenzo Gaztanaga,Libertarian,8786,3.2,False,False,False
+2008,house,Maryland,MD,3,292448,John Sarbanes,Democratic,203711,69.7,True,True,False
+2008,house,Maryland,MD,3,292448,Tom Harris,Republican,,30.1,False,False,False
+2008,house,Maryland,MD,4,301431,Donna Edwards,Democratic,258704,85.8,True,True,False
+2008,house,Maryland,MD,4,301431,Peter James,Republican,38739,12.9,False,False,False
+2008,house,Maryland,MD,4,301431,Thibeaux Lincecum,Libertarian,3384,1.1,False,False,False
+2008,house,Maryland,MD,5,344691,Steny Hoyer,Democratic,253854,73.6,True,True,False
+2008,house,Maryland,MD,5,344691,Collins Bailey,Republican,82631,24.0,False,False,False
+2008,house,Maryland,MD,5,344691,Darlene H. Nicholas,Libertarian,,2.3,False,False,False
+2008,house,Maryland,MD,6,330535,Roscoe Bartlett,Republican,190926,57.8,True,True,False
+2008,house,Maryland,MD,6,330535,Jennifer Dougherty,Democratic,128207,38.8,False,False,False
+2008,house,Maryland,MD,6,330535,Gary Hoover,Libertarian,,3.3,False,False,False
+2008,house,Maryland,MD,7,286020,Elijah Cummings,Democratic,227379,79.5,True,True,False
+2008,house,Maryland,MD,7,286020,Michael Hargadon,Republican,,18.6,False,False,False
+2008,house,Maryland,MD,7,286020,Ronald M. Owens-Bey,Libertarian,5214,1.8,False,False,False
+2008,house,Maryland,MD,8,306014,Chris Van Hollen,Democratic,229740,75.1,True,True,False
+2008,house,Maryland,MD,8,306014,Steve Hudson,Republican,66351,21.7,False,False,False
+2008,house,Maryland,MD,8,306014,Gordon Clark,Green,6828,2.2,False,False,False
+2008,house,Maryland,MD,8,306014,Ian Thomas,Libertarian,2562,0.8,False,False,False
+2008,house,Massachusetts,MA,1,296099,John Olver,Democratic,,72.8,True,True,False
+2008,house,Massachusetts,MA,1,296099,Nate Bech,Republican,,27.0,False,False,False
+2008,house,Massachusetts,MA,2,238000,Richard Neal,Democratic,,100.0,True,True,False
+2008,house,Massachusetts,MA,3,231107,Jim McGovern,Democratic,,100.0,True,False,False
+2008,house,Massachusetts,MA,4,298788,Barney Frank,Democratic,,68.0,True,True,False
+2008,house,Massachusetts,MA,4,298788,Earl Sholley,Republican,,25.3,False,False,False
+2008,house,Massachusetts,MA,4,298788,Susan Allen,Independent,19848,6.6,False,False,False
+2008,house,Massachusetts,MA,5,228907,Niki Tsongas,Democratic,,100.0,True,True,False
+2008,house,Massachusetts,MA,6,321312,John F. Tierney,Democratic,,70.4,True,True,False
+2008,house,Massachusetts,MA,6,321312,Richard Baker,Republican,,29.5,False,False,False
+2008,house,Massachusetts,MA,7,280682,Ed Markey,Democratic,,75.6,True,True,False
+2008,house,Massachusetts,MA,7,280682,John Cunningham,Republican,67978,24.2,False,False,False
+2008,house,Massachusetts,MA,8,188252,Mike Capuano,Democratic,,100.0,True,True,False
+2008,house,Massachusetts,MA,9,245294,Stephen Lynch,Democratic,,100.0,True,False,False
+2008,house,Massachusetts,MA,10,276673,Bill Delahunt,Democratic,,100.0,True,True,False
+2008,house,Michigan,MI,1,327836,Bart Stupak,Democratic,,65.0,True,True,False
+2008,house,Michigan,MI,1,327836,Tom Casperson,Republican,107340,32.7,False,False,False
+2008,house,Michigan,MI,1,327836,Jean Marie Treacy,Green,,0.8,False,False,False
+2008,house,Michigan,MI,1,327836,Dan Grow,Libertarian,,0.8,False,False,False
+2008,house,Michigan,MI,1,327836,Joshua Warren,US Taxpayers,,0.6,False,False,False
+2008,house,Michigan,MI,2,343309,Pete Hoekstra,Republican,,62.4,True,True,False
+2008,house,Michigan,MI,2,343309,Fred Johnson,Democratic,119506,34.8,False,False,False
+2008,house,Michigan,MI,2,343309,Dan Johnson,Libertarian,5496,1.6,False,False,False
+2008,house,Michigan,MI,2,343309,Ronald Graeser,US Taxpayers,,1.2,False,False,False
+2008,house,Michigan,MI,3,333518,Vern Ehlers,Republican,,61.1,True,True,False
+2008,house,Michigan,MI,3,333518,Henry Sanchez,Democratic,117961,35.4,False,False,False
+2008,house,Michigan,MI,3,333518,Erwin Haas,Libertarian,,3.4,False,False,False
+2008,house,Michigan,MI,4,329764,Dave Camp,Republican,,61.9,True,True,False
+2008,house,Michigan,MI,4,329764,Andrew Concannon,Democratic,,35.7,False,False,False
+2008,house,Michigan,MI,4,329764,John Emerick,US Taxpayers,4055,1.2,False,False,False
+2008,house,Michigan,MI,4,329764,Allitta Hren,Libertarian,3785,1.1,False,False,False
+2008,house,Michigan,MI,5,315295,Dale Kildee,Democratic,,70.4,True,True,False
+2008,house,Michigan,MI,5,315295,Matt Sawicki,Republican,85017,27.0,False,False,False
+2008,house,Michigan,MI,5,315295,Leonard Schwartz,Libertarian,4293,1.4,False,False,False
+2008,house,Michigan,MI,5,315295,Ken Mathenia,Green,4144,1.3,False,False,False
+2008,house,Michigan,MI,6,319646,Fred Upton,Republican,,58.9,True,True,False
+2008,house,Michigan,MI,6,319646,Don Cooney,Democratic,123257,38.6,False,False,False
+2008,house,Michigan,MI,6,319646,Greg Merle,Libertarian,4720,1.5,False,False,False
+2008,house,Michigan,MI,6,319646,Edward Pinkney,Green,3512,1.1,False,False,False
+2008,house,Michigan,MI,7,322286,Mark Schauer,Democratic,157213,48.8,True,False,False
+2008,house,Michigan,MI,7,322286,Tim Walberg,Republican,,46.5,False,True,False
+2008,house,Michigan,MI,7,322286,Lynn Meadows,Green,9528,3.0,False,False,False
+2008,house,Michigan,MI,7,322286,Ken Proctor,Libertarian,5675,1.8,False,False,False
+2008,house,Michigan,MI,8,361607,Mike Rogers,Republican,,56.5,True,False,False
+2008,house,Michigan,MI,8,361607,Robert D. Alexander,Democratic,145491,40.2,False,False,False
+2008,house,Michigan,MI,8,361607,Will Tyler White,Libertarian,4373,1.2,False,False,False
+2008,house,Michigan,MI,8,361607,Aaron Stuttman,Green,3836,1.1,False,False,False
+2008,house,Michigan,MI,8,361607,George Zimmer,US Taxpayers,,1.0,False,False,False
+2008,house,Michigan,MI,9,351963,Gary Peters,Democratic,183311,52.1,True,False,False
+2008,house,Michigan,MI,9,351963,Joe Knollenberg,Republican,,42.6,False,True,False
+2008,house,Michigan,MI,9,351963,Jack Kevorkian,Independent,8987,2.6,False,False,False
+2008,house,Michigan,MI,9,351963,Adam Goodman,Libertarian,4893,1.4,False,False,False
+2008,house,Michigan,MI,9,351963,Doug Campbell,Green,,1.4,False,False,False
+2008,house,Michigan,MI,10,347603,Candice Miller,Republican,,66.3,True,True,False
+2008,house,Michigan,MI,10,347603,Robert Denison,Democratic,108354,31.2,False,False,False
+2008,house,Michigan,MI,10,347603,Neil Stephenson,Libertarian,4632,1.3,False,False,False
+2008,house,Michigan,MI,10,347603,Candace Caveny,Green,,1.2,False,False,False
+2008,house,Michigan,MI,11,345182,Thaddeus McCotter,Republican,,51.4,True,True,False
+2008,house,Michigan,MI,11,345182,Joseph Larkin,Democratic,156624,45.4,False,False,False
+2008,house,Michigan,MI,11,345182,John Tatar,Libertarian,,1.7,False,False,False
+2008,house,Michigan,MI,11,345182,Erik Shelley,Green,5072,1.5,False,False,False
+2008,house,Michigan,MI,12,312344,Sander Levin,Democratic,,72.1,True,True,False
+2008,house,Michigan,MI,12,312344,Bert Copple,Republican,74565,23.9,False,False,False
+2008,house,Michigan,MI,12,312344,John Vico,Libertarian,4767,1.5,False,False,False
+2008,house,Michigan,MI,12,312344,Les Townsend,US Taxpayers,4076,1.3,False,False,False
+2008,house,Michigan,MI,12,312344,Bill Opalicky,Green,,1.2,False,False,False
+2008,house,Michigan,MI,13,225922,Carolyn Cheeks Kilpatrick,Democratic,,74.1,True,True,False
+2008,house,Michigan,MI,13,225922,Edward Gubics,Republican,,19.1,False,False,False
+2008,house,Michigan,MI,13,225922,George Corsetti,Green,,4.2,False,False,False
+2008,house,Michigan,MI,13,225922,Gregory Creswell,Libertarian,5764,2.6,False,False,False
+2008,house,Michigan,MI,14,246588,John Conyers,Democratic,,92.4,True,True,False
+2008,house,Michigan,MI,14,246588,Rick Secula,Libertarian,,4.4,False,False,False
+2008,house,Michigan,MI,14,246588,Clyde Shabazz,Green,,3.2,False,False,False
+2008,house,Michigan,MI,15,327827,John Dingell,Democratic,,70.7,True,True,False
+2008,house,Michigan,MI,15,327827,John Lynch,Republican,,25.0,False,False,False
+2008,house,Michigan,MI,15,327827,Aimee Smith,Green,7082,2.2,False,False,False
+2008,house,Michigan,MI,15,327827,Greg Stempfle,Libertarian,,1.2,False,False,False
+2008,house,Michigan,MI,15,327827,James Wagner,US Taxpayers,,1.0,False,False,False
+2008,house,Minnesota,MN,1,332400,Tim Walz,DFL,207753,62.5,True,False,False
+2008,house,Minnesota,MN,1,332400,Brian Davis,Republican,109453,32.9,False,False,False
+2008,house,Minnesota,MN,1,332400,Gregory Mikkelson,Independence,14904,4.5,False,False,False
+2008,house,Minnesota,MN,2,385656,John Kline,Republican,220924,57.3,True,False,False
+2008,house,Minnesota,MN,2,385656,Steve Sarvi,DFL,164093,42.6,False,False,False
+2008,house,Minnesota,MN,3,369104,Erik Paulsen,Republican,178932,48.5,True,False,True
+2008,house,Minnesota,MN,3,369104,Ashwin Madia,DFL,150787,40.9,False,False,True
+2008,house,Minnesota,MN,3,369104,David Dillon,Independence,38970,10.6,False,False,True
+2008,house,Minnesota,MN,4,316018,Betty McCollum,DFL,216267,68.4,True,False,False
+2008,house,Minnesota,MN,4,316018,Ed Matthews,Republican,98936,31.3,False,False,False
+2008,house,Minnesota,MN,5,322747,Keith Ellison,DFL,228776,70.9,True,False,False
+2008,house,Minnesota,MN,5,322747,Barb Davis White,Republican,71020,22.0,False,False,False
+2008,house,Minnesota,MN,5,322747,Bill McGaughey,Independence,22318,6.9,False,False,False
+2008,house,Minnesota,MN,6,404725,Michele Bachmann,Republican,187817,46.4,True,True,False
+2008,house,Minnesota,MN,6,404725,Elwyn Tinklenberg,DFL,175786,43.4,False,False,False
+2008,house,Minnesota,MN,6,404725,Bob Anderson,Independence,40643,10.0,False,False,False
+2008,house,Minnesota,MN,7,314680,Collin Peterson,DFL,227187,72.2,True,False,False
+2008,house,Minnesota,MN,7,314680,Glen Menze,Republican,87062,27.7,False,False,False
+2008,house,Minnesota,MN,8,357284,Jim Oberstar,DFL,241831,67.7,True,False,False
+2008,house,Minnesota,MN,8,357284,Michael Cummins,Republican,114871,32.2,False,False,False
+2008,house,Mississippi,MS,1,341389,Travis Childers,Democratic,,54.5,True,True,False
+2008,house,Mississippi,MS,1,341389,Greg Davis,Republican,149818,43.9,False,False,False
+2008,house,Mississippi,MS,1,341389,Wally Pang,Independent,3736,1.1,False,False,False
+2008,house,Mississippi,MS,1,341389,John Wages Jr.,Green,,0.6,False,False,False
+2008,house,Mississippi,MS,2,291970,Bennie Thompson,Democratic,,69.1,True,True,False
+2008,house,Mississippi,MS,2,291970,Richard Cook,Republican,90364,30.9,False,False,False
+2008,house,Mississippi,MS,3,340869,Gregg Harper,Republican,213171,62.5,True,False,True
+2008,house,Mississippi,MS,3,340869,Joel Gill,Democratic,127698,37.5,False,False,True
+2008,house,Mississippi,MS,4,290519,Gene Taylor,Democratic,,74.5,True,False,False
+2008,house,Mississippi,MS,4,290519,John McCay,Republican,,25.5,False,False,False
+2008,house,Missouri,MO,1,,Lacy Clay,Democratic,,86.9,True,True,False
+2008,house,Missouri,MO,1,,Robb Cunningham,Libertarian,,13.1,False,False,False
+2008,house,Missouri,MO,2,,Todd Akin,Republican,,62.3,True,True,False
+2008,house,Missouri,MO,2,,Bill Haas,Democratic,,35.4,False,False,False
+2008,house,Missouri,MO,2,,Thomas Knapp,Libertarian,,2.3,False,False,False
+2008,house,Missouri,MO,3,,Russ Carnahan,Democratic,,66.4,True,True,False
+2008,house,Missouri,MO,3,,Chris Sander,Republican,,30.4,False,False,False
+2008,house,Missouri,MO,3,,Kevin Babcock,Libertarian,,1.8,False,False,False
+2008,house,Missouri,MO,3,,Cindy Redburn,Constitution,,1.4,False,False,False
+2008,house,Missouri,MO,4,,Ike Skelton,Democratic,,65.9,True,True,False
+2008,house,Missouri,MO,4,,Jeff Parnell,Republican,,34.1,False,False,False
+2008,house,Missouri,MO,5,,Emanuel Cleaver,Democratic,,64.4,True,True,False
+2008,house,Missouri,MO,5,,Jacob Turk,Republican,,35.6,False,False,False
+2008,house,Missouri,MO,6,,Sam Graves,Republican,,59.4,True,True,False
+2008,house,Missouri,MO,6,,Kay Barnes,Democratic,,36.9,False,False,False
+2008,house,Missouri,MO,6,,Dave Browning,Libertarian,,3.7,False,False,False
+2008,house,Missouri,MO,7,,Roy Blunt,Republican,,67.8,True,True,False
+2008,house,Missouri,MO,7,,Richard Monroe,Democratic,,28.1,False,False,False
+2008,house,Missouri,MO,7,,Kevin Craig,Libertarian,,2.2,False,False,False
+2008,house,Missouri,MO,7,,Travis Maddox,Constitution,,1.9,False,False,False
+2008,house,Missouri,MO,8,,Jo Ann Emerson,Republican,,71.4,True,True,False
+2008,house,Missouri,MO,8,,Joe Allen,Democratic,,26.2,False,False,False
+2008,house,Missouri,MO,8,,Branden McCullough,Libertarian,,1.6,False,False,False
+2008,house,Missouri,MO,8,,Richard Smith,Constitution,,0.8,False,False,False
+2008,house,Missouri,MO,9,,Blaine Luetkemeyer,Republican,,50.0,True,False,True
+2008,house,Missouri,MO,9,,Judy Baker,Democratic,,47.5,False,False,True
+2008,house,Missouri,MO,9,,Tamara Millay,Libertarian,,2.5,False,False,True
+2008,house,Montana,MT,AL,480900,Denny Rehberg,Republican,308470,64.2,True,True,False
+2008,house,Montana,MT,AL,480900,John Driscoll,Democratic,155930,32.4,False,False,False
+2008,house,Montana,MT,AL,480900,Mike Fellows,Libertarian,16500,3.4,False,False,False
+2008,house,Nebraska,NE,1,262820,Jeff Fortenberry,Republican,,70.4,True,True,False
+2008,house,Nebraska,NE,1,262820,Max Yashirin,Democratic,77897,29.6,False,False,False
+2008,house,Nebraska,NE,2,274374,Lee Terry,Republican,,51.9,True,True,False
+2008,house,Nebraska,NE,2,274374,Jim Esch,Democratic,131901,48.1,False,False,False
+2008,house,Nebraska,NE,3,238204,Adrian Smith,Republican,,76.9,True,True,False
+2008,house,Nebraska,NE,3,238204,Jay Stoddard,Democratic,,23.1,False,False,False
+2008,house,Nevada,NV,1,228922,Shelley Berkley,Democratic,154860,67.6,True,True,False
+2008,house,Nevada,NV,1,228922,Kenneth Wegner,Republican,64837,28.4,False,False,False
+2008,house,Nevada,NV,1,228922,Caren Alexander,Independent American,4697,2.0,False,False,False
+2008,house,Nevada,NV,1,228922,Raymond Duensing,Libertarian,,2.0,False,False,False
+2008,house,Nevada,NV,2,329520,Dean Heller,Republican,170771,51.8,True,True,False
+2008,house,Nevada,NV,2,329520,Jill Derby,Democratic,136548,41.4,False,False,False
+2008,house,Nevada,NV,2,329520,John Everhart,Independent American,11179,3.4,False,False,False
+2008,house,Nevada,NV,2,329520,Sean Patrick Morse,Libertarian,5740,1.7,False,False,False
+2008,house,Nevada,NV,2,329520,Craig Bergland,Green,5282,1.6,False,False,False
+2008,house,Nevada,NV,3,349812,Dina Titus,Democratic,165912,47.4,True,False,False
+2008,house,Nevada,NV,3,349812,Jon Porter,Republican,147940,42.3,False,True,False
+2008,house,Nevada,NV,3,349812,Jeffrey Reeves,Independent,14922,4.3,False,False,False
+2008,house,Nevada,NV,3,349812,Joseph Silvestri,Libertarian,10164,2.9,False,False,False
+2008,house,Nevada,NV,3,349812,Floyd Fitzgibbons,Independent American,6937,2.0,False,False,False
+2008,house,Nevada,NV,3,349812,Bob Gianquinta,Green,,1.1,False,False,False
+2008,house,New Hampshire,NH,1,340873,Carol Shea-Porter,Democratic,176435,51.7,True,True,False
+2008,house,New Hampshire,NH,1,340873,Jeb Bradley,Republican,156338,45.8,False,False,False
+2008,house,New Hampshire,NH,1,340873,Robert Kingsbury,Libertarian,8100,2.4,False,False,False
+2008,house,New Hampshire,NH,2,333675,Paul Hodes,Democratic,188332,56.4,True,True,False
+2008,house,New Hampshire,NH,2,333675,Jennifer Horn,Republican,138222,41.4,False,False,False
+2008,house,New Hampshire,NH,2,333675,Chester Lapointe II,Libertarian,,2.1,False,False,False
+2008,house,New Jersey,NJ,1,285157,Rob Andrews,Democratic,206453,72.4,True,True,True
+2008,house,New Jersey,NJ,1,285157,Dale Glading,Republican,74001,26.0,False,False,True
+2008,house,New Jersey,NJ,1,285157,Matthew Thieke,Green,1927,0.7,False,False,True
+2008,house,New Jersey,NJ,1,285157,Margaret Chapman,Independent,,0.4,False,False,True
+2008,house,New Jersey,NJ,1,285157,Everitt Williams,Independent,,0.3,False,False,True
+2008,house,New Jersey,NJ,1,285157,Alvin Lindsay,Independent,,0.2,False,False,True
+2008,house,New Jersey,NJ,2,283965,Frank LoBiondo,Republican,167701,59.1,True,True,False
+2008,house,New Jersey,NJ,2,283965,David Kurkowski,Democratic,110990,39.1,False,False,False
+2008,house,New Jersey,NJ,2,283965,Jason Grover,Green,,0.6,False,False,False
+2008,house,New Jersey,NJ,2,283965,Peter Boyce,Constitution,,0.5,False,False,False
+2008,house,New Jersey,NJ,2,283965,Gary Stein,Independent,1312,0.5,False,False,False
+2008,house,New Jersey,NJ,2,283965,Constantino Rozzo,Socialist,,0.2,False,False,False
+2008,house,New Jersey,NJ,3,319512,John Adler,Democratic,166390,52.1,True,False,True
+2008,house,New Jersey,NJ,3,319512,Chris Myers,Republican,153122,47.9,False,False,True
+2008,house,New Jersey,NJ,4,306550,Chris Smith,Republican,202972,66.2,True,False,False
+2008,house,New Jersey,NJ,4,306550,Joshua Zeitz,Democratic,,32.6,False,False,False
+2008,house,New Jersey,NJ,4,306550,Steven Welzer,Green,3543,1.2,False,False,False
+2008,house,New Jersey,NJ,5,309007,Scott Garrett,Republican,172653,55.9,True,True,False
+2008,house,New Jersey,NJ,5,309007,Dennis Shulman,Democratic,131033,42.4,False,False,False
+2008,house,New Jersey,NJ,5,309007,Ed Fanning,Green,5321,1.7,False,False,False
+2008,house,New Jersey,NJ,6,245077,Frank Pallone,Democratic,164077,66.9,True,True,False
+2008,house,New Jersey,NJ,6,245077,Robert McLeod,Republican,77469,31.6,False,False,False
+2008,house,New Jersey,NJ,6,245077,Herbert Tarbous,Independent,,1.4,False,False,False
+2008,house,New Jersey,NJ,7,295628,Leonard Lance,Republican,148461,50.2,True,False,True
+2008,house,New Jersey,NJ,7,295628,Linda Stender,Democratic,124818,42.2,False,False,True
+2008,house,New Jersey,NJ,7,295628,Michael Hsing,Independent,,5.6,False,False,True
+2008,house,New Jersey,NJ,7,295628,Dean Greco,Independent,3259,1.1,False,False,True
+2008,house,New Jersey,NJ,7,295628,Thomas Abrams,Independent,,0.9,False,False,True
+2008,house,New Jersey,NJ,8,223986,Bill Pascrell,Democratic,159279,71.1,True,True,False
+2008,house,New Jersey,NJ,8,223986,Rollie Straten,Republican,,28.2,False,False,False
+2008,house,New Jersey,NJ,8,223986,Derek DeMarco,Libertarian,1600,0.7,False,False,False
+2008,house,New Jersey,NJ,9,223885,Steve Rothman,Democratic,151182,69.5,True,True,False
+2008,house,New Jersey,NJ,9,223885,Vince Micco,Republican,,31.0,False,False,False
+2008,house,New Jersey,NJ,9,223885,Michael Perrone,Independent,,0.5,False,False,False
+2008,house,New Jersey,NJ,10,171893,Donald M. Payne,Democratic,169945,98.9,True,True,False
+2008,house,New Jersey,NJ,10,171893,Michael Taber,Socialist Workers,1848,1.1,False,False,False
+2008,house,New Jersey,NJ,11,306732,Rodney Frelinghuysen,Republican,189696,61.8,True,True,False
+2008,house,New Jersey,NJ,11,306732,Tom Wyka,Democratic,113510,37.0,False,False,False
+2008,house,New Jersey,NJ,11,306732,Chandler Tedholm,Independent,3526,1.2,False,False,False
+2008,house,New Jersey,NJ,12,306934,Rush Holt Jr.,Democratic,193732,63.1,True,True,False
+2008,house,New Jersey,NJ,12,306934,Alan Bateman,Republican,108400,35.3,False,False,False
+2008,house,New Jersey,NJ,12,306934,David Corsi,Independent,4802,1.6,False,False,False
+2008,house,New Jersey,NJ,13,159753,Albio Sires,Democratic,206453,75.4,True,True,False
+2008,house,New Jersey,NJ,13,159753,Joseph Turula,Republican,34375,21.7,False,False,False
+2008,house,New Jersey,NJ,13,159753,Julio Fernandez,Independent,,2.3,False,False,False
+2008,house,New Jersey,NJ,13,159753,Louis Vernotico,Independent,975,0.6,False,False,False
+2008,house,New Mexico,NM,1,294906,Martin Heinrich,Democratic,,55.7,True,False,True
+2008,house,New Mexico,NM,1,294906,Darren White,Republican,131284,44.3,False,False,True
+2008,house,New Mexico,NM,2,228724,Harry Teague,Democratic,127640,56.0,True,False,True
+2008,house,New Mexico,NM,2,228724,Edward Tinsley,Republican,,44.0,False,False,True
+2008,house,New Mexico,NM,3,280306,Ben Ray Luján,Democratic,158548,56.7,True,False,True
+2008,house,New Mexico,NM,3,280306,Daniel East,Republican,85969,30.5,False,False,True
+2008,house,New Mexico,NM,3,280306,Carol Miller,Independent,35789,12.8,False,False,True
+2008,house,New York,NY,1,277641,Tim Bishop,Democratic,324166,58.4,True,True,False
+2008,house,New York,NY,1,277641,Lee Zeldin,Republican,115545,41.6,False,False,False
+2008,house,New York,NY,2,240932,Steve Israel,Democratic,322558,66.9,True,True,False
+2008,house,New York,NY,2,240932,Frank Stalzer,Republican,79641,33.1,False,False,False
+2008,house,New York,NY,3,240932,Peter King,Republican,345548,63.9,True,True,False
+2008,house,New York,NY,3,240932,Graham Long,Democratic,97525,36.1,False,False,False
+2008,house,New York,NY,4,256271,Carolyn McCarthy,Democratic,328056,64.0,True,True,False
+2008,house,New York,NY,4,256271,Jack Martins,Republican,88488,36.0,False,False,False
+2008,house,New York,NY,5,256271,Gary Ackerman,Democratic,112724,70.7,True,True,False
+2008,house,New York,NY,5,256271,Elizabeth Berney,Republican,,27.4,False,False,False
+2008,house,New York,NY,5,256271,Jun Policarpio,Conservative,,1.9,False,False,False
+2008,house,New York,NY,6,,Gregory Meeks,Democratic,,100.0,True,True,False
+2008,house,New York,NY,7,,Joe Crowley,Democratic,,84.7,True,True,False
+2008,house,New York,NY,7,,William Britt,Republican,,15.3,False,False,False
+2008,house,New York,NY,8,,Jerry Nadler,Democratic,,80.5,True,True,False
+2008,house,New York,NY,8,,Grace Lin,Republican,,19.5,False,False,False
+2008,house,New York,NY,9,,Anthony Weiner,Democratic,,93.3,True,True,False
+2008,house,New York,NY,9,,Alfred F. Donohue Jr.,Conservative,,6.7,False,False,False
+2008,house,New York,NY,10,,Edolphus Towns,Democratic,,94.2,True,True,False
+2008,house,New York,NY,10,,Salvatore Grupico,Republican,,5.8,False,False,False
+2008,house,New York,NY,11,,Yvette Clarke,Democratic,,92.8,True,True,False
+2008,house,New York,NY,11,,Hugh Carr,Republican,,6.4,False,False,False
+2008,house,New York,NY,11,,Cartrell Gore,Conservative,,0.8,False,False,False
+2008,house,New York,NY,12,,Nydia Velázquez,Democratic,,90.0,True,True,False
+2008,house,New York,NY,12,,Allan Romaguera,Republican,,10.0,False,False,False
+2008,house,New York,NY,13,,Michael McMahon,Democratic,,60.9,True,False,True
+2008,house,New York,NY,13,,Robert Straniere,Republican,,33.3,False,False,True
+2008,house,New York,NY,13,,Timothy Cochrane,Conservative,,3.1,False,False,True
+2008,house,New York,NY,13,,Carmine Morano,Independence,,2.7,False,False,True
+2008,house,New York,NY,14,,Carolyn Maloney,Democratic,,79.8,True,True,False
+2008,house,New York,NY,14,,Robert Heim,Republican,,19.0,False,False,False
+2008,house,New York,NY,14,,Isaiah Matos,Libertarian,,1.2,False,False,False
+2008,house,New York,NY,15,,Charles Rangel,Democratic,,89.2,True,True,False
+2008,house,New York,NY,15,,Edward Daniels,Republican,,7.9,False,False,False
+2008,house,New York,NY,15,,Craig Schley,Independent,,1.9,False,False,False
+2008,house,New York,NY,15,,Martin Koppel,Socialist Workers,,1.1,False,False,False
+2008,house,New York,NY,16,,José E. Serrano,Democratic,,96.6,True,True,False
+2008,house,New York,NY,16,,Ali Mohamed,Republican,,3.4,False,False,False
+2008,house,New York,NY,17,,Eliot Engel,Democratic,,79.9,True,True,False
+2008,house,New York,NY,17,,Robert Goodman,Republican,,20.1,False,False,False
+2008,house,New York,NY,18,,Nita Lowey,Democratic,,68.5,True,True,False
+2008,house,New York,NY,18,,James Russell,Republican,,31.5,False,False,False
+2008,house,New York,NY,19,,John Hall,Democratic,,58.7,True,False,False
+2008,house,New York,NY,19,,Kieran Lalor,Republican,,41.3,False,False,False
+2008,house,New York,NY,20,,Kirsten Gillibrand,Democratic,,62.1,True,True,False
+2008,house,New York,NY,20,,Sandy Treadwell,Republican,,37.9,False,False,False
+2008,house,New York,NY,21,275872,Paul Tonko,Democratic,342572,62.1,True,False,True
+2008,house,New York,NY,21,275872,James Buhrmaster,Republican,,35.0,False,False,True
+2008,house,New York,NY,21,275872,Phillip Steck,Independence,,2.9,False,False,True
+2008,house,New York,NY,22,,Maurice Hinchey,Democratic,,66.3,True,True,False
+2008,house,New York,NY,22,,George Phillips,Republican,,33.7,False,False,False
+2008,house,New York,NY,23,218924,John M. McHugh,Republican,,65.3,True,True,False
+2008,house,New York,NY,23,218924,Michael Oot,Democratic,151742,34.7,False,False,False
+2008,house,New York,NY,24,251692,Mike Arcuri,Democratic,,52.0,True,True,False
+2008,house,New York,NY,24,251692,Richard Hanna,Republican,241760,48.0,False,False,False
+2008,house,New York,NY,25,268624,Dan Maffei,Democratic,146411,54.8,True,False,True
+2008,house,New York,NY,25,268624,Dale Sweetland,Republican,113358,41.9,False,False,True
+2008,house,New York,NY,25,268624,Howie Hawkins,Green,8855,3.3,False,False,True
+2008,house,New York,NY,26,270326,Chris Lee,Republican,148607,55.0,True,False,True
+2008,house,New York,NY,26,270326,Alice Kryzan,Democratic,109615,40.5,False,False,True
+2008,house,New York,NY,26,270326,Jon Powers,Working Families,12104,4.5,False,False,True
+2008,house,New York,NY,27,,Brian Higgins,Democratic,,74.4,True,True,False
+2008,house,New York,NY,27,,Daniel Humiston,Republican,,22.6,False,False,False
+2008,house,New York,NY,27,,Harold Schroeder,Conservative,,3.0,False,False,False
+2008,house,New York,NY,28,,Louise Slaughter,Democratic,,78.0,True,True,False
+2008,house,New York,NY,28,,David Crimmen,Republican,,22.0,False,False,False
+2008,house,New York,NY,29,,Eric Massa,Democratic,,51.0,True,False,False
+2008,house,New York,NY,29,,Randy Kuhl,Republican,,49.0,False,True,False
+2008,house,North Carolina,NC,1,274271,G. K. Butterfield,Democratic,192765,70.3,True,True,False
+2008,house,North Carolina,NC,1,274271,Dean Stephens,Republican,81506,29.7,False,False,False
+2008,house,North Carolina,NC,2,298430,Bob Etheridge,Democratic,199730,66.9,True,True,False
+2008,house,North Carolina,NC,2,298430,Dan Mansell,Republican,93323,31.3,False,False,False
+2008,house,North Carolina,NC,2,298430,Will Adkins,Libertarian,5377,1.8,False,False,False
+2008,house,North Carolina,NC,3,306050,Walter B. Jones Jr.,Republican,201686,65.9,True,True,False
+2008,house,North Carolina,NC,3,306050,Craig Weber,Democratic,104364,34.1,False,False,False
+2008,house,North Carolina,NC,4,419698,David Price,Democratic,265751,63.3,True,False,False
+2008,house,North Carolina,NC,5,326923,Virginia Foxx,Republican,190820,58.4,True,True,False
+2008,house,North Carolina,NC,5,326923,Roy Carter,Democratic,136103,41.6,False,False,False
+2008,house,North Carolina,NC,6,329891,Howard Coble,Republican,221018,67.0,True,True,False
+2008,house,North Carolina,NC,6,329891,Teresa Sue Bratton,Democratic,108873,33.0,False,False,False
+2008,house,North Carolina,NC,7,312855,Mike McIntyre,Democratic,215383,68.8,True,True,False
+2008,house,North Carolina,NC,7,312855,Will Breazeale,Republican,97472,31.2,False,False,False
+2008,house,North Carolina,NC,8,283819,Larry Kissell,Democratic,157185,55.4,True,False,False
+2008,house,North Carolina,NC,8,283819,Robin Hayes,Republican,126634,44.6,False,True,False
+2008,house,North Carolina,NC,9,386483,Sue Myrick,Republican,241053,62.4,True,True,False
+2008,house,North Carolina,NC,9,386483,Harry Taylor,Democratic,138719,35.9,False,False,False
+2008,house,North Carolina,NC,9,386483,Andy Grum,Libertarian,6711,1.7,False,False,False
+2008,house,North Carolina,NC,10,298473,Patrick McHenry,Republican,171774,57.6,True,True,False
+2008,house,North Carolina,NC,10,298473,Daniel Johnson,Democratic,126699,42.4,False,False,False
+2008,house,North Carolina,NC,11,340716,Heath Shuler,Democratic,211112,62.0,True,True,False
+2008,house,North Carolina,NC,11,340716,Carl Mumpower,Republican,122087,35.8,False,False,False
+2008,house,North Carolina,NC,11,340716,Keith Smith,Libertarian,7517,2.2,False,False,False
+2008,house,North Carolina,NC,12,301722,Mel Watt,Democratic,215908,71.6,True,True,False
+2008,house,North Carolina,NC,12,301722,Ty Cobb,Republican,,28.4,False,False,False
+2008,house,North Carolina,NC,13,335762,Brad Miller,Democratic,221379,65.9,True,False,False
+2008,house,North Carolina,NC,13,335762,Hugh Webster,Republican,114383,34.1,False,False,False
+2008,house,North Dakota,ND,AL,313965,Earl Pomeroy,Democratic-NPL,194577,62.0,True,True,False
+2008,house,North Dakota,ND,AL,313965,Duane Sand,Republican,119388,38.0,False,False,False
+2008,house,Ohio,OH,1,295558,Steve Driehaus,Democratic,155089,52.4,True,False,False
+2008,house,Ohio,OH,1,295558,Steve Chabot,Republican,140469,47.5,False,True,False
+2008,house,Ohio,OH,2,331594,Jean Schmidt,Republican,148671,44.8,True,True,False
+2008,house,Ohio,OH,2,331594,Victoria Wulsin,Democratic,,37.5,False,False,False
+2008,house,Ohio,OH,2,331594,David Krikorian,Independent,58710,17.7,False,False,False
+2008,house,Ohio,OH,3,316180,Mike Turner,Republican,200204,63.3,True,True,False
+2008,house,Ohio,OH,3,316180,Jane Mitakides,Democratic,115976,36.7,False,False,False
+2008,house,Ohio,OH,4,216636,Jim Jordan,Republican,186140,65.2,True,False,False
+2008,house,Ohio,OH,4,216636,Mike Carroll,Democratic,99491,34.8,False,False,False
+2008,house,Ohio,OH,5,294745,Bob Latta,Republican,188905,64.1,True,True,False
+2008,house,Ohio,OH,5,294745,George Mays,Democratic,105840,35.9,False,False,False
+2008,house,Ohio,OH,6,295685,Charlie Wilson,Democratic,188905,62.3,True,False,False
+2008,house,Ohio,OH,6,295685,Dick Stobbs,Republican,,32.8,False,False,False
+2008,house,Ohio,OH,6,295685,Dennis Spisak,Green,13812,4.9,False,False,False
+2008,house,Ohio,OH,7,300462,Steve Austria,Republican,174915,58.2,True,False,True
+2008,house,Ohio,OH,7,300462,Sharen Neuhardt,Democratic,,41.8,False,False,True
+2008,house,Ohio,OH,8,297573,John Boehner,Republican,202063,67.9,True,True,False
+2008,house,Ohio,OH,8,297573,Nick von Stein,Democratic,,32.1,False,False,False
+2008,house,Ohio,OH,9,298566,Marcy Kaptur,Democratic,222054,74.4,True,True,False
+2008,house,Ohio,OH,9,298566,Bradley Leavitt,Republican,,25.6,False,False,False
+2008,house,Ohio,OH,10,275809,Dennis Kucinich,Democratic,157268,57.0,True,True,False
+2008,house,Ohio,OH,10,275809,Jim Trakas,Republican,107918,39.1,False,False,False
+2008,house,Ohio,OH,10,275809,Paul Conroy,Libertarian,10623,3.9,False,False,False
+2008,house,Ohio,OH,11,175973,Marcia Fudge,Democratic,,85.2,True,False,True
+2008,house,Ohio,OH,11,175973,Thomas Pekarek,Republican,36705,14.7,False,False,True
+2008,house,Ohio,OH,12,360388,Pat Tiberi,Republican,197447,54.8,True,True,False
+2008,house,Ohio,OH,12,360388,David Robinson,Democratic,152234,42.2,False,False,False
+2008,house,Ohio,OH,12,360388,Steven Linnabary,Libertarian,,3.0,False,False,False
+2008,house,Ohio,OH,13,293608,Betty Sutton,Democratic,189542,64.5,True,True,False
+2008,house,Ohio,OH,13,293608,David Potter,Republican,104066,35.4,False,False,False
+2008,house,Ohio,OH,14,323213,Steve LaTourette,Republican,188488,58.3,True,True,False
+2008,house,Ohio,OH,14,323213,William O'Neill,Democratic,,38.7,False,False,False
+2008,house,Ohio,OH,14,323213,David Macko,Libertarian,,2.9,False,False,False
+2008,house,Ohio,OH,15,304978,Mary Jo Kilroy,Democratic,139584,45.9,True,False,True
+2008,house,Ohio,OH,15,304978,Steve Stivers,Republican,137272,45.2,False,False,True
+2008,house,Ohio,OH,15,304978,Mark Michael Noble,Libertarian,,4.6,False,False,True
+2008,house,Ohio,OH,15,304978,Don Elijah Eckhart,Independent,12915,4.3,False,False,True
+2008,house,Ohio,OH,16,305337,John Boccieri,Democratic,169044,55.4,True,False,True
+2008,house,Ohio,OH,16,305337,Kirk Schuring,Republican,136293,44.6,False,False,True
+2008,house,Ohio,OH,17,278316,Tim Ryan,Democratic,217556,78.2,True,False,False
+2008,house,Ohio,OH,17,278316,Duane Grassell,Republican,60760,21.8,False,False,False
+2008,house,Ohio,OH,18,278316,Zack Space,Democratic,164150,59.9,True,True,False
+2008,house,Ohio,OH,18,278316,Fred Dailey,Republican,110001,40.1,False,False,False
+2008,house,Oklahoma,OK,1,292294,John Sullivan,Republican,,66.2,True,False,False
+2008,house,Oklahoma,OK,1,292294,Georgianna Oliver,Democratic,98890,33.8,False,False,False
+2008,house,Oklahoma,OK,2,246572,Dan Boren,Democratic,,70.5,True,True,False
+2008,house,Oklahoma,OK,2,246572,Raymond Wickson,Republican,,29.5,False,False,False
+2008,house,Oklahoma,OK,3,264359,Frank Lucas,Republican,,69.7,True,True,False
+2008,house,Oklahoma,OK,3,264359,Frankie Robbins,Democratic,62297,23.6,False,False,False
+2008,house,Oklahoma,OK,3,264359,Forrest Michael,Independent,17756,6.7,False,False,False
+2008,house,Oklahoma,OK,4,272871,Tom Cole,Republican,,66.0,True,True,False
+2008,house,Oklahoma,OK,4,272871,Blake Cummings,Democratic,79764,29.2,False,False,False
+2008,house,Oklahoma,OK,4,272871,David E. Joyce,Independent,13027,4.8,False,False,False
+2008,house,Oklahoma,OK,5,260921,Mary Fallin,Republican,,65.9,True,True,False
+2008,house,Oklahoma,OK,5,260921,Stephen L. Perry,Democratic,,34.1,False,False,False
+2008,house,Oregon,OR,1,332248,David Wu,Democratic,237567,71.5,True,True,False
+2008,house,Oregon,OR,1,332248,Joel Haugen,Independent,58279,17.5,False,False,False
+2008,house,Oregon,OR,1,332248,Scott Semrau,Constitution,14172,4.3,False,False,False
+2008,house,Oregon,OR,1,332248,H. Joe Tabor,Libertarian,10992,3.3,False,False,False
+2008,house,Oregon,OR,1,332248,Chris Henry,Pacific Green,7128,2.1,False,False,False
+2008,house,Oregon,OR,2,340379,Greg Walden,Republican,236560,69.5,True,True,False
+2008,house,Oregon,OR,2,340379,Noah Lemas,Democratic,87649,25.8,False,False,False
+2008,house,Oregon,OR,2,340379,Tristin Mock,Pacific Green,9668,2.8,False,False,False
+2008,house,Oregon,OR,2,340379,Richard Hake,Constitution,,1.7,False,False,False
+2008,house,Oregon,OR,3,341062,Earl Blumenauer,Democratic,254235,74.5,True,True,False
+2008,house,Oregon,OR,3,341062,Delia Lopez,Republican,71063,20.8,False,False,False
+2008,house,Oregon,OR,3,341062,Michael Meo,Pacific Green,15063,4.4,False,False,False
+2008,house,Oregon,OR,4,334146,Peter DeFazio,Democratic,275143,82.3,True,True,False
+2008,house,Oregon,OR,4,334146,Jaynee Germond,Constitution,43133,12.9,False,False,False
+2008,house,Oregon,OR,4,334146,Mike Beilstein,Pacific Green,13162,3.9,False,False,False
+2008,house,Oregon,OR,5,334674,Kurt Schrader,Democratic,181577,54.3,True,False,True
+2008,house,Oregon,OR,5,334674,Mike Erickson,Republican,128297,38.3,False,False,True
+2008,house,Oregon,OR,5,334674,Sean Bates,Independent,6830,2.0,False,False,True
+2008,house,Oregon,OR,5,334674,Douglas Patterson,Constitution,6558,2.0,False,False,True
+2008,house,Oregon,OR,5,334674,Alex Polikoff,Pacific Green,5272,1.6,False,False,True
+2008,house,Oregon,OR,5,334674,Steve Milligan,Libertarian,4814,1.4,False,False,True
+2008,house,Pennsylvania,PA,1,267513,Bob Brady,Democratic,242799,90.8,True,True,False
+2008,house,Pennsylvania,PA,1,267513,Mike Muhammad,Republican,24714,9.2,False,False,False
+2008,house,Pennsylvania,PA,2,311336,Chaka Fattah,Democratic,276870,88.9,True,True,False
+2008,house,Pennsylvania,PA,2,311336,Adam Lang,Republican,34466,11.1,False,False,False
+2008,house,Pennsylvania,PA,3,286603,Kathy Dahlkemper,Democratic,146846,51.2,True,False,False
+2008,house,Pennsylvania,PA,3,286603,Phil English,Republican,139757,48.8,False,True,False
+2008,house,Pennsylvania,PA,4,333947,Jason Altmire,Democratic,186536,55.9,True,True,False
+2008,house,Pennsylvania,PA,4,333947,Melissa Hart,Republican,147411,44.1,False,False,False
+2008,house,Pennsylvania,PA,5,274177,Glenn Thompson,Republican,155513,56.7,True,False,True
+2008,house,Pennsylvania,PA,5,274177,Mark McCracken,Democratic,112509,41.0,False,False,True
+2008,house,Pennsylvania,PA,5,274177,James Fryman,Libertarian,6155,2.2,False,False,True
+2008,house,Pennsylvania,PA,6,344375,Jim Gerlach,Republican,179423,52.1,True,True,False
+2008,house,Pennsylvania,PA,6,344375,Bob Roggio,Democratic,164952,47.9,False,False,False
+2008,house,Pennsylvania,PA,7,352317,Joe Sestak,Democratic,209955,59.6,True,True,False
+2008,house,Pennsylvania,PA,7,352317,Craig Williams,Republican,,40.4,False,False,False
+2008,house,Pennsylvania,PA,8,348515,Patrick Murphy,Democratic,197869,56.8,True,False,False
+2008,house,Pennsylvania,PA,8,348515,Tom Manion,Republican,145103,41.6,False,False,False
+2008,house,Pennsylvania,PA,8,348515,Tom Lingenfelter,Independent,5543,1.6,False,False,False
+2008,house,Pennsylvania,PA,9,273686,Bill Shuster,Republican,174951,63.9,True,True,False
+2008,house,Pennsylvania,PA,9,273686,Tony Barr,Democratic,98735,36.1,False,False,False
+2008,house,Pennsylvania,PA,10,285518,Chris Carney,Democratic,160837,56.3,True,True,False
+2008,house,Pennsylvania,PA,10,285518,Chris Hackett,Republican,124681,43.7,False,False,False
+2008,house,Pennsylvania,PA,11,283530,Paul Kanjorski,Democratic,146379,51.6,True,True,False
+2008,house,Pennsylvania,PA,11,283530,Lou Barletta,Republican,137151,48.4,False,False,False
+2008,house,Pennsylvania,PA,12,268388,John Murtha,Democratic,155268,57.9,True,True,False
+2008,house,Pennsylvania,PA,12,268388,William Russell,Republican,113120,42.1,False,False,False
+2008,house,Pennsylvania,PA,13,313513,Allyson Schwartz,Democratic,196868,62.8,True,True,False
+2008,house,Pennsylvania,PA,13,313513,John McDermott,Constitution,8374,2.7,False,False,False
+2008,house,Pennsylvania,PA,14,265540,Mike Doyle,Democratic,242326,91.3,True,True,False
+2008,house,Pennsylvania,PA,14,265540,Titus North,Green,23214,8.7,False,False,False
+2008,house,Pennsylvania,PA,15,309766,Charlie Dent,Republican,181433,58.6,True,True,False
+2008,house,Pennsylvania,PA,15,309766,Sam Bennett,Democratic,128333,41.4,False,False,False
+2008,house,Pennsylvania,PA,16,305167,Joe Pitts,Republican,170329,55.8,True,True,False
+2008,house,Pennsylvania,PA,16,305167,Bruce Slater,Democratic,120193,39.4,False,False,False
+2008,house,Pennsylvania,PA,16,305167,John Murphy,Independent,11768,3.9,False,False,False
+2008,house,Pennsylvania,PA,16,305167,Daniel Frank,Constitution,,0.9,False,False,False
+2008,house,Pennsylvania,PA,17,302608,Tim Holden,Democratic,192699,63.7,True,True,False
+2008,house,Pennsylvania,PA,17,302608,Toni Gilhooley,Republican,109909,36.3,False,False,False
+2008,house,Pennsylvania,PA,18,333010,Tim Murphy,Republican,213349,64.1,True,False,False
+2008,house,Pennsylvania,PA,18,333010,Steve O'Donnell,Democratic,119661,35.9,False,False,False
+2008,house,Pennsylvania,PA,19,328395,Todd Platts,Republican,218862,66.6,True,True,False
+2008,house,Pennsylvania,PA,19,328395,Phil Avillo,Democratic,,33.4,False,False,False
+2008,house,Rhode Island,RI,1,211998,Patrick J. Kennedy,Democratic,,68.6,True,True,False
+2008,house,Rhode Island,RI,1,211998,Jonathan Scott,Republican,,24.3,False,False,False
+2008,house,Rhode Island,RI,1,211998,Kenneth Capalbo,Independent,,7.1,False,False,False
+2008,house,Rhode Island,RI,2,226234,Jim Langevin,Democratic,,70.1,True,True,False
+2008,house,Rhode Island,RI,2,226234,Mark Zaccaria,Republican,67433,29.9,False,False,False
+2008,house,South Carolina,SC,1,341879,Henry Brown,Republican,,51.9,True,True,False
+2008,house,South Carolina,SC,1,341879,Linda Ketner,Democratic,163724,47.9,False,False,False
+2008,house,South Carolina,SC,2,343486,Joe Wilson,Republican,184583,53.7,True,True,False
+2008,house,South Carolina,SC,2,343486,Robert Miller,Democratic,,46.2,False,False,False
+2008,house,South Carolina,SC,3,288741,Gresham Barrett,Republican,,64.7,True,True,False
+2008,house,South Carolina,SC,3,288741,Jane Ballard Dyer,Democratic,101724,35.2,False,False,False
+2008,house,South Carolina,SC,4,306928,Bob Inglis,Republican,184440,60.1,True,True,True
+2008,house,South Carolina,SC,4,306928,Paul Corden,Democratic,113291,36.9,False,False,True
+2008,house,South Carolina,SC,4,306928,C. Faye Walters,Green,7332,2.4,False,False,True
+2008,house,South Carolina,SC,5,306285,John Spratt,Democratic,188785,61.6,True,True,False
+2008,house,South Carolina,SC,5,306285,Albert F. Spencer,Republican,,37.0,False,False,False
+2008,house,South Carolina,SC,5,306285,Frank Waggoner,Constitution,4093,1.3,False,False,False
+2008,house,South Carolina,SC,6,286571,Jim Clyburn,Democratic,193378,67.5,True,True,False
+2008,house,South Carolina,SC,6,286571,Nancy Harrelson,Republican,93059,32.5,False,False,False
+2008,house,South Dakota,SD,AL,379007,Stephanie Herseth Sandlin,Democratic,256041,67.6,True,True,False
+2008,house,South Dakota,SD,AL,379007,Chris Lien,Republican,122966,32.4,False,False,False
+2008,house,Tennessee,TN,1,234381,Phil Roe,Republican,168343,71.8,True,False,False
+2008,house,Tennessee,TN,1,234381,Rob Russell,Democratic,57525,24.5,False,False,False
+2008,house,Tennessee,TN,1,234381,Joel Goodman,Independent,3988,1.7,False,False,False
+2008,house,Tennessee,TN,1,234381,James Reeves,Independent,,1.1,False,False,False
+2008,house,Tennessee,TN,1,234381,Thomas Owens,Independent,,0.8,False,False,False
+2008,house,Tennessee,TN,2,290759,Jimmy Duncan,Republican,,78.1,True,False,False
+2008,house,Tennessee,TN,2,290759,Bob Scott,Democratic,63639,21.9,False,False,False
+2008,house,Tennessee,TN,3,266628,Zach Wamp,Republican,,69.4,True,True,False
+2008,house,Tennessee,TN,3,266628,Doug Vandagriff,Democratic,73059,27.4,False,False,False
+2008,house,Tennessee,TN,3,266628,Jean Howard-Hill,Independent,4848,1.8,False,False,False
+2008,house,Tennessee,TN,3,266628,Ed Choate,Independent,3750,1.4,False,False,False
+2008,house,Tennessee,TN,4,249805,Lincoln Davis,Democratic,,58.8,True,True,False
+2008,house,Tennessee,TN,4,249805,Monty Lankford,Republican,,37.8,False,False,False
+2008,house,Tennessee,TN,4,249805,James Anthony Gray,Independent,4869,1.9,False,False,False
+2008,house,Tennessee,TN,4,249805,Kevin Ragsdale,Independent,3713,1.5,False,False,False
+2008,house,Tennessee,TN,5,275602,Jim Cooper,Democratic,,65.9,True,True,True
+2008,house,Tennessee,TN,5,275602,Gerard Donovan,Republican,85471,31.0,False,False,True
+2008,house,Tennessee,TN,5,275602,Jon Jackson,Independent,5464,2.0,False,False,True
+2008,house,Tennessee,TN,5,275602,John Miglietta,Green,,1.2,False,False,True
+2008,house,Tennessee,TN,6,261028,Bart Gordon,Democratic,,74.4,True,True,False
+2008,house,Tennessee,TN,6,261028,Chris Baker,Independent,66764,25.6,False,False,False
+2008,house,Tennessee,TN,7,316881,Marsha Blackburn,Republican,,68.6,True,True,False
+2008,house,Tennessee,TN,7,316881,Randy Morris,Democratic,,31.4,False,False,False
+2008,house,Tennessee,TN,8,180519,John Tanner,Democratic,,100.0,True,False,False
+2008,house,Tennessee,TN,9,226282,Steve Cohen,Democratic,,87.9,True,True,False
+2008,house,Tennessee,TN,9,226282,Jake Ford,Independent,11003,4.9,False,False,False
+2008,house,Tennessee,TN,9,226282,Dewey Clark,Independent,10047,4.4,False,False,False
+2008,house,Tennessee,TN,9,226282,Mary Wright,Independent,,2.8,False,False,False
+2008,house,Texas,TX,1,215826,Louie Gohmert,Republican,189012,87.6,True,True,False
+2008,house,Texas,TX,1,215826,Roger Owen,Independent,,12.4,False,False,False
+2008,house,Texas,TX,2,196914,Ted Poe,Republican,175101,88.9,True,True,False
+2008,house,Texas,TX,2,196914,Craig Wolfe,Libertarian,21813,11.1,False,False,False
+2008,house,Texas,TX,3,285783,Sam Johnson,Republican,170742,59.7,True,True,False
+2008,house,Texas,TX,3,285783,Tom Daley,Democratic,108693,38.0,False,False,False
+2008,house,Texas,TX,3,285783,Christopher J. Claytor,Libertarian,6348,2.2,False,False,False
+2008,house,Texas,TX,4,300744,Ralph Hall,Republican,,68.8,True,True,False
+2008,house,Texas,TX,4,300744,Glenn Melancon,Democratic,88067,29.3,False,False,False
+2008,house,Texas,TX,4,300744,Fred Annett,Libertarian,5771,1.9,False,False,False
+2008,house,Texas,TX,5,194861,Jeb Hensarling,Republican,162894,83.6,True,True,False
+2008,house,Texas,TX,5,194861,Ken Ashby,Libertarian,31967,16.4,False,False,False
+2008,house,Texas,TX,6,280582,Joe Barton,Republican,174008,62.0,True,True,False
+2008,house,Texas,TX,6,280582,Ludwig Otto,Democratic,99919,35.6,False,False,False
+2008,house,Texas,TX,6,280582,Max Koch,Libertarian,6655,2.4,False,False,False
+2008,house,Texas,TX,7,290934,John Culberson,Republican,162635,55.9,True,True,False
+2008,house,Texas,TX,7,290934,Michael Skelly,Democratic,123242,42.4,False,False,False
+2008,house,Texas,TX,7,290934,Drew P. Parks,Libertarian,,1.7,False,False,False
+2008,house,Texas,TX,8,285451,Kevin Brady,Republican,207128,72.6,True,True,False
+2008,house,Texas,TX,8,285451,Kent Hargett,Democratic,70758,24.8,False,False,False
+2008,house,Texas,TX,8,285451,Brian Stevens,Libertarian,7565,2.7,False,False,False
+2008,house,Texas,TX,9,153628,Al Green,Democratic,143868,93.6,True,False,False
+2008,house,Texas,TX,9,153628,Brad Walters,Libertarian,9760,6.4,False,False,False
+2008,house,Texas,TX,10,333083,Michael McCaul,Republican,179493,53.9,True,True,False
+2008,house,Texas,TX,10,333083,Larry Joe Doherty,Democratic,143719,43.1,False,False,False
+2008,house,Texas,TX,10,333083,Matt Finkel,Libertarian,9871,3.0,False,False,False
+2008,house,Texas,TX,11,214676,Mike Conaway,Republican,189625,88.3,True,True,False
+2008,house,Texas,TX,11,214676,John Strohm,Libertarian,25051,11.7,False,False,False
+2008,house,Texas,TX,12,268754,Kay Granger,Republican,181662,67.6,True,True,False
+2008,house,Texas,TX,12,268754,Tracey Smith,Democratic,82250,30.6,False,False,False
+2008,house,Texas,TX,12,268754,Shiloh Sidney Shambaugh,Libertarian,4842,1.8,False,False,False
+2008,house,Texas,TX,13,231919,Mac Thornberry,Republican,180078,77.6,True,True,False
+2008,house,Texas,TX,13,231919,Roger Waun,Democratic,,22.4,False,False,False
+2008,house,Texas,TX,14,191293,Ron Paul,Republican,191293,100.0,True,True,True
+2008,house,Texas,TX,15,163708,Rubén Hinojosa,Democratic,,65.7,True,True,False
+2008,house,Texas,TX,15,163708,Eddie Zamora,Republican,52303,31.9,False,False,False
+2008,house,Texas,TX,15,163708,Gricha Raether,Libertarian,3827,2.3,False,False,False
+2008,house,Texas,TX,16,158723,Silvestre Reyes,Democratic,130375,82.1,True,True,False
+2008,house,Texas,TX,16,158723,Mette Baker,Libertarian,12000,10.3,False,False,False
+2008,house,Texas,TX,16,158723,Ben Mendoza,Independent,,7.6,False,False,False
+2008,house,Texas,TX,17,254022,Chet Edwards,Democratic,134592,53.0,True,True,False
+2008,house,Texas,TX,17,254022,Rob Curnock,Republican,115581,45.5,False,False,False
+2008,house,Texas,TX,17,254022,Gardner Osborne,Libertarian,3849,1.5,False,False,False
+2008,house,Texas,TX,18,192198,Sheila Jackson Lee,Democratic,148617,77.3,True,True,False
+2008,house,Texas,TX,18,192198,John Faulk,Republican,39095,20.3,False,False,False
+2008,house,Texas,TX,18,192198,Mike Taylor,Libertarian,4486,2.3,False,False,False
+2008,house,Texas,TX,19,232611,Randy Neugebauer,Republican,168501,72.4,True,True,False
+2008,house,Texas,TX,19,232611,Dwight Fullingim,Democratic,58030,24.9,False,False,False
+2008,house,Texas,TX,19,232611,Chip Peterson,Libertarian,,2.6,False,False,False
+2008,house,Texas,TX,20,177055,Charlie González,Democratic,,71.9,True,True,False
+2008,house,Texas,TX,20,177055,Robert Litoff,Republican,44585,25.2,False,False,False
+2008,house,Texas,TX,20,177055,Michael Idrogo,Libertarian,5172,2.9,False,False,False
+2008,house,Texas,TX,21,304350,Lamar Smith,Republican,243471,80.0,True,True,False
+2008,house,Texas,TX,21,304350,James Arthur Strohm,Libertarian,60879,20.0,False,False,False
+2008,house,Texas,TX,22,308995,Pete Olson,Republican,161996,52.4,True,False,False
+2008,house,Texas,TX,22,308995,Nick Lampson,Democratic,140160,45.4,False,True,False
+2008,house,Texas,TX,22,308995,John Wieder,Libertarian,6839,2.2,False,False,False
+2008,house,Texas,TX,23,240470,Ciro Rodriguez,Democratic,134090,55.8,True,True,False
+2008,house,Texas,TX,23,240470,Lyle Larson,Republican,100799,41.9,False,False,False
+2008,house,Texas,TX,23,240470,Lani Connolly,Libertarian,5581,2.3,False,False,False
+2008,house,Texas,TX,24,270495,Kenny Marchant,Republican,151434,56.0,True,True,False
+2008,house,Texas,TX,24,270495,Tom Love,Democratic,111089,41.1,False,False,False
+2008,house,Texas,TX,24,270495,David Casey,Libertarian,7972,2.9,False,False,False
+2008,house,Texas,TX,25,291296,Lloyd Doggett,Democratic,191755,65.8,True,True,False
+2008,house,Texas,TX,25,291296,George Morovich,Republican,88693,30.4,False,False,False
+2008,house,Texas,TX,25,291296,Jim Stutsman,Libertarian,10848,3.7,False,False,False
+2008,house,Texas,TX,26,324376,Michael C. Burgess,Republican,,60.2,True,True,False
+2008,house,Texas,TX,26,324376,Ken Leach,Democratic,118167,36.4,False,False,False
+2008,house,Texas,TX,26,324376,Stephanie Weiss,Libertarian,11028,3.4,False,False,False
+2008,house,Texas,TX,27,180951,Solomon Ortiz,Democratic,104864,57.9,True,True,False
+2008,house,Texas,TX,27,180951,Willie Vaden,Republican,,38.4,False,False,False
+2008,house,Texas,TX,27,180951,Robert Powell,Libertarian,,3.7,False,False,False
+2008,house,Texas,TX,28,179470,Henry Cuellar,Democratic,123494,68.7,True,True,False
+2008,house,Texas,TX,28,179470,Jim Fish,Republican,52524,29.2,False,False,False
+2008,house,Texas,TX,28,179470,Ross Lynn Leone,Libertarian,3722,2.1,False,False,False
+2008,house,Texas,TX,29,106794,Gene Green,Democratic,79718,74.6,True,True,False
+2008,house,Texas,TX,29,106794,Eric Story,Republican,25512,23.9,False,False,False
+2008,house,Texas,TX,29,106794,Joel Grace,Libertarian,1564,1.5,False,False,False
+2008,house,Texas,TX,30,203976,Eddie Bernice Johnson,Democratic,168249,82.5,True,True,False
+2008,house,Texas,TX,30,203976,Fred Wood,Republican,32361,15.9,False,False,False
+2008,house,Texas,TX,30,203976,Jarrett R. Woods,Libertarian,,1.6,False,False,False
+2008,house,Texas,TX,31,291304,John Carter,Republican,175563,60.3,True,False,False
+2008,house,Texas,TX,31,291304,Brian Ruiz,Democratic,106559,36.6,False,False,False
+2008,house,Texas,TX,31,291304,Barry Cooper,Libertarian,9182,3.1,False,False,False
+2008,house,Texas,TX,32,203110,Pete Sessions,Republican,116283,57.2,True,True,False
+2008,house,Texas,TX,32,203110,Eric Roberson,Democratic,82406,40.6,False,False,False
+2008,house,Texas,TX,32,203110,Alex Bischoff,Libertarian,4421,2.2,False,False,False
+2008,house,Utah,UT,1,303445,Rob Bishop,Republican,,64.9,True,True,False
+2008,house,Utah,UT,1,303445,Morgan Bowen,Democratic,92469,30.5,False,False,False
+2008,house,Utah,UT,1,303445,Kirk Pearson,Constitution,,2.4,False,False,False
+2008,house,Utah,UT,1,303445,Joseph Geddes Buchman,Libertarian,,2.2,False,False,False
+2008,house,Utah,UT,2,348325,Jim Matheson,Democratic,,63.4,True,True,False
+2008,house,Utah,UT,2,348325,Bill Dew,Republican,120083,34.5,False,False,False
+2008,house,Utah,UT,2,348325,Matthew Arndt,Libertarian,4576,1.3,False,False,False
+2008,house,Utah,UT,2,348325,Dennis Ray Emery,Constitution,3000,0.8,False,False,False
+2008,house,Utah,UT,3,285069,Jason Chaffetz,Republican,187035,65.6,True,False,False
+2008,house,Utah,UT,3,285069,Bennion L. Spencer,Democratic,80626,28.3,False,False,False
+2008,house,Utah,UT,3,285069,Jim Noorlander,Constitution,17408,6.1,False,False,False
+2008,house,Vermont,VT,AL,298151,Peter Welch,Democratic,248203,83.2,True,True,False
+2008,house,Vermont,VT,AL,298151,Mike Bethel,Independent,14349,4.8,False,False,False
+2008,house,Vermont,VT,AL,298151,Jerry Trudell,Independent,10818,3.6,False,False,False
+2008,house,Vermont,VT,AL,298151,Thomas James Herman,Vermont Progressive,,3.0,False,False,False
+2008,house,Vermont,VT,AL,298151,Cris Ericson,Marijuana,7841,2.6,False,False,False
+2008,house,Vermont,VT,AL,298151,Jane Newton,Liberty Union,5307,1.7,False,False,False
+2008,house,Virginia,VA,1,360292,Rob Wittman,Republican,203839,56.6,True,True,False
+2008,house,Virginia,VA,1,360292,Bill Day,Democratic,150432,41.8,False,False,False
+2008,house,Virginia,VA,1,360292,Nathan Larson,Libertarian,5265,1.5,False,False,False
+2008,house,Virginia,VA,2,270711,Glenn Nye,Democratic,141857,52.4,True,False,False
+2008,house,Virginia,VA,2,270711,Thelma Drake,Republican,128486,47.5,False,True,False
+2008,house,Virginia,VA,3,247288,Bobby Scott,Democratic,239911,97.0,True,True,False
+2008,house,Virginia,VA,4,334521,Randy Forbes,Republican,199075,59.6,True,True,False
+2008,house,Virginia,VA,4,334521,Andrea Miller,Democratic,,40.2,False,False,False
+2008,house,Virginia,VA,5,317076,Tom Perriello,Democratic,158810,50.1,True,False,False
+2008,house,Virginia,VA,5,317076,Virgil Goode,Republican,158083,49.9,False,True,False
+2008,house,Virginia,VA,6,312392,Bob Goodlatte,Republican,192350,61.6,True,True,False
+2008,house,Virginia,VA,6,312392,Sam Rasoul,Democratic,114367,36.6,False,False,False
+2008,house,Virginia,VA,6,312392,Janice Lee Allen,Independent,5413,1.7,False,False,False
+2008,house,Virginia,VA,7,372337,Eric Cantor,Republican,233531,62.7,True,True,False
+2008,house,Virginia,VA,7,372337,Anita Hartke,Democratic,,37.1,False,False,False
+2008,house,Virginia,VA,8,328197,Jim Moran,Democratic,222986,67.9,True,True,False
+2008,house,Virginia,VA,8,328197,Mark Ellmore,Republican,,29.7,False,False,False
+2008,house,Virginia,VA,8,328197,J. Ron Fisher,Independent Greens of Virginia,,2.1,False,False,False
+2008,house,Virginia,VA,9,213570,Rick Boucher,Democratic,207306,97.1,True,True,False
+2008,house,Virginia,VA,10,379480,Frank Wolf,Republican,223140,58.8,True,False,False
+2008,house,Virginia,VA,10,379480,Judy Feder,Democratic,,38.8,False,False,False
+2008,house,Virginia,VA,10,379480,Neeraj Nigam,Independent,,2.2,False,False,False
+2008,house,Virginia,VA,11,359491,Gerry Connolly,Democratic,196598,54.7,True,False,True
+2008,house,Virginia,VA,11,359491,Keith Fimian,Republican,,43.0,False,False,True
+2008,house,Virginia,VA,11,359491,Joseph Oddo,Independent Greens of Virginia,,2.0,False,False,True
+2008,house,Washington,WA,1,345020,Jay Inslee,Democratic,233780,67.8,True,True,False
+2008,house,Washington,WA,1,345020,Larry Ishmael,Republican,111240,32.2,False,False,False
+2008,house,Washington,WA,2,348467,Rick Larsen,Democratic,217416,62.4,True,True,False
+2008,house,Washington,WA,2,348467,Rick Bart,Republican,131051,37.6,False,False,False
+2008,house,Washington,WA,3,338529,Brian Baird,Democratic,216701,64.0,True,True,False
+2008,house,Washington,WA,3,338529,Michael Delavar,Republican,121828,36.0,False,False,False
+2008,house,Washington,WA,4,269370,Doc Hastings,Republican,169940,63.1,True,True,False
+2008,house,Washington,WA,4,269370,George Fearing,Democratic,99430,36.9,False,False,False
+2008,house,Washington,WA,5,323687,Cathy McMorris Rodgers,Republican,211305,65.3,True,True,False
+2008,house,Washington,WA,5,323687,Mark Mays,Democratic,112382,34.7,False,False,False
+2008,house,Washington,WA,6,308072,Norm Dicks,Democratic,205991,66.9,True,True,False
+2008,house,Washington,WA,6,308072,Doug Cloud,Republican,102081,33.1,False,False,False
+2008,house,Washington,WA,7,349017,Jim McDermott,Democratic,291963,83.6,True,True,False
+2008,house,Washington,WA,7,349017,Steve Beren,Republican,57054,16.4,False,False,False
+2008,house,Washington,WA,8,362926,Dave Reichert,Republican,191568,52.8,True,True,False
+2008,house,Washington,WA,8,362926,Darcy Burner,Democratic,171358,47.2,False,False,False
+2008,house,Washington,WA,9,269375,Adam Smith,Democratic,176295,65.5,True,True,False
+2008,house,Washington,WA,9,269375,James Postma,Republican,93080,34.5,False,False,False
+2008,house,West Virginia,WV,1,187864,Alan Mollohan,Democratic,187734,99.9,True,True,False
+2008,house,West Virginia,WV,2,258169,Shelley Moore Capito,Republican,147334,57.1,True,True,False
+2008,house,West Virginia,WV,2,258169,Anne Barth,Democratic,110819,42.9,False,False,False
+2008,house,West Virginia,WV,3,199527,Nick Rahall,Democratic,133522,66.9,True,True,False
+2008,house,West Virginia,WV,3,199527,Marty Gearheart,Republican,66005,33.1,False,False,False
+2008,house,Wisconsin,WI,1,361107,Paul Ryan,Republican,,64.0,True,True,False
+2008,house,Wisconsin,WI,1,361107,Marge Krupp,Democratic,125268,34.7,False,False,False
+2008,house,Wisconsin,WI,1,361107,Joseph Kexel,Libertarian,4606,1.3,False,False,False
+2008,house,Wisconsin,WI,2,400841,Tammy Baldwin,Democratic,,69.3,True,True,False
+2008,house,Wisconsin,WI,2,400841,Peter Theron,Republican,122513,30.6,False,False,False
+2008,house,Wisconsin,WI,3,356400,Ron Kind,Democratic,,63.2,True,True,False
+2008,house,Wisconsin,WI,3,356400,Paul Stark,Republican,122760,34.4,False,False,False
+2008,house,Wisconsin,WI,3,356400,Kevin Barrett,Libertarian,8236,2.3,False,False,False
+2008,house,Wisconsin,WI,4,254179,Gwen Moore,Democratic,,87.6,True,True,False
+2008,house,Wisconsin,WI,4,254179,Michael LaForest,Independent,,11.5,False,False,False
+2008,house,Wisconsin,WI,5,345899,Jim Sensenbrenner,Republican,,79.6,True,True,False
+2008,house,Wisconsin,WI,5,345899,Robert R. Raymond,Independent,69715,20.2,False,False,False
+2008,house,Wisconsin,WI,6,348264,Tom Petri,Republican,,63.7,True,True,False
+2008,house,Wisconsin,WI,6,348264,Roger Kittelson,Democratic,,36.2,False,False,False
+2008,house,Wisconsin,WI,7,349837,Dave Obey,Democratic,,60.8,True,True,False
+2008,house,Wisconsin,WI,7,349837,Dan Mielke,Republican,136938,39.1,False,False,False
+2008,house,Wisconsin,WI,8,358647,Steve Kagen,Democratic,,54.0,True,True,False
+2008,house,Wisconsin,WI,8,358647,John Gard,Republican,164621,45.9,False,False,False
+2008,house,Wyoming,WY,AL,249395,Cynthia Lummis,Republican,131244,52.6,True,False,True
+2008,house,Wyoming,WY,AL,249395,Gary Trauner,Democratic,106758,42.8,False,False,True
+2008,house,Wyoming,WY,AL,249395,W. David Herbert,Libertarian,11030,4.4,False,False,True
+2008,house,American Samoa,AM,AL,,Eni Faleomavaega,Democratic,,60.4,True,True,False
+2008,house,American Samoa,AM,AL,,Amata Coleman Radewagen,Republican,,35.0,False,False,False
+2008,house,American Samoa,AM,AL,,Rosie F. Tago Lancaster,Independent,,4.6,False,False,False
+2008,house,District of Columbia,DC,AL,,Eleanor Holmes Norton,Democratic,,92.3,True,True,False
+2008,house,District of Columbia,DC,AL,,Maude Hills,Green,,6.8,False,False,False
+2008,house,Guam,GU,AL,,Madeleine Bordallo,Democratic,,100.0,True,True,False
+2008,house,Northern Mariana Islands,NO,AL,,Gregorio Sablan,Independent,,24.5,True,False,True
+2008,house,Northern Mariana Islands,NO,AL,,Pedro Tenorio,Republican,,20.7,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,John Gonzales,Independent,,18.7,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,Juan Lizama,Independent,,17.3,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,Luis Cristostimo,Independent,,9.5,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,David Cing,Democratic,,2.9,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,Felipe Atalig,Independent,,2.5,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,Chong Won,Independent,,2.4,False,False,True
+2008,house,Northern Mariana Islands,NO,AL,,John Davis,Independent,,1.5,False,False,True
+2008,house,Puerto Rico,PU,AL,,Pedro Pierluisi,New Progressive Party (Puerto Rico),,53.1,True,False,True
+2008,house,Puerto Rico,PU,AL,,Alfredo Salazar,Popular Democratic Party (Puerto Rico),,42.5,False,False,True
+2008,house,Puerto Rico,PU,AL,,Carlos Alberto Velazquez Lopez,Puerto Ricans for Puerto Rico,,2.4,False,False,True
+2008,house,Puerto Rico,PU,AL,,Jessica Martinez,Puerto Rican Independence,,2.0,False,False,True
+2008,house,U.S. Virgin Islands,U.,AL,,Donna Christensen,Democratic,,99.6,True,True,False

@@ -1,860 +1,895 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-1964,house,Alabama,AL,1,Jack Edwards,Republican,59.9,True,False,True
-1964,house,Alabama,AL,1,John M. Tyson,Democratic,40.1,False,False,True
-1964,house,Alabama,AL,2,William L. Dickinson,Republican,61.7,True,False,False
-1964,house,Alabama,AL,2,George M. Grant,Democratic,36.6,False,False,False
-1964,house,Alabama,AL,2,George Rivers,Independent,1.7,False,False,False
-1964,house,Alabama,AL,3,George W. Andrews,Democratic,100.0,True,False,False
-1964,house,Alabama,AL,4,Glenn Andrews,Republican,58.6,True,False,False
-1964,house,Alabama,AL,4,Kenneth A. Roberts,Democratic,40.6,False,False,False
-1964,house,Alabama,AL,4,Rod Lumley,Independent,0.9,False,False,False
-1964,house,Alabama,AL,5,Armistead I. Selden Jr.,Democratic,53.0,True,False,False
-1964,house,Alabama,AL,5,Robert French,Republican,47.0,False,False,False
-1964,house,Alabama,AL,6,John H. Buchanan Jr.,Republican,60.6,True,False,False
-1964,house,Alabama,AL,6,George Huddleston Jr.,Democratic,39.4,False,False,False
-1964,house,Alabama,AL,7,James D. Martin,Republican,59.6,True,False,True
-1964,house,Alabama,AL,7,George C. Hawkins,Democratic,40.4,False,False,True
-1964,house,Alabama,AL,8,Robert E. Jones Jr.,Democratic,100.0,True,False,False
-1964,house,Alaska,AK,AL,Ralph Rivers,Democratic,51.5,True,True,False
-1964,house,Alaska,AK,AL,Lowell Thomas Jr.,Republican,48.5,False,False,False
-1964,house,Arizona,AZ,1,John Jacob Rhodes,Republican,55.3,True,True,False
-1964,house,Arizona,AZ,1,John Ahearn,Democratic,44.7,False,False,False
-1964,house,Arizona,AZ,2,Mo Udall,Democratic,58.7,True,True,False
-1964,house,Arizona,AZ,2,William E. Kimble,Republican,41.3,False,False,False
-1964,house,Arizona,AZ,3,George F. Senner Jr.,Democratic,51.5,True,True,False
-1964,house,Arizona,AZ,3,Sam Steiger,Republican,48.5,False,False,False
-1964,house,Arkansas,AR,1,Ezekiel C. Gathings,Democratic,100.0,True,True,False
-1964,house,Arkansas,AR,2,Wilbur Mills,Democratic,100.0,True,True,False
-1964,house,Arkansas,AR,3,James William Trimble,Democratic,54.7,True,True,False
-1964,house,Arkansas,AR,3,J. E. Hinshaw,Republican,45.3,False,False,False
-1964,house,Arkansas,AR,4,Oren Harris,Democratic,100.0,True,True,False
-1964,house,California,CA,1,Don Clausen,Republican,59.1,True,True,False
-1964,house,California,CA,1,George McCabe,Democratic,40.9,False,False,False
-1964,house,California,CA,2,Bizz Johnson,Democratic,64.6,True,True,False
-1964,house,California,CA,2,Chester C. Merriam,Republican,35.4,False,False,False
-1964,house,California,CA,3,John E. Moss,Democratic,74.3,True,True,False
-1964,house,California,CA,3,Einar B. Gjelsteen,Republican,25.7,False,False,False
-1964,house,California,CA,4,Robert Leggett,Democratic,71.9,True,True,False
-1964,house,California,CA,4,Ivan Norris,Republican,28.1,False,False,False
-1964,house,California,CA,5,Phillip Burton,Democratic,100.0,True,True,False
-1964,house,California,CA,6,William S. Mailliard,Republican,63.6,True,True,False
-1964,house,California,CA,6,Thomas P. O'Toole,Democratic,36.4,False,False,False
-1964,house,California,CA,7,Jeffery Cohelan,Democratic,66.1,True,True,False
-1964,house,California,CA,7,Lawrence E. McNutt,Republican,33.9,False,False,False
-1964,house,California,CA,8,George P. Miller,Democratic,70.3,True,True,False
-1964,house,California,CA,8,Donald E. McKay,Republican,29.7,False,False,False
-1964,house,California,CA,9,Don Edwards,Democratic,69.8,True,True,False
-1964,house,California,CA,9,William P. Hyde,Republican,30.2,False,False,False
-1964,house,California,CA,10,Charles Gubser,Republican,63.1,True,True,False
-1964,house,California,CA,10,E. Day Carman,Democratic,36.9,False,False,False
-1964,house,California,CA,11,J. Arthur Younger,Republican,54.8,True,True,False
-1964,house,California,CA,11,W. Mark Sullivan,Democratic,45.2,False,False,False
-1964,house,California,CA,12,Burt Talcott,Republican,61.9,True,True,False
-1964,house,California,CA,12,Sanford Bolz,Democratic,38.1,False,False,False
-1964,house,California,CA,13,Charles M. Teague,Republican,57.4,True,True,False
-1964,house,California,CA,13,George E. Taylor,Democratic,42.6,False,False,False
-1964,house,California,CA,14,John F. Baldwin Jr.,Republican,64.9,True,True,False
-1964,house,California,CA,14,Russell M. Koch,Democratic,35.1,False,False,False
-1964,house,California,CA,15,John J. McFall,Democratic,70.9,True,True,False
-1964,house,California,CA,15,Kenneth Gibson,Republican,29.1,False,False,False
-1964,house,California,CA,16,B. F. Sisk,Democratic,66.8,True,True,False
-1964,house,California,CA,16,David T. Harris,Republican,33.2,False,False,False
-1964,house,California,CA,17,Cecil R. King,Democratic,67.7,True,True,False
-1964,house,California,CA,17,Robert Muncaster,Republican,32.3,False,False,False
-1964,house,California,CA,18,Harlan Hagen,Democratic,66.7,True,True,False
-1964,house,California,CA,18,James E. Williams Jr.,Republican,33.3,False,False,False
-1964,house,California,CA,19,Chet Holifield,Democratic,65.4,True,True,False
-1964,house,California,CA,19,C. Everett Hunt,Republican,34.6,False,False,False
-1964,house,California,CA,20,H. Allen Smith,Republican,67.9,True,True,False
-1964,house,California,CA,20,C. Bernard Kaufman,Democratic,32.1,False,False,False
-1964,house,California,CA,21,Augustus Hawkins,Democratic,90.3,True,True,False
-1964,house,California,CA,21,Rayfield Lundy,Republican,9.7,False,False,False
-1964,house,California,CA,22,James C. Corman,Democratic,50.5,True,True,False
-1964,house,California,CA,22,Robert C. Cline,Republican,49.5,False,False,False
-1964,house,California,CA,23,Del M. Clawson,Republican,55.4,True,True,False
-1964,house,California,CA,23,H. O. Van Petten,Democratic,44.6,False,False,False
-1964,house,California,CA,24,Glenard P. Lipscomb,Republican,67.9,True,True,False
-1964,house,California,CA,24,Bryan W. Stevens,Democratic,32.1,False,False,False
-1964,house,California,CA,25,Ronald B. Cameron,Democratic,55.4,True,True,False
-1964,house,California,CA,25,Frank J. Walton,Republican,44.6,False,False,False
-1964,house,California,CA,26,James Roosevelt,Democratic,70.4,True,True,False
-1964,house,California,CA,26,Gil Seton,Republican,29.6,False,False,False
-1964,house,California,CA,27,Edwin Reinecke,Republican,51.7,True,False,True
-1964,house,California,CA,27,Tom Bane,Democratic,48.3,False,False,True
-1964,house,California,CA,28,Alphonzo E. Bell Jr.,Republican,65.6,True,True,False
-1964,house,California,CA,28,Gerald H. Gottlieb,Democratic,34.4,False,False,False
-1964,house,California,CA,29,George Brown Jr.,Democratic,58.6,True,True,False
-1964,house,California,CA,29,Charles J. Farrington Jr.,Republican,41.4,False,False,False
-1964,house,California,CA,30,Edward R. Roybal,Democratic,66.3,True,True,False
-1964,house,California,CA,30,Alfred J. Feder,Republican,33.7,False,False,False
-1964,house,California,CA,31,Charles H. Wilson,Democratic,64.0,True,True,False
-1964,house,California,CA,31,Norman G. Shanahan,Republican,36.0,False,False,False
-1964,house,California,CA,32,Craig Hosmer,Republican,68.9,True,True,False
-1964,house,California,CA,32,Michael Cullen,Democratic,31.1,False,False,False
-1964,house,California,CA,33,Kenneth W. Dyal,Democratic,51.7,True,False,True
-1964,house,California,CA,33,Jerry Pettis,Republican,48.3,False,False,True
-1964,house,California,CA,34,Richard T. Hanna,Democratic,58.3,True,True,False
-1964,house,California,CA,34,Robert A. Geier,Republican,41.7,False,False,False
-1964,house,California,CA,35,James B. Utt,Republican,65.0,True,True,False
-1964,house,California,CA,35,Paul B. Carpenter,Democratic,35.0,False,False,False
-1964,house,California,CA,36,Bob Wilson,Republican,59.1,True,True,False
-1964,house,California,CA,36,Quintin Whelan,Democratic,40.9,False,False,False
-1964,house,California,CA,37,Lionel Van Deerlin,Democratic,58.2,True,True,False
-1964,house,California,CA,37,Dick Wilson,Republican,41.8,False,False,False
-1964,house,California,CA,38,John V. Tunney,Democratic,52.8,True,False,False
-1964,house,California,CA,38,Patrick M. Martin,Republican,47.2,False,True,False
-1964,house,Colorado,CO,1,Byron G. Rogers,Democratic,67.5,True,True,False
-1964,house,Colorado,CO,1,Glenn R. Jones,Republican,31.9,False,False,False
-1964,house,Colorado,CO,1,Socialist Workers,Socialist Workers,0.6,False,False,False
-1964,house,Colorado,CO,2,Roy H. McVicker,Democratic,50.6,True,False,False
-1964,house,Colorado,CO,2,Donald G. Brotzman,Republican,49.4,False,True,False
-1964,house,Colorado,CO,3,Frank Evans,Democratic,51.2,True,False,False
-1964,house,Colorado,CO,3,John Chenoweth,Republican,48.8,False,True,False
-1964,house,Colorado,CO,4,Wayne N. Aspinall,Democratic,63.0,True,True,False
-1964,house,Colorado,CO,4,Edwin S. Lamm,Republican,37.0,False,False,False
-1964,house,Connecticut,CT,1,Emilio Q. Daddario,Democratic,70.0,True,True,False
-1964,house,Connecticut,CT,1,James F. Collins,Republican,30.0,False,False,False
-1964,house,Connecticut,CT,2,William St. Onge,Democratic,63.3,True,True,False
-1964,house,Connecticut,CT,2,Belton A. Copp,Republican,36.7,False,False,False
-1964,house,Connecticut,CT,3,Robert Giaimo,Democratic,63.9,True,True,False
-1964,house,Connecticut,CT,3,Bernard J. Burns,Republican,36.1,False,False,False
-1964,house,Connecticut,CT,4,Donald J. Irwin,Democratic,51.8,True,False,False
-1964,house,Connecticut,CT,4,Abner W. Sibal,Republican,48.2,False,True,False
-1964,house,Connecticut,CT,5,John S. Monagan,Democratic,67.3,True,True,False
-1964,house,Connecticut,CT,5,Charles W. Terrell Jr.,Republican,32.7,False,False,False
-1964,house,Connecticut,CT,6,Bernard F. Grabowski,Democratic,58.7,True,False,False
-1964,house,Connecticut,CT,6,Thomas Meskill,Republican,41.3,False,False,False
-1964,house,Delaware,DE,AL,Harris McDowell,Democratic,56.6,True,True,False
-1964,house,Delaware,DE,AL,James H. Snowden,Republican,43.4,False,False,False
-1964,house,Delaware,DE,AL,Socialist Labor,Socialist Labor,0.04,False,False,False
-1964,house,Florida,FL,1,Bob Sikes,Democratic,100.0,True,True,True
-1964,house,Florida,FL,2,Charles E. Bennett,Democratic,72.7,True,True,False
-1964,house,Florida,FL,2,William T. Stockton Jr.,Republican,27.3,False,False,False
-1964,house,Florida,FL,3,Claude Pepper,Democratic,65.7,True,True,False
-1964,house,Florida,FL,3,Paul J. O'Neill,Republican,34.3,False,False,False
-1964,house,Florida,FL,4,Dante Fascell,Democratic,63.9,True,True,False
-1964,house,Florida,FL,4,Jay McGlon,Republican,36.1,False,False,False
-1964,house,Florida,FL,5,Syd Herlong,Democratic,100.0,True,True,False
-1964,house,Florida,FL,6,Paul Rogers,Democratic,66.0,True,True,False
-1964,house,Florida,FL,6,John D. Steele,Republican,34.0,False,False,False
-1964,house,Florida,FL,7,James A. Haley,Democratic,100.0,True,True,False
-1964,house,Florida,FL,8,D. R. Matthews,Democratic,100.0,True,True,False
-1964,house,Florida,FL,9,Don Fuqua,Democratic,100.0,True,True,False
-1964,house,Florida,FL,10,Sam Gibbons,Democratic,100.0,True,True,False
-1964,house,Florida,FL,11,Edward Gurney,Republican,60.6,True,True,False
-1964,house,Florida,FL,11,Thomas S. Kenney,Democratic,39.4,False,False,False
-1964,house,Florida,FL,12,William C. Cramer,Republican,60.6,True,True,False
-1964,house,Florida,FL,12,F. Marion Harrelson,Democratic,39.4,False,False,False
-1964,house,Georgia,GA,1,G. Elliott Hagan,Democratic,72.3,True,True,False
-1964,house,Georgia,GA,1,Milton Lent,Independent,27.7,False,False,False
-1964,house,Georgia,GA,2,Maston E. O'Neal Jr.,Democratic,100.0,True,False,True
-1964,house,Georgia,GA,3,Bo Callaway,Republican,57.2,True,False,True
-1964,house,Georgia,GA,3,Garland T. Byrd,Democratic,42.8,False,False,True
-1964,house,Georgia,GA,4,James MacKay,Democratic,56.9,True,False,True
-1964,house,Georgia,GA,4,Roscoe Pickett,Republican,43.1,False,False,True
-1964,house,Georgia,GA,5,Charles L. Weltner,Democratic,54.0,True,True,False
-1964,house,Georgia,GA,5,L. J. O'Callaghan,Republican,46.0,False,False,False
-1964,house,Georgia,GA,6,John Flynt,Democratic,100.0,True,False,False
-1964,house,Georgia,GA,7,John William Davis,Democratic,54.7,True,True,False
-1964,house,Georgia,GA,7,Edward Y. Chapin,Republican,45.3,False,False,False
-1964,house,Georgia,GA,8,J. Russell Tuten,Democratic,100.0,True,True,False
-1964,house,Georgia,GA,9,Phillip M. Landrum,Democratic,60.5,True,True,False
-1964,house,Georgia,GA,9,Jack Prince,Democratic,39.5,False,False,False
-1964,house,Georgia,GA,10,Robert Grier Stephens Jr.,Democratic,100.0,True,True,True
-1964,house,Hawaii,HI,AL,Spark Matsunaga,Democratic,35.7,True,True,True
-1964,house,Hawaii,HI,AL,Patsy Mink,Democratic,27.2,True,False,True
-1964,house,Hawaii,HI,AL,John E. Milligan,Republican,22.8,False,False,True
-1964,house,Hawaii,HI,AL,Richard Ike Sutton,Republican,14.3,False,False,True
-1964,house,Idaho,ID,1,Compton I. White Jr.,Democratic,51.7,True,True,False
-1964,house,Idaho,ID,1,John Mattmiller,Republican,48.3,False,False,False
-1964,house,Idaho,ID,2,George V. Hansen,Republican,52.2,True,False,False
-1964,house,Idaho,ID,2,Ralph R. Harding,Democratic,47.8,False,True,False
-1964,house,Illinois,IL,1,William L. Dawson,Democratic,84.9,True,True,False
-1964,house,Illinois,IL,1,Wilbur N. Daniel,Republican,15.1,False,False,False
-1964,house,Illinois,IL,2,Barratt O'Hara,Democratic,67.3,True,True,False
-1964,house,Illinois,IL,2,William F. Scannell,Republican,32.7,False,False,False
-1964,house,Illinois,IL,3,William T. Murphy,Democratic,59.1,True,True,False
-1964,house,Illinois,IL,3,Emmet Byrne,Republican,40.9,False,False,False
-1964,house,Illinois,IL,4,Ed Derwinski,Republican,58.9,True,True,False
-1964,house,Illinois,IL,4,Ray J. Rybacki,Democratic,41.1,False,False,False
-1964,house,Illinois,IL,5,John C. Kluczynski,Democratic,63.7,True,True,False
-1964,house,Illinois,IL,5,Robert V. Kotowski,Republican,36.3,False,False,False
-1964,house,Illinois,IL,6,Daniel J. Ronan,Democratic,83.4,True,False,True
-1964,house,Illinois,IL,6,Joseph W. Halac,Republican,16.6,False,False,True
-1964,house,Illinois,IL,7,Frank Annunzio,Democratic,85.9,True,False,True
-1964,house,Illinois,IL,7,Ray Wolfram,Republican,14.1,False,False,True
-1964,house,Illinois,IL,8,Dan Rostenkowski,Democratic,66.1,True,True,False
-1964,house,Illinois,IL,8,Eugene L. Ebrom,Republican,33.9,False,False,False
-1964,house,Illinois,IL,9,Sidney R. Yates,Democratic,63.9,True,False,True
-1964,house,Illinois,IL,9,Robert S. Decker,Republican,36.1,False,False,True
-1964,house,Illinois,IL,10,Harold R. Collier,Republican,60.8,True,True,False
-1964,house,Illinois,IL,10,Thomas E. Gause,Democratic,39.2,False,False,False
-1964,house,Illinois,IL,11,Roman Pucinski,Democratic,56.9,True,True,False
-1964,house,Illinois,IL,11,Chester T. Podgorski,Republican,43.1,False,False,False
-1964,house,Illinois,IL,12,Robert McClory,Republican,58.6,True,True,False
-1964,house,Illinois,IL,12,John C. Kimball,Democratic,41.4,False,False,False
-1964,house,Illinois,IL,13,Donald Rumsfeld,Republican,57.8,True,True,False
-1964,house,Illinois,IL,13,Lynn A. Williams,Democratic,42.2,False,False,False
-1964,house,Illinois,IL,14,John N. Erlenborn,Republican,59.0,True,False,True
-1964,house,Illinois,IL,14,Jerome M. Ziegler,Democratic,41.0,False,False,True
-1964,house,Illinois,IL,15,Charlotte Thompson Reid,Republican,58.4,True,True,False
-1964,house,Illinois,IL,15,Poppy X. Mitchell,Democratic,41.6,False,False,False
-1964,house,Illinois,IL,16,John B. Anderson,Republican,56.4,True,True,False
-1964,house,Illinois,IL,16,Robert E. Brinkmeier,Democratic,43.6,False,False,False
-1964,house,Illinois,IL,17,Leslie C. Arends,Republican,56.4,True,True,False
-1964,house,Illinois,IL,17,Bernard J. Hughes,Democratic,43.6,False,False,False
-1964,house,Illinois,IL,18,Robert H. Michel,Republican,54.0,True,True,False
-1964,house,Illinois,IL,18,Edward P. Kohlbacher,Democratic,46.0,False,False,False
-1964,house,Illinois,IL,19,Gale Schisler,Democratic,52.4,True,False,False
-1964,house,Illinois,IL,19,Robert T. McLoskey,Republican,47.6,False,True,False
-1964,house,Illinois,IL,20,Paul Findley,Republican,54.8,True,True,False
-1964,house,Illinois,IL,20,Lester E. Collins,Democratic,45.2,False,False,False
-1964,house,Illinois,IL,21,Kenneth J. Gray,Democratic,65.0,True,True,False
-1964,house,Illinois,IL,21,Stillman J. Stanard,Republican,35.0,False,False,False
-1964,house,Illinois,IL,22,William L. Springer,Republican,53.0,True,True,False
-1964,house,Illinois,IL,22,John J. Desmond,Democratic,47.0,False,False,False
-1964,house,Illinois,IL,23,George E. Shipley,Democratic,54.6,True,True,False
-1964,house,Illinois,IL,23,Wayne S. Jones,Republican,45.4,False,False,False
-1964,house,Illinois,IL,24,Melvin Price,Democratic,75.7,True,True,False
-1964,house,Illinois,IL,24,G. S. Mirza,Republican,24.3,False,False,False
-1964,house,Indiana,IN,1,Ray Madden,Democratic,63.7,True,True,False
-1964,house,Indiana,IN,1,Arthur F. Endres,Republican,36.0,False,False,False
-1964,house,Indiana,IN,1,Prohibition,Prohibition,0.4,False,False,False
-1964,house,Indiana,IN,2,Charles A. Halleck,Republican,52.9,True,True,False
-1964,house,Indiana,IN,2,John C. Raber,Democratic,47.1,False,False,False
-1964,house,Indiana,IN,3,John Brademas,Democratic,60.6,True,True,False
-1964,house,Indiana,IN,3,Robert L. Miller,Republican,39.4,False,False,False
-1964,house,Indiana,IN,4,E. Ross Adair,Republican,52.1,True,True,False
-1964,house,Indiana,IN,4,Max E. Hobbs,Democratic,47.9,False,False,False
-1964,house,Indiana,IN,5,J. Edward Roush,Democratic,55.2,True,True,False
-1964,house,Indiana,IN,5,John R. Feighner,Republican,44.8,False,False,False
-1964,house,Indiana,IN,6,Richard L. Roudebush,Republican,54.1,True,True,False
-1964,house,Indiana,IN,6,Karl O'Lessker,Democratic,45.9,False,False,False
-1964,house,Indiana,IN,7,William G. Bray,Republican,54.2,True,True,False
-1964,house,Indiana,IN,7,Elden C. Tipton,Democratic,45.8,False,False,False
-1964,house,Indiana,IN,8,Winfield K. Denton,Democratic,56.5,True,True,False
-1964,house,Indiana,IN,8,Roger H. Zion,Republican,43.5,False,False,False
-1964,house,Indiana,IN,9,Lee Hamilton,Democratic,54.4,True,False,False
-1964,house,Indiana,IN,9,Earl Wilson,Republican,45.6,False,True,False
-1964,house,Indiana,IN,10,Ralph Harvey,Republican,50.4,True,True,False
-1964,house,Indiana,IN,10,Russell E. Davis,Democratic,49.6,False,False,False
-1964,house,Indiana,IN,11,Andrew Jacobs Jr.,Democratic,50.5,True,False,True
-1964,house,Indiana,IN,11,Don A. Tabbert,Republican,49.5,False,False,True
-1964,house,Iowa,IA,1,John R. Schmidhauser,Democratic,51.0,True,False,False
-1964,house,Iowa,IA,1,Fred Schwengel,Republican,48.9,False,True,False
-1964,house,Iowa,IA,2,John Culver,Democratic,52.2,True,False,False
-1964,house,Iowa,IA,2,James E. Bromwell,Republican,47.8,False,True,False
-1964,house,Iowa,IA,3,H. R. Gross,Republican,50.1,True,True,False
-1964,house,Iowa,IA,3,Stephen M. Peterson,Democratic,49.9,False,False,False
-1964,house,Iowa,IA,4,Bert Bandstra,Democratic,53.6,True,False,False
-1964,house,Iowa,IA,4,John Henry Kyl,Republican,46.4,False,True,False
-1964,house,Iowa,IA,5,Neal Smith,Democratic,69.6,True,True,False
-1964,house,Iowa,IA,5,Benjamin J. Gibson Jr.,Republican,29.7,False,False,False
-1964,house,Iowa,IA,6,Stanley L. Greigg,Democratic,53.2,True,False,True
-1964,house,Iowa,IA,6,Howard N. Sokol,Republican,46.5,False,False,True
-1964,house,Iowa,IA,7,John R. Hansen,Democratic,53.5,True,False,False
-1964,house,Iowa,IA,7,Ben F. Jensen,Republican,46.5,False,True,False
-1964,house,Kansas,KS,1,Bob Dole,Republican,51.2,True,True,False
-1964,house,Kansas,KS,1,Bill Bork,Democratic,48.8,False,False,False
-1964,house,Kansas,KS,2,Chester L. Mize,Republican,51.1,True,False,True
-1964,house,Kansas,KS,2,John Montgomery,Democratic,48.9,False,False,True
-1964,house,Kansas,KS,3,Robert Ellsworth,Republican,62.2,True,True,False
-1964,house,Kansas,KS,3,A. Clayton Dial,Democratic,37.8,False,False,False
-1964,house,Kansas,KS,4,Garner E. Shriver,Republican,59.4,True,True,False
-1964,house,Kansas,KS,4,Jack Glaves,Democratic,40.6,False,False,False
-1964,house,Kansas,KS,5,Joe Skubitz,Republican,56.4,True,True,False
-1964,house,Kansas,KS,5,Reb. Russell,Democratic,43.6,False,False,False
-1964,house,Kentucky,KY,1,Frank Stubblefield,Democratic,100.0,True,True,False
-1964,house,Kentucky,KY,2,William Natcher,Democratic,68.4,True,True,False
-1964,house,Kentucky,KY,2,Rhodes Bratcher,Republican,31.6,False,False,False
-1964,house,Kentucky,KY,3,Charles R. Farnsley,Democratic,53.8,True,False,False
-1964,house,Kentucky,KY,3,Gene Snyder,Republican,46.2,False,True,False
-1964,house,Kentucky,KY,4,Frank Chelf,Democratic,61.7,True,True,False
-1964,house,Kentucky,KY,4,Clyde Middleton,Republican,38.3,False,False,False
-1964,house,Kentucky,KY,5,Tim Lee Carter,Republican,53.1,True,False,True
-1964,house,Kentucky,KY,5,Frances J. Mills,Democratic,46.9,False,False,True
-1964,house,Kentucky,KY,6,John C. Watts,Democratic,70.6,True,True,False
-1964,house,Kentucky,KY,6,John W. Swope,Republican,29.4,False,False,False
-1964,house,Kentucky,KY,7,Carl D. Perkins,Democratic,69.7,True,True,False
-1964,house,Kentucky,KY,7,Walter Clay Van Hoose,Republican,30.3,False,False,False
-1964,house,Louisiana,LA,1,F. Edward Hébert,Democratic,100.0,True,True,False
-1964,house,Louisiana,LA,2,Hale Boggs,Democratic,55.0,True,True,False
-1964,house,Louisiana,LA,2,David C. Treen,Republican,45.0,False,False,False
-1964,house,Louisiana,LA,3,Edwin E. Willis,Democratic,62.3,True,True,False
-1964,house,Louisiana,LA,3,Robert F. Angers,Republican,37.7,False,False,False
-1964,house,Louisiana,LA,4,Joe Waggonner,Democratic,100.0,True,True,False
-1964,house,Louisiana,LA,5,Otto Passman,Democratic,100.0,True,True,False
-1964,house,Louisiana,LA,6,James H. Morrison,Democratic,62.9,True,True,False
-1964,house,Louisiana,LA,6,Floyd O. Crawford,Republican,37.1,False,False,False
-1964,house,Louisiana,LA,7,T. Ashton Thompson,Democratic,100.0,True,True,False
-1964,house,Louisiana,LA,8,Speedy Long,Democratic,54.5,True,False,False
-1964,house,Louisiana,LA,8,William S. Walker,Republican,45.5,False,False,False
-1964,house,Maine,ME,1,Stanley R. Tupper,Republican,50.1,True,True,False
-1964,house,Maine,ME,1,Kenneth M. Curtis,Democratic,49.9,False,False,False
-1964,house,Maine,ME,2,William Hathaway,Democratic,62.0,True,False,True
-1964,house,Maine,ME,2,Kenneth P. MacLeod,Republican,38.0,False,False,True
-1964,house,Maryland,MD,1,Rogers Morton,Republican,53.1,True,True,False
-1964,house,Maryland,MD,1,Harry Hughes,Democratic,46.9,False,False,False
-1964,house,Maryland,MD,2,Clarence Long,Democratic,65.9,True,True,False
-1964,house,Maryland,MD,2,George A. Price,Republican,34.1,False,False,False
-1964,house,Maryland,MD,3,Edward Garmatz,Democratic,100.0,True,True,False
-1964,house,Maryland,MD,4,George Hyde Fallon,Democratic,77.8,True,True,False
-1964,house,Maryland,MD,4,Charles O'Donovan Evans,Republican,22.2,False,False,False
-1964,house,Maryland,MD,5,Hervey Machen,Democratic,61.0,True,False,True
-1964,house,Maryland,MD,5,Edward A. Potts,Republican,39.0,False,False,True
-1964,house,Maryland,MD,6,Charles Mathias,Republican,54.5,True,True,False
-1964,house,Maryland,MD,6,Royce Hanson,Democratic,45.5,False,False,False
-1964,house,Maryland,MD,7,Samuel Friedel,Democratic,79.5,True,True,False
-1964,house,Maryland,MD,7,Thomas C. Hofstetter,Republican,20.5,False,False,False
-1964,house,Maryland,MD,AL,Carlton R. Sickles,Democratic,69.4,True,True,False
-1964,house,Maryland,MD,AL,David Scull,Republican,30.6,False,False,False
-1964,house,Massachusetts,MA,1,Silvio O. Conte,Republican,100.0,True,True,False
-1964,house,Massachusetts,MA,2,Edward Boland,Democratic,100.0,True,True,False
-1964,house,Massachusetts,MA,3,Philip J. Philbin,Democratic,100.0,True,True,False
-1964,house,Massachusetts,MA,4,Harold Donohue,Democratic,71.8,True,True,False
-1964,house,Massachusetts,MA,4,Dudley B. Dumaine,Republican,28.2,False,False,False
-1964,house,Massachusetts,MA,5,F. Bradford Morse,Republican,65.0,True,True,False
-1964,house,Massachusetts,MA,5,George W. Arvanitis,Democratic,35.0,False,False,False
-1964,house,Massachusetts,MA,6,William H. Bates,Republican,64.6,True,True,False
-1964,house,Massachusetts,MA,6,James G. Zafris Jr.,Democratic,35.4,False,False,False
-1964,house,Massachusetts,MA,7,Torbert Macdonald,Democratic,76.9,True,True,False
-1964,house,Massachusetts,MA,7,Gordon F. Hughes,Republican,23.1,False,False,False
-1964,house,Massachusetts,MA,8,Tip O'Neill,Democratic,100.0,True,True,False
-1964,house,Massachusetts,MA,9,John W. McCormack,Democratic,80.3,True,True,False
-1964,house,Massachusetts,MA,9,Jack E. Molesworth,Republican,14.6,False,False,False
-1964,house,Massachusetts,MA,9,Noel A. Day,Independent,5.0,False,False,False
-1964,house,Massachusetts,MA,10,Joseph W. Martin Jr.,Republican,63.0,True,True,False
-1964,house,Massachusetts,MA,10,Edward F. Doolan,Democratic,37.0,False,False,False
-1964,house,Massachusetts,MA,11,James A. Burke,Democratic,100.0,True,True,False
-1964,house,Massachusetts,MA,12,Hastings Keith,Republican,59.6,True,True,False
-1964,house,Massachusetts,MA,12,Alexander Byron,Democratic,40.4,False,False,False
-1964,house,Michigan,MI,1,John Conyers Jr.,Democratic,83.6,True,False,True
-1964,house,Michigan,MI,1,Robert B. Blackwell,Republican,15.5,False,False,True
-1964,house,Michigan,MI,1,Milton R. Henry,Freedom Now,0.9,False,False,True
-1964,house,Michigan,MI,2,Weston E. Vivian,Democratic,50.4,True,False,False
-1964,house,Michigan,MI,2,George Meader,Republican,49.4,False,True,False
-1964,house,Michigan,MI,2,Socialist Workers,Socialist Workers,0.1,False,False,False
-1964,house,Michigan,MI,3,Paul H. Todd Jr.,Democratic,52.7,True,False,False
-1964,house,Michigan,MI,3,August E. Johansen,Republican,47.3,False,True,False
-1964,house,Michigan,MI,4,J. Edward Hutchinson,Republican,54.3,True,True,False
-1964,house,Michigan,MI,4,Russell W. Holcomb,Democratic,45.7,False,False,False
-1964,house,Michigan,MI,5,Gerald Ford,Republican,61.2,True,True,False
-1964,house,Michigan,MI,5,William G. Reamon,Democratic,38.8,False,False,False
-1964,house,Michigan,MI,6,Charles E. Chamberlain,Republican,56.6,True,True,False
-1964,house,Michigan,MI,6,Boyd K. Benedict,Democratic,43.4,False,False,False
-1964,house,Michigan,MI,7,John C. Mackie,Democratic,65.7,True,False,True
-1964,house,Michigan,MI,7,Claude E. Sadler,Republican,34.3,False,False,True
-1964,house,Michigan,MI,8,R. James Harvey,Republican,54.7,True,True,False
-1964,house,Michigan,MI,8,Sanford A. Brown,Democratic,45.3,False,False,False
-1964,house,Michigan,MI,9,Robert P. Griffin,Republican,57.4,True,True,False
-1964,house,Michigan,MI,9,Daniel Griffen,Democratic,42.6,False,False,False
-1964,house,Michigan,MI,10,Al Cederberg,Republican,56.6,True,True,False
-1964,house,Michigan,MI,10,Hubert C. Evans,Democratic,43.4,False,False,False
-1964,house,Michigan,MI,11,Raymond F. Clevenger,Democratic,53.3,True,False,True
-1964,house,Michigan,MI,11,Victor A. Knox,Republican,46.7,False,True,True
-1964,house,Michigan,MI,12,James G. O'Hara,Democratic,74.8,True,False,False
-1964,house,Michigan,MI,12,Robert G. Powell,Republican,25.2,False,False,False
-1964,house,Michigan,MI,13,Charles Diggs,Democratic,85.8,True,True,False
-1964,house,Michigan,MI,13,Bruce Watson,Republican,13.9,False,False,False
-1964,house,Michigan,MI,14,Lucien Nedzi,Democratic,66.9,True,False,False
-1964,house,Michigan,MI,14,George Bashara,Republican,33.1,False,False,False
-1964,house,Michigan,MI,15,William D. Ford,Democratic,71.0,True,False,True
-1964,house,Michigan,MI,15,John F. Fellrath Jr.,Republican,29.0,False,False,True
-1964,house,Michigan,MI,16,John Dingell,Democratic,73.4,True,False,False
-1964,house,Michigan,MI,16,Raymond B. Eonard,Republican,26.5,False,False,False
-1964,house,Michigan,MI,17,Martha Griffiths,Democratic,72.8,True,True,False
-1964,house,Michigan,MI,17,William P. Harrington,Republican,27.0,False,False,False
-1964,house,Michigan,MI,18,William Broomfield,Republican,59.5,True,True,False
-1964,house,Michigan,MI,18,Frank J. Sierawski,Democratic,40.4,False,False,False
-1964,house,Michigan,MI,19,Billie S. Farnum,Democratic,53.4,True,False,True
-1964,house,Michigan,MI,19,Richard D. Kuhn,Republican,46.6,False,False,True
-1964,house,Minnesota,MN,1,Al Quie,Republican,55.3,True,True,False
-1964,house,Minnesota,MN,1,DFL,Minnesota Democratic–Farmer–Labor,44.7,False,False,False
-1964,house,Minnesota,MN,2,Ancher Nelsen,Republican,58.4,True,True,False
-1964,house,Minnesota,MN,2,Charles V. Simpson,Minnesota Democratic–Farmer–Labor,41.6,False,False,False
-1964,house,Minnesota,MN,3,Clark MacGregor,Republican,57.0,True,True,False
-1964,house,Minnesota,MN,3,Richard J. Parish,Minnesota Democratic–Farmer–Labor,43.0,False,False,False
-1964,house,Minnesota,MN,4,Joseph Karth,Minnesota Democratic–Farmer–Labor,72.3,True,True,False
-1964,house,Minnesota,MN,4,John M. Drexler,Republican,27.1,False,False,False
-1964,house,Minnesota,MN,4,write-in,Write-in,0.7,False,False,False
-1964,house,Minnesota,MN,5,Donald M. Fraser,Minnesota Democratic–Farmer–Labor,61.9,True,True,False
-1964,house,Minnesota,MN,5,John W. Johnson,Republican,38.1,False,False,False
-1964,house,Minnesota,MN,6,Alec G. Olson,Minnesota Democratic–Farmer–Labor,51.8,True,True,False
-1964,house,Minnesota,MN,6,Robert J. Odegard,Republican,48.2,False,False,False
-1964,house,Minnesota,MN,7,Odin Langen,Republican,50.8,True,True,False
-1964,house,Minnesota,MN,7,Ben M. Wichterman,Minnesota Democratic–Farmer–Labor,49.2,False,False,False
-1964,house,Minnesota,MN,8,John Blatnik,Minnesota Democratic–Farmer–Labor,69.4,True,True,False
-1964,house,Minnesota,MN,8,David W. Glossbrenner,Republican,30.6,False,False,False
-1964,house,Mississippi,MS,1,Thomas Abernethy,Democratic,100.0,True,True,False
-1964,house,Mississippi,MS,2,Jamie Whitten,Democratic,100.0,True,True,False
-1964,house,Mississippi,MS,3,John Bell Williams,Democratic,100.0,True,True,False
-1964,house,Mississippi,MS,4,Prentiss Walker,Republican,55.7,True,False,False
-1964,house,Mississippi,MS,4,W. Arthur Winstead,Democratic,44.3,False,True,False
-1964,house,Mississippi,MS,5,William M. Colmer,Democratic,100.0,True,True,False
-1964,house,Missouri,MO,1,Frank M. Karsten,Democratic,76.9,True,True,False
-1964,house,Missouri,MO,1,Ted Fischer,Republican,23.1,False,False,False
-1964,house,Missouri,MO,2,Thomas B. Curtis,Republican,53.1,True,True,False
-1964,house,Missouri,MO,2,Sidney B. McClanahan,Democratic,46.9,False,False,False
-1964,house,Missouri,MO,3,Leonor Sullivan,Democratic,71.7,True,True,False
-1964,house,Missouri,MO,3,Howard C. Ohlendorf,Republican,28.3,False,False,False
-1964,house,Missouri,MO,4,William J. Randall,Democratic,63.9,True,True,False
-1964,house,Missouri,MO,4,James M. Taylor,Republican,36.1,False,False,False
-1964,house,Missouri,MO,5,Richard W. Bolling,Democratic,69.3,True,True,False
-1964,house,Missouri,MO,5,Robert B. Langworthy,Republican,30.7,False,False,False
-1964,house,Missouri,MO,6,William R. Hull Jr.,Democratic,64.7,True,True,False
-1964,house,Missouri,MO,6,Henry E. Wurst,Republican,35.3,False,False,False
-1964,house,Missouri,MO,7,Durward G. Hall,Republican,51.7,True,True,False
-1964,house,Missouri,MO,7,Jim Thomas,Democratic,48.3,False,False,False
-1964,house,Missouri,MO,8,Richard H. Ichord Jr.,Democratic,65.2,True,True,False
-1964,house,Missouri,MO,8,Ben A. Rogers,Republican,34.8,False,False,False
-1964,house,Missouri,MO,9,William L. Hungate,Democratic,62.3,True,False,True
-1964,house,Missouri,MO,9,Anthony C. Schroeder,Republican,37.6,False,False,True
-1964,house,Missouri,MO,9,Hubert Willis,Independent,0.1,False,False,True
-1964,house,Missouri,MO,10,Paul C. Jones,Democratic,67.4,True,True,False
-1964,house,Missouri,MO,10,Carl Franklin Painter,Republican,32.6,False,False,False
-1964,house,Montana,MT,1,Arnold Olsen,Democratic,53.6,True,True,False
-1964,house,Montana,MT,1,Wayne Montgomery,Republican,45.8,False,False,False
-1964,house,Montana,MT,2,James F. Battin,Republican,54.1,True,True,False
-1964,house,Montana,MT,2,Jack C. Toole,Democratic,45.9,False,False,False
-1964,house,Nebraska,NE,1,Clair A. Callan,Democratic,51.3,True,False,False
-1964,house,Nebraska,NE,1,Ralph F. Beermann,Republican,48.7,False,True,False
-1964,house,Nebraska,NE,2,Glenn Cunningham,Republican,53.1,True,True,False
-1964,house,Nebraska,NE,2,Richard Swenson,Democratic,46.9,False,False,False
-1964,house,Nebraska,NE,3,David Martin,Republican,52.8,True,True,False
-1964,house,Nebraska,NE,3,William E. Colwell,Democratic,47.2,False,False,False
-1964,house,Nevada,NV,AL,Walter S. Baring Jr.,Democratic,63.3,True,True,False
-1964,house,Nevada,NV,AL,George Von Tobel,Republican,36.7,False,False,False
-1964,house,New Hampshire,NH,1,J. Oliva Huot,Democratic,51.3,True,False,False
-1964,house,New Hampshire,NH,1,Louis C. Wyman,Republican,48.7,False,True,False
-1964,house,New Hampshire,NH,2,James Colgate Cleveland,Republican,50.4,True,True,False
-1964,house,New Hampshire,NH,2,Charles B. Officer,Democratic,49.6,False,False,False
-1964,house,New Jersey,NJ,1,William T. Cahill,Republican,56.2,True,True,False
-1964,house,New Jersey,NJ,1,William J. Procacci,Democratic,43.7,False,False,False
-1964,house,New Jersey,NJ,1,Socialist Labor,Socialist Labor,0.1,False,False,False
-1964,house,New Jersey,NJ,2,Thomas C. McGrath Jr.,Democratic,50.8,True,False,False
-1964,house,New Jersey,NJ,2,Milton W. Glenn,Republican,49.2,False,True,False
-1964,house,New Jersey,NJ,3,James J. Howard,Democratic,50.4,True,False,True
-1964,house,New Jersey,NJ,3,Marcus Daly,Republican,49.6,False,False,True
-1964,house,New Jersey,NJ,4,Frank Thompson,Democratic,67.5,True,True,False
-1964,house,New Jersey,NJ,4,Ephraim Tomlinson II,Republican,32.3,False,False,False
-1964,house,New Jersey,NJ,5,Peter Frelinghuysen Jr.,Republican,63.6,True,True,False
-1964,house,New Jersey,NJ,5,Eugene M. Friedman,Democratic,36.4,False,False,False
-1964,house,New Jersey,NJ,6,Florence P. Dwyer,Republican,59.7,True,True,False
-1964,house,New Jersey,NJ,6,Richard J. Traynor,Democratic,40.3,False,False,False
-1964,house,New Jersey,NJ,7,William B. Widnall,Republican,56.5,True,True,False
-1964,house,New Jersey,NJ,7,Edward H. Ihnen,Democratic,43.1,False,False,False
-1964,house,New Jersey,NJ,8,Charles S. Joelson,Democratic,67.5,True,True,False
-1964,house,New Jersey,NJ,8,J. Palmer Murphy,Republican,32.3,False,False,False
-1964,house,New Jersey,NJ,9,Henry Helstoski,Democratic,50.1,True,False,False
-1964,house,New Jersey,NJ,9,Frank C. Osmers Jr.,Republican,49.0,False,True,False
-1964,house,New Jersey,NJ,10,Peter W. Rodino,Democratic,74.0,True,True,False
-1964,house,New Jersey,NJ,10,Raymond W. Schroeder,Republican,25.1,False,False,False
-1964,house,New Jersey,NJ,10,William Kirkland,Independent,0.2,False,False,False
-1964,house,New Jersey,NJ,11,Joseph Minish,Democratic,69.6,True,True,False
-1964,house,New Jersey,NJ,11,William L. Stubbs,Republican,30.4,False,False,False
-1964,house,New Jersey,NJ,12,Paul J. Krebs,Democratic,52.4,True,False,True
-1964,house,New Jersey,NJ,12,David H. Wiener,Republican,46.0,False,False,True
-1964,house,New Jersey,NJ,12,Leo C. Fields Jr.,Independent,0.3,False,False,True
-1964,house,New Jersey,NJ,13,Neil Gallagher,Democratic,77.1,True,True,False
-1964,house,New Jersey,NJ,13,Cresenzi W. Castaldo,Republican,21.5,False,False,False
-1964,house,New Jersey,NJ,13,Fred W. Romanowski,Independent,1.4,False,False,False
-1964,house,New Jersey,NJ,14,Dominick V. Daniels,Democratic,74.6,True,True,False
-1964,house,New Jersey,NJ,14,Cecil T. Woolsey,Republican,25.4,False,False,False
-1964,house,New Jersey,NJ,15,Edward J. Patten,Democratic,63.1,True,True,False
-1964,house,New Jersey,NJ,15,Bernard F. Rodgers,Republican,36.9,False,False,False
-1964,house,New Mexico,NM,AL,Thomas G. Morris,Democratic,30.6,True,True,True
-1964,house,New Mexico,NM,AL,E. S. Johnny Walker,Democratic,26.0,True,False,True
-1964,house,New Mexico,NM,AL,Jack C. Redman,Republican,24.4,False,False,True
-1964,house,New Mexico,NM,AL,Mike Sims,Republican,19.0,False,False,True
-1964,house,New York,NY,1,Otis G. Pike,Democratic,64.9,True,True,False
-1964,house,New York,NY,1,John J. Hart Jr.,Republican,35.1,False,False,False
-1964,house,New York,NY,2,James R. Grover Jr.,Republican,51.6,True,True,False
-1964,house,New York,NY,2,Edwyn Silberling,Democratic,48.4,False,False,False
-1964,house,New York,NY,3,Lester L. Wolff,Democratic,50.7,True,False,False
-1964,house,New York,NY,3,Steven Derounian,Republican,49.3,False,True,False
-1964,house,New York,NY,4,John W. Wydler,Republican,53.2,True,True,False
-1964,house,New York,NY,4,Joseph L. Marino,Democratic,43.2,False,False,False
-1964,house,New York,NY,4,Stanley J. Levy,Independent,3.6,False,False,False
-1964,house,New York,NY,5,Herbert Tenzer,Democratic,55.8,True,False,True
-1964,house,New York,NY,5,Ralph J. Edsell Jr.,Republican,44.2,False,False,True
-1964,house,New York,NY,6,Seymour Halpern,Republican,57.1,True,True,False
-1964,house,New York,NY,6,Emil Levin,Democratic,42.9,False,False,False
-1964,house,New York,NY,7,Joseph P. Addabbo,Democratic,69.8,True,True,False
-1964,house,New York,NY,7,Robert L. Nelson,Republican,28.3,False,False,False
-1964,house,New York,NY,8,Benjamin Rosenthal,Democratic,75.0,True,True,False
-1964,house,New York,NY,8,Vincent P. Brevetti,Republican,22.4,False,False,False
-1964,house,New York,NY,9,James J. Delaney,Democratic,65.9,True,True,False
-1964,house,New York,NY,9,Charles H. Cohen,Republican,29.3,False,False,False
-1964,house,New York,NY,9,Liberal,Liberal Party (New York),4.9,False,False,False
-1964,house,New York,NY,10,Emanuel Celler,Democratic,87.5,True,True,False
-1964,house,New York,NY,10,Samuel W. Held,Republican,12.5,False,False,False
-1964,house,New York,NY,11,Eugene Keogh,Democratic,78.8,True,True,False
-1964,house,New York,NY,11,Herman Sanders,Republican,18.6,False,False,False
-1964,house,New York,NY,12,Edna F. Kelly,Democratic,81.7,True,True,False
-1964,house,New York,NY,12,Carlo G. Colavito,Republican,18.3,False,False,False
-1964,house,New York,NY,13,Abraham J. Multer,Democratic,69.1,True,True,False
-1964,house,New York,NY,13,Gerald S. Held,Republican,18.6,False,False,False
-1964,house,New York,NY,14,John J. Rooney,Democratic,77.4,True,True,False
-1964,house,New York,NY,14,Victor J. Tirabasso Jr.,Republican,22.6,False,False,False
-1964,house,New York,NY,15,Hugh Carey,Democratic,53.6,True,True,False
-1964,house,New York,NY,15,Luigi R. Marano,Republican,46.4,False,False,False
-1964,house,New York,NY,16,John M. Murphy,Democratic,61.4,True,True,False
-1964,house,New York,NY,16,David D. Smith,Republican,38.6,False,False,False
-1964,house,New York,NY,17,John Lindsay,Republican,71.5,True,True,False
-1964,house,New York,NY,17,Eleanor C. French,Democratic,23.5,False,False,False
-1964,house,New York,NY,17,Kieran O'Doherty,Conservative,5.0,False,False,False
-1964,house,New York,NY,18,Adam Clayton Powell Jr.,Democratic,84.6,True,True,False
-1964,house,New York,NY,18,Joseph A. Bailey,Republican,10.4,False,False,False
-1964,house,New York,NY,18,George Schuyler,Conservative,0.6,False,False,False
-1964,house,New York,NY,19,Leonard Farbstein,Democratic,68.9,True,True,False
-1964,house,New York,NY,19,Henry E. Del Rosso,Republican,20.2,False,False,False
-1964,house,New York,NY,20,William Fitts Ryan,Democratic,82.5,True,True,False
-1964,house,New York,NY,20,Ronald N. Gottlieb,Republican,15.6,False,False,False
-1964,house,New York,NY,21,James H. Scheuer,Democratic,84.3,True,False,False
-1964,house,New York,NY,21,Henry Rose,Republican,14.1,False,False,False
-1964,house,New York,NY,22,Jacob H. Gilbert,Democratic,81.6,True,True,False
-1964,house,New York,NY,22,Manuel R. Roque,Republican,11.8,False,False,False
-1964,house,New York,NY,23,Jonathan B. Bingham,Democratic,71.3,True,False,False
-1964,house,New York,NY,23,Patrick J. Foley,Republican,20.1,False,False,False
-1964,house,New York,NY,24,Paul A. Fino,Republican,61.2,True,True,False
-1964,house,New York,NY,24,Robert J. Malang,Democratic,35.3,False,False,False
-1964,house,New York,NY,25,Richard Ottinger,Democratic,56.2,True,False,False
-1964,house,New York,NY,25,Robert R. Barry,Republican,43.8,False,True,False
-1964,house,New York,NY,26,Ogden R. Reid,Republican,54.9,True,True,False
-1964,house,New York,NY,26,Frank Conniff,Democratic,42.2,False,False,False
-1964,house,New York,NY,27,John G. Dow,Democratic,51.6,True,False,False
-1964,house,New York,NY,27,Katharine St. George,Republican,48.4,False,True,False
-1964,house,New York,NY,28,Joseph Y. Resnick,Democratic,51.8,True,False,False
-1964,house,New York,NY,28,J. Ernest Wharton,Republican,45.4,False,True,False
-1964,house,New York,NY,29,Leo W. O'Brien,Democratic,69.2,True,True,False
-1964,house,New York,NY,29,John D. Meader,Republican,30.8,False,False,False
-1964,house,New York,NY,30,Carleton J. King,Republican,50.3,True,True,False
-1964,house,New York,NY,30,Joseph J. Martin,Democratic,49.7,False,False,False
-1964,house,New York,NY,31,Robert C. McEwen,Republican,54.8,True,False,True
-1964,house,New York,NY,31,Raymond E. Bishop,Democratic,45.2,False,False,True
-1964,house,New York,NY,32,Alexander Pirnie,Republican,53.4,True,True,False
-1964,house,New York,NY,32,Robert Castle,Democratic,46.6,False,False,False
-1964,house,New York,NY,33,Howard W. Robison,Republican,58.4,True,True,False
-1964,house,New York,NY,33,John L. Joy,Democratic,41.6,False,False,False
-1964,house,New York,NY,34,James M. Hanley,Democratic,51.2,True,False,False
-1964,house,New York,NY,34,R. Walter Riehlman,Republican,48.8,False,True,False
-1964,house,New York,NY,35,Samuel S. Stratton,Democratic,64.0,True,True,False
-1964,house,New York,NY,35,Robert M. Quigley,Republican,36.0,False,False,False
-1964,house,New York,NY,36,Frank Horton,Republican,56.0,True,True,False
-1964,house,New York,NY,36,John C. Williams,Democratic,42.5,False,False,False
-1964,house,New York,NY,37,Barber Conable,Republican,54.2,True,False,True
-1964,house,New York,NY,37,Neil F. Bubel,Democratic,44.0,False,False,True
-1964,house,New York,NY,38,Charles Goodell,Republican,59.6,True,True,False
-1964,house,New York,NY,38,Robert V. Kelley,Democratic,40.4,False,False,False
-1964,house,New York,NY,39,Richard D. McCarthy,Democratic,52.8,True,False,False
-1964,house,New York,NY,39,John R. Pillion,Republican,47.2,False,True,False
-1964,house,New York,NY,40,Henry P. Smith III,Republican,51.5,True,False,True
-1964,house,New York,NY,40,Wesley J. Hilts,Democratic,46.3,False,False,True
-1964,house,New York,NY,41,Thaddeus J. Dulski,Democratic,82.1,True,True,False
-1964,house,New York,NY,41,Joseph A. Klawon,Republican,17.9,False,False,False
-1964,house,North Carolina,NC,1,Herbert Covington Bonner,Democratic,82.6,True,True,False
-1964,house,North Carolina,NC,1,Zeno O. Ratcliff,Republican,17.4,False,False,False
-1964,house,North Carolina,NC,2,Lawrence H. Fountain,Democratic,100.0,True,True,False
-1964,house,North Carolina,NC,3,David N. Henderson,Democratic,67.4,True,True,False
-1964,house,North Carolina,NC,3,Sherman T. Rock,Republican,32.6,False,False,False
-1964,house,North Carolina,NC,4,Harold D. Cooley,Democratic,51.8,True,True,False
-1964,house,North Carolina,NC,4,Jim Gardner,Republican,48.2,False,False,False
-1964,house,North Carolina,NC,5,Ralph James Scott,Democratic,51.6,True,True,False
-1964,house,North Carolina,NC,5,W. A. Armfield,Republican,48.4,False,False,False
-1964,house,North Carolina,NC,6,Horace R. Kornegay,Democratic,61.4,True,True,False
-1964,house,North Carolina,NC,6,Walter G. Green,Republican,38.6,False,False,False
-1964,house,North Carolina,NC,7,Alton Lennon,Democratic,100.0,True,True,False
-1964,house,North Carolina,NC,8,Charles R. Jonas,Republican,54.3,True,True,False
-1964,house,North Carolina,NC,8,W. D. James,Democratic,45.7,False,False,False
-1964,house,North Carolina,NC,9,Jim Broyhill,Republican,55.2,True,True,False
-1964,house,North Carolina,NC,9,Robert M. Davis,Democratic,44.8,False,False,False
-1964,house,North Carolina,NC,10,Basil Whitener,Democratic,58.6,True,True,False
-1964,house,North Carolina,NC,10,W. Hall Young,Republican,41.4,False,False,False
-1964,house,North Carolina,NC,11,Roy A. Taylor,Democratic,60.5,True,True,False
-1964,house,North Carolina,NC,11,Clyde M. Roberts,Republican,39.5,False,False,False
-1964,house,North Dakota,ND,1,Mark Andrews,Republican,52.1,True,True,False
-1964,house,North Dakota,ND,1,George A. Sinner,Democratic-NPL,47.4,False,False,False
-1964,house,North Dakota,ND,1,Eugene Van Der Hoeven,Independent,0.3,False,False,False
-1964,house,North Dakota,ND,1,Roger Vorachek,Independent,0.2,False,False,False
-1964,house,North Dakota,ND,2,Rolland W. Redlin,Democratic-NPL,52.5,True,False,False
-1964,house,North Dakota,ND,2,Don L. Short,Republican,47.5,False,True,False
-1964,house,Ohio,OH,1,John J. Gilligan,Democratic,51.9,True,False,False
-1964,house,Ohio,OH,1,Carl West Rich,Republican,48.1,False,True,False
-1964,house,Ohio,OH,2,Donald D. Clancy,Republican,60.5,True,True,False
-1964,house,Ohio,OH,2,H. A. Sand,Democratic,39.5,False,False,False
-1964,house,Ohio,OH,3,Rodney M. Love,Democratic,52.0,True,False,False
-1964,house,Ohio,OH,3,Paul F. Schenck,Republican,48.0,False,True,False
-1964,house,Ohio,OH,4,William M. McCulloch,Republican,55.7,True,True,False
-1964,house,Ohio,OH,4,Robert H. Mihlbaugh,Democratic,44.3,False,False,False
-1964,house,Ohio,OH,5,Del Latta,Republican,65.9,True,True,False
-1964,house,Ohio,OH,5,Milford Landis,Democratic,34.1,False,False,False
-1964,house,Ohio,OH,6,Bill Harsha,Republican,60.1,True,True,False
-1964,house,Ohio,OH,6,Frank E. Smith,Democratic,39.9,False,False,False
-1964,house,Ohio,OH,7,Clarence J. Brown,Republican,56.8,True,True,False
-1964,house,Ohio,OH,7,Jerry R. Graham,Democratic,43.2,False,False,False
-1964,house,Ohio,OH,8,Jackson Edward Betts,Republican,61.8,True,True,False
-1964,house,Ohio,OH,8,Frank Bennett,Democratic,38.2,False,False,False
-1964,house,Ohio,OH,9,Thomas L. Ashley,Democratic,62.9,True,True,False
-1964,house,Ohio,OH,9,John O. Celusta,Republican,37.1,False,False,False
-1964,house,Ohio,OH,10,Walter H. Moeller,Democratic,52.4,True,False,False
-1964,house,Ohio,OH,10,Pete Abele,Republican,47.6,False,True,False
-1964,house,Ohio,OH,11,J. William Stanton,Republican,55.4,True,False,False
-1964,house,Ohio,OH,11,C. D. Lambros,Democratic,44.6,False,False,False
-1964,house,Ohio,OH,12,Samuel L. Devine,Republican,55.4,True,True,False
-1964,house,Ohio,OH,12,Robert L. Van Heyde,Democratic,44.6,False,False,False
-1964,house,Ohio,OH,13,Charles Adams Mosher,Republican,54.7,True,True,False
-1964,house,Ohio,OH,13,Louis Frey,Democratic,45.3,False,False,False
-1964,house,Ohio,OH,14,William Hanes Ayres,Republican,54.7,True,True,False
-1964,house,Ohio,OH,14,Frances McGovern,Democratic,45.3,False,False,False
-1964,house,Ohio,OH,15,Robert T. Secrest,Democratic,66.3,True,True,False
-1964,house,Ohio,OH,15,Randall Metcalf,Republican,33.7,False,False,False
-1964,house,Ohio,OH,16,Frank T. Bow,Republican,52.2,True,True,False
-1964,house,Ohio,OH,16,Robert D. Freeman,Democratic,47.8,False,False,False
-1964,house,Ohio,OH,17,John M. Ashbrook,Republican,51.5,True,True,False
-1964,house,Ohio,OH,17,Robert W. Levering,Democratic,48.5,False,False,False
-1964,house,Ohio,OH,18,Wayne Hays,Democratic,68.8,True,True,False
-1964,house,Ohio,OH,18,Allen J. Dalrymple,Republican,31.2,False,False,False
-1964,house,Ohio,OH,19,Michael J. Kirwan,Democratic,76.3,True,True,False
-1964,house,Ohio,OH,19,Albert James,Republican,23.7,False,False,False
-1964,house,Ohio,OH,20,Michael A. Feighan,Democratic,74.4,True,True,False
-1964,house,Ohio,OH,20,Joseph A. Cipollone,Republican,25.6,False,False,False
-1964,house,Ohio,OH,21,Charles Vanik,Democratic,90.1,True,True,False
-1964,house,Ohio,OH,21,Eugene A. Smith,Republican,9.9,False,False,False
-1964,house,Ohio,OH,22,Frances P. Bolton,Republican,56.6,True,True,False
-1964,house,Ohio,OH,22,Chat Paterson,Democratic,43.4,False,False,False
-1964,house,Ohio,OH,23,William Edwin Minshall Jr.,Republican,67.2,True,True,False
-1964,house,Ohio,OH,23,Norbert G. Dennerll Jr.,Democratic,32.8,False,False,False
-1964,house,Ohio,OH,AL,Robert E. Sweeney,Democratic,52.2,True,False,True
-1964,house,Ohio,OH,AL,Oliver P. Bolton,Republican,47.8,False,False,True
-1964,house,Oklahoma,OK,1,Page Belcher,Republican,63.5,True,True,False
-1964,house,Oklahoma,OK,1,Doug Martin,Democratic,36.5,False,False,False
-1964,house,Oklahoma,OK,2,Ed Edmondson,Democratic,61.4,True,True,False
-1964,house,Oklahoma,OK,2,George L. Lange,Republican,38.6,False,False,False
-1964,house,Oklahoma,OK,3,Carl Albert,Democratic,79.0,True,True,False
-1964,house,Oklahoma,OK,3,Frank D. McSherry,Republican,21.0,False,False,False
-1964,house,Oklahoma,OK,4,Tom Steed,Democratic,100.0,True,True,False
-1964,house,Oklahoma,OK,5,John Jarman,Democratic,70.8,True,True,False
-1964,house,Oklahoma,OK,5,Homer Cowan,Republican,29.2,False,False,False
-1964,house,Oklahoma,OK,6,Jed Johnson Jr.,Democratic,56.7,True,False,False
-1964,house,Oklahoma,OK,6,Bayard C. Auchincloss,Republican,43.3,False,False,False
-1964,house,Oregon,OR,1,Wendell Wyatt,Republican,53.1,True,False,True
-1964,house,Oregon,OR,1,R. Blaine Whipple,Democratic,46.9,False,False,True
-1964,house,Oregon,OR,2,Al Ullman,Democratic,68.1,True,True,False
-1964,house,Oregon,OR,2,Everett J. Thoren,Republican,31.9,False,False,False
-1964,house,Oregon,OR,3,Edith Green,Democratic,65.7,True,True,False
-1964,house,Oregon,OR,3,Lyle Dean,Republican,34.3,False,False,False
-1964,house,Oregon,OR,4,Robert B. Duncan,Democratic,64.8,True,True,False
-1964,house,Oregon,OR,4,Paul Jaffarian,Republican,35.2,False,False,False
-1964,house,Pennsylvania,PA,1,William A. Barrett,Democratic,71.8,True,True,False
-1964,house,Pennsylvania,PA,1,Alvin J. Bello,Republican,28.2,False,False,False
-1964,house,Pennsylvania,PA,2,Robert N. C. Nix Sr.,Democratic,80.2,True,True,False
-1964,house,Pennsylvania,PA,2,Melvin C. Howell,Republican,19.8,False,False,False
-1964,house,Pennsylvania,PA,3,James A. Byrne,Democratic,72.0,True,True,False
-1964,house,Pennsylvania,PA,3,John J. Poserina Jr.,Republican,28.0,False,False,False
-1964,house,Pennsylvania,PA,4,Herman Toll,Democratic,64.1,True,True,False
-1964,house,Pennsylvania,PA,4,James R. Cavanaugh,Republican,35.9,False,False,False
-1964,house,Pennsylvania,PA,5,William J. Green III,Democratic,65.2,True,True,False
-1964,house,Pennsylvania,PA,5,Edward H. Rovner,Republican,34.8,False,False,False
-1964,house,Pennsylvania,PA,6,George M. Rhodes,Democratic,62.1,True,True,False
-1964,house,Pennsylvania,PA,6,James B. Bamford,Republican,37.9,False,False,False
-1964,house,Pennsylvania,PA,7,George Watkins,Republican,51.1,True,False,True
-1964,house,Pennsylvania,PA,7,Leonard Bachman,Democratic,48.9,False,False,True
-1964,house,Pennsylvania,PA,8,Willard S. Curtin,Republican,51.1,True,True,False
-1964,house,Pennsylvania,PA,8,Ralph O. Samuel,Democratic,48.9,False,False,False
-1964,house,Pennsylvania,PA,9,Paul B. Dague,Republican,57.7,True,True,False
-1964,house,Pennsylvania,PA,9,John A. O'Brien,Democratic,42.3,False,False,False
-1964,house,Pennsylvania,PA,10,Joseph M. McDade,Republican,50.8,True,True,False
-1964,house,Pennsylvania,PA,10,James J. Haggerty,Democratic,49.2,False,False,False
-1964,house,Pennsylvania,PA,11,Dan Flood,Democratic,77.4,True,True,False
-1964,house,Pennsylvania,PA,11,Charles R. Thomas,Republican,22.6,False,False,False
-1964,house,Pennsylvania,PA,12,J. Irving Whalley,Republican,58.6,True,True,False
-1964,house,Pennsylvania,PA,12,Paul A. Stephens,Democratic,41.4,False,False,False
-1964,house,Pennsylvania,PA,13,Richard Schweiker,Republican,59.1,True,True,False
-1964,house,Pennsylvania,PA,13,William D. Searle,Democratic,40.9,False,False,False
-1964,house,Pennsylvania,PA,14,William S. Moorhead,Democratic,74.8,True,True,False
-1964,house,Pennsylvania,PA,14,Alvin D. Capozzi,Republican,25.2,False,False,False
-1964,house,Pennsylvania,PA,15,Fred B. Rooney,Democratic,66.1,True,True,False
-1964,house,Pennsylvania,PA,15,Leo W. McCormick,Republican,33.9,False,False,False
-1964,house,Pennsylvania,PA,16,John C. Kunkel,Republican,64.1,True,True,False
-1964,house,Pennsylvania,PA,16,William M. Stefanic,Democratic,35.9,False,False,False
-1964,house,Pennsylvania,PA,17,Herman T. Schneebeli,Republican,58.0,True,True,False
-1964,house,Pennsylvania,PA,17,William F. Plankenhorn,Democratic,42.0,False,False,False
-1964,house,Pennsylvania,PA,18,Robert J. Corbett,Republican,62.6,True,True,False
-1964,house,Pennsylvania,PA,18,Frank J. Reed,Democratic,37.4,False,False,False
-1964,house,Pennsylvania,PA,19,Nathaniel N. Craley Jr.,Democratic,50.8,True,False,False
-1964,house,Pennsylvania,PA,19,George A. Goodling,Republican,49.2,False,True,False
-1964,house,Pennsylvania,PA,20,Elmer J. Holland,Democratic,74.4,True,True,True
-1964,house,Pennsylvania,PA,20,Ronald Bryan,Republican,25.6,False,False,True
-1964,house,Pennsylvania,PA,21,John Herman Dent,Democratic,65.8,True,True,False
-1964,house,Pennsylvania,PA,21,Thomas M. Schooley Jr.,Republican,34.2,False,False,False
-1964,house,Pennsylvania,PA,22,John P. Saylor,Republican,57.0,True,True,False
-1964,house,Pennsylvania,PA,22,James E. McCaffrey,Democratic,43.0,False,False,False
-1964,house,Pennsylvania,PA,23,Albert W. Johnson,Republican,54.9,True,True,False
-1964,house,Pennsylvania,PA,23,John Still,Democratic,45.1,False,False,False
-1964,house,Pennsylvania,PA,24,Joseph P. Vigorito,Democratic,50.8,True,False,False
-1964,house,Pennsylvania,PA,24,James D. Weaver,Republican,49.2,False,True,False
-1964,house,Pennsylvania,PA,25,Frank M. Clark,Democratic,70.3,True,True,False
-1964,house,Pennsylvania,PA,25,John Loth,Republican,29.7,False,False,False
-1964,house,Pennsylvania,PA,26,Thomas E. Morgan,Democratic,68.1,True,True,False
-1964,house,Pennsylvania,PA,26,Paul P. Riggle,Republican,31.9,False,False,False
-1964,house,Pennsylvania,PA,27,James G. Fulton,Republican,62.7,True,True,False
-1964,house,Pennsylvania,PA,27,John A. Young,Democratic,37.3,False,False,False
-1964,house,Rhode Island,RI,1,Fernand St Germain,Democratic,66.3,True,True,False
-1964,house,Rhode Island,RI,1,Rolland H. Blanchette,Republican,33.7,False,False,False
-1964,house,Rhode Island,RI,2,John E. Fogarty,Democratic,81.3,True,True,False
-1964,house,Rhode Island,RI,2,Guy J. Wells,Republican,18.7,False,False,False
-1964,house,South Carolina,SC,1,L. Mendel Rivers,Democratic,100.0,True,True,False
-1964,house,South Carolina,SC,2,Albert Watson,Democratic,100.0,True,True,False
-1964,house,South Carolina,SC,3,William J. B. Dorn,Democratic,100.0,True,True,True
-1964,house,South Carolina,SC,4,Robert T. Ashmore,Democratic,100.0,True,True,False
-1964,house,South Carolina,SC,5,Thomas S. Gettys,Democratic,66.7,True,False,True
-1964,house,South Carolina,SC,5,Robert M. Doster,Republican,33.3,False,False,True
-1964,house,South Carolina,SC,6,John L. McMillan,Democratic,65.0,True,True,False
-1964,house,South Carolina,SC,6,E. R. Kirkland,Republican,35.0,False,False,False
-1964,house,South Dakota,SD,1,Ben Reifel,Republican,57.5,True,True,False
-1964,house,South Dakota,SD,1,George May,Democratic,42.5,False,False,False
-1964,house,South Dakota,SD,2,E. Y. Berry,Republican,56.0,True,True,False
-1964,house,South Dakota,SD,2,Byron T. Brown,Democratic,44.0,False,False,False
-1964,house,Tennessee,TN,1,Jimmy Quillen,Republican,71.7,True,True,False
-1964,house,Tennessee,TN,1,Arthur Bright,Democratic,28.3,False,False,False
-1964,house,Tennessee,TN,2,John Duncan Sr.,Republican,53.8,True,False,True
-1964,house,Tennessee,TN,2,Willard V. Yarbrough,Democratic,44.5,False,False,True
-1964,house,Tennessee,TN,2,J. D. Boles,Independent,1.0,False,False,True
-1964,house,Tennessee,TN,2,Frank Haile,Independent,0.7,False,False,True
-1964,house,Tennessee,TN,3,Bill Brock,Republican,54.6,True,True,False
-1964,house,Tennessee,TN,3,Robert M. Summitt,Democratic,45.4,False,False,False
-1964,house,Tennessee,TN,4,Joe L. Evins,Democratic,100.0,True,True,False
-1964,house,Tennessee,TN,5,Richard Fulton,Democratic,59.8,True,True,False
-1964,house,Tennessee,TN,5,Bill R. Wills,Republican,40.2,False,False,False
-1964,house,Tennessee,TN,6,William Anderson,Democratic,78.2,True,False,True
-1964,house,Tennessee,TN,6,Cecil R. Hill,Republican,21.8,False,False,True
-1964,house,Tennessee,TN,7,Tom J. Murray,Democratic,53.5,True,True,False
-1964,house,Tennessee,TN,7,Julius Hurst,Republican,36.9,False,False,False
-1964,house,Tennessee,TN,7,Earl MacLin,Independent,9.6,False,False,False
-1964,house,Tennessee,TN,8,Fats Everett,Democratic,93.9,True,True,False
-1964,house,Tennessee,TN,8,Sara Flannary,Independent,6.1,False,False,False
-1964,house,Tennessee,TN,9,George W. Grider,Democratic,52.5,True,False,False
-1964,house,Tennessee,TN,9,Robert B. James,Republican,47.2,False,False,False
-1964,house,Tennessee,TN,9,L. B. Winfield,Independent,0.3,False,False,False
-1964,house,Texas,TX,1,Wright Patman,Democratic,74.6,True,True,False
-1964,house,Texas,TX,1,Mrs. William E. Jones,Republican,25.4,False,False,False
-1964,house,Texas,TX,2,Jack Brooks,Democratic,62.7,True,True,False
-1964,house,Texas,TX,2,John Greco,Republican,37.3,False,False,False
-1964,house,Texas,TX,3,Lindley Beckworth,Democratic,59.3,True,True,False
-1964,house,Texas,TX,3,James Warren,Republican,40.7,False,False,False
-1964,house,Texas,TX,4,Ray Roberts,Democratic,81.4,True,True,False
-1964,house,Texas,TX,4,Fred Banfield,Republican,18.6,False,False,False
-1964,house,Texas,TX,5,Earle Cabell,Democratic,57.5,True,False,False
-1964,house,Texas,TX,5,Bruce R. Alger,Republican,42.5,False,True,False
-1964,house,Texas,TX,6,Olin E. Teague,Democratic,82.2,True,True,False
-1964,house,Texas,TX,6,William Van Winkle,Republican,17.8,False,False,False
-1964,house,Texas,TX,7,John Dowdy,Democratic,83.6,True,True,False
-1964,house,Texas,TX,7,James W. Orr,Republican,16.4,False,False,False
-1964,house,Texas,TX,8,Albert Thomas,Democratic,76.8,True,True,False
-1964,house,Texas,TX,8,Bob Gilbert,Republican,23.2,False,False,False
-1964,house,Texas,TX,9,Clark W. Thompson,Democratic,75.3,True,True,False
-1964,house,Texas,TX,9,Dave Oakes,Republican,24.7,False,False,False
-1964,house,Texas,TX,10,J. J. Pickle,Democratic,75.8,True,True,False
-1964,house,Texas,TX,10,Billie Pratt,Republican,24.2,False,False,False
-1964,house,Texas,TX,11,William R. Poage,Democratic,81.5,True,True,False
-1964,house,Texas,TX,11,Charles M. Isenhower,Republican,18.5,False,False,False
-1964,house,Texas,TX,12,Jim Wright,Democratic,68.5,True,True,False
-1964,house,Texas,TX,12,Fred Dielman,Republican,31.5,False,False,False
-1964,house,Texas,TX,13,Graham B. Purcell Jr.,Democratic,75.2,True,True,False
-1964,house,Texas,TX,13,George Corse,Republican,24.8,False,False,False
-1964,house,Texas,TX,14,John Andrew Young,Democratic,77.5,True,True,False
-1964,house,Texas,TX,14,W. F. Patton,Republican,22.5,False,False,False
-1964,house,Texas,TX,15,Kika de la Garza,Democratic,69.4,True,False,True
-1964,house,Texas,TX,15,Joe B. Coulter,Republican,30.6,False,False,True
-1964,house,Texas,TX,16,Richard Crawford White,Democratic,55.7,True,False,False
-1964,house,Texas,TX,16,Ed Foreman,Republican,44.3,False,True,False
-1964,house,Texas,TX,17,Omar Burleson,Democratic,76.4,True,True,False
-1964,house,Texas,TX,17,Phil Bridges,Republican,23.6,False,False,False
-1964,house,Texas,TX,18,Walter E. Rogers,Democratic,55.0,True,True,False
-1964,house,Texas,TX,18,Robert Price,Republican,45.0,False,False,False
-1964,house,Texas,TX,19,George H. Mahon,Democratic,77.6,True,True,False
-1964,house,Texas,TX,19,Joe B. Philips,Republican,22.4,False,False,False
-1964,house,Texas,TX,20,Henry B. González,Democratic,64.6,True,True,False
-1964,house,Texas,TX,20,John O'Connell,Republican,35.4,False,False,False
-1964,house,Texas,TX,21,O. C. Fisher,Democratic,78.1,True,True,False
-1964,house,Texas,TX,21,Harry Claypool,Republican,21.9,False,False,False
-1964,house,Texas,TX,22,Robert R. Casey,Democratic,58.1,True,True,False
-1964,house,Texas,TX,22,Desmond Barry,Republican,41.9,False,False,False
-1964,house,Texas,TX,AL,Joe R. Pool,Democratic,66.9,True,True,False
-1964,house,Texas,TX,AL,Bill Hayes,Republican,32.7,False,False,False
-1964,house,Texas,TX,AL,Constitution,Constitution,0.4,False,False,False
-1964,house,Utah,UT,1,Laurence J. Burton,Republican,56.0,True,True,False
-1964,house,Utah,UT,1,William G. Bruhn,Democratic,44.0,False,False,False
-1964,house,Utah,UT,2,David S. King,Democratic,57.5,True,False,True
-1964,house,Utah,UT,2,Thomas G. Judd,Republican,42.5,False,False,True
-1964,house,Vermont,VT,AL,Robert Stafford,Republican,57.8,True,True,False
-1964,house,Vermont,VT,AL,Bernard G. O'Shea,Democratic,42.2,False,False,False
-1964,house,Virginia,VA,1,Thomas N. Downing,Democratic,78.7,True,True,False
-1964,house,Virginia,VA,1,Wayne C. Thiessen,Republican,21.3,False,False,False
-1964,house,Virginia,VA,2,Porter Hardy Jr.,Democratic,68.7,True,True,False
-1964,house,Virginia,VA,2,Wayne Lustig,Republican,21.6,False,False,False
-1964,house,Virginia,VA,2,H. W. Grady Speers Jr.,Independent,9.7,False,False,False
-1964,house,Virginia,VA,3,David E. Satterfield III,Democratic,34.5,True,False,True
-1964,house,Virginia,VA,3,Richard D. Obenshain,Republican,34.0,False,False,True
-1964,house,Virginia,VA,3,Edward E. Haddock,Independent,30.8,False,False,True
-1964,house,Virginia,VA,3,Stanley Smith Jr.,Independent,0.7,False,False,True
-1964,house,Virginia,VA,4,Watkins Abbitt,Democratic,69.5,True,True,False
-1964,house,Virginia,VA,4,S. W. Tucker,Independent,30.5,False,False,False
-1964,house,Virginia,VA,5,William M. Tuck,Democratic,63.5,True,True,False
-1964,house,Virginia,VA,5,Robert L. Gilliam,Independent,36.5,False,False,False
-1964,house,Virginia,VA,6,Richard H. Poff,Republican,56.2,True,True,False
-1964,house,Virginia,VA,6,William B. Hopkins,Democratic,43.8,False,False,False
-1964,house,Virginia,VA,7,John O. Marsh Jr.,Democratic,69.6,True,True,False
-1964,house,Virginia,VA,7,Roy Erickson,Republican,30.4,False,False,False
-1964,house,Virginia,VA,8,Howard W. Smith,Democratic,70.3,True,True,False
-1964,house,Virginia,VA,8,Floyd Caldwell Bagley,Independent,29.7,False,False,False
-1964,house,Virginia,VA,9,W. Pat Jennings,Democratic,58.2,True,True,False
-1964,house,Virginia,VA,9,Glen M. Williams,Republican,41.8,False,False,False
-1964,house,Virginia,VA,10,Joel Broyhill,Republican,50.7,True,True,False
-1964,house,Virginia,VA,10,Augustus C. Johnson,Democratic,49.3,False,False,False
-1964,house,Washington,WA,1,Thomas Pelly,Republican,59.9,True,True,False
-1964,house,Washington,WA,1,Edward Palmason,Democratic,40.1,False,False,False
-1964,house,Washington,WA,2,Lloyd Meeds,Democratic,54.9,True,False,False
-1964,house,Washington,WA,2,Jack Westland,Republican,45.1,False,True,False
-1964,house,Washington,WA,3,Julia Butler Hansen,Democratic,70.2,True,True,False
-1964,house,Washington,WA,3,Harold L. Anderson,Republican,29.8,False,False,False
-1964,house,Washington,WA,4,Catherine Dean May,Republican,65.3,True,True,False
-1964,house,Washington,WA,4,Stephen H. Huza,Democratic,34.7,False,False,False
-1964,house,Washington,WA,5,Tom Foley,Democratic,53.4,True,False,False
-1964,house,Washington,WA,5,Walt Horan,Republican,46.6,False,True,False
-1964,house,Washington,WA,6,Floyd Hicks,Democratic,52.1,True,False,False
-1964,house,Washington,WA,6,Thor C. Tollefson,Republican,47.9,False,True,False
-1964,house,Washington,WA,7,Brock Adams,Democratic,55.6,True,False,False
-1964,house,Washington,WA,7,K. William Stinson,Republican,44.4,False,True,False
-1964,house,West Virginia,WV,1,Arch A. Moore Jr.,Republican,61.4,True,True,False
-1964,house,West Virginia,WV,1,John L. Bailey,Democratic,38.6,False,False,False
-1964,house,West Virginia,WV,2,Harley Orrin Staggers,Democratic,64.9,True,True,False
-1964,house,West Virginia,WV,2,Stanley R. Cox Jr.,Republican,35.1,False,False,False
-1964,house,West Virginia,WV,3,John M. Slack Jr.,Democratic,65.4,True,True,False
-1964,house,West Virginia,WV,3,Jim Comstock,Republican,34.6,False,False,False
-1964,house,West Virginia,WV,4,Ken Hechler,Democratic,61.2,True,True,False
-1964,house,West Virginia,WV,4,Jack L. Miller,Republican,38.8,False,False,False
-1964,house,West Virginia,WV,5,James Kee,Democratic,70.0,True,False,True
-1964,house,West Virginia,WV,5,Wade H. Ballard III,Republican,30.0,False,False,True
-1964,house,Wisconsin,WI,1,Lynn E. Stalbaum,Democratic,51.5,True,False,False
-1964,house,Wisconsin,WI,1,Henry C. Schadeberg,Republican,48.5,False,True,False
-1964,house,Wisconsin,WI,2,Robert Kastenmeier,Democratic,63.6,True,True,False
-1964,house,Wisconsin,WI,2,Carl V. Kolata,Republican,36.4,False,False,False
-1964,house,Wisconsin,WI,3,Vernon W. Thomson,Republican,60.6,True,True,True
-1964,house,Wisconsin,WI,3,Harold C. Ristow,Democratic,39.4,False,False,True
-1964,house,Wisconsin,WI,4,Clement Zablocki,Democratic,74.2,True,True,False
-1964,house,Wisconsin,WI,4,Edward E. Estkowski,Republican,25.8,False,False,False
-1964,house,Wisconsin,WI,5,Henry S. Reuss,Democratic,76.0,True,True,False
-1964,house,Wisconsin,WI,5,Robert Taylor,Republican,24.0,False,False,False
-1964,house,Wisconsin,WI,6,John Abner Race,Democratic,50.8,True,False,False
-1964,house,Wisconsin,WI,6,William Van Pelt,Republican,49.2,False,True,False
-1964,house,Wisconsin,WI,7,Melvin Laird,Republican,61.8,True,True,False
-1964,house,Wisconsin,WI,7,Thomas E. Martin,Democratic,38.2,False,False,False
-1964,house,Wisconsin,WI,8,John W. Byrnes,Republican,59.6,True,True,False
-1964,house,Wisconsin,WI,8,Cletus J. Johnson,Democratic,40.4,False,False,False
-1964,house,Wisconsin,WI,9,Glenn Robert Davis,Republican,55.3,True,False,True
-1964,house,Wisconsin,WI,9,James P. Buckley,Democratic,44.7,False,False,True
-1964,house,Wisconsin,WI,10,Alvin O'Konski,Republican,56.2,True,True,False
-1964,house,Wisconsin,WI,10,Edmund A. Nix,Democratic,43.8,False,False,False
-1964,house,Wyoming,WY,AL,Teno Roncalio,Democratic,50.8,True,False,True
-1964,house,Wyoming,WY,AL,William Henry Harrison III,Republican,49.2,False,True,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+1964,house,Alabama,AL,1,,Jack Edwards,Republican,,59.9,True,False,True
+1964,house,Alabama,AL,1,,John M. Tyson,Democratic,,40.1,False,False,True
+1964,house,Alabama,AL,2,,William L. Dickinson,Republican,,61.7,True,False,False
+1964,house,Alabama,AL,2,,George M. Grant,Democratic,,36.6,False,False,False
+1964,house,Alabama,AL,2,,George Rivers,Independent,,1.7,False,False,False
+1964,house,Alabama,AL,3,,George W. Andrews,Democratic,,100.0,True,False,False
+1964,house,Alabama,AL,4,,Glenn Andrews,Republican,,58.6,True,False,False
+1964,house,Alabama,AL,4,,Kenneth A. Roberts,Democratic,,40.6,False,False,False
+1964,house,Alabama,AL,4,,Rod Lumley,Independent,,0.9,False,False,False
+1964,house,Alabama,AL,5,,Armistead I. Selden Jr.,Democratic,,53.0,True,False,False
+1964,house,Alabama,AL,5,,Robert French,Republican,,47.0,False,False,False
+1964,house,Alabama,AL,6,,John H. Buchanan Jr.,Republican,,60.6,True,False,False
+1964,house,Alabama,AL,6,,George Huddleston Jr.,Democratic,,39.4,False,False,False
+1964,house,Alabama,AL,7,,James D. Martin,Republican,,59.6,True,False,True
+1964,house,Alabama,AL,7,,George C. Hawkins,Democratic,,40.4,False,False,True
+1964,house,Alabama,AL,8,,Robert E. Jones Jr.,Democratic,,100.0,True,False,False
+1964,house,Alaska,AK,AL,67146,Ralph Rivers,Democratic,,51.5,True,True,False
+1964,house,Alaska,AK,AL,67146,Lowell Thomas Jr.,Republican,32556,48.5,False,False,False
+1964,house,Arizona,AZ,1,,John Jacob Rhodes,Republican,,55.3,True,True,False
+1964,house,Arizona,AZ,1,,John Ahearn,Democratic,,44.7,False,False,False
+1964,house,Arizona,AZ,2,,Mo Udall,Democratic,,58.7,True,True,False
+1964,house,Arizona,AZ,2,,William E. Kimble,Republican,,41.3,False,False,False
+1964,house,Arizona,AZ,3,,George F. Senner Jr.,Democratic,,51.5,True,True,False
+1964,house,Arizona,AZ,3,,Sam Steiger,Republican,,48.5,False,False,False
+1964,house,Arkansas,AR,1,,Ezekiel C. Gathings,Democratic,,100.0,True,True,False
+1964,house,Arkansas,AR,2,,Wilbur Mills,Democratic,,100.0,True,True,False
+1964,house,Arkansas,AR,3,,James William Trimble,Democratic,,54.7,True,True,False
+1964,house,Arkansas,AR,3,,J. E. Hinshaw,Republican,,45.3,False,False,False
+1964,house,Arkansas,AR,4,,Oren Harris,Democratic,,100.0,True,True,False
+1964,house,California,CA,1,238710,Don Clausen,Republican,,59.1,True,True,False
+1964,house,California,CA,1,238710,George McCabe,Democratic,97651,40.9,False,False,False
+1964,house,California,CA,2,194620,Bizz Johnson,Democratic,,64.6,True,True,False
+1964,house,California,CA,2,194620,Chester C. Merriam,Republican,68835,35.4,False,False,False
+1964,house,California,CA,3,224332,John E. Moss,Democratic,166688,74.3,True,True,False
+1964,house,California,CA,3,224332,Einar B. Gjelsteen,Republican,,25.7,False,False,False
+1964,house,California,CA,4,118122,Robert Leggett,Democratic,,71.9,True,True,False
+1964,house,California,CA,4,118122,Ivan Norris,Republican,33160,28.1,False,False,False
+1964,house,California,CA,5,71639,Phillip Burton,Democratic,71638,100.0,True,True,False
+1964,house,California,CA,6,197763,William S. Mailliard,Republican,125869,63.6,True,True,False
+1964,house,California,CA,6,197763,Thomas P. O'Toole,Democratic,,36.4,False,False,False
+1964,house,California,CA,7,192592,Jeffery Cohelan,Democratic,100901,66.1,True,True,False
+1964,house,California,CA,7,192592,Lawrence E. McNutt,Republican,51675,33.9,False,False,False
+1964,house,California,CA,8,154842,George P. Miller,Democratic,108771,70.3,True,True,False
+1964,house,California,CA,8,154842,Donald E. McKay,Republican,46063,29.7,False,False,False
+1964,house,California,CA,9,166229,Don Edwards,Democratic,115954,69.8,True,True,False
+1964,house,California,CA,9,166229,William P. Hyde,Republican,,30.2,False,False,False
+1964,house,California,CA,10,239277,Charles Gubser,Republican,,63.1,True,True,False
+1964,house,California,CA,10,239277,E. Day Carman,Democratic,88240,36.9,False,False,False
+1964,house,California,CA,11,211774,J. Arthur Younger,Republican,116022,54.8,True,True,False
+1964,house,California,CA,11,211774,W. Mark Sullivan,Democratic,95747,45.2,False,False,False
+1964,house,California,CA,12,150373,Burt Talcott,Republican,,61.9,True,True,False
+1964,house,California,CA,12,150373,Sanford Bolz,Democratic,,38.1,False,False,False
+1964,house,California,CA,13,182511,Charles M. Teague,Republican,104744,57.4,True,True,False
+1964,house,California,CA,13,182511,George E. Taylor,Democratic,77763,42.6,False,False,False
+1964,house,California,CA,14,180759,John F. Baldwin Jr.,Republican,117272,64.9,True,True,False
+1964,house,California,CA,14,180759,Russell M. Koch,Democratic,63469,35.1,False,False,False
+1964,house,California,CA,15,154552,John J. McFall,Democratic,109560,70.9,True,True,False
+1964,house,California,CA,15,154552,Kenneth Gibson,Republican,44977,29.1,False,False,False
+1964,house,California,CA,16,176340,B. F. Sisk,Democratic,,66.8,True,True,False
+1964,house,California,CA,16,176340,David T. Harris,Republican,58604,33.2,False,False,False
+1964,house,California,CA,17,141348,Cecil R. King,Democratic,95640,67.7,True,True,False
+1964,house,California,CA,17,141348,Robert Muncaster,Republican,45688,32.3,False,False,False
+1964,house,California,CA,18,181839,Harlan Hagen,Democratic,121304,66.7,True,True,False
+1964,house,California,CA,18,181839,James E. Williams Jr.,Republican,60523,33.3,False,False,False
+1964,house,California,CA,19,149693,Chet Holifield,Democratic,97934,65.4,True,True,False
+1964,house,California,CA,19,149693,C. Everett Hunt,Republican,51747,34.6,False,False,False
+1964,house,California,CA,20,195054,H. Allen Smith,Republican,132402,67.9,True,True,False
+1964,house,California,CA,20,195054,C. Bernard Kaufman,Democratic,62645,32.1,False,False,False
+1964,house,California,CA,21,117677,Augustus Hawkins,Democratic,,90.3,True,True,False
+1964,house,California,CA,21,117677,Rayfield Lundy,Republican,11374,9.7,False,False,False
+1964,house,California,CA,22,186294,James C. Corman,Democratic,94141,50.5,True,True,False
+1964,house,California,CA,22,186294,Robert C. Cline,Republican,92133,49.5,False,False,False
+1964,house,California,CA,23,163664,Del M. Clawson,Republican,90721,55.4,True,True,False
+1964,house,California,CA,23,163664,H. O. Van Petten,Democratic,,44.6,False,False,False
+1964,house,California,CA,24,205758,Glenard P. Lipscomb,Republican,139784,67.9,True,True,False
+1964,house,California,CA,24,205758,Bryan W. Stevens,Democratic,65967,32.1,False,False,False
+1964,house,California,CA,25,146672,Ronald B. Cameron,Democratic,81320,55.4,True,True,False
+1964,house,California,CA,25,146672,Frank J. Walton,Republican,65344,44.6,False,False,False
+1964,house,California,CA,26,193247,James Roosevelt,Democratic,136025,70.4,True,True,False
+1964,house,California,CA,26,193247,Gil Seton,Republican,57209,29.6,False,False,False
+1964,house,California,CA,27,160743,Edwin Reinecke,Republican,83141,51.7,True,False,True
+1964,house,California,CA,27,160743,Tom Bane,Democratic,77587,48.3,False,False,True
+1964,house,California,CA,28,313366,Alphonzo E. Bell Jr.,Republican,205473,65.6,True,True,False
+1964,house,California,CA,28,313366,Gerald H. Gottlieb,Democratic,,34.4,False,False,False
+1964,house,California,CA,29,154049,George Brown Jr.,Democratic,90208,58.6,True,True,False
+1964,house,California,CA,29,154049,Charles J. Farrington Jr.,Republican,63836,41.4,False,False,False
+1964,house,California,CA,30,136248,Edward R. Roybal,Democratic,90329,66.3,True,True,False
+1964,house,California,CA,30,136248,Alfred J. Feder,Republican,45912,33.7,False,False,False
+1964,house,California,CA,31,178529,Charles H. Wilson,Democratic,114246,64.0,True,True,False
+1964,house,California,CA,31,178529,Norman G. Shanahan,Republican,64256,36.0,False,False,False
+1964,house,California,CA,32,192385,Craig Hosmer,Republican,132603,68.9,True,True,False
+1964,house,California,CA,32,192385,Michael Cullen,Democratic,59765,31.1,False,False,False
+1964,house,California,CA,33,210830,Kenneth W. Dyal,Democratic,109047,51.7,True,False,True
+1964,house,California,CA,33,210830,Jerry Pettis,Republican,101742,48.3,False,False,True
+1964,house,California,CA,34,236206,Richard T. Hanna,Democratic,137588,58.3,True,True,False
+1964,house,California,CA,34,236206,Robert A. Geier,Republican,98606,41.7,False,False,False
+1964,house,California,CA,35,258101,James B. Utt,Republican,167791,65.0,True,True,False
+1964,house,California,CA,35,258101,Paul B. Carpenter,Democratic,90295,35.0,False,False,False
+1964,house,California,CA,36,178395,Bob Wilson,Republican,105346,59.1,True,True,False
+1964,house,California,CA,36,178395,Quintin Whelan,Democratic,73034,40.9,False,False,False
+1964,house,California,CA,37,147008,Lionel Van Deerlin,Democratic,85624,58.2,True,True,False
+1964,house,California,CA,37,147008,Dick Wilson,Republican,61373,41.8,False,False,False
+1964,house,California,CA,38,162187,John V. Tunney,Democratic,85661,52.8,True,False,False
+1964,house,California,CA,38,162187,Patrick M. Martin,Republican,76525,47.2,False,True,False
+1964,house,Colorado,CO,1,,Byron G. Rogers,Democratic,,67.5,True,True,False
+1964,house,Colorado,CO,1,,Glenn R. Jones,Republican,,31.9,False,False,False
+1964,house,Colorado,CO,1,,Allen D. Taplin,Socialist Workers,,0.6,False,False,False
+1964,house,Colorado,CO,2,,Roy H. McVicker,Democratic,,50.6,True,False,False
+1964,house,Colorado,CO,2,,Donald G. Brotzman,Republican,,49.4,False,True,False
+1964,house,Colorado,CO,3,,Frank Evans,Democratic,,51.2,True,False,False
+1964,house,Colorado,CO,3,,John Chenoweth,Republican,,48.8,False,True,False
+1964,house,Colorado,CO,4,,Wayne N. Aspinall,Democratic,,63.0,True,True,False
+1964,house,Colorado,CO,4,,Edwin S. Lamm,Republican,,37.0,False,False,False
+1964,house,Connecticut,CT,1,,Emilio Q. Daddario,Democratic,,70.0,True,True,False
+1964,house,Connecticut,CT,1,,James F. Collins,Republican,,30.0,False,False,False
+1964,house,Connecticut,CT,2,,William St. Onge,Democratic,,63.3,True,True,False
+1964,house,Connecticut,CT,2,,Belton A. Copp,Republican,,36.7,False,False,False
+1964,house,Connecticut,CT,3,,Robert Giaimo,Democratic,,63.9,True,True,False
+1964,house,Connecticut,CT,3,,Bernard J. Burns,Republican,,36.1,False,False,False
+1964,house,Connecticut,CT,4,,Donald J. Irwin,Democratic,,51.8,True,False,False
+1964,house,Connecticut,CT,4,,Abner W. Sibal,Republican,,48.2,False,True,False
+1964,house,Connecticut,CT,5,,John S. Monagan,Democratic,,67.3,True,True,False
+1964,house,Connecticut,CT,5,,Charles W. Terrell Jr.,Republican,,32.7,False,False,False
+1964,house,Connecticut,CT,6,,Bernard F. Grabowski,Democratic,,58.7,True,False,False
+1964,house,Connecticut,CT,6,,Thomas Meskill,Republican,,41.3,False,False,False
+1964,house,Delaware,DE,AL,198871,Harris McDowell,Democratic,112361,56.6,True,True,False
+1964,house,Delaware,DE,AL,198871,James H. Snowden,Republican,86254,43.4,False,False,False
+1964,house,Delaware,DE,AL,198871,La Forest,Socialist Labor,256,0.04,False,False,False
+1964,house,Florida,FL,1,,Bob Sikes,Democratic,,100.0,True,True,True
+1964,house,Florida,FL,2,,Charles E. Bennett,Democratic,,72.7,True,True,False
+1964,house,Florida,FL,2,,William T. Stockton Jr.,Republican,,27.3,False,False,False
+1964,house,Florida,FL,3,,Claude Pepper,Democratic,,65.7,True,True,False
+1964,house,Florida,FL,3,,Paul J. O'Neill,Republican,,34.3,False,False,False
+1964,house,Florida,FL,4,,Dante Fascell,Democratic,,63.9,True,True,False
+1964,house,Florida,FL,4,,Jay McGlon,Republican,,36.1,False,False,False
+1964,house,Florida,FL,5,,Syd Herlong,Democratic,,100.0,True,True,False
+1964,house,Florida,FL,6,,Paul Rogers,Democratic,,66.0,True,True,False
+1964,house,Florida,FL,6,,John D. Steele,Republican,,34.0,False,False,False
+1964,house,Florida,FL,7,,James A. Haley,Democratic,,100.0,True,True,False
+1964,house,Florida,FL,8,,D. R. Matthews,Democratic,,100.0,True,True,False
+1964,house,Florida,FL,9,,Don Fuqua,Democratic,,100.0,True,True,False
+1964,house,Florida,FL,10,,Sam Gibbons,Democratic,,100.0,True,True,False
+1964,house,Florida,FL,11,,Edward Gurney,Republican,,60.6,True,True,False
+1964,house,Florida,FL,11,,Thomas S. Kenney,Democratic,,39.4,False,False,False
+1964,house,Florida,FL,12,,William C. Cramer,Republican,,60.6,True,True,False
+1964,house,Florida,FL,12,,F. Marion Harrelson,Democratic,,39.4,False,False,False
+1964,house,Georgia,GA,1,,G. Elliott Hagan,Democratic,,72.3,True,True,False
+1964,house,Georgia,GA,1,,Milton Lent,Independent,,27.7,False,False,False
+1964,house,Georgia,GA,2,,Maston E. O'Neal Jr.,Democratic,,100.0,True,False,True
+1964,house,Georgia,GA,3,,Bo Callaway,Republican,,57.2,True,False,True
+1964,house,Georgia,GA,3,,Garland T. Byrd,Democratic,,42.8,False,False,True
+1964,house,Georgia,GA,4,,James MacKay,Democratic,,56.9,True,False,True
+1964,house,Georgia,GA,4,,Roscoe Pickett,Republican,,43.1,False,False,True
+1964,house,Georgia,GA,5,,Charles L. Weltner,Democratic,,54.0,True,True,False
+1964,house,Georgia,GA,5,,L. J. O'Callaghan,Republican,,46.0,False,False,False
+1964,house,Georgia,GA,6,,John Flynt,Democratic,,100.0,True,False,False
+1964,house,Georgia,GA,7,,John William Davis,Democratic,,54.7,True,True,False
+1964,house,Georgia,GA,7,,Edward Y. Chapin,Republican,,45.3,False,False,False
+1964,house,Georgia,GA,8,,J. Russell Tuten,Democratic,,100.0,True,True,False
+1964,house,Georgia,GA,9,,Phillip M. Landrum,Democratic,,60.5,True,True,False
+1964,house,Georgia,GA,9,,Jack Prince,Democratic,,39.5,False,False,False
+1964,house,Georgia,GA,10,,Robert Grier Stephens Jr.,Democratic,,100.0,True,True,True
+1964,house,Hawaii,HI,AL,,Spark Matsunaga,Democratic,,35.7,True,True,True
+1964,house,Hawaii,HI,AL,,Patsy Mink,Democratic,,27.2,True,False,True
+1964,house,Hawaii,HI,AL,,John E. Milligan,Republican,,22.8,False,False,True
+1964,house,Hawaii,HI,AL,,Richard Ike Sutton,Republican,,14.3,False,False,True
+1964,house,Idaho,ID,1,,Compton I. White Jr.,Democratic,,51.7,True,True,False
+1964,house,Idaho,ID,1,,John Mattmiller,Republican,,48.3,False,False,False
+1964,house,Idaho,ID,2,,George V. Hansen,Republican,,52.2,True,False,False
+1964,house,Idaho,ID,2,,Ralph R. Harding,Democratic,,47.8,False,True,False
+1964,house,Illinois,IL,1,,William L. Dawson,Democratic,,84.9,True,True,False
+1964,house,Illinois,IL,1,,Wilbur N. Daniel,Republican,,15.1,False,False,False
+1964,house,Illinois,IL,2,,Barratt O'Hara,Democratic,,67.3,True,True,False
+1964,house,Illinois,IL,2,,William F. Scannell,Republican,,32.7,False,False,False
+1964,house,Illinois,IL,3,,William T. Murphy,Democratic,,59.1,True,True,False
+1964,house,Illinois,IL,3,,Emmet Byrne,Republican,,40.9,False,False,False
+1964,house,Illinois,IL,4,,Ed Derwinski,Republican,,58.9,True,True,False
+1964,house,Illinois,IL,4,,Ray J. Rybacki,Democratic,,41.1,False,False,False
+1964,house,Illinois,IL,5,,John C. Kluczynski,Democratic,,63.7,True,True,False
+1964,house,Illinois,IL,5,,Robert V. Kotowski,Republican,,36.3,False,False,False
+1964,house,Illinois,IL,6,,Daniel J. Ronan,Democratic,,83.4,True,False,True
+1964,house,Illinois,IL,6,,Joseph W. Halac,Republican,,16.6,False,False,True
+1964,house,Illinois,IL,7,,Frank Annunzio,Democratic,,85.9,True,False,True
+1964,house,Illinois,IL,7,,Ray Wolfram,Republican,,14.1,False,False,True
+1964,house,Illinois,IL,8,,Dan Rostenkowski,Democratic,,66.1,True,True,False
+1964,house,Illinois,IL,8,,Eugene L. Ebrom,Republican,,33.9,False,False,False
+1964,house,Illinois,IL,9,,Sidney R. Yates,Democratic,,63.9,True,False,True
+1964,house,Illinois,IL,9,,Robert S. Decker,Republican,,36.1,False,False,True
+1964,house,Illinois,IL,10,,Harold R. Collier,Republican,,60.8,True,True,False
+1964,house,Illinois,IL,10,,Thomas E. Gause,Democratic,,39.2,False,False,False
+1964,house,Illinois,IL,11,,Roman Pucinski,Democratic,,56.9,True,True,False
+1964,house,Illinois,IL,11,,Chester T. Podgorski,Republican,,43.1,False,False,False
+1964,house,Illinois,IL,12,,Robert McClory,Republican,,58.6,True,True,False
+1964,house,Illinois,IL,12,,John C. Kimball,Democratic,,41.4,False,False,False
+1964,house,Illinois,IL,13,,Donald Rumsfeld,Republican,,57.8,True,True,False
+1964,house,Illinois,IL,13,,Lynn A. Williams,Democratic,,42.2,False,False,False
+1964,house,Illinois,IL,14,,John N. Erlenborn,Republican,,59.0,True,False,True
+1964,house,Illinois,IL,14,,Jerome M. Ziegler,Democratic,,41.0,False,False,True
+1964,house,Illinois,IL,15,,Charlotte Thompson Reid,Republican,,58.4,True,True,False
+1964,house,Illinois,IL,15,,Poppy X. Mitchell,Democratic,,41.6,False,False,False
+1964,house,Illinois,IL,16,,John B. Anderson,Republican,,56.4,True,True,False
+1964,house,Illinois,IL,16,,Robert E. Brinkmeier,Democratic,,43.6,False,False,False
+1964,house,Illinois,IL,17,,Leslie C. Arends,Republican,,56.4,True,True,False
+1964,house,Illinois,IL,17,,Bernard J. Hughes,Democratic,,43.6,False,False,False
+1964,house,Illinois,IL,18,,Robert H. Michel,Republican,,54.0,True,True,False
+1964,house,Illinois,IL,18,,Edward P. Kohlbacher,Democratic,,46.0,False,False,False
+1964,house,Illinois,IL,19,,Gale Schisler,Democratic,,52.4,True,False,False
+1964,house,Illinois,IL,19,,Robert T. McLoskey,Republican,,47.6,False,True,False
+1964,house,Illinois,IL,20,,Paul Findley,Republican,,54.8,True,True,False
+1964,house,Illinois,IL,20,,Lester E. Collins,Democratic,,45.2,False,False,False
+1964,house,Illinois,IL,21,,Kenneth J. Gray,Democratic,,65.0,True,True,False
+1964,house,Illinois,IL,21,,Stillman J. Stanard,Republican,,35.0,False,False,False
+1964,house,Illinois,IL,22,,William L. Springer,Republican,,53.0,True,True,False
+1964,house,Illinois,IL,22,,John J. Desmond,Democratic,,47.0,False,False,False
+1964,house,Illinois,IL,23,,George E. Shipley,Democratic,,54.6,True,True,False
+1964,house,Illinois,IL,23,,Wayne S. Jones,Republican,,45.4,False,False,False
+1964,house,Illinois,IL,24,,Melvin Price,Democratic,,75.7,True,True,False
+1964,house,Illinois,IL,24,,G. S. Mirza,Republican,,24.3,False,False,False
+1964,house,Indiana,IN,1,,Ray Madden,Democratic,,63.7,True,True,False
+1964,house,Indiana,IN,1,,Arthur F. Endres,Republican,,36.0,False,False,False
+1964,house,Indiana,IN,1,,Raymond E. Brechner,Prohibition,,0.4,False,False,False
+1964,house,Indiana,IN,2,,Charles A. Halleck,Republican,,52.9,True,True,False
+1964,house,Indiana,IN,2,,John C. Raber,Democratic,,47.1,False,False,False
+1964,house,Indiana,IN,3,,John Brademas,Democratic,,60.6,True,True,False
+1964,house,Indiana,IN,3,,Robert L. Miller,Republican,,39.4,False,False,False
+1964,house,Indiana,IN,4,,E. Ross Adair,Republican,,52.1,True,True,False
+1964,house,Indiana,IN,4,,Max E. Hobbs,Democratic,,47.9,False,False,False
+1964,house,Indiana,IN,5,,J. Edward Roush,Democratic,,55.2,True,True,False
+1964,house,Indiana,IN,5,,John R. Feighner,Republican,,44.8,False,False,False
+1964,house,Indiana,IN,6,,Richard L. Roudebush,Republican,,54.1,True,True,False
+1964,house,Indiana,IN,6,,Karl O'Lessker,Democratic,,45.9,False,False,False
+1964,house,Indiana,IN,7,,William G. Bray,Republican,,54.2,True,True,False
+1964,house,Indiana,IN,7,,Elden C. Tipton,Democratic,,45.8,False,False,False
+1964,house,Indiana,IN,8,,Winfield K. Denton,Democratic,,56.5,True,True,False
+1964,house,Indiana,IN,8,,Roger H. Zion,Republican,,43.5,False,False,False
+1964,house,Indiana,IN,9,,Lee Hamilton,Democratic,,54.4,True,False,False
+1964,house,Indiana,IN,9,,Earl Wilson,Republican,,45.6,False,True,False
+1964,house,Indiana,IN,10,,Ralph Harvey,Republican,,50.4,True,True,False
+1964,house,Indiana,IN,10,,Russell E. Davis,Democratic,,49.6,False,False,False
+1964,house,Indiana,IN,11,,Andrew Jacobs Jr.,Democratic,,50.5,True,False,True
+1964,house,Indiana,IN,11,,Don A. Tabbert,Republican,,49.5,False,False,True
+1964,house,Iowa,IA,1,,John R. Schmidhauser,Democratic,,51.0,True,False,False
+1964,house,Iowa,IA,1,,Fred Schwengel,Republican,,48.9,False,True,False
+1964,house,Iowa,IA,1,,Tracy M. Gore,Conservative,,0.1,False,False,False
+1964,house,Iowa,IA,2,,John Culver,Democratic,,52.2,True,False,False
+1964,house,Iowa,IA,2,,James E. Bromwell,Republican,,47.8,False,True,False
+1964,house,Iowa,IA,3,,H. R. Gross,Republican,,50.1,True,True,False
+1964,house,Iowa,IA,3,,Stephen M. Peterson,Democratic,,49.9,False,False,False
+1964,house,Iowa,IA,4,,Bert Bandstra,Democratic,,53.6,True,False,False
+1964,house,Iowa,IA,4,,John Henry Kyl,Republican,,46.4,False,True,False
+1964,house,Iowa,IA,5,,Neal Smith,Democratic,,69.6,True,True,False
+1964,house,Iowa,IA,5,,Benjamin J. Gibson Jr.,Republican,,29.7,False,False,False
+1964,house,Iowa,IA,5,,Albert A. Payne,Conservative,,0.7,False,False,False
+1964,house,Iowa,IA,6,,Stanley L. Greigg,Democratic,,53.2,True,False,True
+1964,house,Iowa,IA,6,,Howard N. Sokol,Republican,,46.5,False,False,True
+1964,house,Iowa,IA,6,,Lee E. Smith,Conservative,,0.3,False,False,True
+1964,house,Iowa,IA,7,,John R. Hansen,Democratic,,53.5,True,False,False
+1964,house,Iowa,IA,7,,Ben F. Jensen,Republican,,46.5,False,True,False
+1964,house,Kansas,KS,1,,Bob Dole,Republican,,51.2,True,True,False
+1964,house,Kansas,KS,1,,Bill Bork,Democratic,,48.8,False,False,False
+1964,house,Kansas,KS,2,,Chester L. Mize,Republican,,51.1,True,False,True
+1964,house,Kansas,KS,2,,John Montgomery,Democratic,,48.9,False,False,True
+1964,house,Kansas,KS,3,,Robert Ellsworth,Republican,,62.2,True,True,False
+1964,house,Kansas,KS,3,,A. Clayton Dial,Democratic,,37.8,False,False,False
+1964,house,Kansas,KS,4,,Garner E. Shriver,Republican,,59.4,True,True,False
+1964,house,Kansas,KS,4,,Jack Glaves,Democratic,,40.6,False,False,False
+1964,house,Kansas,KS,5,,Joe Skubitz,Republican,,56.4,True,True,False
+1964,house,Kansas,KS,5,,Reb. Russell,Democratic,,43.6,False,False,False
+1964,house,Kentucky,KY,1,,Frank Stubblefield,Democratic,,100.0,True,True,False
+1964,house,Kentucky,KY,2,,William Natcher,Democratic,,68.4,True,True,False
+1964,house,Kentucky,KY,2,,Rhodes Bratcher,Republican,,31.6,False,False,False
+1964,house,Kentucky,KY,3,,Charles R. Farnsley,Democratic,,53.8,True,False,False
+1964,house,Kentucky,KY,3,,Gene Snyder,Republican,,46.2,False,True,False
+1964,house,Kentucky,KY,4,,Frank Chelf,Democratic,,61.7,True,True,False
+1964,house,Kentucky,KY,4,,Clyde Middleton,Republican,,38.3,False,False,False
+1964,house,Kentucky,KY,5,,Tim Lee Carter,Republican,,53.1,True,False,True
+1964,house,Kentucky,KY,5,,Frances J. Mills,Democratic,,46.9,False,False,True
+1964,house,Kentucky,KY,6,,John C. Watts,Democratic,,70.6,True,True,False
+1964,house,Kentucky,KY,6,,John W. Swope,Republican,,29.4,False,False,False
+1964,house,Kentucky,KY,7,,Carl D. Perkins,Democratic,,69.7,True,True,False
+1964,house,Kentucky,KY,7,,Walter Clay Van Hoose,Republican,,30.3,False,False,False
+1964,house,Louisiana,LA,1,,F. Edward Hébert,Democratic,,100.0,True,True,False
+1964,house,Louisiana,LA,2,,Hale Boggs,Democratic,,55.0,True,True,False
+1964,house,Louisiana,LA,2,,David C. Treen,Republican,,45.0,False,False,False
+1964,house,Louisiana,LA,3,,Edwin E. Willis,Democratic,,62.3,True,True,False
+1964,house,Louisiana,LA,3,,Robert F. Angers,Republican,,37.7,False,False,False
+1964,house,Louisiana,LA,4,,Joe Waggonner,Democratic,,100.0,True,True,False
+1964,house,Louisiana,LA,5,,Otto Passman,Democratic,,100.0,True,True,False
+1964,house,Louisiana,LA,6,,James H. Morrison,Democratic,,62.9,True,True,False
+1964,house,Louisiana,LA,6,,Floyd O. Crawford,Republican,,37.1,False,False,False
+1964,house,Louisiana,LA,7,,T. Ashton Thompson,Democratic,,100.0,True,True,False
+1964,house,Louisiana,LA,8,,Speedy Long,Democratic,,54.5,True,False,False
+1964,house,Louisiana,LA,8,,William S. Walker,Republican,,45.5,False,False,False
+1964,house,Maine,ME,1,,Stanley R. Tupper,Republican,,50.1,True,True,False
+1964,house,Maine,ME,1,,Kenneth M. Curtis,Democratic,,49.9,False,False,False
+1964,house,Maine,ME,2,,William Hathaway,Democratic,,62.0,True,False,True
+1964,house,Maine,ME,2,,Kenneth P. MacLeod,Republican,,38.0,False,False,True
+1964,house,Maryland,MD,1,,Rogers Morton,Republican,,53.1,True,True,False
+1964,house,Maryland,MD,1,,Harry Hughes,Democratic,,46.9,False,False,False
+1964,house,Maryland,MD,2,,Clarence Long,Democratic,,65.9,True,True,False
+1964,house,Maryland,MD,2,,George A. Price,Republican,,34.1,False,False,False
+1964,house,Maryland,MD,3,,Edward Garmatz,Democratic,,100.0,True,True,False
+1964,house,Maryland,MD,4,,George Hyde Fallon,Democratic,,77.8,True,True,False
+1964,house,Maryland,MD,4,,Charles O'Donovan Evans,Republican,,22.2,False,False,False
+1964,house,Maryland,MD,5,,Hervey Machen,Democratic,,61.0,True,False,True
+1964,house,Maryland,MD,5,,Edward A. Potts,Republican,,39.0,False,False,True
+1964,house,Maryland,MD,6,,Charles Mathias,Republican,,54.5,True,True,False
+1964,house,Maryland,MD,6,,Royce Hanson,Democratic,,45.5,False,False,False
+1964,house,Maryland,MD,7,,Samuel Friedel,Democratic,,79.5,True,True,False
+1964,house,Maryland,MD,7,,Thomas C. Hofstetter,Republican,,20.5,False,False,False
+1964,house,Maryland,MD,AL,,Carlton R. Sickles,Democratic,,69.4,True,True,False
+1964,house,Maryland,MD,AL,,David Scull,Republican,,30.6,False,False,False
+1964,house,Massachusetts,MA,1,,Silvio O. Conte,Republican,,100.0,True,True,False
+1964,house,Massachusetts,MA,2,,Edward Boland,Democratic,,100.0,True,True,False
+1964,house,Massachusetts,MA,3,,Philip J. Philbin,Democratic,,100.0,True,True,False
+1964,house,Massachusetts,MA,4,,Harold Donohue,Democratic,,71.8,True,True,False
+1964,house,Massachusetts,MA,4,,Dudley B. Dumaine,Republican,,28.2,False,False,False
+1964,house,Massachusetts,MA,5,,F. Bradford Morse,Republican,,65.0,True,True,False
+1964,house,Massachusetts,MA,5,,George W. Arvanitis,Democratic,,35.0,False,False,False
+1964,house,Massachusetts,MA,6,,William H. Bates,Republican,,64.6,True,True,False
+1964,house,Massachusetts,MA,6,,James G. Zafris Jr.,Democratic,,35.4,False,False,False
+1964,house,Massachusetts,MA,7,,Torbert Macdonald,Democratic,,76.9,True,True,False
+1964,house,Massachusetts,MA,7,,Gordon F. Hughes,Republican,,23.1,False,False,False
+1964,house,Massachusetts,MA,8,,Tip O'Neill,Democratic,,100.0,True,True,False
+1964,house,Massachusetts,MA,9,,John W. McCormack,Democratic,,80.3,True,True,False
+1964,house,Massachusetts,MA,9,,Jack E. Molesworth,Republican,,14.6,False,False,False
+1964,house,Massachusetts,MA,9,,Noel A. Day,Independent,,5.0,False,False,False
+1964,house,Massachusetts,MA,10,,Joseph W. Martin Jr.,Republican,,63.0,True,True,False
+1964,house,Massachusetts,MA,10,,Edward F. Doolan,Democratic,,37.0,False,False,False
+1964,house,Massachusetts,MA,11,,James A. Burke,Democratic,,100.0,True,True,False
+1964,house,Massachusetts,MA,12,,Hastings Keith,Republican,,59.6,True,True,False
+1964,house,Massachusetts,MA,12,,Alexander Byron,Democratic,,40.4,False,False,False
+1964,house,Michigan,MI,1,,John Conyers Jr.,Democratic,,83.6,True,False,True
+1964,house,Michigan,MI,1,,Robert B. Blackwell,Republican,,15.5,False,False,True
+1964,house,Michigan,MI,1,,Milton R. Henry,Freedom Now,,0.9,False,False,True
+1964,house,Michigan,MI,2,,Weston E. Vivian,Democratic,,50.4,True,False,False
+1964,house,Michigan,MI,2,,George Meader,Republican,,49.4,False,True,False
+1964,house,Michigan,MI,2,,Peter Signerelli,Socialist Workers,,0.1,False,False,False
+1964,house,Michigan,MI,3,,Paul H. Todd Jr.,Democratic,,52.7,True,False,False
+1964,house,Michigan,MI,3,,August E. Johansen,Republican,,47.3,False,True,False
+1964,house,Michigan,MI,4,,J. Edward Hutchinson,Republican,,54.3,True,True,False
+1964,house,Michigan,MI,4,,Russell W. Holcomb,Democratic,,45.7,False,False,False
+1964,house,Michigan,MI,5,,Gerald Ford,Republican,,61.2,True,True,False
+1964,house,Michigan,MI,5,,William G. Reamon,Democratic,,38.8,False,False,False
+1964,house,Michigan,MI,6,,Charles E. Chamberlain,Republican,,56.6,True,True,False
+1964,house,Michigan,MI,6,,Boyd K. Benedict,Democratic,,43.4,False,False,False
+1964,house,Michigan,MI,7,,John C. Mackie,Democratic,,65.7,True,False,True
+1964,house,Michigan,MI,7,,Claude E. Sadler,Republican,,34.3,False,False,True
+1964,house,Michigan,MI,8,,R. James Harvey,Republican,,54.7,True,True,False
+1964,house,Michigan,MI,8,,Sanford A. Brown,Democratic,,45.3,False,False,False
+1964,house,Michigan,MI,9,,Robert P. Griffin,Republican,,57.4,True,True,False
+1964,house,Michigan,MI,9,,Daniel Griffen,Democratic,,42.6,False,False,False
+1964,house,Michigan,MI,10,,Al Cederberg,Republican,,56.6,True,True,False
+1964,house,Michigan,MI,10,,Hubert C. Evans,Democratic,,43.4,False,False,False
+1964,house,Michigan,MI,11,,Raymond F. Clevenger,Democratic,,53.3,True,False,True
+1964,house,Michigan,MI,11,,Victor A. Knox,Republican,,46.7,False,True,True
+1964,house,Michigan,MI,12,,James G. O'Hara,Democratic,,74.8,True,False,False
+1964,house,Michigan,MI,12,,Robert G. Powell,Republican,,25.2,False,False,False
+1964,house,Michigan,MI,13,,Charles Diggs,Democratic,,85.8,True,True,False
+1964,house,Michigan,MI,13,,Bruce Watson,Republican,,13.9,False,False,False
+1964,house,Michigan,MI,13,,Richard T. David,Socialist Workers,,0.3,False,False,False
+1964,house,Michigan,MI,14,,Lucien Nedzi,Democratic,,66.9,True,False,False
+1964,house,Michigan,MI,14,,George Bashara,Republican,,33.1,False,False,False
+1964,house,Michigan,MI,15,,William D. Ford,Democratic,,71.0,True,False,True
+1964,house,Michigan,MI,15,,John F. Fellrath Jr.,Republican,,29.0,False,False,True
+1964,house,Michigan,MI,16,,John Dingell,Democratic,,73.4,True,False,False
+1964,house,Michigan,MI,16,,Raymond B. Eonard,Republican,,26.5,False,False,False
+1964,house,Michigan,MI,16,,Henry W. Autsin,Socialist Workers,,0.1,False,False,False
+1964,house,Michigan,MI,17,,Martha Griffiths,Democratic,,72.8,True,True,False
+1964,house,Michigan,MI,17,,William P. Harrington,Republican,,27.0,False,False,False
+1964,house,Michigan,MI,17,,Leo Bernard,Socialist Workers,,0.1,False,False,False
+1964,house,Michigan,MI,18,,William Broomfield,Republican,,59.5,True,True,False
+1964,house,Michigan,MI,18,,Frank J. Sierawski,Democratic,,40.4,False,False,False
+1964,house,Michigan,MI,18,,Richard R. Kelly,Freedom Now,,0.08,False,False,False
+1964,house,Michigan,MI,19,,Billie S. Farnum,Democratic,,53.4,True,False,True
+1964,house,Michigan,MI,19,,Richard D. Kuhn,Republican,,46.6,False,False,True
+1964,house,Minnesota,MN,1,,Al Quie,Republican,,55.3,True,True,False
+1964,house,Minnesota,MN,1,,George Daley,DFL,,44.7,False,False,False
+1964,house,Minnesota,MN,2,,Ancher Nelsen,Republican,,58.4,True,True,False
+1964,house,Minnesota,MN,2,,Charles V. Simpson,DFL,,41.6,False,False,False
+1964,house,Minnesota,MN,3,,Clark MacGregor,Republican,,57.0,True,True,False
+1964,house,Minnesota,MN,3,,Richard J. Parish,DFL,,43.0,False,False,False
+1964,house,Minnesota,MN,4,,Joseph Karth,DFL,,72.3,True,True,False
+1964,house,Minnesota,MN,4,,John M. Drexler,Republican,,27.1,False,False,False
+1964,house,Minnesota,MN,4,,Other,Write-in,,0.7,False,False,False
+1964,house,Minnesota,MN,5,,Donald M. Fraser,DFL,,61.9,True,True,False
+1964,house,Minnesota,MN,5,,John W. Johnson,Republican,,38.1,False,False,False
+1964,house,Minnesota,MN,6,,Alec G. Olson,DFL,,51.8,True,True,False
+1964,house,Minnesota,MN,6,,Robert J. Odegard,Republican,,48.2,False,False,False
+1964,house,Minnesota,MN,7,,Odin Langen,Republican,,50.8,True,True,False
+1964,house,Minnesota,MN,7,,Ben M. Wichterman,DFL,,49.2,False,False,False
+1964,house,Minnesota,MN,8,,John Blatnik,DFL,,69.4,True,True,False
+1964,house,Minnesota,MN,8,,David W. Glossbrenner,Republican,,30.6,False,False,False
+1964,house,Mississippi,MS,1,,Thomas Abernethy,Democratic,,100.0,True,True,False
+1964,house,Mississippi,MS,2,,Jamie Whitten,Democratic,,100.0,True,True,False
+1964,house,Mississippi,MS,3,,John Bell Williams,Democratic,,100.0,True,True,False
+1964,house,Mississippi,MS,4,,Prentiss Walker,Republican,,55.7,True,False,False
+1964,house,Mississippi,MS,4,,W. Arthur Winstead,Democratic,,44.3,False,True,False
+1964,house,Mississippi,MS,5,,William M. Colmer,Democratic,,100.0,True,True,False
+1964,house,Missouri,MO,1,,Frank M. Karsten,Democratic,,76.9,True,True,False
+1964,house,Missouri,MO,1,,Ted Fischer,Republican,,23.1,False,False,False
+1964,house,Missouri,MO,2,,Thomas B. Curtis,Republican,,53.1,True,True,False
+1964,house,Missouri,MO,2,,Sidney B. McClanahan,Democratic,,46.9,False,False,False
+1964,house,Missouri,MO,3,,Leonor Sullivan,Democratic,,71.7,True,True,False
+1964,house,Missouri,MO,3,,Howard C. Ohlendorf,Republican,,28.3,False,False,False
+1964,house,Missouri,MO,4,,William J. Randall,Democratic,,63.9,True,True,False
+1964,house,Missouri,MO,4,,James M. Taylor,Republican,,36.1,False,False,False
+1964,house,Missouri,MO,5,,Richard W. Bolling,Democratic,,69.3,True,True,False
+1964,house,Missouri,MO,5,,Robert B. Langworthy,Republican,,30.7,False,False,False
+1964,house,Missouri,MO,6,,William R. Hull Jr.,Democratic,,64.7,True,True,False
+1964,house,Missouri,MO,6,,Henry E. Wurst,Republican,,35.3,False,False,False
+1964,house,Missouri,MO,7,,Durward G. Hall,Republican,,51.7,True,True,False
+1964,house,Missouri,MO,7,,Jim Thomas,Democratic,,48.3,False,False,False
+1964,house,Missouri,MO,8,,Richard H. Ichord Jr.,Democratic,,65.2,True,True,False
+1964,house,Missouri,MO,8,,Ben A. Rogers,Republican,,34.8,False,False,False
+1964,house,Missouri,MO,9,,William L. Hungate,Democratic,,62.3,True,False,True
+1964,house,Missouri,MO,9,,Anthony C. Schroeder,Republican,,37.6,False,False,True
+1964,house,Missouri,MO,9,,Hubert Willis,Independent,,0.1,False,False,True
+1964,house,Missouri,MO,10,,Paul C. Jones,Democratic,,67.4,True,True,False
+1964,house,Missouri,MO,10,,Carl Franklin Painter,Republican,,32.6,False,False,False
+1964,house,Montana,MT,1,,Arnold Olsen,Democratic,,53.6,True,True,False
+1964,house,Montana,MT,1,,Wayne Montgomery,Republican,,45.8,False,False,False
+1964,house,Montana,MT,1,,Wayne Montgomery,States' Rights,,0.5,False,False,False
+1964,house,Montana,MT,2,,James F. Battin,Republican,,54.1,True,True,False
+1964,house,Montana,MT,2,,Jack C. Toole,Democratic,,45.9,False,False,False
+1964,house,Nebraska,NE,1,,Clair A. Callan,Democratic,,51.3,True,False,False
+1964,house,Nebraska,NE,1,,Ralph F. Beermann,Republican,,48.7,False,True,False
+1964,house,Nebraska,NE,2,,Glenn Cunningham,Republican,,53.1,True,True,False
+1964,house,Nebraska,NE,2,,Richard Swenson,Democratic,,46.9,False,False,False
+1964,house,Nebraska,NE,3,,David Martin,Republican,,52.8,True,True,False
+1964,house,Nebraska,NE,3,,William E. Colwell,Democratic,,47.2,False,False,False
+1964,house,Nevada,NV,AL,,Walter S. Baring Jr.,Democratic,,63.3,True,True,False
+1964,house,Nevada,NV,AL,,George Von Tobel,Republican,,36.7,False,False,False
+1964,house,New Hampshire,NH,1,,J. Oliva Huot,Democratic,,51.3,True,False,False
+1964,house,New Hampshire,NH,1,,Louis C. Wyman,Republican,,48.7,False,True,False
+1964,house,New Hampshire,NH,2,,James Colgate Cleveland,Republican,,50.4,True,True,False
+1964,house,New Hampshire,NH,2,,Charles B. Officer,Democratic,,49.6,False,False,False
+1964,house,New Jersey,NJ,1,,William T. Cahill,Republican,,56.2,True,True,False
+1964,house,New Jersey,NJ,1,,William J. Procacci,Democratic,,43.7,False,False,False
+1964,house,New Jersey,NJ,1,,Julius Levin,Socialist Labor,,0.1,False,False,False
+1964,house,New Jersey,NJ,2,,Thomas C. McGrath Jr.,Democratic,,50.8,True,False,False
+1964,house,New Jersey,NJ,2,,Milton W. Glenn,Republican,,49.2,False,True,False
+1964,house,New Jersey,NJ,3,,James J. Howard,Democratic,,50.4,True,False,True
+1964,house,New Jersey,NJ,3,,Marcus Daly,Republican,,49.6,False,False,True
+1964,house,New Jersey,NJ,4,,Frank Thompson,Democratic,,67.5,True,True,False
+1964,house,New Jersey,NJ,4,,Ephraim Tomlinson II,Republican,,32.3,False,False,False
+1964,house,New Jersey,NJ,4,,Bernardo S. Doganiero,Socialist Labor,,0.2,False,False,False
+1964,house,New Jersey,NJ,5,,Peter Frelinghuysen Jr.,Republican,,63.6,True,True,False
+1964,house,New Jersey,NJ,5,,Eugene M. Friedman,Democratic,,36.4,False,False,False
+1964,house,New Jersey,NJ,6,,Florence P. Dwyer,Republican,,59.7,True,True,False
+1964,house,New Jersey,NJ,6,,Richard J. Traynor,Democratic,,40.3,False,False,False
+1964,house,New Jersey,NJ,7,,William B. Widnall,Republican,,56.5,True,True,False
+1964,house,New Jersey,NJ,7,,Edward H. Ihnen,Democratic,,43.1,False,False,False
+1964,house,New Jersey,NJ,7,,Robert A. Kretzer,Conservative,,0.4,False,False,False
+1964,house,New Jersey,NJ,8,,Charles S. Joelson,Democratic,,67.5,True,True,False
+1964,house,New Jersey,NJ,8,,J. Palmer Murphy,Republican,,32.3,False,False,False
+1964,house,New Jersey,NJ,8,,Harry Santhouse,Socialist Labor,,0.2,False,False,False
+1964,house,New Jersey,NJ,9,,Henry Helstoski,Democratic,,50.1,True,False,False
+1964,house,New Jersey,NJ,9,,Frank C. Osmers Jr.,Republican,,49.0,False,True,False
+1964,house,New Jersey,NJ,9,,John J. Murray,Conservative,,0.7,False,False,False
+1964,house,New Jersey,NJ,9,,Herman Rhael,Socialist Labor,,0.1,False,False,False
+1964,house,New Jersey,NJ,10,,Peter W. Rodino,Democratic,,74.0,True,True,False
+1964,house,New Jersey,NJ,10,,Raymond W. Schroeder,Republican,,25.1,False,False,False
+1964,house,New Jersey,NJ,10,,Frank J. DeGeorge,Conservative,,0.6,False,False,False
+1964,house,New Jersey,NJ,10,,William Kirkland,Independent,,0.2,False,False,False
+1964,house,New Jersey,NJ,10,,John V. Vespucci,Independent,,0.2,False,False,False
+1964,house,New Jersey,NJ,11,,Joseph Minish,Democratic,,69.6,True,True,False
+1964,house,New Jersey,NJ,11,,William L. Stubbs,Republican,,30.4,False,False,False
+1964,house,New Jersey,NJ,12,,Paul J. Krebs,Democratic,,52.4,True,False,True
+1964,house,New Jersey,NJ,12,,David H. Wiener,Republican,,46.0,False,False,True
+1964,house,New Jersey,NJ,12,,Robert L. Schlachter,Conservative,,1.4,False,False,True
+1964,house,New Jersey,NJ,12,,Leo C. Fields Jr.,Independent,,0.3,False,False,True
+1964,house,New Jersey,NJ,13,,Neil Gallagher,Democratic,,77.1,True,True,False
+1964,house,New Jersey,NJ,13,,Cresenzi W. Castaldo,Republican,,21.5,False,False,False
+1964,house,New Jersey,NJ,13,,Fred W. Romanowski,Independent,,1.4,False,False,False
+1964,house,New Jersey,NJ,14,,Dominick V. Daniels,Democratic,,74.6,True,True,False
+1964,house,New Jersey,NJ,14,,Cecil T. Woolsey,Republican,,25.4,False,False,False
+1964,house,New Jersey,NJ,15,,Edward J. Patten,Democratic,,63.1,True,True,False
+1964,house,New Jersey,NJ,15,,Bernard F. Rodgers,Republican,,36.9,False,False,False
+1964,house,New Mexico,NM,AL,,Thomas G. Morris,Democratic,,30.6,True,True,True
+1964,house,New Mexico,NM,AL,,E. S. Johnny Walker,Democratic,,26.0,True,False,True
+1964,house,New Mexico,NM,AL,,Jack C. Redman,Republican,,24.4,False,False,True
+1964,house,New Mexico,NM,AL,,Mike Sims,Republican,,19.0,False,False,True
+1964,house,New York,NY,1,,Otis G. Pike,Democratic,,64.9,True,True,False
+1964,house,New York,NY,1,,John J. Hart Jr.,Republican,,35.1,False,False,False
+1964,house,New York,NY,2,,James R. Grover Jr.,Republican,,51.6,True,True,False
+1964,house,New York,NY,2,,Edwyn Silberling,Democratic,,48.4,False,False,False
+1964,house,New York,NY,3,,Lester L. Wolff,Democratic,,50.7,True,False,False
+1964,house,New York,NY,3,,Steven Derounian,Republican,,49.3,False,True,False
+1964,house,New York,NY,4,,John W. Wydler,Republican,,53.2,True,True,False
+1964,house,New York,NY,4,,Joseph L. Marino,Democratic,,43.2,False,False,False
+1964,house,New York,NY,4,,Stanley J. Levy,Independent,,3.6,False,False,False
+1964,house,New York,NY,5,,Herbert Tenzer,Democratic,,55.8,True,False,True
+1964,house,New York,NY,5,,Ralph J. Edsell Jr.,Republican,,44.2,False,False,True
+1964,house,New York,NY,6,,Seymour Halpern,Republican,,57.1,True,True,False
+1964,house,New York,NY,6,,Emil Levin,Democratic,,42.9,False,False,False
+1964,house,New York,NY,7,,Joseph P. Addabbo,Democratic,,69.8,True,True,False
+1964,house,New York,NY,7,,Robert L. Nelson,Republican,,28.3,False,False,False
+1964,house,New York,NY,7,,Erling Asheim,Conservative,,1.9,False,False,False
+1964,house,New York,NY,8,,Benjamin Rosenthal,Democratic,,75.0,True,True,False
+1964,house,New York,NY,8,,Vincent P. Brevetti,Republican,,22.4,False,False,False
+1964,house,New York,NY,8,,Charles P. Hostek,Conservative,,2.6,False,False,False
+1964,house,New York,NY,9,,James J. Delaney,Democratic,,65.9,True,True,False
+1964,house,New York,NY,9,,Charles H. Cohen,Republican,,29.3,False,False,False
+1964,house,New York,NY,9,,Howard Rudner,Liberal Party (New York),,4.9,False,False,False
+1964,house,New York,NY,10,,Emanuel Celler,Democratic,,87.5,True,True,False
+1964,house,New York,NY,10,,Samuel W. Held,Republican,,12.5,False,False,False
+1964,house,New York,NY,11,,Eugene Keogh,Democratic,,78.8,True,True,False
+1964,house,New York,NY,11,,Herman Sanders,Republican,,18.6,False,False,False
+1964,house,New York,NY,11,,Joseph R. Fontanetta,United Taxpayers,,2.6,False,False,False
+1964,house,New York,NY,12,,Edna F. Kelly,Democratic,,81.7,True,True,False
+1964,house,New York,NY,12,,Carlo G. Colavito,Republican,,18.3,False,False,False
+1964,house,New York,NY,13,,Abraham J. Multer,Democratic,,69.1,True,True,False
+1964,house,New York,NY,13,,Gerald S. Held,Republican,,18.6,False,False,False
+1964,house,New York,NY,13,,Gerald M. Weisberg,Liberal Party (New York),,12.4,False,False,False
+1964,house,New York,NY,14,,John J. Rooney,Democratic,,77.4,True,True,False
+1964,house,New York,NY,14,,Victor J. Tirabasso Jr.,Republican,,22.6,False,False,False
+1964,house,New York,NY,15,,Hugh Carey,Democratic,,53.6,True,True,False
+1964,house,New York,NY,15,,Luigi R. Marano,Republican,,46.4,False,False,False
+1964,house,New York,NY,16,,John M. Murphy,Democratic,,61.4,True,True,False
+1964,house,New York,NY,16,,David D. Smith,Republican,,38.6,False,False,False
+1964,house,New York,NY,17,,John Lindsay,Republican,,71.5,True,True,False
+1964,house,New York,NY,17,,Eleanor C. French,Democratic,,23.5,False,False,False
+1964,house,New York,NY,17,,Kieran O'Doherty,Conservative,,5.0,False,False,False
+1964,house,New York,NY,18,,Adam Clayton Powell Jr.,Democratic,,84.6,True,True,False
+1964,house,New York,NY,18,,Joseph A. Bailey,Republican,,10.4,False,False,False
+1964,house,New York,NY,18,,Allan A. Lewis,Liberal Party (New York),,4.4,False,False,False
+1964,house,New York,NY,18,,George Schuyler,Conservative,,0.6,False,False,False
+1964,house,New York,NY,19,,Leonard Farbstein,Democratic,,68.9,True,True,False
+1964,house,New York,NY,19,,Henry E. Del Rosso,Republican,,20.2,False,False,False
+1964,house,New York,NY,19,,Edward A. Morrison,Liberal Party (New York),,9.9,False,False,False
+1964,house,New York,NY,19,,Suzanne La Follette,Conservative,,1.1,False,False,False
+1964,house,New York,NY,20,,William Fitts Ryan,Democratic,,82.5,True,True,False
+1964,house,New York,NY,20,,Ronald N. Gottlieb,Republican,,15.6,False,False,False
+1964,house,New York,NY,20,,John Comninel,Conservative,,2.0,False,False,False
+1964,house,New York,NY,21,,James H. Scheuer,Democratic,,84.3,True,False,False
+1964,house,New York,NY,21,,Henry Rose,Republican,,14.1,False,False,False
+1964,house,New York,NY,21,,Thomas E. Rockwell,Conservative,,1.6,False,False,False
+1964,house,New York,NY,22,,Jacob H. Gilbert,Democratic,,81.6,True,True,False
+1964,house,New York,NY,22,,Manuel R. Roque,Republican,,11.8,False,False,False
+1964,house,New York,NY,22,,Joseph A. Masur,Liberal Party (New York),,5.8,False,False,False
+1964,house,New York,NY,22,,Joseph F. Joyce,Conservative,,0.8,False,False,False
+1964,house,New York,NY,23,,Jonathan B. Bingham,Democratic,,71.3,True,False,False
+1964,house,New York,NY,23,,Patrick J. Foley,Republican,,20.1,False,False,False
+1964,house,New York,NY,23,,John P. Hagan,Liberal Party (New York),,7.0,False,False,False
+1964,house,New York,NY,23,,William J. Lee Jr.,Conservative,,1.6,False,False,False
+1964,house,New York,NY,24,,Paul A. Fino,Republican,,61.2,True,True,False
+1964,house,New York,NY,24,,Robert J. Malang,Democratic,,35.3,False,False,False
+1964,house,New York,NY,24,,Sylvia Bloom,Liberal Party (New York),,3.6,False,False,False
+1964,house,New York,NY,25,,Richard Ottinger,Democratic,,56.2,True,False,False
+1964,house,New York,NY,25,,Robert R. Barry,Republican,,43.8,False,True,False
+1964,house,New York,NY,26,,Ogden R. Reid,Republican,,54.9,True,True,False
+1964,house,New York,NY,26,,Frank Conniff,Democratic,,42.2,False,False,False
+1964,house,New York,NY,26,,Robert F. Mitchell Jr.,Conservative,,2.9,False,False,False
+1964,house,New York,NY,27,,John G. Dow,Democratic,,51.6,True,False,False
+1964,house,New York,NY,27,,Katharine St. George,Republican,,48.4,False,True,False
+1964,house,New York,NY,28,,Joseph Y. Resnick,Democratic,,51.8,True,False,False
+1964,house,New York,NY,28,,J. Ernest Wharton,Republican,,45.4,False,True,False
+1964,house,New York,NY,28,,William G. Davis,Liberal Party (New York),,2.7,False,False,False
+1964,house,New York,NY,29,,Leo W. O'Brien,Democratic,,69.2,True,True,False
+1964,house,New York,NY,29,,John D. Meader,Republican,,30.8,False,False,False
+1964,house,New York,NY,30,,Carleton J. King,Republican,,50.3,True,True,False
+1964,house,New York,NY,30,,Joseph J. Martin,Democratic,,49.7,False,False,False
+1964,house,New York,NY,31,,Robert C. McEwen,Republican,,54.8,True,False,True
+1964,house,New York,NY,31,,Raymond E. Bishop,Democratic,,45.2,False,False,True
+1964,house,New York,NY,32,,Alexander Pirnie,Republican,,53.4,True,True,False
+1964,house,New York,NY,32,,Robert Castle,Democratic,,46.6,False,False,False
+1964,house,New York,NY,33,,Howard W. Robison,Republican,,58.4,True,True,False
+1964,house,New York,NY,33,,John L. Joy,Democratic,,41.6,False,False,False
+1964,house,New York,NY,34,,James M. Hanley,Democratic,,51.2,True,False,False
+1964,house,New York,NY,34,,R. Walter Riehlman,Republican,,48.8,False,True,False
+1964,house,New York,NY,35,,Samuel S. Stratton,Democratic,,64.0,True,True,False
+1964,house,New York,NY,35,,Robert M. Quigley,Republican,,36.0,False,False,False
+1964,house,New York,NY,36,,Frank Horton,Republican,,56.0,True,True,False
+1964,house,New York,NY,36,,John C. Williams,Democratic,,42.5,False,False,False
+1964,house,New York,NY,36,,Helmut A. Zander,Liberal Party (New York),,1.5,False,False,False
+1964,house,New York,NY,37,,Barber Conable,Republican,,54.2,True,False,True
+1964,house,New York,NY,37,,Neil F. Bubel,Democratic,,44.0,False,False,True
+1964,house,New York,NY,37,,David L. MacAdam,Liberal Party (New York),,1.8,False,False,True
+1964,house,New York,NY,38,,Charles Goodell,Republican,,59.6,True,True,False
+1964,house,New York,NY,38,,Robert V. Kelley,Democratic,,40.4,False,False,False
+1964,house,New York,NY,39,,Richard D. McCarthy,Democratic,,52.8,True,False,False
+1964,house,New York,NY,39,,John R. Pillion,Republican,,47.2,False,True,False
+1964,house,New York,NY,40,,Henry P. Smith III,Republican,,51.5,True,False,True
+1964,house,New York,NY,40,,Wesley J. Hilts,Democratic,,46.3,False,False,True
+1964,house,New York,NY,40,,James A. Peck,Liberal Party (New York),,2.2,False,False,True
+1964,house,New York,NY,41,,Thaddeus J. Dulski,Democratic,,82.1,True,True,False
+1964,house,New York,NY,41,,Joseph A. Klawon,Republican,,17.9,False,False,False
+1964,house,North Carolina,NC,1,,Herbert Covington Bonner,Democratic,,82.6,True,True,False
+1964,house,North Carolina,NC,1,,Zeno O. Ratcliff,Republican,,17.4,False,False,False
+1964,house,North Carolina,NC,2,,Lawrence H. Fountain,Democratic,,100.0,True,True,False
+1964,house,North Carolina,NC,3,,David N. Henderson,Democratic,,67.4,True,True,False
+1964,house,North Carolina,NC,3,,Sherman T. Rock,Republican,,32.6,False,False,False
+1964,house,North Carolina,NC,4,,Harold D. Cooley,Democratic,,51.8,True,True,False
+1964,house,North Carolina,NC,4,,Jim Gardner,Republican,,48.2,False,False,False
+1964,house,North Carolina,NC,5,,Ralph James Scott,Democratic,,51.6,True,True,False
+1964,house,North Carolina,NC,5,,W. A. Armfield,Republican,,48.4,False,False,False
+1964,house,North Carolina,NC,6,,Horace R. Kornegay,Democratic,,61.4,True,True,False
+1964,house,North Carolina,NC,6,,Walter G. Green,Republican,,38.6,False,False,False
+1964,house,North Carolina,NC,7,,Alton Lennon,Democratic,,100.0,True,True,False
+1964,house,North Carolina,NC,8,,Charles R. Jonas,Republican,,54.3,True,True,False
+1964,house,North Carolina,NC,8,,W. D. James,Democratic,,45.7,False,False,False
+1964,house,North Carolina,NC,9,,Jim Broyhill,Republican,,55.2,True,True,False
+1964,house,North Carolina,NC,9,,Robert M. Davis,Democratic,,44.8,False,False,False
+1964,house,North Carolina,NC,10,,Basil Whitener,Democratic,,58.6,True,True,False
+1964,house,North Carolina,NC,10,,W. Hall Young,Republican,,41.4,False,False,False
+1964,house,North Carolina,NC,11,,Roy A. Taylor,Democratic,,60.5,True,True,False
+1964,house,North Carolina,NC,11,,Clyde M. Roberts,Republican,,39.5,False,False,False
+1964,house,North Dakota,ND,1,,Mark Andrews,Republican,,52.1,True,True,False
+1964,house,North Dakota,ND,1,,George A. Sinner,Democratic-NPL,,47.4,False,False,False
+1964,house,North Dakota,ND,1,,Eugene Van Der Hoeven,Independent,,0.3,False,False,False
+1964,house,North Dakota,ND,1,,Roger Vorachek,Independent,,0.2,False,False,False
+1964,house,North Dakota,ND,2,,Rolland W. Redlin,Democratic-NPL,,52.5,True,False,False
+1964,house,North Dakota,ND,2,,Don L. Short,Republican,,47.5,False,True,False
+1964,house,Ohio,OH,1,,John J. Gilligan,Democratic,,51.9,True,False,False
+1964,house,Ohio,OH,1,,Carl West Rich,Republican,,48.1,False,True,False
+1964,house,Ohio,OH,2,,Donald D. Clancy,Republican,,60.5,True,True,False
+1964,house,Ohio,OH,2,,H. A. Sand,Democratic,,39.5,False,False,False
+1964,house,Ohio,OH,3,,Rodney M. Love,Democratic,,52.0,True,False,False
+1964,house,Ohio,OH,3,,Paul F. Schenck,Republican,,48.0,False,True,False
+1964,house,Ohio,OH,4,,William M. McCulloch,Republican,,55.7,True,True,False
+1964,house,Ohio,OH,4,,Robert H. Mihlbaugh,Democratic,,44.3,False,False,False
+1964,house,Ohio,OH,5,,Del Latta,Republican,,65.9,True,True,False
+1964,house,Ohio,OH,5,,Milford Landis,Democratic,,34.1,False,False,False
+1964,house,Ohio,OH,6,,Bill Harsha,Republican,,60.1,True,True,False
+1964,house,Ohio,OH,6,,Frank E. Smith,Democratic,,39.9,False,False,False
+1964,house,Ohio,OH,7,,Clarence J. Brown,Republican,,56.8,True,True,False
+1964,house,Ohio,OH,7,,Jerry R. Graham,Democratic,,43.2,False,False,False
+1964,house,Ohio,OH,8,,Jackson Edward Betts,Republican,,61.8,True,True,False
+1964,house,Ohio,OH,8,,Frank Bennett,Democratic,,38.2,False,False,False
+1964,house,Ohio,OH,9,,Thomas L. Ashley,Democratic,,62.9,True,True,False
+1964,house,Ohio,OH,9,,John O. Celusta,Republican,,37.1,False,False,False
+1964,house,Ohio,OH,10,,Walter H. Moeller,Democratic,,52.4,True,False,False
+1964,house,Ohio,OH,10,,Pete Abele,Republican,,47.6,False,True,False
+1964,house,Ohio,OH,11,,J. William Stanton,Republican,,55.4,True,False,False
+1964,house,Ohio,OH,11,,C. D. Lambros,Democratic,,44.6,False,False,False
+1964,house,Ohio,OH,12,,Samuel L. Devine,Republican,,55.4,True,True,False
+1964,house,Ohio,OH,12,,Robert L. Van Heyde,Democratic,,44.6,False,False,False
+1964,house,Ohio,OH,13,,Charles Adams Mosher,Republican,,54.7,True,True,False
+1964,house,Ohio,OH,13,,Louis Frey,Democratic,,45.3,False,False,False
+1964,house,Ohio,OH,14,,William Hanes Ayres,Republican,,54.7,True,True,False
+1964,house,Ohio,OH,14,,Frances McGovern,Democratic,,45.3,False,False,False
+1964,house,Ohio,OH,15,,Robert T. Secrest,Democratic,,66.3,True,True,False
+1964,house,Ohio,OH,15,,Randall Metcalf,Republican,,33.7,False,False,False
+1964,house,Ohio,OH,16,,Frank T. Bow,Republican,,52.2,True,True,False
+1964,house,Ohio,OH,16,,Robert D. Freeman,Democratic,,47.8,False,False,False
+1964,house,Ohio,OH,17,,John M. Ashbrook,Republican,,51.5,True,True,False
+1964,house,Ohio,OH,17,,Robert W. Levering,Democratic,,48.5,False,False,False
+1964,house,Ohio,OH,18,,Wayne Hays,Democratic,,68.8,True,True,False
+1964,house,Ohio,OH,18,,Allen J. Dalrymple,Republican,,31.2,False,False,False
+1964,house,Ohio,OH,19,,Michael J. Kirwan,Democratic,,76.3,True,True,False
+1964,house,Ohio,OH,19,,Albert James,Republican,,23.7,False,False,False
+1964,house,Ohio,OH,20,,Michael A. Feighan,Democratic,,74.4,True,True,False
+1964,house,Ohio,OH,20,,Joseph A. Cipollone,Republican,,25.6,False,False,False
+1964,house,Ohio,OH,21,,Charles Vanik,Democratic,,90.1,True,True,False
+1964,house,Ohio,OH,21,,Eugene A. Smith,Republican,,9.9,False,False,False
+1964,house,Ohio,OH,22,,Frances P. Bolton,Republican,,56.6,True,True,False
+1964,house,Ohio,OH,22,,Chat Paterson,Democratic,,43.4,False,False,False
+1964,house,Ohio,OH,23,,William Edwin Minshall Jr.,Republican,,67.2,True,True,False
+1964,house,Ohio,OH,23,,Norbert G. Dennerll Jr.,Democratic,,32.8,False,False,False
+1964,house,Ohio,OH,AL,,Robert E. Sweeney,Democratic,,52.2,True,False,True
+1964,house,Ohio,OH,AL,,Oliver P. Bolton,Republican,,47.8,False,False,True
+1964,house,Oklahoma,OK,1,,Page Belcher,Republican,,63.5,True,True,False
+1964,house,Oklahoma,OK,1,,Doug Martin,Democratic,,36.5,False,False,False
+1964,house,Oklahoma,OK,2,,Ed Edmondson,Democratic,,61.4,True,True,False
+1964,house,Oklahoma,OK,2,,George L. Lange,Republican,,38.6,False,False,False
+1964,house,Oklahoma,OK,3,,Carl Albert,Democratic,,79.0,True,True,False
+1964,house,Oklahoma,OK,3,,Frank D. McSherry,Republican,,21.0,False,False,False
+1964,house,Oklahoma,OK,4,,Tom Steed,Democratic,,100.0,True,True,False
+1964,house,Oklahoma,OK,5,,John Jarman,Democratic,,70.8,True,True,False
+1964,house,Oklahoma,OK,5,,Homer Cowan,Republican,,29.2,False,False,False
+1964,house,Oklahoma,OK,6,,Jed Johnson Jr.,Democratic,,56.7,True,False,False
+1964,house,Oklahoma,OK,6,,Bayard C. Auchincloss,Republican,,43.3,False,False,False
+1964,house,Oregon,OR,1,,Wendell Wyatt,Republican,,53.1,True,False,True
+1964,house,Oregon,OR,1,,R. Blaine Whipple,Democratic,,46.9,False,False,True
+1964,house,Oregon,OR,2,,Al Ullman,Democratic,,68.1,True,True,False
+1964,house,Oregon,OR,2,,Everett J. Thoren,Republican,,31.9,False,False,False
+1964,house,Oregon,OR,3,,Edith Green,Democratic,,65.7,True,True,False
+1964,house,Oregon,OR,3,,Lyle Dean,Republican,,34.3,False,False,False
+1964,house,Oregon,OR,4,,Robert B. Duncan,Democratic,,64.8,True,True,False
+1964,house,Oregon,OR,4,,Paul Jaffarian,Republican,,35.2,False,False,False
+1964,house,Pennsylvania,PA,1,,William A. Barrett,Democratic,,71.8,True,True,False
+1964,house,Pennsylvania,PA,1,,Alvin J. Bello,Republican,,28.2,False,False,False
+1964,house,Pennsylvania,PA,2,,Robert N. C. Nix Sr.,Democratic,,80.2,True,True,False
+1964,house,Pennsylvania,PA,2,,Melvin C. Howell,Republican,,19.8,False,False,False
+1964,house,Pennsylvania,PA,3,,James A. Byrne,Democratic,,72.0,True,True,False
+1964,house,Pennsylvania,PA,3,,John J. Poserina Jr.,Republican,,28.0,False,False,False
+1964,house,Pennsylvania,PA,4,,Herman Toll,Democratic,,64.1,True,True,False
+1964,house,Pennsylvania,PA,4,,James R. Cavanaugh,Republican,,35.9,False,False,False
+1964,house,Pennsylvania,PA,5,,William J. Green III,Democratic,,65.2,True,True,False
+1964,house,Pennsylvania,PA,5,,Edward H. Rovner,Republican,,34.8,False,False,False
+1964,house,Pennsylvania,PA,6,,George M. Rhodes,Democratic,,62.1,True,True,False
+1964,house,Pennsylvania,PA,6,,James B. Bamford,Republican,,37.9,False,False,False
+1964,house,Pennsylvania,PA,7,,George Watkins,Republican,,51.1,True,False,True
+1964,house,Pennsylvania,PA,7,,Leonard Bachman,Democratic,,48.9,False,False,True
+1964,house,Pennsylvania,PA,8,,Willard S. Curtin,Republican,,51.1,True,True,False
+1964,house,Pennsylvania,PA,8,,Ralph O. Samuel,Democratic,,48.9,False,False,False
+1964,house,Pennsylvania,PA,9,,Paul B. Dague,Republican,,57.7,True,True,False
+1964,house,Pennsylvania,PA,9,,John A. O'Brien,Democratic,,42.3,False,False,False
+1964,house,Pennsylvania,PA,10,,Joseph M. McDade,Republican,,50.8,True,True,False
+1964,house,Pennsylvania,PA,10,,James J. Haggerty,Democratic,,49.2,False,False,False
+1964,house,Pennsylvania,PA,11,,Dan Flood,Democratic,,77.4,True,True,False
+1964,house,Pennsylvania,PA,11,,Charles R. Thomas,Republican,,22.6,False,False,False
+1964,house,Pennsylvania,PA,12,,J. Irving Whalley,Republican,,58.6,True,True,False
+1964,house,Pennsylvania,PA,12,,Paul A. Stephens,Democratic,,41.4,False,False,False
+1964,house,Pennsylvania,PA,13,,Richard Schweiker,Republican,,59.1,True,True,False
+1964,house,Pennsylvania,PA,13,,William D. Searle,Democratic,,40.9,False,False,False
+1964,house,Pennsylvania,PA,14,,William S. Moorhead,Democratic,,74.8,True,True,False
+1964,house,Pennsylvania,PA,14,,Alvin D. Capozzi,Republican,,25.2,False,False,False
+1964,house,Pennsylvania,PA,15,,Fred B. Rooney,Democratic,,66.1,True,True,False
+1964,house,Pennsylvania,PA,15,,Leo W. McCormick,Republican,,33.9,False,False,False
+1964,house,Pennsylvania,PA,16,,John C. Kunkel,Republican,,64.1,True,True,False
+1964,house,Pennsylvania,PA,16,,William M. Stefanic,Democratic,,35.9,False,False,False
+1964,house,Pennsylvania,PA,17,,Herman T. Schneebeli,Republican,,58.0,True,True,False
+1964,house,Pennsylvania,PA,17,,William F. Plankenhorn,Democratic,,42.0,False,False,False
+1964,house,Pennsylvania,PA,18,,Robert J. Corbett,Republican,,62.6,True,True,False
+1964,house,Pennsylvania,PA,18,,Frank J. Reed,Democratic,,37.4,False,False,False
+1964,house,Pennsylvania,PA,19,,Nathaniel N. Craley Jr.,Democratic,,50.8,True,False,False
+1964,house,Pennsylvania,PA,19,,George A. Goodling,Republican,,49.2,False,True,False
+1964,house,Pennsylvania,PA,20,,Elmer J. Holland,Democratic,,74.4,True,True,True
+1964,house,Pennsylvania,PA,20,,Ronald Bryan,Republican,,25.6,False,False,True
+1964,house,Pennsylvania,PA,21,,John Herman Dent,Democratic,,65.8,True,True,False
+1964,house,Pennsylvania,PA,21,,Thomas M. Schooley Jr.,Republican,,34.2,False,False,False
+1964,house,Pennsylvania,PA,22,,John P. Saylor,Republican,,57.0,True,True,False
+1964,house,Pennsylvania,PA,22,,James E. McCaffrey,Democratic,,43.0,False,False,False
+1964,house,Pennsylvania,PA,23,,Albert W. Johnson,Republican,,54.9,True,True,False
+1964,house,Pennsylvania,PA,23,,John Still,Democratic,,45.1,False,False,False
+1964,house,Pennsylvania,PA,24,,Joseph P. Vigorito,Democratic,,50.8,True,False,False
+1964,house,Pennsylvania,PA,24,,James D. Weaver,Republican,,49.2,False,True,False
+1964,house,Pennsylvania,PA,25,,Frank M. Clark,Democratic,,70.3,True,True,False
+1964,house,Pennsylvania,PA,25,,John Loth,Republican,,29.7,False,False,False
+1964,house,Pennsylvania,PA,26,,Thomas E. Morgan,Democratic,,68.1,True,True,False
+1964,house,Pennsylvania,PA,26,,Paul P. Riggle,Republican,,31.9,False,False,False
+1964,house,Pennsylvania,PA,27,,James G. Fulton,Republican,,62.7,True,True,False
+1964,house,Pennsylvania,PA,27,,John A. Young,Democratic,,37.3,False,False,False
+1964,house,Rhode Island,RI,1,,Fernand St Germain,Democratic,,66.3,True,True,False
+1964,house,Rhode Island,RI,1,,Rolland H. Blanchette,Republican,,33.7,False,False,False
+1964,house,Rhode Island,RI,2,,John E. Fogarty,Democratic,,81.3,True,True,False
+1964,house,Rhode Island,RI,2,,Guy J. Wells,Republican,,18.7,False,False,False
+1964,house,South Carolina,SC,1,56396,L. Mendel Rivers,Democratic,56152,100.0,True,True,False
+1964,house,South Carolina,SC,2,90891,Albert Watson,Democratic,88682,100.0,True,True,False
+1964,house,South Carolina,SC,3,65967,William J. B. Dorn,Democratic,65920,100.0,True,True,True
+1964,house,South Carolina,SC,4,81727,Robert T. Ashmore,Democratic,81727,100.0,True,True,False
+1964,house,South Carolina,SC,5,67243,Thomas S. Gettys,Democratic,44859,66.7,True,False,True
+1964,house,South Carolina,SC,5,67243,Robert M. Doster,Republican,22384,33.3,False,False,True
+1964,house,South Carolina,SC,6,75985,John L. McMillan,Democratic,49398,65.0,True,True,False
+1964,house,South Carolina,SC,6,75985,E. R. Kirkland,Republican,26586,35.0,False,False,False
+1964,house,South Dakota,SD,1,,Ben Reifel,Republican,,57.5,True,True,False
+1964,house,South Dakota,SD,1,,George May,Democratic,,42.5,False,False,False
+1964,house,South Dakota,SD,2,,E. Y. Berry,Republican,,56.0,True,True,False
+1964,house,South Dakota,SD,2,,Byron T. Brown,Democratic,,44.0,False,False,False
+1964,house,Tennessee,TN,1,,Jimmy Quillen,Republican,,71.7,True,True,False
+1964,house,Tennessee,TN,1,,Arthur Bright,Democratic,,28.3,False,False,False
+1964,house,Tennessee,TN,2,,John Duncan Sr.,Republican,,53.8,True,False,True
+1964,house,Tennessee,TN,2,,Willard V. Yarbrough,Democratic,,44.5,False,False,True
+1964,house,Tennessee,TN,2,,J. D. Boles,Independent,,1.0,False,False,True
+1964,house,Tennessee,TN,2,,Frank Haile,Independent,,0.7,False,False,True
+1964,house,Tennessee,TN,3,,Bill Brock,Republican,,54.6,True,True,False
+1964,house,Tennessee,TN,3,,Robert M. Summitt,Democratic,,45.4,False,False,False
+1964,house,Tennessee,TN,4,,Joe L. Evins,Democratic,,100.0,True,True,False
+1964,house,Tennessee,TN,5,,Richard Fulton,Democratic,,59.8,True,True,False
+1964,house,Tennessee,TN,5,,Bill R. Wills,Republican,,40.2,False,False,False
+1964,house,Tennessee,TN,6,,William Anderson,Democratic,,78.2,True,False,True
+1964,house,Tennessee,TN,6,,Cecil R. Hill,Republican,,21.8,False,False,True
+1964,house,Tennessee,TN,7,,Tom J. Murray,Democratic,,53.5,True,True,False
+1964,house,Tennessee,TN,7,,Julius Hurst,Republican,,36.9,False,False,False
+1964,house,Tennessee,TN,7,,Earl MacLin,Independent,,9.6,False,False,False
+1964,house,Tennessee,TN,8,,Fats Everett,Democratic,,93.9,True,True,False
+1964,house,Tennessee,TN,8,,Sara Flannary,Independent,,6.1,False,False,False
+1964,house,Tennessee,TN,9,,George W. Grider,Democratic,,52.5,True,False,False
+1964,house,Tennessee,TN,9,,Robert B. James,Republican,,47.2,False,False,False
+1964,house,Tennessee,TN,9,,L. B. Winfield,Independent,,0.3,False,False,False
+1964,house,Texas,TX,1,,Wright Patman,Democratic,,74.6,True,True,False
+1964,house,Texas,TX,1,,Mrs. William E. Jones,Republican,,25.4,False,False,False
+1964,house,Texas,TX,2,,Jack Brooks,Democratic,,62.7,True,True,False
+1964,house,Texas,TX,2,,John Greco,Republican,,37.3,False,False,False
+1964,house,Texas,TX,3,,Lindley Beckworth,Democratic,,59.3,True,True,False
+1964,house,Texas,TX,3,,James Warren,Republican,,40.7,False,False,False
+1964,house,Texas,TX,4,,Ray Roberts,Democratic,,81.4,True,True,False
+1964,house,Texas,TX,4,,Fred Banfield,Republican,,18.6,False,False,False
+1964,house,Texas,TX,5,,Earle Cabell,Democratic,,57.5,True,False,False
+1964,house,Texas,TX,5,,Bruce R. Alger,Republican,,42.5,False,True,False
+1964,house,Texas,TX,6,,Olin E. Teague,Democratic,,82.2,True,True,False
+1964,house,Texas,TX,6,,William Van Winkle,Republican,,17.8,False,False,False
+1964,house,Texas,TX,7,,John Dowdy,Democratic,,83.6,True,True,False
+1964,house,Texas,TX,7,,James W. Orr,Republican,,16.4,False,False,False
+1964,house,Texas,TX,8,,Albert Thomas,Democratic,,76.8,True,True,False
+1964,house,Texas,TX,8,,Bob Gilbert,Republican,,23.2,False,False,False
+1964,house,Texas,TX,9,,Clark W. Thompson,Democratic,,75.3,True,True,False
+1964,house,Texas,TX,9,,Dave Oakes,Republican,,24.7,False,False,False
+1964,house,Texas,TX,10,,J. J. Pickle,Democratic,,75.8,True,True,False
+1964,house,Texas,TX,10,,Billie Pratt,Republican,,24.2,False,False,False
+1964,house,Texas,TX,11,,William R. Poage,Democratic,,81.5,True,True,False
+1964,house,Texas,TX,11,,Charles M. Isenhower,Republican,,18.5,False,False,False
+1964,house,Texas,TX,12,,Jim Wright,Democratic,,68.5,True,True,False
+1964,house,Texas,TX,12,,Fred Dielman,Republican,,31.5,False,False,False
+1964,house,Texas,TX,13,,Graham B. Purcell Jr.,Democratic,,75.2,True,True,False
+1964,house,Texas,TX,13,,George Corse,Republican,,24.8,False,False,False
+1964,house,Texas,TX,14,,John Andrew Young,Democratic,,77.5,True,True,False
+1964,house,Texas,TX,14,,W. F. Patton,Republican,,22.5,False,False,False
+1964,house,Texas,TX,15,,Kika de la Garza,Democratic,,69.4,True,False,True
+1964,house,Texas,TX,15,,Joe B. Coulter,Republican,,30.6,False,False,True
+1964,house,Texas,TX,16,,Richard Crawford White,Democratic,,55.7,True,False,False
+1964,house,Texas,TX,16,,Ed Foreman,Republican,,44.3,False,True,False
+1964,house,Texas,TX,17,,Omar Burleson,Democratic,,76.4,True,True,False
+1964,house,Texas,TX,17,,Phil Bridges,Republican,,23.6,False,False,False
+1964,house,Texas,TX,18,,Walter E. Rogers,Democratic,,55.0,True,True,False
+1964,house,Texas,TX,18,,Robert Price,Republican,,45.0,False,False,False
+1964,house,Texas,TX,19,,George H. Mahon,Democratic,,77.6,True,True,False
+1964,house,Texas,TX,19,,Joe B. Philips,Republican,,22.4,False,False,False
+1964,house,Texas,TX,20,,Henry B. González,Democratic,,64.6,True,True,False
+1964,house,Texas,TX,20,,John O'Connell,Republican,,35.4,False,False,False
+1964,house,Texas,TX,21,,O. C. Fisher,Democratic,,78.1,True,True,False
+1964,house,Texas,TX,21,,Harry Claypool,Republican,,21.9,False,False,False
+1964,house,Texas,TX,22,,Robert R. Casey,Democratic,,58.1,True,True,False
+1964,house,Texas,TX,22,,Desmond Barry,Republican,,41.9,False,False,False
+1964,house,Texas,TX,AL,,Joe R. Pool,Democratic,,66.9,True,True,False
+1964,house,Texas,TX,AL,,Bill Hayes,Republican,,32.7,False,False,False
+1964,house,Texas,TX,AL,,Bill Johnson,Constitution,,0.4,False,False,False
+1964,house,Utah,UT,1,,Laurence J. Burton,Republican,,56.0,True,True,False
+1964,house,Utah,UT,1,,William G. Bruhn,Democratic,,44.0,False,False,False
+1964,house,Utah,UT,2,,David S. King,Democratic,,57.5,True,False,True
+1964,house,Utah,UT,2,,Thomas G. Judd,Republican,,42.5,False,False,True
+1964,house,Vermont,VT,AL,,Robert Stafford,Republican,,57.8,True,True,False
+1964,house,Vermont,VT,AL,,Bernard G. O'Shea,Democratic,,42.2,False,False,False
+1964,house,Virginia,VA,1,,Thomas N. Downing,Democratic,,78.7,True,True,False
+1964,house,Virginia,VA,1,,Wayne C. Thiessen,Republican,,21.3,False,False,False
+1964,house,Virginia,VA,2,,Porter Hardy Jr.,Democratic,,68.7,True,True,False
+1964,house,Virginia,VA,2,,Wayne Lustig,Republican,,21.6,False,False,False
+1964,house,Virginia,VA,2,,H. W. Grady Speers Jr.,Independent,,9.7,False,False,False
+1964,house,Virginia,VA,3,,David E. Satterfield III,Democratic,,34.5,True,False,True
+1964,house,Virginia,VA,3,,Richard D. Obenshain,Republican,,34.0,False,False,True
+1964,house,Virginia,VA,3,,Edward E. Haddock,Independent,,30.8,False,False,True
+1964,house,Virginia,VA,3,,Stanley Smith Jr.,Independent,,0.7,False,False,True
+1964,house,Virginia,VA,4,,Watkins Abbitt,Democratic,,69.5,True,True,False
+1964,house,Virginia,VA,4,,S. W. Tucker,Independent,,30.5,False,False,False
+1964,house,Virginia,VA,5,,William M. Tuck,Democratic,,63.5,True,True,False
+1964,house,Virginia,VA,5,,Robert L. Gilliam,Independent,,36.5,False,False,False
+1964,house,Virginia,VA,6,,Richard H. Poff,Republican,,56.2,True,True,False
+1964,house,Virginia,VA,6,,William B. Hopkins,Democratic,,43.8,False,False,False
+1964,house,Virginia,VA,7,,John O. Marsh Jr.,Democratic,,69.6,True,True,False
+1964,house,Virginia,VA,7,,Roy Erickson,Republican,,30.4,False,False,False
+1964,house,Virginia,VA,8,,Howard W. Smith,Democratic,,70.3,True,True,False
+1964,house,Virginia,VA,8,,Floyd Caldwell Bagley,Independent,,29.7,False,False,False
+1964,house,Virginia,VA,9,,W. Pat Jennings,Democratic,,58.2,True,True,False
+1964,house,Virginia,VA,9,,Glen M. Williams,Republican,,41.8,False,False,False
+1964,house,Virginia,VA,10,,Joel Broyhill,Republican,,50.7,True,True,False
+1964,house,Virginia,VA,10,,Augustus C. Johnson,Democratic,,49.3,False,False,False
+1964,house,Washington,WA,1,,Thomas Pelly,Republican,,59.9,True,True,False
+1964,house,Washington,WA,1,,Edward Palmason,Democratic,,40.1,False,False,False
+1964,house,Washington,WA,2,,Lloyd Meeds,Democratic,,54.9,True,False,False
+1964,house,Washington,WA,2,,Jack Westland,Republican,,45.1,False,True,False
+1964,house,Washington,WA,3,,Julia Butler Hansen,Democratic,,70.2,True,True,False
+1964,house,Washington,WA,3,,Harold L. Anderson,Republican,,29.8,False,False,False
+1964,house,Washington,WA,4,,Catherine Dean May,Republican,,65.3,True,True,False
+1964,house,Washington,WA,4,,Stephen H. Huza,Democratic,,34.7,False,False,False
+1964,house,Washington,WA,5,,Tom Foley,Democratic,,53.4,True,False,False
+1964,house,Washington,WA,5,,Walt Horan,Republican,,46.6,False,True,False
+1964,house,Washington,WA,6,,Floyd Hicks,Democratic,,52.1,True,False,False
+1964,house,Washington,WA,6,,Thor C. Tollefson,Republican,,47.9,False,True,False
+1964,house,Washington,WA,7,,Brock Adams,Democratic,,55.6,True,False,False
+1964,house,Washington,WA,7,,K. William Stinson,Republican,,44.4,False,True,False
+1964,house,West Virginia,WV,1,,Arch A. Moore Jr.,Republican,,61.4,True,True,False
+1964,house,West Virginia,WV,1,,John L. Bailey,Democratic,,38.6,False,False,False
+1964,house,West Virginia,WV,2,,Harley Orrin Staggers,Democratic,,64.9,True,True,False
+1964,house,West Virginia,WV,2,,Stanley R. Cox Jr.,Republican,,35.1,False,False,False
+1964,house,West Virginia,WV,3,,John M. Slack Jr.,Democratic,,65.4,True,True,False
+1964,house,West Virginia,WV,3,,Jim Comstock,Republican,,34.6,False,False,False
+1964,house,West Virginia,WV,4,,Ken Hechler,Democratic,,61.2,True,True,False
+1964,house,West Virginia,WV,4,,Jack L. Miller,Republican,,38.8,False,False,False
+1964,house,West Virginia,WV,5,,James Kee,Democratic,,70.0,True,False,True
+1964,house,West Virginia,WV,5,,Wade H. Ballard III,Republican,,30.0,False,False,True
+1964,house,Wisconsin,WI,1,,Lynn E. Stalbaum,Democratic,,51.5,True,False,False
+1964,house,Wisconsin,WI,1,,Henry C. Schadeberg,Republican,,48.5,False,True,False
+1964,house,Wisconsin,WI,2,,Robert Kastenmeier,Democratic,,63.6,True,True,False
+1964,house,Wisconsin,WI,2,,Carl V. Kolata,Republican,,36.4,False,False,False
+1964,house,Wisconsin,WI,3,,Vernon W. Thomson,Republican,,60.6,True,True,True
+1964,house,Wisconsin,WI,3,,Harold C. Ristow,Democratic,,39.4,False,False,True
+1964,house,Wisconsin,WI,4,,Clement Zablocki,Democratic,,74.2,True,True,False
+1964,house,Wisconsin,WI,4,,Edward E. Estkowski,Republican,,25.8,False,False,False
+1964,house,Wisconsin,WI,5,,Henry S. Reuss,Democratic,,76.0,True,True,False
+1964,house,Wisconsin,WI,5,,Robert Taylor,Republican,,24.0,False,False,False
+1964,house,Wisconsin,WI,6,,John Abner Race,Democratic,,50.8,True,False,False
+1964,house,Wisconsin,WI,6,,William Van Pelt,Republican,,49.2,False,True,False
+1964,house,Wisconsin,WI,7,,Melvin Laird,Republican,,61.8,True,True,False
+1964,house,Wisconsin,WI,7,,Thomas E. Martin,Democratic,,38.2,False,False,False
+1964,house,Wisconsin,WI,8,,John W. Byrnes,Republican,,59.6,True,True,False
+1964,house,Wisconsin,WI,8,,Cletus J. Johnson,Democratic,,40.4,False,False,False
+1964,house,Wisconsin,WI,9,,Glenn Robert Davis,Republican,,55.3,True,False,True
+1964,house,Wisconsin,WI,9,,James P. Buckley,Democratic,,44.7,False,False,True
+1964,house,Wisconsin,WI,10,,Alvin O'Konski,Republican,,56.2,True,True,False
+1964,house,Wisconsin,WI,10,,Edmund A. Nix,Democratic,,43.8,False,False,False
+1964,house,Wyoming,WY,AL,139175,Teno Roncalio,Democratic,70693,50.8,True,False,True
+1964,house,Wyoming,WY,AL,139175,William Henry Harrison III,Republican,,49.2,False,True,True

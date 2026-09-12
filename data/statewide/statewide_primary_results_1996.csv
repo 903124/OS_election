@@ -1,0 +1,63 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1996,Missouri,MO,governor,Democratic primary results,Winning,Mel Carnahan,Democratic,347488,81.7,True,True
+1996,Missouri,MO,governor,Democratic primary results,Candidate,Ruth Redel,Democratic,33452,7.87,False,False
+1996,Missouri,MO,governor,Democratic primary results,Candidate,Edwin W. Howald,Democratic,29890,7.03,False,False
+1996,Missouri,MO,governor,Democratic primary results,Candidate,Nicholas Clement,Democratic,14490,3.4,False,False
+1996,Missouri,MO,governor,Democratic primary results,Total,,,425320,100.0,False,False
+1996,Missouri,MO,governor,Republican primary results,Winning,Margaret B. Kelly,Republican,219435,77.73,True,False
+1996,Missouri,MO,governor,Republican primary results,Candidate,John M. Swenson,Republican,29675,10.51,False,False
+1996,Missouri,MO,governor,Republican primary results,Candidate,David Andrew Brown,Republican,18755,6.64,False,False
+1996,Missouri,MO,governor,Republican primary results,Candidate,Lester W. Duggan Jr.,Republican,14448,5.12,False,False
+1996,Missouri,MO,governor,Republican primary results,Total,,,282313,100.0,False,False
+1996,Montana,MT,governor,Democratic Party primary results,Winning,Chet Blaylock,Democratic,55120,74.61,True,False
+1996,Montana,MT,governor,Democratic Party primary results,Candidate,Bob Kelleher,Democratic,18761,25.39,False,False
+1996,Montana,MT,governor,Democratic Party primary results,Total,,,73881,100.0,False,False
+1996,Montana,MT,governor,Republican primary results,Winning,Marc Racicot,Republican,92644,76.37,True,True
+1996,Montana,MT,governor,Republican primary results,Candidate,Rob Natelson,Republican,28672,23.63,False,False
+1996,Montana,MT,governor,Republican primary results,Total,,,121316,100.0,False,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial Republican primary election,Winning,Robin Hayes,Republican,140351,50.2,True,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial Republican primary election,Candidate,Richard Vinroot,Republican,127916,45.75,False,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial Republican primary election,Candidate,Ken Rogers,Republican,6101,2.18,False,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial Republican primary election,Candidate,Art Manning,Republican,5242,1.87,False,False
+1996,Vermont,VT,governor,Democratic primary results,Winning,Howard Dean,Democratic,18112,97.8,True,True
+1996,Vermont,VT,governor,Democratic primary results,Candidate,Other,Democratic,406,2.1,False,False
+1996,Vermont,VT,governor,Democratic primary results,Total,,,18518,100.0,False,False
+1996,Vermont,VT,governor,Republican primary results,Winning,John L. Gropper,Republican,12616,62.2,True,False
+1996,Vermont,VT,governor,Republican primary results,Candidate,Thomas J. Morse,Republican,6710,33.0,False,False
+1996,Vermont,VT,governor,Republican primary results,Candidate,Other,Republican,956,4.7,False,False
+1996,Vermont,VT,governor,Republican primary results,Total,,,20282,100.0,False,False
+1996,Vermont,VT,governor,Liberty Union primary results,Winning,Mary Alice Herbert,Union,237,92.2,True,False
+1996,Vermont,VT,governor,Liberty Union primary results,Candidate,Other,Union,20,7.7,False,False
+1996,Vermont,VT,governor,Liberty Union primary results,Total,,,257,100.0,False,False
+1996,Washington,WA,governor,Blanket primary results,Winning,Gary Locke,Democratic,287762,23.65,True,False
+1996,Washington,WA,governor,Blanket primary results,Winning,Ellen Craswell,Republican,185680,15.26,True,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Norm Rice,Democratic,212888,17.5,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Dale Foreman,Republican,162615,13.37,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Jay Inslee,Democratic,118571,9.75,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Norm Maleng,Republican,109088,8.97,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Jim Waldo,Republican,63854,5.25,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Pam Roach,Republican,29533,2.43,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Nona Brazier,Republican,21237,1.75,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Brian Zetlen,Democratic,6152,0.51,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Warren E. Hanson,Republican,4886,0.4,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Bob Tharp,Republican,4825,0.4,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Jeff Powers,Workers,3742,0.31,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Mohammad H. Said,Democratic,3007,0.25,False,False
+1996,Washington,WA,governor,Blanket primary results,Candidate,Max Englerius,Democratic,2837,0.23,False,False
+1996,Washington,WA,governor,Blanket primary results,Total,,,1216677,100.0,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Winning,Charlotte Pritt,Democratic,130107,39.54,True,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Joe Manchin,Democratic,107124,32.56,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Jim Lees,Democratic,64100,19.48,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Larrie Bailey,Democratic,15733,4.78,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Bobbie Edward Myers,Democratic,3038,0.92,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Lyle Sattes,Democratic,2931,0.89,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Bob Henry Baber,Democratic,1456,0.44,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Louis J. Davis,Democratic,1351,0.41,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Frank Rochetti,Democratic,1330,0.4,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Richard E. Koon,Democratic,1154,0.35,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Candidate,Fred Schell,Democratic,733,0.22,False,False
+1996,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1996",Total,,,329057,100.0,False,False
+1996,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1996",Winning,Cecil Underwood,Republican,54628,40.78,True,False
+1996,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1996",Candidate,Jon McBride,Republican,44255,33.03,False,False
+1996,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1996",Candidate,David McKinley,Republican,35089,26.19,False,False
+1996,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1996",Total,,,133972,100.0,False,False

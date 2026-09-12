@@ -18,21 +18,21 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2026,Alabama,Democratic primary runoff results,Primary,Winning,False,Democratic Party (United States),Everett Wess,"49,396",54.6
 2026,Alabama,Democratic primary runoff results,Primary,Candidate,False,Democratic Party (United States),Dakarai Larriett,"41,065",45.4
 2026,Alabama,Democratic primary runoff results,Primary,Total,False,,,"90,461",100.0
-2026,Alaska,Blanket primary results,Primary,Winning,False,Democratic Party (United States),Mary Peltola,"82,244",49.5
-2026,Alaska,Blanket primary results,Primary,Winning,True,Republican Party (United States),Dan S. Sullivan,"68,726",41.4
-2026,Alaska,Blanket primary results,Primary,Winning,False,Republican Party (United States),Gerald L. Heikes,"1,741",1.1
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Democratic Party (United States),David Leslie (withdrew),"1,850",1.1
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Democratic Party (United States),Carol Hafner,"1,009",0.6
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Heather McElwain,972,0.6
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Dustin Darden,808,0.5
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Libertarian Party (United States),Scott Kohlhaas,794,0.5
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Richard Benedict Mayers,609,0.4
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Independent politician,Reece Roberts,602,0.4
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Independent politician,Sid Hill,522,0.3
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Republican Party (United States),Fred C. Grauberger,479,0.3
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Green Party (United States),Richard Grayson,432,0.3
-2026,Alaska,Blanket primary results,Primary,Candidate,False,Independent politician,Shirley Saucerman,306,0.2
-2026,Alaska,Blanket primary results,Primary,Total,False,,,"166,004",100.0
+2026,Alaska,Top-four primary results,Primary,Winning,False,Democratic Party (United States),Mary Peltola,"82,244",49.5
+2026,Alaska,Top-four primary results,Primary,Winning,True,Republican Party (United States),Dan S. Sullivan,"68,726",41.4
+2026,Alaska,Top-four primary results,Primary,Winning,False,Republican Party (United States),Gerald L. Heikes,"1,741",1.1
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Democratic Party (United States),David Leslie (withdrew),"1,850",1.1
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Democratic Party (United States),Carol Hafner,"1,009",0.6
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Republican Party (United States),Heather McElwain,972,0.6
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Republican Party (United States),Dustin Darden,808,0.5
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Libertarian Party (United States),Scott Kohlhaas,794,0.5
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Republican Party (United States),Richard Benedict Mayers,609,0.4
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Independent politician,Reece Roberts,602,0.4
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Independent politician,Sid Hill,522,0.3
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Republican Party (United States),Fred C. Grauberger,479,0.3
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Green Party (United States),Richard Grayson,432,0.3
+2026,Alaska,Top-four primary results,Primary,Candidate,False,Independent politician,Shirley Saucerman,306,0.2
+2026,Alaska,Top-four primary results,Primary,Total,False,,,"166,004",100.0
 2026,Arkansas,Republican primary results,Primary,Winning,True,Republican Party (United States),Tom Cotton,"230,209",81.6
 2026,Arkansas,Republican primary results,Primary,Total,False,,,"281,973",100.0
 2026,Arkansas,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Hallie Shoffner,"102,289",78.3
@@ -158,7 +158,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2026,Maine,Republican primary results,Primary,Winning,True,Republican Party (United States),Susan Collins,"126,398",100.0
 2026,Maine,Republican primary results,Primary,Total,False,,,"126,398",100.0
 2026,Maine,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Graham Platner,"156,084",72.1
-2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Janet Mills (withdrawn),"41,644",19.2
+2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Janet Mills (withdrawn),"41,644",19.3
 2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),David Costello,"17,560",8.1
 2026,Maine,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Andrea LaFlamme (write-in),"1,114",0.5
 2026,Maine,Democratic primary results,Primary,Total,False,,,"216,402",100.0
@@ -302,12 +302,12 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Tim Skelton,"5,626",1.5
 2026,Oregon,Republican primary results,Primary,Candidate,False,Republican Party (United States),Write-in,"3,254",0.9
 2026,Oregon,Republican primary results,Primary,Total,False,,,"366,201",100.0
-2026,Rhode Island,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Jack Reed,"98,072",76.9
-2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Connor Burbridge,"17,082",13.4
-2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Luis Daniel Muñoz,"12,414",9.7
-2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"127,568",100.0
-2026,Rhode Island,Republican primary results,Primary,Winning,False,Republican Party (United States),Raymond McKay,"20,290",100.0
-2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,290",100.0
+2026,Rhode Island,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Jack Reed,"98,343",76.8
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Connor Burbridge,"17,159",13.4
+2026,Rhode Island,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Luis Daniel Muñoz,"12,483",9.8
+2026,Rhode Island,Democratic primary results,Primary,Total,False,,,"127,985",100.0
+2026,Rhode Island,Republican primary results,Primary,Winning,False,Republican Party (United States),Raymond McKay,"20,350",100.0
+2026,Rhode Island,Republican primary results,Primary,Total,False,,,"20,350",100.0
 2026,South Carolina,Republican primary results,Primary,Winning,True,Republican Party (United States),Lindsey Graham,"264,091",56.8
 2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Mark Lynch,"134,360",28.9
 2026,South Carolina,Republican primary results,Primary,Candidate,False,Republican Party (United States),Thomas Dismukes,"24,164",5.2

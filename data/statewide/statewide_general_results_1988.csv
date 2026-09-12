@@ -1,0 +1,47 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1988,Delaware,DE,governor,"Delaware gubernatorial election, 1988",Winning,Mike Castle,Republican,169733,70.73,True,True
+1988,Delaware,DE,governor,"Delaware gubernatorial election, 1988",Candidate,Jacob Kreshtool,Democratic,70236,29.27,False,False
+1988,Indiana,IN,governor,"Indiana gubernatorial election, 1988",Winning,Evan Bayh,Democratic,1138574,53.18,True,False
+1988,Indiana,IN,governor,"Indiana gubernatorial election, 1988",Candidate,John Mutz,Republican,1002207,46.82,False,False
+1988,Indiana,IN,governor,"Indiana gubernatorial election, 1988",Total,,,2140781,100.0,False,False
+1988,Missouri,MO,governor,"1988 gubernatorial election, Missouri",Winning,John Ashcroft,Republican,1339531,64.22,True,True
+1988,Missouri,MO,governor,"1988 gubernatorial election, Missouri",Candidate,Betty Cooper Hearnes,Democratic,724919,34.75,False,False
+1988,Missouri,MO,governor,"1988 gubernatorial election, Missouri",Candidate,Mike Roberts,Libertarian,21467,1.03,False,False
+1988,Montana,MT,governor,"Montana gubernatorial election, 1988",Winning,Stan Stephens,Republican,190604,51.93,True,False
+1988,Montana,MT,governor,"Montana gubernatorial election, 1988",Candidate,Thomas Lee Judge,Democratic,169313,46.13,False,False
+1988,Montana,MT,governor,"Montana gubernatorial election, 1988",Candidate,William Dee Morris,Libertarian,7104,1.94,False,False
+1988,North Carolina,NC,governor,1988 NC Governor Election Results,Winning,James G. Martin,Republican,1222258,55.06,True,True
+1988,North Carolina,NC,governor,1988 NC Governor Election Results,Candidate,Robert B. Jordan,Democratic,997408,44.94,False,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Winning,George A. Sinner (inc.)/Lloyd Omdahl,North Dakota Democratic-npl,179094,59.88,True,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Candidate,Leon Mallberg/Donna Nalewaja,Republican,119986,40.12,False,False
+1988,North Dakota,ND,governor,"North Dakota gubernatorial election, 1988",Total,,,299080,100.0,False,False
+1988,Rhode Island,RI,governor,1988 Rhode Island gubernatorial election,Winning,Edward D. DiPrete,Republican,203550,50.83,True,True
+1988,Rhode Island,RI,governor,1988 Rhode Island gubernatorial election,Candidate,Bruce Sundlun,Democratic,196925,49.17,False,False
+1988,Utah,UT,governor,1988 Utah gubernatorial election,Winning,Norman H. Bangerter,Republican,260462,40.13,True,True
+1988,Utah,UT,governor,1988 Utah gubernatorial election,Candidate,Ted Wilson,Democratic,249321,38.41,False,False
+1988,Utah,UT,governor,1988 Utah gubernatorial election,Candidate,Merrill Cook,Independent,136651,21.05,False,False
+1988,Utah,UT,governor,1988 Utah gubernatorial election,Candidate,Kitty K. Burton,Libertarian,1661,0.26,False,False
+1988,Utah,UT,governor,1988 Utah gubernatorial election,Candidate,Arly H. Pedersen,American Party (1969),1019,0.16,False,False
+1988,Utah,UT,governor,1988 Utah gubernatorial election,Total,,,649114,100.0,False,False
+1988,Vermont,VT,governor,1988 Vermont gubernatorial election,Winning,Madeleine M. Kunin (inc.),Democratic,134558,55.3,True,False
+1988,Vermont,VT,governor,1988 Vermont gubernatorial election,Candidate,Michael Bernhardt,Republican,105319,43.3,False,False
+1988,Vermont,VT,governor,1988 Vermont gubernatorial election,Candidate,Richard F. Gottlieb,Union,2923,1.2,False,False
+1988,Vermont,VT,governor,1988 Vermont gubernatorial election,Candidate,Write-ins,N/a,330,0.1,False,False
+1988,Vermont,VT,governor,1988 Vermont gubernatorial election,Total,,,243130,100.0,False,False
+1988,Washington,WA,governor,1988 Washington gubernatorial election,Winning,Booth Gardner,Democratic,1166448,62.21,True,True
+1988,Washington,WA,governor,1988 Washington gubernatorial election,Candidate,Bob Williams,Republican,708481,37.79,False,False
+1988,Washington,WA,governor,1988 Washington gubernatorial election,Total,,,1874929,100.0,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Winning,Gaston Caperton,Democratic,132435,37.96,True,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Candidate,"Clyde M. See, Jr.",Democratic,94364,27.05,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Candidate,Mario Palumbo,Democratic,51722,14.83,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Candidate,Gus Douglass,Democratic,48748,13.97,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Candidate,Dan R. Tonkovich,Democratic,14916,4.28,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Candidate,Larry Harless,Democratic,5217,1.5,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Candidate,Paul Nuchims,Democratic,1484,0.43,False,False
+1988,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1988",Total,,,348886,100.0,False,False
+1988,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1988",Winning,Arch A. Moore Jr.,Republican,78495,53.23,True,True
+1988,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1988",Candidate,John Raese,Republican,68973,46.77,False,False
+1988,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1988",Total,,,147468,100.0,False,False
+1988,West Virginia,WV,governor,"West Virginia gubernatorial election, 1988",Winning,Gaston Caperton,Democratic,382421,58.87,True,False
+1988,West Virginia,WV,governor,"West Virginia gubernatorial election, 1988",Candidate,Arch A. Moore Jr.,Republican,267172,41.13,False,True
+1988,West Virginia,WV,governor,"West Virginia gubernatorial election, 1988",Total,,,649593,100.0,False,False

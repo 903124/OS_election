@@ -1,0 +1,15 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1975,Kentucky,KY,governor,1975 Kentucky gubernatorial election,Winning,Julian M. Carroll,Democratic,470159,62.84,True,True
+1975,Kentucky,KY,governor,1975 Kentucky gubernatorial election,Candidate,"Robert E. ""Bob"" Gable",Republican,277998,37.16,False,False
+1975,Kentucky,KY,governor,1975 Kentucky gubernatorial election,Total,,,748157,100.0,False,False
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Winning,Edwin Edwards,Democratic,750107,62.35,True,True
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Candidate,Bob Jones,Democratic,292220,24.29,False,False
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Candidate,Wade O. Martin Jr.,Democratic,146368,12.17,False,False
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Candidate,Ken Lewis,Democratic,5307,0.44,False,False
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Candidate,Addison Roswell Thompson,Democratic,4664,0.39,False,False
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Candidate,Cecilia M. Pizzo,Democratic,4338,0.36,False,False
+1975,Louisiana,LA,governor,1975 Louisiana gubernatorial election,Total,,,1203004,100.0,False,False
+1975,Mississippi,MS,governor,"Mississippi gubernatorial election, 1975",Winning,Cliff Finch,Democratic,369568,52.19,True,False
+1975,Mississippi,MS,governor,"Mississippi gubernatorial election, 1975",Candidate,Gil Carmichael,Republican,319632,45.14,False,False
+1975,Mississippi,MS,governor,"Mississippi gubernatorial election, 1975",Candidate,Henry Jay Kirksey,Independent,18883,2.67,False,False
+1975,Mississippi,MS,governor,"Mississippi gubernatorial election, 1975",Total,,,708083,100.0,False,False

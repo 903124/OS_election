@@ -1,0 +1,23 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1991,Kentucky,KY,governor,Democratic primary results,Winning,Brereton C. Jones,Democratic,184703,37.55,True,False
+1991,Kentucky,KY,governor,Democratic primary results,Candidate,Scotty Baesler,Democratic,149352,30.36,False,False
+1991,Kentucky,KY,governor,Democratic primary results,Candidate,Floyd G. Poore,Democratic,132060,26.84,False,False
+1991,Kentucky,KY,governor,Democratic primary results,Candidate,Gatewood Galbraith,Democratic,25834,5.25,False,False
+1991,Kentucky,KY,governor,Democratic primary results,Total,,,491949,100.0,False,False
+1991,Kentucky,KY,governor,Republican primary results,Winning,Larry J. Hopkins,Republican,81526,50.6,True,False
+1991,Kentucky,KY,governor,Republican primary results,Candidate,Larry Forgy,Republican,79581,49.4,False,False
+1991,Kentucky,KY,governor,Republican primary results,Total,,,161107,100.0,False,False
+1991,Louisiana,LA,governor,Primary election,Candidate,Democratic,,523096,,False,False
+1991,Louisiana,LA,governor,Primary election,Candidate,Republican,,491342,,False,False
+1991,Louisiana,LA,governor,Primary election,Candidate,Other,,9663,,False,False
+1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Winning,Ray Mabus,Democratic,368679,50.75,True,True
+1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Candidate,Wayne Dowdy,Democratic,299172,41.18,False,False
+1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Candidate,"George ""Wagon Wheel"" Blair",Democratic,58614,8.07,False,False
+1991,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1991",Total,,,726465,100.0,False,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1991",Winning,Kirk Fordice,Republican,28411,44.64,True,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1991",Winning,Pete Johnson,Republican,27651,43.44,True,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1991",Candidate,Bobby Clanton,Republican,7589,11.92,False,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1991",Total,,,63651,100.0,False,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary runoff, 1991",Winning,Kirk Fordice,Republican,31753,60.63,True,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary runoff, 1991",Candidate,Pete Johnson,Republican,20622,39.37,False,False
+1991,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary runoff, 1991",Total,,,52375,100.0,False,False

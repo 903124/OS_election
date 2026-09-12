@@ -1,0 +1,299 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1986,Alabama,AL,governor,Democratic primary results,Winning,Bill Baxley,Democratic,345985,36.8,True,False
+1986,Alabama,AL,governor,Democratic primary results,Winning,Charlie Graddick,Democratic,275714,29.33,True,False
+1986,Alabama,AL,governor,Democratic primary results,Candidate,Fob James,Democratic,195844,20.83,False,False
+1986,Alabama,AL,governor,Democratic primary results,Candidate,George McMillan,Democratic,117258,12.47,False,False
+1986,Alabama,AL,governor,Democratic primary results,Candidate,Barbara E. O'Neal,Democratic,5287,0.56,False,False
+1986,Alabama,AL,governor,Democratic primary results,Total,,,940088,100.0,False,False
+1986,Alabama,AL,governor,Democratic runoff results,Winning,Charlie Graddick,Democratic,470051,50.47,True,False
+1986,Alabama,AL,governor,Democratic runoff results,Candidate,Bill Baxley,Democratic,461295,49.53,False,False
+1986,Alabama,AL,governor,Democratic runoff results,Total,,,931346,100.0,False,False
+1986,Arizona,AZ,governor,Democratic primary results,Winning,Carolyn Warner,Democratic,106687,50.64,True,False
+1986,Arizona,AZ,governor,Democratic primary results,Candidate,Tony Mason,Democratic,92413,43.86,False,False
+1986,Arizona,AZ,governor,Democratic primary results,Candidate,Dave Moss,Democratic,11588,5.5,False,False
+1986,Arizona,AZ,governor,Democratic primary results,Total,,,210688,100.0,False,False
+1986,Arizona,AZ,governor,1986 Republican gubernatorial primary,Winning,Evan Mecham,Republican,121614,53.74,True,False
+1986,Arizona,AZ,governor,1986 Republican gubernatorial primary,Candidate,Burton Barr,Republican,104682,46.26,False,False
+1986,Arizona,AZ,governor,1986 Republican gubernatorial primary,Total,,,226296,100.0,False,False
+1986,Arkansas,AR,governor,Democratic primary,Candidate,Bill Clinton,,315397,60.58,False,True
+1986,Arkansas,AR,governor,Democratic primary,Candidate,Orval Faubus,,174402,33.5,False,False
+1986,Arkansas,AR,governor,Democratic primary,Candidate,W. Dean Goldsby,,30829,5.92,False,False
+1986,California,CA,governor,Republican primary results,Winning,George Deukmejian,Republican,1927290,93.58,True,True
+1986,California,CA,governor,Republican primary results,Candidate,William H. R. Clark,Republican,132126,6.42,False,False
+1986,California,CA,governor,Republican primary results,Total,,,2059416,100.0,False,False
+1986,California,CA,governor,Democratic primary results,Winning,Tom Bradley,Democratic,1768044,81.53,True,False
+1986,California,CA,governor,Democratic primary results,Candidate,Hugh G. Bagley,Democratic,141218,6.51,False,False
+1986,California,CA,governor,Democratic primary results,Candidate,Charles Pineda Jr.,Democratic,109001,5.03,False,False
+1986,California,CA,governor,Democratic primary results,Candidate,Eileen Anderson,Democratic,102358,4.72,False,False
+1986,California,CA,governor,Democratic primary results,Candidate,Frank L. Thomas,Democratic,48007,2.21,False,False
+1986,California,CA,governor,Democratic primary results,Total,,,2168628,100.0,False,False
+1986,California,CA,governor,American Independent primary results,Winning,Gary V. Miller,Independent,13168,100.0,True,False
+1986,California,CA,governor,American Independent primary results,Total,,,13168,100.0,False,False
+1986,California,CA,governor,Libertarian primary results,Winning,Joseph Fuhrig,Libertarian,9123,100.0,True,False
+1986,California,CA,governor,Libertarian primary results,Total,,,9123,100.0,False,False
+1986,California,CA,governor,Peace and Freedom primary results,Winning,Maria Elizabeth Muñoz,Freedom,3508,69.78,True,False
+1986,California,CA,governor,Peace and Freedom primary results,Candidate,Cheryl Zuur,Freedom,1519,30.22,False,False
+1986,California,CA,governor,Peace and Freedom primary results,Total,,,5027,100.0,False,False
+1986,Colorado,CO,governor,Democratic primary results,Winning,Roy Romer,Democratic,101192,100.0,True,False
+1986,Colorado,CO,governor,Republican primary results,Winning,Ted L. Strickland,Republican,66796,35.56,True,False
+1986,Colorado,CO,governor,Republican primary results,Candidate,Steve Schuck,Republican,64245,34.21,False,False
+1986,Colorado,CO,governor,Republican primary results,Candidate,Bob Kirscht,Republican,56779,30.23,False,False
+1986,Colorado,CO,governor,Republican primary results,Total,,,187820,100.0,False,False
+1986,Florida,FL,governor,Democratic primary results,Winning,Steve Pajcic,Democratic,360900,35.89,True,False
+1986,Florida,FL,governor,Democratic primary results,Winning,James C. Smith,Democratic,309908,30.82,True,False
+1986,Florida,FL,governor,Democratic primary results,Candidate,Harry Johnston,Democratic,257906,25.65,False,False
+1986,Florida,FL,governor,Democratic primary results,Candidate,Mark Kane Goldstein,Democratic,54060,5.38,False,False
+1986,Florida,FL,governor,Democratic primary results,Candidate,Joan L. Wollin,Democratic,22691,2.26,False,False
+1986,Florida,FL,governor,Democratic primary results,Total,,,1005465,100.0,False,False
+1986,Florida,FL,governor,Democratic primary runoff results,Winning,Steve Pajcic,Democratic,429527,50.64,True,False
+1986,Florida,FL,governor,Democratic primary runoff results,Candidate,James C. Smith,Democratic,418614,49.36,False,False
+1986,Florida,FL,governor,Democratic primary runoff results,Total,,,848041,100.0,False,False
+1986,Florida,FL,governor,Republican primary results,Winning,Bob Martinez,Republican,244417,43.8,True,False
+1986,Florida,FL,governor,Republican primary results,Winning,Lou Frey,Republican,137967,24.72,True,False
+1986,Florida,FL,governor,Republican primary results,Candidate,Tom Gallagher,Republican,131265,23.52,False,False
+1986,Florida,FL,governor,Republican primary results,Candidate,Chester Clem,Republican,44409,7.96,False,False
+1986,Florida,FL,governor,Republican primary results,Total,,,558058,100.0,False,False
+1986,Florida,FL,governor,Republican primary runoff results,Winning,Bob Martinez,Republican,259333,66.33,True,False
+1986,Florida,FL,governor,Republican primary runoff results,Candidate,Lou Frey,Republican,131652,33.67,False,False
+1986,Florida,FL,governor,Republican primary runoff results,Total,,,390985,100.0,False,False
+1986,Illinois,IL,governor,Democratic gubernatorial primary,Winning,Adlai E. Stevenson,Democratic,735249,92.93,True,False
+1986,Illinois,IL,governor,Democratic gubernatorial primary,Candidate,Larry Burgess,Democratic,55930,7.07,False,False
+1986,Illinois,IL,governor,Democratic gubernatorial primary,Write-in,,,1,0.0,False,False
+1986,Illinois,IL,governor,Democratic gubernatorial primary,Total,,,791180,100.0,False,False
+1986,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Winning,Mark J. Fairchild,Democratic,340727,51.75,True,False
+1986,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Candidate,George E. Sangmeister,Democratic,317700,48.25,False,False
+1986,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Write-in,,,4,0.0,False,False
+1986,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Total,,,658431,100.0,False,False
+1986,Illinois,IL,governor,Republican gubernatorial primary,Winning,James R. Thompson,Republican,452685,90.9,True,True
+1986,Illinois,IL,governor,Republican gubernatorial primary,Candidate,Peter Bowen,Republican,45236,9.08,False,False
+1986,Illinois,IL,governor,Republican gubernatorial primary,Write-in,,,61,0.01,False,False
+1986,Illinois,IL,governor,Republican gubernatorial primary,Total,,,497982,100.0,False,False
+1986,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Winning,George Ryan,Republican,441672,100.0,True,True
+1986,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Write-in,,,7,0.0,False,False
+1986,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Total,,,441679,100.0,False,False
+1986,Iowa,IA,governor,Democratic primary results,Winning,Lowell Junkins,Democratic,70605,52.62,True,False
+1986,Iowa,IA,governor,Democratic primary results,Candidate,Robert T. Anderson,Democratic,44550,33.2,False,False
+1986,Iowa,IA,governor,Democratic primary results,Candidate,George Kinley,Democratic,15473,11.53,False,False
+1986,Iowa,IA,governor,Democratic primary results,Candidate,Clinton E. Berryhill,Democratic,3503,2.61,False,False
+1986,Iowa,IA,governor,Democratic primary results,Candidate,Write-ins,Democratic,60,0.04,False,False
+1986,Iowa,IA,governor,Democratic primary results,Total,,,134191,100.0,False,False
+1986,Iowa,IA,governor,Republican primary results,Winning,Terry Branstad,Republican,104482,99.85,True,True
+1986,Iowa,IA,governor,Republican primary results,Candidate,Write-ins,Republican,154,0.15,False,False
+1986,Iowa,IA,governor,Republican primary results,Total,,,104636,100.0,False,False
+1986,Maine,ME,governor,Democratic primary results,Winning,James Tierney,Democratic,44087,37.23,True,False
+1986,Maine,ME,governor,Democratic primary results,Candidate,Severin Beliveau,Democratic,27991,23.64,False,False
+1986,Maine,ME,governor,Democratic primary results,Candidate,William Diamond,Democratic,24693,20.85,False,False
+1986,Maine,ME,governor,Democratic primary results,Candidate,David Redmond,Democratic,17598,14.86,False,False
+1986,Maine,ME,governor,Democratic primary results,Candidate,Joseph Ricci,Democratic,4039,3.41,False,False
+1986,Maine,ME,governor,Democratic primary results,Total,,,118408,100.0,False,False
+1986,Maine,ME,governor,Republican primary results,Winning,John McKernan,Republican,79393,68.37,True,False
+1986,Maine,ME,governor,Republican primary results,Candidate,Porter Leighton,Republican,24631,31.61,False,False
+1986,Maine,ME,governor,Republican primary results,Candidate,Others,Republican,31,0.02,False,False
+1986,Maine,ME,governor,Republican primary results,Total,,,116129,100.0,False,False
+1986,Maryland,MD,governor,Democratic primary results,Winning,William Donald Schaefer,Democratic,395170,61.75,True,False
+1986,Maryland,MD,governor,Democratic primary results,Candidate,Stephen H. Sachs,Democratic,224755,35.12,False,False
+1986,Maryland,MD,governor,Democratic primary results,Candidate,Lawrence K. Freeman,Democratic,14120,2.21,False,False
+1986,Maryland,MD,governor,Democratic primary results,Candidate,Mary Fellenbaum Holter,Democratic,5919,0.93,False,False
+1986,Maryland,MD,governor,Democratic primary results,Total,,,639964,100.0,False,False
+1986,Massachusetts,MA,governor,"Massachusetts Democratic lt. gubernatorial primary, 1986",Winning,Evelyn Murphy,Democratic,374714,60.1,True,False
+1986,Massachusetts,MA,governor,"Massachusetts Democratic lt. gubernatorial primary, 1986",Candidate,Gerard D'Amico,Democratic,248671,39.89,False,False
+1986,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1986",Winning,Greg Hyatt (withdrew),Republican,31021,48.19,True,False
+1986,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1986",Candidate,Royall Switzler (withdrew),Republican,20802,32.32,False,False
+1986,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1986",Candidate,George Kariotis (write-in),Republican,11787,18.31,False,False
+1986,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1986",Total,,,63610,100.0,False,False
+1986,Michigan,MI,governor,Democratic primary results,Winning,James J. Blanchard (inc.),Democratic,428125,93.66,True,False
+1986,Michigan,MI,governor,Democratic primary results,Candidate,Henry Wilson,Democratic,28940,6.33,False,False
+1986,Michigan,MI,governor,Democratic primary results,Candidate,Scattering,Democratic,22,0.01,False,False
+1986,Michigan,MI,governor,Democratic primary results,Total,,,457087,100.0,False,False
+1986,Michigan,MI,governor,Republican primary results,Winning,William Lucas,Republican,259153,44.5,True,False
+1986,Michigan,MI,governor,Republican primary results,Candidate,Dick Chrysler,Republican,198174,34.03,False,False
+1986,Michigan,MI,governor,Republican primary results,Candidate,Colleen Engler,Republican,63927,10.98,False,False
+1986,Michigan,MI,governor,Republican primary results,Candidate,Dan Murphy,Republican,61073,10.49,False,False
+1986,Michigan,MI,governor,Republican primary results,Candidate,Scattering,Republican,10,0.0,False,False
+1986,Michigan,MI,governor,Republican primary results,Total,,,582337,100.0,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Winning,Rudy Perpich,Minnesota Democratic–farmer–labor,293426,57.48,True,True
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,George Latimer,Minnesota Democratic–farmer–labor,207198,40.59,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,Andrew L. Olson,Minnesota Democratic–farmer–labor,4448,0.87,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,William T. Heine,Minnesota Democratic–farmer–labor,3204,0.63,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,Phil Ratté,Minnesota Democratic–farmer–labor,2219,0.43,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Total,,,510495,100.0,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Winning,Cal Ludeman,Independent-republican,147674,76.85,True,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,James Lindau,Independent-republican,30768,16.01,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,Douglas J. Williams,Independent-republican,5431,2.83,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,Wallace C. Brattrud,Independent-republican,4598,2.39,False,False
+1986,Minnesota,MN,governor,1986 DFL gubernatorial primary,Candidate,Beatrice Mooney,Independent-republican,3682,1.92,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Winning,Helen Boosalis,Democratic,63833,44.01,True,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,David Domina,Democratic,37975,26.18,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Chris Beutler,Democratic,31605,21.79,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Robert J. Prokop,Democratic,5160,3.56,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Marge Higgins,Democratic,4433,3.06,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Barton E. Chandler,Democratic,1260,0.87,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Mina B. Dillingham,Democratic,402,0.28,False,False
+1986,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Write-in,Democratic,369,0.25,False,False
+1986,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Winning,Donald F. McGinley,Democratic,76602,62.65,True,True
+1986,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Ken L. Michaelis,Democratic,23646,19.34,False,False
+1986,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Rachel Hepburn,Democratic,21822,17.85,False,False
+1986,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Write-in,Democratic,193,0.16,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Winning,Kay Orr,Republican,75914,39.41,True,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Kermit Brashear,Republican,60308,31.3,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Nancy Hoch,Republican,42649,22.14,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Everett Sileven,Republican,4281,2.22,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Paul A. Rosberg,Republican,4280,2.22,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Monte Taylor,Republican,3276,1.7,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Roger Yant,Republican,682,0.35,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Chuck Loos,Republican,658,0.34,False,False
+1986,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Write-in,Republican,601,0.31,False,False
+1986,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Winning,Bill Nichol,Republican,80621,52.12,True,False
+1986,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Candidate,Randy Moody,Republican,38160,24.67,False,False
+1986,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Candidate,Richard J. Mathews,Republican,35656,23.05,False,False
+1986,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Candidate,Write-in,Republican,260,0.17,False,False
+1986,Nevada,NV,governor,Democratic primary results,Winning,Richard Bryan,Democratic,71920,79.95,True,True
+1986,Nevada,NV,governor,Democratic primary results,Candidate,Herb Tobman,Democratic,13776,15.31,False,False
+1986,Nevada,NV,governor,Democratic primary results,Candidate,None of These Candidates,,4264,4.74,False,False
+1986,Nevada,NV,governor,Democratic primary results,Total,,,89960,100.0,False,False
+1986,Nevada,NV,governor,Republican Primary results,Winning,Patty Cafferata,Republican,31430,46.03,True,False
+1986,Nevada,NV,governor,Republican Primary results,Candidate,None of These Candidates,,15116,22.15,False,False
+1986,Nevada,NV,governor,Republican Primary results,Candidate,Jim Stone,Republican,12296,18.02,False,False
+1986,Nevada,NV,governor,Republican Primary results,Candidate,Joni Wines,Republican,5599,8.21,False,False
+1986,Nevada,NV,governor,Republican Primary results,Candidate,"M.L. ""Smokey"" Stover",Republican,2236,3.28,False,False
+1986,Nevada,NV,governor,Republican Primary results,Candidate,Robert A. Swartz,Republican,1559,2.29,False,False
+1986,Nevada,NV,governor,Republican Primary results,Total,,,68236,100.0,False,False
+1986,New Mexico,NM,governor,Republican primary results,Winning,Garrey Carruthers,Republican,27671,31.05,True,False
+1986,New Mexico,NM,governor,Republican primary results,Candidate,Joseph H. Mercer,Republican,23560,26.44,False,False
+1986,New Mexico,NM,governor,Republican primary results,Candidate,Colin R. McMillan,Republican,19807,22.23,False,False
+1986,New Mexico,NM,governor,Republican primary results,Candidate,Frank M. Bond,Republican,10619,11.92,False,False
+1986,New Mexico,NM,governor,Republican primary results,Candidate,Paul F. Becht,Republican,6566,7.37,False,False
+1986,New Mexico,NM,governor,Republican primary results,Candidate,William Jay Loomis Jr.,Republican,884,0.99,False,False
+1986,New Mexico,NM,governor,Republican primary results,Total,,,89107,100.0,False,False
+1986,Ohio,OH,governor,Democratic primary results,Winning,Dick Celeste,Democratic,684206,99.87,True,True
+1986,Ohio,OH,governor,Democratic primary results,Candidate,Write-ins,Democratic,880,0.13,False,False
+1986,Ohio,OH,governor,Democratic primary results,Total,,,685086,100.0,False,False
+1986,Ohio,OH,governor,Republican primary results,Winning,Jim Rhodes,Republican,352261,48.19,True,False
+1986,Ohio,OH,governor,Republican primary results,Candidate,Paul E. Gillmor,Republican,281737,38.54,False,False
+1986,Ohio,OH,governor,Republican primary results,Candidate,Paul E. Pfeifer,Republican,96948,13.26,False,False
+1986,Ohio,OH,governor,Republican primary results,Total,,,730946,100.0,False,False
+1986,Oklahoma,OK,governor,Democratic primary results,Winning,David Walters,Democratic,238165,46.04,True,False
+1986,Oklahoma,OK,governor,Democratic primary results,Winning,Mike Turpen,Democratic,207357,40.08,True,False
+1986,Oklahoma,OK,governor,Democratic primary results,Candidate,Leslie Fisher,Democratic,33639,6.5,False,False
+1986,Oklahoma,OK,governor,Democratic primary results,Candidate,Virginia Jenner,Democratic,15822,3.06,False,False
+1986,Oklahoma,OK,governor,Democratic primary results,Candidate,Jack Kelly,Democratic,15804,3.06,False,False
+1986,Oklahoma,OK,governor,Democratic primary results,Candidate,Billy Joe Clegg,Democratic,6523,1.26,False,False
+1986,Oklahoma,OK,governor,Democratic primary results,Total,,,517310,100.0,False,False
+1986,Oklahoma,OK,governor,Democratic primary runoff results,Winning,David Walters,Democratic,235373,50.43,True,False
+1986,Oklahoma,OK,governor,Democratic primary runoff results,Candidate,Mike Turpen,Democratic,231390,49.57,False,False
+1986,Oklahoma,OK,governor,Democratic primary runoff results,Total,,,466763,100.0,False,False
+1986,Oklahoma,OK,governor,Republican primary results,Winning,Henry Bellmon,Republican,111665,70.27,True,False
+1986,Oklahoma,OK,governor,Republican primary results,Candidate,Mike Fair,Republican,33266,20.94,False,False
+1986,Oklahoma,OK,governor,Republican primary results,Candidate,Will Crozier,Republican,5958,3.75,False,False
+1986,Oklahoma,OK,governor,Republican primary results,Candidate,Robert N. Goodhead,Republican,4641,2.92,False,False
+1986,Oklahoma,OK,governor,Republican primary results,Candidate,Monty Keely,Republican,3369,2.12,False,False
+1986,Oklahoma,OK,governor,Republican primary results,Total,,,158899,100.0,False,False
+1986,Oregon,OR,governor,Republican primary results,Winning,Norma Paulus,Republican,219505,77.04,True,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,Betty Freauf,Republican,36384,12.77,False,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,Ben Kilpatrick,Republican,13688,4.8,False,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,Joe C. Simpson,Republican,5487,1.93,False,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,Sanford L. Blau,Republican,2906,1.02,False,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,William K. Sparks,Republican,2802,0.98,False,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,Juan J. Ortegon,Republican,2577,0.9,False,False
+1986,Oregon,OR,governor,Republican primary results,Candidate,Scattering,Republican,1588,0.56,False,False
+1986,Oregon,OR,governor,Republican primary results,Total,,,284937,100.0,False,False
+1986,Oregon,OR,governor,Democratic primary results,Winning,Neil Goldschmidt,Democratic,214148,67.44,True,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,Edward Fadeley,Democratic,81300,25.6,False,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,Dave Jones,Democratic,6013,1.89,False,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,George Thomas,Democratic,4383,1.38,False,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,C. F. Barackman,Democratic,4175,1.31,False,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,E. Allen Propst,Democratic,3157,0.99,False,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,Robert L. Forthan,Democratic,2933,0.92,False,False
+1986,Oregon,OR,governor,Democratic primary results,Candidate,Scattering,Democratic,1408,0.44,False,False
+1986,Oregon,OR,governor,Democratic primary results,Total,,,317517,100.0,False,False
+1986,Pennsylvania,PA,governor,1986 Democratic gubernatorial primary,Winning,Bob Casey,Democratic,549376,56.45,True,False
+1986,Pennsylvania,PA,governor,1986 Democratic gubernatorial primary,Candidate,Ed Rendell,Democratic,385539,39.62,False,False
+1986,Pennsylvania,PA,governor,1986 Democratic gubernatorial primary,Candidate,Steve Douglas,Democratic,38295,3.94,False,False
+1986,Pennsylvania,PA,governor,1986 Democratic gubernatorial primary,Total,,,973210,100.0,False,False
+1986,Rhode Island,RI,governor,Democratic primary results,Winning,Bruce Sundlun,Democratic,43120,75.33,True,False
+1986,Rhode Island,RI,governor,Democratic primary results,Candidate,Steve White,Democratic,14124,24.67,False,False
+1986,Rhode Island,RI,governor,Democratic primary results,Total,,,57244,100.0,False,False
+1986,South Carolina,SC,governor,Democratic primary,Candidate,Michael R. Daniel,,156077,,False,False
+1986,South Carolina,SC,governor,Democratic primary,Candidate,Philip Lader,,86136,,False,False
+1986,South Carolina,SC,governor,Democratic primary,Candidate,Frank Eppes,,59125,,False,False
+1986,South Carolina,SC,governor,Democratic primary,Candidate,Hugh Leatherman,,28158,,False,False
+1986,South Dakota,SD,governor,Republican primary results,Winning,George S. Mickelson,Republican,40979,35.3,True,False
+1986,South Dakota,SD,governor,Republican primary results,Candidate,Clint Roberts,Republican,37250,32.08,False,False
+1986,South Dakota,SD,governor,Republican primary results,Candidate,Lowell Hansen,Republican,21884,18.85,False,False
+1986,South Dakota,SD,governor,Republican primary results,Candidate,Alice Kundert,Republican,15985,13.77,False,False
+1986,South Dakota,SD,governor,Republican primary results,Total,,,116098,100.0,False,False
+1986,South Dakota,SD,governor,Democratic primary results,Winning,Ralph Lars Herseth,Democratic,30801,42.81,True,False
+1986,South Dakota,SD,governor,Democratic primary results,Candidate,Richard F. Kneip,Democratic,27811,38.66,False,False
+1986,South Dakota,SD,governor,Democratic primary results,Candidate,Kenneth D. Stofferahn,Democratic,13332,18.53,False,False
+1986,South Dakota,SD,governor,Democratic primary results,Total,,,71944,100.0,False,False
+1986,Tennessee,TN,governor,Democratic primary results,Winning,Ned McWherter,Democratic,314449,42.47,True,False
+1986,Tennessee,TN,governor,Democratic primary results,Candidate,Jane Eskind,Democratic,225551,30.46,False,False
+1986,Tennessee,TN,governor,Democratic primary results,Candidate,Richard Fulton,Democratic,190016,25.66,False,False
+1986,Tennessee,TN,governor,Democratic primary results,Candidate,Joseph L. Crichton,Democratic,6582,0.89,False,False
+1986,Tennessee,TN,governor,Democratic primary results,Candidate,Bill Jacox,Democratic,3817,0.52,False,False
+1986,Tennessee,TN,governor,Democratic primary results,Total,,,740415,100.0,False,False
+1986,Tennessee,TN,governor,Republican primary results,Winning,Winfield Dunn,Republican,222458,94.23,True,False
+1986,Tennessee,TN,governor,Republican primary results,Candidate,Hubert David Patty,Republican,7660,3.25,False,False
+1986,Tennessee,TN,governor,Republican primary results,Candidate,Charles Gordon Vick,Republican,5954,2.52,False,False
+1986,Tennessee,TN,governor,Republican primary results,Total,,,236072,100.0,False,False
+1986,Texas,TX,governor,Democratic primary results,Winning,Mark White,Democratic,589536,53.76,True,True
+1986,Texas,TX,governor,Democratic primary results,Candidate,Andrew C. Briscoe III,Democratic,248850,22.69,False,False
+1986,Texas,TX,governor,Democratic primary results,Candidate,A. Don Crowder,Democratic,120999,11.03,False,False
+1986,Texas,TX,governor,Democratic primary results,Candidate,"Robert ""Star"" Locke",Democratic,58936,5.38,False,False
+1986,Texas,TX,governor,Democratic primary results,Candidate,Sheila Bilyeu,Democratic,39370,3.59,False,False
+1986,Texas,TX,governor,Democratic primary results,Candidate,Ron Slover,Democratic,38861,3.54,False,False
+1986,Texas,TX,governor,Democratic primary results,Total,,,1096552,100.0,False,False
+1986,Texas,TX,governor,Republican primary results,Winning,Bill Clements,Republican,318808,58.53,True,False
+1986,Texas,TX,governor,Republican primary results,Candidate,Tom Loeffler,Republican,117673,21.6,False,False
+1986,Texas,TX,governor,Republican primary results,Candidate,Kent Hance,Republican,108238,19.87,False,False
+1986,Texas,TX,governor,Republican primary results,Total,,,554719,100.0,False,False
+1986,Vermont,VT,governor,Democratic primary results,Winning,Madeleine M. Kunin (inc.),Democratic,19401,95.1,True,False
+1986,Vermont,VT,governor,Democratic primary results,Candidate,Write-ins,Democratic,993,4.9,False,False
+1986,Vermont,VT,governor,Democratic primary results,Total,,,20394,100.0,False,False
+1986,Vermont,VT,governor,Republican primary results,Winning,Peter Plympton Smith,Republican,24837,96.8,True,False
+1986,Vermont,VT,governor,Republican primary results,Candidate,Write-ins,Republican,813,3.2,False,False
+1986,Vermont,VT,governor,Republican primary results,Total,,,25650,100.0,False,False
+1986,Vermont,VT,governor,Liberty Union primary results,Winning,Richard F. Gottlieb,Union,135,86.0,True,False
+1986,Vermont,VT,governor,Liberty Union primary results,Candidate,Bernie Sanders (write-in),Union,16,10.2,False,False
+1986,Vermont,VT,governor,Liberty Union primary results,Candidate,Write-ins (other),Union,6,3.8,False,False
+1986,Vermont,VT,governor,Liberty Union primary results,Total,,,157,100.0,False,False
+1986,Wisconsin,WI,governor,Democratic gubernatorial primary results,Winning,Anthony S. Earl,Democratic,215183,80.3,True,True
+1986,Wisconsin,WI,governor,Democratic gubernatorial primary results,Candidate,Edmond Hou-Seye,Democratic,52784,19.7,False,False
+1986,Wisconsin,WI,governor,Democratic gubernatorial primary results,Total,,,267967,100.0,False,False
+1986,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Winning,Sharon K. Metz,Democratic,101753,42.01,True,False
+1986,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Gervase Hephner,Democratic,52313,21.6,False,False
+1986,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Cletus J. Johnson,Democratic,50795,20.97,False,False
+1986,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Taylor Benson,Democratic,29353,12.12,False,False
+1986,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Candidate,Arlyn F. Wollenburg,Democratic,7984,3.3,False,False
+1986,Wisconsin,WI,governor,Democratic lieutenant gubernatorial primary results,Total,,,242198,100.0,False,False
+1986,Wisconsin,WI,governor,Republican gubernatorial primary results,Winning,Tommy G. Thompson,Republican,156875,52.11,True,False
+1986,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Jonathan B. Barry,Republican,67114,22.3,False,False
+1986,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,George Watts,Republican,58424,19.41,False,False
+1986,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Albert Lee Wiley Jr.,Republican,15233,5.06,False,False
+1986,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Joseph A. Ortiz,Republican,3374,1.12,False,False
+1986,Wisconsin,WI,governor,Republican gubernatorial primary results,Total,,,301020,100.0,False,False
+1986,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Winning,Scott McCallum,Republican,134099,49.48,True,False
+1986,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Candidate,Patricia A. Goodrich,Republican,65628,24.22,False,False
+1986,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Candidate,Robert Nolan,Republican,51836,19.13,False,False
+1986,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Candidate,Drew W. Heiden,Republican,19451,7.18,False,False
+1986,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Total,,,271014,100.0,False,False
+1986,Wisconsin,WI,governor,Labor-Farm gubernatorial primary results,Candidate,Kathryn A. Christensen,Labor-farm,1088,100.0,False,False
+1986,Wisconsin,WI,governor,Labor-Farm gubernatorial primary results,Total,,,1088,100.0,False,False
+1986,Wisconsin,WI,governor,Labor-Farm lieutenant gubernatorial primary results,Candidate,John Ervin Bergum,Labor-farm,1012,100.0,False,False
+1986,Wisconsin,WI,governor,Labor-Farm lieutenant gubernatorial primary results,Total,,,1012,100.0,False,False
+1986,Wisconsin,WI,governor,Independent gubernatorial primary results,Winning,Darold E. Wall,Independent,525,59.59,True,False
+1986,Wisconsin,WI,governor,Independent gubernatorial primary results,Winning,Sanford Knapp,Independent,356,40.41,True,False
+1986,Wisconsin,WI,governor,Independent gubernatorial primary results,Total,,,881,100.0,False,False
+1986,Wyoming,WY,governor,Democratic primary,Winning,Mike Sullivan,Democratic,29266,70.92,True,False
+1986,Wyoming,WY,governor,Democratic primary,Candidate,Pat McGuire,Democratic,5406,13.1,False,False
+1986,Wyoming,WY,governor,Democratic primary,Candidate,Keith Goodenough,Democratic,4039,9.79,False,False
+1986,Wyoming,WY,governor,Democratic primary,Candidate,Al Hamburg,Democratic,2554,6.19,False,False
+1986,Wyoming,WY,governor,Democratic primary,Total,,,41265,100.0,False,False
+1986,Wyoming,WY,governor,Republican primary,Winning,Pete Simpson,Republican,25948,27.58,True,False
+1986,Wyoming,WY,governor,Republican primary,Candidate,Bill Budd,Republican,25495,27.1,False,False
+1986,Wyoming,WY,governor,Republican primary,Candidate,Fred Schroeder,Republican,15013,15.96,False,False
+1986,Wyoming,WY,governor,Republican primary,Candidate,Russ Donley,Republican,12979,13.8,False,False
+1986,Wyoming,WY,governor,Republican primary,Candidate,David R. Nicholas,Republican,11092,11.79,False,False
+1986,Wyoming,WY,governor,Republican primary,Candidate,John R. Johnson,Republican,3139,3.34,False,False
+1986,Wyoming,WY,governor,Republican primary,Candidate,Jim Bace,Republican,402,0.43,False,False
+1986,Wyoming,WY,governor,Republican primary,Total,,,94068,100.0,False,False

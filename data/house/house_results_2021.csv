@@ -1,14 +1,14 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2021,house,Louisiana,LA,2,Troy Carter,Democratic,55.25,True,False,True
-2021,house,Louisiana,LA,2,Karen Carter Peterson,Democratic,44.75,False,False,True
-2021,house,New Mexico,NM,1,Melanie Stansbury,Democratic,60.36,True,False,True
-2021,house,New Mexico,NM,1,Mark Moores,Republican,35.62,False,False,True
-2021,house,New Mexico,NM,1,Aubrey Dunn Jr.,Independent,2.67,False,False,True
-2021,house,New Mexico,NM,1,Chris Manning,Libertarian,1.31,False,False,True
-2021,house,New Mexico,NM,1,,,0.03,False,False,True
-2021,house,Ohio,OH,11,Shontel Brown,Democratic,78.88,True,False,True
-2021,house,Ohio,OH,11,Laverne Gore,Republican,21.12,False,False,True
-2021,house,Ohio,OH,15,Mike Carey,Republican,58.3,True,False,True
-2021,house,Ohio,OH,15,Allison Russo,Democratic,41.7,False,False,True
-2021,house,Texas,TX,6,Jake Ellzey,Republican,53.27,True,False,True
-2021,house,Texas,TX,6,Susan Wright,Republican,46.73,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2021,house,Louisiana,LA,2,87810,Troy Carter,Democratic,48513,55.25,True,False,True
+2021,house,Louisiana,LA,2,87810,Karen Carter Peterson,Democratic,39297,44.75,False,False,True
+2021,house,New Mexico,NM,1,132263,Melanie Stansbury,Democratic,79838,60.36,True,False,True
+2021,house,New Mexico,NM,1,132263,Mark Moores,Republican,47111,35.62,False,False,True
+2021,house,New Mexico,NM,1,132263,Aubrey Dunn Jr.,Independent,3534,2.67,False,False,True
+2021,house,New Mexico,NM,1,132263,Chris Manning,Libertarian,1734,1.31,False,False,True
+2021,house,New Mexico,NM,1,132263,,,46,0.03,False,False,True
+2021,house,Ohio,OH,11,105111,Shontel Brown,Democratic,82913,78.88,True,False,True
+2021,house,Ohio,OH,11,105111,Laverne Gore,Republican,22198,21.12,False,False,True
+2021,house,Ohio,OH,15,162089,Mike Carey,Republican,94501,58.3,True,False,True
+2021,house,Ohio,OH,15,162089,Allison Russo,Democratic,67588,41.7,False,False,True
+2021,house,Texas,TX,6,39116,Jake Ellzey,Republican,20837,53.27,True,False,True
+2021,house,Texas,TX,6,39116,Susan Wright,Republican,18279,46.73,False,False,True

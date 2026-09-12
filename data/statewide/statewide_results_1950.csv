@@ -1,0 +1,101 @@
+year,state,state_code,office,candidate,party,percentage,winner,incumbent
+1950,Alabama,AL,governor,Gordon Persons,Democratic,91.1,True,False
+1950,Alabama,AL,governor,John S. Crowder,Republican,8.9,False,False
+1950,Arizona,AZ,governor,J. Howard Pyle,Republican,50.8,True,False
+1950,Arizona,AZ,governor,Ana Frohmiller,Democratic,49.2,False,False
+1950,Arkansas,AR,governor,Sid McMath,Democratic,84.1,True,True
+1950,Arkansas,AR,governor,Jefferson W. Speck,Republican,15.9,False,False
+1950,California,CA,governor,Earl Warren,Republican,64.9,True,True
+1950,California,CA,governor,James Roosevelt,Democratic,35.1,False,False
+1950,Colorado,CO,governor,Daniel I. J. Thornton,Republican,52.4,True,False
+1950,Colorado,CO,governor,Walter Walford Johnson,Democratic,47.2,False,True
+1950,Colorado,CO,governor,Louis K. Stephens,Labor,0.3,False,False
+1950,Connecticut,CT,governor,John Davis Lodge,Republican,49.7,True,False
+1950,Connecticut,CT,governor,Chester Bowles,Democratic,47.7,False,True
+1950,Connecticut,CT,governor,Jasper McLevy,Socialist,2.6,False,False
+1950,Georgia,GA,governor,Primary results:,,,True,False
+1950,Georgia,GA,governor,Herman Talmadge,Democratic,49.33,True,True
+1950,Georgia,GA,governor,Melvin E. Thompson,Democratic,47.88,False,False
+1950,Georgia,GA,governor,C.O. Baker,Democratic,1.7,False,False
+1950,Georgia,GA,governor,Pat Avery,Democratic,0.5,False,False
+1950,Georgia,GA,governor,Mrs. J.W. Jenkins,Democratic,0.5,False,False
+1950,Georgia,GA,governor,General election:,,,True,False
+1950,Georgia,GA,governor,Morgan Blake,Independent,1.4,False,False
+1950,Idaho,ID,governor,Len Jordan,Republican,52.6,True,False
+1950,Idaho,ID,governor,Calvin E. Wright,Democratic,47.4,False,False
+1950,Iowa,IA,governor,William S. Beardsley,Republican,59.1,True,True
+1950,Iowa,IA,governor,Lester S. Gillette,Democratic,40.5,False,False
+1950,Iowa,IA,governor,W. Raymond Picken,Prohibition,0.33,False,False
+1950,Iowa,IA,governor,Howard H. Tyler,Independent,0.07,False,False
+1950,Kansas,KS,governor,Edward F. Arn,Republican,53.8,True,False
+1950,Kansas,KS,governor,Kenneth Anderson,Democratic,44.5,False,False
+1950,Kansas,KS,governor,C. Floyd Hester,Prohibition,1.5,False,False
+1950,Kansas,KS,governor,W.W. Tamplin,Socialist,0.2,False,False
+1950,Maine,ME,governor,Frederick G. Payne,Republican,60.5,True,True
+1950,Maine,ME,governor,Earl S. Grant,Democratic,39.1,False,False
+1950,Maine,ME,governor,Leland B. Currier,Independent,0.4,False,False
+1950,Maryland,MD,governor,Theodore McKeldin,Republican,57.3,True,False
+1950,Maryland,MD,governor,William Preston Lane Jr.,Democratic,42.7,False,True
+1950,Massachusetts,MA,governor,Paul A. Dever,Democratic,56.3,True,True
+1950,Massachusetts,MA,governor,Arthur W. Coolidge,Republican,43.1,False,False
+1950,Massachusetts,MA,governor,Horace I. Hillis,Labor,0.4,False,False
+1950,Massachusetts,MA,governor,Mark R. Shaw,Prohibition,0.2,False,False
+1950,Michigan,MI,governor,G. Mennen Williams,Democratic,49.76,True,True
+1950,Michigan,MI,governor,Harry Kelly,Republican,49.7,False,False
+1950,Michigan,MI,governor,Perry Hayden,Prohibition,0.45,False,False
+1950,Michigan,MI,governor,Theos A. Grove,Labor,0.06,False,False
+1950,Michigan,MI,governor,Howard Lerner,Workers,0.03,False,False
+1950,Minnesota,MN,governor,Luther Youngdahl,Republican,60.8,True,True
+1950,Minnesota,MN,governor,Harry H. Peterson,Minnesota Democratic-farmer-labor,38.3,False,False
+1950,Minnesota,MN,governor,Vernon G. Campbell,Independent,0.97,False,False
+1950,Nebraska,NE,governor,Val Peterson,Republican,55.0,True,True
+1950,Nebraska,NE,governor,Walter R. Raecke,Democratic,45.0,False,False
+1950,Nevada,NV,governor,Charles H. Russell,Republican,57.7,True,False
+1950,Nevada,NV,governor,Vail Pittman,Democratic,42.4,False,True
+1950,New Hampshire,NH,governor,Sherman Adams,Republican,57.0,True,True
+1950,New Hampshire,NH,governor,Robert P. Bingham,Democratic,43.0,False,False
+1950,New Mexico,NM,governor,Edwin L. Mechem,Republican,53.7,True,False
+1950,New Mexico,NM,governor,John E. Miles,Democratic,46.3,False,False
+1950,New York,NY,governor,Thomas E. Dewey,Republican,53.1,True,True
+1950,New York,NY,governor,Walter A. Lynch,Democratic,42.3,False,False
+1950,New York,NY,governor,John T. McManus,Labor,4.2,False,False
+1950,New York,NY,governor,Michael Bartell,Workers,0.3,False,False
+1950,New York,NY,governor,Eric Hass,Labor,0.1,False,False
+1950,North Dakota,ND,governor,Norman Brunsdale,Republican,66.3,True,False
+1950,North Dakota,ND,governor,Clyde G. Byerly,Democratic,33.7,False,False
+1950,Ohio,OH,governor,Frank Lausche,Democratic,52.6,True,True
+1950,Ohio,OH,governor,Don H. Ebright,Republican,47.4,False,False
+1950,Oklahoma,OK,governor,Johnston Murray,Democratic,51.1,True,False
+1950,Oklahoma,OK,governor,Jo O. Ferguson,Republican,48.6,False,False
+1950,Oklahoma,OK,governor,Mildred Harrell,Independent,0.3,False,False
+1950,Oregon,OR,governor,Douglas McKay,Republican,66.1,True,True
+1950,Oregon,OR,governor,Austin F. Flegel,Democratic,34.0,False,False
+1950,Pennsylvania,PA,governor,John S. Fine,Republican,50.7,True,False
+1950,Pennsylvania,PA,governor,Richardson Dilworth,Democratic,48.3,False,False
+1950,Pennsylvania,PA,governor,Richard R. Blews,Prohibition,0.4,False,False
+1950,Pennsylvania,PA,governor,Reginald B. Naugle,Independent,0.2,False,False
+1950,Pennsylvania,PA,governor,Thomas J. Fizpatrick,Progressive,0.2,False,False
+1950,Pennsylvania,PA,governor,Robert Z. Wilson Mozer,Socialist,0.1,False,False
+1950,Pennsylvania,PA,governor,George S. Taylor,Independent,0.1,False,False
+1950,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,59.3,True,False
+1950,Rhode Island,RI,governor,Eugene J. Lachapelle,Republican,40.7,False,False
+1950,South Carolina,SC,governor,Primary run-off:,,,True,False
+1950,South Carolina,SC,governor,James F. Byrnes,Democratic,71.63,True,False
+1950,South Carolina,SC,governor,Lester L. Bates,Democratic,18.23,False,False
+1950,South Carolina,SC,governor,Thomas H. Pope,Democratic,8.55,False,False
+1950,South Carolina,SC,governor,Marcus A. Stone,Democratic,1.59,False,False
+1950,South Carolina,SC,governor,General election:,,,True,False
+1950,South Dakota,SD,governor,Sigurd Anderson,Republican,60.9,True,False
+1950,South Dakota,SD,governor,Joe Robbie,Democratic,39.1,False,False
+1950,Tennessee,TN,governor,Gordon Browning,Democratic,78.1,True,True
+1950,Tennessee,TN,governor,John Randolph Neal Jr.,Independent,21.9,False,False
+1950,Texas,TX,governor,Allan Shivers,Democratic,89.9,True,True
+1950,Texas,TX,governor,Ralph W. Currie,Republican,10.1,False,False
+1950,Vermont,VT,governor,Lee E. Emerson,Republican,74.5,True,False
+1950,Vermont,VT,governor,J. Edward Moran,Democratic,25.5,False,False
+1950,Wisconsin,WI,governor,Walter J. Kohler Jr.,Republican,53.2,True,False
+1950,Wisconsin,WI,governor,Carl W. Thompson,Democratic,46.2,False,False
+1950,Wisconsin,WI,governor,Michael Essin,Progressive,0.3,False,False
+1950,Wisconsin,WI,governor,William O. Hart,Socialist,0.3,False,False
+1950,Wyoming,WY,governor,Frank A. Barrett,Republican,56.2,True,False
+1950,Wyoming,WY,governor,John J. McIntyre,Democratic,43.9,False,False

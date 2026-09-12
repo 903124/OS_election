@@ -1,1088 +1,1117 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2018,house,Alabama,AL,1,Bradley Byrne,Republican,63.2,True,True,False
-2018,house,Alabama,AL,1,Robert Kennedy Jr.,Democratic,36.8,False,False,False
-2018,house,Alabama,AL,2,Martha Roby,Republican,61.5,True,True,False
-2018,house,Alabama,AL,2,Tabitha Isner,Democratic,38.5,False,False,False
-2018,house,Alabama,AL,3,Mike D. Rogers,Republican,63.8,True,False,False
-2018,house,Alabama,AL,3,Mallory Hagan,Democratic,36.2,False,False,False
-2018,house,Alabama,AL,4,Robert Aderholt,Republican,79.9,True,True,False
-2018,house,Alabama,AL,4,Lee Auman,Democratic,20.1,False,False,False
-2018,house,Alabama,AL,5,Mo Brooks,Republican,61.1,True,True,False
-2018,house,Alabama,AL,5,Peter Joffrion,Democratic,38.9,False,False,False
-2018,house,Alabama,AL,6,Gary Palmer,Republican,69.2,True,False,False
-2018,house,Alabama,AL,6,Danner Kline,Democratic,30.8,False,False,False
-2018,house,Alabama,AL,7,Terri Sewell,Democratic,100.0,True,True,False
-2018,house,Alaska,AK,AL,Don Young,Republican,53.3,True,True,False
-2018,house,Alaska,AK,AL,Alyse Galvin,Independent,46.7,False,False,False
-2018,house,Arizona,AZ,1,Tom O'Halleran,Democratic,53.8,True,True,False
-2018,house,Arizona,AZ,1,Wendy Rogers,Republican,46.2,False,False,False
-2018,house,Arizona,AZ,2,Ann Kirkpatrick,Democratic,54.7,True,False,True
-2018,house,Arizona,AZ,2,Lea Marquez Peterson,Republican,45.3,False,False,True
-2018,house,Arizona,AZ,3,Raúl Grijalva,Democratic,63.9,True,True,False
-2018,house,Arizona,AZ,3,Nick Pierson,Republican,36.1,False,False,False
-2018,house,Arizona,AZ,4,Paul Gosar,Republican,68.2,True,True,False
-2018,house,Arizona,AZ,4,David Brill,Democratic,30.5,False,False,False
-2018,house,Arizona,AZ,4,Haryaksha Gregor Knauer,Green,1.3,False,False,False
-2018,house,Arizona,AZ,5,Andy Biggs,Republican,59.4,True,True,False
-2018,house,Arizona,AZ,5,Joan Greene,Democratic,40.6,False,False,False
-2018,house,Arizona,AZ,6,David Schweikert,Republican,55.2,True,True,False
-2018,house,Arizona,AZ,6,Anita Malik,Democratic,44.8,False,False,False
-2018,house,Arizona,AZ,7,Ruben Gallego,Democratic,85.8,True,True,False
-2018,house,Arizona,AZ,7,Gary Swing,Green,14.2,False,False,False
-2018,house,Arizona,AZ,8,Debbie Lesko,Republican,55.5,True,True,False
-2018,house,Arizona,AZ,8,Hiral Tipirneni,Democratic,44.5,False,False,False
-2018,house,Arizona,AZ,9,Greg Stanton,Democratic,61.1,True,False,True
-2018,house,Arizona,AZ,9,Steve Ferrara,Republican,38.9,False,False,True
-2018,house,Arkansas,AR,1,Rick Crawford,Republican,68.9,True,False,False
-2018,house,Arkansas,AR,1,Chintan Desai,Democratic,28.8,False,False,False
-2018,house,Arkansas,AR,1,Elvis Presley,Libertarian,2.3,False,False,False
-2018,house,Arkansas,AR,2,French Hill,Republican,52.1,True,True,False
-2018,house,Arkansas,AR,2,Clarke Tucker,Democratic,45.8,False,False,False
-2018,house,Arkansas,AR,2,Joe Ryne Swafford,Libertarian,2.0,False,False,False
-2018,house,Arkansas,AR,3,Steve Womack,Republican,64.8,True,True,False
-2018,house,Arkansas,AR,3,Josh Mahony,Democratic,32.6,False,False,False
-2018,house,Arkansas,AR,3,Michael Kalagias,Libertarian,2.6,False,False,False
-2018,house,Arkansas,AR,4,Bruce Westerman,Republican,66.8,True,True,False
-2018,house,Arkansas,AR,4,Hayden Shamel,Democratic,31.3,False,False,False
-2018,house,Arkansas,AR,4,Tom Canada,Libertarian,1.9,False,False,False
-2018,house,California,CA,1,Doug LaMalfa,Republican,54.9,True,True,False
-2018,house,California,CA,1,Audrey Denney,Democratic,45.1,False,False,False
-2018,house,California,CA,2,Jared Huffman,Democratic,77.0,True,True,False
-2018,house,California,CA,2,Dale Mensing,Republican,23.0,False,False,False
-2018,house,California,CA,3,John Garamendi,Democratic,58.1,True,True,False
-2018,house,California,CA,3,Charlie Schaupp,Republican,41.9,False,False,False
-2018,house,California,CA,4,Tom McClintock,Republican,54.1,True,True,False
-2018,house,California,CA,4,Jessica Morse,Democratic,45.9,False,False,False
-2018,house,California,CA,5,Mike Thompson,Democratic,78.9,True,False,False
-2018,house,California,CA,5,Anthony Mills,Independent,21.1,False,False,False
-2018,house,California,CA,6,Doris Matsui,Democratic,80.4,True,True,False
-2018,house,California,CA,6,Jrmar Jefferson,Democratic,19.6,False,False,False
-2018,house,California,CA,7,Ami Bera,Democratic,55.0,True,True,False
-2018,house,California,CA,7,Andrew Grant,Republican,45.0,False,False,False
-2018,house,California,CA,8,Paul Cook,Republican,60.0,True,True,False
-2018,house,California,CA,8,Tim Donnelly,Republican,40.0,False,False,False
-2018,house,California,CA,9,Jerry McNerney,Democratic,56.5,True,True,False
-2018,house,California,CA,9,Marla Livengood,Republican,43.5,False,False,False
-2018,house,California,CA,10,Josh Harder,Democratic,52.3,True,False,False
-2018,house,California,CA,10,Jeff Denham,Republican,47.7,False,True,False
-2018,house,California,CA,11,Mark DeSaulnier,Democratic,74.1,True,True,False
-2018,house,California,CA,11,John Fitzgerald,Republican,25.9,False,False,False
-2018,house,California,CA,12,Nancy Pelosi,Democratic,86.8,True,True,False
-2018,house,California,CA,12,Lisa Remmer,Republican,13.2,False,False,False
-2018,house,California,CA,13,Barbara Lee,Democratic,88.4,True,True,False
-2018,house,California,CA,13,Laura Wells,Green,11.6,False,False,False
-2018,house,California,CA,14,Jackie Speier,Democratic,79.2,True,True,False
-2018,house,California,CA,14,Cristina Osmeña,Republican,20.8,False,False,False
-2018,house,California,CA,15,Eric Swalwell,Democratic,73.0,True,True,False
-2018,house,California,CA,15,Rudy Peters,Republican,27.0,False,False,False
-2018,house,California,CA,16,Jim Costa,Democratic,57.5,True,True,False
-2018,house,California,CA,16,Elizabeth Heng,Republican,42.5,False,False,False
-2018,house,California,CA,17,Ro Khanna,Democratic,75.3,True,True,False
-2018,house,California,CA,17,Ron Cohen,Republican,24.7,False,False,False
-2018,house,California,CA,18,Anna Eshoo,Democratic,74.5,True,True,False
-2018,house,California,CA,18,Christine Russell,Republican,25.5,False,False,False
-2018,house,California,CA,19,Zoe Lofgren,Democratic,73.8,True,True,False
-2018,house,California,CA,19,Justin Aguilera,Republican,26.2,False,False,False
-2018,house,California,CA,20,Jimmy Panetta,Democratic,81.4,True,True,False
-2018,house,California,CA,20,Ronald Kabat,Independent,18.6,False,False,False
-2018,house,California,CA,21,TJ Cox,Democratic,50.4,True,False,False
-2018,house,California,CA,21,David Valadao,Republican,49.6,False,True,False
-2018,house,California,CA,22,Devin Nunes,Republican,52.7,True,True,False
-2018,house,California,CA,22,Andrew Janz,Democratic,47.3,False,False,False
-2018,house,California,CA,23,Kevin McCarthy,Republican,63.7,True,False,False
-2018,house,California,CA,23,Tatiana Matta,Democratic,36.3,False,False,False
-2018,house,California,CA,24,Salud Carbajal,Democratic,58.6,True,True,False
-2018,house,California,CA,24,Justin Fareed,Republican,41.4,False,False,False
-2018,house,California,CA,25,Katie Hill,Democratic,54.4,True,False,False
-2018,house,California,CA,25,Steve Knight,Republican,45.6,False,False,False
-2018,house,California,CA,26,Julia Brownley,Democratic,61.9,True,True,False
-2018,house,California,CA,26,Antonio Sabàto Jr.,Republican,38.1,False,False,False
-2018,house,California,CA,27,Judy Chu,Democratic,79.2,True,True,False
-2018,house,California,CA,27,Bryan Witt,Democratic,20.8,False,False,False
-2018,house,California,CA,28,Adam Schiff,Democratic,78.4,True,True,False
-2018,house,California,CA,28,Johnny Nalbandian,Republican,21.6,False,False,False
-2018,house,California,CA,29,Tony Cárdenas,Democratic,80.6,True,True,False
-2018,house,California,CA,29,Benito Bernal,Republican,19.4,False,False,False
-2018,house,California,CA,30,Brad Sherman,Democratic,73.4,True,True,False
-2018,house,California,CA,30,Mark Reed,Republican,26.6,False,False,False
-2018,house,California,CA,31,Pete Aguilar,Democratic,58.7,True,True,False
-2018,house,California,CA,31,Sean Flynn,Republican,41.3,False,False,False
-2018,house,California,CA,32,Grace Napolitano,Democratic,68.8,True,True,False
-2018,house,California,CA,32,Joshua Scott,Republican,31.2,False,False,False
-2018,house,California,CA,33,Ted Lieu,Democratic,70.0,True,True,False
-2018,house,California,CA,33,Kenneth Wright,Republican,30.0,False,False,False
-2018,house,California,CA,34,Jimmy Gomez,Democratic,72.5,True,True,False
-2018,house,California,CA,34,Kenneth Mejia,Green,27.5,False,False,False
-2018,house,California,CA,35,Norma Torres,Democratic,69.4,True,True,False
-2018,house,California,CA,35,Christian Valiente,Republican,30.6,False,False,False
-2018,house,California,CA,36,Raul Ruiz,Democratic,59.0,True,False,False
-2018,house,California,CA,36,Kimberlin Brown Pelzer,Republican,41.0,False,False,False
-2018,house,California,CA,37,Karen Bass,Democratic,89.1,True,True,False
-2018,house,California,CA,37,Ron Bassilian,Republican,10.9,False,False,False
-2018,house,California,CA,38,Linda Sánchez,Democratic,68.9,True,True,False
-2018,house,California,CA,38,Ryan Downing,Republican,31.1,False,False,False
-2018,house,California,CA,39,Gil Cisneros,Democratic,51.6,True,False,True
-2018,house,California,CA,39,Young Kim,Republican,48.4,False,False,True
-2018,house,California,CA,40,Lucille Roybal-Allard,Democratic,77.3,True,True,False
-2018,house,California,CA,40,Rodolfo Barragan,Green,22.7,False,False,False
-2018,house,California,CA,41,Mark Takano,Democratic,65.1,True,True,False
-2018,house,California,CA,41,Aja Smith,Republican,34.9,False,False,False
-2018,house,California,CA,42,Ken Calvert,Republican,56.5,True,True,False
-2018,house,California,CA,42,Julia Peacock,Democratic,43.5,False,False,False
-2018,house,California,CA,43,Maxine Waters,Democratic,77.7,True,True,False
-2018,house,California,CA,43,Omar Navarro,Republican,22.3,False,False,False
-2018,house,California,CA,44,Nanette Barragán,Democratic,68.3,True,True,False
-2018,house,California,CA,44,Aja Brown,Democratic,31.7,False,False,False
-2018,house,California,CA,45,Katie Porter,Democratic,52.1,True,False,False
-2018,house,California,CA,45,Mimi Walters,Republican,47.9,False,True,False
-2018,house,California,CA,46,Lou Correa,Democratic,69.1,True,True,False
-2018,house,California,CA,46,Russell Lambert,Republican,30.9,False,False,False
-2018,house,California,CA,47,Alan Lowenthal,Democratic,64.9,True,True,False
-2018,house,California,CA,47,John Briscoe,Republican,35.1,False,False,False
-2018,house,California,CA,48,Harley Rouda,Democratic,53.6,True,False,False
-2018,house,California,CA,48,Dana Rohrabacher,Republican,46.4,False,True,False
-2018,house,California,CA,49,Mike Levin,Democratic,56.4,True,False,True
-2018,house,California,CA,49,Diane Harkey,Republican,43.6,False,False,True
-2018,house,California,CA,50,Duncan D. Hunter,Republican,51.7,True,True,False
-2018,house,California,CA,50,Ammar Campa-Najjar,Democratic,48.3,False,False,False
-2018,house,California,CA,51,Juan Vargas,Democratic,71.2,True,True,False
-2018,house,California,CA,51,Juan Hidalgo,Republican,28.8,False,False,False
-2018,house,California,CA,52,Scott Peters,Democratic,63.8,True,False,False
-2018,house,California,CA,52,Omar Qudrat,Republican,36.2,False,False,False
-2018,house,California,CA,53,Susan Davis,Democratic,69.1,True,False,False
-2018,house,California,CA,53,Morgan Murtaugh,Republican,30.9,False,False,False
-2018,house,Colorado,CO,1,Diana DeGette,Democratic,73.8,True,True,False
-2018,house,Colorado,CO,1,Casper Stockham,Republican,23.0,False,False,False
-2018,house,Colorado,CO,2,Joe Neguse,Democratic,60.3,True,False,True
-2018,house,Colorado,CO,2,Peter Yu,Republican,33.6,False,False,True
-2018,house,Colorado,CO,3,Scott Tipton,Republican,51.5,True,True,False
-2018,house,Colorado,CO,3,Diane Mitsch Bush,Democratic,43.6,False,False,False
-2018,house,Colorado,CO,4,Ken Buck,Republican,60.6,True,True,False
-2018,house,Colorado,CO,4,Karen McCormick,Democratic,39.4,False,False,False
-2018,house,Colorado,CO,5,Doug Lamborn,Republican,57.0,True,True,False
-2018,house,Colorado,CO,5,Stephany Rose Spaulding,Democratic,39.3,False,False,False
-2018,house,Colorado,CO,6,Jason Crow,Democratic,54.1,True,False,False
-2018,house,Colorado,CO,6,Mike Coffman,Republican,42.9,False,True,False
-2018,house,Colorado,CO,7,Ed Perlmutter,Democratic,60.4,True,True,False
-2018,house,Colorado,CO,7,Mark Barrington,Republican,35.4,False,False,False
-2018,house,Connecticut,CT,1,John B. Larson,Democratic,63.9,True,True,False
-2018,house,Connecticut,CT,1,Jennifer Nye,Republican,35.0,False,False,False
-2018,house,Connecticut,CT,1,Thomas McCormick,Green,1.1,False,False,False
-2018,house,Connecticut,CT,2,Joe Courtney,Democratic,62.2,True,False,False
-2018,house,Connecticut,CT,2,Danny Postemski,Republican,35.4,False,False,False
-2018,house,Connecticut,CT,2,Michelle Bicking,Green,1.2,False,False,False
-2018,house,Connecticut,CT,3,Rosa DeLauro,Democratic,64.6,True,True,False
-2018,house,Connecticut,CT,3,Angel Cadena,Republican,35.4,False,False,False
-2018,house,Connecticut,CT,4,Jim Himes,Democratic,61.2,True,True,False
-2018,house,Connecticut,CT,4,Harry Arora,Republican,38.8,False,False,False
-2018,house,Connecticut,CT,5,Jahana Hayes,Democratic,55.9,True,False,True
-2018,house,Connecticut,CT,5,Manny Santos,Republican,44.1,False,False,True
-2018,house,Delaware,DE,AL,Lisa Blunt Rochester,Democratic,64.5,True,True,False
-2018,house,Delaware,DE,AL,Scott Walker,Republican,35.5,False,False,False
-2018,house,Florida,FL,1,Matt Gaetz,Republican,67.1,True,True,False
-2018,house,Florida,FL,1,Jennifer Zimmerman,Democratic,32.9,False,False,False
-2018,house,Florida,FL,2,Neal Dunn,Republican,67.4,True,True,False
-2018,house,Florida,FL,2,Bob Rackleff,Democratic,32.6,False,False,False
-2018,house,Florida,FL,3,Ted Yoho,Republican,57.6,True,True,False
-2018,house,Florida,FL,3,Yvonne Hayes Hinson,Democratic,42.4,False,False,False
-2018,house,Florida,FL,4,John Rutherford,Republican,65.2,True,False,False
-2018,house,Florida,FL,4,Ges Selmont,Democratic,32.3,False,False,False
-2018,house,Florida,FL,4,Joceline Berrios,Independent,1.9,False,False,False
-2018,house,Florida,FL,4,Jason Bulger,Independent,0.6,False,False,False
-2018,house,Florida,FL,5,Al Lawson,Democratic,66.8,True,True,False
-2018,house,Florida,FL,5,Virginia Fuller,Republican,33.2,False,False,False
-2018,house,Florida,FL,6,Mike Waltz,Republican,56.3,True,False,True
-2018,house,Florida,FL,6,Nancy Soderberg,Democratic,43.7,False,False,True
-2018,house,Florida,FL,7,Stephanie Murphy,Democratic,57.7,True,True,False
-2018,house,Florida,FL,7,Mike Miller,Republican,42.3,False,False,False
-2018,house,Florida,FL,8,Bill Posey,Republican,60.5,True,True,False
-2018,house,Florida,FL,8,Sanjay Patel,Democratic,39.5,False,False,False
-2018,house,Florida,FL,9,Darren Soto,Democratic,58.0,True,True,False
-2018,house,Florida,FL,9,Wayne Liebnitzky,Republican,42.0,False,False,False
-2018,house,Florida,FL,10,Val Demings,Democratic,100.0,True,True,False
-2018,house,Florida,FL,11,Daniel Webster,Republican,65.2,True,True,False
-2018,house,Florida,FL,11,Dana Cottrell,Democratic,34.8,False,False,False
-2018,house,Florida,FL,12,Gus Bilirakis,Republican,58.1,True,True,False
-2018,house,Florida,FL,12,Chris Hunter,Democratic,39.7,False,False,False
-2018,house,Florida,FL,12,Angelika Purkis,Independent,2.2,False,False,False
-2018,house,Florida,FL,13,Charlie Crist,Democratic,57.6,True,True,False
-2018,house,Florida,FL,13,George Buck,Republican,42.4,False,False,False
-2018,house,Florida,FL,14,Kathy Castor,Democratic,100.0,True,True,False
-2018,house,Florida,FL,15,Ross Spano,Republican,53.0,True,False,True
-2018,house,Florida,FL,15,Kristen Carlson,Democratic,47.0,False,False,True
-2018,house,Florida,FL,16,Vern Buchanan,Republican,54.6,True,True,False
-2018,house,Florida,FL,16,David Shapiro,Democratic,45.4,False,False,False
-2018,house,Florida,FL,17,Greg Steube,Republican,62.3,True,False,True
-2018,house,Florida,FL,17,Allen Ellison,Democratic,37.7,False,False,True
-2018,house,Florida,FL,18,Brian Mast,Republican,54.3,True,True,False
-2018,house,Florida,FL,18,Lauren Baer,Democratic,45.7,False,False,False
-2018,house,Florida,FL,19,Francis Rooney,Republican,62.3,True,True,False
-2018,house,Florida,FL,19,David Holden,Democratic,37.7,False,False,False
-2018,house,Florida,FL,20,Alcee Hastings,Democratic,100.0,True,True,False
-2018,house,Florida,FL,21,Lois Frankel,Democratic,100.0,True,True,False
-2018,house,Florida,FL,22,Ted Deutch,Democratic,62.0,True,True,False
-2018,house,Florida,FL,22,Nicolas Kimaz,Republican,38.0,False,False,False
-2018,house,Florida,FL,23,Debbie Wasserman Schultz,Democratic,58.5,True,True,False
-2018,house,Florida,FL,23,Joseph Kaufman,Republican,36.0,False,False,False
-2018,house,Florida,FL,23,Tim Canova,Independent,5.0,False,False,False
-2018,house,Florida,FL,23,Don Endriss,Independent,0.6,False,False,False
-2018,house,Florida,FL,24,Frederica Wilson,Democratic,100.0,True,True,False
-2018,house,Florida,FL,25,Mario Díaz-Balart,Republican,60.5,True,True,False
-2018,house,Florida,FL,25,Mary Barzee Flores,Democratic,39.5,False,False,False
-2018,house,Florida,FL,26,Debbie Mucarsel-Powell,Democratic,50.9,True,False,False
-2018,house,Florida,FL,26,Carlos Curbelo,Republican,49.1,False,True,False
-2018,house,Florida,FL,27,Donna Shalala,Democratic,51.8,True,False,True
-2018,house,Florida,FL,27,María Elvira Salazar,Republican,45.8,False,False,True
-2018,house,Florida,FL,27,Mayra Joli,Independent,2.5,False,False,True
-2018,house,Georgia,GA,1,Buddy Carter,Republican,57.7,True,True,False
-2018,house,Georgia,GA,1,Lisa Ring,Democratic,42.3,False,False,False
-2018,house,Georgia,GA,2,Sanford Bishop,Democratic,59.6,True,True,False
-2018,house,Georgia,GA,2,Herman West,Republican,40.4,False,False,False
-2018,house,Georgia,GA,3,Drew Ferguson,Republican,65.5,True,True,False
-2018,house,Georgia,GA,3,Chuck Enderlin,Democratic,34.5,False,False,False
-2018,house,Georgia,GA,4,Hank Johnson,Democratic,78.8,True,True,False
-2018,house,Georgia,GA,4,Joe Profit,Republican,21.2,False,False,False
-2018,house,Georgia,GA,5,John Lewis,Democratic,100.0,True,True,False
-2018,house,Georgia,GA,6,Lucy McBath,Democratic,50.5,True,False,False
-2018,house,Georgia,GA,6,Karen Handel,Republican,49.5,False,True,False
-2018,house,Georgia,GA,7,Rob Woodall,Republican,50.07,True,True,False
-2018,house,Georgia,GA,7,Carolyn Bourdeaux,Democratic,49.93,False,False,False
-2018,house,Georgia,GA,8,Austin Scott,Republican,99.7,True,False,False
-2018,house,Georgia,GA,9,Doug Collins,Republican,79.5,True,False,False
-2018,house,Georgia,GA,9,Josh McCall,Democratic,20.5,False,False,False
-2018,house,Georgia,GA,10,Jody Hice,Republican,62.9,True,True,False
-2018,house,Georgia,GA,10,Tabitha Johnson-Green,Democratic,37.1,False,False,False
-2018,house,Georgia,GA,11,Barry Loudermilk,Republican,61.8,True,True,False
-2018,house,Georgia,GA,11,Flynn Broady,Democratic,38.2,False,False,False
-2018,house,Georgia,GA,12,Rick Allen,Republican,59.5,True,True,False
-2018,house,Georgia,GA,12,Francys Johnson,Democratic,40.5,False,False,False
-2018,house,Georgia,GA,13,David Scott,Democratic,76.2,True,True,False
-2018,house,Georgia,GA,13,David Callahan,Republican,23.8,False,False,False
-2018,house,Georgia,GA,14,Tom Graves,Republican,76.5,True,True,False
-2018,house,Georgia,GA,14,Steve Foster,Democratic,23.5,False,False,False
-2018,house,Hawaii,HI,1,Ed Case,Democratic,73.1,True,False,True
-2018,house,Hawaii,HI,1,Cam Cavasso,Republican,23.1,False,False,True
-2018,house,Hawaii,HI,1,Michelle Tippens,Libertarian,1.9,False,False,True
-2018,house,Hawaii,HI,1,Zachary Burd,Green,1.2,False,False,True
-2018,house,Hawaii,HI,1,Calvin Griffin,Independent,0.7,False,False,True
-2018,house,Hawaii,HI,2,Tulsi Gabbard,Democratic,77.4,True,True,False
-2018,house,Hawaii,HI,2,Brian Evans,Republican,22.6,False,False,False
-2018,house,Idaho,ID,1,Russ Fulcher,Republican,62.8,True,False,True
-2018,house,Idaho,ID,1,Cristina McNeil,Democratic,30.8,False,False,True
-2018,house,Idaho,ID,1,Natalie Fleming,Independent,2.0,False,False,True
-2018,house,Idaho,ID,1,W. Scott Howard,Libertarian,1.7,False,False,True
-2018,house,Idaho,ID,1,Paul Farmer,Independent,1.4,False,False,True
-2018,house,Idaho,ID,1,Pro-Life,Constitution,1.0,False,False,True
-2018,house,Idaho,ID,1,Gordon Counsil,Independent,0.3,False,False,True
-2018,house,Idaho,ID,2,Mike Simpson,Republican,60.7,True,True,False
-2018,house,Idaho,ID,2,Aaron Swisher,Democratic,39.3,False,False,False
-2018,house,Illinois,IL,1,Bobby Rush,Democratic,73.5,True,True,False
-2018,house,Illinois,IL,1,Jimmy Tillman,Republican,19.8,False,False,False
-2018,house,Illinois,IL,2,Robin Kelly,Democratic,81.1,True,True,False
-2018,house,Illinois,IL,2,David Merkle,Republican,18.9,False,False,False
-2018,house,Illinois,IL,3,Dan Lipinski,Democratic,73.8,True,True,False
-2018,house,Illinois,IL,3,Arthur Jones,Republican,26.2,False,False,False
-2018,house,Illinois,IL,4,Chuy García,Democratic,86.6,True,False,True
-2018,house,Illinois,IL,4,Mark Lorch,Republican,13.4,False,False,True
-2018,house,Illinois,IL,5,Mike Quigley,Democratic,76.7,True,False,False
-2018,house,Illinois,IL,5,Tom Hanson,Republican,23.3,False,False,False
-2018,house,Illinois,IL,6,Sean Casten,Democratic,53.6,True,False,False
-2018,house,Illinois,IL,6,Peter Roskam,Republican,46.4,False,True,False
-2018,house,Illinois,IL,7,Danny Davis,Democratic,87.6,True,True,False
-2018,house,Illinois,IL,7,Craig Cameron,Republican,12.4,False,False,False
-2018,house,Illinois,IL,8,Raja Krishnamoorthi,Democratic,66.0,True,True,False
-2018,house,Illinois,IL,8,J. D. Diganvker,Republican,34.0,False,False,False
-2018,house,Illinois,IL,9,Jan Schakowsky,Democratic,73.5,True,True,False
-2018,house,Illinois,IL,9,John Elleson,Republican,26.5,False,False,False
-2018,house,Illinois,IL,10,Brad Schneider,Democratic,65.6,True,True,False
-2018,house,Illinois,IL,10,Douglas Bennett,Republican,34.4,False,False,False
-2018,house,Illinois,IL,11,Bill Foster,Democratic,63.8,True,False,False
-2018,house,Illinois,IL,11,Nick Stella,Republican,36.2,False,False,False
-2018,house,Illinois,IL,12,Mike Bost,Republican,51.6,True,True,False
-2018,house,Illinois,IL,12,Brendan Kelly,Democratic,45.4,False,False,False
-2018,house,Illinois,IL,12,Randall Auxier,Green,3.0,False,False,False
-2018,house,Illinois,IL,13,Rodney Davis,Republican,50.4,True,False,False
-2018,house,Illinois,IL,13,Betsy Dirksen Londrigan,Democratic,49.6,False,False,False
-2018,house,Illinois,IL,14,Lauren Underwood,Democratic,52.5,True,False,False
-2018,house,Illinois,IL,14,Randy Hultgren,Republican,47.5,False,True,False
-2018,house,Illinois,IL,15,John Shimkus,Republican,70.9,True,True,False
-2018,house,Illinois,IL,15,Kevin Gaither,Democratic,29.1,False,False,False
-2018,house,Illinois,IL,16,Adam Kinzinger,Republican,59.1,True,True,False
-2018,house,Illinois,IL,16,Sara Dady,Democratic,40.9,False,False,False
-2018,house,Illinois,IL,17,Cheri Bustos,Democratic,62.1,True,True,False
-2018,house,Illinois,IL,17,Bill Fawell,Republican,37.9,False,False,False
-2018,house,Illinois,IL,18,Darin LaHood,Republican,67.2,True,True,False
-2018,house,Illinois,IL,18,Junius Rodriguez,Democratic,32.8,False,False,False
-2018,house,Indiana,IN,1,Pete Visclosky,Democratic,65.1,True,True,False
-2018,house,Indiana,IN,1,Mark Leyva,Republican,34.9,False,False,False
-2018,house,Indiana,IN,2,Jackie Walorski,Republican,54.8,True,True,False
-2018,house,Indiana,IN,2,Mel Hall,Democratic,45.2,False,False,False
-2018,house,Indiana,IN,3,Jim Banks,Republican,64.7,True,True,False
-2018,house,Indiana,IN,3,Courtney Tritch,Democratic,35.3,False,False,False
-2018,house,Indiana,IN,4,Jim Baird,Republican,64.1,True,False,True
-2018,house,Indiana,IN,4,Tobi Beck,Democratic,35.9,False,False,True
-2018,house,Indiana,IN,5,Susan Brooks,Republican,56.8,True,True,False
-2018,house,Indiana,IN,5,Dee Thornton,Democratic,43.2,False,False,False
-2018,house,Indiana,IN,6,Greg Pence,Republican,63.8,True,False,True
-2018,house,Indiana,IN,6,Jeannine Lake,Democratic,32.9,False,False,True
-2018,house,Indiana,IN,7,André Carson,Democratic,64.9,True,True,False
-2018,house,Indiana,IN,7,Wayne Harmon,Republican,35.1,False,False,False
-2018,house,Indiana,IN,8,Larry Bucshon,Republican,64.4,True,True,False
-2018,house,Indiana,IN,8,William Tanoos,Democratic,35.6,False,False,False
-2018,house,Indiana,IN,9,Trey Hollingsworth,Republican,56.5,True,True,False
-2018,house,Indiana,IN,9,Liz Watson,Democratic,43.5,False,False,False
-2018,house,Iowa,IA,1,Abby Finkenauer,Democratic,51.0,True,False,False
-2018,house,Iowa,IA,1,Rod Blum,Republican,45.9,False,True,False
-2018,house,Iowa,IA,1,Troy Hageman,Libertarian,3.1,False,False,False
-2018,house,Iowa,IA,2,Dave Loebsack,Democratic,54.8,True,True,False
-2018,house,Iowa,IA,2,Christopher Peters,Republican,42.6,False,False,False
-2018,house,Iowa,IA,2,Mike Strauss,Libertarian,2.0,False,False,False
-2018,house,Iowa,IA,2,Daniel Clark,Independent,0.6,False,False,False
-2018,house,Iowa,IA,3,Cindy Axne,Democratic,49.3,True,False,False
-2018,house,Iowa,IA,3,David Young,Republican,47.2,False,False,False
-2018,house,Iowa,IA,3,Bryan Holder,Libertarian,2.0,False,False,False
-2018,house,Iowa,IA,4,Steve King,Republican,50.4,True,True,False
-2018,house,Iowa,IA,4,J. D. Scholten,Democratic,47.0,False,False,False
-2018,house,Iowa,IA,4,Charles Aldrich,Libertarian,2.0,False,False,False
-2018,house,Iowa,IA,4,Edward Peterson,Independent,0.6,False,False,False
-2018,house,Kansas,KS,1,Roger Marshall,Republican,68.1,True,False,False
-2018,house,Kansas,KS,1,Alan LaPolice,Democratic,31.9,False,False,False
-2018,house,Kansas,KS,2,Steve Watkins,Republican,47.6,True,False,True
-2018,house,Kansas,KS,2,Paul Davis,Democratic,46.8,False,False,True
-2018,house,Kansas,KS,2,Kelly Standley,Libertarian,5.6,False,False,True
-2018,house,Kansas,KS,3,Sharice Davids,Democratic,53.6,True,False,False
-2018,house,Kansas,KS,3,Kevin Yoder,Republican,43.9,False,True,False
-2018,house,Kansas,KS,3,Chris Clemmons,Libertarian,2.5,False,False,False
-2018,house,Kansas,KS,4,Ron Estes,Republican,59.4,True,True,False
-2018,house,Kansas,KS,4,James Thompson,Democratic,40.6,False,False,False
-2018,house,Kentucky,KY,1,James Comer,Republican,68.6,True,False,False
-2018,house,Kentucky,KY,1,Paul Walker,Democratic,31.4,False,False,False
-2018,house,Kentucky,KY,2,Brett Guthrie,Republican,66.7,True,True,False
-2018,house,Kentucky,KY,2,Hank Linderman,Democratic,31.1,False,False,False
-2018,house,Kentucky,KY,2,Thomas Loecken,Independent,2.2,False,False,False
-2018,house,Kentucky,KY,3,John Yarmuth,Democratic,62.1,True,True,False
-2018,house,Kentucky,KY,3,Vickie Glisson,Republican,36.6,False,False,False
-2018,house,Kentucky,KY,3,Gregory Boles,Libertarian,1.4,False,False,False
-2018,house,Kentucky,KY,4,Thomas Massie,Republican,62.2,True,True,False
-2018,house,Kentucky,KY,4,Seth Hall,Democratic,34.6,False,False,False
-2018,house,Kentucky,KY,4,Mike Moffett,Independent,3.2,False,False,False
-2018,house,Kentucky,KY,5,Hal Rogers,Republican,78.9,True,True,False
-2018,house,Kentucky,KY,5,Kenneth Stepp,Democratic,21.1,False,False,False
-2018,house,Kentucky,KY,6,Andy Barr,Republican,51.0,True,False,False
-2018,house,Kentucky,KY,6,Amy McGrath,Democratic,47.8,False,False,False
-2018,house,Louisiana,LA,1,Steve Scalise,Republican,71.5,True,True,False
-2018,house,Louisiana,LA,1,Tammy Savoie,Democratic,16.4,False,False,False
-2018,house,Louisiana,LA,1,Lee Ann Dugas,Democratic,6.9,False,False,False
-2018,house,Louisiana,LA,1,Jim Francis,Democratic,3.2,False,False,False
-2018,house,Louisiana,LA,1,Howard Kearney,Libertarian,1.0,False,False,False
-2018,house,Louisiana,LA,1,Ferd Jones,Independent,0.9,False,False,False
-2018,house,Louisiana,LA,2,Cedric Richmond,Democratic,80.6,True,True,False
-2018,house,Louisiana,LA,2,Jesse Schmidt,Independent,8.7,False,False,False
-2018,house,Louisiana,LA,2,Belden Batiste,Independent,7.3,False,False,False
-2018,house,Louisiana,LA,2,Shawndra Rodriguez,Independent,3.4,False,False,False
-2018,house,Louisiana,LA,3,Clay Higgins,Republican,55.7,True,True,False
-2018,house,Louisiana,LA,3,Mimi Methvin,Democratic,17.8,False,False,False
-2018,house,Louisiana,LA,3,Josh Guillory,Republican,12.8,False,False,False
-2018,house,Louisiana,LA,3,Rob Anderson,Democratic,5.5,False,False,False
-2018,house,Louisiana,LA,3,Larry Rader,Democratic,3.9,False,False,False
-2018,house,Louisiana,LA,3,Verone Thomas,Democratic,3.2,False,False,False
-2018,house,Louisiana,LA,3,Aaron Andrus,Libertarian,1.2,False,False,False
-2018,house,Louisiana,LA,4,Mike Johnson,Republican,64.2,True,False,False
-2018,house,Louisiana,LA,4,Ryan Trundle,Democratic,33.6,False,False,False
-2018,house,Louisiana,LA,4,Mark Halverson,Independent,2.1,False,False,False
-2018,house,Louisiana,LA,5,Ralph Abraham,Republican,66.5,True,False,False
-2018,house,Louisiana,LA,5,Jessee Fleenor,Democratic,30.0,False,False,False
-2018,house,Louisiana,LA,5,Billy Burkette,Independent,2.0,False,False,False
-2018,house,Louisiana,LA,5,Kyle Randol,Libertarian,1.3,False,False,False
-2018,house,Louisiana,LA,6,Garret Graves,Republican,69.5,True,True,False
-2018,house,Louisiana,LA,6,Justin DeWitt,Democratic,20.5,False,False,False
-2018,house,Louisiana,LA,6,Andie Saizan,Democratic,8.1,False,False,False
-2018,house,Louisiana,LA,6,Devin Graham,Independent,2.0,False,False,False
-2018,house,Maine,ME,1,Chellie Pingree,Democratic,58.7,True,True,False
-2018,house,Maine,ME,1,Mark Holbrook,Republican,32.4,False,False,False
-2018,house,Maine,ME,1,Martin Grohman,Independent,8.9,False,False,False
-2018,house,Maine,ME,2,Bruce Poliquin,Republican,46.3,False,True,False
-2018,house,Maine,ME,2,Jared Golden,Democratic,45.6,False,False,False
-2018,house,Maine,ME,2,Tiffany Bond,Independent,5.7,False,False,False
-2018,house,Maine,ME,2,Will Hoar,Independent,2.4,False,False,False
-2018,house,Maine,ME,2,Jared Golden,Democratic,50.6,True,False,False
-2018,house,Maine,ME,2,Bruce Poliquin,Republican,49.4,False,True,False
-2018,house,Maryland,MD,1,Andy Harris,Republican,60.0,True,False,False
-2018,house,Maryland,MD,1,Jesse Colvin,Democratic,38.1,False,False,False
-2018,house,Maryland,MD,1,Jenica Martin,Libertarian,1.9,False,False,False
-2018,house,Maryland,MD,2,Dutch Ruppersberger,Democratic,66.1,True,True,False
-2018,house,Maryland,MD,2,Liz Matory,Republican,30.7,False,False,False
-2018,house,Maryland,MD,2,Guy Mimoun,Green,3.2,False,False,False
-2018,house,Maryland,MD,3,John Sarbanes,Democratic,69.2,True,True,False
-2018,house,Maryland,MD,3,Charles Anthony,Republican,28.3,False,False,False
-2018,house,Maryland,MD,3,David Lashar,Libertarian,2.5,False,False,False
-2018,house,Maryland,MD,4,Anthony Brown,Democratic,78.1,True,True,False
-2018,house,Maryland,MD,4,George McDermott,Republican,19.9,False,False,False
-2018,house,Maryland,MD,4,David Bishop,Libertarian,2.0,False,False,False
-2018,house,Maryland,MD,5,Steny Hoyer,Democratic,70.4,True,True,False
-2018,house,Maryland,MD,5,William Devine III,Republican,27.1,False,False,False
-2018,house,Maryland,MD,5,Pat Elder,Green,1.3,False,False,False
-2018,house,Maryland,MD,5,Jacob Pulcher,Libertarian,1.2,False,False,False
-2018,house,Maryland,MD,6,David Trone,Democratic,59.0,True,False,True
-2018,house,Maryland,MD,6,Amie Hoeber,Republican,38.0,False,False,True
-2018,house,Maryland,MD,6,Kevin Caldwell,Libertarian,1.8,False,False,True
-2018,house,Maryland,MD,6,George Gluck,Green,1.2,False,False,True
-2018,house,Maryland,MD,7,Elijah Cummings,Democratic,76.5,True,True,False
-2018,house,Maryland,MD,7,Richmond Davis,Republican,21.3,False,False,False
-2018,house,Maryland,MD,7,Swami Swaminathan,Independent,2.2,False,False,False
-2018,house,Maryland,MD,8,Jamie Raskin,Democratic,68.2,True,True,False
-2018,house,Maryland,MD,8,John Walsh,Republican,30.3,False,False,False
-2018,house,Maryland,MD,8,Jasen Wunder,Libertarian,1.5,False,False,False
-2018,house,Massachusetts,MA,1,Richard Neal,Democratic,100.0,True,True,False
-2018,house,Massachusetts,MA,2,Jim McGovern,Democratic,67.2,True,False,False
-2018,house,Massachusetts,MA,2,Tracy Lovvorn,Republican,32.8,False,False,False
-2018,house,Massachusetts,MA,3,Lori Trahan,Democratic,62.0,True,False,True
-2018,house,Massachusetts,MA,3,Rick Green,Republican,33.5,False,False,True
-2018,house,Massachusetts,MA,3,Michael Mullen,Independent,4.5,False,False,True
-2018,house,Massachusetts,MA,4,Joe Kennedy III,Democratic,100.0,True,True,False
-2018,house,Massachusetts,MA,5,Katherine Clark,Democratic,75.9,True,True,False
-2018,house,Massachusetts,MA,5,John Hugo,Republican,24.1,False,False,False
-2018,house,Massachusetts,MA,6,Seth Moulton,Democratic,65.2,True,True,False
-2018,house,Massachusetts,MA,6,Joseph Schneider,Republican,31.4,False,False,False
-2018,house,Massachusetts,MA,6,Mary Jean Charbonneau,Independent,3.4,False,False,False
-2018,house,Massachusetts,MA,7,Ayanna Pressley,Democratic,100.0,True,False,False
-2018,house,Massachusetts,MA,8,Stephen Lynch,Democratic,100.0,True,True,False
-2018,house,Massachusetts,MA,9,Bill Keating,Democratic,59.4,True,False,False
-2018,house,Massachusetts,MA,9,Peter Tedeschi,Republican,40.6,False,False,False
-2018,house,Michigan,MI,1,Jack Bergman,Republican,56.3,True,True,False
-2018,house,Michigan,MI,1,Matt Morgan,Democratic,43.7,False,False,False
-2018,house,Michigan,MI,2,Bill Huizenga,Republican,55.3,True,True,False
-2018,house,Michigan,MI,2,Rob Davidson,Democratic,43.0,False,False,False
-2018,house,Michigan,MI,2,Ronald Graeser,US Taxpayers,1.7,False,False,False
-2018,house,Michigan,MI,3,Justin Amash,Republican,54.4,True,True,False
-2018,house,Michigan,MI,3,Cathy Albro,Democratic,43.2,False,False,False
-2018,house,Michigan,MI,3,Ted Gerrard,US Taxpayers,2.4,False,False,False
-2018,house,Michigan,MI,4,John Moolenaar,Republican,62.6,True,True,False
-2018,house,Michigan,MI,4,Jerry Hilliard,Democratic,37.4,False,False,False
-2018,house,Michigan,MI,5,Dan Kildee,Democratic,59.5,True,True,False
-2018,house,Michigan,MI,5,Travis Wines,Republican,35.9,False,False,False
-2018,house,Michigan,MI,5,Kathy Goodwin,Working Class,4.6,False,False,False
-2018,house,Michigan,MI,6,Fred Upton,Republican,50.2,True,True,False
-2018,house,Michigan,MI,6,Matt Longjohn,Democratic,45.7,False,False,False
-2018,house,Michigan,MI,6,Stephen Young,US Taxpayers,4.1,False,False,False
-2018,house,Michigan,MI,7,Tim Walberg,Republican,53.8,True,True,False
-2018,house,Michigan,MI,7,Gretchen Driskell,Democratic,46.2,False,False,False
-2018,house,Michigan,MI,8,Elissa Slotkin,Democratic,50.6,True,False,False
-2018,house,Michigan,MI,8,Mike Bishop,Republican,46.8,False,False,False
-2018,house,Michigan,MI,8,Brian Ellison,Libertarian,1.8,False,False,False
-2018,house,Michigan,MI,8,David Lillis,US Taxpayers,0.8,False,False,False
-2018,house,Michigan,MI,9,Andy Levin,Democratic,59.6,True,False,True
-2018,house,Michigan,MI,9,Candius Stearns,Republican,36.8,False,False,True
-2018,house,Michigan,MI,9,Andrea Kirby,Working Class,2.2,False,False,True
-2018,house,Michigan,MI,9,John McDermott,Green,1.3,False,False,True
-2018,house,Michigan,MI,10,Paul Mitchell,Republican,60.3,True,False,False
-2018,house,Michigan,MI,10,Kimberly Bizon,Democratic,35.0,False,False,False
-2018,house,Michigan,MI,10,Jeremy Peruski,Independent,3.8,False,False,False
-2018,house,Michigan,MI,10,Harley Mikkelson,Green,1.0,False,False,False
-2018,house,Michigan,MI,11,Haley Stevens,Democratic,51.8,True,False,True
-2018,house,Michigan,MI,11,Lena Epstein,Republican,45.2,False,False,True
-2018,house,Michigan,MI,11,Leonard Schwartz,Libertarian,1.7,False,False,True
-2018,house,Michigan,MI,11,Cooper Nye,Independent,1.3,False,False,True
-2018,house,Michigan,MI,12,Debbie Dingell,Democratic,68.1,True,True,False
-2018,house,Michigan,MI,12,Jeff Jones,Republican,28.9,False,False,False
-2018,house,Michigan,MI,12,Gary Walkowicz,Working Class,2.3,False,False,False
-2018,house,Michigan,MI,12,Niles Niemuth,Independent,0.8,False,False,False
-2018,house,Michigan,MI,13,Rashida Tlaib,Democratic,84.6,True,False,True
-2018,house,Michigan,MI,13,Sam Johnson,Working Class,11.3,False,False,True
-2018,house,Michigan,MI,13,Etta Wilcoxon,Green,4.1,False,False,True
-2018,house,Michigan,MI,14,Brenda Lawrence,Democratic,80.9,True,True,False
-2018,house,Michigan,MI,14,Marc Herschfus,Republican,17.3,False,False,False
-2018,house,Michigan,MI,14,Philip Kolody,Working Class,1.4,False,False,False
-2018,house,Minnesota,MN,1,Jim Hagedorn,Republican,50.2,True,False,True
-2018,house,Minnesota,MN,1,Dan Feehan,DFL,49.8,False,False,True
-2018,house,Minnesota,MN,2,Angie Craig,DFL,52.8,True,False,False
-2018,house,Minnesota,MN,2,Jason Lewis,Republican,47.2,False,False,False
-2018,house,Minnesota,MN,3,Dean Phillips,DFL,55.7,True,False,False
-2018,house,Minnesota,MN,3,Erik Paulsen,Republican,44.3,False,True,False
-2018,house,Minnesota,MN,4,Betty McCollum,DFL,66.0,True,False,False
-2018,house,Minnesota,MN,4,Greg Ryan,Republican,29.8,False,False,False
-2018,house,Minnesota,MN,4,Susan Pendergast Sindt,Legal Marijuana Now,4.2,False,False,False
-2018,house,Minnesota,MN,5,Ilhan Omar,DFL,78.2,True,False,True
-2018,house,Minnesota,MN,5,Jennifer Zielinski,Republican,21.8,False,False,True
-2018,house,Minnesota,MN,6,Tom Emmer,Republican,61.2,True,True,False
-2018,house,Minnesota,MN,6,Ian Todd,DFL,38.8,False,False,False
-2018,house,Minnesota,MN,7,Collin Peterson,DFL,52.1,True,False,False
-2018,house,Minnesota,MN,7,Dave Hughes,Republican,47.9,False,False,False
-2018,house,Minnesota,MN,8,Pete Stauber,Republican,50.7,True,False,True
-2018,house,Minnesota,MN,8,Joe Radinovich,DFL,45.2,False,False,True
-2018,house,Minnesota,MN,8,Skip Sandman,Independence,4.1,False,False,True
-2018,house,Mississippi,MS,1,Trent Kelly,Republican,66.9,True,True,False
-2018,house,Mississippi,MS,1,Randy Wadkins,Democratic,32.4,False,False,False
-2018,house,Mississippi,MS,1,Tracella O'Hara Hill,Reform,0.7,False,False,False
-2018,house,Mississippi,MS,2,Bennie Thompson,Democratic,71.8,True,True,False
-2018,house,Mississippi,MS,2,Troy Ray,Independent,21.7,False,False,False
-2018,house,Mississippi,MS,2,Irving Harris,Reform,6.5,False,False,False
-2018,house,Mississippi,MS,3,Michael Guest,Republican,62.3,True,False,True
-2018,house,Mississippi,MS,3,Michael Evans,Democratic,36.7,False,False,True
-2018,house,Mississippi,MS,3,Matthew Holland,Reform,1.0,False,False,True
-2018,house,Mississippi,MS,4,Steven Palazzo,Republican,68.2,True,True,False
-2018,house,Mississippi,MS,4,Jeramey Anderson,Democratic,30.7,False,False,False
-2018,house,Mississippi,MS,4,Lajena Sheets,Reform,1.0,False,False,False
-2018,house,Missouri,MO,1,Lacy Clay,Democratic,80.1,True,True,False
-2018,house,Missouri,MO,1,Robert Vroman,Republican,16.7,False,False,False
-2018,house,Missouri,MO,1,Robb Cunningham,Libertarian,3.2,False,False,False
-2018,house,Missouri,MO,2,Ann Wagner,Republican,51.2,True,True,False
-2018,house,Missouri,MO,2,Cort VanOstran,Democratic,47.2,False,False,False
-2018,house,Missouri,MO,2,Larry Kirk,Libertarian,1.1,False,False,False
-2018,house,Missouri,MO,2,David Arnold,Green,0.5,False,False,False
-2018,house,Missouri,MO,3,Blaine Luetkemeyer,Republican,65.1,True,True,False
-2018,house,Missouri,MO,3,Katy Geppert,Democratic,32.8,False,False,False
-2018,house,Missouri,MO,3,Donald Stolle,Libertarian,2.1,False,False,False
-2018,house,Missouri,MO,4,Vicky Hartzler,Republican,64.8,True,True,False
-2018,house,Missouri,MO,4,Renee Hoagenson,Democratic,32.7,False,False,False
-2018,house,Missouri,MO,4,Mark Bliss,Libertarian,2.4,False,False,False
-2018,house,Missouri,MO,5,Emanuel Cleaver,Democratic,61.7,True,True,False
-2018,house,Missouri,MO,5,Jacob Turk,Republican,35.5,False,False,False
-2018,house,Missouri,MO,5,Alexander Howell,Libertarian,1.7,False,False,False
-2018,house,Missouri,MO,5,Maurice Copeland,Green,0.7,False,False,False
-2018,house,Missouri,MO,5,E. C. Fredland,Constitution,0.3,False,False,False
-2018,house,Missouri,MO,6,Sam Graves,Republican,65.4,True,True,False
-2018,house,Missouri,MO,6,Henry Martin,Democratic,32.0,False,False,False
-2018,house,Missouri,MO,6,Dan Hogan,Libertarian,2.6,False,False,False
-2018,house,Missouri,MO,7,Billy Long,Republican,66.2,True,True,False
-2018,house,Missouri,MO,7,Jamie Schoolcraft,Democratic,30.1,False,False,False
-2018,house,Missouri,MO,7,Benjamin Brixey,Libertarian,3.7,False,False,False
-2018,house,Missouri,MO,8,Jason Smith,Republican,73.4,True,False,False
-2018,house,Missouri,MO,8,Kathy Ellis,Democratic,25.0,False,False,False
-2018,house,Missouri,MO,8,Jonathan Shell,Libertarian,1.6,False,False,False
-2018,house,Montana,MT,AL,Greg Gianforte,Republican,50.9,True,True,False
-2018,house,Montana,MT,AL,Kathleen Williams,Democratic,46.2,False,False,False
-2018,house,Montana,MT,AL,Elinor Swanson,Libertarian,2.9,False,False,False
-2018,house,Nebraska,NE,1,Jeff Fortenberry,Republican,60.4,True,True,False
-2018,house,Nebraska,NE,1,Jessica McClure,Democratic,39.6,False,False,False
-2018,house,Nebraska,NE,2,Don Bacon,Republican,51.0,True,False,False
-2018,house,Nebraska,NE,2,Kara Eastman,Democratic,49.0,False,False,False
-2018,house,Nebraska,NE,3,Adrian Smith,Republican,76.7,True,True,False
-2018,house,Nebraska,NE,3,Paul Theobald,Democratic,23.3,False,False,False
-2018,house,Nevada,NV,1,Dina Titus,Democratic,66.2,True,True,False
-2018,house,Nevada,NV,1,Joyce Bentley,Republican,30.9,False,False,False
-2018,house,Nevada,NV,1,Dan Garfield,Independent American,1.6,False,False,False
-2018,house,Nevada,NV,1,Robert Strawder,Libertarian,1.4,False,False,False
-2018,house,Nevada,NV,2,Mark Amodei,Republican,58.2,True,True,False
-2018,house,Nevada,NV,2,Clint Koble,Democratic,41.8,False,False,False
-2018,house,Nevada,NV,3,Susie Lee,Democratic,51.9,True,False,True
-2018,house,Nevada,NV,3,Danny Tarkanian,Republican,42.8,False,False,True
-2018,house,Nevada,NV,3,Steve Brown,Libertarian,1.6,False,False,True
-2018,house,Nevada,NV,3,David Goossen,Independent,1.3,False,False,True
-2018,house,Nevada,NV,3,Harry Vickers,Independent American,1.2,False,False,True
-2018,house,Nevada,NV,4,Steven Horsford,Democratic,51.9,True,False,True
-2018,house,Nevada,NV,4,Cresent Hardy,Republican,43.7,False,False,True
-2018,house,Nevada,NV,4,Warren Markowitz,Independent American,1.4,False,False,True
-2018,house,Nevada,NV,4,Rodney Smith,Independent,1.2,False,False,True
-2018,house,New Hampshire,NH,1,Chris Pappas,Democratic,53.6,True,False,True
-2018,house,New Hampshire,NH,1,Eddie Edwards,Republican,45.0,False,False,True
-2018,house,New Hampshire,NH,1,Dan Belforti,Libertarian,1.4,False,False,True
-2018,house,New Hampshire,NH,2,Annie Kuster,Democratic,55.6,True,True,False
-2018,house,New Hampshire,NH,2,Steve Negron,Republican,42.2,False,False,False
-2018,house,New Hampshire,NH,2,Justin O'Donnell,Libertarian,2.2,False,False,False
-2018,house,New Jersey,NJ,1,Donald Norcross,Democratic,64.4,True,True,False
-2018,house,New Jersey,NJ,1,Paul Dilks,Republican,33.3,False,False,False
-2018,house,New Jersey,NJ,1,Robert Shapiro,Independent,1.1,False,False,False
-2018,house,New Jersey,NJ,2,Jeff Van Drew,Democratic,52.9,True,False,True
-2018,house,New Jersey,NJ,2,Seth Grossman,Republican,45.2,False,False,True
-2018,house,New Jersey,NJ,3,Andy Kim,Democratic,50.0,True,False,False
-2018,house,New Jersey,NJ,3,Tom MacArthur,Republican,48.7,False,True,False
-2018,house,New Jersey,NJ,3,Lawrence Berlinski,Independent,1.3,False,False,False
-2018,house,New Jersey,NJ,4,Chris Smith,Republican,55.4,True,False,False
-2018,house,New Jersey,NJ,4,Josh Welle,Democratic,43.1,False,False,False
-2018,house,New Jersey,NJ,5,Josh Gottheimer,Democratic,56.2,True,True,False
-2018,house,New Jersey,NJ,5,John McCann,Republican,42.5,False,False,False
-2018,house,New Jersey,NJ,6,Frank Pallone,Democratic,63.6,True,True,False
-2018,house,New Jersey,NJ,6,Rich Pezzullo,Republican,36.4,False,False,False
-2018,house,New Jersey,NJ,7,Tom Malinowski,Democratic,51.7,True,False,False
-2018,house,New Jersey,NJ,7,Leonard Lance,Republican,46.7,False,True,False
-2018,house,New Jersey,NJ,7,Diane Moxley,Green,0.8,False,False,False
-2018,house,New Jersey,NJ,7,Gregg Mele,Independent,0.7,False,False,False
-2018,house,New Jersey,NJ,8,Albio Sires,Democratic,78.1,True,True,False
-2018,house,New Jersey,NJ,8,John Muniz,Republican,18.7,False,False,False
-2018,house,New Jersey,NJ,9,Bill Pascrell,Democratic,70.3,True,True,False
-2018,house,New Jersey,NJ,9,Eric Fisher,Republican,28.9,False,False,False
-2018,house,New Jersey,NJ,9,Claudio Belusic,Independent,0.8,False,False,False
-2018,house,New Jersey,NJ,10,Donald Payne Jr.,Democratic,87.6,True,True,False
-2018,house,New Jersey,NJ,10,Agha Khan,Republican,10.1,False,False,False
-2018,house,New Jersey,NJ,10,Cynthia Johnson,Independent,1.0,False,False,False
-2018,house,New Jersey,NJ,10,Joanne Miller,Independent,1.0,False,False,False
-2018,house,New Jersey,NJ,10,Scott Dirona,Independent,0.3,False,False,False
-2018,house,New Jersey,NJ,11,Mikie Sherrill,Democratic,56.8,True,False,True
-2018,house,New Jersey,NJ,11,Jay Webber,Republican,42.1,False,False,True
-2018,house,New Jersey,NJ,11,Robert Crook,Independent,0.7,False,False,True
-2018,house,New Jersey,NJ,11,Ryan Martinez,Independent,0.4,False,False,True
-2018,house,New Jersey,NJ,12,Bonnie Watson Coleman,Democratic,68.7,True,True,False
-2018,house,New Jersey,NJ,12,Daryl Kipnis,Republican,31.3,False,False,False
-2018,house,New Mexico,NM,1,Deb Haaland,Democratic,59.1,True,False,True
-2018,house,New Mexico,NM,1,Janice Arnold-Jones,Republican,36.3,False,False,True
-2018,house,New Mexico,NM,1,Lloyd Princeton,Libertarian,4.6,False,False,True
-2018,house,New Mexico,NM,2,Xochitl Torres Small,Democratic,50.9,True,False,True
-2018,house,New Mexico,NM,2,Yvette Herrell,Republican,49.1,False,False,True
-2018,house,New Mexico,NM,3,Ben Ray Luján,Democratic,63.4,True,True,False
-2018,house,New Mexico,NM,3,Jerald Steve McFall,Republican,31.2,False,False,False
-2018,house,New Mexico,NM,3,Christopher Manning,Libertarian,5.4,False,False,False
-2018,house,New York,NY,1,Lee Zeldin,Republican,51.5,True,True,False
-2018,house,New York,NY,1,Perry Gershon,Democratic,47.4,False,False,False
-2018,house,New York,NY,1,Kate Browning,Women's Equality,1.1,False,False,False
-2018,house,New York,NY,2,Peter King,Republican,53.1,True,True,False
-2018,house,New York,NY,2,Liuba Grechen Shirley,Democratic,46.9,False,False,False
-2018,house,New York,NY,3,Thomas Suozzi,Democratic,59.0,True,True,False
-2018,house,New York,NY,3,Dan DeBono,Republican,41.0,False,False,False
-2018,house,New York,NY,4,Kathleen Rice,Democratic,61.3,True,True,False
-2018,house,New York,NY,4,Ameer Benno,Republican,38.7,False,False,False
-2018,house,New York,NY,5,Gregory Meeks,Democratic,100.0,True,True,False
-2018,house,New York,NY,6,Grace Meng,Democratic,90.9,True,True,False
-2018,house,New York,NY,6,Tom Hillgardner,Green,9.1,False,False,False
-2018,house,New York,NY,7,Nydia Velázquez,Democratic,93.4,True,True,False
-2018,house,New York,NY,7,Joseph Lieberman,Conservative Party (New York),5.5,False,False,False
-2018,house,New York,NY,7,Jeff Kurzon,Reform,1.1,False,False,False
-2018,house,New York,NY,8,Hakeem Jeffries,Democratic,94.2,True,True,False
-2018,house,New York,NY,8,Ernest Johnson,Conservative,5.2,False,False,False
-2018,house,New York,NY,8,Jessica White,Reform,0.5,False,False,False
-2018,house,New York,NY,9,Yvette Clarke,Democratic,89.3,True,True,False
-2018,house,New York,NY,9,Lutchi Gayot,Republican,10.3,False,False,False
-2018,house,New York,NY,9,Joel Anabilah-Azumah,Reform,0.4,False,False,False
-2018,house,New York,NY,10,Jerry Nadler,Democratic,82.1,True,True,False
-2018,house,New York,NY,10,Naomi Levin,Republican,17.9,False,False,False
-2018,house,New York,NY,11,Max Rose,Democratic,53.0,True,False,False
-2018,house,New York,NY,11,Dan Donovan,Republican,46.6,False,False,False
-2018,house,New York,NY,11,Henry Bardel,Green,0.4,False,False,False
-2018,house,New York,NY,12,Carolyn Maloney,Democratic,86.4,True,True,False
-2018,house,New York,NY,12,Eliot Rabin,Republican,12.1,False,False,False
-2018,house,New York,NY,12,Scott Hutchins,Green,1.5,False,False,False
-2018,house,New York,NY,13,Adriano Espaillat,Democratic,94.6,True,True,False
-2018,house,New York,NY,13,Jineea Butler,Republican,5.4,False,False,False
-2018,house,New York,NY,14,Alexandria Ocasio-Cortez,Democratic,78.2,True,False,False
-2018,house,New York,NY,14,Anthony Pappas,Republican,13.6,False,False,False
-2018,house,New York,NY,14,Joe Crowley,Working Families,6.6,False,True,False
-2018,house,New York,NY,14,Elizabeth Perri,Conservative Party (New York),1.6,False,False,False
-2018,house,New York,NY,15,José E. Serrano,Democratic,96.0,True,True,False
-2018,house,New York,NY,15,Jason Gonzalez,Republican,4.0,False,False,False
-2018,house,New York,NY,16,Eliot Engel,Democratic,100.0,True,True,False
-2018,house,New York,NY,17,Nita Lowey,Democratic,88.0,True,True,False
-2018,house,New York,NY,17,Joe Ciardullo,Reform,12.0,False,False,False
-2018,house,New York,NY,18,Sean Patrick Maloney,Democratic,55.5,True,True,False
-2018,house,New York,NY,18,James O'Donnell,Republican,44.5,False,False,False
-2018,house,New York,NY,19,Antonio Delgado,Democratic,51.4,True,False,False
-2018,house,New York,NY,19,John Faso,Republican,46.2,False,True,False
-2018,house,New York,NY,19,Steven Greenfield,Green,1.5,False,False,False
-2018,house,New York,NY,19,Diane Neal,Independent,1.0,False,False,False
-2018,house,New York,NY,20,Paul Tonko,Democratic,66.5,True,True,False
-2018,house,New York,NY,20,Joe Vitollo,Republican,33.5,False,False,False
-2018,house,New York,NY,21,Elise Stefanik,Republican,56.1,True,True,False
-2018,house,New York,NY,21,Tedra Cobb,Democratic,42.4,False,False,False
-2018,house,New York,NY,21,Lynn Kahn,Green,1.5,False,False,False
-2018,house,New York,NY,22,Anthony Brindisi,Democratic,50.9,True,False,False
-2018,house,New York,NY,22,Claudia Tenney,Republican,49.1,False,True,False
-2018,house,New York,NY,23,Tom Reed,Republican,54.2,True,False,False
-2018,house,New York,NY,23,Tracy Mitrano,Democratic,45.8,False,False,False
-2018,house,New York,NY,24,John Katko,Republican,52.6,True,True,False
-2018,house,New York,NY,24,Dana Balter,Democratic,47.4,False,False,False
-2018,house,New York,NY,25,Joseph Morelle,Democratic,59.0,True,False,True
-2018,house,New York,NY,25,Jim Maxwell,Republican,41.0,False,False,True
-2018,house,New York,NY,26,Brian Higgins,Democratic,73.3,True,True,False
-2018,house,New York,NY,26,Renee Zeno,Republican,26.7,False,False,False
-2018,house,New York,NY,27,Chris Collins,Republican,49.1,True,False,False
-2018,house,New York,NY,27,Nate McMurray,Democratic,48.8,False,False,False
-2018,house,New York,NY,27,Larry Piegza,Reform,2.1,False,False,False
-2018,house,North Carolina,NC,1,G. K. Butterfield,Democratic,69.8,True,True,False
-2018,house,North Carolina,NC,1,Roger Allison,Republican,30.2,False,False,False
-2018,house,North Carolina,NC,2,George Holding,Republican,51.3,True,True,False
-2018,house,North Carolina,NC,2,Linda Coleman,Democratic,45.8,False,False,False
-2018,house,North Carolina,NC,2,Jeff Matemu,Libertarian,2.9,False,False,False
-2018,house,North Carolina,NC,3,Walter B. Jones Jr.,Republican,100.0,True,True,False
-2018,house,North Carolina,NC,4,David Price,Democratic,72.4,True,False,False
-2018,house,North Carolina,NC,4,Steve Von Loor,Republican,24.0,False,False,False
-2018,house,North Carolina,NC,4,Barbara Howe,Libertarian,3.6,False,False,False
-2018,house,North Carolina,NC,5,Virginia Foxx,Republican,57.0,True,True,False
-2018,house,North Carolina,NC,5,D. D. Adams,Democratic,43.0,False,False,False
-2018,house,North Carolina,NC,6,Mark Walker,Republican,56.5,True,False,False
-2018,house,North Carolina,NC,6,Ryan Watts,Democratic,43.5,False,False,False
-2018,house,North Carolina,NC,7,David Rouzer,Republican,55.5,True,True,False
-2018,house,North Carolina,NC,7,Kyle Horton,Democratic,42.8,False,False,False
-2018,house,North Carolina,NC,7,David Fallin,Constitution,1.6,False,False,False
-2018,house,North Carolina,NC,8,Richard Hudson,Republican,55.3,True,False,False
-2018,house,North Carolina,NC,8,Frank McNeill,Democratic,44.7,False,False,False
-2018,house,North Carolina,NC,9,Mark Harris,Republican,49.3,False,False,True
-2018,house,North Carolina,NC,9,Dan McCready,Democratic,48.9,False,False,True
-2018,house,North Carolina,NC,9,Jeff Scott,Libertarian,1.8,False,False,True
-2018,house,North Carolina,NC,10,Patrick McHenry,Republican,59.3,True,True,False
-2018,house,North Carolina,NC,10,David Brown,Democratic,40.7,False,False,False
-2018,house,North Carolina,NC,11,Mark Meadows,Republican,59.2,True,False,False
-2018,house,North Carolina,NC,11,Phillip Price,Democratic,38.7,False,False,False
-2018,house,North Carolina,NC,11,Clifton Ingram,Libertarian,2.0,False,False,False
-2018,house,North Carolina,NC,12,Alma Adams,Democratic,73.1,True,True,False
-2018,house,North Carolina,NC,12,Paul Wright,Republican,26.9,False,False,False
-2018,house,North Carolina,NC,13,Ted Budd,Republican,51.5,True,True,False
-2018,house,North Carolina,NC,13,Kathy Manning,Democratic,45.5,False,False,False
-2018,house,North Carolina,NC,13,Tom Bailey,Libertarian,2.0,False,False,False
-2018,house,North Dakota,ND,AL,Kelly Armstrong,Republican,60.3,True,False,True
-2018,house,North Dakota,ND,AL,Mac Schneider,Democratic-NPL,35.6,False,False,True
-2018,house,North Dakota,ND,AL,Charles Tuttle,Independent,4.1,False,False,True
-2018,house,Ohio,OH,1,Steve Chabot,Republican,51.3,True,True,False
-2018,house,Ohio,OH,1,Aftab Pureval,Democratic,46.9,False,False,False
-2018,house,Ohio,OH,1,Dirk Kubala,Libertarian,1.8,False,False,False
-2018,house,Ohio,OH,2,Brad Wenstrup,Republican,57.6,True,True,False
-2018,house,Ohio,OH,2,Jill Schiller,Democratic,41.2,False,False,False
-2018,house,Ohio,OH,2,James Condit,Green,1.2,False,False,False
-2018,house,Ohio,OH,3,Joyce Beatty,Democratic,73.6,True,True,False
-2018,house,Ohio,OH,3,James Burgess,Republican,26.4,False,False,False
-2018,house,Ohio,OH,4,Jim Jordan,Republican,65.3,True,False,False
-2018,house,Ohio,OH,4,Janet Garrett,Democratic,34.7,False,False,False
-2018,house,Ohio,OH,5,Bob Latta,Republican,62.3,True,True,False
-2018,house,Ohio,OH,5,Michael Galbraith,Democratic,35.1,False,False,False
-2018,house,Ohio,OH,5,Don Kissick,Libertarian,2.6,False,False,False
-2018,house,Ohio,OH,6,Bill Johnson,Republican,69.3,True,False,False
-2018,house,Ohio,OH,6,Shawna Roberts,Democratic,30.7,False,False,False
-2018,house,Ohio,OH,7,Bob Gibbs,Republican,58.7,True,True,False
-2018,house,Ohio,OH,7,Ken Harbaugh,Democratic,41.3,False,False,False
-2018,house,Ohio,OH,8,Warren Davidson,Republican,66.6,True,True,False
-2018,house,Ohio,OH,8,Vanessa Enoch,Democratic,33.4,False,False,False
-2018,house,Ohio,OH,9,Marcy Kaptur,Democratic,67.8,True,True,False
-2018,house,Ohio,OH,9,Steve Kraus,Republican,32.2,False,False,False
-2018,house,Ohio,OH,10,Mike Turner,Republican,55.9,True,True,False
-2018,house,Ohio,OH,10,Theresa Gasper,Democratic,42.2,False,False,False
-2018,house,Ohio,OH,10,David Harlow,Libertarian,1.9,False,False,False
-2018,house,Ohio,OH,11,Marcia Fudge,Democratic,82.2,True,True,False
-2018,house,Ohio,OH,11,Beverly Goldstein,Republican,17.8,False,False,False
-2018,house,Ohio,OH,12,Troy Balderson,Republican,51.4,True,True,False
-2018,house,Ohio,OH,12,Danny O'Connor,Democratic,47.2,False,False,False
-2018,house,Ohio,OH,12,Joseph Manchik,Green,1.4,False,False,False
-2018,house,Ohio,OH,13,Tim Ryan,Democratic,61.0,True,False,False
-2018,house,Ohio,OH,13,Chris DePizzo,Republican,39.0,False,False,False
-2018,house,Ohio,OH,14,David Joyce,Republican,55.2,True,False,False
-2018,house,Ohio,OH,14,Betsy Rader,Democratic,44.8,False,False,False
-2018,house,Ohio,OH,15,Steve Stivers,Republican,58.3,True,True,False
-2018,house,Ohio,OH,15,Rick Neal,Democratic,39.7,False,False,False
-2018,house,Ohio,OH,15,Libertarian Party,Libertarian,2.0,False,False,False
-2018,house,Ohio,OH,16,Anthony Gonzalez,Republican,56.7,True,False,True
-2018,house,Ohio,OH,16,Susan Moran Palmer,Democratic,43.3,False,False,True
-2018,house,Oklahoma,OK,1,Kevin Hern,Republican,59.3,True,False,True
-2018,house,Oklahoma,OK,1,Tim Gilpin,Democratic,40.7,False,False,True
-2018,house,Oklahoma,OK,2,Markwayne Mullin,Republican,65.0,True,True,False
-2018,house,Oklahoma,OK,2,Jason Nichols,Democratic,30.1,False,False,False
-2018,house,Oklahoma,OK,2,John Foreman,Independent,3.0,False,False,False
-2018,house,Oklahoma,OK,2,Richard Castaldo,Libertarian,1.9,False,False,False
-2018,house,Oklahoma,OK,3,Frank Lucas,Republican,73.9,True,True,False
-2018,house,Oklahoma,OK,3,Frankie Robbins,Democratic,26.1,False,False,False
-2018,house,Oklahoma,OK,4,Tom Cole,Republican,63.1,True,True,False
-2018,house,Oklahoma,OK,4,Mary Brannon,Democratic,33.0,False,False,False
-2018,house,Oklahoma,OK,4,Ruby Peters,Independent,3.9,False,False,False
-2018,house,Oklahoma,OK,5,Kendra Horn,Democratic,50.7,True,False,False
-2018,house,Oklahoma,OK,5,Steve Russell,Republican,49.3,False,False,False
-2018,house,Oregon,OR,1,Suzanne Bonamici,Democratic,63.7,True,True,False
-2018,house,Oregon,OR,1,John Verbeek,Republican,32.1,False,False,False
-2018,house,Oregon,OR,1,Drew Layda,Pacific Green,4.2,False,False,False
-2018,house,Oregon,OR,2,Greg Walden,Republican,56.3,True,True,False
-2018,house,Oregon,OR,2,Jamie McLeod-Skinner,Democratic,39.4,False,False,False
-2018,house,Oregon,OR,2,Mark Roberts,Independent,4.2,False,False,False
-2018,house,Oregon,OR,3,Earl Blumenauer,Democratic,72.7,True,True,False
-2018,house,Oregon,OR,3,Tom Harrison,Republican,19.9,False,False,False
-2018,house,Oregon,OR,3,Marc Koller,Independent,5.5,False,False,False
-2018,house,Oregon,OR,3,Gary Dye,Libertarian,1.5,False,False,False
-2018,house,Oregon,OR,3,Michael Marsh,Constitution,0.4,False,False,False
-2018,house,Oregon,OR,4,Peter DeFazio,Democratic,56.0,True,True,False
-2018,house,Oregon,OR,4,Art Robinson,Republican,40.9,False,False,False
-2018,house,Oregon,OR,4,Mike Beilstein,Pacific Green,1.6,False,False,False
-2018,house,Oregon,OR,4,Richard Johnson,Libertarian,1.4,False,False,False
-2018,house,Oregon,OR,5,Kurt Schrader,Democratic,55.1,True,True,False
-2018,house,Oregon,OR,5,Mark Callahan,Republican,41.9,False,False,False
-2018,house,Oregon,OR,5,Dan Souza,Libertarian,1.7,False,False,False
-2018,house,Oregon,OR,5,Marvin Sandnes,Pacific Green,1.3,False,False,False
-2018,house,Pennsylvania,PA,1,Brian Fitzpatrick,Republican,51.3,True,False,False
-2018,house,Pennsylvania,PA,1,Scott Wallace,Democratic,48.7,False,False,False
-2018,house,Pennsylvania,PA,2,Brendan Boyle,Democratic,79.0,True,False,True
-2018,house,Pennsylvania,PA,2,David Torres,Republican,21.0,False,False,True
-2018,house,Pennsylvania,PA,3,Dwight Evans,Democratic,93.4,True,False,False
-2018,house,Pennsylvania,PA,3,Bryan Leib,Republican,6.6,False,False,False
-2018,house,Pennsylvania,PA,4,Madeleine Dean,Democratic,63.5,True,False,True
-2018,house,Pennsylvania,PA,4,Dan David,Republican,36.5,False,False,True
-2018,house,Pennsylvania,PA,5,Mary Gay Scanlon,Democratic,65.2,True,False,True
-2018,house,Pennsylvania,PA,5,Pearl Kim,Republican,34.8,False,False,True
-2018,house,Pennsylvania,PA,6,Chrissy Houlahan,Democratic,58.9,True,False,True
-2018,house,Pennsylvania,PA,6,Greg McCauley,Republican,41.1,False,False,True
-2018,house,Pennsylvania,PA,7,Susan Wild,Democratic,53.5,True,False,True
-2018,house,Pennsylvania,PA,7,Marty Nothstein,Republican,43.5,False,False,True
-2018,house,Pennsylvania,PA,7,Tom Silfies,Libertarian,3.0,False,False,True
-2018,house,Pennsylvania,PA,8,Matt Cartwright,Democratic,54.6,True,False,False
-2018,house,Pennsylvania,PA,8,John Chrin,Republican,45.4,False,False,False
-2018,house,Pennsylvania,PA,9,Dan Meuser,Republican,59.7,True,False,True
-2018,house,Pennsylvania,PA,9,Denny Wolff,Democratic,40.3,False,False,True
-2018,house,Pennsylvania,PA,10,Scott Perry,Republican,51.3,True,False,False
-2018,house,Pennsylvania,PA,10,George Scott,Democratic,48.7,False,False,False
-2018,house,Pennsylvania,PA,11,Lloyd Smucker,Republican,59.0,True,False,False
-2018,house,Pennsylvania,PA,11,Jess King,Democratic,41.0,False,False,False
-2018,house,Pennsylvania,PA,12,Tom Marino,Republican,66.0,True,False,False
-2018,house,Pennsylvania,PA,12,Marc Friedenberg,Democratic,34.0,False,False,False
-2018,house,Pennsylvania,PA,13,John Joyce,Republican,70.5,True,False,True
-2018,house,Pennsylvania,PA,13,Brent Ottaway,Democratic,29.5,False,False,True
-2018,house,Pennsylvania,PA,14,Guy Reschenthaler,Republican,57.9,True,False,True
-2018,house,Pennsylvania,PA,14,Bibiana Boerio,Democratic,42.1,False,False,True
-2018,house,Pennsylvania,PA,15,Glenn Thompson,Republican,67.8,True,False,False
-2018,house,Pennsylvania,PA,15,Susan Boser,Democratic,32.2,False,False,False
-2018,house,Pennsylvania,PA,16,Mike Kelly,Republican,51.6,True,False,False
-2018,house,Pennsylvania,PA,16,Ron DiNicola,Democratic,47.3,False,False,False
-2018,house,Pennsylvania,PA,16,Bill Beeman,Libertarian,1.1,False,False,False
-2018,house,Pennsylvania,PA,17,Conor Lamb,Democratic,56.3,True,False,False
-2018,house,Pennsylvania,PA,17,Keith Rothfus,Republican,43.7,False,False,False
-2018,house,Pennsylvania,PA,18,Mike Doyle,Democratic,100.0,True,False,False
-2018,house,Rhode Island,RI,1,David Cicilline,Democratic,66.9,True,True,False
-2018,house,Rhode Island,RI,1,Patrick Donovan,Republican,33.1,False,False,False
-2018,house,Rhode Island,RI,2,James Langevin,Democratic,63.6,True,True,False
-2018,house,Rhode Island,RI,2,Sal Caiozzo,Republican,36.4,False,False,False
-2018,house,South Carolina,SC,1,Joe Cunningham,Democratic,50.7,True,False,True
-2018,house,South Carolina,SC,1,Katie Arrington,Republican,49.3,False,False,True
-2018,house,South Carolina,SC,2,Joe Wilson,Republican,56.3,True,False,False
-2018,house,South Carolina,SC,2,Sean Carrigan,Democratic,42.5,False,False,False
-2018,house,South Carolina,SC,2,Sonny Narang,American,1.2,False,False,False
-2018,house,South Carolina,SC,3,Jeff Duncan,Republican,67.8,True,False,False
-2018,house,South Carolina,SC,3,Mary Geren,Democratic,31.0,False,False,False
-2018,house,South Carolina,SC,3,Dave Moore,American,1.2,False,False,False
-2018,house,South Carolina,SC,4,William Timmons,Republican,59.6,True,False,True
-2018,house,South Carolina,SC,4,Brandon Brown,Democratic,36.6,False,False,True
-2018,house,South Carolina,SC,4,Guy Furay,American,3.8,False,False,True
-2018,house,South Carolina,SC,5,Ralph Norman,Republican,57.1,True,True,False
-2018,house,South Carolina,SC,5,Archie Parnell,Democratic,41.5,False,False,False
-2018,house,South Carolina,SC,5,Michael Chandler,Constitution,1.4,False,False,False
-2018,house,South Carolina,SC,6,Jim Clyburn,Democratic,70.2,True,True,False
-2018,house,South Carolina,SC,6,Gerhard Gressmann,Republican,28.3,False,False,False
-2018,house,South Carolina,SC,6,Bryan Pugh,Green,1.5,False,False,False
-2018,house,South Carolina,SC,7,Tom Rice,Republican,59.6,True,True,False
-2018,house,South Carolina,SC,7,Robert Williams,Democratic,40.4,False,False,False
-2018,house,South Dakota,SD,AL,Dusty Johnson,Republican,60.3,True,False,True
-2018,house,South Dakota,SD,AL,Tim Bjorkman,Democratic,36.0,False,False,True
-2018,house,South Dakota,SD,AL,Ron Wieczorek,Independent,2.2,False,False,True
-2018,house,South Dakota,SD,AL,George Hendrickson,Libertarian,1.5,False,False,True
-2018,house,Tennessee,TN,1,Phil Roe,Republican,77.1,True,False,False
-2018,house,Tennessee,TN,1,Marty Olsen,Democratic,21.0,False,False,False
-2018,house,Tennessee,TN,1,Michael Salyer,Independent,1.9,False,False,False
-2018,house,Tennessee,TN,2,Tim Burchett,Republican,65.9,True,False,True
-2018,house,Tennessee,TN,2,Renee Hoyos,Democratic,33.1,False,False,True
-2018,house,Tennessee,TN,3,Chuck Fleischmann,Republican,63.7,True,True,False
-2018,house,Tennessee,TN,3,Danielle Mitchell,Democratic,34.5,False,False,False
-2018,house,Tennessee,TN,3,Rick Tyler,Independent,1.8,False,False,False
-2018,house,Tennessee,TN,4,Scott DesJarlais,Republican,63.4,True,True,False
-2018,house,Tennessee,TN,4,Mariah Phillips,Democratic,33.6,False,False,False
-2018,house,Tennessee,TN,4,Michael Shupe,Independent,3.0,False,False,False
-2018,house,Tennessee,TN,5,Jim Cooper,Democratic,67.8,True,True,True
-2018,house,Tennessee,TN,5,Jody Ball,Republican,32.2,False,False,True
-2018,house,Tennessee,TN,6,John Rose,Republican,69.5,True,False,True
-2018,house,Tennessee,TN,6,Dawn Barlow,Democratic,28.3,False,False,True
-2018,house,Tennessee,TN,6,David Ross,Libertarian,1.4,False,False,True
-2018,house,Tennessee,TN,6,Lloyd Dunn,Independent,0.9,False,False,True
-2018,house,Tennessee,TN,7,Mark Green,Republican,66.9,True,False,True
-2018,house,Tennessee,TN,7,Justin Kanew,Democratic,32.1,False,False,True
-2018,house,Tennessee,TN,8,David Kustoff,Republican,67.7,True,True,False
-2018,house,Tennessee,TN,8,Erika Stotts Pearson,Democratic,30.1,False,False,False
-2018,house,Tennessee,TN,8,James Hart,Independent,2.2,False,False,False
-2018,house,Tennessee,TN,9,Steve Cohen,Democratic,80.0,True,True,False
-2018,house,Tennessee,TN,9,Charlotte Bergmann,Republican,19.2,False,False,False
-2018,house,Tennessee,TN,9,Leo AwGoWhat,Independent,0.8,False,False,False
-2018,house,Texas,TX,1,Louie Gohmert,Republican,72.3,True,True,False
-2018,house,Texas,TX,1,Shirley McKellar,Democratic,26.3,False,False,False
-2018,house,Texas,TX,1,Jeff Callaway,Libertarian,1.4,False,False,False
-2018,house,Texas,TX,2,Dan Crenshaw,Republican,52.8,True,False,True
-2018,house,Texas,TX,2,Todd Litton,Democratic,45.6,False,False,True
-2018,house,Texas,TX,2,Patrick Gunnels,Libertarian,0.9,False,False,True
-2018,house,Texas,TX,2,Scott Cubbler,Independent,0.7,False,False,True
-2018,house,Texas,TX,3,Van Taylor,Republican,54.3,True,False,True
-2018,house,Texas,TX,3,Lorie Burch,Democratic,44.3,False,False,True
-2018,house,Texas,TX,3,Christopher Claytor,Libertarian,1.4,False,False,True
-2018,house,Texas,TX,4,John Ratcliffe,Republican,75.7,True,False,False
-2018,house,Texas,TX,4,Catherine Krantz,Democratic,23.0,False,False,False
-2018,house,Texas,TX,4,Ken Ashby,Libertarian,1.3,False,False,False
-2018,house,Texas,TX,5,Lance Gooden,Republican,62.4,True,False,True
-2018,house,Texas,TX,5,Dan Wood,Democratic,37.6,False,False,True
-2018,house,Texas,TX,6,Ron Wright,Republican,53.1,True,False,True
-2018,house,Texas,TX,6,Jana Lynne Sanchez,Democratic,45.4,False,False,True
-2018,house,Texas,TX,6,Jason Allen Harber,Libertarian,1.5,False,False,True
-2018,house,Texas,TX,7,Lizzie Fletcher,Democratic,52.5,True,False,False
-2018,house,Texas,TX,7,John Culberson,Republican,47.5,False,True,False
-2018,house,Texas,TX,8,Kevin Brady,Republican,73.4,True,True,False
-2018,house,Texas,TX,8,Steven David,Democratic,24.9,False,False,False
-2018,house,Texas,TX,8,Chris Duncan,Libertarian,1.7,False,False,False
-2018,house,Texas,TX,9,Al Green,Democratic,89.1,True,True,False
-2018,house,Texas,TX,9,Phil Kurtz,Libertarian,3.9,False,False,False
-2018,house,Texas,TX,9,Benjamin Hernandez,Independent,3.8,False,False,False
-2018,house,Texas,TX,9,Kesha Rogers,Independent,3.3,False,False,False
-2018,house,Texas,TX,10,Michael McCaul,Republican,51.1,True,True,False
-2018,house,Texas,TX,10,Mike Siegel,Democratic,46.8,False,False,False
-2018,house,Texas,TX,10,Mike Ryan,Libertarian,2.1,False,False,False
-2018,house,Texas,TX,11,Mike Conaway,Republican,80.1,True,True,False
-2018,house,Texas,TX,11,Jennie Lou Leeder,Democratic,18.4,False,False,False
-2018,house,Texas,TX,11,Rhett Rosenquest Smith,Libertarian,1.5,False,False,False
-2018,house,Texas,TX,12,Kay Granger,Republican,64.3,True,True,False
-2018,house,Texas,TX,12,Vanessa Adia,Democratic,33.9,False,False,False
-2018,house,Texas,TX,12,Jacob Leddy,Libertarian,1.8,False,False,False
-2018,house,Texas,TX,13,Mac Thornberry,Republican,81.5,True,True,False
-2018,house,Texas,TX,13,Greg Sagan,Democratic,16.9,False,False,False
-2018,house,Texas,TX,13,Calvin DeWeese,Libertarian,1.6,False,False,False
-2018,house,Texas,TX,14,Randy Weber,Republican,59.2,True,True,False
-2018,house,Texas,TX,14,Adrienne Bell,Democratic,39.3,False,False,False
-2018,house,Texas,TX,14,Don Conley,Libertarian,1.4,False,False,False
-2018,house,Texas,TX,15,Vicente Gonzalez,Democratic,59.7,True,False,False
-2018,house,Texas,TX,15,Tim Westley,Republican,38.8,False,False,False
-2018,house,Texas,TX,15,Anthony Cristo,Libertarian,1.5,False,False,False
-2018,house,Texas,TX,16,Veronica Escobar,Democratic,68.5,True,False,True
-2018,house,Texas,TX,16,Rick Seeberger,Republican,27.0,False,False,True
-2018,house,Texas,TX,16,Ben Mendoza,Independent,1.6,False,False,True
-2018,house,Texas,TX,17,Bill Flores,Republican,56.8,True,True,False
-2018,house,Texas,TX,17,Rick Kennedy,Democratic,41.3,False,False,False
-2018,house,Texas,TX,17,Peter Churchman,Libertarian,1.9,False,False,False
-2018,house,Texas,TX,18,Sheila Jackson Lee,Democratic,75.2,True,True,False
-2018,house,Texas,TX,18,Ava Pate,Republican,20.8,False,False,False
-2018,house,Texas,TX,18,Luke Spencer,Libertarian,2.2,False,False,False
-2018,house,Texas,TX,19,Jodey Arrington,Republican,75.2,True,True,False
-2018,house,Texas,TX,19,Miguel Levario,Democratic,24.8,False,False,False
-2018,house,Texas,TX,20,Joaquin Castro,Democratic,80.9,True,True,False
-2018,house,Texas,TX,20,Jeffrey C. Blunt,Libertarian,19.1,False,False,False
-2018,house,Texas,TX,21,Chip Roy,Republican,50.2,True,False,True
-2018,house,Texas,TX,21,Joseph Kopser,Democratic,47.6,False,False,True
-2018,house,Texas,TX,21,Lee Santos,Libertarian,2.1,False,False,True
-2018,house,Texas,TX,22,Pete Olson,Republican,51.4,True,True,False
-2018,house,Texas,TX,22,Sri Preston Kulkarni,Democratic,46.5,False,False,False
-2018,house,Texas,TX,22,John McElligott,Libertarian,1.1,False,False,False
-2018,house,Texas,TX,22,Kellen Sweny,Independent,1.1,False,False,False
-2018,house,Texas,TX,23,Will Hurd,Republican,49.2,True,True,False
-2018,house,Texas,TX,23,Gina Ortiz Jones,Democratic,48.7,False,False,False
-2018,house,Texas,TX,23,Ruben Corvalan,Libertarian,2.1,False,False,False
-2018,house,Texas,TX,24,Kenny Marchant,Republican,50.6,True,True,False
-2018,house,Texas,TX,24,Jan McDowell,Democratic,47.5,False,False,False
-2018,house,Texas,TX,24,Mike Kolls,Libertarian,1.8,False,False,False
-2018,house,Texas,TX,25,Roger Williams,Republican,53.5,True,True,False
-2018,house,Texas,TX,25,Julie Oliver,Democratic,44.8,False,False,False
-2018,house,Texas,TX,25,Desarae Lindsey,Libertarian,1.7,False,False,False
-2018,house,Texas,TX,26,Michael C. Burgess,Republican,59.4,True,True,False
-2018,house,Texas,TX,26,Linsey Fagan,Democratic,39.0,False,False,False
-2018,house,Texas,TX,26,Mark Boler,Libertarian,1.6,False,False,False
-2018,house,Texas,TX,27,Michael Cloud,Republican,60.3,True,True,False
-2018,house,Texas,TX,27,Eric Holguin,Democratic,36.6,False,False,False
-2018,house,Texas,TX,27,James Duerr,Independent,2.1,False,False,False
-2018,house,Texas,TX,27,Daniel Tinus,Libertarian,1.0,False,False,False
-2018,house,Texas,TX,28,Henry Cuellar,Democratic,84.4,True,True,False
-2018,house,Texas,TX,28,Arthur Thomas,Libertarian,15.6,False,False,False
-2018,house,Texas,TX,29,Sylvia Garcia,Democratic,75.1,True,False,True
-2018,house,Texas,TX,29,Phillip Aronoff,Republican,23.9,False,False,True
-2018,house,Texas,TX,29,Cullen Burns,Libertarian,1.0,False,False,True
-2018,house,Texas,TX,30,Eddie Bernice Johnson,Democratic,91.1,True,True,False
-2018,house,Texas,TX,30,Shawn Jones,Libertarian,8.9,False,False,False
-2018,house,Texas,TX,31,John Carter,Republican,50.6,True,False,False
-2018,house,Texas,TX,31,MJ Hegar,Democratic,47.7,False,False,False
-2018,house,Texas,TX,31,Jason Hope,Libertarian,1.7,False,False,False
-2018,house,Texas,TX,32,Colin Allred,Democratic,52.3,True,False,False
-2018,house,Texas,TX,32,Pete Sessions,Republican,45.8,False,True,False
-2018,house,Texas,TX,32,Melina Baker,Libertarian,2.0,False,False,False
-2018,house,Texas,TX,33,Marc Veasey,Democratic,76.2,True,True,False
-2018,house,Texas,TX,33,Willie Billups,Republican,21.9,False,False,False
-2018,house,Texas,TX,33,Jason Reeves,Libertarian,1.9,False,False,False
-2018,house,Texas,TX,34,Filemon Vela Jr.,Democratic,60.0,True,True,False
-2018,house,Texas,TX,34,Rey Gonzalez,Republican,40.0,False,False,False
-2018,house,Texas,TX,35,Lloyd Doggett,Democratic,71.3,True,True,False
-2018,house,Texas,TX,35,David Smalling,Republican,26.0,False,False,False
-2018,house,Texas,TX,35,Clark Patterson,Libertarian,2.7,False,False,False
-2018,house,Texas,TX,36,Brian Babin,Republican,72.6,True,True,False
-2018,house,Texas,TX,36,Dayna Steele,Democratic,27.4,False,False,False
-2018,house,Utah,UT,1,Rob Bishop,Republican,61.6,True,True,False
-2018,house,Utah,UT,1,Lee Castillo,Democratic,24.9,False,False,False
-2018,house,Utah,UT,1,Eric Eliason,United Utah,11.6,False,False,False
-2018,house,Utah,UT,1,Adam Davis,Green,1.9,False,False,False
-2018,house,Utah,UT,2,Chris Stewart,Republican,56.1,True,False,False
-2018,house,Utah,UT,2,Shireen Ghorbani,Democratic,38.9,False,False,False
-2018,house,Utah,UT,2,Jeffrey Whipple,Libertarian,4.0,False,False,False
-2018,house,Utah,UT,3,John Curtis,Republican,67.5,True,False,False
-2018,house,Utah,UT,3,James Singer,Democratic,27.3,False,False,False
-2018,house,Utah,UT,3,Gregory Duerden,Independent American,2.6,False,False,False
-2018,house,Utah,UT,3,Timothy Zeidner,United Utah,2.6,False,False,False
-2018,house,Utah,UT,4,Ben McAdams,Democratic,50.1,True,False,False
-2018,house,Utah,UT,4,Mia Love,Republican,49.9,False,True,False
-2018,house,Vermont,VT,AL,Peter Welch,Democratic,69.2,True,True,False
-2018,house,Vermont,VT,AL,Anya Tynio,Republican,26.0,False,False,False
-2018,house,Vermont,VT,AL,Cris Ericson,Independent,3.3,False,False,False
-2018,house,Vermont,VT,AL,Laura Potter,Liberty Union,1.4,False,False,False
-2018,house,Virginia,VA,1,Rob Wittman,Republican,55.2,True,True,False
-2018,house,Virginia,VA,1,Vangie Williams,Democratic,44.8,False,False,False
-2018,house,Virginia,VA,2,Elaine Luria,Democratic,51.1,True,False,False
-2018,house,Virginia,VA,2,Scott Taylor,Republican,48.9,False,False,False
-2018,house,Virginia,VA,3,Bobby Scott,Democratic,91.2,True,False,False
-2018,house,Virginia,VA,4,Donald McEachin,Democratic,62.6,True,True,False
-2018,house,Virginia,VA,4,Ryan McAdams,Republican,36.0,False,False,False
-2018,house,Virginia,VA,4,Pete Wells,Libertarian,1.4,False,False,False
-2018,house,Virginia,VA,5,Denver Riggleman,Republican,53.3,True,False,True
-2018,house,Virginia,VA,5,Leslie Cockburn,Democratic,46.7,False,False,True
-2018,house,Virginia,VA,6,Ben Cline,Republican,59.8,True,False,True
-2018,house,Virginia,VA,6,Jennifer Lewis,Democratic,40.2,False,False,True
-2018,house,Virginia,VA,7,Abigail Spanberger,Democratic,50.4,True,False,False
-2018,house,Virginia,VA,7,Dave Brat,Republican,48.4,False,True,False
-2018,house,Virginia,VA,7,Joe Walton,Libertarian,1.2,False,False,False
-2018,house,Virginia,VA,8,Don Beyer,Democratic,76.3,True,True,False
-2018,house,Virginia,VA,8,Thomas Oh,Republican,23.7,False,False,False
-2018,house,Virginia,VA,9,Morgan Griffith,Republican,65.2,True,True,False
-2018,house,Virginia,VA,9,Anthony Flaccavento,Democratic,34.8,False,False,False
-2018,house,Virginia,VA,10,Jennifer Wexton,Democratic,56.2,True,False,False
-2018,house,Virginia,VA,10,Barbara Comstock,Republican,43.8,False,True,False
-2018,house,Virginia,VA,11,Gerry Connolly,Democratic,71.2,True,True,False
-2018,house,Virginia,VA,11,Jeff Dove,Republican,27.0,False,False,False
-2018,house,Virginia,VA,11,Stevan Porter,Libertarian,1.8,False,False,False
-2018,house,Washington,WA,1,Suzan DelBene,Democratic,59.3,True,True,False
-2018,house,Washington,WA,1,Jeffrey Beeler,Republican,40.7,False,False,False
-2018,house,Washington,WA,2,Rick Larsen,Democratic,71.3,True,True,False
-2018,house,Washington,WA,2,Brian Luke,Libertarian,28.7,False,False,False
-2018,house,Washington,WA,3,Jaime Herrera Beutler,Republican,52.7,True,True,False
-2018,house,Washington,WA,3,Carolyn Long,Democratic,47.3,False,False,False
-2018,house,Washington,WA,4,Dan Newhouse,Republican,62.8,True,True,False
-2018,house,Washington,WA,4,Christine Brown,Democratic,37.2,False,False,False
-2018,house,Washington,WA,5,Cathy McMorris Rodgers,Republican,54.8,True,True,False
-2018,house,Washington,WA,5,Lisa Brown,Democratic,45.2,False,False,False
-2018,house,Washington,WA,6,Derek Kilmer,Democratic,63.9,True,True,False
-2018,house,Washington,WA,6,Douglas Dightman,Republican,36.1,False,False,False
-2018,house,Washington,WA,7,Pramila Jayapal,Democratic,83.6,True,True,False
-2018,house,Washington,WA,7,Craig Keller,Republican,16.4,False,False,False
-2018,house,Washington,WA,8,Kim Schrier,Democratic,52.4,True,False,True
-2018,house,Washington,WA,8,Dino Rossi,Republican,47.6,False,False,True
-2018,house,Washington,WA,9,Adam Smith,Democratic,67.9,True,True,False
-2018,house,Washington,WA,9,Sarah Smith,Democratic,32.1,False,False,False
-2018,house,Washington,WA,10,Denny Heck,Democratic,61.5,True,True,False
-2018,house,Washington,WA,10,Joseph Brumbles,Republican,38.5,False,False,False
-2018,house,West Virginia,WV,1,David McKinley,Republican,64.6,True,True,False
-2018,house,West Virginia,WV,1,Kendra Fershee,Democratic,35.4,False,False,False
-2018,house,West Virginia,WV,2,Alex Mooney,Republican,54.0,True,True,False
-2018,house,West Virginia,WV,2,Talley Sergent,Democratic,43.0,False,False,False
-2018,house,West Virginia,WV,2,Daniel Lutz,Mountain,3.1,False,False,False
-2018,house,West Virginia,WV,3,Carol Miller,Republican,56.4,True,False,True
-2018,house,West Virginia,WV,3,Richard Ojeda,Democratic,43.6,False,False,True
-2018,house,Wisconsin,WI,1,Bryan Steil,Republican,54.6,True,False,True
-2018,house,Wisconsin,WI,1,Randy Bryce,Democratic,42.3,False,False,True
-2018,house,Wisconsin,WI,1,Ken Yorgan,Independent,3.1,False,False,True
-2018,house,Wisconsin,WI,2,Mark Pocan,Democratic,97.4,True,True,False
-2018,house,Wisconsin,WI,3,Ron Kind,Democratic,59.7,True,True,False
-2018,house,Wisconsin,WI,3,Steve Toft,Republican,40.3,False,False,False
-2018,house,Wisconsin,WI,4,Gwen Moore,Democratic,75.7,True,True,False
-2018,house,Wisconsin,WI,4,Tim Rogers,Republican,21.7,False,False,False
-2018,house,Wisconsin,WI,4,Robert Raymond,Independent,2.6,False,False,False
-2018,house,Wisconsin,WI,5,Jim Sensenbrenner,Republican,62.0,True,True,False
-2018,house,Wisconsin,WI,5,Tom Palzewicz,Democratic,38.0,False,False,False
-2018,house,Wisconsin,WI,6,Glenn Grothman,Republican,55.5,True,True,False
-2018,house,Wisconsin,WI,6,Dan Kohl,Democratic,44.5,False,False,False
-2018,house,Wisconsin,WI,7,Sean Duffy,Republican,59.9,True,True,False
-2018,house,Wisconsin,WI,7,Margaret Engebretson,Democratic,38.4,False,False,False
-2018,house,Wisconsin,WI,7,Ken Driessen,Independent,1.7,False,False,False
-2018,house,Wisconsin,WI,8,Mike Gallagher,Republican,63.7,True,False,False
-2018,house,Wisconsin,WI,8,Beau Liegeois,Democratic,36.3,False,False,False
-2018,house,Wyoming,WY,AL,Liz Cheney,Republican,63.7,True,True,False
-2018,house,Wyoming,WY,AL,Greg Hunter,Democratic,29.8,False,False,False
-2018,house,Wyoming,WY,AL,Richard Brubaker,Libertarian,3.5,False,False,False
-2018,house,Wyoming,WY,AL,Daniel Cummings,Constitution,3.0,False,False,False
-2018,house,American Samoa,AM,AL,Amata Coleman Radewagen,Republican,83.28,True,True,False
-2018,house,American Samoa,AM,AL,Tuika Tuika,Independent,9.09,False,False,False
-2018,house,American Samoa,AM,AL,Meleagi Suitonu Chapman,Democratic,7.63,False,False,False
-2018,house,District of Columbia,DC,AL,Eleanor Holmes Norton,Democratic,87.7,True,True,False
-2018,house,District of Columbia,DC,AL,Nelson Rimensnyder,Republican,4.3,False,False,False
-2018,house,District of Columbia,DC,AL,Natale Stracuzzi,D.C. Statehood Green,3.8,False,False,False
-2018,house,District of Columbia,DC,AL,Erik Metzroh,Independent,2.4,False,False,False
-2018,house,District of Columbia,DC,AL,Bruce Majors,Libertarian,1.8,False,False,False
-2018,house,Guam,GU,AL,Michael San Nicolas,Democratic,54.9,True,False,False
-2018,house,Guam,GU,AL,Doris Flores Brooks,Republican,44.0,False,False,False
-2018,house,Northern Mariana Islands,NO,AL,Gregorio Sablan,Independent,63.77,True,True,False
-2018,house,Northern Mariana Islands,NO,AL,Angel Demapan,Republican,36.23,False,False,False
-2018,house,United States Virgin Islands,UN,AL,Stacey Plaskett,Democratic,98.41,True,True,False
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2018,house,Alabama,AL,1,242617,Bradley Byrne,Republican,153228,63.2,True,True,False
+2018,house,Alabama,AL,1,242617,Robert Kennedy Jr.,Democratic,89226,36.8,False,False,False
+2018,house,Alabama,AL,2,226230,Martha Roby,Republican,138879,61.5,True,True,False
+2018,house,Alabama,AL,2,226230,Tabitha Isner,Democratic,86931,38.5,False,False,False
+2018,house,Alabama,AL,3,231915,Mike D. Rogers,Republican,,63.8,True,False,False
+2018,house,Alabama,AL,3,231915,Mallory Hagan,Democratic,83996,36.2,False,False,False
+2018,house,Alabama,AL,4,230969,Robert Aderholt,Republican,184255,79.9,True,True,False
+2018,house,Alabama,AL,4,230969,Lee Auman,Democratic,46492,20.1,False,False,False
+2018,house,Alabama,AL,5,260673,Mo Brooks,Republican,159063,61.1,True,True,False
+2018,house,Alabama,AL,5,260673,Peter Joffrion,Democratic,101388,38.9,False,False,False
+2018,house,Alabama,AL,6,278328,Gary Palmer,Republican,192542,69.2,True,False,False
+2018,house,Alabama,AL,6,278328,Danner Kline,Democratic,85644,30.8,False,False,False
+2018,house,Alabama,AL,7,189163,Terri Sewell,Democratic,185010,100.0,True,True,False
+2018,house,Alaska,AK,AL,282166,Don Young,Republican,149779,53.3,True,True,False
+2018,house,Alaska,AK,AL,282166,Alyse Galvin,Independent,,46.7,False,False,False
+2018,house,Arizona,AZ,1,266089,Tom O'Halleran,Democratic,143240,53.8,True,True,False
+2018,house,Arizona,AZ,1,266089,Wendy Rogers,Republican,122784,46.2,False,False,False
+2018,house,Arizona,AZ,2,294152,Ann Kirkpatrick,Democratic,161000,54.7,True,False,True
+2018,house,Arizona,AZ,2,294152,Lea Marquez Peterson,Republican,,45.3,False,False,True
+2018,house,Arizona,AZ,3,179518,Raúl Grijalva,Democratic,114650,63.9,True,True,False
+2018,house,Arizona,AZ,3,179518,Nick Pierson,Republican,,36.1,False,False,False
+2018,house,Arizona,AZ,4,277035,Paul Gosar,Republican,188842,68.2,True,True,False
+2018,house,Arizona,AZ,4,277035,David Brill,Democratic,84521,30.5,False,False,False
+2018,house,Arizona,AZ,4,277035,Haryaksha Gregor Knauer,Green,3672,1.3,False,False,False
+2018,house,Arizona,AZ,5,313064,Andy Biggs,Republican,186037,59.4,True,True,False
+2018,house,Arizona,AZ,5,313064,Joan Greene,Democratic,127027,40.6,False,False,False
+2018,house,Arizona,AZ,6,313699,David Schweikert,Republican,173140,55.2,True,True,False
+2018,house,Arizona,AZ,6,313699,Anita Malik,Democratic,140559,44.8,False,False,False
+2018,house,Arizona,AZ,7,132051,Ruben Gallego,Democratic,113044,85.8,True,True,False
+2018,house,Arizona,AZ,7,132051,Gary Swing,Green,18706,14.2,False,False,False
+2018,house,Arizona,AZ,8,304417,Debbie Lesko,Republican,168835,55.5,True,True,False
+2018,house,Arizona,AZ,8,304417,Hiral Tipirneni,Democratic,135569,44.5,False,False,False
+2018,house,Arizona,AZ,9,261245,Greg Stanton,Democratic,159583,61.1,True,False,True
+2018,house,Arizona,AZ,9,261245,Steve Ferrara,Republican,101662,38.9,False,False,True
+2018,house,Arkansas,AR,1,201245,Rick Crawford,Republican,138757,68.9,True,False,False
+2018,house,Arkansas,AR,1,201245,Chintan Desai,Democratic,57907,28.8,False,False,False
+2018,house,Arkansas,AR,1,201245,Elvis Presley,Libertarian,4581,2.3,False,False,False
+2018,house,Arkansas,AR,2,253453,French Hill,Republican,132125,52.1,True,True,False
+2018,house,Arkansas,AR,2,253453,Clarke Tucker,Democratic,116135,45.8,False,False,False
+2018,house,Arkansas,AR,2,253453,Joe Ryne Swafford,Libertarian,,2.0,False,False,False
+2018,house,Arkansas,AR,3,229708,Steve Womack,Republican,148717,64.8,True,True,False
+2018,house,Arkansas,AR,3,229708,Josh Mahony,Democratic,,32.6,False,False,False
+2018,house,Arkansas,AR,3,229708,Michael Kalagias,Libertarian,5899,2.6,False,False,False
+2018,house,Arkansas,AR,4,204892,Bruce Westerman,Republican,136740,66.8,True,True,False
+2018,house,Arkansas,AR,4,204892,Hayden Shamel,Democratic,63984,31.3,False,False,False
+2018,house,Arkansas,AR,4,204892,Tom Canada,Libertarian,3952,1.9,False,False,False
+2018,house,California,CA,1,291594,Doug LaMalfa,Republican,160046,54.9,True,True,False
+2018,house,California,CA,1,291594,Audrey Denney,Democratic,131548,45.1,False,False,False
+2018,house,California,CA,2,315657,Jared Huffman,Democratic,243081,77.0,True,True,False
+2018,house,California,CA,2,315657,Dale Mensing,Republican,,23.0,False,False,False
+2018,house,California,CA,3,232251,John Garamendi,Democratic,134875,58.1,True,True,False
+2018,house,California,CA,3,232251,Charlie Schaupp,Republican,97376,41.9,False,False,False
+2018,house,California,CA,4,340654,Tom McClintock,Republican,184401,54.1,True,True,False
+2018,house,California,CA,4,340654,Jessica Morse,Democratic,156253,45.9,False,False,False
+2018,house,California,CA,5,261018,Mike Thompson,Democratic,205860,78.9,True,False,False
+2018,house,California,CA,5,261018,Anthony Mills,Independent,55158,21.1,False,False,False
+2018,house,California,CA,6,201939,Doris Matsui,Democratic,162411,80.4,True,True,False
+2018,house,California,CA,6,201939,Jrmar Jefferson,Democratic,39528,19.6,False,False,False
+2018,house,California,CA,7,281617,Ami Bera,Democratic,155016,55.0,True,True,False
+2018,house,California,CA,7,281617,Andrew Grant,Republican,126601,45.0,False,False,False
+2018,house,California,CA,8,170785,Paul Cook,Republican,102415,60.0,True,True,False
+2018,house,California,CA,8,170785,Tim Donnelly,Republican,68370,40.0,False,False,False
+2018,house,California,CA,9,200763,Jerry McNerney,Democratic,113414,56.5,True,True,False
+2018,house,California,CA,9,200763,Marla Livengood,Republican,87349,43.5,False,False,False
+2018,house,California,CA,10,221900,Josh Harder,Democratic,115945,52.3,True,False,False
+2018,house,California,CA,10,221900,Jeff Denham,Republican,105955,47.7,False,True,False
+2018,house,California,CA,11,275681,Mark DeSaulnier,Democratic,204369,74.1,True,True,False
+2018,house,California,CA,11,275681,John Fitzgerald,Republican,71312,25.9,False,False,False
+2018,house,California,CA,12,317072,Nancy Pelosi,Democratic,275292,86.8,True,True,False
+2018,house,California,CA,12,317072,Lisa Remmer,Republican,41780,13.2,False,False,False
+2018,house,California,CA,13,294837,Barbara Lee,Democratic,260580,88.4,True,True,False
+2018,house,California,CA,13,294837,Laura Wells,Green,34257,11.6,False,False,False
+2018,house,California,CA,14,266823,Jackie Speier,Democratic,211384,79.2,True,True,False
+2018,house,California,CA,14,266823,Cristina Osmeña,Republican,55439,20.8,False,False,False
+2018,house,California,CA,15,243929,Eric Swalwell,Democratic,177989,73.0,True,True,False
+2018,house,California,CA,15,243929,Rudy Peters,Republican,65940,27.0,False,False,False
+2018,house,California,CA,16,142959,Jim Costa,Democratic,82266,57.5,True,True,False
+2018,house,California,CA,16,142959,Elizabeth Heng,Republican,60693,42.5,False,False,False
+2018,house,California,CA,17,211162,Ro Khanna,Democratic,159105,75.3,True,True,False
+2018,house,California,CA,17,211162,Ron Cohen,Republican,52057,24.7,False,False,False
+2018,house,California,CA,18,302238,Anna Eshoo,Democratic,225142,74.5,True,True,False
+2018,house,California,CA,18,302238,Christine Russell,Republican,77096,25.5,False,False,False
+2018,house,California,CA,19,220319,Zoe Lofgren,Democratic,162496,73.8,True,True,False
+2018,house,California,CA,19,220319,Justin Aguilera,Republican,,26.2,False,False,False
+2018,house,California,CA,20,225721,Jimmy Panetta,Democratic,183677,81.4,True,True,False
+2018,house,California,CA,20,225721,Ronald Kabat,Independent,,18.6,False,False,False
+2018,house,California,CA,21,113616,TJ Cox,Democratic,57239,50.4,True,False,False
+2018,house,California,CA,21,113616,David Valadao,Republican,56377,49.6,False,True,False
+2018,house,California,CA,22,222379,Devin Nunes,Republican,117243,52.7,True,True,False
+2018,house,California,CA,22,222379,Andrew Janz,Democratic,105136,47.3,False,False,False
+2018,house,California,CA,23,205774,Kevin McCarthy,Republican,131113,63.7,True,False,False
+2018,house,California,CA,23,205774,Tatiana Matta,Democratic,74661,36.3,False,False,False
+2018,house,California,CA,24,284431,Salud Carbajal,Democratic,166550,58.6,True,True,False
+2018,house,California,CA,24,284431,Justin Fareed,Republican,117881,41.4,False,False,False
+2018,house,California,CA,25,245022,Katie Hill,Democratic,133209,54.4,True,False,False
+2018,house,California,CA,25,245022,Steve Knight,Republican,111813,45.6,False,False,False
+2018,house,California,CA,26,255426,Julia Brownley,Democratic,158216,61.9,True,True,False
+2018,house,California,CA,26,255426,Antonio Sabàto Jr.,Republican,97210,38.1,False,False,False
+2018,house,California,CA,27,202636,Judy Chu,Democratic,160504,79.2,True,True,False
+2018,house,California,CA,27,202636,Bryan Witt,Democratic,42132,20.8,False,False,False
+2018,house,California,CA,28,250934,Adam Schiff,Democratic,196662,78.4,True,True,False
+2018,house,California,CA,28,250934,Johnny Nalbandian,Republican,54272,21.6,False,False,False
+2018,house,California,CA,29,154692,Tony Cárdenas,Democratic,124697,80.6,True,True,False
+2018,house,California,CA,29,154692,Benito Bernal,Republican,,19.4,False,False,False
+2018,house,California,CA,30,260993,Brad Sherman,Democratic,191573,73.4,True,True,False
+2018,house,California,CA,30,260993,Mark Reed,Republican,69420,26.6,False,False,False
+2018,house,California,CA,31,187495,Pete Aguilar,Democratic,110143,58.7,True,True,False
+2018,house,California,CA,31,187495,Sean Flynn,Republican,77352,41.3,False,False,False
+2018,house,California,CA,32,177031,Grace Napolitano,Democratic,121759,68.8,True,True,False
+2018,house,California,CA,32,177031,Joshua Scott,Republican,,31.2,False,False,False
+2018,house,California,CA,33,312860,Ted Lieu,Democratic,219091,70.0,True,True,False
+2018,house,California,CA,33,312860,Kenneth Wright,Republican,93769,30.0,False,False,False
+2018,house,California,CA,34,151906,Jimmy Gomez,Democratic,110195,72.5,True,True,False
+2018,house,California,CA,34,151906,Kenneth Mejia,Green,41711,27.5,False,False,False
+2018,house,California,CA,35,149024,Norma Torres,Democratic,103420,69.4,True,True,False
+2018,house,California,CA,35,149024,Christian Valiente,Republican,45604,30.6,False,False,False
+2018,house,California,CA,36,207008,Raul Ruiz,Democratic,122169,59.0,True,False,False
+2018,house,California,CA,36,207008,Kimberlin Brown Pelzer,Republican,84839,41.0,False,False,False
+2018,house,California,CA,37,236378,Karen Bass,Democratic,210555,89.1,True,True,False
+2018,house,California,CA,37,236378,Ron Bassilian,Republican,,10.9,False,False,False
+2018,house,California,CA,38,202156,Linda Sánchez,Democratic,139188,68.9,True,True,False
+2018,house,California,CA,38,202156,Ryan Downing,Republican,62968,31.1,False,False,False
+2018,house,California,CA,39,244393,Gil Cisneros,Democratic,126002,51.6,True,False,True
+2018,house,California,CA,39,244393,Young Kim,Republican,118391,48.4,False,False,True
+2018,house,California,CA,40,121449,Lucille Roybal-Allard,Democratic,93938,77.3,True,True,False
+2018,house,California,CA,40,121449,Rodolfo Barragan,Green,,22.7,False,False,False
+2018,house,California,CA,41,166248,Mark Takano,Democratic,108227,65.1,True,True,False
+2018,house,California,CA,41,166248,Aja Smith,Republican,58021,34.9,False,False,False
+2018,house,California,CA,42,231932,Ken Calvert,Republican,131040,56.5,True,True,False
+2018,house,California,CA,42,231932,Julia Peacock,Democratic,,43.5,False,False,False
+2018,house,California,CA,43,196052,Maxine Waters,Democratic,152272,77.7,True,True,False
+2018,house,California,CA,43,196052,Omar Navarro,Republican,43780,22.3,False,False,False
+2018,house,California,CA,44,143322,Nanette Barragán,Democratic,97944,68.3,True,True,False
+2018,house,California,CA,44,143322,Aja Brown,Democratic,45378,31.7,False,False,False
+2018,house,California,CA,45,305289,Katie Porter,Democratic,158906,52.1,True,False,False
+2018,house,California,CA,45,305289,Mimi Walters,Republican,146383,47.9,False,True,False
+2018,house,California,CA,46,147916,Lou Correa,Democratic,102278,69.1,True,True,False
+2018,house,California,CA,46,147916,Russell Lambert,Republican,,30.9,False,False,False
+2018,house,California,CA,47,221036,Alan Lowenthal,Democratic,143354,64.9,True,True,False
+2018,house,California,CA,47,221036,John Briscoe,Republican,77682,35.1,False,False,False
+2018,house,California,CA,48,294736,Harley Rouda,Democratic,157837,53.6,True,False,False
+2018,house,California,CA,48,294736,Dana Rohrabacher,Republican,136899,46.4,False,True,False
+2018,house,California,CA,49,295030,Mike Levin,Democratic,166453,56.4,True,False,True
+2018,house,California,CA,49,295030,Diane Harkey,Republican,128577,43.6,False,False,True
+2018,house,California,CA,50,259810,Duncan D. Hunter,Republican,134362,51.7,True,True,False
+2018,house,California,CA,50,259810,Ammar Campa-Najjar,Democratic,125448,48.3,False,False,False
+2018,house,California,CA,51,153828,Juan Vargas,Democratic,109527,71.2,True,True,False
+2018,house,California,CA,51,153828,Juan Hidalgo,Republican,,28.8,False,False,False
+2018,house,California,CA,52,296007,Scott Peters,Democratic,188992,63.8,True,False,False
+2018,house,California,CA,52,296007,Omar Qudrat,Republican,107015,36.2,False,False,False
+2018,house,California,CA,53,268794,Susan Davis,Democratic,185667,69.1,True,False,False
+2018,house,California,CA,53,268794,Morgan Murtaugh,Republican,83127,30.9,False,False,False
+2018,house,Colorado,CO,1,369715,Diana DeGette,Democratic,272886,73.8,True,True,False
+2018,house,Colorado,CO,1,369715,Casper Stockham,Republican,85207,23.0,False,False,False
+2018,house,Colorado,CO,2,430765,Joe Neguse,Democratic,259608,60.3,True,False,True
+2018,house,Colorado,CO,2,430765,Peter Yu,Republican,144901,33.6,False,False,True
+2018,house,Colorado,CO,3,336201,Scott Tipton,Republican,173205,51.5,True,True,False
+2018,house,Colorado,CO,3,336201,Diane Mitsch Bush,Democratic,146426,43.6,False,False,False
+2018,house,Colorado,CO,4,369620,Ken Buck,Republican,224038,60.6,True,True,False
+2018,house,Colorado,CO,4,369620,Karen McCormick,Democratic,145544,39.4,False,False,False
+2018,house,Colorado,CO,5,322716,Doug Lamborn,Republican,184002,57.0,True,True,False
+2018,house,Colorado,CO,5,322716,Stephany Rose Spaulding,Democratic,126848,39.3,False,False,False
+2018,house,Colorado,CO,6,346822,Jason Crow,Democratic,187639,54.1,True,False,False
+2018,house,Colorado,CO,6,346822,Mike Coffman,Republican,148685,42.9,False,True,False
+2018,house,Colorado,CO,7,338067,Ed Perlmutter,Democratic,204260,60.4,True,True,False
+2018,house,Colorado,CO,7,338067,Mark Barrington,Republican,119734,35.4,False,False,False
+2018,house,Connecticut,CT,1,274140,John B. Larson,Democratic,,63.9,True,True,False
+2018,house,Connecticut,CT,1,274140,Jennifer Nye,Republican,96024,35.0,False,False,False
+2018,house,Connecticut,CT,1,274140,Thomas McCormick,Green,,1.1,False,False,False
+2018,house,Connecticut,CT,2,289114,Joe Courtney,Democratic,179731,62.2,True,False,False
+2018,house,Connecticut,CT,2,289114,Danny Postemski,Republican,,35.4,False,False,False
+2018,house,Connecticut,CT,2,289114,Michelle Bicking,Green,,1.2,False,False,False
+2018,house,Connecticut,CT,3,270239,Rosa DeLauro,Democratic,174572,64.6,True,True,False
+2018,house,Connecticut,CT,3,270239,Angel Cadena,Republican,95667,35.4,False,False,False
+2018,house,Connecticut,CT,4,275651,Jim Himes,Democratic,168726,61.2,True,True,False
+2018,house,Connecticut,CT,4,275651,Harry Arora,Republican,106921,38.8,False,False,False
+2018,house,Connecticut,CT,5,270664,Jahana Hayes,Democratic,151225,55.9,True,False,True
+2018,house,Connecticut,CT,5,270664,Manny Santos,Republican,119426,44.1,False,False,True
+2018,house,Delaware,DE,AL,353814,Lisa Blunt Rochester,Democratic,227353,64.5,True,True,False
+2018,house,Delaware,DE,AL,353814,Scott Walker,Republican,125384,35.5,False,False,False
+2018,house,Florida,FL,1,322388,Matt Gaetz,Republican,216189,67.1,True,True,False
+2018,house,Florida,FL,1,322388,Jennifer Zimmerman,Democratic,,32.9,False,False,False
+2018,house,Florida,FL,2,295568,Neal Dunn,Republican,199335,67.4,True,True,False
+2018,house,Florida,FL,2,295568,Bob Rackleff,Democratic,96233,32.6,False,False,False
+2018,house,Florida,FL,3,306496,Ted Yoho,Republican,176616,57.6,True,True,False
+2018,house,Florida,FL,3,306496,Yvonne Hayes Hinson,Democratic,129880,42.4,False,False,False
+2018,house,Florida,FL,4,381249,John Rutherford,Republican,248420,65.2,True,False,False
+2018,house,Florida,FL,4,381249,Ges Selmont,Democratic,123351,32.3,False,False,False
+2018,house,Florida,FL,4,381249,Joceline Berrios,Independent,7155,1.9,False,False,False
+2018,house,Florida,FL,4,381249,Jason Bulger,Independent,2321,0.6,False,False,False
+2018,house,Florida,FL,5,270326,Al Lawson,Democratic,180527,66.8,True,True,False
+2018,house,Florida,FL,5,270326,Virginia Fuller,Republican,89799,33.2,False,False,False
+2018,house,Florida,FL,6,333649,Mike Waltz,Republican,187891,56.3,True,False,True
+2018,house,Florida,FL,6,333649,Nancy Soderberg,Democratic,145758,43.7,False,False,True
+2018,house,Florida,FL,7,317398,Stephanie Murphy,Democratic,183113,57.7,True,True,False
+2018,house,Florida,FL,7,317398,Mike Miller,Republican,134285,42.3,False,False,False
+2018,house,Florida,FL,8,360527,Bill Posey,Republican,218112,60.5,True,True,False
+2018,house,Florida,FL,8,360527,Sanjay Patel,Democratic,142415,39.5,False,False,False
+2018,house,Florida,FL,9,296737,Darren Soto,Democratic,172172,58.0,True,True,False
+2018,house,Florida,FL,9,296737,Wayne Liebnitzky,Republican,124565,42.0,False,False,False
+2018,house,Florida,FL,10,,Val Demings,Democratic,,100.0,True,True,False
+2018,house,Florida,FL,11,367506,Daniel Webster,Republican,239395,65.2,True,True,False
+2018,house,Florida,FL,11,367506,Dana Cottrell,Democratic,128053,34.8,False,False,False
+2018,house,Florida,FL,12,334918,Gus Bilirakis,Republican,194564,58.1,True,True,False
+2018,house,Florida,FL,12,334918,Chris Hunter,Democratic,132844,39.7,False,False,False
+2018,house,Florida,FL,12,334918,Angelika Purkis,Independent,7510,2.2,False,False,False
+2018,house,Florida,FL,13,316971,Charlie Crist,Democratic,182717,57.6,True,True,False
+2018,house,Florida,FL,13,316971,George Buck,Republican,134254,42.4,False,False,False
+2018,house,Florida,FL,14,,Kathy Castor,Democratic,,100.0,True,True,False
+2018,house,Florida,FL,15,285532,Ross Spano,Republican,151380,53.0,True,False,True
+2018,house,Florida,FL,15,285532,Kristen Carlson,Democratic,134132,47.0,False,False,True
+2018,house,Florida,FL,16,361946,Vern Buchanan,Republican,197483,54.6,True,True,False
+2018,house,Florida,FL,16,361946,David Shapiro,Democratic,164463,45.4,False,False,False
+2018,house,Florida,FL,17,310520,Greg Steube,Republican,193326,62.3,True,False,True
+2018,house,Florida,FL,17,310520,Allen Ellison,Democratic,117194,37.7,False,False,True
+2018,house,Florida,FL,18,342359,Brian Mast,Republican,185905,54.3,True,True,False
+2018,house,Florida,FL,18,342359,Lauren Baer,Democratic,156454,45.7,False,False,False
+2018,house,Florida,FL,19,339607,Francis Rooney,Republican,211465,62.3,True,True,False
+2018,house,Florida,FL,19,339607,David Holden,Democratic,128106,37.7,False,False,False
+2018,house,Florida,FL,20,202824,Alcee Hastings,Democratic,202659,100.0,True,True,False
+2018,house,Florida,FL,21,,Lois Frankel,Democratic,,100.0,True,True,False
+2018,house,Florida,FL,22,297683,Ted Deutch,Democratic,184634,62.0,True,True,False
+2018,house,Florida,FL,22,297683,Nicolas Kimaz,Republican,113049,38.0,False,False,False
+2018,house,Florida,FL,23,276366,Debbie Wasserman Schultz,Democratic,161611,58.5,True,True,False
+2018,house,Florida,FL,23,276366,Joseph Kaufman,Republican,,36.0,False,False,False
+2018,house,Florida,FL,23,276366,Tim Canova,Independent,13697,5.0,False,False,False
+2018,house,Florida,FL,23,276366,Don Endriss,Independent,1612,0.6,False,False,False
+2018,house,Florida,FL,24,,Frederica Wilson,Democratic,,100.0,True,True,False
+2018,house,Florida,FL,25,212845,Mario Díaz-Balart,Republican,128672,60.5,True,True,False
+2018,house,Florida,FL,25,212845,Mary Barzee Flores,Democratic,84173,39.5,False,False,False
+2018,house,Florida,FL,26,235475,Debbie Mucarsel-Powell,Democratic,119797,50.9,True,False,False
+2018,house,Florida,FL,26,235475,Carlos Curbelo,Republican,115678,49.1,False,True,False
+2018,house,Florida,FL,27,252586,Donna Shalala,Democratic,130743,51.8,True,False,True
+2018,house,Florida,FL,27,252586,María Elvira Salazar,Republican,,45.8,False,False,True
+2018,house,Florida,FL,27,252586,Mayra Joli,Independent,6255,2.5,False,False,True
+2018,house,Georgia,GA,1,250683,Buddy Carter,Republican,144741,57.7,True,True,False
+2018,house,Georgia,GA,1,250683,Lisa Ring,Democratic,105942,42.3,False,False,False
+2018,house,Georgia,GA,2,229171,Sanford Bishop,Democratic,136699,59.6,True,True,False
+2018,house,Georgia,GA,2,229171,Herman West,Republican,92472,40.4,False,False,False
+2018,house,Georgia,GA,3,293006,Drew Ferguson,Republican,191996,65.5,True,True,False
+2018,house,Georgia,GA,3,293006,Chuck Enderlin,Democratic,101010,34.5,False,False,False
+2018,house,Georgia,GA,4,288809,Hank Johnson,Democratic,227717,78.8,True,True,False
+2018,house,Georgia,GA,4,288809,Joe Profit,Republican,61092,21.2,False,False,False
+2018,house,Georgia,GA,5,275406,John Lewis,Democratic,275406,100.0,True,True,False
+2018,house,Georgia,GA,6,317014,Lucy McBath,Democratic,160139,50.5,True,False,False
+2018,house,Georgia,GA,6,317014,Karen Handel,Republican,156875,49.5,False,True,False
+2018,house,Georgia,GA,7,280453,Rob Woodall,Republican,140443,50.07,True,True,False
+2018,house,Georgia,GA,7,280453,Carolyn Bourdeaux,Democratic,140010,49.93,False,False,False
+2018,house,Georgia,GA,8,198200,Austin Scott,Republican,198152,99.7,True,False,False
+2018,house,Georgia,GA,9,282573,Doug Collins,Republican,224661,79.5,True,False,False
+2018,house,Georgia,GA,9,282573,Josh McCall,Democratic,57912,20.5,False,False,False
+2018,house,Georgia,GA,10,302735,Jody Hice,Republican,190396,62.9,True,True,False
+2018,house,Georgia,GA,10,302735,Tabitha Johnson-Green,Democratic,112339,37.1,False,False,False
+2018,house,Georgia,GA,11,310540,Barry Loudermilk,Republican,191887,61.8,True,True,False
+2018,house,Georgia,GA,11,310540,Flynn Broady,Democratic,118653,38.2,False,False,False
+2018,house,Georgia,GA,12,250489,Rick Allen,Republican,,59.5,True,True,False
+2018,house,Georgia,GA,12,250489,Francys Johnson,Democratic,101503,40.5,False,False,False
+2018,house,Georgia,GA,13,292917,David Scott,Democratic,223157,76.2,True,True,False
+2018,house,Georgia,GA,13,292917,David Callahan,Republican,69760,23.8,False,False,False
+2018,house,Georgia,GA,14,229724,Tom Graves,Republican,175743,76.5,True,True,False
+2018,house,Georgia,GA,14,229724,Steve Foster,Democratic,,23.5,False,False,False
+2018,house,Hawaii,HI,1,184211,Ed Case,Democratic,134650,73.1,True,False,True
+2018,house,Hawaii,HI,1,184211,Cam Cavasso,Republican,,23.1,False,False,True
+2018,house,Hawaii,HI,1,184211,Michelle Tippens,Libertarian,3498,1.9,False,False,True
+2018,house,Hawaii,HI,1,184211,Zachary Burd,Green,,1.2,False,False,True
+2018,house,Hawaii,HI,1,184211,Calvin Griffin,Independent,1351,0.7,False,False,True
+2018,house,Hawaii,HI,2,198121,Tulsi Gabbard,Democratic,153271,77.4,True,True,False
+2018,house,Hawaii,HI,2,198121,Brian Evans,Republican,44850,22.6,False,False,False
+2018,house,Idaho,ID,1,314527,Russ Fulcher,Republican,197167,62.8,True,False,True
+2018,house,Idaho,ID,1,314527,Cristina McNeil,Democratic,96932,30.8,False,False,True
+2018,house,Idaho,ID,1,314527,Natalie Fleming,Independent,6188,2.0,False,False,True
+2018,house,Idaho,ID,1,314527,W. Scott Howard,Libertarian,5435,1.7,False,False,True
+2018,house,Idaho,ID,1,314527,Paul Farmer,Independent,4479,1.4,False,False,True
+2018,house,Idaho,ID,1,314527,Pro-Life,Constitution,,1.0,False,False,True
+2018,house,Idaho,ID,1,314527,Gordon Counsil,Independent,1054,0.3,False,False,True
+2018,house,Idaho,ID,2,280655,Mike Simpson,Republican,170274,60.7,True,True,False
+2018,house,Idaho,ID,2,280655,Aaron Swisher,Democratic,110381,39.3,False,False,False
+2018,house,Illinois,IL,1,257885,Bobby Rush,Democratic,189560,73.5,True,True,False
+2018,house,Illinois,IL,1,257885,Jimmy Tillman,Republican,,19.8,False,False,False
+2018,house,Illinois,IL,2,235251,Robin Kelly,Democratic,190684,81.1,True,True,False
+2018,house,Illinois,IL,2,235251,David Merkle,Republican,44567,18.9,False,False,False
+2018,house,Illinois,IL,3,223334,Dan Lipinski,Democratic,163053,73.8,True,True,False
+2018,house,Illinois,IL,3,223334,Arthur Jones,Republican,57885,26.2,False,False,False
+2018,house,Illinois,IL,4,166189,Chuy García,Democratic,,86.6,True,False,True
+2018,house,Illinois,IL,4,166189,Mark Lorch,Republican,22294,13.4,False,False,True
+2018,house,Illinois,IL,5,279131,Mike Quigley,Democratic,213992,76.7,True,False,False
+2018,house,Illinois,IL,5,279131,Tom Hanson,Republican,65134,23.3,False,False,False
+2018,house,Illinois,IL,6,315446,Sean Casten,Democratic,169001,53.6,True,False,False
+2018,house,Illinois,IL,6,315446,Peter Roskam,Republican,146445,46.4,False,True,False
+2018,house,Illinois,IL,7,246243,Danny Davis,Democratic,,87.6,True,True,False
+2018,house,Illinois,IL,7,246243,Craig Cameron,Republican,30497,12.4,False,False,False
+2018,house,Illinois,IL,8,197127,Raja Krishnamoorthi,Democratic,130054,66.0,True,True,False
+2018,house,Illinois,IL,8,197127,J. D. Diganvker,Republican,,34.0,False,False,False
+2018,house,Illinois,IL,9,290351,Jan Schakowsky,Democratic,213368,73.5,True,True,False
+2018,house,Illinois,IL,9,290351,John Elleson,Republican,76983,26.5,False,False,False
+2018,house,Illinois,IL,10,238664,Brad Schneider,Democratic,156540,65.6,True,True,False
+2018,house,Illinois,IL,10,238664,Douglas Bennett,Republican,82124,34.4,False,False,False
+2018,house,Illinois,IL,11,227765,Bill Foster,Democratic,145407,63.8,True,False,False
+2018,house,Illinois,IL,11,227765,Nick Stella,Republican,82358,36.2,False,False,False
+2018,house,Illinois,IL,12,261543,Mike Bost,Republican,134884,51.6,True,True,False
+2018,house,Illinois,IL,12,261543,Brendan Kelly,Democratic,118724,45.4,False,False,False
+2018,house,Illinois,IL,12,261543,Randall Auxier,Green,7935,3.0,False,False,False
+2018,house,Illinois,IL,13,270981,Rodney Davis,Republican,136516,50.4,True,False,False
+2018,house,Illinois,IL,13,270981,Betsy Dirksen Londrigan,Democratic,134458,49.6,False,False,False
+2018,house,Illinois,IL,14,297199,Lauren Underwood,Democratic,156035,52.5,True,False,False
+2018,house,Illinois,IL,14,297199,Randy Hultgren,Republican,141164,47.5,False,True,False
+2018,house,Illinois,IL,15,255608,John Shimkus,Republican,181294,70.9,True,True,False
+2018,house,Illinois,IL,15,255608,Kevin Gaither,Democratic,74309,29.1,False,False,False
+2018,house,Illinois,IL,16,255825,Adam Kinzinger,Republican,151254,59.1,True,True,False
+2018,house,Illinois,IL,16,255825,Sara Dady,Democratic,104569,40.9,False,False,False
+2018,house,Illinois,IL,17,229749,Cheri Bustos,Democratic,142659,62.1,True,True,False
+2018,house,Illinois,IL,17,229749,Bill Fawell,Republican,87090,37.9,False,False,False
+2018,house,Illinois,IL,18,291413,Darin LaHood,Republican,195927,67.2,True,True,False
+2018,house,Illinois,IL,18,291413,Junius Rodriguez,Democratic,95486,32.8,False,False,False
+2018,house,Indiana,IN,1,245209,Pete Visclosky,Democratic,159611,65.1,True,True,False
+2018,house,Indiana,IN,1,245209,Mark Leyva,Republican,85594,34.9,False,False,False
+2018,house,Indiana,IN,2,228889,Jackie Walorski,Republican,125499,54.8,True,True,False
+2018,house,Indiana,IN,2,228889,Mel Hall,Democratic,103363,45.2,False,False,False
+2018,house,Indiana,IN,3,245537,Jim Banks,Republican,158927,64.7,True,True,False
+2018,house,Indiana,IN,3,245537,Courtney Tritch,Democratic,86610,35.3,False,False,False
+2018,house,Indiana,IN,4,244363,Jim Baird,Republican,,64.1,True,False,True
+2018,house,Indiana,IN,4,244363,Tobi Beck,Democratic,87824,35.9,False,False,True
+2018,house,Indiana,IN,5,317177,Susan Brooks,Republican,180035,56.8,True,True,False
+2018,house,Indiana,IN,5,317177,Dee Thornton,Democratic,137142,43.2,False,False,False
+2018,house,Indiana,IN,6,241726,Greg Pence,Republican,154260,63.8,True,False,True
+2018,house,Indiana,IN,6,241726,Jeannine Lake,Democratic,,32.9,False,False,True
+2018,house,Indiana,IN,7,217596,André Carson,Democratic,141139,64.9,True,True,False
+2018,house,Indiana,IN,7,217596,Wayne Harmon,Republican,76457,35.1,False,False,False
+2018,house,Indiana,IN,8,244291,Larry Bucshon,Republican,157396,64.4,True,True,False
+2018,house,Indiana,IN,8,244291,William Tanoos,Democratic,86895,35.6,False,False,False
+2018,house,Indiana,IN,9,271361,Trey Hollingsworth,Republican,153271,56.5,True,True,False
+2018,house,Indiana,IN,9,271361,Liz Watson,Democratic,118090,43.5,False,False,False
+2018,house,Iowa,IA,1,334243,Abby Finkenauer,Democratic,170342,51.0,True,False,False
+2018,house,Iowa,IA,1,334243,Rod Blum,Republican,153442,45.9,False,True,False
+2018,house,Iowa,IA,1,334243,Troy Hageman,Libertarian,10285,3.1,False,False,False
+2018,house,Iowa,IA,2,312913,Dave Loebsack,Democratic,171446,54.8,True,True,False
+2018,house,Iowa,IA,2,312913,Christopher Peters,Republican,133287,42.6,False,False,False
+2018,house,Iowa,IA,2,312913,Mike Strauss,Libertarian,,2.0,False,False,False
+2018,house,Iowa,IA,2,312913,Daniel Clark,Independent,1837,0.6,False,False,False
+2018,house,Iowa,IA,3,356241,Cindy Axne,Democratic,175642,49.3,True,False,False
+2018,house,Iowa,IA,3,356241,David Young,Republican,167933,47.2,False,False,False
+2018,house,Iowa,IA,3,356241,Bryan Holder,Libertarian,7267,2.0,False,False,False
+2018,house,Iowa,IA,3,356241,Mark Elworth,Legal Marijuana Now,,0.5,False,False,False
+2018,house,Iowa,IA,3,356241,Paul Knupp,Green,1888,0.5,False,False,False
+2018,house,Iowa,IA,3,356241,Joe Grandanette,Independent,1301,0.4,False,False,False
+2018,house,Iowa,IA,4,313256,Steve King,Republican,157676,50.4,True,True,False
+2018,house,Iowa,IA,4,313256,J. D. Scholten,Democratic,147246,47.0,False,False,False
+2018,house,Iowa,IA,4,313256,Charles Aldrich,Libertarian,6161,2.0,False,False,False
+2018,house,Iowa,IA,4,313256,Edward Peterson,Independent,1962,0.6,False,False,False
+2018,house,Kansas,KS,1,224640,Roger Marshall,Republican,153082,68.1,True,False,False
+2018,house,Kansas,KS,1,224640,Alan LaPolice,Democratic,71558,31.9,False,False,False
+2018,house,Kansas,KS,2,264688,Steve Watkins,Republican,126098,47.6,True,False,True
+2018,house,Kansas,KS,2,264688,Paul Davis,Democratic,123859,46.8,False,False,True
+2018,house,Kansas,KS,2,264688,Kelly Standley,Libertarian,14731,5.6,False,False,True
+2018,house,Kansas,KS,3,318301,Sharice Davids,Democratic,170518,53.6,True,False,False
+2018,house,Kansas,KS,3,318301,Kevin Yoder,Republican,139762,43.9,False,True,False
+2018,house,Kansas,KS,3,318301,Chris Clemmons,Libertarian,8021,2.5,False,False,False
+2018,house,Kansas,KS,4,242693,Ron Estes,Republican,144248,59.4,True,True,False
+2018,house,Kansas,KS,4,242693,James Thompson,Democratic,98445,40.6,False,False,False
+2018,house,Kentucky,KY,1,251016,James Comer,Republican,172167,68.6,True,False,False
+2018,house,Kentucky,KY,1,251016,Paul Walker,Democratic,78849,31.4,False,False,False
+2018,house,Kentucky,KY,2,257345,Brett Guthrie,Republican,171700,66.7,True,True,False
+2018,house,Kentucky,KY,2,257345,Hank Linderman,Democratic,79964,31.1,False,False,False
+2018,house,Kentucky,KY,2,257345,Thomas Loecken,Independent,5681,2.2,False,False,False
+2018,house,Kentucky,KY,3,278720,John Yarmuth,Democratic,173002,62.1,True,True,False
+2018,house,Kentucky,KY,3,278720,Vickie Glisson,Republican,,36.6,False,False,False
+2018,house,Kentucky,KY,3,278720,Gregory Boles,Libertarian,3788,1.4,False,False,False
+2018,house,Kentucky,KY,4,261812,Thomas Massie,Republican,162946,62.2,True,True,False
+2018,house,Kentucky,KY,4,261812,Seth Hall,Democratic,90536,34.6,False,False,False
+2018,house,Kentucky,KY,4,261812,Mike Moffett,Independent,8318,3.2,False,False,False
+2018,house,Kentucky,KY,5,218017,Hal Rogers,Republican,172093,78.9,True,True,False
+2018,house,Kentucky,KY,5,218017,Kenneth Stepp,Democratic,45890,21.1,False,False,False
+2018,house,Kentucky,KY,6,302890,Andy Barr,Republican,154468,51.0,True,False,False
+2018,house,Kentucky,KY,6,302890,Amy McGrath,Democratic,144736,47.8,False,False,False
+2018,house,Kentucky,KY,6,302890,Frank Harris,Libertarian,2150,0.7,False,False,False
+2018,house,Kentucky,KY,6,302890,Rikka Wallin,Independent,1011,0.3,False,False,False
+2018,house,Kentucky,KY,6,302890,James Germalic,Independent,523,0.2,False,False,False
+2018,house,Louisiana,LA,1,269325,Steve Scalise,Republican,192526,71.5,True,True,False
+2018,house,Louisiana,LA,1,269325,Tammy Savoie,Democratic,44262,16.4,False,False,False
+2018,house,Louisiana,LA,1,269325,Lee Ann Dugas,Democratic,18552,6.9,False,False,False
+2018,house,Louisiana,LA,1,269325,Jim Francis,Democratic,8685,3.2,False,False,False
+2018,house,Louisiana,LA,1,269325,Howard Kearney,Libertarian,2806,1.0,False,False,False
+2018,house,Louisiana,LA,1,269325,Ferd Jones,Independent,,0.9,False,False,False
+2018,house,Louisiana,LA,2,235982,Cedric Richmond,Democratic,190182,80.6,True,True,False
+2018,house,Louisiana,LA,2,235982,Jesse Schmidt,Independent,20465,8.7,False,False,False
+2018,house,Louisiana,LA,2,235982,Belden Batiste,Independent,,7.3,False,False,False
+2018,house,Louisiana,LA,2,235982,Shawndra Rodriguez,Independent,8075,3.4,False,False,False
+2018,house,Louisiana,LA,3,245943,Clay Higgins,Republican,136876,55.7,True,True,False
+2018,house,Louisiana,LA,3,245943,Mimi Methvin,Democratic,43729,17.8,False,False,False
+2018,house,Louisiana,LA,3,245943,Josh Guillory,Republican,31387,12.8,False,False,False
+2018,house,Louisiana,LA,3,245943,Rob Anderson,Democratic,13477,5.5,False,False,False
+2018,house,Louisiana,LA,3,245943,Larry Rader,Democratic,9692,3.9,False,False,False
+2018,house,Louisiana,LA,3,245943,Verone Thomas,Democratic,7815,3.2,False,False,False
+2018,house,Louisiana,LA,3,245943,Aaron Andrus,Libertarian,2967,1.2,False,False,False
+2018,house,Louisiana,LA,4,216872,Mike Johnson,Republican,139326,64.2,True,False,False
+2018,house,Louisiana,LA,4,216872,Ryan Trundle,Democratic,72934,33.6,False,False,False
+2018,house,Louisiana,LA,4,216872,Mark Halverson,Independent,,2.1,False,False,False
+2018,house,Louisiana,LA,5,223946,Ralph Abraham,Republican,149018,66.5,True,False,False
+2018,house,Louisiana,LA,5,223946,Jessee Fleenor,Democratic,,30.0,False,False,False
+2018,house,Louisiana,LA,5,223946,Billy Burkette,Independent,4799,2.0,False,False,False
+2018,house,Louisiana,LA,5,223946,Kyle Randol,Libertarian,3011,1.3,False,False,False
+2018,house,Louisiana,LA,6,268525,Garret Graves,Republican,186553,69.5,True,True,False
+2018,house,Louisiana,LA,6,268525,Justin DeWitt,Democratic,55089,20.5,False,False,False
+2018,house,Louisiana,LA,6,268525,Andie Saizan,Democratic,21627,8.1,False,False,False
+2018,house,Louisiana,LA,6,268525,Devin Graham,Independent,5256,2.0,False,False,False
+2018,house,Maine,ME,1,342053,Chellie Pingree,Democratic,201195,58.7,True,True,False
+2018,house,Maine,ME,1,342053,Mark Holbrook,Republican,111188,32.4,False,False,False
+2018,house,Maine,ME,1,342053,Martin Grohman,Independent,,8.9,False,False,False
+2018,house,Maine,ME,2,,Bruce Poliquin,Republican,,46.3,False,True,False
+2018,house,Maine,ME,2,,Jared Golden,Democratic,,45.6,False,False,False
+2018,house,Maine,ME,2,,Tiffany Bond,Independent,,5.7,False,False,False
+2018,house,Maine,ME,2,,Will Hoar,Independent,,2.4,False,False,False
+2018,house,Maine,ME,2,,Jared Golden,Democratic,,50.6,True,False,False
+2018,house,Maine,ME,2,,Bruce Poliquin,Republican,,49.4,False,True,False
+2018,house,Maryland,MD,1,306186,Andy Harris,Republican,183662,60.0,True,False,False
+2018,house,Maryland,MD,1,306186,Jesse Colvin,Democratic,116631,38.1,False,False,False
+2018,house,Maryland,MD,1,306186,Jenica Martin,Libertarian,5744,1.9,False,False,False
+2018,house,Maryland,MD,2,253302,Dutch Ruppersberger,Democratic,167201,66.1,True,True,False
+2018,house,Maryland,MD,2,253302,Liz Matory,Republican,77782,30.7,False,False,False
+2018,house,Maryland,MD,2,253302,Guy Mimoun,Green,,3.2,False,False,False
+2018,house,Maryland,MD,3,292880,John Sarbanes,Democratic,202407,69.2,True,True,False
+2018,house,Maryland,MD,3,292880,Charles Anthony,Republican,82774,28.3,False,False,False
+2018,house,Maryland,MD,3,292880,David Lashar,Libertarian,,2.5,False,False,False
+2018,house,Maryland,MD,4,268583,Anthony Brown,Democratic,209642,78.1,True,True,False
+2018,house,Maryland,MD,4,268583,George McDermott,Republican,53327,19.9,False,False,False
+2018,house,Maryland,MD,4,268583,David Bishop,Libertarian,,2.0,False,False,False
+2018,house,Maryland,MD,5,304479,Steny Hoyer,Democratic,213796,70.4,True,True,False
+2018,house,Maryland,MD,5,304479,William Devine III,Republican,82361,27.1,False,False,False
+2018,house,Maryland,MD,5,304479,Pat Elder,Green,,1.3,False,False,False
+2018,house,Maryland,MD,5,304479,Jacob Pulcher,Libertarian,3592,1.2,False,False,False
+2018,house,Maryland,MD,6,277084,David Trone,Democratic,163346,59.0,True,False,True
+2018,house,Maryland,MD,6,277084,Amie Hoeber,Republican,105209,38.0,False,False,True
+2018,house,Maryland,MD,6,277084,Kevin Caldwell,Libertarian,4972,1.8,False,False,True
+2018,house,Maryland,MD,6,277084,George Gluck,Green,3275,1.2,False,False,True
+2018,house,Maryland,MD,7,264710,Elijah Cummings,Democratic,202345,76.5,True,True,False
+2018,house,Maryland,MD,7,264710,Richmond Davis,Republican,56266,21.3,False,False,False
+2018,house,Maryland,MD,7,264710,Swami Swaminathan,Independent,,2.2,False,False,False
+2018,house,Maryland,MD,8,319330,Jamie Raskin,Democratic,217679,68.2,True,True,False
+2018,house,Maryland,MD,8,319330,John Walsh,Republican,96525,30.3,False,False,False
+2018,house,Maryland,MD,8,319330,Jasen Wunder,Libertarian,4853,1.5,False,False,False
+2018,house,Massachusetts,MA,1,216900,Richard Neal,Democratic,211790,100.0,True,True,False
+2018,house,Massachusetts,MA,2,284893,Jim McGovern,Democratic,191332,67.2,True,False,False
+2018,house,Massachusetts,MA,2,284893,Tracy Lovvorn,Republican,93391,32.8,False,False,False
+2018,house,Massachusetts,MA,3,279327,Lori Trahan,Democratic,173175,62.0,True,False,True
+2018,house,Massachusetts,MA,3,279327,Rick Green,Republican,93445,33.5,False,False,True
+2018,house,Massachusetts,MA,3,279327,Michael Mullen,Independent,,4.5,False,False,True
+2018,house,Massachusetts,MA,4,251016,Joe Kennedy III,Democratic,245289,100.0,True,True,False
+2018,house,Massachusetts,MA,5,311324,Katherine Clark,Democratic,236243,75.9,True,True,False
+2018,house,Massachusetts,MA,5,311324,John Hugo,Republican,74856,24.1,False,False,False
+2018,house,Massachusetts,MA,6,333975,Seth Moulton,Democratic,217703,65.2,True,True,False
+2018,house,Massachusetts,MA,6,333975,Joseph Schneider,Republican,104798,31.4,False,False,False
+2018,house,Massachusetts,MA,6,333975,Mary Jean Charbonneau,Independent,,3.4,False,False,False
+2018,house,Massachusetts,MA,7,220409,Ayanna Pressley,Democratic,216557,100.0,True,False,False
+2018,house,Massachusetts,MA,8,263307,Stephen Lynch,Democratic,259159,100.0,True,True,False
+2018,house,Massachusetts,MA,9,323928,Bill Keating,Democratic,192347,59.4,True,False,False
+2018,house,Massachusetts,MA,9,323928,Peter Tedeschi,Republican,131463,40.6,False,False,False
+2018,house,Michigan,MI,1,332497,Jack Bergman,Republican,187251,56.3,True,True,False
+2018,house,Michigan,MI,1,332497,Matt Morgan,Democratic,145246,43.7,False,False,False
+2018,house,Michigan,MI,2,305463,Bill Huizenga,Republican,168970,55.3,True,True,False
+2018,house,Michigan,MI,2,305463,Rob Davidson,Democratic,131254,43.0,False,False,False
+2018,house,Michigan,MI,2,305463,Ronald Graeser,US Taxpayers,,1.7,False,False,False
+2018,house,Michigan,MI,3,310740,Justin Amash,Republican,169107,54.4,True,True,False
+2018,house,Michigan,MI,3,310740,Cathy Albro,Democratic,134185,43.2,False,False,False
+2018,house,Michigan,MI,3,310740,Ted Gerrard,US Taxpayers,7445,2.4,False,False,False
+2018,house,Michigan,MI,4,285050,John Moolenaar,Republican,178510,62.6,True,True,False
+2018,house,Michigan,MI,4,285050,Jerry Hilliard,Democratic,106540,37.4,False,False,False
+2018,house,Michigan,MI,5,276413,Dan Kildee,Democratic,164502,59.5,True,True,False
+2018,house,Michigan,MI,5,276413,Travis Wines,Republican,99265,35.9,False,False,False
+2018,house,Michigan,MI,5,276413,Kathy Goodwin,Working Class,12646,4.6,False,False,False
+2018,house,Michigan,MI,6,293438,Fred Upton,Republican,147436,50.2,True,True,False
+2018,house,Michigan,MI,6,293438,Matt Longjohn,Democratic,134082,45.7,False,False,False
+2018,house,Michigan,MI,6,293438,Stephen Young,US Taxpayers,11920,4.1,False,False,False
+2018,house,Michigan,MI,7,295060,Tim Walberg,Republican,158730,53.8,True,True,False
+2018,house,Michigan,MI,7,295060,Gretchen Driskell,Democratic,136330,46.2,False,False,False
+2018,house,Michigan,MI,8,341593,Elissa Slotkin,Democratic,172880,50.6,True,False,False
+2018,house,Michigan,MI,8,341593,Mike Bishop,Republican,159782,46.8,False,False,False
+2018,house,Michigan,MI,8,341593,Brian Ellison,Libertarian,6302,1.8,False,False,False
+2018,house,Michigan,MI,8,341593,David Lillis,US Taxpayers,2629,0.8,False,False,False
+2018,house,Michigan,MI,9,304563,Andy Levin,Democratic,181734,59.6,True,False,True
+2018,house,Michigan,MI,9,304563,Candius Stearns,Republican,112123,36.8,False,False,True
+2018,house,Michigan,MI,9,304563,Andrea Kirby,Working Class,6797,2.2,False,False,True
+2018,house,Michigan,MI,9,304563,John McDermott,Green,3909,1.3,False,False,True
+2018,house,Michigan,MI,10,303064,Paul Mitchell,Republican,182808,60.3,True,False,False
+2018,house,Michigan,MI,10,303064,Kimberly Bizon,Democratic,106061,35.0,False,False,False
+2018,house,Michigan,MI,10,303064,Jeremy Peruski,Independent,11344,3.8,False,False,False
+2018,house,Michigan,MI,10,303064,Harley Mikkelson,Green,2851,1.0,False,False,False
+2018,house,Michigan,MI,11,350901,Haley Stevens,Democratic,181912,51.8,True,False,True
+2018,house,Michigan,MI,11,350901,Lena Epstein,Republican,158463,45.2,False,False,True
+2018,house,Michigan,MI,11,350901,Leonard Schwartz,Libertarian,5799,1.7,False,False,True
+2018,house,Michigan,MI,11,350901,Cooper Nye,Independent,4727,1.3,False,False,True
+2018,house,Michigan,MI,12,294628,Debbie Dingell,Democratic,200588,68.1,True,True,False
+2018,house,Michigan,MI,12,294628,Jeff Jones,Republican,85115,28.9,False,False,False
+2018,house,Michigan,MI,12,294628,Gary Walkowicz,Working Class,6712,2.3,False,False,False
+2018,house,Michigan,MI,12,294628,Niles Niemuth,Independent,2213,0.8,False,False,False
+2018,house,Michigan,MI,13,196299,Rashida Tlaib,Democratic,165355,84.6,True,False,True
+2018,house,Michigan,MI,13,196299,Sam Johnson,Working Class,22186,11.3,False,False,True
+2018,house,Michigan,MI,13,196299,Etta Wilcoxon,Green,,4.1,False,False,True
+2018,house,Michigan,MI,14,264994,Brenda Lawrence,Democratic,214334,80.9,True,True,False
+2018,house,Michigan,MI,14,264994,Marc Herschfus,Republican,45899,17.3,False,False,False
+2018,house,Michigan,MI,14,264994,Philip Kolody,Working Class,,1.4,False,False,False
+2018,house,Minnesota,MN,1,291658,Jim Hagedorn,Republican,146199,50.2,True,False,True
+2018,house,Minnesota,MN,1,291658,Dan Feehan,DFL,144884,49.8,False,False,True
+2018,house,Minnesota,MN,2,337965,Angie Craig,DFL,177954,52.8,True,False,False
+2018,house,Minnesota,MN,2,337965,Jason Lewis,Republican,159343,47.2,False,False,False
+2018,house,Minnesota,MN,3,363948,Dean Phillips,DFL,202402,55.7,True,False,False
+2018,house,Minnesota,MN,3,363948,Erik Paulsen,Republican,160839,44.3,False,True,False
+2018,house,Minnesota,MN,4,328615,Betty McCollum,DFL,216866,66.0,True,False,False
+2018,house,Minnesota,MN,4,328615,Greg Ryan,Republican,97746,29.8,False,False,False
+2018,house,Minnesota,MN,4,328615,Susan Pendergast Sindt,Legal Marijuana Now,,4.2,False,False,False
+2018,house,Minnesota,MN,5,343358,Ilhan Omar,DFL,267703,78.2,True,False,True
+2018,house,Minnesota,MN,5,343358,Jennifer Zielinski,Republican,74440,21.8,False,False,True
+2018,house,Minnesota,MN,6,315729,Tom Emmer,Republican,192936,61.2,True,True,False
+2018,house,Minnesota,MN,6,315729,Ian Todd,DFL,122330,38.8,False,False,False
+2018,house,Minnesota,MN,7,281509,Collin Peterson,DFL,146672,52.1,True,False,False
+2018,house,Minnesota,MN,7,281509,Dave Hughes,Republican,134668,47.9,False,False,False
+2018,house,Minnesota,MN,8,314209,Pete Stauber,Republican,159364,50.7,True,False,True
+2018,house,Minnesota,MN,8,314209,Joe Radinovich,DFL,141948,45.2,False,False,True
+2018,house,Minnesota,MN,8,314209,Skip Sandman,Independence,,4.1,False,False,True
+2018,house,Mississippi,MS,1,236521,Trent Kelly,Republican,158245,66.9,True,True,False
+2018,house,Mississippi,MS,1,236521,Randy Wadkins,Democratic,76601,32.4,False,False,False
+2018,house,Mississippi,MS,1,236521,Tracella O'Hara Hill,Reform,,0.7,False,False,False
+2018,house,Mississippi,MS,2,221379,Bennie Thompson,Democratic,158921,71.8,True,True,False
+2018,house,Mississippi,MS,2,221379,Troy Ray,Independent,48104,21.7,False,False,False
+2018,house,Mississippi,MS,2,221379,Irving Harris,Reform,14354,6.5,False,False,False
+2018,house,Mississippi,MS,3,257271,Michael Guest,Republican,160284,62.3,True,False,True
+2018,house,Mississippi,MS,3,257271,Michael Evans,Democratic,94461,36.7,False,False,True
+2018,house,Mississippi,MS,3,257271,Matthew Holland,Reform,2526,1.0,False,False,True
+2018,house,Mississippi,MS,4,223732,Steven Palazzo,Republican,152633,68.2,True,True,False
+2018,house,Mississippi,MS,4,223732,Jeramey Anderson,Democratic,68787,30.7,False,False,False
+2018,house,Mississippi,MS,4,223732,Lajena Sheets,Reform,2312,1.0,False,False,False
+2018,house,Missouri,MO,1,274375,Lacy Clay,Democratic,219781,80.1,True,True,False
+2018,house,Missouri,MO,1,274375,Robert Vroman,Republican,45867,16.7,False,False,False
+2018,house,Missouri,MO,1,274375,Robb Cunningham,Libertarian,8727,3.2,False,False,False
+2018,house,Missouri,MO,2,376066,Ann Wagner,Republican,192477,51.2,True,True,False
+2018,house,Missouri,MO,2,376066,Cort VanOstran,Democratic,177611,47.2,False,False,False
+2018,house,Missouri,MO,2,376066,Larry Kirk,Libertarian,,1.1,False,False,False
+2018,house,Missouri,MO,2,376066,David Arnold,Green,1740,0.5,False,False,False
+2018,house,Missouri,MO,3,324608,Blaine Luetkemeyer,Republican,211243,65.1,True,True,False
+2018,house,Missouri,MO,3,324608,Katy Geppert,Democratic,106589,32.8,False,False,False
+2018,house,Missouri,MO,3,324608,Donald Stolle,Libertarian,6776,2.1,False,False,False
+2018,house,Missouri,MO,4,293316,Vicky Hartzler,Republican,190138,64.8,True,True,False
+2018,house,Missouri,MO,4,293316,Renee Hoagenson,Democratic,95968,32.7,False,False,False
+2018,house,Missouri,MO,4,293316,Mark Bliss,Libertarian,7210,2.4,False,False,False
+2018,house,Missouri,MO,5,283785,Emanuel Cleaver,Democratic,175019,61.7,True,True,False
+2018,house,Missouri,MO,5,283785,Jacob Turk,Republican,101069,35.5,False,False,False
+2018,house,Missouri,MO,5,283785,Alexander Howell,Libertarian,4725,1.7,False,False,False
+2018,house,Missouri,MO,5,283785,Maurice Copeland,Green,2091,0.7,False,False,False
+2018,house,Missouri,MO,5,283785,E. C. Fredland,Constitution,876,0.3,False,False,False
+2018,house,Missouri,MO,6,305409,Sam Graves,Republican,199796,65.4,True,True,False
+2018,house,Missouri,MO,6,305409,Henry Martin,Democratic,97660,32.0,False,False,False
+2018,house,Missouri,MO,6,305409,Dan Hogan,Libertarian,7953,2.6,False,False,False
+2018,house,Missouri,MO,7,296455,Billy Long,Republican,196343,66.2,True,True,False
+2018,house,Missouri,MO,7,296455,Jamie Schoolcraft,Democratic,89190,30.1,False,False,False
+2018,house,Missouri,MO,7,296455,Benjamin Brixey,Libertarian,,3.7,False,False,False
+2018,house,Missouri,MO,8,264399,Jason Smith,Republican,194042,73.4,True,False,False
+2018,house,Missouri,MO,8,264399,Kathy Ellis,Democratic,66151,25.0,False,False,False
+2018,house,Missouri,MO,8,264399,Jonathan Shell,Libertarian,4206,1.6,False,False,False
+2018,house,Montana,MT,AL,504421,Greg Gianforte,Republican,256661,50.9,True,True,False
+2018,house,Montana,MT,AL,504421,Kathleen Williams,Democratic,233284,46.2,False,False,False
+2018,house,Montana,MT,AL,504421,Elinor Swanson,Libertarian,14476,2.9,False,False,False
+2018,house,Nebraska,NE,1,234781,Jeff Fortenberry,Republican,141712,60.4,True,True,False
+2018,house,Nebraska,NE,1,234781,Jessica McClure,Democratic,93069,39.6,False,False,False
+2018,house,Nebraska,NE,2,248485,Don Bacon,Republican,126715,51.0,True,False,False
+2018,house,Nebraska,NE,2,248485,Kara Eastman,Democratic,121770,49.0,False,False,False
+2018,house,Nebraska,NE,3,213304,Adrian Smith,Republican,163650,76.7,True,True,False
+2018,house,Nebraska,NE,3,213304,Paul Theobald,Democratic,49654,23.3,False,False,False
+2018,house,Nevada,NV,1,152201,Dina Titus,Democratic,100707,66.2,True,True,False
+2018,house,Nevada,NV,1,152201,Joyce Bentley,Republican,46978,30.9,False,False,False
+2018,house,Nevada,NV,1,152201,Dan Garfield,Independent American,2454,1.6,False,False,False
+2018,house,Nevada,NV,1,152201,Robert Strawder,Libertarian,,1.4,False,False,False
+2018,house,Nevada,NV,2,287537,Mark Amodei,Republican,167435,58.2,True,True,False
+2018,house,Nevada,NV,2,287537,Clint Koble,Democratic,120102,41.8,False,False,False
+2018,house,Nevada,NV,3,286168,Susie Lee,Democratic,148501,51.9,True,False,True
+2018,house,Nevada,NV,3,286168,Danny Tarkanian,Republican,122566,42.8,False,False,True
+2018,house,Nevada,NV,3,286168,Steve Brown,Libertarian,4555,1.6,False,False,True
+2018,house,Nevada,NV,3,286168,David Goossen,Independent,3627,1.3,False,False,True
+2018,house,Nevada,NV,3,286168,Harry Vickers,Independent American,3481,1.2,False,False,True
+2018,house,Nevada,NV,3,286168,Gil Eisner,Independent,1887,0.7,False,False,True
+2018,house,Nevada,NV,3,286168,Tony Gumina,Independent,1551,0.5,False,False,True
+2018,house,Nevada,NV,4,234868,Steven Horsford,Democratic,121962,51.9,True,False,True
+2018,house,Nevada,NV,4,234868,Cresent Hardy,Republican,102748,43.7,False,False,True
+2018,house,Nevada,NV,4,234868,Warren Markowitz,Independent American,3180,1.4,False,False,True
+2018,house,Nevada,NV,4,234868,Rodney Smith,Independent,2733,1.2,False,False,True
+2018,house,Nevada,NV,4,234868,Gregg Luckner,Libertarian,,0.9,False,False,True
+2018,house,Nevada,NV,4,234868,Dean McGonigle,Independent,2032,0.9,False,False,True
+2018,house,New Hampshire,NH,1,291039,Chris Pappas,Democratic,155884,53.6,True,False,True
+2018,house,New Hampshire,NH,1,291039,Eddie Edwards,Republican,130996,45.0,False,False,True
+2018,house,New Hampshire,NH,1,291039,Dan Belforti,Libertarian,4048,1.4,False,False,True
+2018,house,New Hampshire,NH,2,279705,Annie Kuster,Democratic,,55.6,True,True,False
+2018,house,New Hampshire,NH,2,279705,Steve Negron,Republican,117990,42.2,False,False,False
+2018,house,New Hampshire,NH,2,279705,Justin O'Donnell,Libertarian,6206,2.2,False,False,False
+2018,house,New Jersey,NJ,1,263418,Donald Norcross,Democratic,169628,64.4,True,True,False
+2018,house,New Jersey,NJ,1,263418,Paul Dilks,Republican,,33.3,False,False,False
+2018,house,New Jersey,NJ,1,263418,Robert Shapiro,Independent,2821,1.1,False,False,False
+2018,house,New Jersey,NJ,1,263418,Paul Hamlin,Independent,2368,0.9,False,False,False
+2018,house,New Jersey,NJ,1,263418,Mohammad Kabir,Independent,984,0.4,False,False,False
+2018,house,New Jersey,NJ,2,258363,Jeff Van Drew,Democratic,136685,52.9,True,False,True
+2018,house,New Jersey,NJ,2,258363,Seth Grossman,Republican,116866,45.2,False,False,True
+2018,house,New Jersey,NJ,2,258363,John Ordille,Independent,1726,0.7,False,False,True
+2018,house,New Jersey,NJ,2,258363,Steven Fenichel,Independent,1154,0.4,False,False,True
+2018,house,New Jersey,NJ,2,258363,Anthony Sanchez,Independent,,0.4,False,False,True
+2018,house,New Jersey,NJ,2,258363,William Benfer,Independent,868,0.3,False,False,True
+2018,house,New Jersey,NJ,3,306875,Andy Kim,Democratic,153473,50.0,True,False,False
+2018,house,New Jersey,NJ,3,306875,Tom MacArthur,Republican,149500,48.7,False,True,False
+2018,house,New Jersey,NJ,3,306875,Lawrence Berlinski,Independent,,1.3,False,False,False
+2018,house,New Jersey,NJ,4,294348,Chris Smith,Republican,163065,55.4,True,False,False
+2018,house,New Jersey,NJ,4,294348,Josh Welle,Democratic,,43.1,False,False,False
+2018,house,New Jersey,NJ,4,294348,Michael Rufo,Independent,1387,0.5,False,False,False
+2018,house,New Jersey,NJ,4,294348,Edward Stackhouse,Independent,,0.4,False,False,False
+2018,house,New Jersey,NJ,4,294348,Brian Reynolds,Independent,851,0.3,False,False,False
+2018,house,New Jersey,NJ,4,294348,Felicia Stoler,Independent,844,0.3,False,False,False
+2018,house,New Jersey,NJ,4,294348,Allen Yusufov,Independent,371,0.1,False,False,False
+2018,house,New Jersey,NJ,5,301823,Josh Gottheimer,Democratic,169546,56.2,True,True,False
+2018,house,New Jersey,NJ,5,301823,John McCann,Republican,,42.5,False,False,False
+2018,house,New Jersey,NJ,5,301823,James Tosone,Independent,2115,0.7,False,False,False
+2018,house,New Jersey,NJ,5,301823,Wendy Goetz,Independent,1907,0.6,False,False,False
+2018,house,New Jersey,NJ,6,221195,Frank Pallone,Democratic,,63.6,True,True,False
+2018,house,New Jersey,NJ,6,221195,Rich Pezzullo,Republican,,36.4,False,False,False
+2018,house,New Jersey,NJ,7,322742,Tom Malinowski,Democratic,166985,51.7,True,False,False
+2018,house,New Jersey,NJ,7,322742,Leonard Lance,Republican,150785,46.7,False,True,False
+2018,house,New Jersey,NJ,7,322742,Diane Moxley,Green,2676,0.8,False,False,False
+2018,house,New Jersey,NJ,7,322742,Gregg Mele,Independent,2296,0.7,False,False,False
+2018,house,New Jersey,NJ,8,153455,Albio Sires,Democratic,119881,78.1,True,True,False
+2018,house,New Jersey,NJ,8,153455,John Muniz,Republican,,18.7,False,False,False
+2018,house,New Jersey,NJ,9,200416,Bill Pascrell,Democratic,,70.3,True,True,False
+2018,house,New Jersey,NJ,9,200416,Eric Fisher,Republican,,28.9,False,False,False
+2018,house,New Jersey,NJ,9,200416,Claudio Belusic,Independent,1730,0.8,False,False,False
+2018,house,New Jersey,NJ,10,200159,Donald Payne Jr.,Democratic,,87.6,True,True,False
+2018,house,New Jersey,NJ,10,200159,Agha Khan,Republican,20191,10.1,False,False,False
+2018,house,New Jersey,NJ,10,200159,Cynthia Johnson,Independent,2070,1.0,False,False,False
+2018,house,New Jersey,NJ,10,200159,Joanne Miller,Independent,2038,1.0,False,False,False
+2018,house,New Jersey,NJ,10,200159,Scott Dirona,Independent,,0.3,False,False,False
+2018,house,New Jersey,NJ,11,323574,Mikie Sherrill,Democratic,183684,56.8,True,False,True
+2018,house,New Jersey,NJ,11,323574,Jay Webber,Republican,136322,42.1,False,False,True
+2018,house,New Jersey,NJ,11,323574,Robert Crook,Independent,2182,0.7,False,False,True
+2018,house,New Jersey,NJ,11,323574,Ryan Martinez,Independent,1386,0.4,False,False,True
+2018,house,New Jersey,NJ,12,252375,Bonnie Watson Coleman,Democratic,173334,68.7,True,True,False
+2018,house,New Jersey,NJ,12,252375,Daryl Kipnis,Republican,79041,31.3,False,False,False
+2018,house,New Mexico,NM,1,249162,Deb Haaland,Democratic,147336,59.1,True,False,True
+2018,house,New Mexico,NM,1,249162,Janice Arnold-Jones,Republican,90507,36.3,False,False,True
+2018,house,New Mexico,NM,1,249162,Lloyd Princeton,Libertarian,11319,4.6,False,False,True
+2018,house,New Mexico,NM,2,199256,Xochitl Torres Small,Democratic,101489,50.9,True,False,True
+2018,house,New Mexico,NM,2,199256,Yvette Herrell,Republican,97767,49.1,False,False,True
+2018,house,New Mexico,NM,3,244893,Ben Ray Luján,Democratic,155201,63.4,True,True,False
+2018,house,New Mexico,NM,3,244893,Jerald Steve McFall,Republican,76427,31.2,False,False,False
+2018,house,New Mexico,NM,3,244893,Christopher Manning,Libertarian,13265,5.4,False,False,False
+2018,house,New York,NY,1,270006,Lee Zeldin,Republican,139027,51.5,True,True,False
+2018,house,New York,NY,1,270006,Perry Gershon,Democratic,127991,47.4,False,False,False
+2018,house,New York,NY,1,270006,Kate Browning,Women's Equality,2988,1.1,False,False,False
+2018,house,New York,NY,2,241152,Peter King,Republican,,53.1,True,True,False
+2018,house,New York,NY,2,241152,Liuba Grechen Shirley,Democratic,113074,46.9,False,False,False
+2018,house,New York,NY,3,266970,Thomas Suozzi,Democratic,,59.0,True,True,False
+2018,house,New York,NY,3,266970,Dan DeBono,Republican,109514,41.0,False,False,False
+2018,house,New York,NY,4,260106,Kathleen Rice,Democratic,159535,61.3,True,True,False
+2018,house,New York,NY,4,260106,Ameer Benno,Republican,100571,38.7,False,False,False
+2018,house,New York,NY,5,160500,Gregory Meeks,Democratic,160500,100.0,True,True,False
+2018,house,New York,NY,6,122855,Grace Meng,Democratic,111646,90.9,True,True,False
+2018,house,New York,NY,6,122855,Tom Hillgardner,Green,,9.1,False,False,False
+2018,house,New York,NY,7,157097,Nydia Velázquez,Democratic,146687,93.4,True,True,False
+2018,house,New York,NY,7,157097,Joseph Lieberman,Conservative Party (New York),8670,5.5,False,False,False
+2018,house,New York,NY,7,157097,Jeff Kurzon,Reform,,1.1,False,False,False
+2018,house,New York,NY,8,191404,Hakeem Jeffries,Democratic,180376,94.2,True,True,False
+2018,house,New York,NY,8,191404,Ernest Johnson,Conservative,9997,5.2,False,False,False
+2018,house,New York,NY,8,191404,Jessica White,Reform,1031,0.5,False,False,False
+2018,house,New York,NY,9,203135,Yvette Clarke,Democratic,181455,89.3,True,True,False
+2018,house,New York,NY,9,203135,Lutchi Gayot,Republican,20901,10.3,False,False,False
+2018,house,New York,NY,9,203135,Joel Anabilah-Azumah,Reform,779,0.4,False,False,False
+2018,house,New York,NY,10,210714,Jerry Nadler,Democratic,,82.1,True,True,False
+2018,house,New York,NY,10,210714,Naomi Levin,Republican,37619,17.9,False,False,False
+2018,house,New York,NY,11,192038,Max Rose,Democratic,101823,53.0,True,False,False
+2018,house,New York,NY,11,192038,Dan Donovan,Republican,89441,46.6,False,False,False
+2018,house,New York,NY,11,192038,Henry Bardel,Green,774,0.4,False,False,False
+2018,house,New York,NY,12,251604,Carolyn Maloney,Democratic,217430,86.4,True,True,False
+2018,house,New York,NY,12,251604,Eliot Rabin,Republican,30446,12.1,False,False,False
+2018,house,New York,NY,12,251604,Scott Hutchins,Green,3728,1.5,False,False,False
+2018,house,New York,NY,13,190303,Adriano Espaillat,Democratic,180035,94.6,True,True,False
+2018,house,New York,NY,13,190303,Jineea Butler,Republican,10268,5.4,False,False,False
+2018,house,New York,NY,14,141122,Alexandria Ocasio-Cortez,Democratic,110318,78.2,True,False,False
+2018,house,New York,NY,14,141122,Anthony Pappas,Republican,19202,13.6,False,False,False
+2018,house,New York,NY,14,141122,Joe Crowley,Working Families,,6.6,False,True,False
+2018,house,New York,NY,14,141122,Elizabeth Perri,Conservative Party (New York),2254,1.6,False,False,False
+2018,house,New York,NY,15,129674,José E. Serrano,Democratic,,96.0,True,True,False
+2018,house,New York,NY,15,129674,Jason Gonzalez,Republican,5205,4.0,False,False,False
+2018,house,New York,NY,16,182044,Eliot Engel,Democratic,182044,100.0,True,True,False
+2018,house,New York,NY,17,193318,Nita Lowey,Democratic,170168,88.0,True,True,False
+2018,house,New York,NY,17,193318,Joe Ciardullo,Reform,,12.0,False,False,False
+2018,house,New York,NY,18,251599,Sean Patrick Maloney,Democratic,139564,55.5,True,True,False
+2018,house,New York,NY,18,251599,James O'Donnell,Republican,112035,44.5,False,False,False
+2018,house,New York,NY,19,287894,Antonio Delgado,Democratic,147873,51.4,True,False,False
+2018,house,New York,NY,19,287894,John Faso,Republican,132873,46.2,False,True,False
+2018,house,New York,NY,19,287894,Steven Greenfield,Green,4313,1.5,False,False,False
+2018,house,New York,NY,19,287894,Diane Neal,Independent,2835,1.0,False,False,False
+2018,house,New York,NY,20,265869,Paul Tonko,Democratic,176811,66.5,True,True,False
+2018,house,New York,NY,20,265869,Joe Vitollo,Republican,89058,33.5,False,False,False
+2018,house,New York,NY,21,235267,Elise Stefanik,Republican,131981,56.1,True,True,False
+2018,house,New York,NY,21,235267,Tedra Cobb,Democratic,99791,42.4,False,False,False
+2018,house,New York,NY,21,235267,Lynn Kahn,Green,3437,1.5,False,False,False
+2018,house,New York,NY,22,250957,Anthony Brindisi,Democratic,127715,50.9,True,False,False
+2018,house,New York,NY,22,250957,Claudia Tenney,Republican,123242,49.1,False,True,False
+2018,house,New York,NY,23,240255,Tom Reed,Republican,130323,54.2,True,False,False
+2018,house,New York,NY,23,240255,Tracy Mitrano,Democratic,109932,45.8,False,False,False
+2018,house,New York,NY,24,260146,John Katko,Republican,136920,52.6,True,True,False
+2018,house,New York,NY,24,260146,Dana Balter,Democratic,123226,47.4,False,False,False
+2018,house,New York,NY,25,269980,Joseph Morelle,Democratic,159244,59.0,True,False,True
+2018,house,New York,NY,25,269980,Jim Maxwell,Republican,110736,41.0,False,False,True
+2018,house,New York,NY,26,230654,Brian Higgins,Democratic,169166,73.3,True,True,False
+2018,house,New York,NY,26,230654,Renee Zeno,Republican,61488,26.7,False,False,False
+2018,house,New York,NY,27,285178,Chris Collins,Republican,140146,49.1,True,False,False
+2018,house,New York,NY,27,285178,Nate McMurray,Democratic,139059,48.8,False,False,False
+2018,house,New York,NY,27,285178,Larry Piegza,Reform,5973,2.1,False,False,False
+2018,house,North Carolina,NC,1,272675,G. K. Butterfield,Democratic,190457,69.8,True,True,False
+2018,house,North Carolina,NC,1,272675,Roger Allison,Republican,82218,30.2,False,False,False
+2018,house,North Carolina,NC,2,331704,George Holding,Republican,170072,51.3,True,True,False
+2018,house,North Carolina,NC,2,331704,Linda Coleman,Democratic,151977,45.8,False,False,False
+2018,house,North Carolina,NC,2,331704,Jeff Matemu,Libertarian,9655,2.9,False,False,False
+2018,house,North Carolina,NC,3,187901,Walter B. Jones Jr.,Republican,187901,100.0,True,True,False
+2018,house,North Carolina,NC,4,341403,David Price,Democratic,247067,72.4,True,False,False
+2018,house,North Carolina,NC,4,341403,Steve Von Loor,Republican,,24.0,False,False,False
+2018,house,North Carolina,NC,4,341403,Barbara Howe,Libertarian,12284,3.6,False,False,False
+2018,house,North Carolina,NC,5,280385,Virginia Foxx,Republican,159917,57.0,True,True,False
+2018,house,North Carolina,NC,5,280385,D. D. Adams,Democratic,,43.0,False,False,False
+2018,house,North Carolina,NC,6,284360,Mark Walker,Republican,160709,56.5,True,False,False
+2018,house,North Carolina,NC,6,284360,Ryan Watts,Democratic,123651,43.5,False,False,False
+2018,house,North Carolina,NC,7,282312,David Rouzer,Republican,156809,55.5,True,True,False
+2018,house,North Carolina,NC,7,282312,Kyle Horton,Democratic,120838,42.8,False,False,False
+2018,house,North Carolina,NC,7,282312,David Fallin,Constitution,4665,1.6,False,False,False
+2018,house,North Carolina,NC,8,255521,Richard Hudson,Republican,141402,55.3,True,False,False
+2018,house,North Carolina,NC,8,255521,Frank McNeill,Democratic,114119,44.7,False,False,False
+2018,house,North Carolina,NC,9,282717,Mark Harris,Republican,139246,49.3,False,False,True
+2018,house,North Carolina,NC,9,282717,Dan McCready,Democratic,138341,48.9,False,False,True
+2018,house,North Carolina,NC,9,282717,Jeff Scott,Libertarian,5130,1.8,False,False,True
+2018,house,North Carolina,NC,10,278228,Patrick McHenry,Republican,164969,59.3,True,True,False
+2018,house,North Carolina,NC,10,278228,David Brown,Democratic,,40.7,False,False,False
+2018,house,North Carolina,NC,11,300666,Mark Meadows,Republican,178012,59.2,True,False,False
+2018,house,North Carolina,NC,11,300666,Phillip Price,Democratic,116508,38.7,False,False,False
+2018,house,North Carolina,NC,11,300666,Clifton Ingram,Libertarian,6146,2.0,False,False,False
+2018,house,North Carolina,NC,12,279138,Alma Adams,Democratic,203974,73.1,True,True,False
+2018,house,North Carolina,NC,12,279138,Paul Wright,Republican,75164,26.9,False,False,False
+2018,house,North Carolina,NC,13,286316,Ted Budd,Republican,147570,51.5,True,True,False
+2018,house,North Carolina,NC,13,286316,Kathy Manning,Democratic,130402,45.5,False,False,False
+2018,house,North Carolina,NC,13,286316,Tom Bailey,Libertarian,5513,2.0,False,False,False
+2018,house,North Dakota,ND,AL,321532,Kelly Armstrong,Republican,193568,60.3,True,False,True
+2018,house,North Dakota,ND,AL,321532,Mac Schneider,Democratic-NPL,114377,35.6,False,False,True
+2018,house,North Dakota,ND,AL,321532,Charles Tuttle,Independent,13066,4.1,False,False,True
+2018,house,Ohio,OH,1,300871,Steve Chabot,Republican,154409,51.3,True,True,False
+2018,house,Ohio,OH,1,300871,Aftab Pureval,Democratic,141118,46.9,False,False,False
+2018,house,Ohio,OH,1,300871,Dirk Kubala,Libertarian,5339,1.8,False,False,False
+2018,house,Ohio,OH,2,289661,Brad Wenstrup,Republican,166714,57.6,True,True,False
+2018,house,Ohio,OH,2,289661,Jill Schiller,Democratic,119333,41.2,False,False,False
+2018,house,Ohio,OH,2,289661,James Condit,Green,,1.2,False,False,False
+2018,house,Ohio,OH,3,246677,Joyce Beatty,Democratic,181575,73.6,True,True,False
+2018,house,Ohio,OH,3,246677,James Burgess,Republican,,26.4,False,False,False
+2018,house,Ohio,OH,4,257405,Jim Jordan,Republican,167993,65.3,True,False,False
+2018,house,Ohio,OH,4,257405,Janet Garrett,Democratic,99655,34.7,False,False,False
+2018,house,Ohio,OH,5,283617,Bob Latta,Republican,176569,62.3,True,True,False
+2018,house,Ohio,OH,5,283617,Michael Galbraith,Democratic,,35.1,False,False,False
+2018,house,Ohio,OH,5,283617,Don Kissick,Libertarian,7393,2.6,False,False,False
+2018,house,Ohio,OH,6,249490,Bill Johnson,Republican,172774,69.3,True,False,False
+2018,house,Ohio,OH,6,249490,Shawna Roberts,Democratic,76716,30.7,False,False,False
+2018,house,Ohio,OH,7,260653,Bob Gibbs,Republican,153117,58.7,True,True,False
+2018,house,Ohio,OH,7,260653,Ken Harbaugh,Democratic,107536,41.3,False,False,False
+2018,house,Ohio,OH,8,261133,Warren Davidson,Republican,173852,66.6,True,True,False
+2018,house,Ohio,OH,8,261133,Vanessa Enoch,Democratic,87281,33.4,False,False,False
+2018,house,Ohio,OH,9,231937,Marcy Kaptur,Democratic,157219,67.8,True,True,False
+2018,house,Ohio,OH,9,231937,Steve Kraus,Republican,74670,32.2,False,False,False
+2018,house,Ohio,OH,10,281726,Mike Turner,Republican,157554,55.9,True,True,False
+2018,house,Ohio,OH,10,281726,Theresa Gasper,Democratic,118785,42.2,False,False,False
+2018,house,Ohio,OH,10,281726,David Harlow,Libertarian,,1.9,False,False,False
+2018,house,Ohio,OH,11,250660,Marcia Fudge,Democratic,206138,82.2,True,True,False
+2018,house,Ohio,OH,11,250660,Beverly Goldstein,Republican,,17.8,False,False,False
+2018,house,Ohio,OH,12,341647,Troy Balderson,Republican,175677,51.4,True,True,False
+2018,house,Ohio,OH,12,341647,Danny O'Connor,Democratic,161251,47.2,False,False,False
+2018,house,Ohio,OH,12,341647,Joseph Manchik,Green,,1.4,False,False,False
+2018,house,Ohio,OH,13,251370,Tim Ryan,Democratic,153323,61.0,True,False,False
+2018,house,Ohio,OH,13,251370,Chris DePizzo,Republican,98047,39.0,False,False,False
+2018,house,Ohio,OH,14,307358,David Joyce,Republican,169809,55.2,True,False,False
+2018,house,Ohio,OH,14,307358,Betsy Rader,Democratic,137549,44.8,False,False,False
+2018,house,Ohio,OH,15,292443,Steve Stivers,Republican,170593,58.3,True,True,False
+2018,house,Ohio,OH,15,292443,Rick Neal,Democratic,116112,39.7,False,False,False
+2018,house,Ohio,OH,15,292443,Libertarian Party,Libertarian,,2.0,False,False,False
+2018,house,Ohio,OH,16,299710,Anthony Gonzalez,Republican,170029,56.7,True,False,True
+2018,house,Ohio,OH,16,299710,Susan Moran Palmer,Democratic,129681,43.3,False,False,True
+2018,house,Oklahoma,OK,1,253171,Kevin Hern,Republican,150129,59.3,True,False,True
+2018,house,Oklahoma,OK,1,253171,Tim Gilpin,Democratic,103042,40.7,False,False,True
+2018,house,Oklahoma,OK,2,216002,Markwayne Mullin,Republican,140451,65.0,True,True,False
+2018,house,Oklahoma,OK,2,216002,Jason Nichols,Democratic,65021,30.1,False,False,False
+2018,house,Oklahoma,OK,2,216002,John Foreman,Independent,6390,3.0,False,False,False
+2018,house,Oklahoma,OK,2,216002,Richard Castaldo,Libertarian,4140,1.9,False,False,False
+2018,house,Oklahoma,OK,3,234065,Frank Lucas,Republican,172913,73.9,True,True,False
+2018,house,Oklahoma,OK,3,234065,Frankie Robbins,Democratic,61152,26.1,False,False,False
+2018,house,Oklahoma,OK,4,236638,Tom Cole,Republican,149227,63.1,True,True,False
+2018,house,Oklahoma,OK,4,236638,Mary Brannon,Democratic,78088,33.0,False,False,False
+2018,house,Oklahoma,OK,4,236638,Ruby Peters,Independent,9323,3.9,False,False,False
+2018,house,Oklahoma,OK,5,238960,Kendra Horn,Democratic,121149,50.7,True,False,False
+2018,house,Oklahoma,OK,5,238960,Steve Russell,Republican,117811,49.3,False,False,False
+2018,house,Oregon,OR,1,363249,Suzanne Bonamici,Democratic,231198,63.7,True,True,False
+2018,house,Oregon,OR,1,363249,John Verbeek,Republican,116446,32.1,False,False,False
+2018,house,Oregon,OR,1,363249,Drew Layda,Pacific Green,,4.2,False,False,False
+2018,house,Oregon,OR,2,368709,Greg Walden,Republican,207597,56.3,True,True,False
+2018,house,Oregon,OR,2,368709,Jamie McLeod-Skinner,Democratic,145298,39.4,False,False,False
+2018,house,Oregon,OR,2,368709,Mark Roberts,Independent,15536,4.2,False,False,False
+2018,house,Oregon,OR,3,384326,Earl Blumenauer,Democratic,279019,72.7,True,True,False
+2018,house,Oregon,OR,3,384326,Tom Harrison,Republican,76187,19.9,False,False,False
+2018,house,Oregon,OR,3,384326,Marc Koller,Independent,21352,5.5,False,False,False
+2018,house,Oregon,OR,3,384326,Gary Dye,Libertarian,5767,1.5,False,False,False
+2018,house,Oregon,OR,3,384326,Michael Marsh,Constitution,1487,0.4,False,False,False
+2018,house,Oregon,OR,4,372893,Peter DeFazio,Democratic,208710,56.0,True,True,False
+2018,house,Oregon,OR,4,372893,Art Robinson,Republican,152414,40.9,False,False,False
+2018,house,Oregon,OR,4,372893,Mike Beilstein,Pacific Green,5956,1.6,False,False,False
+2018,house,Oregon,OR,4,372893,Richard Johnson,Libertarian,,1.4,False,False,False
+2018,house,Oregon,OR,5,358469,Kurt Schrader,Democratic,197187,55.1,True,True,False
+2018,house,Oregon,OR,5,358469,Mark Callahan,Republican,149887,41.9,False,False,False
+2018,house,Oregon,OR,5,358469,Dan Souza,Libertarian,6054,1.7,False,False,False
+2018,house,Oregon,OR,5,358469,Marvin Sandnes,Pacific Green,4802,1.3,False,False,False
+2018,house,Pennsylvania,PA,1,329798,Brian Fitzpatrick,Republican,169053,51.3,True,False,False
+2018,house,Pennsylvania,PA,1,329798,Scott Wallace,Democratic,160745,48.7,False,False,False
+2018,house,Pennsylvania,PA,2,201982,Brendan Boyle,Democratic,159600,79.0,True,False,True
+2018,house,Pennsylvania,PA,2,201982,David Torres,Republican,42382,21.0,False,False,True
+2018,house,Pennsylvania,PA,3,307997,Dwight Evans,Democratic,287610,93.4,True,False,False
+2018,house,Pennsylvania,PA,3,307997,Bryan Leib,Republican,,6.6,False,False,False
+2018,house,Pennsylvania,PA,4,332991,Madeleine Dean,Democratic,211524,63.5,True,False,True
+2018,house,Pennsylvania,PA,4,332991,Dan David,Republican,121467,36.5,False,False,True
+2018,house,Pennsylvania,PA,5,304714,Mary Gay Scanlon,Democratic,198639,65.2,True,False,True
+2018,house,Pennsylvania,PA,5,304714,Pearl Kim,Republican,106075,34.8,False,False,True
+2018,house,Pennsylvania,PA,6,301828,Chrissy Houlahan,Democratic,177704,58.9,True,False,True
+2018,house,Pennsylvania,PA,6,301828,Greg McCauley,Republican,124124,41.1,False,False,True
+2018,house,Pennsylvania,PA,7,263261,Susan Wild,Democratic,140813,53.5,True,False,True
+2018,house,Pennsylvania,PA,7,263261,Marty Nothstein,Republican,114437,43.5,False,False,True
+2018,house,Pennsylvania,PA,7,263261,Tom Silfies,Libertarian,,3.0,False,False,True
+2018,house,Pennsylvania,PA,8,248166,Matt Cartwright,Democratic,135603,54.6,True,False,False
+2018,house,Pennsylvania,PA,8,248166,John Chrin,Republican,112563,45.4,False,False,False
+2018,house,Pennsylvania,PA,9,248927,Dan Meuser,Republican,148723,59.7,True,False,True
+2018,house,Pennsylvania,PA,9,248927,Denny Wolff,Democratic,100204,40.3,False,False,True
+2018,house,Pennsylvania,PA,10,291033,Scott Perry,Republican,149365,51.3,True,False,False
+2018,house,Pennsylvania,PA,10,291033,George Scott,Democratic,141668,48.7,False,False,False
+2018,house,Pennsylvania,PA,11,277584,Lloyd Smucker,Republican,163708,59.0,True,False,False
+2018,house,Pennsylvania,PA,11,277584,Jess King,Democratic,113876,41.0,False,False,False
+2018,house,Pennsylvania,PA,12,243872,Tom Marino,Republican,161047,66.0,True,False,False
+2018,house,Pennsylvania,PA,12,243872,Marc Friedenberg,Democratic,,34.0,False,False,False
+2018,house,Pennsylvania,PA,13,253266,John Joyce,Republican,178533,70.5,True,False,True
+2018,house,Pennsylvania,PA,13,253266,Brent Ottaway,Democratic,74733,29.5,False,False,True
+2018,house,Pennsylvania,PA,14,261437,Guy Reschenthaler,Republican,151386,57.9,True,False,True
+2018,house,Pennsylvania,PA,14,261437,Bibiana Boerio,Democratic,110051,42.1,False,False,True
+2018,house,Pennsylvania,PA,15,243572,Glenn Thompson,Republican,,67.8,True,False,False
+2018,house,Pennsylvania,PA,15,243572,Susan Boser,Democratic,78327,32.2,False,False,False
+2018,house,Pennsylvania,PA,16,262563,Mike Kelly,Republican,135348,51.6,True,False,False
+2018,house,Pennsylvania,PA,16,262563,Ron DiNicola,Democratic,,47.3,False,False,False
+2018,house,Pennsylvania,PA,16,262563,Bill Beeman,Libertarian,,1.1,False,False,False
+2018,house,Pennsylvania,PA,17,325763,Conor Lamb,Democratic,183162,56.3,True,False,False
+2018,house,Pennsylvania,PA,17,325763,Keith Rothfus,Republican,142417,43.7,False,False,False
+2018,house,Pennsylvania,PA,18,240924,Mike Doyle,Democratic,231472,100.0,True,False,False
+2018,house,Rhode Island,RI,1,174083,David Cicilline,Democratic,116099,66.9,True,True,False
+2018,house,Rhode Island,RI,1,174083,Patrick Donovan,Republican,57567,33.1,False,False,False
+2018,house,Rhode Island,RI,2,199197,James Langevin,Democratic,126476,63.6,True,True,False
+2018,house,Rhode Island,RI,2,199197,Sal Caiozzo,Republican,72271,36.4,False,False,False
+2018,house,South Carolina,SC,1,287433,Joe Cunningham,Democratic,145455,50.7,True,False,True
+2018,house,South Carolina,SC,1,287433,Katie Arrington,Republican,141473,49.3,False,False,True
+2018,house,South Carolina,SC,2,257139,Joe Wilson,Republican,144642,56.3,True,False,False
+2018,house,South Carolina,SC,2,257139,Sean Carrigan,Democratic,109199,42.5,False,False,False
+2018,house,South Carolina,SC,2,257139,Sonny Narang,American,3111,1.2,False,False,False
+2018,house,South Carolina,SC,3,226204,Jeff Duncan,Republican,153338,67.8,True,False,False
+2018,house,South Carolina,SC,3,226204,Mary Geren,Democratic,70046,31.0,False,False,False
+2018,house,South Carolina,SC,3,226204,Dave Moore,American,2697,1.2,False,False,False
+2018,house,South Carolina,SC,4,243950,William Timmons,Republican,145321,59.6,True,False,True
+2018,house,South Carolina,SC,4,243950,Brandon Brown,Democratic,89182,36.6,False,False,True
+2018,house,South Carolina,SC,4,243950,Guy Furay,American,9203,3.8,False,False,True
+2018,house,South Carolina,SC,5,248579,Ralph Norman,Republican,141757,57.1,True,True,False
+2018,house,South Carolina,SC,5,248579,Archie Parnell,Democratic,103129,41.5,False,False,False
+2018,house,South Carolina,SC,5,248579,Michael Chandler,Constitution,3443,1.4,False,False,False
+2018,house,South Carolina,SC,6,206433,Jim Clyburn,Democratic,144765,70.2,True,True,False
+2018,house,South Carolina,SC,6,206433,Gerhard Gressmann,Republican,58282,28.3,False,False,False
+2018,house,South Carolina,SC,6,206433,Bryan Pugh,Green,3214,1.5,False,False,False
+2018,house,South Carolina,SC,7,239554,Tom Rice,Republican,142681,59.6,True,True,False
+2018,house,South Carolina,SC,7,239554,Robert Williams,Democratic,,40.4,False,False,False
+2018,house,South Dakota,SD,AL,335965,Dusty Johnson,Republican,202695,60.3,True,False,True
+2018,house,South Dakota,SD,AL,335965,Tim Bjorkman,Democratic,121033,36.0,False,False,True
+2018,house,South Dakota,SD,AL,335965,Ron Wieczorek,Independent,7323,2.2,False,False,True
+2018,house,South Dakota,SD,AL,335965,George Hendrickson,Libertarian,,1.5,False,False,True
+2018,house,Tennessee,TN,1,224282,Phil Roe,Republican,172835,77.1,True,False,False
+2018,house,Tennessee,TN,1,224282,Marty Olsen,Democratic,47138,21.0,False,False,False
+2018,house,Tennessee,TN,1,224282,Michael Salyer,Independent,4309,1.9,False,False,False
+2018,house,Tennessee,TN,2,262134,Tim Burchett,Republican,172856,65.9,True,False,True
+2018,house,Tennessee,TN,2,262134,Renee Hoyos,Democratic,86668,33.1,False,False,True
+2018,house,Tennessee,TN,2,262134,Greg Samples,Libertarian,967,0.4,False,False,True
+2018,house,Tennessee,TN,2,262134,Jeffrey Grunau,Independent,657,0.3,False,False,True
+2018,house,Tennessee,TN,2,262134,Marc Whitmire,Independent,637,0.2,False,False,True
+2018,house,Tennessee,TN,2,262134,Keith LaTorre,Independent,349,0.1,False,False,True
+2018,house,Tennessee,TN,3,245765,Chuck Fleischmann,Republican,156512,63.7,True,True,False
+2018,house,Tennessee,TN,3,245765,Danielle Mitchell,Democratic,84731,34.5,False,False,False
+2018,house,Tennessee,TN,3,245765,Rick Tyler,Independent,4522,1.8,False,False,False
+2018,house,Tennessee,TN,4,232451,Scott DesJarlais,Republican,147323,63.4,True,True,False
+2018,house,Tennessee,TN,4,232451,Mariah Phillips,Democratic,78065,33.6,False,False,False
+2018,house,Tennessee,TN,4,232451,Michael Shupe,Independent,7056,3.0,False,False,False
+2018,house,Tennessee,TN,5,262248,Jim Cooper,Democratic,177923,67.8,True,True,True
+2018,house,Tennessee,TN,5,262248,Jody Ball,Republican,84317,32.2,False,False,True
+2018,house,Tennessee,TN,6,248740,John Rose,Republican,172810,69.5,True,False,True
+2018,house,Tennessee,TN,6,248740,Dawn Barlow,Democratic,70370,28.3,False,False,True
+2018,house,Tennessee,TN,6,248740,David Ross,Libertarian,3426,1.4,False,False,True
+2018,house,Tennessee,TN,6,248740,Lloyd Dunn,Independent,2134,0.9,False,False,True
+2018,house,Tennessee,TN,7,254384,Mark Green,Republican,170071,66.9,True,False,True
+2018,house,Tennessee,TN,7,254384,Justin Kanew,Democratic,81661,32.1,False,False,True
+2018,house,Tennessee,TN,7,254384,Lenny Ladner,Independent,,0.6,False,False,True
+2018,house,Tennessee,TN,7,254384,Brent Legendre,Independent,1070,0.4,False,False,True
+2018,house,Tennessee,TN,8,248345,David Kustoff,Republican,168030,67.7,True,True,False
+2018,house,Tennessee,TN,8,248345,Erika Stotts Pearson,Democratic,,30.1,False,False,False
+2018,house,Tennessee,TN,8,248345,James Hart,Independent,5560,2.2,False,False,False
+2018,house,Tennessee,TN,9,181476,Steve Cohen,Democratic,145139,80.0,True,True,False
+2018,house,Tennessee,TN,9,181476,Charlotte Bergmann,Republican,34901,19.2,False,False,False
+2018,house,Tennessee,TN,9,181476,Leo AwGoWhat,Independent,1436,0.8,False,False,False
+2018,house,Texas,TX,1,232720,Louie Gohmert,Republican,168165,72.3,True,True,False
+2018,house,Texas,TX,1,232720,Shirley McKellar,Democratic,61263,26.3,False,False,False
+2018,house,Texas,TX,1,232720,Jeff Callaway,Libertarian,3292,1.4,False,False,False
+2018,house,Texas,TX,2,263392,Dan Crenshaw,Republican,139188,52.8,True,False,True
+2018,house,Texas,TX,2,263392,Todd Litton,Democratic,119992,45.6,False,False,True
+2018,house,Texas,TX,2,263392,Patrick Gunnels,Libertarian,2373,0.9,False,False,True
+2018,house,Texas,TX,2,263392,Scott Cubbler,Independent,1839,0.7,False,False,True
+2018,house,Texas,TX,3,312511,Van Taylor,Republican,169520,54.3,True,False,True
+2018,house,Texas,TX,3,312511,Lorie Burch,Democratic,138234,44.3,False,False,True
+2018,house,Texas,TX,3,312511,Christopher Claytor,Libertarian,4604,1.4,False,False,True
+2018,house,Texas,TX,4,249245,John Ratcliffe,Republican,188667,75.7,True,False,False
+2018,house,Texas,TX,4,249245,Catherine Krantz,Democratic,57400,23.0,False,False,False
+2018,house,Texas,TX,4,249245,Ken Ashby,Libertarian,3178,1.3,False,False,False
+2018,house,Texas,TX,5,209507,Lance Gooden,Republican,130617,62.4,True,False,True
+2018,house,Texas,TX,5,209507,Dan Wood,Democratic,78666,37.6,False,False,True
+2018,house,Texas,TX,6,256042,Ron Wright,Republican,135961,53.1,True,False,True
+2018,house,Texas,TX,6,256042,Jana Lynne Sanchez,Democratic,116350,45.4,False,False,True
+2018,house,Texas,TX,6,256042,Jason Allen Harber,Libertarian,,1.5,False,False,True
+2018,house,Texas,TX,7,243601,Lizzie Fletcher,Democratic,127959,52.5,True,False,False
+2018,house,Texas,TX,7,243601,John Culberson,Republican,115642,47.5,False,True,False
+2018,house,Texas,TX,8,273170,Kevin Brady,Republican,200619,73.4,True,True,False
+2018,house,Texas,TX,8,273170,Steven David,Democratic,67930,24.9,False,False,False
+2018,house,Texas,TX,8,273170,Chris Duncan,Libertarian,4621,1.7,False,False,False
+2018,house,Texas,TX,9,153001,Al Green,Democratic,136256,89.1,True,True,False
+2018,house,Texas,TX,9,153001,Phil Kurtz,Libertarian,5940,3.9,False,False,False
+2018,house,Texas,TX,9,153001,Benjamin Hernandez,Independent,5774,3.8,False,False,False
+2018,house,Texas,TX,9,153001,Kesha Rogers,Independent,5031,3.3,False,False,False
+2018,house,Texas,TX,10,307827,Michael McCaul,Republican,157166,51.1,True,True,False
+2018,house,Texas,TX,10,307827,Mike Siegel,Democratic,144034,46.8,False,False,False
+2018,house,Texas,TX,10,307827,Mike Ryan,Libertarian,6627,2.1,False,False,False
+2018,house,Texas,TX,11,220377,Mike Conaway,Republican,176603,80.1,True,True,False
+2018,house,Texas,TX,11,220377,Jennie Lou Leeder,Democratic,40631,18.4,False,False,False
+2018,house,Texas,TX,11,220377,Rhett Rosenquest Smith,Libertarian,3143,1.5,False,False,False
+2018,house,Texas,TX,12,268491,Kay Granger,Republican,172557,64.3,True,True,False
+2018,house,Texas,TX,12,268491,Vanessa Adia,Democratic,90994,33.9,False,False,False
+2018,house,Texas,TX,12,268491,Jacob Leddy,Libertarian,4940,1.8,False,False,False
+2018,house,Texas,TX,13,207285,Mac Thornberry,Republican,169027,81.5,True,True,False
+2018,house,Texas,TX,13,207285,Greg Sagan,Democratic,35083,16.9,False,False,False
+2018,house,Texas,TX,13,207285,Calvin DeWeese,Libertarian,3175,1.6,False,False,False
+2018,house,Texas,TX,14,234528,Randy Weber,Republican,138942,59.2,True,True,False
+2018,house,Texas,TX,14,234528,Adrienne Bell,Democratic,92212,39.3,False,False,False
+2018,house,Texas,TX,14,234528,Don Conley,Libertarian,,1.4,False,False,False
+2018,house,Texas,TX,15,164802,Vicente Gonzalez,Democratic,,59.7,True,False,False
+2018,house,Texas,TX,15,164802,Tim Westley,Republican,63862,38.8,False,False,False
+2018,house,Texas,TX,15,164802,Anthony Cristo,Libertarian,2607,1.5,False,False,False
+2018,house,Texas,TX,16,181754,Veronica Escobar,Democratic,124437,68.5,True,False,True
+2018,house,Texas,TX,16,181754,Rick Seeberger,Republican,49127,27.0,False,False,True
+2018,house,Texas,TX,16,181754,Ben Mendoza,Independent,8147,1.6,False,False,True
+2018,house,Texas,TX,17,237351,Bill Flores,Republican,134841,56.8,True,True,False
+2018,house,Texas,TX,17,237351,Rick Kennedy,Democratic,98070,41.3,False,False,False
+2018,house,Texas,TX,17,237351,Peter Churchman,Libertarian,4440,1.9,False,False,False
+2018,house,Texas,TX,18,184332,Sheila Jackson Lee,Democratic,138704,75.2,True,True,False
+2018,house,Texas,TX,18,184332,Ava Pate,Republican,,20.8,False,False,False
+2018,house,Texas,TX,18,184332,Luke Spencer,Libertarian,4067,2.2,False,False,False
+2018,house,Texas,TX,19,201985,Jodey Arrington,Republican,151946,75.2,True,True,False
+2018,house,Texas,TX,19,201985,Miguel Levario,Democratic,50039,24.8,False,False,False
+2018,house,Texas,TX,20,171963,Joaquin Castro,Democratic,,80.9,True,True,False
+2018,house,Texas,TX,20,171963,Jeffrey C. Blunt,Libertarian,,19.1,False,False,False
+2018,house,Texas,TX,21,353617,Chip Roy,Republican,177654,50.2,True,False,True
+2018,house,Texas,TX,21,353617,Joseph Kopser,Democratic,168421,47.6,False,False,True
+2018,house,Texas,TX,21,353617,Lee Santos,Libertarian,7542,2.1,False,False,True
+2018,house,Texas,TX,22,297405,Pete Olson,Republican,152750,51.4,True,True,False
+2018,house,Texas,TX,22,297405,Sri Preston Kulkarni,Democratic,138153,46.5,False,False,False
+2018,house,Texas,TX,22,297405,John McElligott,Libertarian,3261,1.1,False,False,False
+2018,house,Texas,TX,22,297405,Kellen Sweny,Independent,3241,1.1,False,False,False
+2018,house,Texas,TX,23,210069,Will Hurd,Republican,103285,49.2,True,True,False
+2018,house,Texas,TX,23,210069,Gina Ortiz Jones,Democratic,102359,48.7,False,False,False
+2018,house,Texas,TX,23,210069,Ruben Corvalan,Libertarian,4425,2.1,False,False,False
+2018,house,Texas,TX,24,263418,Kenny Marchant,Republican,133317,50.6,True,True,False
+2018,house,Texas,TX,24,263418,Jan McDowell,Democratic,125231,47.5,False,False,False
+2018,house,Texas,TX,24,263418,Mike Kolls,Libertarian,4870,1.8,False,False,False
+2018,house,Texas,TX,25,304553,Roger Williams,Republican,163023,53.5,True,True,False
+2018,house,Texas,TX,25,304553,Julie Oliver,Democratic,136385,44.8,False,False,False
+2018,house,Texas,TX,25,304553,Desarae Lindsey,Libertarian,5145,1.7,False,False,False
+2018,house,Texas,TX,26,312505,Michael C. Burgess,Republican,185551,59.4,True,True,False
+2018,house,Texas,TX,26,312505,Linsey Fagan,Democratic,121938,39.0,False,False,False
+2018,house,Texas,TX,26,312505,Mark Boler,Libertarian,5016,1.6,False,False,False
+2018,house,Texas,TX,27,207421,Michael Cloud,Republican,125118,60.3,True,True,False
+2018,house,Texas,TX,27,207421,Eric Holguin,Democratic,75929,36.6,False,False,False
+2018,house,Texas,TX,27,207421,James Duerr,Independent,4274,2.1,False,False,False
+2018,house,Texas,TX,27,207421,Daniel Tinus,Libertarian,2100,1.0,False,False,False
+2018,house,Texas,TX,28,139226,Henry Cuellar,Democratic,117494,84.4,True,True,False
+2018,house,Texas,TX,28,139226,Arthur Thomas,Libertarian,,15.6,False,False,False
+2018,house,Texas,TX,29,117494,Sylvia Garcia,Democratic,88188,75.1,True,False,True
+2018,house,Texas,TX,29,117494,Phillip Aronoff,Republican,28098,23.9,False,False,True
+2018,house,Texas,TX,29,117494,Cullen Burns,Libertarian,1199,1.0,False,False,True
+2018,house,Texas,TX,30,183174,Eddie Bernice Johnson,Democratic,166784,91.1,True,True,False
+2018,house,Texas,TX,30,183174,Shawn Jones,Libertarian,16390,8.9,False,False,False
+2018,house,Texas,TX,31,286007,John Carter,Republican,144680,50.6,True,False,False
+2018,house,Texas,TX,31,286007,MJ Hegar,Democratic,,47.7,False,False,False
+2018,house,Texas,TX,31,286007,Jason Hope,Libertarian,4965,1.7,False,False,False
+2018,house,Texas,TX,32,275620,Colin Allred,Democratic,144067,52.3,True,False,False
+2018,house,Texas,TX,32,275620,Pete Sessions,Republican,126101,45.8,False,True,False
+2018,house,Texas,TX,32,275620,Melina Baker,Libertarian,5452,2.0,False,False,False
+2018,house,Texas,TX,33,119224,Marc Veasey,Democratic,90805,76.2,True,True,False
+2018,house,Texas,TX,33,119224,Willie Billups,Republican,26120,21.9,False,False,False
+2018,house,Texas,TX,33,119224,Jason Reeves,Libertarian,2299,1.9,False,False,False
+2018,house,Texas,TX,34,143068,Filemon Vela Jr.,Democratic,85825,60.0,True,True,False
+2018,house,Texas,TX,34,143068,Rey Gonzalez,Republican,57243,40.0,False,False,False
+2018,house,Texas,TX,35,194067,Lloyd Doggett,Democratic,138278,71.3,True,True,False
+2018,house,Texas,TX,35,194067,David Smalling,Republican,50553,26.0,False,False,False
+2018,house,Texas,TX,35,194067,Clark Patterson,Libertarian,5236,2.7,False,False,False
+2018,house,Texas,TX,36,221956,Brian Babin,Republican,161048,72.6,True,True,False
+2018,house,Texas,TX,36,221956,Dayna Steele,Democratic,60908,27.4,False,False,False
+2018,house,Utah,UT,1,254333,Rob Bishop,Republican,156692,61.6,True,True,False
+2018,house,Utah,UT,1,254333,Lee Castillo,Democratic,63308,24.9,False,False,False
+2018,house,Utah,UT,1,254333,Eric Eliason,United Utah,29547,11.6,False,False,False
+2018,house,Utah,UT,1,254333,Adam Davis,Green,4786,1.9,False,False,False
+2018,house,Utah,UT,2,270044,Chris Stewart,Republican,151489,56.1,True,False,False
+2018,house,Utah,UT,2,270044,Shireen Ghorbani,Democratic,105051,38.9,False,False,False
+2018,house,Utah,UT,2,270044,Jeffrey Whipple,Libertarian,13504,4.0,False,False,False
+2018,house,Utah,UT,3,258858,John Curtis,Republican,174856,67.5,True,False,False
+2018,house,Utah,UT,3,258858,James Singer,Democratic,70686,27.3,False,False,False
+2018,house,Utah,UT,3,258858,Gregory Duerden,Independent American,6686,2.6,False,False,False
+2018,house,Utah,UT,3,258858,Timothy Zeidner,United Utah,6630,2.6,False,False,False
+2018,house,Utah,UT,4,269271,Ben McAdams,Democratic,134964,50.1,True,False,False
+2018,house,Utah,UT,4,269271,Mia Love,Republican,134270,49.9,False,True,False
+2018,house,Vermont,VT,AL,272451,Peter Welch,Democratic,188547,69.2,True,True,False
+2018,house,Vermont,VT,AL,272451,Anya Tynio,Republican,70705,26.0,False,False,False
+2018,house,Vermont,VT,AL,272451,Cris Ericson,Independent,9110,3.3,False,False,False
+2018,house,Vermont,VT,AL,272451,Laura Potter,Liberty Union,3924,1.4,False,False,False
+2018,house,Virginia,VA,1,332101,Rob Wittman,Republican,183250,55.2,True,True,False
+2018,house,Virginia,VA,1,332101,Vangie Williams,Democratic,148464,44.8,False,False,False
+2018,house,Virginia,VA,2,273400,Elaine Luria,Democratic,139571,51.1,True,False,False
+2018,house,Virginia,VA,2,273400,Scott Taylor,Republican,133458,48.9,False,False,False
+2018,house,Virginia,VA,3,217772,Bobby Scott,Democratic,198615,91.2,True,False,False
+2018,house,Virginia,VA,4,299854,Donald McEachin,Democratic,187642,62.6,True,True,False
+2018,house,Virginia,VA,4,299854,Ryan McAdams,Republican,107706,36.0,False,False,False
+2018,house,Virginia,VA,4,299854,Pete Wells,Libertarian,4233,1.4,False,False,False
+2018,house,Virginia,VA,5,310926,Denver Riggleman,Republican,165339,53.3,True,False,True
+2018,house,Virginia,VA,5,310926,Leslie Cockburn,Democratic,145040,46.7,False,False,True
+2018,house,Virginia,VA,6,281377,Ben Cline,Republican,167957,59.8,True,False,True
+2018,house,Virginia,VA,6,281377,Jennifer Lewis,Democratic,113133,40.2,False,False,True
+2018,house,Virginia,VA,7,349745,Abigail Spanberger,Democratic,176079,50.4,True,False,False
+2018,house,Virginia,VA,7,349745,Dave Brat,Republican,169295,48.4,False,True,False
+2018,house,Virginia,VA,7,349745,Joe Walton,Libertarian,4216,1.2,False,False,False
+2018,house,Virginia,VA,8,324748,Don Beyer,Democratic,247137,76.3,True,True,False
+2018,house,Virginia,VA,8,324748,Thomas Oh,Republican,76899,23.7,False,False,False
+2018,house,Virginia,VA,9,246980,Morgan Griffith,Republican,160933,65.2,True,True,False
+2018,house,Virginia,VA,9,246980,Anthony Flaccavento,Democratic,85833,34.8,False,False,False
+2018,house,Virginia,VA,10,367795,Jennifer Wexton,Democratic,206356,56.2,True,False,False
+2018,house,Virginia,VA,10,367795,Barbara Comstock,Republican,160841,43.8,False,True,False
+2018,house,Virginia,VA,11,308266,Gerry Connolly,Democratic,219191,71.2,True,True,False
+2018,house,Virginia,VA,11,308266,Jeff Dove,Republican,83023,27.0,False,False,False
+2018,house,Virginia,VA,11,308266,Stevan Porter,Libertarian,5546,1.8,False,False,False
+2018,house,Washington,WA,1,332743,Suzan DelBene,Democratic,197209,59.3,True,True,False
+2018,house,Washington,WA,1,332743,Jeffrey Beeler,Republican,135534,40.7,False,False,False
+2018,house,Washington,WA,2,294833,Rick Larsen,Democratic,210187,71.3,True,True,False
+2018,house,Washington,WA,2,294833,Brian Luke,Libertarian,84646,28.7,False,False,False
+2018,house,Washington,WA,3,307226,Jaime Herrera Beutler,Republican,161819,52.7,True,True,False
+2018,house,Washington,WA,3,307226,Carolyn Long,Democratic,145407,47.3,False,False,False
+2018,house,Washington,WA,4,225336,Dan Newhouse,Republican,141551,62.8,True,True,False
+2018,house,Washington,WA,4,225336,Christine Brown,Democratic,83785,37.2,False,False,False
+2018,house,Washington,WA,5,320347,Cathy McMorris Rodgers,Republican,175422,54.8,True,True,False
+2018,house,Washington,WA,5,320347,Lisa Brown,Democratic,144925,45.2,False,False,False
+2018,house,Washington,WA,6,323086,Derek Kilmer,Democratic,206409,63.9,True,True,False
+2018,house,Washington,WA,6,323086,Douglas Dightman,Republican,116677,36.1,False,False,False
+2018,house,Washington,WA,7,394681,Pramila Jayapal,Democratic,329800,83.6,True,True,False
+2018,house,Washington,WA,7,394681,Craig Keller,Republican,64881,16.4,False,False,False
+2018,house,Washington,WA,8,313057,Kim Schrier,Democratic,164089,52.4,True,False,True
+2018,house,Washington,WA,8,313057,Dino Rossi,Republican,148968,47.6,False,False,True
+2018,house,Washington,WA,9,240567,Adam Smith,Democratic,163345,67.9,True,True,False
+2018,house,Washington,WA,9,240567,Sarah Smith,Democratic,77222,32.1,False,False,False
+2018,house,Washington,WA,10,270075,Denny Heck,Democratic,166215,61.5,True,True,False
+2018,house,Washington,WA,10,270075,Joseph Brumbles,Republican,103860,38.5,False,False,False
+2018,house,West Virginia,WV,1,198214,David McKinley,Republican,127997,64.6,True,True,False
+2018,house,West Virginia,WV,1,198214,Kendra Fershee,Democratic,70217,35.4,False,False,False
+2018,house,West Virginia,WV,2,204792,Alex Mooney,Republican,110504,54.0,True,True,False
+2018,house,West Virginia,WV,2,204792,Talley Sergent,Democratic,88011,43.0,False,False,False
+2018,house,West Virginia,WV,2,204792,Daniel Lutz,Mountain,6277,3.1,False,False,False
+2018,house,West Virginia,WV,3,174985,Carol Miller,Republican,98645,56.4,True,False,True
+2018,house,West Virginia,WV,3,174985,Richard Ojeda,Democratic,76340,43.6,False,False,True
+2018,house,Wisconsin,WI,1,325317,Bryan Steil,Republican,177492,54.6,True,False,True
+2018,house,Wisconsin,WI,1,325317,Randy Bryce,Democratic,137508,42.3,False,False,True
+2018,house,Wisconsin,WI,1,325317,Ken Yorgan,Independent,10006,3.1,False,False,True
+2018,house,Wisconsin,WI,2,317295,Mark Pocan,Democratic,309116,97.4,True,True,False
+2018,house,Wisconsin,WI,3,314989,Ron Kind,Democratic,187888,59.7,True,True,False
+2018,house,Wisconsin,WI,3,314989,Steve Toft,Republican,126980,40.3,False,False,False
+2018,house,Wisconsin,WI,4,273087,Gwen Moore,Democratic,206487,75.7,True,True,False
+2018,house,Wisconsin,WI,4,273087,Tim Rogers,Republican,59091,21.7,False,False,False
+2018,house,Wisconsin,WI,4,273087,Robert Raymond,Independent,7170,2.6,False,False,False
+2018,house,Wisconsin,WI,5,364288,Jim Sensenbrenner,Republican,225619,62.0,True,True,False
+2018,house,Wisconsin,WI,5,364288,Tom Palzewicz,Democratic,138385,38.0,False,False,False
+2018,house,Wisconsin,WI,6,325065,Glenn Grothman,Republican,180311,55.5,True,True,False
+2018,house,Wisconsin,WI,6,325065,Dan Kohl,Democratic,144536,44.5,False,False,False
+2018,house,Wisconsin,WI,7,322840,Sean Duffy,Republican,194061,59.9,True,True,False
+2018,house,Wisconsin,WI,7,322840,Margaret Engebretson,Democratic,124307,38.4,False,False,False
+2018,house,Wisconsin,WI,7,322840,Ken Driessen,Independent,4416,1.7,False,False,False
+2018,house,Wisconsin,WI,8,328774,Mike Gallagher,Republican,209410,63.7,True,False,False
+2018,house,Wisconsin,WI,8,328774,Beau Liegeois,Democratic,119265,36.3,False,False,False
+2018,house,Wyoming,WY,AL,201245,Liz Cheney,Republican,127963,63.7,True,True,False
+2018,house,Wyoming,WY,AL,201245,Greg Hunter,Democratic,59903,29.8,False,False,False
+2018,house,Wyoming,WY,AL,201245,Richard Brubaker,Libertarian,6918,3.5,False,False,False
+2018,house,Wyoming,WY,AL,201245,Daniel Cummings,Constitution,,3.0,False,False,False
+2018,house,American Samoa,AM,AL,,Amata Coleman Radewagen,Republican,,83.28,True,True,False
+2018,house,American Samoa,AM,AL,,Tuika Tuika,Independent,,9.09,False,False,False
+2018,house,American Samoa,AM,AL,,Meleagi Suitonu Chapman,Democratic,,7.63,False,False,False
+2018,house,District of Columbia,DC,AL,228769,Eleanor Holmes Norton,Democratic,199124,87.7,True,True,False
+2018,house,District of Columbia,DC,AL,228769,Nelson Rimensnyder,Republican,,4.3,False,False,False
+2018,house,District of Columbia,DC,AL,228769,Natale Stracuzzi,D.C. Statehood Green,,3.8,False,False,False
+2018,house,District of Columbia,DC,AL,228769,Erik Metzroh,Independent,,2.4,False,False,False
+2018,house,District of Columbia,DC,AL,228769,Bruce Majors,Libertarian,4034,1.8,False,False,False
+2018,house,Guam,GU,AL,34990,Michael San Nicolas,Democratic,19193,54.9,True,False,False
+2018,house,Guam,GU,AL,34990,Doris Flores Brooks,Republican,15398,44.0,False,False,False
+2018,house,Northern Mariana Islands,NO,AL,,Gregorio Sablan,Independent,,63.77,True,True,False
+2018,house,Northern Mariana Islands,NO,AL,,Angel Demapan,Republican,,36.23,False,False,False
+2018,house,United States Virgin Islands,UN,AL,,Stacey Plaskett,Democratic,,98.41,True,True,False

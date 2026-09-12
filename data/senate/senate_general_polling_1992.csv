@@ -1,3 +1,3 @@
 Year,State,Primary_Type,Poll_Source,Date,Date_Start,Date_End,Sample,MoE,Candidate,Party,Pct,Incumbent,Date_Original
-1992,New York,General,Buffalo News,1992-10-30,1992-10-30,1992-10-30,833,± 3.5%,Alfonse D'Amato,R,42%,False,"October 30, 1992"
-1992,New York,General,Buffalo News,1992-10-30,1992-10-30,1992-10-30,833,± 3.5%,Robert Abrams,D,44%,False,"October 30, 1992"
+1992,New York,General,Buffalo News,1992-10-30,1992-10-30,1992-10-30,833,3.5,Alfonse D'Amato,R,42%,False,"October 30, 1992"
+1992,New York,General,Buffalo News,1992-10-30,1992-10-30,1992-10-30,833,3.5,Robert Abrams,D,44%,False,"October 30, 1992"

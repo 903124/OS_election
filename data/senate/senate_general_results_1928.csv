@@ -16,7 +16,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Florida,1928 U.S. Senate election in Florida,General,Winning,True,Democratic Party (United States),Park Trammell,"153,816",68.53%
 1928,Florida,1928 U.S. Senate election in Florida,General,Candidate,False,Republican Party (United States),Barclay Warburton,"70,633",31.47%
 1928,Florida,1928 U.S. Senate election in Florida,General,Total,False,,,"224,449",100.00%
-1928,Idaho (special),1928 United States Senate special election in Idaho,General,Winning,False,Republican Party (US),John Thomas,"90,922",62.56
+1928,Idaho (special),1928 United States Senate special election in Idaho,General,Winning,True,Republican Party (US),John Thomas,"90,922",62.56
 1928,Idaho (special),1928 United States Senate special election in Idaho,General,Candidate,False,Democratic Party (US),Chase Clark,"53,399",36.74
 1928,Idaho (special),1928 United States Senate special election in Idaho,General,Candidate,False,Socialist Party of America,C. J. Lundt,"1,016",0.70
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Winning,False,Republican Party (United States),Otis F. Glenn,"1,594,031",54.46
@@ -24,14 +24,14 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Party of America,George Ross Kirkpatrick,"13,002",0.44
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Candidate,False,Workers Party of America,Max Bedacht,"3,177",0.11
 1928,Illinois (special),1928 United States Senate special election in Illinois,General,Candidate,False,Socialist Labor Party (United States),G. A. Jenning,"1,463",0.05
-1928,Indiana,1928 U.S. Senate election in Indiana,General,Winning,False,Republican Party (United States),Arthur R. Robinson,"782,144",55.30%
+1928,Indiana,1928 U.S. Senate election in Indiana,General,Winning,True,Republican Party (United States),Arthur R. Robinson,"782,144",55.30%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Democratic Party (United States),Albert Stump,"623,996",44.12%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Prohibition Party (United States),William H. Harris,"4,033",0.29%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Socialist Party USA,Philip K. Reinbold,"3,346",0.24%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Socialist Labor Party (United States),Charles Ginsberg,443,0.03%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Candidate,False,Communist Party USA,William F. Jackson,327,0.02%
 1928,Indiana,1928 U.S. Senate election in Indiana,General,Total,False,,,"1,414,440",100.00%
-1928,Maine,1928 U.S. Senate election in Maine,General,Winning,False,Republican Party (United States),Frederick Hale,"145,501",69.64%
+1928,Maine,1928 U.S. Senate election in Maine,General,Winning,True,Republican Party (United States),Frederick Hale,"145,501",69.64%
 1928,Maine,1928 U.S. Senate election in Maine,General,Candidate,False,Democratic Party (United States),Herbert E. Holmes,"63,429",30.36%
 1928,Maine,1928 U.S. Senate election in Maine,General,Total,False,,,"208,930",100.00%
 1928,Maryland,1928 U.S. Senate election in Maryland,General,Winning,False,Republican Party (United States),Phillips Lee Goldsborough,"256,224",54.05%
@@ -107,7 +107,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1928,Pennsylvania,General election results,General,Candidate,False,Workers Party of America,W. J. White,"2,420",0.08%
 1928,Pennsylvania,General election results,General,Candidate,False,Socialist Labor Party of America,William H. Thomas,"1,234",0.04%
 1928,Pennsylvania,General election results,General,Total,False,,,"3,026,864",100.00%
-1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Winning,False,Democratic Party (United States),Kenneth McKellar,"175,431",59.32%
+1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Kenneth McKellar,"175,431",59.32%
 1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),James Alexander Fowler,"120,289",40.68%
 1928,Tennessee,1928 U.S. Senate election in Tennessee,General,Total,False,,,"295,720",100.00%
 1928,Texas,1928 Democratic U.S. Senate runoff,General,Winning,False,Democratic Party (United States),Tom Connally,"320,071",55.39%

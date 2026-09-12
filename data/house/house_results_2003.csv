@@ -1,3 +1,3 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2003,house,Texas,TX,19,Randy Neugebauer,Republican,50.52,True,False,True
-2003,house,Texas,TX,19,Mike Conaway,Republican,49.48,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2003,house,Texas,TX,19,56505,Randy Neugebauer,Republican,28546,50.52,True,False,True
+2003,house,Texas,TX,19,56505,Mike Conaway,Republican,27959,49.48,False,False,True

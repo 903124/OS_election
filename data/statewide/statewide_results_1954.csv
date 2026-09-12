@@ -1,0 +1,101 @@
+year,state,state_code,office,candidate,party,percentage,winner,incumbent
+1954,Alabama,AL,governor,Jim Folsom,Democratic,73.4,True,False
+1954,Alabama,AL,governor,Tom Abernathy,Republican,26.6,False,False
+1954,Arizona,AZ,governor,Ernest McFarland,Democratic,52.5,True,False
+1954,Arizona,AZ,governor,J. Howard Pyle,Republican,47.5,False,True
+1954,Arkansas,AR,governor,Orval Faubus,Democratic,62.1,True,False
+1954,Arkansas,AR,governor,Pratt Remmel,Republican,37.9,False,False
+1954,California,CA,governor,Goodwin Knight,Republican,56.8,True,True
+1954,California,CA,governor,Richard P. Graves,Democratic,43.2,False,False
+1954,Colorado,CO,governor,Edwin C. Johnson,Democratic,53.6,True,False
+1954,Colorado,CO,governor,Donald G. Brotzman,Republican,46.4,False,False
+1954,Connecticut,CT,governor,Abraham Ribicoff,Democratic,49.5,True,False
+1954,Connecticut,CT,governor,John Davis Lodge,Republican,49.16,False,True
+1954,Connecticut,CT,governor,Jasper McLevy,Socialist,1.19,False,False
+1954,Connecticut,CT,governor,Vivien Kellems,Independent Republican,0.15,False,False
+1954,Florida,FL,governor,LeRoy Collins,Democratic,80.4,True,False
+1954,Florida,FL,governor,J. Thomas Watson,Republican,19.5,False,False
+1954,Georgia,GA,governor,Primary results:,,,True,False
+1954,Georgia,GA,governor,Marvin Griffin,Democratic,36.32,True,False
+1954,Georgia,GA,governor,Melvin E. Thompson,Democratic,25.07,False,False
+1954,Georgia,GA,governor,Tom Linder,Democratic,13.5,False,False
+1954,Georgia,GA,governor,Fred Hand,Democratic,12.09,False,False
+1954,Georgia,GA,governor,Charlie Gowen,Democratic,11.42,False,False
+1954,Georgia,GA,governor,Grace Wilkey Thomas,Democratic,0.97,False,False
+1954,Georgia,GA,governor,Ben Garland,Democratic,0.44,False,False
+1954,Georgia,GA,governor,General election:,,,True,False
+1954,Idaho,ID,governor,Robert E. Smylie,Republican,54.2,True,False
+1954,Idaho,ID,governor,Clark Hamilton,Democratic,45.8,False,False
+1954,Iowa,IA,governor,Leo Hoegh,Republican,51.4,True,False
+1954,Iowa,IA,governor,Clyde E. Herring,Democratic,48.4,False,False
+1954,Iowa,IA,governor,Howard H. Tyler,Independent,0.3,False,False
+1954,Kansas,KS,governor,Fred Hall,Republican,53.0,True,False
+1954,Kansas,KS,governor,George Docking,Democratic,46.0,False,False
+1954,Kansas,KS,governor,Chester A. Roberts,Prohibition,0.9,False,False
+1954,Kansas,KS,governor,W.W. Tamplin,Socialist,0.16,False,False
+1954,Maine,ME,governor,Edmund Muskie,Democratic,54.5,True,False
+1954,Maine,ME,governor,Burton M. Cross,Republican,45.5,False,True
+1954,Maryland,MD,governor,Theodore McKeldin,Republican,54.5,True,True
+1954,Maryland,MD,governor,Curley Byrd,Democratic,45.6,False,False
+1954,Massachusetts,MA,governor,Christian Herter,Republican,51.8,True,True
+1954,Massachusetts,MA,governor,Robert F. Murphy,Democratic,47.8,False,False
+1954,Massachusetts,MA,governor,Larence Gilfedder,Labor,0.3,False,False
+1954,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.14,False,False
+1954,Michigan,MI,governor,G. Mennen Williams,Democratic,55.6,True,True
+1954,Michigan,MI,governor,Donald S. Leonard,Republican,44.1,False,False
+1954,Michigan,MI,governor,E. Harold Munn,Prohibition,0.27,False,False
+1954,Michigan,MI,governor,Theos A. Grove,Labor,0.05,False,False
+1954,Michigan,MI,governor,Frank Lovell,Workers,0.03,False,False
+1954,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,52.7,True,False
+1954,Minnesota,MN,governor,C. Elmer Anderson,Republican,46.8,False,True
+1954,Minnesota,MN,governor,Ross P. Schelin,Independent,0.5,False,False
+1954,Nebraska,NE,governor,Victor Anderson,Republican,60.3,True,False
+1954,Nebraska,NE,governor,William Ritchie,Democratic,39.7,False,False
+1954,Nevada,NV,governor,Charles H. Russell,Republican,53.1,True,True
+1954,Nevada,NV,governor,Vail Pittman,Democratic,46.9,False,False
+1954,New Hampshire,NH,governor,Lane Dwinell,Republican,55.1,True,False
+1954,New Hampshire,NH,governor,John Shaw,Democratic,44.9,False,False
+1954,New Mexico,NM,governor,John F. Simms,Democratic,57.0,True,False
+1954,New Mexico,NM,governor,Alvin Stockton,Republican,43.0,False,False
+1954,New York,NY,governor,W. Averell Harriman,Democratic,49.61,True,False
+1954,New York,NY,governor,Irving Ives,Republican,49.4,False,False
+1954,New York,NY,governor,John T. McManus,Labor,0.91,False,False
+1954,New York,NY,governor,David L. Weiss,Workers,0.05,False,False
+1954,New York,NY,governor,Nathan Karp,Independent,0.03,False,False
+1954,North Dakota,ND,governor,Norman Brunsdale,Republican,64.2,True,True
+1954,North Dakota,ND,governor,Cornelius Bymers,Democratic,35.8,False,False
+1954,Ohio,OH,governor,Frank Lausche,Democratic,54.1,True,True
+1954,Ohio,OH,governor,Jim Rhodes,Republican,45.9,False,False
+1954,Oklahoma,OK,governor,Raymond Gary,Democratic,58.7,True,False
+1954,Oklahoma,OK,governor,Reuben K. Sparks,Republican,41.3,False,False
+1954,Oregon,OR,governor,Paul L. Patterson,Republican,56.9,True,True
+1954,Oregon,OR,governor,Joseph K. Carson,Democratic,43.1,False,False
+1954,Pennsylvania,PA,governor,George M. Leader,Democratic,53.7,True,False
+1954,Pennsylvania,PA,governor,Lloyd H. Wood,Republican,46.2,False,False
+1954,Pennsylvania,PA,governor,Henry Beitscher,Progressive,0.1,False,False
+1954,Pennsylvania,PA,governor,Louis Dirle,Labor,0.1,False,False
+1954,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,57.7,True,True
+1954,Rhode Island,RI,governor,Dean J. Lewis,Republican,41.7,False,False
+1954,Rhode Island,RI,governor,Arthur E. Marley,Independent,0.6,False,False
+1954,South Carolina,SC,governor,Primary results:,,,True,False
+1954,South Carolina,SC,governor,George Bell Timmerman Jr.,Democratic,61.34,True,False
+1954,South Carolina,SC,governor,Lester L. Bates,Democratic,38.66,False,False
+1954,South Carolina,SC,governor,General election:,,,True,False
+1954,South Dakota,SD,governor,Joe Foss,Republican,56.7,True,False
+1954,South Dakota,SD,governor,Ed C. Martin,Democratic,43.3,False,False
+1954,Tennessee,TN,governor,Primary results:,,,True,False
+1954,Tennessee,TN,governor,Frank G. Clement,Democratic,68.17,True,True
+1954,Tennessee,TN,governor,Gordon W. Browning,Democratic,27.61,False,False
+1954,Tennessee,TN,governor,Raulston Schoolfield,Democratic,4.23,False,False
+1954,Tennessee,TN,governor,General election:,,,True,False
+1954,Tennessee,TN,governor,John Randolph Neal Jr.,Independent,12.2,False,False
+1954,Tennessee,TN,governor,W.E. Michel,Republican,0.5,False,False
+1954,Texas,TX,governor,Allan Shivers,Democratic,89.4,True,True
+1954,Texas,TX,governor,Tod R. Adams,Republican,10.4,False,False
+1954,Vermont,VT,governor,Joseph B. Johnson,Republican,52.3,True,False
+1954,Vermont,VT,governor,E. Frank Branon,Democratic,47.7,False,False
+1954,Wisconsin,WI,governor,Walter J. Kohler Jr.,Republican,51.5,True,True
+1954,Wisconsin,WI,governor,William Proxmire,Democratic,48.4,False,False
+1954,Wisconsin,WI,governor,Arthur Wepfer,Labor,0.2,False,False
+1954,Wyoming,WY,governor,Milward Simpson,Republican,50.5,True,False
+1954,Wyoming,WY,governor,William M. Jack,Democratic,49.5,False,False

@@ -1,17 +1,17 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2005,house,California,CA,5,Doris Matsui,Democratic,67.65,True,False,True
-2005,house,California,CA,5,Julie Padilla,Democratic,8.62,False,False,True
-2005,house,California,CA,5,John Flynn,Republican,7.9,False,False,True
-2005,house,California,CA,5,Serge Chernay,Republican,4.51,False,False,True
-2005,house,California,CA,5,Michael O'Brien,Republican,3.12,False,False,True
-2005,house,California,CA,5,Shane Singh,Republican,2.11,False,False,True
-2005,house,California,CA,5,Bruce Stevens,Republican,1.35,False,False,True
-2005,house,California,CA,5,Pat Driscoll,Green,1.18,False,False,True
-2005,house,California,CA,5,Leonard Padilla,Independent,1.1,False,False,True
-2005,house,California,CA,5,Charles Pineda,Democratic,0.79,False,False,True
-2005,house,California,CA,5,Gale Morgan,Libertarian,0.54,False,False,True
-2005,house,California,CA,5,John Reiger,Freedom,0.34,False,False,True
-2005,house,California,CA,5,Lara Shapiro (write-in),Democratic,0.01,False,False,True
-2005,house,Ohio,OH,2,Jean Schmidt,Republican,51.63,True,False,True
-2005,house,Ohio,OH,2,Paul Hackett,Democratic,48.35,False,False,True
-2005,house,Ohio,OH,2,Write-ins,Write-ins,0.02,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2005,house,California,CA,5,83033,Doris Matsui,Democratic,56175,67.65,True,False,True
+2005,house,California,CA,5,83033,Julie Padilla,Democratic,7158,8.62,False,False,True
+2005,house,California,CA,5,83033,John Flynn,Republican,6559,7.9,False,False,True
+2005,house,California,CA,5,83033,Serge Chernay,Republican,3742,4.51,False,False,True
+2005,house,California,CA,5,83033,Michael O'Brien,Republican,2591,3.12,False,False,True
+2005,house,California,CA,5,83033,Shane Singh,Republican,1753,2.11,False,False,True
+2005,house,California,CA,5,83033,Bruce Stevens,Republican,1124,1.35,False,False,True
+2005,house,California,CA,5,83033,Pat Driscoll,Green,976,1.18,False,False,True
+2005,house,California,CA,5,83033,Leonard Padilla,Independent,916,1.1,False,False,True
+2005,house,California,CA,5,83033,Charles Pineda,Democratic,659,0.79,False,False,True
+2005,house,California,CA,5,83033,Gale Morgan,Libertarian,451,0.54,False,False,True
+2005,house,California,CA,5,83033,John Reiger,Freedom,286,0.34,False,False,True
+2005,house,California,CA,5,83033,Lara Shapiro (write-in),Democratic,6,0.01,False,False,True
+2005,house,Ohio,OH,2,115576,Jean Schmidt,Republican,59671,51.63,True,False,True
+2005,house,Ohio,OH,2,115576,Paul Hackett,Democratic,55886,48.35,False,False,True
+2005,house,Ohio,OH,2,115576,Write-ins,Write-ins,19,0.02,False,False,True

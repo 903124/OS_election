@@ -21,7 +21,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,Idaho,Democratic primary runoff results,Primary,Total,False,,,"25,291",
 1960,Idaho,Republican primary results,Primary,Winning,True,Republican Party (United States),Henry Dworshak,"44,030",100.00
 1960,Idaho,Republican primary results,Primary,Total,False,,,"44,030",
-1960,Illinois,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Paul H. Douglas,"916,951",100
+1960,Illinois,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Paul H. Douglas,"916,951",100
 1960,Illinois,Democratic primary results,Primary,Write-in,False,,,8,0.00
 1960,Illinois,Democratic primary results,Primary,Total,False,,,"916,959",100
 1960,Illinois,Republican primary results,Primary,Winning,False,Republican Party (United States),Samuel W. Witwer,"249,849",32.79
@@ -112,7 +112,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1960,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),Robert J. Morris,"120,729",33.33
 1960,New Jersey,Republican primary results,Primary,Candidate,False,Republican Party (United States),David Dearborn,"10,687",2.95
 1960,New Jersey,Republican primary results,Primary,Total,False,,,"362,218",100.00
-1960,New Mexico,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Clinton Anderson,"98,037",81.33
+1960,New Mexico,Democratic primary results,Primary,Winning,True,Democratic Party (United States),Clinton Anderson,"98,037",81.33
 1960,New Mexico,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),James P. Speer,"9,360",7.77
 1960,New Mexico,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),N. Tito Quintana,"8,981",7.45
 1960,New Mexico,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Mac J. Feldhake,"4,168",3.46

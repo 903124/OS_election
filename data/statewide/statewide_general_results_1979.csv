@@ -1,0 +1,10 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1979,Kentucky,KY,governor,1979 Kentucky gubernatorial election,Winning,John Y. Brown Jr.,Democratic,558088,59.49,True,False
+1979,Kentucky,KY,governor,1979 Kentucky gubernatorial election,Candidate,Louie B. Nunn,Republican,380085,40.51,False,False
+1979,Kentucky,KY,governor,1979 Kentucky gubernatorial election,Total,,,938173,100.0,False,False
+1979,Louisiana,LA,governor,1979 Louisiana gubernatorial runoff,Winning,David Treen,Republican,690691,50.35,True,False
+1979,Louisiana,LA,governor,1979 Louisiana gubernatorial runoff,Candidate,Louis Lambert,Democratic,681134,49.65,False,False
+1979,Louisiana,LA,governor,1979 Louisiana gubernatorial runoff,Total,,,1371825,100.0,False,False
+1979,Mississippi,MS,governor,"Mississippi gubernatorial election, 1979",Winning,William Winter,Democratic,413620,61.07,True,False
+1979,Mississippi,MS,governor,"Mississippi gubernatorial election, 1979",Candidate,Gil Carmichael,Republican,263702,38.93,False,False
+1979,Mississippi,MS,governor,"Mississippi gubernatorial election, 1979",Total,,,677322,100.0,False,False

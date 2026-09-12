@@ -1,0 +1,18 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1995,Kentucky,KY,governor,Democratic primary results,Winning,Paul E. Patton,Democratic,152203,44.95,True,False
+1995,Kentucky,KY,governor,Democratic primary results,Candidate,Bob Babbage,Democratic,81352,24.02,False,False
+1995,Kentucky,KY,governor,Democratic primary results,Candidate,"John A. ""Eck"" Rose",Democratic,71740,21.18,False,False
+1995,Kentucky,KY,governor,Democratic primary results,Candidate,Gatewood Galbraith,Democratic,29039,8.58,False,False
+1995,Kentucky,KY,governor,Democratic primary results,Candidate,"Steven ""Butch"" Maynard",Democratic,4305,1.27,False,False
+1995,Kentucky,KY,governor,Democratic primary results,Total,,,338639,100.0,False,False
+1995,Kentucky,KY,governor,Republican primary results,Winning,Larry Forgy,Republican,97099,82.44,True,False
+1995,Kentucky,KY,governor,Republican primary results,Candidate,"Robert E. ""Bob"" Gable",Republican,17054,14.48,False,False
+1995,Kentucky,KY,governor,Republican primary results,Candidate,Tommy Klein,Republican,3627,3.08,False,False
+1995,Kentucky,KY,governor,Republican primary results,Total,,,117780,100.0,False,False
+1995,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1995",Winning,Dick Molpus,Democratic,396816,77.1,True,False
+1995,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1995",Candidate,Shawn O'Hara,Democratic,117833,22.9,False,False
+1995,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1995",Total,,,514649,100.0,False,False
+1995,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1995",Winning,Kirk Fordice,Republican,117907,93.74,True,True
+1995,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1995",Candidate,"George ""Wagon Wheel"" Blair",Republican,4919,3.91,False,False
+1995,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1995",Candidate,Richard O'Hara,Republican,2956,2.35,False,False
+1995,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1995",Total,,,125782,100.0,False,False

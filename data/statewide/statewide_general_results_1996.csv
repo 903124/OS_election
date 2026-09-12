@@ -1,0 +1,44 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1996,Delaware,DE,governor,"Delaware gubernatorial election, 1996",Winning,Tom Carper,Democratic,188300,69.5,True,True
+1996,Delaware,DE,governor,"Delaware gubernatorial election, 1996",Candidate,Janet Rzewnicki,Republican,82654,30.5,False,False
+1996,Indiana,IN,governor,"Indiana gubernatorial election, 1996",Winning,Frank O'Bannon/Joe Kernan,Democratic,1087128,51.52,True,False
+1996,Indiana,IN,governor,"Indiana gubernatorial election, 1996",Candidate,Stephen Goldsmith/George Witwer,Republican,986982,46.78,False,False
+1996,Indiana,IN,governor,"Indiana gubernatorial election, 1996",Candidate,Steve Dillon/Leona McPherson,Libertarian,35805,1.7,False,False
+1996,Indiana,IN,governor,"Indiana gubernatorial election, 1996",Total,,,2109915,100.0,False,False
+1996,Missouri,MO,governor,"1996 gubernatorial election, Missouri",Winning,Mel Carnahan,Democratic,1224801,57.17,True,True
+1996,Missouri,MO,governor,"1996 gubernatorial election, Missouri",Candidate,Margaret B. Kelly,Republican,866268,40.43,False,False
+1996,Missouri,MO,governor,"1996 gubernatorial election, Missouri",Candidate,J. Mark Oglesby,Libertarian,51432,2.4,False,False
+1996,Missouri,MO,governor,"1996 gubernatorial election, Missouri",Candidate,V. Marvalene Pankey (write-in),N/a,10,0.0,False,False
+1996,Missouri,MO,governor,"1996 gubernatorial election, Missouri",Candidate,Jock Peacock (write-in),N/a,7,0.0,False,False
+1996,Montana,MT,governor,"Montana gubernatorial election, 1996",Winning,Marc Racicot,Republican,320768,79.17,True,True
+1996,Montana,MT,governor,"Montana gubernatorial election, 1996",Candidate,Judy Jacobson,Democratic,84407,20.83,False,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial election,Winning,Jim Hunt,Democratic,1436638,55.98,True,True
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial election,Candidate,Robin Hayes,Republican,1097053,42.75,False,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial election,Candidate,Scott D. Yost,Libertarian,17559,0.68,False,False
+1996,North Carolina,NC,governor,1996 North Carolina gubernatorial election,Candidate,Julia Van Witt,Law,14792,0.58,False,False
+1996,North Dakota,ND,governor,"North Dakota gubernatorial election, 1996",Winning,Ed Schafer (inc.),Republican,174937,66.19,True,False
+1996,North Dakota,ND,governor,"North Dakota gubernatorial election, 1996",Candidate,Lee Kaldor,North Dakota Democratic-npl,89349,33.81,False,False
+1996,North Dakota,ND,governor,"North Dakota gubernatorial election, 1996",Total,,,264286,100.0,False,False
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Winning,Mike Leavitt,Republican,503693,74.97,True,True
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Candidate,Jim Bradley,Democratic,156616,23.31,False,False
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Candidate,Ken Larsen,Independent American,4741,0.71,False,False
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Candidate,Dub Richards,Independent,3845,0.57,False,False
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Candidate,Robert C. Lesh,Law,2969,0.44,False,False
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Candidate,Linda Metzger-Agin,Write-in,15,0.0,False,False
+1996,Utah,UT,governor,1996 Utah gubernatorial election,Total,,,671879,100.0,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Winning,Howard Dean,Democratic,179544,70.51,True,True
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,John L. Gropper,Republican,57161,22.45,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,Mary Alice Herbert,Union,4156,1.63,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,Dennis Lane,Vermont Grassroots,3667,1.44,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,Bill Brunelle,Law,3342,1.31,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,August St. John,Independent,3201,1.26,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Candidate,Neil Randall,Libertarian,2916,1.15,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Write-in,,,661,0.26,False,False
+1996,Vermont,VT,governor,1996 Vermont gubernatorial election,Total,,,254648,100.0,False,False
+1996,Washington,WA,governor,1996 gubernatorial election,Winning,Gary Locke,Democratic,1296492,57.96,True,False
+1996,Washington,WA,governor,1996 gubernatorial election,Candidate,Ellen Craswell,Republican,940538,42.04,False,False
+1996,Washington,WA,governor,1996 gubernatorial election,Total,,,2237030,100.0,False,False
+1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Winning,Cecil Underwood,Republican,324518,51.63,True,False
+1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Candidate,Charlotte Pritt,Democratic,287870,45.8,False,False
+1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Candidate,Wallace Johnson,Libertarian,16171,2.57,False,False
+1996,West Virginia,WV,governor,"West Virginia gubernatorial election, 1996",Total,,,628559,100.0,False,False

@@ -1,0 +1,21 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1969,New Jersey,NJ,governor,Democratic Party primary results,Winning,Robert B. Meyner,Democratic,173801,44.77,True,False
+1969,New Jersey,NJ,governor,Democratic Party primary results,Candidate,William F. Kelly,Democratic,87888,22.64,False,False
+1969,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Henry Helstoski,Democratic,60483,15.58,False,False
+1969,New Jersey,NJ,governor,Democratic Party primary results,Candidate,D. Louis Tonti,Democratic,34810,8.97,False,False
+1969,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Ned J. Parsekian,Democratic,24908,6.42,False,False
+1969,New Jersey,NJ,governor,Democratic Party primary results,Candidate,John L. Hennessey,Democratic,6302,1.62,False,False
+1969,New Jersey,NJ,governor,Democratic Party primary results,Total,,,388192,100.0,False,False
+1969,New Jersey,NJ,governor,Republican primary results,Winning,William T. Cahill,Republican,158980,39.31,True,False
+1969,New Jersey,NJ,governor,Republican primary results,Candidate,Charles W. Sandman Jr.,Republican,144877,35.83,False,False
+1969,New Jersey,NJ,governor,Republican primary results,Candidate,Harry L. Sears,Republican,46778,11.57,False,False
+1969,New Jersey,NJ,governor,Republican primary results,Candidate,Frank X. McDermott,Republican,35503,8.78,False,False
+1969,New Jersey,NJ,governor,Republican primary results,Candidate,William E. Ozzard,Republican,18262,4.52,False,False
+1969,New Jersey,NJ,governor,Republican primary results,Total,,,404400,100.0,False,False
+1969,Virginia,VA,governor,Democratic primary results,Winning,William C. Battle,Democratic,158956,39.6,True,False
+1969,Virginia,VA,governor,Democratic primary results,Candidate,Henry Howell,Democratic,154617,37.0,False,False
+1969,Virginia,VA,governor,Democratic primary results,Candidate,Fred G. Pollard,Democratic,95057,23.4,False,False
+1969,Virginia,VA,governor,Democratic primary results,Total,,,408630,100.0,False,False
+1969,Virginia,VA,governor,Democratic runoff primary results,Winning,William C. Battle,Democratic,226108,51.7,True,False
+1969,Virginia,VA,governor,Democratic runoff primary results,Candidate,Henry Howell,Democratic,207505,48.3,False,False
+1969,Virginia,VA,governor,Democratic runoff primary results,Total,,,433613,100.0,False,False

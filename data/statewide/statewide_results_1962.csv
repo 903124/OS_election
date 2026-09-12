@@ -1,0 +1,87 @@
+year,state,state_code,office,candidate,party,percentage,winner,incumbent
+1962,Alabama,AL,governor,George Wallace,Democratic,96.3,True,False
+1962,Alabama,AL,governor,Frank P. Walls,Republican,3.7,False,False
+1962,Alaska,AK,governor,William A. Egan,Democratic,52.3,True,True
+1962,Alaska,AK,governor,Mike Stepovich,Republican,47.7,False,False
+1962,Arizona,AZ,governor,Paul Fannin,Republican,54.8,True,True
+1962,Arizona,AZ,governor,Samuel Pearson Goddard Jr.,Democratic,45.2,False,False
+1962,Arkansas,AR,governor,Orval Faubus,Democratic,73.3,True,True
+1962,Arkansas,AR,governor,Willis Ricketts,Republican,26.7,False,False
+1962,California,CA,governor,Pat Brown,Democratic,51.9,True,True
+1962,California,CA,governor,Richard Nixon,Republican,46.9,False,False
+1962,California,CA,governor,Robert L. Wyckoff,Prohibition,1.1,False,False
+1962,Colorado,CO,governor,John A. Love,Republican,56.7,True,False
+1962,Colorado,CO,governor,Stephen McNichols,Democratic,42.6,False,True
+1962,Colorado,CO,governor,Louis K. Stephens,Labor,0.4,False,False
+1962,Colorado,CO,governor,Stephen L. DeArvil,Independent,0.3,False,False
+1962,Connecticut,CT,governor,John N. Dempsey,Democratic,53.2,True,True
+1962,Connecticut,CT,governor,John deKoven Alsop,Republican,46.8,False,False
+1962,Georgia,GA,governor,Carl Sanders,Democratic,99.95,True,False
+1962,Hawaii,HI,governor,John A. Burns,Democratic,58.3,True,False
+1962,Hawaii,HI,governor,William F. Quinn,Republican,41.7,False,True
+1962,Idaho,ID,governor,Robert E. Smylie,Republican,54.6,True,True
+1962,Idaho,ID,governor,Vernon K. Smith,Democratic,45.4,False,False
+1962,Iowa,IA,governor,Harold Hughes,Democratic,52.6,True,False
+1962,Iowa,IA,governor,Norman A. Erbe,Republican,47.4,False,True
+1962,Kansas,KS,governor,John Anderson Jr.,Republican,53.4,True,True
+1962,Kansas,KS,governor,Dale E. Saffels,Democratic,45.6,False,False
+1962,Kansas,KS,governor,Vearl Bacon,Prohibition,1.0,False,False
+1962,Maine,ME,governor,John H. Reed,Republican,50.08,True,True
+1962,Maine,ME,governor,Maynard C. Dolloff,Democratic,49.92,False,False
+1962,Maryland,MD,governor,J. Millard Tawes,Democratic,55.6,True,True
+1962,Maryland,MD,governor,Frank Small,Republican,44.4,False,False
+1962,Massachusetts,MA,governor,Endicott Peabody,Democratic,49.92,True,False
+1962,Massachusetts,MA,governor,John Volpe,Republican,49.71,False,True
+1962,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.26,False,False
+1962,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.11,False,False
+1962,Michigan,MI,governor,George W. Romney,Republican,51.4,True,False
+1962,Michigan,MI,governor,John Swainson,Democratic,48.5,False,True
+1962,Michigan,MI,governor,James Sim,Labor,0.2,False,False
+1962,Minnesota,MN,governor,Karl Rolvaag,Minnesota Democratic-farmer-labor,49.714,True,False
+1962,Minnesota,MN,governor,Elmer L. Andersen,Republican,49.706,False,True
+1962,Minnesota,MN,governor,William Braatz,Independent,0.58,False,False
+1962,Nebraska,NE,governor,Frank B. Morrison,Democratic,52.2,True,True
+1962,Nebraska,NE,governor,Fred A. Seaton,Republican,47.8,False,False
+1962,Nevada,NV,governor,Grant Sawyer,Democratic,66.8,True,True
+1962,Nevada,NV,governor,Oran K. Gragson,Republican,33.2,False,False
+1962,New Hampshire,NH,governor,John W. King,Democratic,58.9,True,False
+1962,New Hampshire,NH,governor,John Pillsbury,Republican,41.1,False,False
+1962,New Mexico,NM,governor,Jack M. Campbell,Democratic,53.0,True,False
+1962,New Mexico,NM,governor,Edwin L. Mechem,Republican,47.0,False,True
+1962,New York,NY,governor,Nelson Rockefeller,Republican,53.1,True,True
+1962,New York,NY,governor,Robert Morgenthau,Democratic,44.0,False,False
+1962,New York,NY,governor,David H. Jaquith,Conservative,2.4,False,False
+1962,New York,NY,governor,Richard Garza,Workers,0.3,False,False
+1962,New York,NY,governor,Eric Hass,Labor,0.2,False,False
+1962,North Dakota,ND,governor,William L. Guy,North Dakota Democratic-npl,50.44,True,True
+1962,North Dakota,ND,governor,Mark Andrews,Republican,49.56,False,False
+1962,Ohio,OH,governor,Jim Rhodes,Republican,58.9,True,False
+1962,Ohio,OH,governor,Michael DiSalle,Democratic,41.1,False,True
+1962,Oklahoma,OK,governor,Henry Bellmon,Republican,55.3,True,False
+1962,Oklahoma,OK,governor,W.P. Atkinson,Democratic,44.4,False,False
+1962,Oklahoma,OK,governor,Richard Zavitz,Independent,0.3,False,False
+1962,Oregon,OR,governor,Mark Hatfield,Republican,54.2,True,True
+1962,Oregon,OR,governor,Robert Y. Thornton,Democratic,41.6,False,False
+1962,Oregon,OR,governor,Robert H. Wampler,Independent,4.1,False,False
+1962,Pennsylvania,PA,governor,William Scranton,Republican,55.4,True,False
+1962,Pennsylvania,PA,governor,Richardson Dilworth,Democratic,44.3,False,False
+1962,Pennsylvania,PA,governor,George Sam Taylor,Labor,0.33,False,False
+1962,Rhode Island,RI,governor,John Chafee,Republican,50.06,True,False
+1962,Rhode Island,RI,governor,John A. Notte Jr.,Democratic,49.94,False,True
+1962,South Carolina,SC,governor,Donald S. Russell,Democratic,100.0,True,False
+1962,South Dakota,SD,governor,Archie M. Gubbrud,Republican,56.1,True,True
+1962,South Dakota,SD,governor,Ralph Herseth,Democratic,43.9,False,False
+1962,Tennessee,TN,governor,Frank G. Clement,Democratic,50.9,True,False
+1962,Tennessee,TN,governor,William Anderson,Independent,32.8,False,False
+1962,Tennessee,TN,governor,Hubert David Patty,Republican,16.1,False,False
+1962,Tennessee,TN,governor,E.B. Bowles,Independent,0.2,False,False
+1962,Texas,TX,governor,John Connally,Democratic,54.0,True,False
+1962,Texas,TX,governor,Jack Cox,Republican,45.6,False,False
+1962,Texas,TX,governor,Jack Carswell,"Constitution Party (us, 1952)",0.45,False,False
+1962,Vermont,VT,governor,Philip H. Hoff,Democratic,50.54,True,False
+1962,Vermont,VT,governor,F. Ray Keyser Jr.,Republican,49.46,False,True
+1962,Wisconsin,WI,governor,John W. Reynolds Jr.,Democratic,50.37,True,False
+1962,Wisconsin,WI,governor,Philip G. Kuehn,Republican,49.43,False,False
+1962,Wisconsin,WI,governor,Adolf Wiggert,Independent,0.2,False,False
+1962,Wyoming,WY,governor,Clifford Hansen,Republican,54.5,True,False
+1962,Wyoming,WY,governor,Jack R. Gage,Democratic,45.5,False,True

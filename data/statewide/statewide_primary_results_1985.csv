@@ -1,0 +1,10 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1985,New Jersey,NJ,governor,Republican primary results,Winning,Thomas Kean,Republican,151259,100.0,True,True
+1985,New Jersey,NJ,governor,Republican primary results,Total,,,151259,100.0,False,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Winning,Peter Shapiro,Democratic,101243,31.02,True,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Candidate,John F. Russo,Democratic,86827,26.6,False,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Kenneth A. Gibson,Democratic,85293,26.13,False,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Stephen B. Wiley,Democratic,27914,8.55,False,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Robert Del Tufo,Democratic,19742,6.05,False,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Candidate,Elliot Greenspan,Democratic,5834,1.65,False,False
+1985,New Jersey,NJ,governor,Democratic Party primary results,Total,,,326403,100.0,False,False

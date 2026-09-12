@@ -1,6 +1,6 @@
 Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,percentage
 1926,Arizona,"United States Senate election in Arizona, 1926",General,Winning,False,Democratic Party (United States),Carl T. Hayden,"44,591",58.34%
-1926,Arizona,"United States Senate election in Arizona, 1926",General,Candidate,False,Republican Party (United States),Ralph H. Cameron,"31,845",41.66%
+1926,Arizona,"United States Senate election in Arizona, 1926",General,Candidate,True,Republican Party (United States),Ralph H. Cameron,"31,845",41.66%
 1926,California,1926 United States Senate election in California,General,Winning,True,Republican Party (United States),Samuel Morgan Shortridge,"670,128",63.12%
 1926,California,1926 United States Senate election in California,General,Candidate,False,Democratic Party (United States),John B. Elliott,"391,599",36.88%
 1926,California,1926 United States Senate election in California,General,Total,False,,,"1,061,727",100.00%
@@ -13,7 +13,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Candidate,False,Democratic Party (US),Rollin U. Tyler,"107,753",35.64%
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Candidate,False,Socialist Party (US),Morris Rice,"3,173",1.05%
 1926,Connecticut,1926 U.S. Senate election in Connecticut,General,Total,False,,,"302,327",100.0%
-1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Winning,False,Republican Party (United States),Arthur R. Robinson,"519,401",50.62%
+1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Winning,True,Republican Party (United States),Arthur R. Robinson,"519,401",50.62%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Democratic Party (United States),Evans Woollen,"496,540",48.40%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Prohibition Party (United States),Albert Stanley,"5,205",0.51%
 1926,Indiana (special),1926 U.S. Senate special election in Indiana,General,Candidate,False,Socialist Party USA,William O. Fogleson,"4,864",0.47%
@@ -60,7 +60,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1926,New York,1926 Republican Convention,General,Candidate,False,Republican Party (United States),Charles Evans Hughes,1,0.08%
 1926,New York,1926 Republican Convention,General,Total,False,,,"1,317",100.00%
 1926,New York,1920 United States Senate election in New York,General,Winning,False,Democratic Party (United States),Robert F. Wagner,"1,321,463",46.48%
-1926,New York,1920 United States Senate election in New York,General,Candidate,False,Republican Party (United States),James Wadsworth,"1,205,246",42.40%
+1926,New York,1920 United States Senate election in New York,General,Candidate,True,Republican Party (United States),James Wadsworth,"1,205,246",42.40%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Independent Republican (US),Franklin W. Cristman,"231,906",8.16%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Socialist Party of America,Jessie Wallace Hughan,"73,412",2.58%
 1926,New York,1920 United States Senate election in New York,General,Candidate,False,Communist Party (US),William F. Dunne,"6,444",0.23%

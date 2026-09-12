@@ -1,0 +1,11 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Winning,Thomas Kean,Republican,1372631,69.58,True,True
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Candidate,Peter Shapiro,Democratic,578402,29.32,False,False
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Candidate,Rodger Headrick,Independent,8537,0.43,False,False
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Candidate,Virginia Flynn,Libertarian,4710,0.24,False,False
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Candidate,Mark Satinoff,Workers,3703,0.19,False,False
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Candidate,Julius Levin,Labor,2740,0.14,False,False
+1985,New Jersey,NJ,governor,"New Jersey Gubernatorial Election, 1985",Candidate,George M. Fishman,Communist Party Usa,1901,0.1,False,False
+1985,Virginia,VA,governor,1985 Virginia gubernatorial election,Winning,Gerald L. Baliles,Democratic,741438,55.2,True,False
+1985,Virginia,VA,governor,1985 Virginia gubernatorial election,Candidate,Wyatt B. Durrette Jr.,Republican,601652,44.79,False,False
+1985,Virginia,VA,governor,1985 Virginia gubernatorial election,Write-in,Write-ins,Write-ins,153,0.01,False,False

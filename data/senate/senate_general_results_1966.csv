@@ -13,11 +13,11 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,Idaho,General election results,General,Candidate,False,Democratic Party (United States),Ralph Harding,"112,637",44.62%
 1966,Idaho,General election results,General,Total,False,,,"252,456",100.00%
 1966,Illinois,"United States Senate election in Illinois, 1966",General,Winning,False,Republican Party (US),Charles H. Percy,"2,100,449",54.95%
-1966,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,False,Democratic Party (US),Paul H. Douglas,"1,678,147",43.90%
+1966,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,True,Democratic Party (US),Paul H. Douglas,"1,678,147",43.90%
 1966,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,False,Write-in,Robert Sabonjian,"41,965",1.10%
 1966,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,False,Write-in,Maxwell Primack,"1,693",0.04%
 1966,Illinois,"United States Senate election in Illinois, 1966",General,Candidate,False,Write-in,Others,470,0.01%
-1966,Iowa,General election results,General,Winning,False,Republican Party (United States),Jack Miller,"522,339",60.92%
+1966,Iowa,General election results,General,Winning,True,Republican Party (United States),Jack Miller,"522,339",60.92%
 1966,Iowa,General election results,General,Candidate,False,Democratic Party (United States),E.B. Smith,"324,114",37.80%
 1966,Iowa,General election results,General,Candidate,False,Write-in,All others,1,0.00%
 1966,Iowa,General election results,General,Total,False,,,"857,496",100.00%
@@ -69,7 +69,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1966,New Jersey,1966 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (United States),Warren W. Wilentz,"788,021",36.98%
 1966,New Jersey,1966 United States Senate election in New Jersey,General,Candidate,False,Independent politician,Robert Lee Schlachter,"53,605",2.52%
 1966,New Jersey,1966 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party of America,Jules Levin,"10,218",0.48%
-1966,New Mexico,"United States Senate election in New Mexico, 1966",General,Winning,False,Democratic Party (United States),Clinton Anderson,"137,205",53.14%
+1966,New Mexico,"United States Senate election in New Mexico, 1966",General,Winning,True,Democratic Party (United States),Clinton Anderson,"137,205",53.14%
 1966,New Mexico,"United States Senate election in New Mexico, 1966",General,Candidate,False,Republican Party (United States),Anderson Carter,"120,988",46.86%
 1966,New Mexico,"United States Senate election in New Mexico, 1966",General,Total,False,,,"258,193",100.00%
 1966,North Carolina,1966 U.S. Senate election in North Carolina,General,Winning,True,Democratic Party (United States),B. Everett Jordan,"501,440",55.59%

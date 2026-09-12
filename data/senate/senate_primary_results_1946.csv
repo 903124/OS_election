@@ -109,7 +109,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Ohio,1946 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Marvin C. Harrison,"70,697",25.18%
 1946,Ohio,1946 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Edward A. Huth,"12,133",4.32%
 1946,Ohio,1946 Democratic Senate primary,Primary,Total,False,,,"280,810",100.00%
-1946,Tennessee,1946 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Kenneth McKellar,"188,805",61.95%
+1946,Tennessee,1946 Democratic Senate primary,Primary,Winning,True,Democratic Party (United States),Kenneth McKellar,"188,805",61.95%
 1946,Tennessee,1946 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Edward W. Carmack Jr.,"107,363",35.23%
 1946,Tennessee,1946 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),John Randolph Neal Jr.,"3,130",1.03%
 1946,Tennessee,1946 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Herman H. Ross,"2,995",0.98%
@@ -131,7 +131,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Virginia,1946 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (US),Martin A. Hutchinson,"81,605",36.51%
 1946,Virginia,1946 Democratic U.S. Senate primary,Primary,Total,False,,,"223,528",100.00%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Winning,False,Republican Party (US),Harry Cain,"158,596",43.88%
-1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Winning,False,Democratic Party (US),Hugh Mitchell,"134,286",37.15%
+1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Winning,True,Democratic Party (US),Hugh Mitchell,"134,286",37.15%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Candidate,False,Democratic Party (US),Russell H. Fluent,"35,758",9.89%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Candidate,False,Republican Party (US),Ed F. Oldfield,"21,017",5.82%
 1946,Washington,1946 U.S. Senate primary election in Washington,Primary,Candidate,False,Republican Party (US),Sam C. Herren,"11,789",3.26%

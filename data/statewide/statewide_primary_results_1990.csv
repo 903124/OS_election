@@ -1,0 +1,262 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1990,Alabama,AL,governor,Democratic primary results,Winning,Paul Hubbert,Democratic,233808,31.5,True,False
+1990,Alabama,AL,governor,Democratic primary results,Winning,Don Siegelman,Democratic,184635,24.9,True,False
+1990,Alabama,AL,governor,Democratic primary results,Candidate,Fob James,Democratic,160121,21.6,False,False
+1990,Alabama,AL,governor,Democratic primary results,Candidate,Ronnie Flippo,Democratic,128105,17.3,False,False
+1990,Alabama,AL,governor,Democratic primary results,Candidate,Charles Bishop,Democratic,31684,4.3,False,False
+1990,Alabama,AL,governor,Democratic primary results,Candidate,Ed Daw,Democratic,3357,0.5,False,False
+1990,Alabama,AL,governor,Democratic primary results,Total,,,741710,100.0,False,False
+1990,Alabama,AL,governor,Democratic runoff results,Winning,Paul Hubbert,Democratic,309609,53.6,True,False
+1990,Alabama,AL,governor,Democratic runoff results,Candidate,Don Siegelman,Democratic,267588,46.4,False,False
+1990,Alabama,AL,governor,Democratic runoff results,Total,,,577197,100.0,False,False
+1990,California,CA,governor,Republican primary results,Winning,Pete Wilson,Republican,1856614,87.5,True,False
+1990,California,CA,governor,Republican primary results,Candidate,David M. Williams,Republican,107397,5.06,False,False
+1990,California,CA,governor,Republican primary results,Candidate,Jeffrey T. Greene,Republican,79083,3.73,False,False
+1990,California,CA,governor,Republican primary results,Candidate,Donald L. Bullock,Republican,54577,2.57,False,False
+1990,California,CA,governor,Republican primary results,Candidate,William B. Allen (write-in),Republican,24058,1.13,False,False
+1990,California,CA,governor,Republican primary results,Total,,,2121729,100.0,False,False
+1990,California,CA,governor,Democratic primary results,Winning,Dianne Feinstein,Democratic,1361360,52.26,True,False
+1990,California,CA,governor,Democratic primary results,Candidate,John Van de Kamp,Democratic,1067899,41.0,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Frank L. Thomas,Democratic,35900,1.38,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Charles Pineda Jr.,Democratic,25396,0.97,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Franklin R. Geraty,Democratic,24251,0.93,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,John Hancock Abbott,Democratic,19697,0.76,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Charles A. Mahon III,Democratic,17987,0.69,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,F. Frank Wong,Democratic,16280,0.62,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Eileen Anderson,Democratic,16116,0.62,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Lydon Byrne,Democratic,11975,0.46,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Mark Calney,Democratic,7923,0.3,False,False
+1990,California,CA,governor,Democratic primary results,Candidate,Sue Lockard Digre (write-in),Democratic,68,0.0,False,False
+1990,California,CA,governor,Democratic primary results,Total,,,2604852,100.0,False,False
+1990,Colorado,CO,governor,Democratic primary results,Winning,Roy Romer,Democratic,165164,100.0,True,True
+1990,Colorado,CO,governor,Republican primary results,Winning,John Andrews,Republican,156418,100.0,True,False
+1990,Connecticut,CT,governor,"September 11, 1990 Democratic primary",Winning,Bruce Morrison,Democratic,84771,64.68,True,False
+1990,Connecticut,CT,governor,"September 11, 1990 Democratic primary",Candidate,William J. Cibes Jr.,Democratic,46294,35.32,False,False
+1990,Connecticut,CT,governor,"September 11, 1990 Democratic primary",Total,,,131065,100.0,False,False
+1990,Florida,FL,governor,Republican primary results,Winning,Bob Martinez,Republican,460718,69.0,True,True
+1990,Florida,FL,governor,Republican primary results,Candidate,Marlene Woodson Howard,Republican,132565,19.8,False,False
+1990,Florida,FL,governor,Republican primary results,Candidate,John Davis,Republican,34720,5.2,False,False
+1990,Florida,FL,governor,Republican primary results,Candidate,Andy Martin,Republican,28591,4.3,False,False
+1990,Florida,FL,governor,Republican primary results,Candidate,Warren H. Folks,Republican,11587,1.7,False,False
+1990,Florida,FL,governor,Republican primary results,Total,,,668181,100.0,False,False
+1990,Florida,FL,governor,Democratic primary results,Winning,Lawton Chiles,Democratic,746325,69.5,True,False
+1990,Florida,FL,governor,Democratic primary results,Candidate,Bill Nelson,Democratic,327731,30.5,False,False
+1990,Florida,FL,governor,Democratic primary results,Total,,,1074056,100.0,False,False
+1990,Georgia,GA,governor,Democratic primary results,Winning,Zell Miller,Democratic,434405,41.28,True,False
+1990,Georgia,GA,governor,Democratic primary results,Winning,Andrew Young,Democratic,303159,28.81,True,False
+1990,Georgia,GA,governor,Democratic primary results,Candidate,Roy Barnes,Democratic,219136,20.82,False,False
+1990,Georgia,GA,governor,Democratic primary results,Candidate,"Lauren 'Bubba' McDonald, Jr.",Democratic,64212,6.1,False,False
+1990,Georgia,GA,governor,Democratic primary results,Candidate,Lester Maddox,Democratic,31403,2.98,False,False
+1990,Georgia,GA,governor,Democratic primary results,Total,,,1052315,100.0,False,False
+1990,Georgia,GA,governor,Democratic primary runoff results,Winning,Zell Miller,Democratic,591166,61.84,True,False
+1990,Georgia,GA,governor,Democratic primary runoff results,Candidate,Andrew Young,Democratic,364861,38.16,False,False
+1990,Georgia,GA,governor,Democratic primary runoff results,Total,,,956027,100.0,False,False
+1990,Georgia,GA,governor,Republican primary results,Winning,Johnny Isakson,Republican,87795,74.33,True,False
+1990,Georgia,GA,governor,Republican primary results,Candidate,Bobby Wood,Republican,14496,12.27,False,False
+1990,Georgia,GA,governor,Republican primary results,Candidate,Greeley Ellis,Republican,13062,11.06,False,False
+1990,Georgia,GA,governor,Republican primary results,Candidate,"Eli ""Link"" Veazey",Republican,2765,2.34,False,False
+1990,Georgia,GA,governor,Republican primary results,Total,,,118118,100.0,False,False
+1990,Idaho,ID,governor,Republican primary results,Winning,Roger Fairchild,Republican,37728,37.09,True,False
+1990,Idaho,ID,governor,Republican primary results,Candidate,Rachel Gilbert,Republican,33483,32.92,False,False
+1990,Idaho,ID,governor,Republican primary results,Candidate,Milt Erhart,Republican,30514,30.0,False,False
+1990,Idaho,ID,governor,Republican primary results,Total,,,101725,100.0,False,False
+1990,Illinois,IL,governor,Democratic gubernatorial primary,Winning,Neil F. Hartigan,Democratic,802901,100.0,True,False
+1990,Illinois,IL,governor,Democratic gubernatorial primary,Total,,,802901,100.0,False,False
+1990,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Winning,James B. Burns,Democratic,719091,100.0,True,False
+1990,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Total,,,719091,100.0,False,False
+1990,Illinois,IL,governor,Republican gubernatorial primary,Winning,Jim Edgar,Republican,482441,62.84,True,False
+1990,Illinois,IL,governor,Republican gubernatorial primary,Candidate,Steve Baer,Republican,256889,33.46,False,False
+1990,Illinois,IL,governor,Republican gubernatorial primary,Candidate,Robert Marshall,Republican,28365,3.69,False,False
+1990,Illinois,IL,governor,Republican gubernatorial primary,Total,,,767695,100.0,False,False
+1990,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Winning,Bob Kustra,Republican,584121,100.0,True,False
+1990,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Candidate,Henry Gillman,Republican,38,0.0,False,False
+1990,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Total,,,584159,100.0,False,False
+1990,Illinois,IL,governor,Solidarity gubernatorial primary,Winning,Jeff W. Smith,Write-in,13,100.0,True,False
+1990,Illinois,IL,governor,Solidarity gubernatorial primary,Total,,,13,100.0,False,False
+1990,Iowa,IA,governor,Democratic primary results,Winning,Donald Avenson,Democratic,79022,39.45,True,False
+1990,Iowa,IA,governor,Democratic primary results,Candidate,Tom Miller,Democratic,63364,31.63,False,False
+1990,Iowa,IA,governor,Democratic primary results,Candidate,John Crystal,Democratic,52170,26.05,False,False
+1990,Iowa,IA,governor,Democratic primary results,Candidate,Jo Ann Zimmerman,Democratic,4475,2.23,False,False
+1990,Iowa,IA,governor,Democratic primary results,Candidate,Darold Powers,Democratic,1167,0.58,False,False
+1990,Iowa,IA,governor,Democratic primary results,Candidate,Write-ins,Democratic,107,0.05,False,False
+1990,Iowa,IA,governor,Democratic primary results,Total,,,200305,100.0,False,False
+1990,Iowa,IA,governor,Republican primary results,Winning,Terry Branstad (inc.),Republican,94253,99.52,True,False
+1990,Iowa,IA,governor,Republican primary results,Candidate,Write-ins,Republican,453,0.47,False,False
+1990,Iowa,IA,governor,Republican primary results,Total,,,94706,100.0,False,False
+1990,Maryland,MD,governor,Democratic primary results,Winning,William Donald Schaefer,Democratic,358534,78.05,True,True
+1990,Maryland,MD,governor,Democratic primary results,Candidate,Frederick M. Grisser Jr.,Democratic,100816,21.95,False,False
+1990,Maryland,MD,governor,Democratic primary results,Total,,,459350,100.0,False,False
+1990,Maryland,MD,governor,Republican primary results,Winning,William S. Shepard,Republican,66966,52.72,True,False
+1990,Maryland,MD,governor,Republican primary results,Candidate,Ross Zimmerman Pierpont,Republican,60065,47.28,False,False
+1990,Maryland,MD,governor,Republican primary results,Total,,,127031,100.0,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 1990",Winning,John Silber,Democratic,562222,53.47,True,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 1990",Candidate,Francis X. Bellotti,Democratic,459128,43.67,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 1990",Candidate,Evelyn Murphy (withdrawn),Democratic,30054,2.86,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic gubernatorial primary, 1990",Total,,,1051404,100.0,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic lt. gubernatorial primary, 1990",Winning,Marjorie Clapprood,Democratic,498241,52.02,True,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic lt. gubernatorial primary, 1990",Candidate,William B. Golden,Democratic,283719,29.62,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic lt. gubernatorial primary, 1990",Candidate,Nicholas Paleologos,Democratic,175558,18.33,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Democratic lt. gubernatorial primary, 1990",Total,,,957518,100.0,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1990",Winning,Bill Weld,Republican,270319,60.56,True,False
+1990,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1990",Candidate,Steven Pierce,Republican,176070,39.44,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Republican gubernatorial primary, 1990",Total,,,446389,100.0,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Republican lt. gubernatorial election, 1990",Winning,Paul Cellucci,Republican,241354,59.41,True,False
+1990,Massachusetts,MA,governor,"Massachusetts Republican lt. gubernatorial election, 1990",Candidate,Peter G. Torkildsen,Republican,164732,40.55,False,False
+1990,Massachusetts,MA,governor,"Massachusetts Republican lt. gubernatorial election, 1990",Total,,,406086,100.0,False,False
+1990,Michigan,MI,governor,Democratic primary results,Winning,James J. Blanchard (inc.),Democratic,371962,99.98,True,False
+1990,Michigan,MI,governor,Democratic primary results,Candidate,Scattering,Democratic,62,0.02,False,False
+1990,Michigan,MI,governor,Democratic primary results,Total,,,372024,100.0,False,False
+1990,Michigan,MI,governor,Republican primary results,Winning,John Engler,Republican,409747,86.59,True,False
+1990,Michigan,MI,governor,Republican primary results,Candidate,John Lauve,Republican,63457,13.41,False,False
+1990,Michigan,MI,governor,Republican primary results,Candidate,Scattering,Republican,19,0.0,False,False
+1990,Michigan,MI,governor,Republican primary results,Total,,,473223,100.0,False,False
+1990,Minnesota,MN,governor,1990 DFL gubernatorial primary,Winning,Rudy Perpich,Minnesota Democratic-farmer-labor,218410,55.49,True,True
+1990,Minnesota,MN,governor,1990 DFL gubernatorial primary,Candidate,Mike Hatch,Minnesota Democratic-farmer-labor,166183,42.22,False,False
+1990,Minnesota,MN,governor,1990 DFL gubernatorial primary,Candidate,Kent S. Herschbach,Minnesota Democratic-farmer-labor,8978,2.28,False,False
+1990,Minnesota,MN,governor,1990 DFL gubernatorial primary,Total,,,393571,100.0,False,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Winning,Jon Grunseth,Independent-republican,169451,49.42,True,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Candidate,Arne Carlson,Independent-republican,108446,31.63,False,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Candidate,Doug A. Kelley,Independent-republican,57872,16.88,False,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Candidate,Mary Jane Rachner,Independent-republican,2944,0.86,False,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Candidate,Samuel A. Faulk,Independent-republican,2557,0.75,False,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Candidate,Beatrice Mooney,Independent-republican,1609,0.47,False,False
+1990,Minnesota,MN,governor,1990 Independent-Republican gubernatorial primary,Total,,,342879,100.0,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Winning,Ben Nelson,Democratic,44556,26.72,True,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Bill Hoppner,Democratic,44515,26.7,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Mike Boyle,Democratic,41226,24.72,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Bill Harris,Democratic,31516,18.9,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Robert Prokop,Democratic,2762,1.66,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Don Eret,Democratic,1295,0.78,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Robb Nimic,Democratic,724,0.43,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Candidate,Write-ins,Democratic,150,0.09,False,False
+1990,Nebraska,NE,governor,Democratic gubernatorial primary results,Total,,,166744,100.0,False,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Winning,Maxine Moul,Democratic,40043,29.85,True,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Steve Wiitala,Democratic,35953,26.8,False,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Ken L. Michaelis,Democratic,22284,16.61,False,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Gary L. Rogge,Democratic,17980,13.4,False,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Keith B. Edquist,Democratic,17645,13.15,False,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Candidate,Write-ins,Democratic,235,0.18,False,False
+1990,Nebraska,NE,governor,Democratic lieutenant gubernatorial primary results,Total,,,134140,100.0,False,False
+1990,Nebraska,NE,governor,Republican gubernatorial primary results,Winning,Kay Orr,Republican,130045,68.11,True,True
+1990,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Mort Sullivan,Republican,59048,30.92,False,False
+1990,Nebraska,NE,governor,Republican gubernatorial primary results,Candidate,Write-ins,Republican,1848,0.97,False,False
+1990,Nebraska,NE,governor,Republican gubernatorial primary results,Total,,,190941,100.0,False,False
+1990,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Winning,Jack Maddux,Republican,103900,67.2,True,False
+1990,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Candidate,Roy Brettmann,Republican,50180,32.46,False,False
+1990,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Candidate,Write-ins,Republican,533,0.34,False,False
+1990,Nebraska,NE,governor,Republican lieutenant gubernatorial primary results,Total,,,154613,100.0,False,False
+1990,Nevada,NV,governor,Democratic primary results,Winning,Bob Miller,Democratic,71537,81.02,True,True
+1990,Nevada,NV,governor,Democratic primary results,Candidate,None of These Candidates,,7394,8.37,False,False
+1990,Nevada,NV,governor,Democratic primary results,Candidate,Rhinestone Cowboy,Democratic,2451,2.78,False,False
+1990,Nevada,NV,governor,Democratic primary results,Candidate,Knight Allen,Democratic,2201,2.49,False,False
+1990,Nevada,NV,governor,Democratic primary results,Candidate,William Harrison Morrison,Democratic,2002,2.27,False,False
+1990,Nevada,NV,governor,Democratic primary results,Candidate,Robert J. Edwards Sr.,Democratic,1707,1.93,False,False
+1990,Nevada,NV,governor,Democratic primary results,Candidate,Federick George Wilson,Democratic,1005,1.14,False,False
+1990,Nevada,NV,governor,Democratic primary results,Total,,,88297,100.0,False,False
+1990,Nevada,NV,governor,Republican Primary results,Winning,Jim Gallaway,Republican,37467,48.93,True,False
+1990,Nevada,NV,governor,Republican Primary results,Candidate,Charlie Brown,Republican,16607,21.69,False,False
+1990,Nevada,NV,governor,Republican Primary results,Candidate,None of These Candidates,,16565,21.63,False,False
+1990,Nevada,NV,governor,Republican Primary results,Candidate,John Glab,Republican,1490,1.95,False,False
+1990,Nevada,NV,governor,Republican Primary results,Candidate,"M.L. ""Smokey"" Stover",Republican,1095,1.42,False,False
+1990,Nevada,NV,governor,Republican Primary results,Candidate,Vince Lee Thompson,Republican,1054,1.38,False,False
+1990,Nevada,NV,governor,Republican Primary results,Candidate,Loyd Ellis,Republican,914,1.19,False,False
+1990,Nevada,NV,governor,Republican Primary results,Total,,,75192,100.0,False,False
+1990,New Mexico,NM,governor,Democratic primary results,Winning,Bruce King,Democratic,95884,52.9,True,False
+1990,New Mexico,NM,governor,Democratic primary results,Candidate,Paul Bardacke,Democratic,70169,38.72,False,False
+1990,New Mexico,NM,governor,Democratic primary results,Candidate,Tony Scarborough,Democratic,8931,4.93,False,False
+1990,New Mexico,NM,governor,Democratic primary results,Candidate,Bob Gold,Democratic,6256,3.45,False,False
+1990,New Mexico,NM,governor,Democratic primary results,Total,,,181240,100.0,False,False
+1990,New Mexico,NM,governor,Republican primary results,Winning,Frank M. Bond,Republican,44928,55.49,True,False
+1990,New Mexico,NM,governor,Republican primary results,Candidate,Les Houston,Republican,27053,33.44,False,False
+1990,New Mexico,NM,governor,Republican primary results,Candidate,James A. Caudell,Republican,4681,5.78,False,False
+1990,New Mexico,NM,governor,Republican primary results,Candidate,Harry E. Kinney,Republican,4289,5.3,False,False
+1990,New Mexico,NM,governor,Republican primary results,Total,,,80971,100.0,False,False
+1990,Ohio,OH,governor,Democratic primary results,Winning,"Anthony J. Celebrezze, Jr.",Democratic,683932,83.85,True,False
+1990,Ohio,OH,governor,Democratic primary results,Candidate,Michael Hugh Lord,Democratic,131564,16.13,False,False
+1990,Ohio,OH,governor,Democratic primary results,Candidate,Write-ins,Democratic,191,0.02,False,False
+1990,Ohio,OH,governor,Democratic primary results,Total,,,815687,100.0,False,False
+1990,Ohio,OH,governor,Republican primary results,Winning,George Voinovich,Republican,645224,100.0,True,False
+1990,Ohio,OH,governor,Republican primary results,Total,,,645224,100.0,False,False
+1990,Oklahoma,OK,governor,Democratic primary results,Winning,Wes Watkins,Democratic,175568,32.33,True,False
+1990,Oklahoma,OK,governor,Democratic primary results,Winning,David Walters,Democratic,171730,31.63,True,False
+1990,Oklahoma,OK,governor,Democratic primary results,Candidate,Steve Lewis,Democratic,160455,29.55,False,False
+1990,Oklahoma,OK,governor,Democratic primary results,Candidate,"John ""Shorty"" Barnett",Democratic,23648,4.36,False,False
+1990,Oklahoma,OK,governor,Democratic primary results,Candidate,Anne Hartin Langston,Democratic,11605,2.14,False,False
+1990,Oklahoma,OK,governor,Democratic primary results,Total,,,543006,100.0,False,False
+1990,Oklahoma,OK,governor,Democratic primary runoff results,Winning,David Walters,Democratic,243252,50.69,True,False
+1990,Oklahoma,OK,governor,Democratic primary runoff results,Candidate,Wes Watkins,Democratic,236597,49.31,False,False
+1990,Oklahoma,OK,governor,Democratic primary runoff results,Total,,,479849,100.0,False,False
+1990,Oklahoma,OK,governor,Republican primary results,Winning,Vince Orza,Republican,75992,40.11,True,False
+1990,Oklahoma,OK,governor,Republican primary results,Winning,Bill Price,Republican,51355,27.11,True,False
+1990,Oklahoma,OK,governor,Republican primary results,Candidate,Burns Hargis,Republican,33641,17.76,False,False
+1990,Oklahoma,OK,governor,Republican primary results,Candidate,Jerry Brown,Republican,25670,13.55,False,False
+1990,Oklahoma,OK,governor,Republican primary results,Candidate,Jerry Hoyt,Republican,2792,1.47,False,False
+1990,Oklahoma,OK,governor,Republican primary results,Total,,,189450,100.0,False,False
+1990,Oklahoma,OK,governor,Republican primary runoff results,Winning,Bill Price,Republican,94682,50.83,True,False
+1990,Oklahoma,OK,governor,Republican primary runoff results,Candidate,Vince Orza,Republican,91599,49.17,False,False
+1990,Oklahoma,OK,governor,Republican primary runoff results,Total,,,186281,100.0,False,False
+1990,Oregon,OR,governor,Democratic primary results,Winning,Barbara Roberts,Democratic,251838,98.36,True,False
+1990,Oregon,OR,governor,Democratic primary results,Candidate,Scattering,Democratic,4194,1.63,False,False
+1990,Oregon,OR,governor,Democratic primary results,Total,,,256032,100.0,False,False
+1990,Oregon,OR,governor,Republican primary results,Winning,Dave Frohnmayer,Republican,227867,79.11,True,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,John Lim,Republican,32397,11.25,False,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,Ed Christie,Republican,8285,2.88,False,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,Terry Hutchison,Republican,7412,2.57,False,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,Edward Thomas Steubs,Republican,4847,1.68,False,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,William Sparks,Republican,2906,0.86,False,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,Sanford Blau,Republican,2006,0.7,False,False
+1990,Oregon,OR,governor,Republican primary results,Candidate,Scattering,Republican,2760,0.96,False,False
+1990,Oregon,OR,governor,Republican primary results,Total,,,288040,100.0,False,False
+1990,Pennsylvania,PA,governor,"Pennsylvania gubernatorial Democratic primary election, 1990",Winning,Bob Casey,Democratic,636594,77.54,True,False
+1990,Pennsylvania,PA,governor,"Pennsylvania gubernatorial Democratic primary election, 1990",Candidate,Philip J. Berg,Democratic,184365,22.46,False,False
+1990,Pennsylvania,PA,governor,"Pennsylvania gubernatorial Democratic primary election, 1990",Total,,,820959,100.0,False,False
+1990,Pennsylvania,PA,governor,"Pennsylvania gubernatorial Republican primary election, 1990",Winning,Barbara Hafer,Republican,321026,54.43,True,False
+1990,Pennsylvania,PA,governor,"Pennsylvania gubernatorial Republican primary election, 1990",Candidate,Peg Luksik,Republican,268773,45.57,False,False
+1990,Pennsylvania,PA,governor,"Pennsylvania gubernatorial Republican primary election, 1990",Total,,,589799,100.0,False,False
+1990,Rhode Island,RI,governor,Republican primary results,Winning,Edward D. DiPrete,Republican,7644,70.77,True,True
+1990,Rhode Island,RI,governor,Republican primary results,Candidate,Steve White,Republican,3157,29.23,False,False
+1990,Rhode Island,RI,governor,Republican primary results,Total,,,10801,100.0,False,False
+1990,Rhode Island,RI,governor,Democratic primary results,Winning,Bruce Sundlun,Democratic,68021,40.51,True,False
+1990,Rhode Island,RI,governor,Democratic primary results,Candidate,Francis X. Flaherty,Democratic,53821,32.05,False,False
+1990,Rhode Island,RI,governor,Democratic primary results,Candidate,Joseph R. Paolino Jr.,Democratic,46074,27.44,False,False
+1990,Rhode Island,RI,governor,Democratic primary results,Total,,,167916,100.0,False,False
+1990,South Carolina,SC,governor,Democratic primary,Candidate,Theo Mitchell,,116471,,False,False
+1990,South Carolina,SC,governor,Democratic primary,Candidate,Ernie Passailaigue,,87639,,False,False
+1990,Texas,TX,governor,Republican primary results,Winning,Clayton Williams,Republican,520014,60.8,True,False
+1990,Texas,TX,governor,Republican primary results,Candidate,Kent Hance,Republican,132142,14.35,False,False
+1990,Texas,TX,governor,Republican primary results,Candidate,Tom Luce,Republican,115835,13.54,False,False
+1990,Texas,TX,governor,Republican primary results,Candidate,Jack Rains,Republican,82461,9.64,False,False
+1990,Texas,TX,governor,Republican primary results,Candidate,W. N. Otwell,Republican,2310,0.27,False,False
+1990,Texas,TX,governor,Republican primary results,Candidate,Royce X. Owens,Republican,1392,0.16,False,False
+1990,Texas,TX,governor,Republican primary results,Candidate,Ed Cude,Republican,1077,0.13,False,False
+1990,Texas,TX,governor,Republican primary results,Total,,,855231,100.0,False,False
+1990,Texas,TX,governor,Democratic primary results,Winning,Ann Richards,Democratic,580191,39.01,True,False
+1990,Texas,TX,governor,Democratic primary results,Winning,Jim Mattox,Democratic,546103,38.72,True,False
+1990,Texas,TX,governor,Democratic primary results,Candidate,Mark White,Democratic,288161,19.38,False,False
+1990,Texas,TX,governor,Democratic primary results,Candidate,Theresa Hearn-Haynes,Democratic,31395,2.11,False,False
+1990,Texas,TX,governor,Democratic primary results,Candidate,Earl Holmes,Democratic,17904,1.2,False,False
+1990,Texas,TX,governor,Democratic primary results,Candidate,Stanley Adams,Democratic,16118,1.08,False,False
+1990,Texas,TX,governor,Democratic primary results,Candidate,Ray Rachal,Democratic,9388,0.63,False,False
+1990,Texas,TX,governor,Democratic primary results,Candidate,Jim Mattox,Democratic,481739,42.91,False,False
+1990,Texas,TX,governor,Democratic primary results,Total,,,1487734,100.0,False,False
+1990,Vermont,VT,governor,Democratic Primary results,Winning,Peter Welch,Democratic,14661,86.6,True,False
+1990,Vermont,VT,governor,Democratic Primary results,Candidate,William Gwin,Democratic,1719,10.15,False,False
+1990,Vermont,VT,governor,Democratic Primary results,Candidate,Write-ins,Democratic,550,3.25,False,False
+1990,Vermont,VT,governor,Democratic Primary results,Total,,,16930,100.0,False,False
+1990,Vermont,VT,governor,Republican primary results,Winning,Richard Snelling,Republican,38881,86.65,True,False
+1990,Vermont,VT,governor,Republican primary results,Candidate,Richard F. Gottlieb,Republican,5503,12.26,False,False
+1990,Vermont,VT,governor,Republican primary results,Candidate,Write-ins,Republican,485,1.08,False,False
+1990,Vermont,VT,governor,Republican primary results,Total,,,44869,100.0,False,False
+1990,Vermont,VT,governor,Libertarian primary results,Winning,David Atkinson,Libertarian,113,70.63,True,False
+1990,Vermont,VT,governor,Libertarian primary results,Candidate,Write-ins,Libertarian,47,29.38,False,False
+1990,Vermont,VT,governor,Libertarian primary results,Total,,,160,100.0,False,False
+1990,Wisconsin,WI,governor,Republican gubernatorial primary results,Winning,Tommy G. Thompson,Republican,201467,92.68,True,True
+1990,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Bennett A. Masel,Republican,11230,5.17,False,False
+1990,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Edmond Hou-Seye,Republican,4665,2.15,False,False
+1990,Wisconsin,WI,governor,Republican gubernatorial primary results,Candidate,Willie G. Lovelace (write-in),Republican,8,0.0,False,False
+1990,Wisconsin,WI,governor,Republican gubernatorial primary results,Total,,,217370,100.0,False,False
+1990,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Winning,Scott McCallum,Republican,169403,100.0,True,True
+1990,Wisconsin,WI,governor,Republican lieutenant gubernatorial primary results,Total,,,169403,100.0,False,False
+1990,Wyoming,WY,governor,Democratic primary results,Winning,Mike Sullivan (inc.),Democratic,38447,88.44,True,False
+1990,Wyoming,WY,governor,Democratic primary results,Candidate,Ron Clingman,Democratic,5026,11.56,False,False
+1990,Wyoming,WY,governor,Democratic primary results,Total,,,43473,100.0,False,False

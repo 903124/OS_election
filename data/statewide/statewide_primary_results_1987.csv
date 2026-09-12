@@ -1,0 +1,30 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1987,Kentucky,KY,governor,Democratic primary results,Winning,Wallace Wilkinson,Democratic,221138,34.9,True,False
+1987,Kentucky,KY,governor,Democratic primary results,Candidate,John Y. Brown Jr.,Democratic,163204,25.75,False,False
+1987,Kentucky,KY,governor,Democratic primary results,Candidate,Steve Beshear,Democratic,114439,18.06,False,False
+1987,Kentucky,KY,governor,Democratic primary results,Candidate,W. Grady Stumbo,Democratic,84613,13.35,False,False
+1987,Kentucky,KY,governor,Democratic primary results,Candidate,Julian Carroll,Democratic,42137,6.65,False,False
+1987,Kentucky,KY,governor,Democratic primary results,Candidate,Stanley Luttrell,Democratic,3788,0.6,False,False
+1987,Kentucky,KY,governor,Democratic primary results,Candidate,Dinwiddle Lampton Jr.,Democratic,2638,0.42,False,False
+1987,Kentucky,KY,governor,Democratic primary results,Total,,,633718,100.0,False,False
+1987,Kentucky,KY,governor,Republican primary results,Winning,John Harper,Republican,37432,41.42,True,False
+1987,Kentucky,KY,governor,Republican primary results,Candidate,Joseph E. Johnson III,Republican,22396,24.78,False,False
+1987,Kentucky,KY,governor,Republican primary results,Candidate,"Leonard ""Buck"" Beasley",Republican,21067,23.31,False,False
+1987,Kentucky,KY,governor,Republican primary results,Candidate,Thurman Jerome Hamlin,Republican,9475,10.49,False,False
+1987,Kentucky,KY,governor,Republican primary results,Total,,,90370,100.0,False,False
+1987,Louisiana,LA,governor,Primary election,Candidate,Democratic,,516078,,False,False
+1987,Louisiana,LA,governor,Primary election,Candidate,Republican,,287780,,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Winning,Ray Mabus,Democratic,304559,37.69,True,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Winning,Mike Sturdivant,Democratic,131180,16.24,True,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Candidate,Bill Waller,Democratic,105056,13.0,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Candidate,John Arthur Eaves,Democratic,98517,12.19,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Candidate,Maurice Dantin,Democratic,83603,10.35,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Candidate,Ed Pittman,Democratic,73667,9.12,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Candidate,Gilbert Fountain,Democratic,5990,0.74,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1987",Total,,,802572,100.0,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary runoff, 1987",Winning,Ray Mabus,Democratic,428883,64.31,True,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary runoff, 1987",Candidate,Mike Sturdivant,Democratic,238039,35.69,False,False
+1987,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary runoff, 1987",Total,,,666922,100.0,False,False
+1987,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1987",Winning,Jack Reed,Republican,14798,78.48,True,False
+1987,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1987",Candidate,Doug Lemon,Republican,4057,21.52,False,False
+1987,Mississippi,MS,governor,"Mississippi Republican gubernatorial primary, 1987",Total,,,18855,100.0,False,False

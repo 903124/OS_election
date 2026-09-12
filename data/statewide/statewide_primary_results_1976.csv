@@ -1,0 +1,94 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1976,Arkansas,AR,governor,Democratic primary results,Winning,David Pryor,Democratic,312872.0,59.49,True,True
+1976,Arkansas,AR,governor,Democratic primary results,Candidate,Jim Lindsey,Democratic,171031.0,32.52,False,False
+1976,Arkansas,AR,governor,Democratic primary results,Candidate,Frank Lady,Democratic,36832.0,7.0,False,False
+1976,Arkansas,AR,governor,Democratic primary results,Candidate,John H. Chambers,Democratic,5223.0,1.0,False,False
+1976,Arkansas,AR,governor,Democratic primary results,Total,,,525968.0,100.0,False,False
+1976,Arkansas,AR,governor,Republican primary results,Winning,Leon Griffith,Republican,13044.0,57.22,True,False
+1976,Arkansas,AR,governor,Republican primary results,Candidate,Joseph H. Weston,Republican,9753.0,42.78,False,False
+1976,Arkansas,AR,governor,Republican primary results,Total,,,22797.0,100.0,False,False
+1976,Illinois,IL,governor,"1976 Democratic gubernatorial primary, Illinois",Winning,Michael J. Howlett,Democratic,811721.0,53.82,True,False
+1976,Illinois,IL,governor,"1976 Democratic gubernatorial primary, Illinois",Candidate,Dan Walker,Democratic,696380.0,46.17,False,True
+1976,Illinois,IL,governor,"1976 Democratic gubernatorial primary, Illinois",Write-in,,,245.0,0.02,False,False
+1976,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Winning,Neil F. Hartigan,Democratic,857910.0,66.29,True,True
+1976,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Candidate,Joanne H. Alter,Democratic,436322.0,33.71,False,False
+1976,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Write-in,,,29.0,0.0,False,False
+1976,Illinois,IL,governor,Democratic lieutenant gubernatorial primary,Total,,,1294232.0,100.0,False,False
+1976,Illinois,IL,governor,"1976 Republican gubernatorial primary, Illinois",Winning,James R. Thompson,Republican,625457.0,86.44,True,False
+1976,Illinois,IL,governor,"1976 Republican gubernatorial primary, Illinois",Candidate,Richard H. Cooper,Republican,97937.0,13.54,False,False
+1976,Illinois,IL,governor,"1976 Republican gubernatorial primary, Illinois",Write-in,,,170.0,0.02,False,False
+1976,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Winning,David C. O'Neal,Republican,376126.0,57.4,True,False
+1976,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Candidate,Joan G. Anderson,Republican,279087.0,42.59,False,False
+1976,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Write-in,,,24.0,0.0,False,False
+1976,Illinois,IL,governor,Republican lieutenant gubernatorial primary,Total,,,655237.0,100.0,False,False
+1976,Indiana,IN,governor,Democratic primary results,Winning,Larry A. Conrad,Democratic,358421.0,64.47,True,False
+1976,Indiana,IN,governor,Democratic primary results,Candidate,Jack L. New,Democratic,105965.0,19.06,False,False
+1976,Indiana,IN,governor,Democratic primary results,Candidate,Robert J. Fair,Democratic,91606.0,16.48,False,False
+1976,Indiana,IN,governor,Democratic primary results,Total,,,555992.0,100.0,False,False
+1976,Indiana,IN,governor,Republican primary results,Winning,Otis Bowen,Republican,,,True,True
+1976,Indiana,IN,governor,Republican primary results,Total,,,,,False,False
+1976,Montana,MT,governor,Democratic Party primary results,Winning,Thomas Lee Judge,Democratic,79596.0,100.0,True,True
+1976,Montana,MT,governor,Democratic Party primary results,Total,,,79596.0,100.0,False,False
+1976,Montana,MT,governor,Republican Primary results,Winning,Bob Woodahl,Republican,47629.0,56.67,True,False
+1976,Montana,MT,governor,Republican Primary results,Candidate,Jack McDonald,Republican,36420.0,43.33,False,False
+1976,Montana,MT,governor,Republican Primary results,Total,,,84049.0,100.0,False,False
+1976,New Hampshire,NH,governor,Democratic primary results,Winning,Harry V. Spanos,Democratic,21589.0,40.26,True,False
+1976,New Hampshire,NH,governor,Democratic primary results,Candidate,James A. Connor,Democratic,15758.0,29.39,False,False
+1976,New Hampshire,NH,governor,Democratic primary results,Candidate,Hugh J. Gallen,Democratic,13629.0,25.42,False,False
+1976,New Hampshire,NH,governor,Democratic primary results,Candidate,Write-ins,Democratic,1406.0,2.63,False,False
+1976,New Hampshire,NH,governor,Democratic primary results,Candidate,Carmen C. Chimento,Democratic,1242.0,2.32,False,False
+1976,New Hampshire,NH,governor,Democratic primary results,Total,,,53624.0,100.0,False,False
+1976,New Hampshire,NH,governor,Republican primary results,Winning,Meldrim Thomson Jr.,Republican,52968.0,64.26,True,True
+1976,New Hampshire,NH,governor,Republican primary results,Candidate,Gerald J. Zeiller,Republican,26728.0,32.43,False,False
+1976,New Hampshire,NH,governor,Republican primary results,Candidate,Ralph W. Brewster,Republican,2257.0,2.74,False,False
+1976,New Hampshire,NH,governor,Republican primary results,Candidate,Write-ins,Republican,471.0,0.57,False,False
+1976,New Hampshire,NH,governor,Republican primary results,Total,,,82424.0,100.0,False,False
+1976,North Carolina,NC,governor,Democratic primary results,Winning,Jim Hunt,Democratic,362102.0,53.41,True,False
+1976,North Carolina,NC,governor,Democratic primary results,Candidate,Edward O'Herron Jr.,Democratic,157815.0,23.28,False,False
+1976,North Carolina,NC,governor,Democratic primary results,Candidate,George Wood,Democratic,121673.0,17.95,False,False
+1976,North Carolina,NC,governor,Democratic primary results,Candidate,Thomas E. Strickland,Democratic,31338.0,4.62,False,False
+1976,North Carolina,NC,governor,Democratic primary results,Candidate,Andy Barker,Democratic,5003.0,0.74,False,False
+1976,North Carolina,NC,governor,Democratic primary results,Total,,,677931.0,100.0,False,False
+1976,North Carolina,NC,governor,Republican primary results,Winning,David Flaherty,Republican,57663.0,49.77,True,False
+1976,North Carolina,NC,governor,Republican primary results,Winning,Coy Privette,Republican,37573.0,32.43,True,False
+1976,North Carolina,NC,governor,Republican primary results,Candidate,Jacob F. Alexander,Republican,16149.0,13.94,False,False
+1976,North Carolina,NC,governor,Republican primary results,Candidate,Wallace McCall,Republican,4467.0,3.86,False,False
+1976,North Carolina,NC,governor,Republican primary results,Total,,,115852.0,100.0,False,False
+1976,North Carolina,NC,governor,Republican primary runoff results,Winning,David T. Flaherty,Republican,45661.0,60.5,True,False
+1976,North Carolina,NC,governor,Republican primary runoff results,Candidate,Coy Privette,Republican,29810.0,39.5,False,False
+1976,North Carolina,NC,governor,Republican primary runoff results,Total,,,75471.0,100.0,False,False
+1976,North Dakota,ND,governor,Democratic primary results,Winning,Arthur A. Link (inc.),North Dakota Democratic-npl,54759.0,100.0,True,False
+1976,North Dakota,ND,governor,Democratic primary results,Total,,,54759.0,100.0,False,False
+1976,North Dakota,ND,governor,Republican primary results,Winning,Richard Elkin,Republican,54427.0,81.92,True,False
+1976,North Dakota,ND,governor,Republican primary results,Candidate,Herb Geving,Republican,12013.0,18.08,False,False
+1976,North Dakota,ND,governor,Republican primary results,Total,,,66440.0,100.0,False,False
+1976,Rhode Island,RI,governor,Democratic primary results,Winning,J. Joseph Garrahy,Democratic,113625.0,82.37,True,False
+1976,Rhode Island,RI,governor,Democratic primary results,Candidate,Giovanni Folcarelli,Democratic,24314.0,17.63,False,False
+1976,Rhode Island,RI,governor,Democratic primary results,Total,,,137939.0,100.0,False,False
+1976,Utah,UT,governor,Democratic primary results,Winning,Scott M. Matheson,Democratic,50505.0,58.96,True,False
+1976,Utah,UT,governor,Democratic primary results,Candidate,John P. Creer,Democratic,35154.0,41.04,False,False
+1976,Utah,UT,governor,Democratic primary results,Total,,,85659.0,100.0,False,False
+1976,Utah,UT,governor,Republican primary results,Winning,Vernon B. Romney,Republican,87251.0,53.4,True,False
+1976,Utah,UT,governor,Republican primary results,Candidate,Dixie L. Leavitt,Republican,76139.0,46.6,False,False
+1976,Utah,UT,governor,Republican primary results,Total,,,163390.0,100.0,False,False
+1976,Vermont,VT,governor,Democratic primary results,Winning,Stella B. Hackel,Democratic,18522.0,43.9,True,False
+1976,Vermont,VT,governor,Democratic primary results,Candidate,Brian D. Burns,Democratic,14725.0,34.9,False,False
+1976,Vermont,VT,governor,Democratic primary results,Candidate,Robert O'Brien,Democratic,8809.0,20.9,False,False
+1976,Vermont,VT,governor,Democratic primary results,Candidate,Other,Democratic,71.0,0.2,False,False
+1976,Vermont,VT,governor,Democratic primary results,Total,,,42127.0,100.0,False,False
+1976,Vermont,VT,governor,Republican primary results,Winning,Richard A. Snelling,Republican,24279.0,72.0,True,False
+1976,Vermont,VT,governor,Republican primary results,Candidate,William G. Craig,Republican,9429.0,28.0,False,False
+1976,Vermont,VT,governor,Republican primary results,Total,,,33708.0,100.0,False,False
+1976,Vermont,VT,governor,Liberty Union primary results,Winning,Bernie Sanders,Union,433.0,98.6,True,False
+1976,Vermont,VT,governor,Liberty Union primary results,Candidate,Other,Union,6.0,1.4,False,False
+1976,Vermont,VT,governor,Liberty Union primary results,Total,,,439.0,100.0,False,False
+1976,Washington,WA,governor,Blanket primary results,Winning,Dixy Lee Ray,Democratic,205232.0,24.09,True,False
+1976,Washington,WA,governor,Blanket primary results,Winning,John D. Spellman,Republican,185439.0,21.77,True,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,Wesley C. Uhlman,Democratic,198336.0,23.28,False,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,Marvin Durning,Democratic,136290.0,16.0,False,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,Harley Hoppe,Republican,111957.0,13.14,False,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,Duke Stockton,Democratic,5588.0,0.66,False,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,Emmett Watson,Republican,4798.0,0.56,False,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,Carl D. Ricketts,Republican,2636.0,0.31,False,False
+1976,Washington,WA,governor,Blanket primary results,Candidate,John Patric,Republican,1654.0,0.19,False,False
+1976,Washington,WA,governor,Blanket primary results,Total,,,851930.0,100.0,False,False

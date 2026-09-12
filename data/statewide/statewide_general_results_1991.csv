@@ -1,0 +1,8 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1991,Kentucky,KY,governor,1991 Kentucky gubernatorial election,Winning,Brereton C. Jones,Democratic,540468,64.73,True,False
+1991,Kentucky,KY,governor,1991 Kentucky gubernatorial election,Candidate,Larry J. Hopkins,Republican,294452,35.27,False,False
+1991,Kentucky,KY,governor,1991 Kentucky gubernatorial election,Total,,,834920,100.0,False,False
+1991,Mississippi,MS,governor,"Mississippi gubernatorial election, 1991",Winning,Kirk Fordice,Republican,361500,50.83,True,False
+1991,Mississippi,MS,governor,"Mississippi gubernatorial election, 1991",Candidate,Ray Mabus,Democratic,338459,47.59,False,True
+1991,Mississippi,MS,governor,"Mississippi gubernatorial election, 1991",Candidate,Shawn O'Hara,Independent,11253,1.58,False,False
+1991,Mississippi,MS,governor,"Mississippi gubernatorial election, 1991",Total,,,711212,100.0,False,False

@@ -1,0 +1,11 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1973,New Jersey,NJ,governor,Republican Party primary results,Winning,Charles W. Sandman Jr.,Republican,209657,57.51,True,False
+1973,New Jersey,NJ,governor,Republican Party primary results,Candidate,William T. Cahill,Republican,148034,40.61,False,True
+1973,New Jersey,NJ,governor,Republican Party primary results,Candidate,Michael A. Maglio,Republican,6881,1.89,False,False
+1973,New Jersey,NJ,governor,Republican Party primary results,Total,,,364572,100.0,False,False
+1973,New Jersey,NJ,governor,Democratic primary results,Winning,Brendan Byrne,Democratic,193120,45.31,True,False
+1973,New Jersey,NJ,governor,Democratic primary results,Candidate,Ann Klein,Democratic,116705,27.38,False,False
+1973,New Jersey,NJ,governor,Democratic primary results,Candidate,Ralph DeRose,Democratic,95085,22.31,False,False
+1973,New Jersey,NJ,governor,Democratic primary results,Candidate,Frank Forst,Democratic,15815,3.71,False,False
+1973,New Jersey,NJ,governor,Democratic primary results,Candidate,Vito Albanese,Democratic,5460,1.28,False,False
+1973,New Jersey,NJ,governor,Democratic primary results,Total,,,426185,100.0,False,False

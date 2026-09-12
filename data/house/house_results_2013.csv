@@ -1,27 +1,27 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2013,house,Alabama,AL,1,Bradley Byrne,Republican,70.17,True,False,True
-2013,house,Alabama,AL,1,Burton LeFlore,Democratic,29.32,False,False,True
-2013,house,Alabama,AL,1,Write-ins,Write-ins,0.68,False,False,True
-2013,house,Illinois,IL,2,Robin Kelly,Democratic,70.72,True,False,True
-2013,house,Illinois,IL,2,Paul McKinley,Republican,22.1,False,False,True
-2013,house,Illinois,IL,2,"Elizabeth ""Liz"" Pahlke",Independent,3.04,False,False,True
-2013,house,Illinois,IL,2,LeAlan Jones,Green,1.84,False,False,True
-2013,house,Illinois,IL,2,Marcus Lewis,Independent,1.63,False,False,True
-2013,house,Illinois,IL,2,Curtiss Llong Bey,Independent,0.66,False,False,True
-2013,house,Illinois,IL,2,Steve Piekarczyk (write-in),Independent,0.0,False,False,True
-2013,house,Louisiana,LA,5,Vance McAllister,Republican,59.65,True,False,True
-2013,house,Louisiana,LA,5,Neil Riser,Republican,40.35,False,False,True
-2013,house,Massachusetts,MA,5,Katherine Clark,Democratic,65.8,True,False,True
-2013,house,Massachusetts,MA,5,Frank Addivinola,Republican,31.5,False,False,True
-2013,house,Massachusetts,MA,5,James Aulenti,Independent,1.6,False,False,True
-2013,house,Massachusetts,MA,5,James Hall,Independent,0.7,False,False,True
-2013,house,Massachusetts,MA,5,,,0.4,False,False,True
-2013,house,Missouri,MO,8,Jason Smith,Republican,67.1,True,False,True
-2013,house,Missouri,MO,8,Steve Hodges,Democratic,27.4,False,False,True
-2013,house,Missouri,MO,8,Doug Enyart,Constitution,3.6,False,False,True
-2013,house,Missouri,MO,8,Bill Slantz,Libertarian,1.5,False,False,True
-2013,house,Missouri,MO,8,,,0.3,False,False,True
-2013,house,South Carolina,SC,1,Mark Sanford,Republican,54.03,True,False,True
-2013,house,South Carolina,SC,1,Elizabeth Colbert Busch,Democratic,45.22,False,False,True
-2013,house,South Carolina,SC,1,Eugene Platt,Green,0.48,False,False,True
-2013,house,South Carolina,SC,1,,,0.27,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2013,house,Alabama,AL,1,51406,Bradley Byrne,Republican,36071,70.17,True,False,True
+2013,house,Alabama,AL,1,51406,Burton LeFlore,Democratic,14985,29.32,False,False,True
+2013,house,Alabama,AL,1,51406,Write-ins,Write-ins,350,0.68,False,False,True
+2013,house,Illinois,IL,2,83193,Robin Kelly,Democratic,58834,70.72,True,False,True
+2013,house,Illinois,IL,2,83193,Paul McKinley,Republican,18387,22.1,False,False,True
+2013,house,Illinois,IL,2,83193,"Elizabeth ""Liz"" Pahlke",Independent,2525,3.04,False,False,True
+2013,house,Illinois,IL,2,83193,LeAlan Jones,Green,1531,1.84,False,False,True
+2013,house,Illinois,IL,2,83193,Marcus Lewis,Independent,1359,1.63,False,False,True
+2013,house,Illinois,IL,2,83193,Curtiss Llong Bey,Independent,548,0.66,False,False,True
+2013,house,Illinois,IL,2,83193,Steve Piekarczyk (write-in),Independent,9,0.0,False,False,True
+2013,house,Louisiana,LA,5,91286,Vance McAllister,Republican,54450,59.65,True,False,True
+2013,house,Louisiana,LA,5,91286,Neil Riser,Republican,36840,40.35,False,False,True
+2013,house,Massachusetts,MA,5,61380,Katherine Clark,Democratic,40303,65.8,True,False,True
+2013,house,Massachusetts,MA,5,61380,Frank Addivinola,Republican,19328,31.5,False,False,True
+2013,house,Massachusetts,MA,5,61380,James Aulenti,Independent,996,1.6,False,False,True
+2013,house,Massachusetts,MA,5,61380,James Hall,Independent,452,0.7,False,False,True
+2013,house,Massachusetts,MA,5,61380,,,217,0.4,False,False,True
+2013,house,Missouri,MO,8,62766,Jason Smith,Republican,42141,67.1,True,False,True
+2013,house,Missouri,MO,8,62766,Steve Hodges,Democratic,17207,27.4,False,False,True
+2013,house,Missouri,MO,8,62766,Doug Enyart,Constitution,2265,3.6,False,False,True
+2013,house,Missouri,MO,8,62766,Bill Slantz,Libertarian,968,1.5,False,False,True
+2013,house,Missouri,MO,8,62766,,,185,0.3,False,False,True
+2013,house,South Carolina,SC,1,143635,Mark Sanford,Republican,77600,54.03,True,False,True
+2013,house,South Carolina,SC,1,143635,Elizabeth Colbert Busch,Democratic,64961,45.22,False,False,True
+2013,house,South Carolina,SC,1,143635,Eugene Platt,Green,690,0.48,False,False,True
+2013,house,South Carolina,SC,1,143635,,,384,0.27,False,False,True

@@ -1,0 +1,15 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Winning,Christine Todd Whitman,Republican,1133394,46.87,True,True
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Jim McGreevey,Democratic,1107968,45.82,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Murray Sabrin,Libertarian,114172,4.72,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Richard J. Pezzullo,Conservative,34906,1.44,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Madelyn R. Hoffman,Green,10703,0.44,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,"Michael Perrone, Jr.",Independent,6805,0.28,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Robert B. Miller,Workers,2816,0.12,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Greg Pason,Socialist Party Usa,2800,0.12,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,Lincoln Norton,Law,2540,0.11,False,False
+1997,New Jersey,NJ,governor,"New Jersey gubernatorial election, 1997",Candidate,"Nuncie A. Ripa, Jr.",Independent,2240,0.09,False,False
+1997,Virginia,VA,governor,"Virginia gubernatorial election, 1997",Winning,Jim Gilmore,Republican,969062,55.81,True,False
+1997,Virginia,VA,governor,"Virginia gubernatorial election, 1997",Candidate,Don Beyer,Democratic,738971,42.56,False,False
+1997,Virginia,VA,governor,"Virginia gubernatorial election, 1997",Candidate,Sue Harris DeBauche,Reform,25955,1.49,False,False
+1997,Virginia,VA,governor,"Virginia gubernatorial election, 1997",Write-in,Write-ins,Write-ins,2326,0.13,False,False

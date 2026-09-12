@@ -19,7 +19,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Francis M. Bistline,Democratic Party (United States),"4,550",14.18
 1942,Idaho,Democratic primary results,Primary,Candidate,False,Owen T. Stratton,Democratic Party (United States),"1,706",5.31
 1942,Idaho,Democratic primary results,Primary,Total,False,,,"32,098",
-1942,Idaho,Republican primary results,Primary,Winning,False,John Thomas,Republican Party (United States),"18,947",63.19
+1942,Idaho,Republican primary results,Primary,Winning,True,John Thomas,Republican Party (United States),"18,947",63.19
 1942,Idaho,Republican primary results,Primary,Candidate,False,John C. Sanborn,Republican Party (United States),"5,582",18.62
 1942,Idaho,Republican primary results,Primary,Candidate,False,Presley F. Horne,Republican Party (United States),"5,455",18.19
 1942,Idaho,Republican primary results,Primary,Total,False,,,"29,984",
@@ -161,7 +161,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,candidate,party,votes,perce
 1942,South Dakota,Republican primary,Primary,Winning,False,Harlan J. Bushfield,Republican Party (United States),"52,342",63.32%
 1942,South Dakota,Republican primary,Primary,Candidate,False,Olive A. Ringsrud,Republican Party (United States),"30,325",36.68%
 1942,South Dakota,Republican primary,Primary,Total,False,,,"82,667",100.00%
-1942,Tennessee,Democratic Party primary results,Primary,Winning,False,Tom Stewart,Democratic Party (United States),"136,415",51.89%
+1942,Tennessee,Democratic Party primary results,Primary,Winning,True,Tom Stewart,Democratic Party (United States),"136,415",51.89%
 1942,Tennessee,Democratic Party primary results,Primary,Candidate,False,Edward W. Carmack Jr.,Democratic Party (United States),"116,841",44.44%
 1942,Tennessee,Democratic Party primary results,Primary,Candidate,False,John Randolph Neal Jr.,Democratic Party (United States),"9,653",3.67%
 1942,Tennessee,Democratic Party primary results,Primary,Total,False,,,"262,909",100.00%

@@ -1,0 +1,21 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1975,Kentucky,KY,governor,Democratic primary results,Winning,Julian Carroll,Democratic,264136,66.29,True,True
+1975,Kentucky,KY,governor,Democratic primary results,Candidate,Todd Hollenbach,Democratic,113590,28.51,False,False
+1975,Kentucky,KY,governor,Democratic primary results,Candidate,Mary Louise Foust,Democratic,14901,3.74,False,False
+1975,Kentucky,KY,governor,Democratic primary results,Candidate,Robert McCreary Johnson,Democratic,5838,1.47,False,False
+1975,Kentucky,KY,governor,Democratic primary results,Total,,,398465,100.0,False,False
+1975,Kentucky,KY,governor,Republican primary results,Winning,Robert E. Gable,Republican,38113,51.34,True,False
+1975,Kentucky,KY,governor,Republican primary results,Candidate,Elmer Begley Jr.,Republican,16855,22.7,False,False
+1975,Kentucky,KY,governor,Republican primary results,Candidate,Tommy Klein,Republican,10844,14.61,False,False
+1975,Kentucky,KY,governor,Republican primary results,Candidate,Granville Thomas,Republican,8426,11.35,False,False
+1975,Kentucky,KY,governor,Republican primary results,Total,,,74238,100.0,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Winning,William Winter,Democratic,286652,36.29,True,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Winning,Cliff Finch,Democratic,253829,32.14,True,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Candidate,Maurice Dantin,Democratic,179472,22.72,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Candidate,John Arthur Eaves,Democratic,50606,6.41,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Candidate,Leman Gandy,Democratic,11966,1.52,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Candidate,David Perkins,Democratic,7369,0.93,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary, 1975",Total,,,789894,100.0,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary runoff, 1975",Winning,Cliff Finch,Democratic,442865,57.69,True,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary runoff, 1975",Candidate,William Winter,Democratic,324749,42.31,False,False
+1975,Mississippi,MS,governor,"Mississippi Democratic gubernatorial primary runoff, 1975",Total,,,767614,100.0,False,False

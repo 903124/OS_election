@@ -1,0 +1,80 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1976,Arkansas,AR,governor,1976 Arkansas gubernatorial election,Winning,David Pryor,Democratic,605083,83.24,True,True
+1976,Arkansas,AR,governor,1976 Arkansas gubernatorial election,Candidate,Leon Griffith,Republican,121716,16.74,False,False
+1976,Arkansas,AR,governor,1976 Arkansas gubernatorial election,Candidate,Thaddeus Honeycutt,Write-in,150,0.02,False,False
+1976,Delaware,DE,governor,1976 Delaware gubernatorial election,Winning,Pierre S. duPont IV,Republican,130531,56.86,True,False
+1976,Delaware,DE,governor,1976 Delaware gubernatorial election,Candidate,Sherman W. Tribbitt,Democratic,97480,42.46,False,True
+1976,Delaware,DE,governor,1976 Delaware gubernatorial election,Candidate,George W. Cripps,American Party (1969),1255,0.55,False,False
+1976,Delaware,DE,governor,1976 Delaware gubernatorial election,Candidate,Harry Conner,Prohibition,297,0.13,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Winning,James R. Thompson/Dave O'Neal,Republican,3000365,64.68,True,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Candidate,Michael J. Howlett/Neil F. Hartigan,Democratic,1610258,34.71,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Candidate,Ishmael Flory/Linda R. Appelhans,Communist Party Usa,10091,0.22,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Candidate,F. Joseph McCaffrey/Georgia E. Shields,Libertarian,7552,0.16,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Candidate,Suzanne Haig/Dennis Brasky,Workers,4926,0.11,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Candidate,George LaForest/Stanley A. Prorok,Labor,3147,0.07,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Candidate,Edward Waffle/Peter Matni,U.s. Labor,2302,0.05,False,False
+1976,Illinois,IL,governor,"1976 gubernatorial election, Illinois",Write-in,,,369,0.01,False,False
+1976,Indiana,IN,governor,1976 Indiana gubernatorial election,Winning,Otis Bowen,Republican,1236555,56.85,True,True
+1976,Indiana,IN,governor,1976 Indiana gubernatorial election,Candidate,Larry A. Conrad,Democratic,927243,42.63,False,False
+1976,Indiana,IN,governor,1976 Indiana gubernatorial election,Candidate,Daniel P. Talbot,American Party (1969),9850,0.45,False,False
+1976,Indiana,IN,governor,1976 Indiana gubernatorial election,Candidate,Samuel L. Washington,U.s. Labor,1676,0.08,False,False
+1976,Missouri,MO,governor,"1976 gubernatorial election, Missouri",Winning,Joseph P. Teasdale,Democratic,971184,50.23,True,False
+1976,Missouri,MO,governor,"1976 gubernatorial election, Missouri",Candidate,Kit Bond,Republican,958110,49.55,False,True
+1976,Missouri,MO,governor,"1976 gubernatorial election, Missouri",Candidate,Leon Striler,Nonpartisan,4215,0.22,False,False
+1976,Missouri,MO,governor,"1976 gubernatorial election, Missouri",Candidate,write-ins,N/a,46,0.0,False,False
+1976,Missouri,MO,governor,"1976 gubernatorial election, Missouri",Candidate,Helen Savio,Workers,20,0.0,False,False
+1976,Montana,MT,governor,"Montana gubernatorial election, 1976",Winning,Thomas Lee Judge,Democratic,195420,61.7,True,True
+1976,Montana,MT,governor,"Montana gubernatorial election, 1976",Candidate,Bob Woodahl,Republican,115848,36.58,False,False
+1976,Montana,MT,governor,"Montana gubernatorial election, 1976",Candidate,Charlie Mahoney,Independent,5452,1.72,False,False
+1976,New Hampshire,NH,governor,1976 New Hampshire gubernatorial election,Winning,Meldrim Thomson Jr.,Republican,197589,57.66,True,True
+1976,New Hampshire,NH,governor,1976 New Hampshire gubernatorial election,Candidate,Harry V. Spanos,Democratic,145015,42.32,False,False
+1976,New Hampshire,NH,governor,1976 New Hampshire gubernatorial election,Candidate,Scattering,Write-in,65,0.02,False,False
+1976,North Carolina,NC,governor,1976 North Carolina gubernatorial election,Winning,Jim Hunt,Democratic,1081293,64.99,True,False
+1976,North Carolina,NC,governor,1976 North Carolina gubernatorial election,Candidate,David T. Flaherty,Republican,564102,33.9,False,False
+1976,North Carolina,NC,governor,1976 North Carolina gubernatorial election,Candidate,Herbert F. Seawell Jr.,American Party (1969),13604,0.82,False,False
+1976,North Carolina,NC,governor,1976 North Carolina gubernatorial election,Candidate,Arlan K. Andrews,Libertarian,4764,0.29,False,False
+1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Winning,Arthur A. Link (inc.),North Dakota Democratic-npl,153309,51.58,True,False
+1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Candidate,Richard Elkin,Republican,138321,46.53,False,False
+1976,North Dakota,ND,governor,1976 North Dakota gubernatorial election,Candidate,Martin K. Vaaler,American Party (1969),5619,1.89,False,False
+1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Winning,J. Joseph Garrahy,Democratic,218561,54.82,True,False
+1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,James L. Taft Jr.,Republican,178254,44.71,False,False
+1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,John C. Swift,Independent,1267,0.32,False,False
+1976,Rhode Island,RI,governor,1976 Rhode Island gubernatorial election,Candidate,Stewart L. Engel,Libertarian,601,0.15,False,False
+1976,Utah,UT,governor,1976 Utah gubernatorial election,Winning,Scott M. Matheson,Democratic,280706,52.02,True,False
+1976,Utah,UT,governor,1976 Utah gubernatorial election,Candidate,Vernon B. Romney,Republican,248027,45.96,False,False
+1976,Utah,UT,governor,1976 Utah gubernatorial election,Candidate,L. S. Brown,American Party (1969),7201,1.33,False,False
+1976,Utah,UT,governor,1976 Utah gubernatorial election,Candidate,Betty Bates,Concerned Citizens,3715,0.69,False,False
+1976,Utah,UT,governor,1976 Utah gubernatorial election,Total,,,539649,100.0,False,False
+1976,Vermont,VT,governor,1976 Vermont gubernatorial election,Candidate,Richard A. Snelling,Republican,98206,52.8,False,False
+1976,Vermont,VT,governor,1976 Vermont gubernatorial election,Candidate,Stella B. Hackel,Democratic,72761,39.1,False,False
+1976,Vermont,VT,governor,1976 Vermont gubernatorial election,Candidate,Bernie Sanders,Union,11317,6.1,False,False
+1976,Vermont,VT,governor,1976 Vermont gubernatorial election,Candidate,Other,N/a,82,0.0,False,False
+1976,Vermont,VT,governor,1976 Vermont gubernatorial election,Total,,,185929,100.0,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Winning,Dixy Lee Ray,Democratic,821797,53.14,True,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,John D. Spellman,Republican,687039,44.43,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,Art Manning,Independent,12406,0.8,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,Red Kelly,Owl,12400,0.8,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,Henry Killman,Labor,4137,0.27,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,Maurice Willey,Libertarian,4133,0.27,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,Patricia A. Bethard,Workers,3106,0.2,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Candidate,Evelyn Olafson,U.s. Labor,1364,0.09,False,False
+1976,Washington,WA,governor,1976 Washington gubernatorial election,Total,,,1546382,100.0,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Winning,Jay Rockefeller,Democratic,206732,49.68,True,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Candidate,James Marshall Sprouse,Democratic,118707,28.52,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Candidate,Ken Hechler,Democratic,52791,12.69,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Candidate,John G. Hutchinson,Democratic,26222,6.3,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Candidate,Ezra H. Graley,Democratic,4249,1.02,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Candidate,Powell Lane,Democratic,3536,0.85,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Candidate,H. John Rogers,Democratic,2345,0.56,False,False
+1976,West Virginia,WV,governor,"West Virginia Democratic gubernatorial primary, 1976",Total,,,414582,100.0,False,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Winning,Cecil H. Underwood,Republican,97671,64.36,True,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Candidate,Ralph Albertazzie,Republican,44393,29.25,False,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Candidate,Melton Maloney,Republican,3408,2.25,False,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Candidate,Larry Lunsford,Republican,2593,1.71,False,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Candidate,John Lusher,Republican,2442,1.61,False,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Candidate,E. E. Cumptan,Republican,1257,0.83,False,False
+1976,West Virginia,WV,governor,"West Virginia Republican gubernatorial primary, 1976",Total,,,151764,100.0,False,False
+1976,West Virginia,WV,governor,"West Virginia gubernatorial election, 1976",Winning,Jay Rockefeller,Democratic,495661,66.15,True,False
+1976,West Virginia,WV,governor,"West Virginia gubernatorial election, 1976",Candidate,Cecil H. Underwood,Republican,253420,33.82,False,False
+1976,West Virginia,WV,governor,"West Virginia gubernatorial election, 1976",Candidate,Write-ins,Other,189,0.03,False,False
+1976,West Virginia,WV,governor,"West Virginia gubernatorial election, 1976",Total,,,749270,100.0,False,False

@@ -48,7 +48,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1968,Illinois,Democratic primary,Primary,Winning,False,Democratic Party (United States),William G. Clark,"627,361",99.97
 1968,Illinois,Democratic primary,Primary,Write-in,False,,,218,0.04
 1968,Illinois,Democratic primary,Primary,Total,False,,,"627,579",100
-1968,Illinois,Republican primary,Primary,Winning,False,Republican Party (United States),Everett McKinley Dirksen,"622,710",92.15
+1968,Illinois,Republican primary,Primary,Winning,True,Republican Party (United States),Everett McKinley Dirksen,"622,710",92.15
 1968,Illinois,Republican primary,Primary,Candidate,False,Republican Party (United States),Roy C. Johnson,"53,069",7.85
 1968,Illinois,Republican primary,Primary,Write-in,False,,,17,0.00
 1968,Illinois,Republican primary,Primary,Total,False,,,"675,796",100
@@ -129,7 +129,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1968,Oregon,"Democratic primary for the United States Senate from Oregon, 1968",Primary,Candidate,False,Democratic Party (United States),Robert B. Duncan,"174,795",46.30%
 1968,Oregon,"Democratic primary for the United States Senate from Oregon, 1968",Primary,Candidate,False,Democratic Party (United States),Phil McAlmond,"17,658",4.68%
 1968,Oregon,"Democratic primary for the United States Senate from Oregon, 1968",Primary,Total,False,,,"377,544",100.00%
-1968,South Carolina,1968 Democratic primary for U.S. Senate in South Carolina,Primary,Winning,False,Democratic Party (United States),Fritz Hollings,"308,016",78.3
+1968,South Carolina,1968 Democratic primary for U.S. Senate in South Carolina,Primary,Winning,True,Democratic Party (United States),Fritz Hollings,"308,016",78.3
 1968,South Carolina,1968 Democratic primary for U.S. Senate in South Carolina,Primary,Total,False,,,"392,929",100.0
 1968,Utah,Democratic primary results,Primary,Winning,False,Democratic Party (United States),Milton L. Weilenmann,"47,908",50.70
 1968,Utah,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Phil L. Hansen,"46,579",49.30

@@ -6,7 +6,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1964,California,General election results,General,Total,False,,,"7,040,467",100.00
 1964,Connecticut,"United States Senate election in Connecticut, 1964",General,Winning,True,Democratic Party (US),Thomas J. Dodd,"781,008",64.66%
 1964,Connecticut,"United States Senate election in Connecticut, 1964",General,Candidate,False,Republican Party (US),John Davis Lodge,"426,939",35.34%
-1964,Delaware,General election results,General,Winning,False,Republican Party (United States),John J. Williams,"103,782",51.71%
+1964,Delaware,General election results,General,Winning,True,Republican Party (United States),John J. Williams,"103,782",51.71%
 1964,Delaware,General election results,General,Candidate,False,Democratic Party (United States),Elbert Carvel,"96,850",48.26%
 1964,Delaware,General election results,General,Candidate,False,Socialist Labor Party (United States),Joseph B. Hollon,71,0.04%
 1964,Delaware,General election results,General,Total,False,,,"200,703",100.00%
@@ -97,7 +97,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1964,Texas,1964 United States Senate election in Texas,General,Winning,True,Democratic Party (United States),Ralph Yarborough,"1,463,958",56.22%
 1964,Texas,1964 United States Senate election in Texas,General,Candidate,False,Republican Party (United States),George H. W. Bush,"1,134,337",43.56%
 1964,Texas,1964 United States Senate election in Texas,General,Total,False,,,"2,603,837",100.0%
-1964,Utah,1964 U.S. Senate election in Utah,General,Winning,False,Democratic Party (United States),Frank Moss,"227,822",57.33%
+1964,Utah,1964 U.S. Senate election in Utah,General,Winning,True,Democratic Party (United States),Frank Moss,"227,822",57.33%
 1964,Utah,1964 U.S. Senate election in Utah,General,Candidate,False,Republican Party (United States),Ernest L. Wilkinson,"169,562",42.67%
 1964,Utah,1964 U.S. Senate election in Utah,General,Total,False,,,"397,384",100.00%
 1964,Vermont,"United States Senate election in Vermont, 1964",General,Winning,True,Republican Party (United States),Winston L. Prouty,"83,302",50.69%

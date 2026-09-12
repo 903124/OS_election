@@ -1,0 +1,8 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1987,Kentucky,KY,governor,1987 Kentucky gubernatorial election,Winning,Wallace G. Wilkinson,Democratic,504674,64.5,True,False
+1987,Kentucky,KY,governor,1987 Kentucky gubernatorial election,Candidate,John Harper,Republican,273141,34.91,False,False
+1987,Kentucky,KY,governor,1987 Kentucky gubernatorial election,Write-in,,,4639,0.59,False,False
+1987,Kentucky,KY,governor,1987 Kentucky gubernatorial election,Total,,,782454,100.0,False,False
+1987,Mississippi,MS,governor,"Mississippi gubernatorial election, 1987",Winning,Ray Mabus,Democratic,385689,53.44,True,False
+1987,Mississippi,MS,governor,"Mississippi gubernatorial election, 1987",Candidate,Jack Reed,Republican,336006,46.56,False,False
+1987,Mississippi,MS,governor,"Mississippi gubernatorial election, 1987",Total,,,721695,100.0,False,False

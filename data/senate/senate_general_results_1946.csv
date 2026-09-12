@@ -69,7 +69,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Nebraska,1946 United States Senate election in Nebraska,General,Winning,False,Republican Party (United States),Hugh A. Butler (inc.),"271,208",70.82%
 1946,Nebraska,1946 United States Senate election in Nebraska,General,Candidate,False,Democratic Party (United States),John E. Mekota,"111,751",29.18%
 1946,Nebraska,1946 United States Senate election in Nebraska,General,Total,False,,,"382,958",100.00%
-1946,New Jersey,1946 United States Senate election in New Jersey,General,Winning,False,Republican Party (US),H. Alexander Smith,"799,808",58.50%
+1946,New Jersey,1946 United States Senate election in New Jersey,General,Winning,True,Republican Party (US),H. Alexander Smith,"799,808",58.50%
 1946,New Jersey,1946 United States Senate election in New Jersey,General,Candidate,False,Democratic Party (US),George E. Brunner,"548,458",40.12%
 1946,New Jersey,1946 United States Senate election in New Jersey,General,Candidate,False,Socialist Labor Party of America,John C. Butterworth,"7,675",0.56%
 1946,New Jersey,1946 United States Senate election in New Jersey,General,Candidate,False,Socialist Workers Party (US),George Breitman,"4,976",0.36%
@@ -101,7 +101,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Ohio,1946 U.S. Senate special election in Ohio,General,Winning,False,Republican Party (United States),Kingsley Taft,"1,193,852",56.22%
 1946,Ohio,1946 U.S. Senate special election in Ohio,General,Candidate,False,Democratic Party (United States),Henry P. Webber,"929,584",43.78%
 1946,Ohio,1946 U.S. Senate special election in Ohio,General,Total,False,,,"2,123,436",100.00%
-1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Winning,False,Democratic Party (United States),Kenneth McKellar,"145,654",66.60%
+1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Winning,True,Democratic Party (United States),Kenneth McKellar,"145,654",66.60%
 1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Candidate,False,Republican Party (United States),William B. Ladd,"57,237",26.17%
 1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Candidate,False,Independent (politician),John Randolph Neal Jr.,"11,516",5.27%
 1946,Tennessee,1946 U.S. Senate election in Tennessee,General,Candidate,False,Independent (politician),Herman H. Ross,"4,303",1.97%
@@ -122,7 +122,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1946,Virginia (special),"United States Senate special election in Virginia, 1946",General,Candidate,False,Republican Party (United States),Robert H. Woods,"72,253",29.02%
 1946,Virginia (special),"United States Senate special election in Virginia, 1946",General,Candidate,False,Socialist Party of America,Lawrence S. Wilkes,"7,024",2.82%
 1946,Washington,1946 U.S. Senate election in Washington,General,Winning,False,Republican Party (US),Harry Cain,"358,847",54.34%
-1946,Washington,1946 U.S. Senate election in Washington,General,Candidate,False,Democratic Party (US),Hugh Mitchell,"298,683",45.23%
+1946,Washington,1946 U.S. Senate election in Washington,General,Candidate,True,Democratic Party (US),Hugh Mitchell,"298,683",45.23%
 1946,Washington,1946 U.S. Senate election in Washington,General,Candidate,False,Socialist Labor Party (US),Harry Morton,"2,297",0.35%
 1946,Washington,1946 U.S. Senate election in Washington,General,Candidate,False,Socialist Workers Party (US),Charles R. Swett,515,0.08%
 1946,Washington,1946 U.S. Senate election in Washington,General,Total,False,,,"660,342",100.00%

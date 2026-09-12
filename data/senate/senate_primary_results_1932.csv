@@ -47,7 +47,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Harry S. Kessler,"4,647",11.70
 1932,Idaho,Democratic primary results,Primary,Candidate,False,Democratic Party (United States),Owen T. Stratton,"4,219",10.62
 1932,Idaho,Democratic primary results,Primary,Total,False,,,"39,725",
-1932,Idaho,Republican primary results,Primary,Winning,False,Republican Party (United States),John Thomas,"32,812",66.65
+1932,Idaho,Republican primary results,Primary,Winning,True,Republican Party (United States),John Thomas,"32,812",66.65
 1932,Idaho,Republican primary results,Primary,Candidate,False,Republican Party (United States),J. Wesley Holden,"16,418",33.35
 1932,Idaho,Republican primary results,Primary,Total,False,,,"49,230",
 1932,Illinois,Democratic primary,Primary,Winning,False,Democratic Party (United States),William H. Dieterich,"342,360",51.04

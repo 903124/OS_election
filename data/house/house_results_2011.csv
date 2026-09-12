@@ -1,30 +1,30 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2011,house,California,CA,36,Janice Hahn,Democratic,24.6,True,False,True
-2011,house,California,CA,36,Craig Huey,Republican,22.2,True,False,True
-2011,house,California,CA,36,Debra Bowen,Democratic,21.1,False,False,True
-2011,house,California,CA,36,Marcy Winograd,Democratic,9.3,False,False,True
-2011,house,California,CA,36,Mike Gin,Republican,7.9,False,False,True
-2011,house,California,CA,36,Mike Webb,Republican,6.1,False,False,True
-2011,house,California,CA,36,Kit Bobko,Republican,3.6,False,False,True
-2011,house,California,CA,36,Steve Collett,Libertarian,1.4,False,False,True
-2011,house,California,CA,36,Stephen Eisele,Republican,1.2,False,False,True
-2011,house,California,CA,36,Dan Adler,Democratic,0.6,False,False,True
-2011,house,California,CA,36,Loraine Goodwin,Democratic,0.5,False,False,True
-2011,house,California,CA,36,Maria E. Montano,Freedom,0.5,False,False,True
-2011,house,California,CA,36,George Newberry,Republican,0.4,False,False,True
-2011,house,California,CA,36,Matthew Roozee,Independent,0.2,False,False,True
-2011,house,California,CA,36,Katherine Pilot,Independent,0.2,False,False,True
-2011,house,California,CA,36,Michael T. Chamness,Independent,0.2,False,False,True
-2011,house,Nevada,NV,2,Mark Amodei,Republican,57.92,True,False,True
-2011,house,Nevada,NV,2,Kate Marshall,Democratic,36.07,False,False,True
-2011,house,Nevada,NV,2,Helmuth Lehmann,Independent,4.14,False,False,True
-2011,house,Nevada,NV,2,Timothy Fasano,American,1.87,False,False,True
-2011,house,New York,NY,26,Kathy Courtney Hochul,Democratic,42.58,False,False,True
-2011,house,New York,NY,26,Jane L. Corwin,Republican,32.01,False,False,True
-2011,house,New York,NY,26,Jack Davis,Tea Party Movement,8.99,False,False,True
-2011,house,New York,NY,26,Ian L. Murphy,Green,1.05,False,False,True
-2011,house,New York,NY,26,Blank and void,,0.23,False,False,True
-2011,house,New York,NY,26,Scattering,,0.21,False,False,True
-2011,house,New York,NY,9,Bob Turner,Republican,45.05,False,False,True
-2011,house,New York,NY,9,David Weprin,Democratic,43.33,False,False,True
-2011,house,New York,NY,9,Chris Hoeppner,Workers,0.2,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2011,house,California,CA,36,63582,Janice Hahn,Democratic,15647,24.6,True,False,True
+2011,house,California,CA,36,63582,Craig Huey,Republican,14116,22.2,True,False,True
+2011,house,California,CA,36,63582,Debra Bowen,Democratic,13407,21.1,False,False,True
+2011,house,California,CA,36,63582,Marcy Winograd,Democratic,5905,9.3,False,False,True
+2011,house,California,CA,36,63582,Mike Gin,Republican,4997,7.9,False,False,True
+2011,house,California,CA,36,63582,Mike Webb,Republican,3895,6.1,False,False,True
+2011,house,California,CA,36,63582,Kit Bobko,Republican,2296,3.6,False,False,True
+2011,house,California,CA,36,63582,Steve Collett,Libertarian,896,1.4,False,False,True
+2011,house,California,CA,36,63582,Stephen Eisele,Republican,788,1.2,False,False,True
+2011,house,California,CA,36,63582,Dan Adler,Democratic,361,0.6,False,False,True
+2011,house,California,CA,36,63582,Loraine Goodwin,Democratic,325,0.5,False,False,True
+2011,house,California,CA,36,63582,Maria E. Montano,Freedom,324,0.5,False,False,True
+2011,house,California,CA,36,63582,George Newberry,Republican,234,0.4,False,False,True
+2011,house,California,CA,36,63582,Matthew Roozee,Independent,157,0.2,False,False,True
+2011,house,California,CA,36,63582,Katherine Pilot,Independent,126,0.2,False,False,True
+2011,house,California,CA,36,63582,Michael T. Chamness,Independent,108,0.2,False,False,True
+2011,house,Nevada,NV,2,129791,Mark Amodei,Republican,75180,57.92,True,False,True
+2011,house,Nevada,NV,2,129791,Kate Marshall,Democratic,46818,36.07,False,False,True
+2011,house,Nevada,NV,2,129791,Helmuth Lehmann,Independent,5372,4.14,False,False,True
+2011,house,Nevada,NV,2,129791,Timothy Fasano,American,2421,1.87,False,False,True
+2011,house,New York,NY,26,111597,Kathy Courtney Hochul,Democratic,47519,42.58,False,False,True
+2011,house,New York,NY,26,111597,Jane L. Corwin,Republican,35721,32.01,False,False,True
+2011,house,New York,NY,26,111597,Jack Davis,Tea Party Movement,10029,8.99,False,False,True
+2011,house,New York,NY,26,111597,Ian L. Murphy,Green,1177,1.05,False,False,True
+2011,house,New York,NY,26,111597,Blank and void,,259,0.23,False,False,True
+2011,house,New York,NY,26,111597,Scattering,,232,0.21,False,False,True
+2011,house,New York,NY,9,72197,Bob Turner,Republican,32526,45.05,False,False,True
+2011,house,New York,NY,9,72197,David Weprin,Democratic,31285,43.33,False,False,True
+2011,house,New York,NY,9,72197,Chris Hoeppner,Workers,143,0.2,False,False,True

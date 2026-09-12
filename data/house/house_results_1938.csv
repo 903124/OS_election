@@ -1,865 +1,1074 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-1938,house,Alabama,AL,1,Frank W. Boykin,Democratic,100.0,True,True,False
-1938,house,Alabama,AL,2,George M. Grant,Democratic,100.0,True,True,False
-1938,house,Alabama,AL,3,Henry B. Steagall,Democratic,100.0,True,True,False
-1938,house,Alabama,AL,4,Sam Hobbs,Democratic,88.2,True,True,False
-1938,house,Alabama,AL,4,C. W. McKay,Republican,11.8,False,False,False
-1938,house,Alabama,AL,5,Joe Starnes,Democratic,99.7,True,True,False
-1938,house,Alabama,AL,5,Frank J. Payne,Independent,0.3,False,False,False
-1938,house,Alabama,AL,6,Pete Jarman,Democratic,100.0,True,True,False
-1938,house,Alabama,AL,7,William B. Bankhead,Democratic,71.3,True,True,False
-1938,house,Alabama,AL,7,E. M. Reed,Republican,28.7,False,False,False
-1938,house,Alabama,AL,8,John Sparkman,Democratic,100.0,True,True,False
-1938,house,Alabama,AL,9,Luther Patrick,Democratic,93.5,True,True,False
-1938,house,Alabama,AL,9,J. G. Bass,Republican,6.5,False,False,False
-1938,house,Arizona,AZ,AL,John R. Murdock,Democratic,80.3,True,True,False
-1938,house,Arizona,AZ,AL,M. E. Cassidy,Republican,19.7,False,False,False
-1938,house,Arkansas,AR,1,Ezekiel C. Gathings,Democratic,100.0,True,False,False
-1938,house,Arkansas,AR,2,Wilbur Mills,Democratic,100.0,True,False,True
-1938,house,Arkansas,AR,3,Clyde T. Ellis,Democratic,100.0,True,False,False
-1938,house,Arkansas,AR,4,William B. Cravens,Democratic,100.0,True,True,False
-1938,house,Arkansas,AR,5,David D. Terry,Democratic,100.0,True,True,False
-1938,house,Arkansas,AR,6,William F. Norrell,Democratic,100.0,True,False,True
-1938,house,Arkansas,AR,7,Wade H. Kitchens,Democratic,100.0,True,True,False
-1938,house,California,CA,1,Clarence F. Lea,Democratic,63.0,True,True,False
-1938,house,California,CA,2,Harry Lane Englebright,Republican,100.0,True,True,False
-1938,house,California,CA,3,Frank H. Buck,Democratic,93.3,True,True,False
-1938,house,California,CA,3,Write-in,Write-in,0.3,False,False,False
-1938,house,California,CA,4,Franck R. Havenner,Democratic,61.2,True,True,False
-1938,house,California,CA,4,Kennett B. Dawson,Republican,38.8,False,False,False
-1938,house,California,CA,5,Richard J. Welch,Republican,100.0,True,True,False
-1938,house,California,CA,6,Albert E. Carter,Republican,94.4,True,True,False
-1938,house,California,CA,7,John H. Tolan,Democratic,55.3,True,True,False
-1938,house,California,CA,7,Charles Wade Snook,Republican,44.7,False,False,False
-1938,house,California,CA,8,Jack Z. Anderson,Republican,55.0,True,False,False
-1938,house,California,CA,8,John J. McGrath,Democratic,45.0,False,True,False
-1938,house,California,CA,9,Bertrand W. Gearhart,Republican,96.3,True,True,False
-1938,house,California,CA,9,Write-in,[[Write-in candidate|Write-in]],3.7,False,False,False
-1938,house,California,CA,10,Alfred J. Elliott,Democratic,67.3,True,True,False
-1938,house,California,CA,10,F. Fred Hoelscher,Republican,32.7,False,False,False
-1938,house,California,CA,11,Carl Hinshaw,Republican,47.0,True,False,True
-1938,house,California,CA,11,Stuart Hamblen,Democratic,41.1,False,False,True
-1938,house,California,CA,12,Jerry Voorhis,Democratic,60.8,True,True,False
-1938,house,California,CA,12,Eugene W. Nixon,Republican,32.8,False,False,False
-1938,house,California,CA,13,Charles Kramer,Democratic,65.9,True,True,False
-1938,house,California,CA,13,K. L. Stockton,Republican,30.7,False,False,False
-1938,house,California,CA,14,Thomas F. Ford,Democratic,68.3,True,True,False
-1938,house,California,CA,14,William D. Campbell,Republican,31.7,False,False,False
-1938,house,California,CA,15,John M. Costello,Democratic,60.4,True,True,False
-1938,house,California,CA,15,O. D. Thomas,Republican,37.4,False,False,False
-1938,house,California,CA,15,Emil Freed,Communist,2.1,False,False,False
-1938,house,California,CA,16,Leland M. Ford,Republican,62.8,True,False,True
-1938,house,California,CA,16,Write-in,Independent,21.2,False,False,True
-1938,house,California,CA,17,Lee E. Geyer,Democratic,58.8,True,False,True
-1938,house,California,CA,17,Clifton A. Hix,Republican,28.0,False,False,True
-1938,house,California,CA,18,Thomas M. Eaton,Republican,48.6,True,False,False
-1938,house,California,CA,18,Byron N. Scott,Democratic,48.3,False,True,False
-1938,house,California,CA,19,Harry R. Sheppard,Democratic,53.3,True,True,False
-1938,house,California,CA,19,C. T. Johnson,Republican,46.7,False,False,False
-1938,house,California,CA,20,Edouard Izac,Democratic,60.4,True,True,False
-1938,house,California,CA,20,John L. Bacon,Republican,39.6,False,False,False
-1938,house,Colorado,CO,1,Lawrence Lewis,Democratic,65.3,True,True,False
-1938,house,Colorado,CO,1,William I. Reilly,Republican,33.4,False,False,False
-1938,house,Colorado,CO,2,Fred N. Cummings,Democratic,51.7,True,True,False
-1938,house,Colorado,CO,2,William S. Hill,Republican,47.6,False,False,False
-1938,house,Colorado,CO,3,John Andrew Martin,Democratic,57.4,True,True,False
-1938,house,Colorado,CO,3,Henry Leonard,Republican,42.6,False,False,False
-1938,house,Colorado,CO,4,Edward T. Taylor,Democratic,63.7,True,True,False
-1938,house,Colorado,CO,4,John S. Woody,Republican,36.3,False,False,False
-1938,house,Connecticut,CT,1,William J. Miller,Republican,43.5,True,False,False
-1938,house,Connecticut,CT,1,Herman P. Kopplemann,Democratic,40.8,False,True,False
-1938,house,Connecticut,CT,2,Thomas R. Ball,Republican,48.4,True,False,False
-1938,house,Connecticut,CT,2,William J. Fitzgerald,Democratic,45.2,False,True,False
-1938,house,Connecticut,CT,3,James A. Shanley,Democratic,43.4,True,True,False
-1938,house,Connecticut,CT,3,Ranulf Compton,Republican,43.2,False,False,False
-1938,house,Connecticut,CT,4,Albert E. Austin,Republican,43.4,True,False,False
-1938,house,Connecticut,CT,4,Alfred N. Phillips,Democratic,31.4,False,True,False
-1938,house,Connecticut,CT,5,J. Joseph Smith,Democratic,42.0,True,True,False
-1938,house,Connecticut,CT,5,Roy E. Rice,Republican,41.8,False,False,False
-1938,house,Connecticut,CT,AL,B. J. Monkiewicz,Republican,43.1,True,False,False
-1938,house,Connecticut,CT,AL,William M. Citron,Democratic,39.7,False,True,False
-1938,house,Delaware,DE,AL,George S. Williams,Republican,55.9,True,False,False
-1938,house,Delaware,DE,AL,William F. Allen,Democratic,43.3,False,True,False
-1938,house,Florida,FL,1,J. Hardin Peterson,Democratic,100.0,True,True,False
-1938,house,Florida,FL,2,Robert A. Green,Democratic,100.0,True,True,False
-1938,house,Florida,FL,3,Millard Caldwell,Democratic,100.0,True,True,False
-1938,house,Florida,FL,4,Pat Cannon,Democratic,81.5,True,False,True
-1938,house,Florida,FL,4,J. S. G. Gallagher,Republican,18.5,False,False,True
-1938,house,Florida,FL,5,Joe Hendricks,Democratic,100.0,True,True,False
-1938,house,Georgia,GA,1,Hugh Peterson,Democratic,99.3,True,True,False
-1938,house,Georgia,GA,1,H. W. Shepard,Republican,0.7,False,False,False
-1938,house,Georgia,GA,2,Edward E. Cox,Democratic,100.0,True,True,False
-1938,house,Georgia,GA,3,Stephen Pace,Democratic,100.0,True,True,False
-1938,house,Georgia,GA,3,Alexander Stephens Mitchell,Independent,0.02,False,False,False
-1938,house,Georgia,GA,4,Emmett Marshall Owen,Democratic,100.0,True,True,False
-1938,house,Georgia,GA,5,Robert Ramspeck,Democratic,97.2,True,True,False
-1938,house,Georgia,GA,5,Henry A. Alexander,Republican,2.8,False,False,False
-1938,house,Georgia,GA,6,Carl Vinson,Democratic,99.9,True,True,False
-1938,house,Georgia,GA,6,H. W. Shepard,Republican,0.1,False,False,False
-1938,house,Georgia,GA,7,Malcolm C. Tarver,Democratic,100.0,True,True,False
-1938,house,Georgia,GA,7,Alexander Stephens Mitchell,Independent,0.02,False,False,False
-1938,house,Georgia,GA,8,W. Benjamin Gibbs,Democratic,100.0,True,False,True
-1938,house,Georgia,GA,9,B. Frank Whelchel,Democratic,99.9,True,True,False
-1938,house,Georgia,GA,9,E. L. McCravey,Independent,0.1,False,False,False
-1938,house,Georgia,GA,10,Paul Brown,Democratic,94.4,True,True,False
-1938,house,Georgia,GA,10,D. Talmadge Bowers,Independent,4.6,False,False,False
-1938,house,Georgia,GA,10,Mrs. A. R. Shivers,Independent,1.0,False,False,False
-1938,house,Idaho,ID,1,Compton I. White,Democratic,62.8,True,True,False
-1938,house,Idaho,ID,1,Rex T. Hensen,Republican,37.2,False,False,False
-1938,house,Idaho,ID,2,Henry Dworshak,Republican,53.6,True,False,True
-1938,house,Idaho,ID,2,Bert H. Miller,Democratic,46.4,False,False,True
-1938,house,Illinois,IL,1,Arthur W. Mitchell,Democratic,53.4,True,True,False
-1938,house,Illinois,IL,1,William L. Dawson,Republican,46.6,False,False,False
-1938,house,Illinois,IL,2,Raymond S. McKeough,Democratic,54.4,True,True,False
-1938,house,Illinois,IL,2,Noble W. Lee,Republican,45.6,False,False,False
-1938,house,Illinois,IL,3,Edward A. Kelly,Democratic,56.0,True,True,False
-1938,house,Illinois,IL,3,Goodwin L. Dosland,Republican,44.0,False,False,False
-1938,house,Illinois,IL,4,Harry P. Beam,Democratic,76.4,True,True,False
-1938,house,Illinois,IL,4,Dominic M. Janec Jr.,Republican,23.6,False,False,False
-1938,house,Illinois,IL,5,Adolph J. Sabath,Democratic,74.8,True,True,False
-1938,house,Illinois,IL,5,Max Price,Republican,25.2,False,False,False
-1938,house,Illinois,IL,6,A. F. Maciejewski,Democratic,58.7,True,False,True
-1938,house,Illinois,IL,6,Robert Isham Randolph,Republican,41.3,False,False,True
-1938,house,Illinois,IL,7,Leonard W. Schuetz,Democratic,54.3,True,True,False
-1938,house,Illinois,IL,7,James C. Moreland,Republican,45.7,False,False,False
-1938,house,Illinois,IL,8,Leo Kocialkowski,Democratic,75.3,True,True,False
-1938,house,Illinois,IL,8,Rena E. Pikiel,Republican,24.7,False,False,False
-1938,house,Illinois,IL,9,James McAndrews,Democratic,52.7,True,True,False
-1938,house,Illinois,IL,9,Charles S. Dewey,Republican,47.3,False,False,False
-1938,house,Illinois,IL,10,Ralph E. Church,Republican,58.1,True,True,False
-1938,house,Illinois,IL,10,Joseph F. Elward,Democratic,41.9,False,False,False
-1938,house,Illinois,IL,11,Chauncey W. Reed,Republican,65.9,True,True,False
-1938,house,Illinois,IL,11,William J. Bossingham,Democratic,34.1,False,False,False
-1938,house,Illinois,IL,12,Noah M. Mason,Republican,60.7,True,True,False
-1938,house,Illinois,IL,12,Edward C. Hunter,Democratic,39.3,False,False,False
-1938,house,Illinois,IL,13,Leo E. Allen,Republican,65.6,True,True,False
-1938,house,Illinois,IL,13,Theodore A. Secker,Democratic,34.4,False,False,False
-1938,house,Illinois,IL,14,Anton J. Johnson,Republican,51.5,True,False,False
-1938,house,Illinois,IL,14,Chester Thompson,Democratic,48.5,False,True,False
-1938,house,Illinois,IL,15,Robert B. Chiperfield,Republican,54.5,True,False,False
-1938,house,Illinois,IL,15,Lewis L. Boyer,Democratic,45.5,False,True,False
-1938,house,Illinois,IL,16,Everett Dirksen,Republican,63.5,True,True,False
-1938,house,Illinois,IL,16,James C. Dillon,Democratic,36.5,False,False,False
-1938,house,Illinois,IL,17,Leslie C. Arends,Republican,60.9,True,True,False
-1938,house,Illinois,IL,17,Thomas V. Watson,Democratic,39.1,False,False,False
-1938,house,Illinois,IL,18,Jessie Sumner,Republican,55.3,True,False,False
-1938,house,Illinois,IL,18,James A. Meeks,Democratic,44.7,False,True,False
-1938,house,Illinois,IL,19,William H. Wheat,Republican,51.5,True,False,False
-1938,house,Illinois,IL,19,Hugh M. Rigney,Democratic,48.5,False,True,False
-1938,house,Illinois,IL,20,James M. Barnes,Democratic,55.4,True,False,True
-1938,house,Illinois,IL,20,Stuart E. Pierson,Republican,44.6,False,False,True
-1938,house,Illinois,IL,21,Frank W. Fries,Democratic,50.3,True,True,False
-1938,house,Illinois,IL,21,Frank M. Ramey,Republican,49.7,False,False,False
-1938,house,Illinois,IL,22,Edwin M. Schaefer,Democratic,52.4,True,True,False
-1938,house,Illinois,IL,22,Jesse R. Brown,Republican,47.6,False,False,False
-1938,house,Illinois,IL,23,Laurence F. Arnold,Democratic,53.8,True,True,False
-1938,house,Illinois,IL,23,O. A. James,Republican,46.2,False,False,False
-1938,house,Illinois,IL,24,Claude V. Parsons,Democratic,51.1,True,True,False
-1938,house,Illinois,IL,24,R. R. Randolph,Republican,48.9,False,False,False
-1938,house,Illinois,IL,25,Kent E. Keller,Democratic,52.3,True,True,False
-1938,house,Illinois,IL,25,R. G. Crisenberry,Republican,47.7,False,False,False
-1938,house,Illinois,IL,AL,Thomas Vernor Smith,Democratic,25.9,True,False,False
-1938,house,Illinois,IL,AL,John C. Martin,Democratic,25.7,True,False,False
-1938,house,Illinois,IL,AL,Stephen A. Day,Republican,24.2,False,False,False
-1938,house,Illinois,IL,AL,Simon E. Lantz,Republican,24.0,False,False,False
-1938,house,Indiana,IN,1,William T. Schulte,Democratic,54.9,True,True,False
-1938,house,Indiana,IN,1,M. Elliott Belshaw,Republican,45.0,False,False,False
-1938,house,Indiana,IN,2,Charles A. Halleck,Republican,57.8,True,True,False
-1938,house,Indiana,IN,2,Homer Stonebraker,Democratic,42.2,False,False,False
-1938,house,Indiana,IN,3,Robert A. Grant,Republican,51.0,True,False,True
-1938,house,Indiana,IN,3,George N. Beamer,Democratic,49.0,False,False,True
-1938,house,Indiana,IN,4,George W. Gillie,Republican,58.1,True,False,False
-1938,house,Indiana,IN,4,James I. Farley,Democratic,41.9,False,True,False
-1938,house,Indiana,IN,5,Forest Harness,Republican,54.7,True,False,False
-1938,house,Indiana,IN,5,Glenn Griswold,Democratic,45.3,False,True,False
-1938,house,Indiana,IN,6,Noble J. Johnson,Republican,50.6,True,False,False
-1938,house,Indiana,IN,6,Virginia E. Jenckes,Democratic,49.4,False,True,False
-1938,house,Indiana,IN,7,Gerald W. Landis,Republican,51.1,True,False,False
-1938,house,Indiana,IN,7,Arthur H. Greenwood,Democratic,48.9,False,True,False
-1938,house,Indiana,IN,8,John W. Boehne Jr.,Democratic,56.4,True,True,False
-1938,house,Indiana,IN,8,Charles F. Werner,Republican,43.6,False,False,False
-1938,house,Indiana,IN,9,Eugene B. Crowe,Democratic,52.1,True,True,False
-1938,house,Indiana,IN,9,Clifford H. Long,Republican,47.9,False,False,False
-1938,house,Indiana,IN,10,Raymond S. Springer,Republican,53.5,True,False,False
-1938,house,Indiana,IN,10,Finly Hutchinson Gray,Democratic,46.5,False,True,False
-1938,house,Indiana,IN,11,William H. Larrabee,Democratic,51.6,True,True,False
-1938,house,Indiana,IN,11,William O. Nelson,Republican,48.4,False,False,False
-1938,house,Indiana,IN,12,Louis Ludlow,Democratic,53.7,True,True,False
-1938,house,Indiana,IN,12,Charles W. Jewett,Republican,46.3,False,False,False
-1938,house,Iowa,IA,1,Thomas E. Martin,Republican,57.7,True,False,True
-1938,house,Iowa,IA,1,James P. Goffney,Democratic,41.8,False,False,True
-1938,house,Iowa,IA,2,William S. Jacobsen,Democratic,50.3,True,True,False
-1938,house,Iowa,IA,2,Alfred C. Mueller,Republican,49.7,False,False,False
-1938,house,Iowa,IA,3,John W. Gwynne,Republican,59.7,True,True,False
-1938,house,Iowa,IA,3,W. F. Hayes,Democratic,39.5,False,False,False
-1938,house,Iowa,IA,4,Henry O. Talle,Republican,51.9,True,False,False
-1938,house,Iowa,IA,4,Fred Biermann,Democratic,47.6,False,True,False
-1938,house,Iowa,IA,5,Karl M. LeCompte,Republican,53.9,True,False,True
-1938,house,Iowa,IA,5,Ruth F. Hollingshead,Democratic,46.1,False,False,True
-1938,house,Iowa,IA,6,Cassius C. Dowell,Republican,58.5,True,True,False
-1938,house,Iowa,IA,6,Hubert Utterback,Democratic,40.5,False,False,False
-1938,house,Iowa,IA,7,Ben F. Jensen,Republican,59.0,True,False,True
-1938,house,Iowa,IA,7,Roger F. Warin,Democratic,40.8,False,False,True
-1938,house,Iowa,IA,8,Fred C. Gilchrist,Republican,62.5,True,True,False
-1938,house,Iowa,IA,8,H. Lloyd Eveland,Democratic,36.9,False,False,False
-1938,house,Iowa,IA,9,Vincent F. Harrington,Democratic,49.7,True,True,False
-1938,house,Iowa,IA,9,Albert F. Swanson,Republican,49.3,False,False,False
-1938,house,Kansas,KS,1,William P. Lambertson,Republican,60.3,True,True,False
-1938,house,Kansas,KS,1,H. N. Hensley,Democratic,39.7,False,False,False
-1938,house,Kansas,KS,2,Ulysses Samuel Guyer,Republican,56.4,True,True,False
-1938,house,Kansas,KS,2,W. F. Jackson,Democratic,43.6,False,False,False
-1938,house,Kansas,KS,3,Thomas Daniel Winter,Republican,53.4,True,False,False
-1938,house,Kansas,KS,3,Edward White Patterson,Democratic,46.6,False,True,False
-1938,house,Kansas,KS,4,Edward Herbert Rees,Republican,63.1,True,True,False
-1938,house,Kansas,KS,4,J. Donald Coffin,Democratic,36.9,False,False,False
-1938,house,Kansas,KS,5,John Mills Houston,Democratic,50.3,True,True,False
-1938,house,Kansas,KS,5,Stanley Taylor,Republican,49.7,False,False,False
-1938,house,Kansas,KS,6,Frank Carlson,Republican,63.4,True,True,False
-1938,house,Kansas,KS,6,Roy L. Hamilton,Democratic,36.6,False,False,False
-1938,house,Kansas,KS,7,Clifford R. Hope,Republican,65.5,True,True,False
-1938,house,Kansas,KS,7,Claude E. Main,Democratic,34.5,False,False,False
-1938,house,Kentucky,KY,1,Noble Jones Gregory,Democratic,76.0,True,True,False
-1938,house,Kentucky,KY,1,Alvin H. Schutz,Republican,24.0,False,False,False
-1938,house,Kentucky,KY,2,Beverly M. Vincent,Democratic,63.8,True,True,False
-1938,house,Kentucky,KY,2,Richard H. Slack,Republican,36.2,False,False,False
-1938,house,Kentucky,KY,3,Emmet O'Neal,Democratic,61.1,True,True,False
-1938,house,Kentucky,KY,3,Frank A. Ropke,Republican,38.9,False,False,False
-1938,house,Kentucky,KY,4,Edward W. Creal,Democratic,59.2,True,True,False
-1938,house,Kentucky,KY,4,Harry H. Wilson,Republican,40.8,False,False,False
-1938,house,Kentucky,KY,5,Brent Spence,Democratic,68.4,True,True,False
-1938,house,Kentucky,KY,5,Joseph Arnold Kreke,Republican,31.6,False,False,False
-1938,house,Kentucky,KY,6,Virgil Chapman,Democratic,64.8,True,True,False
-1938,house,Kentucky,KY,6,Chester D. Silvers,Republican,34.8,False,False,False
-1938,house,Kentucky,KY,6,Thomas Anderson Brockman,Independent,0.4,False,False,False
-1938,house,Kentucky,KY,7,Andrew J. May,Democratic,53.2,True,True,False
-1938,house,Kentucky,KY,7,Hillard H. Smith,Republican,46.8,False,False,False
-1938,house,Kentucky,KY,8,Joe B. Bates,Democratic,58.8,True,True,False
-1938,house,Kentucky,KY,8,H. Clell Hayes,Republican,41.2,False,False,False
-1938,house,Kentucky,KY,9,John M. Robsion,Republican,66.8,True,True,False
-1938,house,Kentucky,KY,9,Bert Rowland,Democratic,33.2,False,False,False
-1938,house,Louisiana,LA,1,Joachim O. Fernández,Democratic,100.0,True,True,False
-1938,house,Louisiana,LA,2,Paul H. Maloney,Democratic,100.0,True,True,False
-1938,house,Louisiana,LA,3,Robert L. Mouton,Democratic,100.0,True,True,False
-1938,house,Louisiana,LA,4,Overton Brooks,Democratic,99.6,True,True,False
-1938,house,Louisiana,LA,4,Ben Neal,Independent,0.4,False,False,False
-1938,house,Louisiana,LA,5,Newt V. Mills,Democratic,100.0,True,True,False
-1938,house,Louisiana,LA,6,John K. Griffith,Democratic,100.0,True,True,False
-1938,house,Louisiana,LA,7,René L. De Rouen,Democratic,100.0,True,True,False
-1938,house,Louisiana,LA,8,A. Leonard Allen,Democratic,100.0,True,True,False
-1938,house,Maine,ME,1,James C. Oliver,Republican,59.0,True,True,False
-1938,house,Maine,ME,1,Harold B. Emery,Democratic,41.0,False,False,False
-1938,house,Maine,ME,2,Clyde H. Smith,Republican,54.3,True,True,False
-1938,house,Maine,ME,2,F. Harold Dubord,Democratic,45.7,False,False,False
-1938,house,Maine,ME,3,Owen Brewster,Republican,63.4,True,True,False
-1938,house,Maine,ME,3,Melvin P. Roberts,Democratic,36.6,False,False,False
-1938,house,Maryland,MD,1,T. Alan Goldsborough,Democratic,62.8,True,True,False
-1938,house,Maryland,MD,1,Charles H. Gibson,Republican,37.2,False,False,False
-1938,house,Maryland,MD,2,William P. Cole Jr.,Democratic,66.3,True,True,False
-1938,house,Maryland,MD,2,Irving H. Mezger,Republican,32.5,False,False,False
-1938,house,Maryland,MD,3,Thomas D'Alesandro Jr.,Democratic,56.6,True,False,False
-1938,house,Maryland,MD,3,John A. Janetzke Jr.,Republican,43.4,False,False,False
-1938,house,Maryland,MD,4,Ambrose Jerome Kennedy,Democratic,50.2,True,True,False
-1938,house,Maryland,MD,4,Daniel Ellison,Republican,49.8,False,False,False
-1938,house,Maryland,MD,5,Stephen W. Gambrill,Democratic,68.0,True,True,False
-1938,house,Maryland,MD,5,A. Kingsley Love,Republican,28.6,False,False,False
-1938,house,Maryland,MD,5,David L. Elliott,Independent,1.4,False,False,False
-1938,house,Maryland,MD,6,William D. Byron,Democratic,50.8,True,False,True
-1938,house,Maryland,MD,6,A. Charles Stewart,Republican,49.2,False,False,True
-1938,house,Massachusetts,MA,1,Allen T. Treadway,Republican,58.8,True,True,False
-1938,house,Massachusetts,MA,1,Owen Johnson,Democratic,41.2,False,False,False
-1938,house,Massachusetts,MA,2,Charles R. Clason,Republican,61.9,True,True,False
-1938,house,Massachusetts,MA,2,James F. Egan,Democratic,38.1,False,False,False
-1938,house,Massachusetts,MA,3,Joseph E. Casey,Democratic,51.8,True,True,False
-1938,house,Massachusetts,MA,3,J. Walton Tuttle,Republican,48.2,False,False,False
-1938,house,Massachusetts,MA,4,Pehr G. Holmes,Republican,54.1,True,True,False
-1938,house,Massachusetts,MA,4,Edward A. Ryan,Democratic,45.9,False,False,False
-1938,house,Massachusetts,MA,5,Edith Nourse Rogers,Republican,74.8,True,True,False
-1938,house,Massachusetts,MA,5,Francis J. Roane,Democratic,25.2,False,False,False
-1938,house,Massachusetts,MA,6,George J. Bates,Republican,74.7,True,True,False
-1938,house,Massachusetts,MA,6,James D. Burns,Democratic,25.3,False,False,False
-1938,house,Massachusetts,MA,7,Lawrence J. Connery,Democratic,63.8,True,True,False
-1938,house,Massachusetts,MA,7,George W. Eastman,Republican,36.2,False,False,False
-1938,house,Massachusetts,MA,8,Arthur D. Healey,Democratic,55.1,True,True,False
-1938,house,Massachusetts,MA,8,Rufus Bond,Republican,44.9,False,False,False
-1938,house,Massachusetts,MA,9,Robert Luce,Republican,50.7,True,True,False
-1938,house,Massachusetts,MA,9,Thomas H. Eliot,Democratic,49.3,False,False,False
-1938,house,Massachusetts,MA,10,George H. Tinkham,Republican,64.4,True,True,False
-1938,house,Massachusetts,MA,10,Martin J. Kelly,Democratic,35.6,False,False,False
-1938,house,Massachusetts,MA,11,Thomas A. Flaherty,Democratic,100.0,True,True,False
-1938,house,Massachusetts,MA,12,John William McCormack,Democratic,77.1,True,False,False
-1938,house,Massachusetts,MA,12,Henry J. Allen,Republican,22.9,False,False,False
-1938,house,Massachusetts,MA,13,Richard B. Wigglesworth,Republican,68.4,True,True,False
-1938,house,Massachusetts,MA,13,Andrew T. Clancy,Democratic,31.6,False,False,False
-1938,house,Massachusetts,MA,14,Joseph William Martin Jr.,Republican,58.7,True,False,False
-1938,house,Massachusetts,MA,14,Lawrence J. Bresnahan,Democratic,40.5,False,False,False
-1938,house,Massachusetts,MA,15,Charles L. Gifford,Republican,59.0,True,True,False
-1938,house,Massachusetts,MA,15,John D. W. Bodfish,Democratic,41.0,False,False,False
-1938,house,Michigan,MI,1,Rudolph G. Tenerowicz,Democratic,80.4,True,False,False
-1938,house,Michigan,MI,1,Charles A. Roxborough,Republican,18.8,False,False,False
-1938,house,Michigan,MI,2,Earl C. Michener,Republican,64.4,True,True,False
-1938,house,Michigan,MI,2,"Walter C. Averill, Jr.",Democratic,35.5,False,False,False
-1938,house,Michigan,MI,3,Paul W. Shafer,Republican,66.0,True,True,False
-1938,house,Michigan,MI,3,Gordon L. Stewart,Democratic,33.9,False,False,False
-1938,house,Michigan,MI,4,Clare E. Hoffman,Republican,59.2,True,True,False
-1938,house,Michigan,MI,4,Felix Racette,Democratic,40.8,False,False,False
-1938,house,Michigan,MI,5,Carl E. Mapes,Republican,59.1,True,True,False
-1938,house,Michigan,MI,5,Tunis Johnson,Democratic,40.9,False,False,False
-1938,house,Michigan,MI,6,William W. Blackney,Republican,55.0,True,False,False
-1938,house,Michigan,MI,6,Andrew J. Transue,Democratic,45.0,False,True,False
-1938,house,Michigan,MI,7,Jesse P. Wolcott,Republican,69.0,True,True,False
-1938,house,Michigan,MI,7,Charles F. Mann,Democratic,31.0,False,False,False
-1938,house,Michigan,MI,8,Fred L. Crawford,Republican,58.7,True,True,False
-1938,house,Michigan,MI,8,Louis C. Schwinger,Democratic,41.3,False,False,False
-1938,house,Michigan,MI,9,Albert J. Engel,Republican,58.2,True,True,False
-1938,house,Michigan,MI,9,Noel P. Fox,Democratic,41.8,False,False,False
-1938,house,Michigan,MI,10,Roy O. Woodruff,Republican,66.3,True,True,False
-1938,house,Michigan,MI,10,Harold C. Bellows,Democratic,33.5,False,False,False
-1938,house,Michigan,MI,11,Frederick Van Ness Bradley,Republican,51.4,True,False,False
-1938,house,Michigan,MI,11,John F. Luecke,Democratic,48.6,False,True,False
-1938,house,Michigan,MI,12,Frank Eugene Hook,Democratic,51.7,True,True,False
-1938,house,Michigan,MI,12,John B. Bennett,Republican,48.3,False,False,False
-1938,house,Michigan,MI,13,Clarence J. McLeod,Republican,50.6,True,False,False
-1938,house,Michigan,MI,13,George D. O'Brien,Democratic,48.9,False,True,False
-1938,house,Michigan,MI,14,Louis C. Rabaut,Democratic,57.6,True,True,False
-1938,house,Michigan,MI,14,O. Z. Ide,Republican,42.1,False,False,False
-1938,house,Michigan,MI,15,John Dingell Sr.,Democratic,54.0,True,True,False
-1938,house,Michigan,MI,15,Archie C. Fraser,Republican,45.6,False,False,False
-1938,house,Michigan,MI,16,John Lesinski Sr.,Democratic,55.1,True,True,False
-1938,house,Michigan,MI,16,John L. Carey,Republican,44.5,False,False,False
-1938,house,Michigan,MI,17,George A. Dondero,Republican,61.4,True,True,False
-1938,house,Michigan,MI,17,Samuel G. Backus,Democratic,38.3,False,False,False
-1938,house,Minnesota,MN,1,August H. Andresen,Republican,64.9,True,True,False
-1938,house,Minnesota,MN,1,Ray G. Moonan,Democratic,35.1,False,False,False
-1938,house,Minnesota,MN,2,Elmer Ryan,Democratic,43.6,True,True,False
-1938,house,Minnesota,MN,2,Joseph P. O'Hara,Republican,35.9,False,False,False
-1938,house,Minnesota,MN,3,John G. Alexander,Republican,45.3,True,False,False
-1938,house,Minnesota,MN,3,Henry Teigan,Farmer–Labor,42.8,False,True,False
-1938,house,Minnesota,MN,3,Martin A. Hogan,Democratic,11.9,False,False,False
-1938,house,Minnesota,MN,4,Melvin Maas,Republican,53.1,True,True,False
-1938,house,Minnesota,MN,4,Howard Y. Williams,Farmer–Labor,35.8,False,False,False
-1938,house,Minnesota,MN,4,A. B. C. Doherty,Democratic,11.1,False,False,False
-1938,house,Minnesota,MN,5,Oscar Youngdahl,Republican,54.7,True,False,False
-1938,house,Minnesota,MN,5,Dewey Johnson,Farmer–Labor,36.8,False,True,False
-1938,house,Minnesota,MN,5,John L. Gleason,Democratic,8.6,False,False,False
-1938,house,Minnesota,MN,6,Harold Knutson,Republican,63.2,True,True,False
-1938,house,Minnesota,MN,6,Harold F. Deering,Democratic,8.3,False,False,False
-1938,house,Minnesota,MN,7,H. Carl Andersen,Republican,42.6,True,False,False
-1938,house,Minnesota,MN,7,Paul John Kvale,Farmer–Labor,36.7,False,True,False
-1938,house,Minnesota,MN,7,J. L. O'Connor,Democratic,16.7,False,False,False
-1938,house,Minnesota,MN,7,Albert S. Falk,Independent,4.1,False,False,False
-1938,house,Minnesota,MN,8,William Alvin Pittenger,Republican,51.8,True,False,False
-1938,house,Minnesota,MN,8,John Bernard,Farmer–Labor,41.4,False,True,False
-1938,house,Minnesota,MN,8,Merle J. McKeon,Democratic,6.8,False,False,False
-1938,house,Minnesota,MN,9,Rich T. Buckler,Farmer–Labor,42.0,True,True,False
-1938,house,Minnesota,MN,9,Ole O. Sageng,Republican,38.5,False,False,False
-1938,house,Minnesota,MN,9,Martin O. Brandon,Democratic,19.5,False,False,False
-1938,house,Mississippi,MS,1,John E. Rankin,Democratic,100.0,True,True,False
-1938,house,Mississippi,MS,2,Wall Doxey,Democratic,100.0,True,True,False
-1938,house,Mississippi,MS,3,William Madison Whittington,Democratic,100.0,True,True,False
-1938,house,Mississippi,MS,4,Aaron L. Ford,Democratic,100.0,True,True,False
-1938,house,Mississippi,MS,5,Ross A. Collins,Democratic,100.0,True,True,False
-1938,house,Mississippi,MS,6,William M. Colmer,Democratic,100.0,True,True,False
-1938,house,Mississippi,MS,7,Dan R. McGehee,Democratic,100.0,True,True,False
-1938,house,Missouri,MO,1,Milton A. Romjue,Democratic,54.7,True,True,False
-1938,house,Missouri,MO,1,James Grover Morgan,Republican,45.2,False,False,False
-1938,house,Missouri,MO,2,William L. Nelson,Democratic,57.9,True,True,False
-1938,house,Missouri,MO,2,Mrs. George B. Simmons,Republican,42.0,False,False,False
-1938,house,Missouri,MO,3,Richard M. Duncan,Democratic,55.3,True,True,False
-1938,house,Missouri,MO,3,Fred Maughmer,Republican,44.7,False,False,False
-1938,house,Missouri,MO,4,C. Jasper Bell,Democratic,80.4,True,True,False
-1938,house,Missouri,MO,4,George E. Kimball,Republican,19.6,False,False,False
-1938,house,Missouri,MO,5,Joe Shannon,Democratic,81.0,True,True,False
-1938,house,Missouri,MO,5,Leslie J. Lyons,Republican,19.0,False,False,False
-1938,house,Missouri,MO,6,Reuben T. Wood,Democratic,50.3,True,True,False
-1938,house,Missouri,MO,6,Phil A. Bennett,Republican,49.7,False,False,False
-1938,house,Missouri,MO,7,Dewey Short,Republican,56.3,True,True,False
-1938,house,Missouri,MO,7,Frank H. Lee,Democratic,43.6,False,False,False
-1938,house,Missouri,MO,8,Clyde Williams,Democratic,55.3,True,True,False
-1938,house,Missouri,MO,8,Homer S. Cotton,Republican,44.7,False,False,False
-1938,house,Missouri,MO,9,Clarence Cannon,Democratic,60.5,True,True,False
-1938,house,Missouri,MO,9,F. B. Meyer,Republican,39.4,False,False,False
-1938,house,Missouri,MO,10,Orville Zimmerman,Democratic,58.9,True,True,False
-1938,house,Missouri,MO,10,Ralph Hutchison,Republican,41.0,False,False,False
-1938,house,Missouri,MO,11,Thomas C. Hennings Jr.,Democratic,61.8,True,True,False
-1938,house,Missouri,MO,11,William E. Buder,Republican,37.9,False,False,False
-1938,house,Missouri,MO,12,Charles Arthur Anderson,Democratic,52.0,True,True,False
-1938,house,Missouri,MO,12,Russell J. Horsefield,Republican,47.6,False,False,False
-1938,house,Missouri,MO,13,John J. Cochran,Democratic,69.0,True,True,False
-1938,house,Missouri,MO,13,William Gray,Republican,30.9,False,False,False
-1938,house,Montana,MT,1,Jacob Thorkelson,Republican,54.4,True,False,False
-1938,house,Montana,MT,1,Jerry J. O'Connell,Democratic,45.6,False,True,False
-1938,house,Montana,MT,2,James F. O'Connor,Democratic,53.8,True,True,False
-1938,house,Montana,MT,2,W. C. Husband,Republican,46.2,False,False,False
-1938,house,Nebraska,NE,1,George H. Heinke,Republican,47.0,True,False,False
-1938,house,Nebraska,NE,1,Henry Carl Luckey,Democratic,46.6,False,True,False
-1938,house,Nebraska,NE,1,Catherine F. McGerr,Independent,6.4,False,False,False
-1938,house,Nebraska,NE,2,Charles F. McLaughlin,Democratic,57.3,True,True,False
-1938,house,Nebraska,NE,2,M. F. Mulvaney,Republican,39.9,False,False,False
-1938,house,Nebraska,NE,2,James Levi Nelson,Independent,2.7,False,False,False
-1938,house,Nebraska,NE,3,Karl Stefan,Republican,75.3,True,True,False
-1938,house,Nebraska,NE,3,Edgar Howard,Democratic,24.7,False,False,False
-1938,house,Nebraska,NE,4,Carl Curtis,Republican,58.2,True,False,False
-1938,house,Nebraska,NE,4,Charles Gustav Binderup,Democratic,41.8,False,True,False
-1938,house,Nebraska,NE,5,Harry B. Coffee,Democratic,62.4,True,True,False
-1938,house,Nebraska,NE,5,William E. Shuman,Republican,34.1,False,False,False
-1938,house,Nebraska,NE,5,Milford Flood,Independent,3.5,False,False,False
-1938,house,Nevada,NV,AL,James G. Scrugham,Democratic,66.4,True,True,False
-1938,house,Nevada,NV,AL,Harry E. Stewart,Republican,33.6,False,False,False
-1938,house,New Hampshire,NH,1,Arthur B. Jenks,Republican,53.9,True,False,False
-1938,house,New Hampshire,NH,1,Alphonse Roy,Democratic,46.1,False,True,False
-1938,house,New Hampshire,NH,2,Foster Waterman Stearns,Republican,59.1,True,False,True
-1938,house,New Hampshire,NH,2,Alvin A. Lucier,Democratic,40.9,False,False,True
-1938,house,New Jersey,NJ,1,Charles A. Wolverton,Republican,62.0,True,True,False
-1938,house,New Jersey,NJ,1,Thomas M. Madden,Democratic,37.5,False,False,False
-1938,house,New Jersey,NJ,2,Walter S. Jeffries,Republican,50.6,True,False,False
-1938,house,New Jersey,NJ,2,Elmer H. Wene,Democratic,49.1,False,True,False
-1938,house,New Jersey,NJ,3,William H. Sutphin,Democratic,50.5,True,True,False
-1938,house,New Jersey,NJ,3,James K. Allerdice,Republican,49.5,False,False,False
-1938,house,New Jersey,NJ,4,D. Lane Powers,Republican,61.3,True,True,False
-1938,house,New Jersey,NJ,4,Richard J. Hughes,Democratic,38.4,False,False,False
-1938,house,New Jersey,NJ,5,Charles A. Eaton,Republican,56.7,True,True,False
-1938,house,New Jersey,NJ,5,Franklin W. Rice,Democratic,43.2,False,False,False
-1938,house,New Jersey,NJ,6,Donald H. McLean,Republican,61.4,True,True,False
-1938,house,New Jersey,NJ,6,Richard F. Green,Democratic,37.4,False,False,False
-1938,house,New Jersey,NJ,7,J. Parnell Thomas,Republican,64.0,True,True,False
-1938,house,New Jersey,NJ,7,Edward W. Wildrick,Democratic,35.6,False,False,False
-1938,house,New Jersey,NJ,8,George N. Seger,Republican,59.2,True,True,False
-1938,house,New Jersey,NJ,8,Fred Hoelscher,Democratic,40.1,False,False,False
-1938,house,New Jersey,NJ,9,Frank C. Osmers Jr.,Republican,59.3,True,False,True
-1938,house,New Jersey,NJ,9,Vincent Clausen,Democratic,39.9,False,False,True
-1938,house,New Jersey,NJ,9,Elizabeth Jane Kenney,Independent,0.5,False,False,True
-1938,house,New Jersey,NJ,10,Fred A. Hartley Jr.,Republican,55.6,True,True,False
-1938,house,New Jersey,NJ,10,Lindsay H. Rudd,Democratic,39.5,False,False,False
-1938,house,New Jersey,NJ,10,Nicholas Fiore,Independent,4.4,False,False,False
-1938,house,New Jersey,NJ,11,Albert L. Vreeland,Republican,50.3,True,False,False
-1938,house,New Jersey,NJ,11,Edward L. O'Neill,Democratic,44.8,False,True,False
-1938,house,New Jersey,NJ,11,John C. Privitera,Independent,0.6,False,False,False
-1938,house,New Jersey,NJ,12,Robert Kean,Republican,55.0,True,False,False
-1938,house,New Jersey,NJ,12,Frank W. Towey Jr.,Democratic,41.3,False,True,False
-1938,house,New Jersey,NJ,13,Mary Teresa Norton,Democratic,79.8,True,True,False
-1938,house,New Jersey,NJ,13,T. Burton Coyle,Republican,20.1,False,False,False
-1938,house,New Jersey,NJ,14,Edward J. Hart,Democratic,78.6,True,True,False
-1938,house,New Jersey,NJ,14,Henry T. Stuhr,Republican,21.1,False,False,False
-1938,house,New Mexico,NM,AL,John J. Dempsey,Democratic,58.4,True,True,False
-1938,house,New Mexico,NM,AL,Pearce C. Rodney,Republican,41.4,False,False,False
-1938,house,New York,NY,1,Leonard W. Hall,Republican,63.0,True,False,True
-1938,house,New York,NY,1,John F. Kiernan,Democratic,34.0,False,False,True
-1938,house,New York,NY,2,William Bernard Barry,Democratic,67.6,True,True,False
-1938,house,New York,NY,2,George Archinal,Republican,31.5,False,False,False
-1938,house,New York,NY,3,Joseph L. Pfeifer,Democratic,64.8,True,True,False
-1938,house,New York,NY,3,Philip Tirone,Republican,23.3,False,False,False
-1938,house,New York,NY,4,Thomas H. Cullen,Democratic,74.5,True,True,False
-1938,house,New York,NY,4,Edwin R. Kaprat,Republican,24.8,False,False,False
-1938,house,New York,NY,5,Marcellus H. Evans,Democratic,58.3,True,True,False
-1938,house,New York,NY,5,Francis H. Warland,Republican,30.1,False,False,False
-1938,house,New York,NY,6,Andrew Lawrence Somers,Democratic,52.0,True,True,False
-1938,house,New York,NY,6,Gustav Drews,Republican,46.3,False,False,False
-1938,house,New York,NY,7,John J. Delaney,Democratic,59.6,True,True,False
-1938,house,New York,NY,7,John J. Blust,Republican,19.8,False,False,False
-1938,house,New York,NY,8,Donald L. O'Toole,Democratic,54.1,True,True,False
-1938,house,New York,NY,8,Dorothy J. Bellanca,Republican,44.7,False,False,False
-1938,house,New York,NY,9,Eugene James Keogh,Democratic,54.1,True,True,False
-1938,house,New York,NY,9,Nelson S. Kirk,Republican,34.0,False,False,False
-1938,house,New York,NY,10,Emanuel Celler,Democratic,73.5,True,True,False
-1938,house,New York,NY,10,Arthur H. J. Macmullen,Republican,24.9,False,False,False
-1938,house,New York,NY,10,Jack Altman,Socialist,1.6,False,False,False
-1938,house,New York,NY,11,James A. O'Leary,Democratic,58.9,True,True,False
-1938,house,New York,NY,11,Percy C. Ryder,Republican,33.9,False,False,False
-1938,house,New York,NY,12,Samuel Dickstein,Democratic,89.0,True,True,False
-1938,house,New York,NY,12,Hyman Hecht,Republican,9.6,False,False,False
-1938,house,New York,NY,13,Christopher D. Sullivan,Democratic,63.8,True,True,False
-1938,house,New York,NY,13,John Rosenberg,Republican,18.2,False,False,False
-1938,house,New York,NY,13,Eugene P. Connolly,American Labor,17.0,False,False,False
-1938,house,New York,NY,13,Joel Seidman,Socialist,1.0,False,False,False
-1938,house,New York,NY,14,William I. Sirovich,Democratic,68.4,True,True,False
-1938,house,New York,NY,14,Maurice Wahl,Republican,30.0,False,False,False
-1938,house,New York,NY,15,Michael J. Kennedy,Democratic,67.3,True,False,True
-1938,house,New York,NY,15,John Kane Jr.,Republican,22.6,False,False,True
-1938,house,New York,NY,16,James H. Fay,Democratic,52.1,True,False,False
-1938,house,New York,NY,16,John J. O'Connor,Republican,46.9,False,True,False
-1938,house,New York,NY,16,McAlister Coleman,Socialist,1.1,False,False,False
-1938,house,New York,NY,17,Bruce Fairchild Barton,Republican,55.0,True,True,False
-1938,house,New York,NY,17,Walter H. Liebman,Democratic,36.2,False,False,False
-1938,house,New York,NY,17,George Backer,American Labor,8.3,False,False,False
-1938,house,New York,NY,18,Martin J. Kennedy,Democratic,60.8,True,True,False
-1938,house,New York,NY,18,Raymond S. Fanning,Republican,30.5,False,False,False
-1938,house,New York,NY,19,Sol Bloom,Democratic,53.3,True,True,False
-1938,house,New York,NY,19,Robert P. Levis,Republican,28.1,False,False,False
-1938,house,New York,NY,19,Joseph Schlossberg,American Labor,18.6,False,False,False
-1938,house,New York,NY,20,Vito Marcantonio,American Labor,59.7,True,False,False
-1938,house,New York,NY,20,James J. Lanzetta,Democratic,39.0,False,True,False
-1938,house,New York,NY,21,Joseph A. Gavagan,Democratic,69.5,True,True,False
-1938,house,New York,NY,21,Lorenzo H. King,Republican,29.6,False,False,False
-1938,house,New York,NY,21,Frank Crosswaith,Socialist,1.0,False,False,False
-1938,house,New York,NY,22,Edward W. Curley,Democratic,64.5,True,True,False
-1938,house,New York,NY,22,Arthur D. Fisher,Republican,23.0,False,False,False
-1938,house,New York,NY,23,Charles A. Buckley,Democratic,50.8,True,True,False
-1938,house,New York,NY,23,Isidore Nagler,American Labor,28.4,False,False,False
-1938,house,New York,NY,23,Robert H. Brennen,Republican,20.8,False,False,False
-1938,house,New York,NY,24,James M. Fitzpatrick,Democratic,48.7,True,True,False
-1938,house,New York,NY,24,Louis Goldrich,Republican,33.2,False,False,False
-1938,house,New York,NY,25,Ralph A. Gamble,Republican,64.9,True,True,False
-1938,house,New York,NY,25,Homer A. Stebbins,Democratic,32.0,False,False,False
-1938,house,New York,NY,26,Hamilton Fish III,Republican,64.3,True,True,False
-1938,house,New York,NY,26,Ben Martin,Democratic,35.0,False,False,False
-1938,house,New York,NY,27,Lewis K. Rockefeller,Republican,61.0,True,True,False
-1938,house,New York,NY,27,George W. Markey,Democratic,39.0,False,False,False
-1938,house,New York,NY,28,William T. Byrne,Democratic,60.4,True,True,False
-1938,house,New York,NY,28,William B. Cornell,Republican,37.5,False,False,False
-1938,house,New York,NY,29,E. Harold Cluett,Republican,65.0,True,True,False
-1938,house,New York,NY,29,Harry M. Brooks,Democratic,34.7,False,False,False
-1938,house,New York,NY,30,Frank Crowther,Republican,60.1,True,True,False
-1938,house,New York,NY,30,C. Dorothea Greene,Democratic,39.4,False,False,False
-1938,house,New York,NY,31,Wallace E. Pierce,Republican,64.1,True,False,True
-1938,house,New York,NY,31,George C. Owens,Democratic,25.7,False,False,True
-1938,house,New York,NY,32,Francis D. Culkin,Republican,75.5,True,True,False
-1938,house,New York,NY,32,Virginia A. Spencer,Democratic,24.3,False,False,False
-1938,house,New York,NY,33,Fred J. Douglas,Republican,61.2,True,True,False
-1938,house,New York,NY,33,Ralph A. Peters,Democratic,35.7,False,False,False
-1938,house,New York,NY,34,Bert Lord,Republican,65.3,True,True,False
-1938,house,New York,NY,34,John V. Johnson,Democratic,34.4,False,False,False
-1938,house,New York,NY,35,Clarence E. Hancock,Republican,64.1,True,True,False
-1938,house,New York,NY,35,"Caleb C. Brown, Jr.",Democratic,35.6,False,False,False
-1938,house,New York,NY,36,John Taber,Republican,55.2,True,True,False
-1938,house,New York,NY,36,George F. Davie,Democratic,23.1,False,False,False
-1938,house,New York,NY,37,W. Sterling Cole,Republican,60.5,True,True,False
-1938,house,New York,NY,37,David Moses,Democratic,39.1,False,False,False
-1938,house,New York,NY,38,Joseph J. O'Brien,Republican,55.8,True,False,False
-1938,house,New York,NY,38,George Bradshaw Kelly,Democratic,43.7,False,True,False
-1938,house,New York,NY,39,James W. Wadsworth Jr.,Republican,65.8,True,True,False
-1938,house,New York,NY,39,J. Frank Gilligan,Democratic,28.4,False,False,False
-1938,house,New York,NY,40,Walter G. Andrews,Republican,62.6,True,True,False
-1938,house,New York,NY,40,John L. Beyer,Democratic,34.4,False,False,False
-1938,house,New York,NY,41,J. Francis Harter,Republican,50.5,True,False,False
-1938,house,New York,NY,41,Alfred F. Beiter,Democratic,49.1,False,True,False
-1938,house,New York,NY,42,Pius Schwert,Democratic,45.8,True,False,True
-1938,house,New York,NY,42,John C. Butler,Republican,42.3,False,False,True
-1938,house,New York,NY,42,John A. Ulinski,Independent,11.1,False,False,True
-1938,house,New York,NY,42,John E. Kralisz,Independent,0.5,False,False,True
-1938,house,New York,NY,43,Daniel A. Reed,Republican,65.3,True,True,False
-1938,house,New York,NY,43,Samuel A. Carlson,Democratic,34.7,False,False,False
-1938,house,New York,NY,AL,Caroline O'Day,Democratic,26.7,True,True,False
-1938,house,New York,NY,AL,Matthew J. Merritt,Democratic,26.5,True,False,False
-1938,house,New York,NY,AL,Helen Z. M. Rodgers,Republican,22.6,False,False,False
-1938,house,New York,NY,AL,"Richard B. Scandrett, Jr.",Republican,22.3,False,False,False
-1938,house,New York,NY,AL,Israel Amter,Communist,1.2,False,False,False
-1938,house,New York,NY,AL,Jeremiah D. Crowley,Industrial Government,0.06,False,False,False
-1938,house,North Carolina,NC,1,Lindsay C. Warren,Democratic,100.0,True,True,False
-1938,house,North Carolina,NC,2,John H. Kerr,Democratic,100.0,True,True,False
-1938,house,North Carolina,NC,3,Graham Arthur Barden,Democratic,100.0,True,True,False
-1938,house,North Carolina,NC,4,Harold D. Cooley,Democratic,63.9,True,True,False
-1938,house,North Carolina,NC,4,Willis G. Briggs,Republican,36.1,False,False,False
-1938,house,North Carolina,NC,5,Alonzo Dillard Folger,Democratic,69.7,True,False,True
-1938,house,North Carolina,NC,5,John W. Kurfees Jr.,Republican,30.3,False,False,True
-1938,house,North Carolina,NC,6,Carl T. Durham,Democratic,75.2,True,False,True
-1938,house,North Carolina,NC,6,Oscar G. Barker,Independent,24.8,False,False,True
-1938,house,North Carolina,NC,7,J. Bayard Clark,Democratic,75.7,True,True,False
-1938,house,North Carolina,NC,7,Edgar C. Geddie,Republican,24.3,False,False,False
-1938,house,North Carolina,NC,8,William O. Burgin,Democratic,55.2,True,False,True
-1938,house,North Carolina,NC,8,John R. Jones,Republican,44.8,False,False,True
-1938,house,North Carolina,NC,9,Robert L. Doughton,Democratic,60.9,True,True,False
-1938,house,North Carolina,NC,9,Monroe Adams,Republican,39.1,False,False,False
-1938,house,North Carolina,NC,10,Alfred L. Bulwinkle,Democratic,56.5,True,True,False
-1938,house,North Carolina,NC,10,Frank C. Patton,Republican,43.5,False,False,False
-1938,house,North Carolina,NC,11,Zebulon Weaver,Democratic,63.8,True,True,False
-1938,house,North Carolina,NC,11,Vonno L. Gudger,Republican,36.2,False,False,False
-1938,house,North Dakota,ND,AL,William Lemke,Nonpartisan League,37.3,True,True,False
-1938,house,North Dakota,ND,AL,Usher L. Burdick,Nonpartisan League,36.3,True,False,False
-1938,house,North Dakota,ND,AL,Howard I. Henry,Democratic,13.4,False,False,False
-1938,house,North Dakota,ND,AL,Alfred S. Dale,Democratic,10.9,False,False,False
-1938,house,North Dakota,ND,AL,J. B. Field,Independent,2.0,False,False,False
-1938,house,Ohio,OH,1,Charles H. Elston,Republican,58.2,True,False,False
-1938,house,Ohio,OH,1,Joseph A. Dixon,Democratic,41.8,False,True,False
-1938,house,Ohio,OH,2,William E. Hess,Republican,59.0,True,False,False
-1938,house,Ohio,OH,2,Herbert S. Bigelow,Democratic,41.0,False,True,False
-1938,house,Ohio,OH,3,Harry N. Routzohn,Republican,55.8,True,False,False
-1938,house,Ohio,OH,3,Byron B. Harlan,Democratic,44.2,False,True,False
-1938,house,Ohio,OH,4,Robert F. Jones,Republican,59.8,True,False,True
-1938,house,Ohio,OH,4,William B. Swonger,Democratic,35.3,False,False,True
-1938,house,Ohio,OH,4,John C. Fisher,Independent,4.9,False,False,True
-1938,house,Ohio,OH,5,Cliff Clevenger,Republican,56.8,True,False,False
-1938,house,Ohio,OH,5,Frank C. Kniffin,Democratic,43.2,False,True,False
-1938,house,Ohio,OH,6,James G. Polk,Democratic,50.5,True,True,False
-1938,house,Ohio,OH,6,Emory F. Smith,Republican,49.5,False,False,False
-1938,house,Ohio,OH,7,Clarence J. Brown,Republican,57.6,True,False,False
-1938,house,Ohio,OH,7,Arthur W. Aleshire,Democratic,42.4,False,True,False
-1938,house,Ohio,OH,8,Frederick C. Smith,Republican,54.5,True,False,False
-1938,house,Ohio,OH,8,Thomas B. Fletcher,Democratic,45.5,False,True,False
-1938,house,Ohio,OH,9,John F. Hunter,Democratic,50.4,True,True,False
-1938,house,Ohio,OH,9,Homer A. Ramey,Republican,49.6,False,False,False
-1938,house,Ohio,OH,10,Thomas A. Jenkins,Republican,66.0,True,True,False
-1938,house,Ohio,OH,10,Elsie Stanton,Democratic,34.0,False,False,False
-1938,house,Ohio,OH,11,Harold K. Claypool,Democratic,52.1,True,True,False
-1938,house,Ohio,OH,11,Tom P. White,Republican,47.9,False,False,False
-1938,house,Ohio,OH,12,John M. Vorys,Republican,50.9,True,False,False
-1938,house,Ohio,OH,12,Arthur P. Lamneck,Democratic,49.1,False,True,False
-1938,house,Ohio,OH,13,Dudley A. White,Republican,69.4,True,True,False
-1938,house,Ohio,OH,13,William L. Fiesinger,Democratic,30.6,False,False,False
-1938,house,Ohio,OH,14,Dow W. Harter,Democratic,53.3,True,True,False
-1938,house,Ohio,OH,14,Edward S. Sheck,Republican,46.7,False,False,False
-1938,house,Ohio,OH,15,Robert T. Secrest,Democratic,52.3,True,True,False
-1938,house,Ohio,OH,15,P. W. Griffiths,Republican,47.7,False,False,False
-1938,house,Ohio,OH,16,James Seccombe,Republican,50.7,True,False,False
-1938,house,Ohio,OH,16,William R. Thom,Democratic,49.3,False,True,False
-1938,house,Ohio,OH,17,William A. Ashbrook,Democratic,52.6,True,True,False
-1938,house,Ohio,OH,17,Walter B. Woodward,Republican,47.4,False,False,False
-1938,house,Ohio,OH,18,Earl R. Lewis,Republican,50.3,True,False,False
-1938,house,Ohio,OH,18,Lawrence E. Imhoff,Democratic,49.7,False,True,False
-1938,house,Ohio,OH,19,Michael J. Kirwan,Democratic,52.4,True,True,False
-1938,house,Ohio,OH,19,William P. Barnum,Republican,47.6,False,False,False
-1938,house,Ohio,OH,20,Martin L. Sweeney,Democratic,70.4,True,True,False
-1938,house,Ohio,OH,20,Thomas F. McCafferty,Republican,29.6,False,False,False
-1938,house,Ohio,OH,21,Robert Crosser,Democratic,68.7,True,True,False
-1938,house,Ohio,OH,21,J. E. Chizek,Republican,31.3,False,False,False
-1938,house,Ohio,OH,22,Chester C. Bolton,Republican,55.5,True,False,False
-1938,house,Ohio,OH,22,Anthony A. Fleger,Democratic,44.5,False,True,False
-1938,house,Ohio,OH,AL,George H. Bender,Republican,27.0,True,False,False
-1938,house,Ohio,OH,AL,L. L. Marshall,Republican,25.2,True,False,False
-1938,house,Ohio,OH,AL,Stephen M. Young,Democratic,24.5,False,False,False
-1938,house,Ohio,OH,AL,John McSweeney,Democratic,23.3,False,False,False
-1938,house,Oklahoma,OK,1,Wesley E. Disney,Democratic,63.2,True,True,False
-1938,house,Oklahoma,OK,1,A. M. Armstrong,Republican,36.3,False,False,False
-1938,house,Oklahoma,OK,1,Philip J. Dickerson,Independent,0.2,False,False,False
-1938,house,Oklahoma,OK,2,John Conover Nichols,Democratic,71.3,True,True,False
-1938,house,Oklahoma,OK,2,Bruce L. Keenan,Republican,28.7,False,False,False
-1938,house,Oklahoma,OK,3,Wilburn Cartwright,Democratic,85.4,True,True,False
-1938,house,Oklahoma,OK,3,Frank D. McSherry,Republican,14.6,False,False,False
-1938,house,Oklahoma,OK,4,Lyle Boren,Democratic,71.6,True,True,False
-1938,house,Oklahoma,OK,4,Ed Ball,Republican,28.4,False,False,False
-1938,house,Oklahoma,OK,5,Mike Monroney,Democratic,71.9,True,False,True
-1938,house,Oklahoma,OK,5,Harlan Deupree,Republican,27.6,False,False,True
-1938,house,Oklahoma,OK,6,Jed Johnson,Democratic,69.5,True,True,False
-1938,house,Oklahoma,OK,6,James F. Rowell,Republican,30.1,False,False,False
-1938,house,Oklahoma,OK,7,Sam C. Massingale,Democratic,76.1,True,True,False
-1938,house,Oklahoma,OK,7,A. L. Smith,Republican,23.9,False,False,False
-1938,house,Oklahoma,OK,8,Phil Ferguson,Democratic,50.2,True,True,False
-1938,house,Oklahoma,OK,8,Charles E. Knox,Republican,49.2,False,False,False
-1938,house,Oklahoma,OK,AL,Will Rogers,Democratic,68.7,True,True,False
-1938,house,Oklahoma,OK,AL,R. R. Wilson,Republican,30.9,False,False,False
-1938,house,Oregon,OR,1,James W. Mott,Republican,70.7,True,True,False
-1938,house,Oregon,OR,1,Andrew C. Burk,Democratic,29.3,False,False,False
-1938,house,Oregon,OR,2,Walter M. Pierce,Democratic,57.9,True,True,False
-1938,house,Oregon,OR,2,U.S. Ballentine,Republican,42.1,False,False,False
-1938,house,Oregon,OR,3,Homer D. Angell,Republican,50.9,True,False,False
-1938,house,Oregon,OR,3,Nan Wood Honeyman,Democratic,49.1,False,True,False
-1938,house,Pennsylvania,PA,1,Leon Sacks,Democratic,53.5,True,True,False
-1938,house,Pennsylvania,PA,1,John Alessandroni,Republican,46.5,False,False,False
-1938,house,Pennsylvania,PA,2,James P. McGranery,Democratic,52.4,True,True,False
-1938,house,Pennsylvania,PA,2,Edward W. Henry,Republican,47.0,False,False,False
-1938,house,Pennsylvania,PA,2,Reginald B. Naugle,Independent,0.2,False,False,False
-1938,house,Pennsylvania,PA,3,Michael J. Bradley,Democratic,52.0,True,True,False
-1938,house,Pennsylvania,PA,3,William T. Connor,Republican,48.0,False,False,False
-1938,house,Pennsylvania,PA,4,J. Burrwood Daly,Democratic,53.8,True,True,False
-1938,house,Pennsylvania,PA,4,Edward F. Roberts,Republican,45.6,False,False,False
-1938,house,Pennsylvania,PA,5,Fred C. Gartner,Republican,52.5,True,False,False
-1938,house,Pennsylvania,PA,5,Frank J. G. Dorsey,Democratic,46.5,False,True,False
-1938,house,Pennsylvania,PA,6,Francis J. Myers,Democratic,49.9,True,False,False
-1938,house,Pennsylvania,PA,6,"J. Howard Berry, Jr.",Republican,47.5,False,False,False
-1938,house,Pennsylvania,PA,7,George P. Darrow,Republican,59.3,True,False,False
-1938,house,Pennsylvania,PA,7,Ira W. Drew,Democratic,40.2,False,True,False
-1938,house,Pennsylvania,PA,8,James Wolfenden,Republican,67.6,True,True,False
-1938,house,Pennsylvania,PA,8,C. Fenno Hoffman,Democratic,32.4,False,False,False
-1938,house,Pennsylvania,PA,9,Charles L. Gerlach,Republican,56.7,True,False,False
-1938,house,Pennsylvania,PA,9,Oliver W. Frey,Democratic,43.1,False,True,False
-1938,house,Pennsylvania,PA,10,J. Roland Kinzer,Republican,64.1,True,True,False
-1938,house,Pennsylvania,PA,10,Thomas Jefferson McClelland,Democratic,35.7,False,False,False
-1938,house,Pennsylvania,PA,11,Patrick J. Boland,Democratic,52.5,True,True,False
-1938,house,Pennsylvania,PA,11,William F. Hallstead,Republican,47.5,False,False,False
-1938,house,Pennsylvania,PA,12,J. Harold Flannery,Democratic,51.2,True,True,False
-1938,house,Pennsylvania,PA,12,Michael A. Yeosock,Republican,48.8,False,False,False
-1938,house,Pennsylvania,PA,13,Ivor D. Fenton,Republican,53.2,True,False,False
-1938,house,Pennsylvania,PA,13,James H. Gildea,Democratic,46.8,False,True,False
-1938,house,Pennsylvania,PA,14,Guy L. Moser,Democratic,46.7,True,True,False
-1938,house,Pennsylvania,PA,14,John C. Evans,Republican,41.9,False,False,False
-1938,house,Pennsylvania,PA,15,Albert G. Rutherford,Republican,61.6,True,True,False
-1938,house,Pennsylvania,PA,15,Harry M. Turrell,Democratic,37.9,False,False,False
-1938,house,Pennsylvania,PA,16,Robert F. Rich,Republican,61.5,True,True,False
-1938,house,Pennsylvania,PA,16,Paul A. Rothfuss,Democratic,37.8,False,False,False
-1938,house,Pennsylvania,PA,17,J. William Ditter,Republican,68.5,True,True,False
-1938,house,Pennsylvania,PA,17,Carroll L. Rutter,Democratic,31.2,False,False,False
-1938,house,Pennsylvania,PA,18,Richard M. Simpson,Republican,60.5,True,True,False
-1938,house,Pennsylvania,PA,18,Richard L. Schroyer,Democratic,39.5,False,False,False
-1938,house,Pennsylvania,PA,19,John C. Kunkel,Republican,55.0,True,False,False
-1938,house,Pennsylvania,PA,19,Guy J. Swope,Democratic,45.0,False,True,False
-1938,house,Pennsylvania,PA,19,Frank Tate,Independent,0.004,False,False,False
-1938,house,Pennsylvania,PA,20,Benjamin Jarrett,Republican,61.1,True,True,False
-1938,house,Pennsylvania,PA,20,Earl H. Beshlin,Democratic,37.7,False,False,False
-1938,house,Pennsylvania,PA,21,Francis E. Walter,Democratic,50.2,True,True,False
-1938,house,Pennsylvania,PA,21,Alonzo L. Reinhard,Republican,48.4,False,False,False
-1938,house,Pennsylvania,PA,21,Everett Kent,Other,1.4,False,False,False
-1938,house,Pennsylvania,PA,22,Chester H. Gross,Republican,50.3,True,False,False
-1938,house,Pennsylvania,PA,22,Harry L. Haines,Democratic,49.7,False,True,False
-1938,house,Pennsylvania,PA,23,James E. Van Zandt,Republican,57.1,True,False,False
-1938,house,Pennsylvania,PA,23,Don Gingery,Democratic,42.5,False,True,False
-1938,house,Pennsylvania,PA,24,J. Buell Snyder,Democratic,51.2,True,True,False
-1938,house,Pennsylvania,PA,24,J. C. Glassburn,Republican,48.5,False,False,False
-1938,house,Pennsylvania,PA,25,Charles I. Faddis,Democratic,53.1,True,True,False
-1938,house,Pennsylvania,PA,25,Warren S. Burchinal,Republican,46.9,False,False,False
-1938,house,Pennsylvania,PA,26,Louis E. Graham,Republican,52.4,True,False,False
-1938,house,Pennsylvania,PA,26,Charles R. Eckert,Democratic,46.8,False,True,False
-1938,house,Pennsylvania,PA,27,Harve Tibbott,Republican,55.8,True,False,False
-1938,house,Pennsylvania,PA,27,Joseph Anthony Gray,Democratic,43.6,False,True,False
-1938,house,Pennsylvania,PA,28,Robert G. Allen,Democratic,53.9,True,True,False
-1938,house,Pennsylvania,PA,28,Roy C. McKenna,Republican,45.8,False,False,False
-1938,house,Pennsylvania,PA,29,Robert L. Rodgers,Republican,53.8,True,False,False
-1938,house,Pennsylvania,PA,29,Norbert James Fitzgerald,Democratic,45.6,False,False,False
-1938,house,Pennsylvania,PA,30,Robert J. Corbett,Republican,51.2,True,False,False
-1938,house,Pennsylvania,PA,30,Peter J. De Muth,Democratic,48.8,False,True,False
-1938,house,Pennsylvania,PA,31,John McDowell,Republican,50.7,True,False,False
-1938,house,Pennsylvania,PA,31,James L. Quinn,Democratic,48.8,False,True,False
-1938,house,Pennsylvania,PA,32,Herman P. Eberharter,Democratic,63.3,True,True,False
-1938,house,Pennsylvania,PA,32,Jacob E. Klason,Republican,36.1,False,False,False
-1938,house,Pennsylvania,PA,33,Joseph A. McArdle,Democratic,51.6,True,False,True
-1938,house,Pennsylvania,PA,33,James I. Marsh,Republican,48.4,False,False,True
-1938,house,Pennsylvania,PA,34,Matthew A. Dunn,Democratic,50.0,True,True,False
-1938,house,Pennsylvania,PA,34,Robert B. McKinley,Republican,49.6,False,False,False
-1938,house,Pennsylvania,PA,34,"Walter L. Bouve, Jr.",Independent,0.4,False,False,False
-1938,house,Rhode Island,RI,1,Charles Risk,Republican,50.3,True,False,False
-1938,house,Rhode Island,RI,1,Aime Forand,Democratic,49.7,False,True,False
-1938,house,Rhode Island,RI,2,Harry Sandager,Republican,57.0,True,False,True
-1938,house,Rhode Island,RI,2,Edward J. Fenelon Jr.,Democratic,43.0,False,False,True
-1938,house,South Carolina,SC,1,Thomas S. McMillan,Democratic,98.2,True,True,False
-1938,house,South Carolina,SC,1,B. L. Hendrix,Republican,1.7,False,False,False
-1938,house,South Carolina,SC,1,J. E. D. Meyer,Independent,0.04,False,False,False
-1938,house,South Carolina,SC,2,Hampton P. Fulmer,Democratic,98.8,True,True,False
-1938,house,South Carolina,SC,2,B. L. Hendrix,Republican,0.8,False,False,False
-1938,house,South Carolina,SC,2,S. J. Leaphart,Independent,0.4,False,False,False
-1938,house,South Carolina,SC,3,Butler B. Hare,Democratic,99.6,True,False,False
-1938,house,South Carolina,SC,3,O. B. Menees,Republican,0.4,False,False,False
-1938,house,South Carolina,SC,4,Joseph R. Bryson,Democratic,99.4,True,False,False
-1938,house,South Carolina,SC,4,H. A. Costner,Republican,0.6,False,False,False
-1938,house,South Carolina,SC,5,James P. Richards,Democratic,99.8,True,True,False
-1938,house,South Carolina,SC,5,A. B. McCraw,Republican,0.2,False,False,False
-1938,house,South Carolina,SC,6,John L. McMillan,Democratic,99.2,True,False,True
-1938,house,South Carolina,SC,6,W. S. Thompson,Independent,0.8,False,False,True
-1938,house,South Dakota,SD,1,Karl Mundt,Republican,54.0,True,False,True
-1938,house,South Dakota,SD,1,Emil Loriks,Democratic,46.0,False,False,True
-1938,house,South Dakota,SD,2,Francis Case,Republican,61.4,True,True,False
-1938,house,South Dakota,SD,2,Theodore B. Werner,Democratic,38.6,False,False,False
-1938,house,Tennessee,TN,1,B. Carroll Reece,Republican,58.0,True,True,False
-1938,house,Tennessee,TN,1,John A. Armstrong,Democratic,26.5,False,False,False
-1938,house,Tennessee,TN,1,James P. Kivett,Independent,10.9,False,False,False
-1938,house,Tennessee,TN,1,Charles W. Clark,Independent,3.1,False,False,False
-1938,house,Tennessee,TN,1,G. M. Smith,Independent,1.5,False,False,False
-1938,house,Tennessee,TN,2,J. Will Taylor,Republican,64.1,True,True,False
-1938,house,Tennessee,TN,2,Judd Acuff,Independent,32.0,False,False,False
-1938,house,Tennessee,TN,2,Calvin Rutherford,Independent,4.0,False,False,False
-1938,house,Tennessee,TN,3,Sam D. McReynolds,Democratic,73.9,True,True,False
-1938,house,Tennessee,TN,3,Joe E. Benson,Republican,26.1,False,False,False
-1938,house,Tennessee,TN,4,Albert Gore Sr.,Democratic,100.0,True,False,True
-1938,house,Tennessee,TN,5,Joseph W. Byrns Jr.,Democratic,90.6,True,False,False
-1938,house,Tennessee,TN,5,William I. Love,Independent,9.4,False,False,False
-1938,house,Tennessee,TN,6,Clarence W. Turner,Democratic,82.2,True,True,False
-1938,house,Tennessee,TN,6,John V. McDonough,Independent,11.2,False,False,False
-1938,house,Tennessee,TN,6,Maurice G. Riding,Independent,6.6,False,False,False
-1938,house,Tennessee,TN,7,Herron C. Pearson,Democratic,100.0,True,True,False
-1938,house,Tennessee,TN,8,Jere Cooper,Democratic,95.4,True,True,False
-1938,house,Tennessee,TN,8,David I. Nunn,Republican,4.6,False,False,False
-1938,house,Tennessee,TN,9,Walter Chandler,Democratic,98.4,True,True,False
-1938,house,Tennessee,TN,9,Edgar L. Clark,Independent,1.6,False,False,False
-1938,house,Texas,TX,1,Wright Patman,Democratic,98.8,True,True,False
-1938,house,Texas,TX,1,Joe C. Hailey,Republican,1.2,False,False,False
-1938,house,Texas,TX,2,Martin Dies Jr.,Democratic,100.0,True,True,False
-1938,house,Texas,TX,3,Lindley Beckworth,Democratic,100.0,True,False,False
-1938,house,Texas,TX,4,Sam Rayburn,Democratic,97.9,True,True,False
-1938,house,Texas,TX,4,Ross E. Johnson,Republican,2.1,False,False,False
-1938,house,Texas,TX,5,Hatton W. Sumners,Democratic,95.0,True,True,False
-1938,house,Texas,TX,5,Heber Page,Republican,4.7,False,False,False
-1938,house,Texas,TX,5,H. T. Healey,Independent,0.3,False,False,False
-1938,house,Texas,TX,6,Luther A. Johnson,Democratic,100.0,True,True,False
-1938,house,Texas,TX,7,Nat Patton,Democratic,100.0,True,True,False
-1938,house,Texas,TX,8,Albert Thomas,Democratic,98.3,True,True,False
-1938,house,Texas,TX,8,John A. Deering,Republican,1.7,False,False,False
-1938,house,Texas,TX,9,Joseph J. Mansfield,Democratic,100.0,True,True,False
-1938,house,Texas,TX,10,Lyndon B. Johnson,Democratic,100.0,True,True,False
-1938,house,Texas,TX,11,William R. Poage,Democratic,98.6,True,True,False
-1938,house,Texas,TX,11,D. E. Wooley,Republican,1.4,False,False,False
-1938,house,Texas,TX,12,Fritz G. Lanham,Democratic,100.0,True,True,False
-1938,house,Texas,TX,13,Ed Gossett,Democratic,98.6,True,False,False
-1938,house,Texas,TX,13,Adolph Lohman,Republican,1.4,False,False,False
-1938,house,Texas,TX,14,Richard M. Kleberg,Democratic,100.0,True,True,False
-1938,house,Texas,TX,15,Milton H. West,Democratic,100.0,True,True,False
-1938,house,Texas,TX,16,R. Ewing Thomason,Democratic,100.0,True,True,False
-1938,house,Texas,TX,17,Clyde L. Garrett,Democratic,100.0,True,True,False
-1938,house,Texas,TX,18,John Marvin Jones,Democratic,100.0,True,True,False
-1938,house,Texas,TX,19,George H. Mahon,Democratic,100.0,True,True,False
-1938,house,Texas,TX,20,Paul J. Kilday,Democratic,100.0,True,False,False
-1938,house,Texas,TX,21,Charles L. South,Democratic,93.0,True,True,False
-1938,house,Texas,TX,21,Max J. Bierschwale,Republican,7.0,False,False,False
-1938,house,Utah,UT,1,Abe Murdock,Democratic,59.7,True,True,False
-1938,house,Utah,UT,1,LeRoy B. Young,Republican,40.3,False,False,False
-1938,house,Utah,UT,2,J. W. Robinson,Democratic,62.3,True,True,False
-1938,house,Utah,UT,2,Dean F. Brayton,Republican,37.7,False,False,False
-1938,house,Vermont,VT,AL,Charles Albert Plumley,Republican,64.0,True,True,False
-1938,house,Vermont,VT,AL,James Patrick Leamy,Democratic,36.0,False,False,False
-1938,house,Virginia,VA,1,S. Otis Bland,Democratic,100.0,True,True,False
-1938,house,Virginia,VA,2,Colgate Darden,Democratic,87.7,True,False,False
-1938,house,Virginia,VA,2,Carl P. Spaeth,Independent,12.3,False,False,False
-1938,house,Virginia,VA,3,Dave E. Satterfield Jr.,Democratic,100.0,True,True,False
-1938,house,Virginia,VA,4,Patrick H. Drewry,Democratic,100.0,True,True,False
-1938,house,Virginia,VA,5,Thomas G. Burch,Democratic,100.0,True,True,False
-1938,house,Virginia,VA,6,Clifton A. Woodrum,Democratic,55.9,True,True,False
-1938,house,Virginia,VA,6,Fred W. McWane,Republican,44.1,False,False,False
-1938,house,Virginia,VA,7,A. Willis Robertson,Democratic,63.9,True,True,False
-1938,house,Virginia,VA,7,Charles C. Leap,Republican,36.1,False,False,False
-1938,house,Virginia,VA,8,Howard W. Smith,Democratic,100.0,True,True,False
-1938,house,Virginia,VA,9,John W. Flannagan Jr.,Democratic,66.7,True,True,False
-1938,house,Virginia,VA,9,L. E. Gulliford,Republican,33.3,False,False,False
-1938,house,Washington,WA,1,Warren Magnuson,Democratic,61.7,True,True,False
-1938,house,Washington,WA,1,Matthew W. Hill,Republican,38.3,False,False,False
-1938,house,Washington,WA,2,Monrad Wallgren,Democratic,61.5,True,True,False
-1938,house,Washington,WA,2,Charles A. Sather,Republican,38.5,False,False,False
-1938,house,Washington,WA,3,Martin F. Smith,Democratic,60.3,True,True,False
-1938,house,Washington,WA,3,Walter S. Talbott,Republican,39.7,False,False,False
-1938,house,Washington,WA,4,Knute Hill,Democratic,50.4,True,True,False
-1938,house,Washington,WA,4,Frank Miller,Republican,49.6,False,False,False
-1938,house,Washington,WA,5,Charles H. Leavy,Democratic,57.1,True,True,False
-1938,house,Washington,WA,5,Norman A. Ericson,Republican,42.0,False,False,False
-1938,house,Washington,WA,6,John M. Coffee,Democratic,73.0,True,True,False
-1938,house,Washington,WA,6,Willard V. Young,Republican,27.0,False,False,False
-1938,house,West Virginia,WV,1,A. C. Schiffler,Republican,54.8,True,False,False
-1938,house,West Virginia,WV,1,Robert L. Ramsay,Democratic,45.2,False,True,False
-1938,house,West Virginia,WV,2,Jennings Randolph,Democratic,54.6,True,True,False
-1938,house,West Virginia,WV,2,Melvin C. Snyder,Republican,45.4,False,False,False
-1938,house,West Virginia,WV,3,Andrew Edmiston Jr.,Democratic,55.3,True,True,False
-1938,house,West Virginia,WV,3,H. Roy Waugh,Republican,44.7,False,False,False
-1938,house,West Virginia,WV,4,George W. Johnson,Democratic,52.9,True,True,False
-1938,house,West Virginia,WV,4,Raymond V. Humphreys,Republican,47.1,False,False,False
-1938,house,West Virginia,WV,5,John Kee,Democratic,61.3,True,True,False
-1938,house,West Virginia,WV,5,Hartley Sanders,Republican,38.7,False,False,False
-1938,house,West Virginia,WV,6,Joe L. Smith,Democratic,62.3,True,True,False
-1938,house,West Virginia,WV,6,R. E. O'Connor,Republican,37.7,False,False,False
-1938,house,Wisconsin,WI,1,Stephen Bolles,Republican,49.1,True,False,True
-1938,house,Wisconsin,WI,1,Calvin Stewart,Democratic,15.8,False,False,True
-1938,house,Wisconsin,WI,1,Harvey C. Hansen,Independent,2.8,False,False,True
-1938,house,Wisconsin,WI,2,Charles Hawks Jr.,Republican,44.8,True,False,False
-1938,house,Wisconsin,WI,2,Harry Sauthoff,Progressive,43.3,False,True,False
-1938,house,Wisconsin,WI,2,Reinhold A. Gerth,Democratic,11.9,False,False,False
-1938,house,Wisconsin,WI,3,Harry W. Griswold,Republican,50.1,True,False,False
-1938,house,Wisconsin,WI,3,Gardner R. Withrow,Progressive,42.0,False,True,False
-1938,house,Wisconsin,WI,3,Bart E. McGonigle,Democratic,7.9,False,False,False
-1938,house,Wisconsin,WI,4,John C. Schafer,Republican,32.0,True,False,False
-1938,house,Wisconsin,WI,4,Thad F. Wasielewski,Democratic,31.4,False,False,False
-1938,house,Wisconsin,WI,4,Paul Gauer,Progressive,28.8,False,False,False
-1938,house,Wisconsin,WI,4,Raymond J. Cannon,Independent,7.0,False,True,False
-1938,house,Wisconsin,WI,5,Lewis D. Thill,Republican,43.1,True,False,False
-1938,house,Wisconsin,WI,5,Thomas O'Malley,Democratic,28.6,False,True,False
-1938,house,Wisconsin,WI,6,Frank B. Keefe,Republican,53.6,True,False,False
-1938,house,Wisconsin,WI,6,Michael Reilly,Democratic,30.1,False,True,False
-1938,house,Wisconsin,WI,7,Reid F. Murray,Republican,48.9,True,False,False
-1938,house,Wisconsin,WI,7,Gerald J. Boileau,Progressive,38.0,False,True,False
-1938,house,Wisconsin,WI,7,James J. Cavanaugh,Democratic,11.4,False,False,False
-1938,house,Wisconsin,WI,7,Herman H. Behm,Independent,1.7,False,False,False
-1938,house,Wisconsin,WI,8,Joshua L. Johns,Republican,36.2,True,False,False
-1938,house,Wisconsin,WI,8,George J. Schneider,Progressive,31.5,False,True,False
-1938,house,Wisconsin,WI,8,John E. Cashman,Democratic,30.6,False,False,False
-1938,house,Wisconsin,WI,9,Merlin Hull,Progressive,53.4,True,True,False
-1938,house,Wisconsin,WI,9,Hugh M. Jones,Republican,40.3,False,False,False
-1938,house,Wisconsin,WI,9,William F. Crane,Democratic,6.3,False,False,False
-1938,house,Wisconsin,WI,10,Bernard J. Gehrmann,Progressive,57.5,True,True,False
-1938,house,Wisconsin,WI,10,James H. Carroll,Republican,42.5,False,False,False
-1938,house,Wyoming,WY,AL,Frank O. Horton,Republican,52.9,True,False,False
-1938,house,Wyoming,WY,AL,Paul R. Greever,Democratic,47.1,False,True,False
-1938,house,Alaska,AK,AL,Anthony Dimond,Democratic,63.71,True,True,False
-1938,house,Alaska,AK,AL,George B. Grigsby,Independent,19.68,False,False,False
-1938,house,Alaska,AK,AL,Al White,Republican,16.61,False,False,False
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+1938,house,Alabama,AL,1,,Frank W. Boykin,Democratic,,100.0,True,True,False
+1938,house,Alabama,AL,2,,George M. Grant,Democratic,,100.0,True,True,False
+1938,house,Alabama,AL,3,,Henry B. Steagall,Democratic,,100.0,True,True,False
+1938,house,Alabama,AL,4,,Sam Hobbs,Democratic,,88.2,True,True,False
+1938,house,Alabama,AL,4,,C. W. McKay,Republican,,11.8,False,False,False
+1938,house,Alabama,AL,5,,Joe Starnes,Democratic,,99.7,True,True,False
+1938,house,Alabama,AL,5,,Frank J. Payne,Independent,,0.3,False,False,False
+1938,house,Alabama,AL,6,,Pete Jarman,Democratic,,100.0,True,True,False
+1938,house,Alabama,AL,7,,William B. Bankhead,Democratic,,71.3,True,True,False
+1938,house,Alabama,AL,7,,E. M. Reed,Republican,,28.7,False,False,False
+1938,house,Alabama,AL,8,,John Sparkman,Democratic,,100.0,True,True,False
+1938,house,Alabama,AL,9,,Luther Patrick,Democratic,,93.5,True,True,False
+1938,house,Alabama,AL,9,,J. G. Bass,Republican,,6.5,False,False,False
+1938,house,Arizona,AZ,AL,,John R. Murdock,Democratic,,80.3,True,True,False
+1938,house,Arizona,AZ,AL,,M. E. Cassidy,Republican,,19.7,False,False,False
+1938,house,Arkansas,AR,1,,Ezekiel C. Gathings,Democratic,,100.0,True,False,False
+1938,house,Arkansas,AR,2,,Wilbur Mills,Democratic,,100.0,True,False,True
+1938,house,Arkansas,AR,3,,Clyde T. Ellis,Democratic,,100.0,True,False,False
+1938,house,Arkansas,AR,4,,William B. Cravens,Democratic,,100.0,True,True,False
+1938,house,Arkansas,AR,5,,David D. Terry,Democratic,,100.0,True,True,False
+1938,house,Arkansas,AR,6,,William F. Norrell,Democratic,,100.0,True,False,True
+1938,house,Arkansas,AR,7,,Wade H. Kitchens,Democratic,,100.0,True,True,False
+1938,house,California,CA,1,116956,Clarence F. Lea,Democratic,73636,63.0,True,True,False
+1938,house,California,CA,1,116956,Ernest S. Mitchell,Townsend,43320,37.0,False,False,False
+1938,house,California,CA,2,71496,Harry Lane Englebright,Republican,71496,100.0,True,True,False
+1938,house,California,CA,3,127834,Frank H. Buck,Democratic,119236,93.3,True,True,False
+1938,house,California,CA,3,127834,Nora Conklin,Communist,8271,6.5,False,False,False
+1938,house,California,CA,3,127834,George C. Kimber,Write-in,,0.3,False,False,False
+1938,house,California,CA,4,105294,Franck R. Havenner,Democratic,64452,61.2,True,True,False
+1938,house,California,CA,4,105294,Kennett B. Dawson,Republican,40842,38.8,False,False,False
+1938,house,California,CA,5,91868,Richard J. Welch,Republican,91868,100.0,True,True,False
+1938,house,California,CA,6,125647,Albert E. Carter,Republican,118632,94.4,True,True,False
+1938,house,California,CA,6,125647,Dave L. Saunders,Communist,7015,5.6,False,False,False
+1938,house,California,CA,7,113103,John H. Tolan,Democratic,62599,55.3,True,True,False
+1938,house,California,CA,7,113103,Charles Wade Snook,Republican,,44.7,False,False,False
+1938,house,California,CA,8,152765,Jack Z. Anderson,Republican,84084,55.0,True,False,False
+1938,house,California,CA,8,152765,John J. McGrath,Democratic,68681,45.0,False,True,False
+1938,house,California,CA,9,94664,Bertrand W. Gearhart,Republican,91128,96.3,True,True,False
+1938,house,California,CA,9,94664,Write-in,[[Write-in candidate|Write-in]],,3.7,False,False,False
+1938,house,California,CA,10,125985,Alfred J. Elliott,Democratic,84791,67.3,True,True,False
+1938,house,California,CA,10,125985,F. Fred Hoelscher,Republican,41194,32.7,False,False,False
+1938,house,California,CA,11,146056,Carl Hinshaw,Republican,,47.0,True,False,True
+1938,house,California,CA,11,146056,Stuart Hamblen,Democratic,,41.1,False,False,True
+1938,house,California,CA,11,146056,Ralph D. Horton,Townsend,12713,8.7,False,False,True
+1938,house,California,CA,11,146056,John R. Grey,Progressive,3821,2.6,False,False,True
+1938,house,California,CA,11,146056,Orla E. Lair,Communist,817,0.6,False,False,True
+1938,house,California,CA,12,123363,Jerry Voorhis,Democratic,75003,60.8,True,True,False
+1938,house,California,CA,12,123363,Eugene W. Nixon,Republican,40457,32.8,False,False,False
+1938,house,California,CA,12,123363,Russell R. Hand,Townsend,7903,6.4,False,False,False
+1938,house,California,CA,13,146170,Charles Kramer,Democratic,96258,65.9,True,True,False
+1938,house,California,CA,13,146170,K. L. Stockton,Republican,44808,30.7,False,False,False
+1938,house,California,CA,13,146170,Louis Baron,Communist,5104,3.5,False,False,False
+1938,house,California,CA,14,98963,Thomas F. Ford,Democratic,67588,68.3,True,True,False
+1938,house,California,CA,14,98963,William D. Campbell,Republican,31375,31.7,False,False,False
+1938,house,California,CA,15,137520,John M. Costello,Democratic,83086,60.4,True,True,False
+1938,house,California,CA,15,137520,O. D. Thomas,Republican,51483,37.4,False,False,False
+1938,house,California,CA,15,137520,Emil Freed,Communist,2951,2.1,False,False,False
+1938,house,California,CA,16,155028,Leland M. Ford,Republican,97407,62.8,True,False,True
+1938,house,California,CA,16,155028,John F. Dockweiler,Independent,,21.2,False,True,True
+1938,house,California,CA,16,155028,Ted E. Felt,Townsend,16045,10.3,False,False,True
+1938,house,California,CA,16,155028,J. Barton Hutchins,Progressive,,4.3,False,False,True
+1938,house,California,CA,16,155028,La Rue McCormick,Communist,2070,1.3,False,False,True
+1938,house,California,CA,17,96048,Lee E. Geyer,Democratic,56513,58.8,True,False,True
+1938,house,California,CA,17,96048,Clifton A. Hix,Republican,26891,28.0,False,False,True
+1938,house,California,CA,17,96048,Fred C. Wagner,Townsend,8870,9.2,False,False,True
+1938,house,California,CA,17,96048,Robert O. Bates,Progressive,3774,3.9,False,False,True
+1938,house,California,CA,18,107474,Thomas M. Eaton,Republican,52216,48.6,True,False,False
+1938,house,California,CA,18,107474,Byron N. Scott,Democratic,51874,48.3,False,True,False
+1938,house,California,CA,18,107474,Solomon Carr,Progressive,3384,3.1,False,False,False
+1938,house,California,CA,19,142221,Harry R. Sheppard,Democratic,75819,53.3,True,True,False
+1938,house,California,CA,19,142221,C. T. Johnson,Republican,66402,46.7,False,False,False
+1938,house,California,CA,20,107953,Edouard Izac,Democratic,65243,60.4,True,True,False
+1938,house,California,CA,20,107953,John L. Bacon,Republican,42710,39.6,False,False,False
+1938,house,Colorado,CO,1,,Lawrence Lewis,Democratic,,65.3,True,True,False
+1938,house,Colorado,CO,1,,William I. Reilly,Republican,,33.4,False,False,False
+1938,house,Colorado,CO,1,,Edgar P. Sherman,Socialist,,0.7,False,False,False
+1938,house,Colorado,CO,1,,Oliver L. Barnes,Prohibition,,0.5,False,False,False
+1938,house,Colorado,CO,2,,Fred N. Cummings,Democratic,,51.7,True,True,False
+1938,house,Colorado,CO,2,,William S. Hill,Republican,,47.6,False,False,False
+1938,house,Colorado,CO,2,,Charles R. Axelson,Socialist,,0.6,False,False,False
+1938,house,Colorado,CO,3,,John Andrew Martin,Democratic,,57.4,True,True,False
+1938,house,Colorado,CO,3,,Henry Leonard,Republican,,42.6,False,False,False
+1938,house,Colorado,CO,4,,Edward T. Taylor,Democratic,,63.7,True,True,False
+1938,house,Colorado,CO,4,,John S. Woody,Republican,,36.3,False,False,False
+1938,house,Connecticut,CT,1,,William J. Miller,Republican,,43.5,True,False,False
+1938,house,Connecticut,CT,1,,Herman P. Kopplemann,Democratic,,40.8,False,True,False
+1938,house,Connecticut,CT,1,,Edward C. Roffler,Socialist,,15.7,False,False,False
+1938,house,Connecticut,CT,2,,Thomas R. Ball,Republican,,48.4,True,False,False
+1938,house,Connecticut,CT,2,,William J. Fitzgerald,Democratic,,45.2,False,True,False
+1938,house,Connecticut,CT,2,,Thomas E. Bowman,Socialist,,6.4,False,False,False
+1938,house,Connecticut,CT,3,,James A. Shanley,Democratic,,43.4,True,True,False
+1938,house,Connecticut,CT,3,,Ranulf Compton,Republican,,43.2,False,False,False
+1938,house,Connecticut,CT,3,,Harry Watstein,Socialist,,13.3,False,False,False
+1938,house,Connecticut,CT,3,,Ernest Castigliani,Labor,,0.1,False,False,False
+1938,house,Connecticut,CT,4,,Albert E. Austin,Republican,,43.4,True,False,False
+1938,house,Connecticut,CT,4,,Alfred N. Phillips,Democratic,,31.4,False,True,False
+1938,house,Connecticut,CT,4,,Charles H. McLevy,Socialist,,24.9,False,False,False
+1938,house,Connecticut,CT,4,,Jack C. Bergen,Labor,,0.2,False,False,False
+1938,house,Connecticut,CT,4,,Clara Scala,Communist,,0.1,False,False,False
+1938,house,Connecticut,CT,5,,J. Joseph Smith,Democratic,,42.0,True,True,False
+1938,house,Connecticut,CT,5,,Roy E. Rice,Republican,,41.8,False,False,False
+1938,house,Connecticut,CT,5,,John W. Ring,Socialist,,16.2,False,False,False
+1938,house,Connecticut,CT,AL,,B. J. Monkiewicz,Republican,,43.1,True,False,False
+1938,house,Connecticut,CT,AL,,William M. Citron,Democratic,,39.7,False,True,False
+1938,house,Connecticut,CT,AL,,Arthur F. King,Socialist,,15.8,False,False,False
+1938,house,Connecticut,CT,AL,,Alfred Johnson,Socialist Labor,,1.1,False,False,False
+1938,house,Connecticut,CT,AL,,F. Henry Sattler,Union,,0.2,False,False,False
+1938,house,Connecticut,CT,AL,,Jacob Winnewisser,Labor,,0.1,False,False,False
+1938,house,Delaware,DE,AL,,George S. Williams,Republican,,55.9,True,False,False
+1938,house,Delaware,DE,AL,,William F. Allen,Democratic,,43.3,False,True,False
+1938,house,Delaware,DE,AL,,William J. Highfield,Independent Republican,,0.8,False,False,False
+1938,house,Delaware,DE,AL,,Ralph L. Brown,Progressive,,0.1,False,False,False
+1938,house,Florida,FL,1,,J. Hardin Peterson,Democratic,,100.0,True,True,False
+1938,house,Florida,FL,2,,Robert A. Green,Democratic,,100.0,True,True,False
+1938,house,Florida,FL,3,,Millard Caldwell,Democratic,,100.0,True,True,False
+1938,house,Florida,FL,4,,Pat Cannon,Democratic,,81.5,True,False,True
+1938,house,Florida,FL,4,,J. S. G. Gallagher,Republican,,18.5,False,False,True
+1938,house,Florida,FL,5,,Joe Hendricks,Democratic,,100.0,True,True,False
+1938,house,Georgia,GA,1,,Hugh Peterson,Democratic,,99.3,True,True,False
+1938,house,Georgia,GA,1,,H. W. Shepard,Republican,,0.7,False,False,False
+1938,house,Georgia,GA,2,,Edward E. Cox,Democratic,,100.0,True,True,False
+1938,house,Georgia,GA,3,,Stephen Pace,Democratic,,100.0,True,True,False
+1938,house,Georgia,GA,3,,Alexander Stephens Mitchell,Independent,,0.02,False,False,False
+1938,house,Georgia,GA,4,,Emmett Marshall Owen,Democratic,,100.0,True,True,False
+1938,house,Georgia,GA,5,,Robert Ramspeck,Democratic,,97.2,True,True,False
+1938,house,Georgia,GA,5,,Henry A. Alexander,Republican,,2.8,False,False,False
+1938,house,Georgia,GA,6,,Carl Vinson,Democratic,,99.9,True,True,False
+1938,house,Georgia,GA,6,,H. W. Shepard,Republican,,0.1,False,False,False
+1938,house,Georgia,GA,7,,Malcolm C. Tarver,Democratic,,100.0,True,True,False
+1938,house,Georgia,GA,7,,Alexander Stephens Mitchell,Independent,,0.02,False,False,False
+1938,house,Georgia,GA,8,,W. Benjamin Gibbs,Democratic,,100.0,True,False,True
+1938,house,Georgia,GA,9,,B. Frank Whelchel,Democratic,,99.9,True,True,False
+1938,house,Georgia,GA,9,,E. L. McCravey,Independent,,0.1,False,False,False
+1938,house,Georgia,GA,10,,Paul Brown,Democratic,,94.4,True,True,False
+1938,house,Georgia,GA,10,,D. Talmadge Bowers,Independent,,4.6,False,False,False
+1938,house,Georgia,GA,10,,Mrs. A. R. Shivers,Independent,,1.0,False,False,False
+1938,house,Idaho,ID,1,,Compton I. White,Democratic,,62.8,True,True,False
+1938,house,Idaho,ID,1,,Rex T. Hensen,Republican,,37.2,False,False,False
+1938,house,Idaho,ID,2,,Henry Dworshak,Republican,,53.6,True,False,True
+1938,house,Idaho,ID,2,,Bert H. Miller,Democratic,,46.4,False,False,True
+1938,house,Illinois,IL,1,,Arthur W. Mitchell,Democratic,,53.4,True,True,False
+1938,house,Illinois,IL,1,,William L. Dawson,Republican,,46.6,False,False,False
+1938,house,Illinois,IL,2,,Raymond S. McKeough,Democratic,,54.4,True,True,False
+1938,house,Illinois,IL,2,,Noble W. Lee,Republican,,45.6,False,False,False
+1938,house,Illinois,IL,3,,Edward A. Kelly,Democratic,,56.0,True,True,False
+1938,house,Illinois,IL,3,,Goodwin L. Dosland,Republican,,44.0,False,False,False
+1938,house,Illinois,IL,4,,Harry P. Beam,Democratic,,76.4,True,True,False
+1938,house,Illinois,IL,4,,Dominic M. Janec Jr.,Republican,,23.6,False,False,False
+1938,house,Illinois,IL,5,,Adolph J. Sabath,Democratic,,74.8,True,True,False
+1938,house,Illinois,IL,5,,Max Price,Republican,,25.2,False,False,False
+1938,house,Illinois,IL,6,,A. F. Maciejewski,Democratic,,58.7,True,False,True
+1938,house,Illinois,IL,6,,Robert Isham Randolph,Republican,,41.3,False,False,True
+1938,house,Illinois,IL,7,,Leonard W. Schuetz,Democratic,,54.3,True,True,False
+1938,house,Illinois,IL,7,,James C. Moreland,Republican,,45.7,False,False,False
+1938,house,Illinois,IL,8,,Leo Kocialkowski,Democratic,,75.3,True,True,False
+1938,house,Illinois,IL,8,,Rena E. Pikiel,Republican,,24.7,False,False,False
+1938,house,Illinois,IL,9,,James McAndrews,Democratic,,52.7,True,True,False
+1938,house,Illinois,IL,9,,Charles S. Dewey,Republican,,47.3,False,False,False
+1938,house,Illinois,IL,10,,Ralph E. Church,Republican,,58.1,True,True,False
+1938,house,Illinois,IL,10,,Joseph F. Elward,Democratic,,41.9,False,False,False
+1938,house,Illinois,IL,11,,Chauncey W. Reed,Republican,,65.9,True,True,False
+1938,house,Illinois,IL,11,,William J. Bossingham,Democratic,,34.1,False,False,False
+1938,house,Illinois,IL,12,,Noah M. Mason,Republican,,60.7,True,True,False
+1938,house,Illinois,IL,12,,Edward C. Hunter,Democratic,,39.3,False,False,False
+1938,house,Illinois,IL,13,,Leo E. Allen,Republican,,65.6,True,True,False
+1938,house,Illinois,IL,13,,Theodore A. Secker,Democratic,,34.4,False,False,False
+1938,house,Illinois,IL,14,,Anton J. Johnson,Republican,,51.5,True,False,False
+1938,house,Illinois,IL,14,,Chester Thompson,Democratic,,48.5,False,True,False
+1938,house,Illinois,IL,15,,Robert B. Chiperfield,Republican,,54.5,True,False,False
+1938,house,Illinois,IL,15,,Lewis L. Boyer,Democratic,,45.5,False,True,False
+1938,house,Illinois,IL,16,,Everett Dirksen,Republican,,63.5,True,True,False
+1938,house,Illinois,IL,16,,James C. Dillon,Democratic,,36.5,False,False,False
+1938,house,Illinois,IL,17,,Leslie C. Arends,Republican,,60.9,True,True,False
+1938,house,Illinois,IL,17,,Thomas V. Watson,Democratic,,39.1,False,False,False
+1938,house,Illinois,IL,18,,Jessie Sumner,Republican,,55.3,True,False,False
+1938,house,Illinois,IL,18,,James A. Meeks,Democratic,,44.7,False,True,False
+1938,house,Illinois,IL,19,,William H. Wheat,Republican,,51.5,True,False,False
+1938,house,Illinois,IL,19,,Hugh M. Rigney,Democratic,,48.5,False,True,False
+1938,house,Illinois,IL,20,,James M. Barnes,Democratic,,55.4,True,False,True
+1938,house,Illinois,IL,20,,Stuart E. Pierson,Republican,,44.6,False,False,True
+1938,house,Illinois,IL,21,,Frank W. Fries,Democratic,,50.3,True,True,False
+1938,house,Illinois,IL,21,,Frank M. Ramey,Republican,,49.7,False,False,False
+1938,house,Illinois,IL,22,,Edwin M. Schaefer,Democratic,,52.4,True,True,False
+1938,house,Illinois,IL,22,,Jesse R. Brown,Republican,,47.6,False,False,False
+1938,house,Illinois,IL,23,,Laurence F. Arnold,Democratic,,53.8,True,True,False
+1938,house,Illinois,IL,23,,O. A. James,Republican,,46.2,False,False,False
+1938,house,Illinois,IL,24,,Claude V. Parsons,Democratic,,51.1,True,True,False
+1938,house,Illinois,IL,24,,R. R. Randolph,Republican,,48.9,False,False,False
+1938,house,Illinois,IL,25,,Kent E. Keller,Democratic,,52.3,True,True,False
+1938,house,Illinois,IL,25,,R. G. Crisenberry,Republican,,47.7,False,False,False
+1938,house,Illinois,IL,AL,,Thomas Vernor Smith,Democratic,,25.9,True,False,False
+1938,house,Illinois,IL,AL,,John C. Martin,Democratic,,25.7,True,False,False
+1938,house,Illinois,IL,AL,,Stephen A. Day,Republican,,24.2,False,False,False
+1938,house,Illinois,IL,AL,,Simon E. Lantz,Republican,,24.0,False,False,False
+1938,house,Illinois,IL,AL,,Harmon W. Reed,Prohibition,,0.2,False,False,False
+1938,house,Illinois,IL,AL,,A. G. Carnine,Prohibition,,0.1,False,False,False
+1938,house,Indiana,IN,1,,William T. Schulte,Democratic,,54.9,True,True,False
+1938,house,Indiana,IN,1,,M. Elliott Belshaw,Republican,,45.0,False,False,False
+1938,house,Indiana,IN,1,,Ralph Logsdon,Socialist,,0.07,False,False,False
+1938,house,Indiana,IN,2,,Charles A. Halleck,Republican,,57.8,True,True,False
+1938,house,Indiana,IN,2,,Homer Stonebraker,Democratic,,42.2,False,False,False
+1938,house,Indiana,IN,3,,Robert A. Grant,Republican,,51.0,True,False,True
+1938,house,Indiana,IN,3,,George N. Beamer,Democratic,,49.0,False,False,True
+1938,house,Indiana,IN,4,,George W. Gillie,Republican,,58.1,True,False,False
+1938,house,Indiana,IN,4,,James I. Farley,Democratic,,41.9,False,True,False
+1938,house,Indiana,IN,5,,Forest Harness,Republican,,54.7,True,False,False
+1938,house,Indiana,IN,5,,Glenn Griswold,Democratic,,45.3,False,True,False
+1938,house,Indiana,IN,6,,Noble J. Johnson,Republican,,50.6,True,False,False
+1938,house,Indiana,IN,6,,Virginia E. Jenckes,Democratic,,49.4,False,True,False
+1938,house,Indiana,IN,7,,Gerald W. Landis,Republican,,51.1,True,False,False
+1938,house,Indiana,IN,7,,Arthur H. Greenwood,Democratic,,48.9,False,True,False
+1938,house,Indiana,IN,8,,John W. Boehne Jr.,Democratic,,56.4,True,True,False
+1938,house,Indiana,IN,8,,Charles F. Werner,Republican,,43.6,False,False,False
+1938,house,Indiana,IN,9,,Eugene B. Crowe,Democratic,,52.1,True,True,False
+1938,house,Indiana,IN,9,,Clifford H. Long,Republican,,47.9,False,False,False
+1938,house,Indiana,IN,10,,Raymond S. Springer,Republican,,53.5,True,False,False
+1938,house,Indiana,IN,10,,Finly Hutchinson Gray,Democratic,,46.5,False,True,False
+1938,house,Indiana,IN,11,,William H. Larrabee,Democratic,,51.6,True,True,False
+1938,house,Indiana,IN,11,,William O. Nelson,Republican,,48.4,False,False,False
+1938,house,Indiana,IN,12,,Louis Ludlow,Democratic,,53.7,True,True,False
+1938,house,Indiana,IN,12,,Charles W. Jewett,Republican,,46.3,False,False,False
+1938,house,Iowa,IA,1,,Thomas E. Martin,Republican,,57.7,True,False,True
+1938,house,Iowa,IA,1,,James P. Goffney,Democratic,,41.8,False,False,True
+1938,house,Iowa,IA,1,,Herman O. Hansen,Farmer-Labor,,0.5,False,False,True
+1938,house,Iowa,IA,2,,William S. Jacobsen,Democratic,,50.3,True,True,False
+1938,house,Iowa,IA,2,,Alfred C. Mueller,Republican,,49.7,False,False,False
+1938,house,Iowa,IA,3,,John W. Gwynne,Republican,,59.7,True,True,False
+1938,house,Iowa,IA,3,,W. F. Hayes,Democratic,,39.5,False,False,False
+1938,house,Iowa,IA,3,,Alderdyce,Farmer-Labor,,0.5,False,False,False
+1938,house,Iowa,IA,3,,Trickey,Progressive,,0.3,False,False,False
+1938,house,Iowa,IA,4,,Henry O. Talle,Republican,,51.9,True,False,False
+1938,house,Iowa,IA,4,,Fred Biermann,Democratic,,47.6,False,True,False
+1938,house,Iowa,IA,4,,Wilbur L. Peck,Farmer-Labor,,0.6,False,False,False
+1938,house,Iowa,IA,5,,Karl M. LeCompte,Republican,,53.9,True,False,True
+1938,house,Iowa,IA,5,,Ruth F. Hollingshead,Democratic,,46.1,False,False,True
+1938,house,Iowa,IA,6,,Cassius C. Dowell,Republican,,58.5,True,True,False
+1938,house,Iowa,IA,6,,Hubert Utterback,Democratic,,40.5,False,False,False
+1938,house,Iowa,IA,6,,Pugh,Progressive,,0.4,False,False,False
+1938,house,Iowa,IA,6,,Hugh Fagan,Farmer-Labor,,0.4,False,False,False
+1938,house,Iowa,IA,6,,Tennant,Prohibition,,0.1,False,False,False
+1938,house,Iowa,IA,7,,Ben F. Jensen,Republican,,59.0,True,False,True
+1938,house,Iowa,IA,7,,Roger F. Warin,Democratic,,40.8,False,False,True
+1938,house,Iowa,IA,7,,G. L. Harrison,Farmer-Labor,,0.3,False,False,True
+1938,house,Iowa,IA,8,,Fred C. Gilchrist,Republican,,62.5,True,True,False
+1938,house,Iowa,IA,8,,H. Lloyd Eveland,Democratic,,36.9,False,False,False
+1938,house,Iowa,IA,8,,Lowe,Farmer-Labor,,0.6,False,False,False
+1938,house,Iowa,IA,9,,Vincent F. Harrington,Democratic,,49.7,True,True,False
+1938,house,Iowa,IA,9,,Albert F. Swanson,Republican,,49.3,False,False,False
+1938,house,Iowa,IA,9,,Charles F. Schrunk,Farmer-Labor,,1.1,False,False,False
+1938,house,Kansas,KS,1,,William P. Lambertson,Republican,,60.3,True,True,False
+1938,house,Kansas,KS,1,,H. N. Hensley,Democratic,,39.7,False,False,False
+1938,house,Kansas,KS,2,,Ulysses Samuel Guyer,Republican,,56.4,True,True,False
+1938,house,Kansas,KS,2,,W. F. Jackson,Democratic,,43.6,False,False,False
+1938,house,Kansas,KS,3,,Thomas Daniel Winter,Republican,,53.4,True,False,False
+1938,house,Kansas,KS,3,,Edward White Patterson,Democratic,,46.6,False,True,False
+1938,house,Kansas,KS,4,,Edward Herbert Rees,Republican,,63.1,True,True,False
+1938,house,Kansas,KS,4,,J. Donald Coffin,Democratic,,36.9,False,False,False
+1938,house,Kansas,KS,5,,John Mills Houston,Democratic,,50.3,True,True,False
+1938,house,Kansas,KS,5,,Stanley Taylor,Republican,,49.7,False,False,False
+1938,house,Kansas,KS,6,,Frank Carlson,Republican,,63.4,True,True,False
+1938,house,Kansas,KS,6,,Roy L. Hamilton,Democratic,,36.6,False,False,False
+1938,house,Kansas,KS,7,,Clifford R. Hope,Republican,,65.5,True,True,False
+1938,house,Kansas,KS,7,,Claude E. Main,Democratic,,34.5,False,False,False
+1938,house,Kentucky,KY,1,,Noble Jones Gregory,Democratic,,76.0,True,True,False
+1938,house,Kentucky,KY,1,,Alvin H. Schutz,Republican,,24.0,False,False,False
+1938,house,Kentucky,KY,2,,Beverly M. Vincent,Democratic,,63.8,True,True,False
+1938,house,Kentucky,KY,2,,Richard H. Slack,Republican,,36.2,False,False,False
+1938,house,Kentucky,KY,3,,Emmet O'Neal,Democratic,,61.1,True,True,False
+1938,house,Kentucky,KY,3,,Frank A. Ropke,Republican,,38.9,False,False,False
+1938,house,Kentucky,KY,4,,Edward W. Creal,Democratic,,59.2,True,True,False
+1938,house,Kentucky,KY,4,,Harry H. Wilson,Republican,,40.8,False,False,False
+1938,house,Kentucky,KY,5,,Brent Spence,Democratic,,68.4,True,True,False
+1938,house,Kentucky,KY,5,,Joseph Arnold Kreke,Republican,,31.6,False,False,False
+1938,house,Kentucky,KY,6,,Virgil Chapman,Democratic,,64.8,True,True,False
+1938,house,Kentucky,KY,6,,Chester D. Silvers,Republican,,34.8,False,False,False
+1938,house,Kentucky,KY,6,,Thomas Anderson Brockman,Independent,,0.4,False,False,False
+1938,house,Kentucky,KY,7,,Andrew J. May,Democratic,,53.2,True,True,False
+1938,house,Kentucky,KY,7,,Hillard H. Smith,Republican,,46.8,False,False,False
+1938,house,Kentucky,KY,8,,Joe B. Bates,Democratic,,58.8,True,True,False
+1938,house,Kentucky,KY,8,,H. Clell Hayes,Republican,,41.2,False,False,False
+1938,house,Kentucky,KY,9,,John M. Robsion,Republican,,66.8,True,True,False
+1938,house,Kentucky,KY,9,,Bert Rowland,Democratic,,33.2,False,False,False
+1938,house,Louisiana,LA,1,,Joachim O. Fernández,Democratic,,100.0,True,True,False
+1938,house,Louisiana,LA,2,,Paul H. Maloney,Democratic,,100.0,True,True,False
+1938,house,Louisiana,LA,3,,Robert L. Mouton,Democratic,,100.0,True,True,False
+1938,house,Louisiana,LA,4,,Overton Brooks,Democratic,,99.6,True,True,False
+1938,house,Louisiana,LA,4,,Ben Neal,Independent,,0.4,False,False,False
+1938,house,Louisiana,LA,5,,Newt V. Mills,Democratic,,100.0,True,True,False
+1938,house,Louisiana,LA,6,,John K. Griffith,Democratic,,100.0,True,True,False
+1938,house,Louisiana,LA,7,,René L. De Rouen,Democratic,,100.0,True,True,False
+1938,house,Louisiana,LA,8,,A. Leonard Allen,Democratic,,100.0,True,True,False
+1938,house,Maine,ME,1,,James C. Oliver,Republican,,59.0,True,True,False
+1938,house,Maine,ME,1,,Harold B. Emery,Democratic,,41.0,False,False,False
+1938,house,Maine,ME,2,,Clyde H. Smith,Republican,,54.3,True,True,False
+1938,house,Maine,ME,2,,F. Harold Dubord,Democratic,,45.7,False,False,False
+1938,house,Maine,ME,3,,Owen Brewster,Republican,,63.4,True,True,False
+1938,house,Maine,ME,3,,Melvin P. Roberts,Democratic,,36.6,False,False,False
+1938,house,Maryland,MD,1,,T. Alan Goldsborough,Democratic,,62.8,True,True,False
+1938,house,Maryland,MD,1,,Charles H. Gibson,Republican,,37.2,False,False,False
+1938,house,Maryland,MD,2,,William P. Cole Jr.,Democratic,,66.3,True,True,False
+1938,house,Maryland,MD,2,,Irving H. Mezger,Republican,,32.5,False,False,False
+1938,house,Maryland,MD,2,,Eric Arlt,Union,,1.2,False,False,False
+1938,house,Maryland,MD,3,,Thomas D'Alesandro Jr.,Democratic,,56.6,True,False,False
+1938,house,Maryland,MD,3,,John A. Janetzke Jr.,Republican,,43.4,False,False,False
+1938,house,Maryland,MD,4,,Ambrose Jerome Kennedy,Democratic,,50.2,True,True,False
+1938,house,Maryland,MD,4,,Daniel Ellison,Republican,,49.8,False,False,False
+1938,house,Maryland,MD,5,,Stephen W. Gambrill,Democratic,,68.0,True,True,False
+1938,house,Maryland,MD,5,,A. Kingsley Love,Republican,,28.6,False,False,False
+1938,house,Maryland,MD,5,,John N. Torvestad,Progressive,,2.0,False,False,False
+1938,house,Maryland,MD,5,,David L. Elliott,Independent,,1.4,False,False,False
+1938,house,Maryland,MD,6,,William D. Byron,Democratic,,50.8,True,False,True
+1938,house,Maryland,MD,6,,A. Charles Stewart,Republican,,49.2,False,False,True
+1938,house,Massachusetts,MA,1,,Allen T. Treadway,Republican,,58.8,True,True,False
+1938,house,Massachusetts,MA,1,,Owen Johnson,Democratic,,41.2,False,False,False
+1938,house,Massachusetts,MA,2,,Charles R. Clason,Republican,,61.9,True,True,False
+1938,house,Massachusetts,MA,2,,James F. Egan,Democratic,,38.1,False,False,False
+1938,house,Massachusetts,MA,3,,Joseph E. Casey,Democratic,,51.8,True,True,False
+1938,house,Massachusetts,MA,3,,J. Walton Tuttle,Republican,,48.2,False,False,False
+1938,house,Massachusetts,MA,4,,Pehr G. Holmes,Republican,,54.1,True,True,False
+1938,house,Massachusetts,MA,4,,Edward A. Ryan,Democratic,,45.9,False,False,False
+1938,house,Massachusetts,MA,5,,Edith Nourse Rogers,Republican,,74.8,True,True,False
+1938,house,Massachusetts,MA,5,,Francis J. Roane,Democratic,,25.2,False,False,False
+1938,house,Massachusetts,MA,6,,George J. Bates,Republican,,74.7,True,True,False
+1938,house,Massachusetts,MA,6,,James D. Burns,Democratic,,25.3,False,False,False
+1938,house,Massachusetts,MA,7,,Lawrence J. Connery,Democratic,,63.8,True,True,False
+1938,house,Massachusetts,MA,7,,George W. Eastman,Republican,,36.2,False,False,False
+1938,house,Massachusetts,MA,8,,Arthur D. Healey,Democratic,,55.1,True,True,False
+1938,house,Massachusetts,MA,8,,Rufus Bond,Republican,,44.9,False,False,False
+1938,house,Massachusetts,MA,9,,Robert Luce,Republican,,50.7,True,True,False
+1938,house,Massachusetts,MA,9,,Thomas H. Eliot,Democratic,,49.3,False,False,False
+1938,house,Massachusetts,MA,10,,George H. Tinkham,Republican,,64.4,True,True,False
+1938,house,Massachusetts,MA,10,,Martin J. Kelly,Democratic,,35.6,False,False,False
+1938,house,Massachusetts,MA,11,,Thomas A. Flaherty,Democratic,,100.0,True,True,False
+1938,house,Massachusetts,MA,12,,John William McCormack,Democratic,,77.1,True,False,False
+1938,house,Massachusetts,MA,12,,Henry J. Allen,Republican,,22.9,False,False,False
+1938,house,Massachusetts,MA,13,,Richard B. Wigglesworth,Republican,,68.4,True,True,False
+1938,house,Massachusetts,MA,13,,Andrew T. Clancy,Democratic,,31.6,False,False,False
+1938,house,Massachusetts,MA,14,,Joseph William Martin Jr.,Republican,,58.7,True,False,False
+1938,house,Massachusetts,MA,14,,Lawrence J. Bresnahan,Democratic,,40.5,False,False,False
+1938,house,Massachusetts,MA,14,,Mortimer A. Sullivan,Other,,0.8,False,False,False
+1938,house,Massachusetts,MA,15,,Charles L. Gifford,Republican,,59.0,True,True,False
+1938,house,Massachusetts,MA,15,,John D. W. Bodfish,Democratic,,41.0,False,False,False
+1938,house,Michigan,MI,1,,Rudolph G. Tenerowicz,Democratic,,80.4,True,False,False
+1938,house,Michigan,MI,1,,Charles A. Roxborough,Republican,,18.8,False,False,False
+1938,house,Michigan,MI,1,,Ben Fischer,Socialist,,0.4,False,False,False
+1938,house,Michigan,MI,1,,John Johns,Other,,0.3,False,False,False
+1938,house,Michigan,MI,1,,Theos A. Grove,Socialist Labor,,0.07,False,False,False
+1938,house,Michigan,MI,2,,Earl C. Michener,Republican,,64.4,True,True,False
+1938,house,Michigan,MI,2,,"Walter C. Averill, Jr.",Democratic,,35.5,False,False,False
+1938,house,Michigan,MI,2,,Florence Howard,Commonwealth Land,,0.04,False,False,False
+1938,house,Michigan,MI,2,,Edmund T. Taylor,Socialist Labor,,0.03,False,False,False
+1938,house,Michigan,MI,3,,Paul W. Shafer,Republican,,66.0,True,True,False
+1938,house,Michigan,MI,3,,Gordon L. Stewart,Democratic,,33.9,False,False,False
+1938,house,Michigan,MI,3,,Duly McCone,Commonwealth Land,,0.05,False,False,False
+1938,house,Michigan,MI,4,,Clare E. Hoffman,Republican,,59.2,True,True,False
+1938,house,Michigan,MI,4,,Felix Racette,Democratic,,40.8,False,False,False
+1938,house,Michigan,MI,5,,Carl E. Mapes,Republican,,59.1,True,True,False
+1938,house,Michigan,MI,5,,Tunis Johnson,Democratic,,40.9,False,False,False
+1938,house,Michigan,MI,6,,William W. Blackney,Republican,,55.0,True,False,False
+1938,house,Michigan,MI,6,,Andrew J. Transue,Democratic,,45.0,False,True,False
+1938,house,Michigan,MI,6,,Arthur H. McMaster,Commonwealth Land,,0.02,False,False,False
+1938,house,Michigan,MI,7,,Jesse P. Wolcott,Republican,,69.0,True,True,False
+1938,house,Michigan,MI,7,,Charles F. Mann,Democratic,,31.0,False,False,False
+1938,house,Michigan,MI,8,,Fred L. Crawford,Republican,,58.7,True,True,False
+1938,house,Michigan,MI,8,,Louis C. Schwinger,Democratic,,41.3,False,False,False
+1938,house,Michigan,MI,9,,Albert J. Engel,Republican,,58.2,True,True,False
+1938,house,Michigan,MI,9,,Noel P. Fox,Democratic,,41.8,False,False,False
+1938,house,Michigan,MI,10,,Roy O. Woodruff,Republican,,66.3,True,True,False
+1938,house,Michigan,MI,10,,Harold C. Bellows,Democratic,,33.5,False,False,False
+1938,house,Michigan,MI,10,,Charles B. Asselin,Other,,0.2,False,False,False
+1938,house,Michigan,MI,11,,Frederick Van Ness Bradley,Republican,,51.4,True,False,False
+1938,house,Michigan,MI,11,,John F. Luecke,Democratic,,48.6,False,True,False
+1938,house,Michigan,MI,12,,Frank Eugene Hook,Democratic,,51.7,True,True,False
+1938,house,Michigan,MI,12,,John B. Bennett,Republican,,48.3,False,False,False
+1938,house,Michigan,MI,13,,Clarence J. McLeod,Republican,,50.6,True,False,False
+1938,house,Michigan,MI,13,,George D. O'Brien,Democratic,,48.9,False,True,False
+1938,house,Michigan,MI,13,,Louis Busker,Socialist,,0.2,False,False,False
+1938,house,Michigan,MI,13,,Edward A. Carey,Other,,0.2,False,False,False
+1938,house,Michigan,MI,13,,Theodore Gramaticoff,Socialist Labor,,0.05,False,False,False
+1938,house,Michigan,MI,14,,Louis C. Rabaut,Democratic,,57.6,True,True,False
+1938,house,Michigan,MI,14,,O. Z. Ide,Republican,,42.1,False,False,False
+1938,house,Michigan,MI,14,,Loren Walters,Socialist,,0.2,False,False,False
+1938,house,Michigan,MI,14,,Stanley Romanski,Other,,0.1,False,False,False
+1938,house,Michigan,MI,14,,John Vonica,Socialist Labor,,0.02,False,False,False
+1938,house,Michigan,MI,15,,John Dingell Sr.,Democratic,,54.0,True,True,False
+1938,house,Michigan,MI,15,,Archie C. Fraser,Republican,,45.6,False,False,False
+1938,house,Michigan,MI,15,,Francis King,Socialist,,0.2,False,False,False
+1938,house,Michigan,MI,15,,Francis J. McDonald,Other,,0.2,False,False,False
+1938,house,Michigan,MI,15,,Edith Walzel,Socialist Labor,,0.04,False,False,False
+1938,house,Michigan,MI,16,,John Lesinski Sr.,Democratic,,55.1,True,True,False
+1938,house,Michigan,MI,16,,John L. Carey,Republican,,44.5,False,False,False
+1938,house,Michigan,MI,16,,J. G. Betz,Socialist,,0.2,False,False,False
+1938,house,Michigan,MI,16,,Leonard R. Kolpacke,Other,,0.2,False,False,False
+1938,house,Michigan,MI,16,,Joseph Vers,Socialist,,0.08,False,False,False
+1938,house,Michigan,MI,17,,George A. Dondero,Republican,,61.4,True,True,False
+1938,house,Michigan,MI,17,,Samuel G. Backus,Democratic,,38.3,False,False,False
+1938,house,Michigan,MI,17,,Walter Allmendiger,Socialist,,0.2,False,False,False
+1938,house,Michigan,MI,17,,W. Clifford Bentley,Socialist Labor,,0.09,False,False,False
+1938,house,Minnesota,MN,1,,August H. Andresen,Republican,,64.9,True,True,False
+1938,house,Minnesota,MN,1,,Ray G. Moonan,Democratic,,35.1,False,False,False
+1938,house,Minnesota,MN,2,,Elmer Ryan,Democratic,,43.6,True,True,False
+1938,house,Minnesota,MN,2,,Joseph P. O'Hara,Republican,,35.9,False,False,False
+1938,house,Minnesota,MN,2,,C. F. Gaarenstroom,Farmer-Labor,,20.5,False,False,False
+1938,house,Minnesota,MN,3,,John G. Alexander,Republican,,45.3,True,False,False
+1938,house,Minnesota,MN,3,,Henry Teigan,Farmer-Labor,,42.8,False,True,False
+1938,house,Minnesota,MN,3,,Martin A. Hogan,Democratic,,11.9,False,False,False
+1938,house,Minnesota,MN,4,,Melvin Maas,Republican,,53.1,True,True,False
+1938,house,Minnesota,MN,4,,Howard Y. Williams,Farmer-Labor,,35.8,False,False,False
+1938,house,Minnesota,MN,4,,A. B. C. Doherty,Democratic,,11.1,False,False,False
+1938,house,Minnesota,MN,5,,Oscar Youngdahl,Republican,,54.7,True,False,False
+1938,house,Minnesota,MN,5,,Dewey Johnson,Farmer-Labor,,36.8,False,True,False
+1938,house,Minnesota,MN,5,,John L. Gleason,Democratic,,8.6,False,False,False
+1938,house,Minnesota,MN,6,,Harold Knutson,Republican,,63.2,True,True,False
+1938,house,Minnesota,MN,6,,Harry W. Christianson,Farmer-Labor,,28.5,False,False,False
+1938,house,Minnesota,MN,6,,Harold F. Deering,Democratic,,8.3,False,False,False
+1938,house,Minnesota,MN,7,,H. Carl Andersen,Republican,,42.6,True,False,False
+1938,house,Minnesota,MN,7,,Paul John Kvale,Farmer-Labor,,36.7,False,True,False
+1938,house,Minnesota,MN,7,,J. L. O'Connor,Democratic,,16.7,False,False,False
+1938,house,Minnesota,MN,7,,Albert S. Falk,Independent,,4.1,False,False,False
+1938,house,Minnesota,MN,8,,William Alvin Pittenger,Republican,,51.8,True,False,False
+1938,house,Minnesota,MN,8,,John Bernard,Farmer-Labor,,41.4,False,True,False
+1938,house,Minnesota,MN,8,,Merle J. McKeon,Democratic,,6.8,False,False,False
+1938,house,Minnesota,MN,9,,Rich T. Buckler,Farmer-Labor,,42.0,True,True,False
+1938,house,Minnesota,MN,9,,Ole O. Sageng,Republican,,38.5,False,False,False
+1938,house,Minnesota,MN,9,,Martin O. Brandon,Democratic,,19.5,False,False,False
+1938,house,Mississippi,MS,1,,John E. Rankin,Democratic,,100.0,True,True,False
+1938,house,Mississippi,MS,2,,Wall Doxey,Democratic,,100.0,True,True,False
+1938,house,Mississippi,MS,3,,William Madison Whittington,Democratic,,100.0,True,True,False
+1938,house,Mississippi,MS,4,,Aaron L. Ford,Democratic,,100.0,True,True,False
+1938,house,Mississippi,MS,5,,Ross A. Collins,Democratic,,100.0,True,True,False
+1938,house,Mississippi,MS,6,,William M. Colmer,Democratic,,100.0,True,True,False
+1938,house,Mississippi,MS,7,,Dan R. McGehee,Democratic,,100.0,True,True,False
+1938,house,Missouri,MO,1,,Milton A. Romjue,Democratic,,54.7,True,True,False
+1938,house,Missouri,MO,1,,James Grover Morgan,Republican,,45.2,False,False,False
+1938,house,Missouri,MO,1,,R. D. Morrison,Socialist,,0.06,False,False,False
+1938,house,Missouri,MO,2,,William L. Nelson,Democratic,,57.9,True,True,False
+1938,house,Missouri,MO,2,,Mrs. George B. Simmons,Republican,,42.0,False,False,False
+1938,house,Missouri,MO,2,,H. V. Ousley,Socialist,,0.05,False,False,False
+1938,house,Missouri,MO,3,,Richard M. Duncan,Democratic,,55.3,True,True,False
+1938,house,Missouri,MO,3,,Fred Maughmer,Republican,,44.7,False,False,False
+1938,house,Missouri,MO,4,,C. Jasper Bell,Democratic,,80.4,True,True,False
+1938,house,Missouri,MO,4,,George E. Kimball,Republican,,19.6,False,False,False
+1938,house,Missouri,MO,4,,W. F. Rinck,Socialist,,0.01,False,False,False
+1938,house,Missouri,MO,4,,Henke,Socialist Labor,,0.01,False,False,False
+1938,house,Missouri,MO,5,,Joe Shannon,Democratic,,81.0,True,True,False
+1938,house,Missouri,MO,5,,Leslie J. Lyons,Republican,,19.0,False,False,False
+1938,house,Missouri,MO,5,,Hiltner,Socialist Labor,,0.001,False,False,False
+1938,house,Missouri,MO,6,,Reuben T. Wood,Democratic,,50.3,True,True,False
+1938,house,Missouri,MO,6,,Phil A. Bennett,Republican,,49.7,False,False,False
+1938,house,Missouri,MO,6,,Umstead,Socialist Labor,,0.01,False,False,False
+1938,house,Missouri,MO,7,,Dewey Short,Republican,,56.3,True,True,False
+1938,house,Missouri,MO,7,,Frank H. Lee,Democratic,,43.6,False,False,False
+1938,house,Missouri,MO,7,,Louise Carpenter,Socialist,,0.1,False,False,False
+1938,house,Missouri,MO,8,,Clyde Williams,Democratic,,55.3,True,True,False
+1938,house,Missouri,MO,8,,Homer S. Cotton,Republican,,44.7,False,False,False
+1938,house,Missouri,MO,8,,Doyen,Socialist Labor,,0.02,False,False,False
+1938,house,Missouri,MO,9,,Clarence Cannon,Democratic,,60.5,True,True,False
+1938,house,Missouri,MO,9,,F. B. Meyer,Republican,,39.4,False,False,False
+1938,house,Missouri,MO,9,,Harry Shumaker,Socialist,,0.07,False,False,False
+1938,house,Missouri,MO,10,,Orville Zimmerman,Democratic,,58.9,True,True,False
+1938,house,Missouri,MO,10,,Ralph Hutchison,Republican,,41.0,False,False,False
+1938,house,Missouri,MO,10,,Frank Jones,Socialist,,0.08,False,False,False
+1938,house,Missouri,MO,11,,Thomas C. Hennings Jr.,Democratic,,61.8,True,True,False
+1938,house,Missouri,MO,11,,William E. Buder,Republican,,37.9,False,False,False
+1938,house,Missouri,MO,11,,Paul W. Preisler,Socialist,,0.2,False,False,False
+1938,house,Missouri,MO,11,,Wagoner,Socialist Labor,,0.06,False,False,False
+1938,house,Missouri,MO,12,,Charles Arthur Anderson,Democratic,,52.0,True,True,False
+1938,house,Missouri,MO,12,,Russell J. Horsefield,Republican,,47.6,False,False,False
+1938,house,Missouri,MO,12,,Kovaka,Socialist,,0.4,False,False,False
+1938,house,Missouri,MO,12,,Genck,Socialist Labor,,0.06,False,False,False
+1938,house,Missouri,MO,13,,John J. Cochran,Democratic,,69.0,True,True,False
+1938,house,Missouri,MO,13,,William Gray,Republican,,30.9,False,False,False
+1938,house,Missouri,MO,13,,A. W. Nichols,Socialist,,0.1,False,False,False
+1938,house,Missouri,MO,13,,Kochendorfer,Socialist Labor,,0.03,False,False,False
+1938,house,Montana,MT,1,,Jacob Thorkelson,Republican,,54.4,True,False,False
+1938,house,Montana,MT,1,,Jerry J. O'Connell,Democratic,,45.6,False,True,False
+1938,house,Montana,MT,2,,James F. O'Connor,Democratic,,53.8,True,True,False
+1938,house,Montana,MT,2,,W. C. Husband,Republican,,46.2,False,False,False
+1938,house,Nebraska,NE,1,,George H. Heinke,Republican,,47.0,True,False,False
+1938,house,Nebraska,NE,1,,Henry Carl Luckey,Democratic,,46.6,False,True,False
+1938,house,Nebraska,NE,1,,Catherine F. McGerr,Independent,,6.4,False,False,False
+1938,house,Nebraska,NE,2,,Charles F. McLaughlin,Democratic,,57.3,True,True,False
+1938,house,Nebraska,NE,2,,M. F. Mulvaney,Republican,,39.9,False,False,False
+1938,house,Nebraska,NE,2,,James Levi Nelson,Independent,,2.7,False,False,False
+1938,house,Nebraska,NE,3,,Karl Stefan,Republican,,75.3,True,True,False
+1938,house,Nebraska,NE,3,,Edgar Howard,Democratic,,24.7,False,False,False
+1938,house,Nebraska,NE,4,,Carl Curtis,Republican,,58.2,True,False,False
+1938,house,Nebraska,NE,4,,Charles Gustav Binderup,Democratic,,41.8,False,True,False
+1938,house,Nebraska,NE,5,,Harry B. Coffee,Democratic,,62.4,True,True,False
+1938,house,Nebraska,NE,5,,William E. Shuman,Republican,,34.1,False,False,False
+1938,house,Nebraska,NE,5,,Milford Flood,Independent,,3.5,False,False,False
+1938,house,Nevada,NV,AL,,James G. Scrugham,Democratic,,66.4,True,True,False
+1938,house,Nevada,NV,AL,,Harry E. Stewart,Republican,,33.6,False,False,False
+1938,house,New Hampshire,NH,1,,Arthur B. Jenks,Republican,,53.9,True,False,False
+1938,house,New Hampshire,NH,1,,Alphonse Roy,Democratic,,46.1,False,True,False
+1938,house,New Hampshire,NH,2,,Foster Waterman Stearns,Republican,,59.1,True,False,True
+1938,house,New Hampshire,NH,2,,Alvin A. Lucier,Democratic,,40.9,False,False,True
+1938,house,New Jersey,NJ,1,,Charles A. Wolverton,Republican,,62.0,True,True,False
+1938,house,New Jersey,NJ,1,,Thomas M. Madden,Democratic,,37.5,False,False,False
+1938,house,New Jersey,NJ,1,,Samuel Josephson,Socialist,,0.3,False,False,False
+1938,house,New Jersey,NJ,1,,Elizabeth S. Aceto,Prohibition,,0.2,False,False,False
+1938,house,New Jersey,NJ,1,,John F. Norman,Communist,,0.06,False,False,False
+1938,house,New Jersey,NJ,2,,Walter S. Jeffries,Republican,,50.6,True,False,False
+1938,house,New Jersey,NJ,2,,Elmer H. Wene,Democratic,,49.1,False,True,False
+1938,house,New Jersey,NJ,2,,Isaac Stalberg,Other,,0.2,False,False,False
+1938,house,New Jersey,NJ,2,,Margaret V. Moody,Prohibition,,0.08,False,False,False
+1938,house,New Jersey,NJ,2,,Anthon B. Ferretti,People's,,0.04,False,False,False
+1938,house,New Jersey,NJ,2,,Frank B. Hubin,Other,,0.02,False,False,False
+1938,house,New Jersey,NJ,3,,William H. Sutphin,Democratic,,50.5,True,True,False
+1938,house,New Jersey,NJ,3,,James K. Allerdice,Republican,,49.5,False,False,False
+1938,house,New Jersey,NJ,4,,D. Lane Powers,Republican,,61.3,True,True,False
+1938,house,New Jersey,NJ,4,,Richard J. Hughes,Democratic,,38.4,False,False,False
+1938,house,New Jersey,NJ,4,,William C. Kauffman,Socialist,,0.1,False,False,False
+1938,house,New Jersey,NJ,4,,Samuel E. Golder,Prohibition,,0.1,False,False,False
+1938,house,New Jersey,NJ,5,,Charles A. Eaton,Republican,,56.7,True,True,False
+1938,house,New Jersey,NJ,5,,Franklin W. Rice,Democratic,,43.2,False,False,False
+1938,house,New Jersey,NJ,5,,Jeremiah Morse,Prohibition,,0.1,False,False,False
+1938,house,New Jersey,NJ,6,,Donald H. McLean,Republican,,61.4,True,True,False
+1938,house,New Jersey,NJ,6,,Richard F. Green,Democratic,,37.4,False,False,False
+1938,house,New Jersey,NJ,6,,Marion Douglas,Socialist,,1.0,False,False,False
+1938,house,New Jersey,NJ,6,,Lillian Riker,Prohibition,,0.2,False,False,False
+1938,house,New Jersey,NJ,7,,J. Parnell Thomas,Republican,,64.0,True,True,False
+1938,house,New Jersey,NJ,7,,Edward W. Wildrick,Democratic,,35.6,False,False,False
+1938,house,New Jersey,NJ,7,,John L. Humbert,Farmer-Labor,,0.4,False,False,False
+1938,house,New Jersey,NJ,8,,George N. Seger,Republican,,59.2,True,True,False
+1938,house,New Jersey,NJ,8,,Fred Hoelscher,Democratic,,40.1,False,False,False
+1938,house,New Jersey,NJ,8,,Manuel Cantor,Communist,,0.3,False,False,False
+1938,house,New Jersey,NJ,8,,Jacob H. Schmitter,Socialist Labor,,0.2,False,False,False
+1938,house,New Jersey,NJ,8,,Arthur W. Collard,Prohibition,,0.08,False,False,False
+1938,house,New Jersey,NJ,9,,Frank C. Osmers Jr.,Republican,,59.3,True,False,True
+1938,house,New Jersey,NJ,9,,Vincent Clausen,Democratic,,39.9,False,False,True
+1938,house,New Jersey,NJ,9,,Elizabeth Jane Kenney,Independent,,0.5,False,False,True
+1938,house,New Jersey,NJ,9,,William F. Klemm,Progressive,,0.3,False,False,True
+1938,house,New Jersey,NJ,10,,Fred A. Hartley Jr.,Republican,,55.6,True,True,False
+1938,house,New Jersey,NJ,10,,Lindsay H. Rudd,Democratic,,39.5,False,False,False
+1938,house,New Jersey,NJ,10,,Nicholas Fiore,Independent,,4.4,False,False,False
+1938,house,New Jersey,NJ,10,,Rose Risk,Communist,,0.5,False,False,False
+1938,house,New Jersey,NJ,11,,Albert L. Vreeland,Republican,,50.3,True,False,False
+1938,house,New Jersey,NJ,11,,Edward L. O'Neill,Democratic,,44.8,False,True,False
+1938,house,New Jersey,NJ,11,,J. Roosevelt Womble,Liberal Party (New York),,3.0,False,False,False
+1938,house,New Jersey,NJ,11,,Reuben Plaskett,Socialist Workers,,0.7,False,False,False
+1938,house,New Jersey,NJ,11,,Lillie Brewer,Communist,,0.6,False,False,False
+1938,house,New Jersey,NJ,11,,John C. Privitera,Independent,,0.6,False,False,False
+1938,house,New Jersey,NJ,12,,Robert Kean,Republican,,55.0,True,False,False
+1938,house,New Jersey,NJ,12,,Frank W. Towey Jr.,Democratic,,41.3,False,True,False
+1938,house,New Jersey,NJ,12,,Irving Rosenberg,Socialist Workers,,2.3,False,False,False
+1938,house,New Jersey,NJ,12,,Morris Friendal,Communist,,0.9,False,False,False
+1938,house,New Jersey,NJ,12,,Rubye Smith,Socialist,,0.5,False,False,False
+1938,house,New Jersey,NJ,13,,Mary Teresa Norton,Democratic,,79.8,True,True,False
+1938,house,New Jersey,NJ,13,,T. Burton Coyle,Republican,,20.1,False,False,False
+1938,house,New Jersey,NJ,13,,Jay Anyon,Communist,,0.1,False,False,False
+1938,house,New Jersey,NJ,14,,Edward J. Hart,Democratic,,78.6,True,True,False
+1938,house,New Jersey,NJ,14,,Henry T. Stuhr,Republican,,21.1,False,False,False
+1938,house,New Jersey,NJ,14,,G. Darrell O'Neill,Socialist,,0.3,False,False,False
+1938,house,New Mexico,NM,AL,,John J. Dempsey,Democratic,,58.4,True,True,False
+1938,house,New Mexico,NM,AL,,Pearce C. Rodney,Republican,,41.4,False,False,False
+1938,house,New Mexico,NM,AL,,E. W. Fawkes,Citizens,,0.2,False,False,False
+1938,house,New York,NY,1,,Leonard W. Hall,Republican,,63.0,True,False,True
+1938,house,New York,NY,1,,John F. Kiernan,Democratic,,34.0,False,False,True
+1938,house,New York,NY,1,,Pierrepont E. Twitchell,American Labor,,2.7,False,False,True
+1938,house,New York,NY,1,,Robert Koeppicus,Socialist,,0.3,False,False,True
+1938,house,New York,NY,2,,William Bernard Barry,Democratic,,67.6,True,True,False
+1938,house,New York,NY,2,,George Archinal,Republican,,31.5,False,False,False
+1938,house,New York,NY,2,,John Petrone,Socialist,,0.9,False,False,False
+1938,house,New York,NY,3,,Joseph L. Pfeifer,Democratic,,64.8,True,True,False
+1938,house,New York,NY,3,,Philip Tirone,Republican,,23.3,False,False,False
+1938,house,New York,NY,3,,Bernard Kleban,American Labor,,11.2,False,False,False
+1938,house,New York,NY,3,,David Breslow,Socialist,,0.8,False,False,False
+1938,house,New York,NY,4,,Thomas H. Cullen,Democratic,,74.5,True,True,False
+1938,house,New York,NY,4,,Edwin R. Kaprat,Republican,,24.8,False,False,False
+1938,house,New York,NY,4,,David M. Cory,Socialist,,0.7,False,False,False
+1938,house,New York,NY,5,,Marcellus H. Evans,Democratic,,58.3,True,True,False
+1938,house,New York,NY,5,,Francis H. Warland,Republican,,30.1,False,False,False
+1938,house,New York,NY,5,,Joseph Dermody,American Labor,,10.7,False,False,False
+1938,house,New York,NY,5,,Sam Baron,Socialist,,0.9,False,False,False
+1938,house,New York,NY,6,,Andrew Lawrence Somers,Democratic,,52.0,True,True,False
+1938,house,New York,NY,6,,Gustav Drews,Republican,,46.3,False,False,False
+1938,house,New York,NY,6,,Jacob Axelrod,Socialist,,1.6,False,False,False
+1938,house,New York,NY,7,,John J. Delaney,Democratic,,59.6,True,True,False
+1938,house,New York,NY,7,,John J. Blust,Republican,,19.8,False,False,False
+1938,house,New York,NY,7,,Bernard Reswick,American Labor,,19.4,False,False,False
+1938,house,New York,NY,7,,Joseph G. Glass,Socialist,,1.1,False,False,False
+1938,house,New York,NY,8,,Donald L. O'Toole,Democratic,,54.1,True,True,False
+1938,house,New York,NY,8,,Dorothy J. Bellanca,Republican,,44.7,False,False,False
+1938,house,New York,NY,8,,Alfred S. Belskin,Socialist,,1.2,False,False,False
+1938,house,New York,NY,9,,Eugene James Keogh,Democratic,,54.1,True,True,False
+1938,house,New York,NY,9,,Nelson S. Kirk,Republican,,34.0,False,False,False
+1938,house,New York,NY,9,,Spencer K. Binyon,American Labor,,11.0,False,False,False
+1938,house,New York,NY,9,,Simon L. Goldbloom,Communist,,0.9,False,False,False
+1938,house,New York,NY,10,,Emanuel Celler,Democratic,,73.5,True,True,False
+1938,house,New York,NY,10,,Arthur H. J. Macmullen,Republican,,24.9,False,False,False
+1938,house,New York,NY,10,,Jack Altman,Socialist,,1.6,False,False,False
+1938,house,New York,NY,11,,James A. O'Leary,Democratic,,58.9,True,True,False
+1938,house,New York,NY,11,,Percy C. Ryder,Republican,,33.9,False,False,False
+1938,house,New York,NY,11,,John V. Murphy,American Labor,,6.6,False,False,False
+1938,house,New York,NY,11,,Ernest K. Barnard,Socialist,,0.6,False,False,False
+1938,house,New York,NY,12,,Samuel Dickstein,Democratic,,89.0,True,True,False
+1938,house,New York,NY,12,,Hyman Hecht,Republican,,9.6,False,False,False
+1938,house,New York,NY,12,,Mary Fox,Socialist,,1.4,False,False,False
+1938,house,New York,NY,13,,Christopher D. Sullivan,Democratic,,63.8,True,True,False
+1938,house,New York,NY,13,,John Rosenberg,Republican,,18.2,False,False,False
+1938,house,New York,NY,13,,Eugene P. Connolly,American Labor,,17.0,False,False,False
+1938,house,New York,NY,13,,Joel Seidman,Socialist,,1.0,False,False,False
+1938,house,New York,NY,14,,William I. Sirovich,Democratic,,68.4,True,True,False
+1938,house,New York,NY,14,,Maurice Wahl,Republican,,30.0,False,False,False
+1938,house,New York,NY,14,,Daniel Glendenin,Socialist,,1.6,False,False,False
+1938,house,New York,NY,15,,Michael J. Kennedy,Democratic,,67.3,True,False,True
+1938,house,New York,NY,15,,John Kane Jr.,Republican,,22.6,False,False,True
+1938,house,New York,NY,15,,Daniel L. McDonough,American Labor,,9.4,False,False,True
+1938,house,New York,NY,15,,Meriweather Stuart,Socialist,,0.7,False,False,True
+1938,house,New York,NY,16,,James H. Fay,Democratic,,52.1,True,False,False
+1938,house,New York,NY,16,,John J. O'Connor,Republican,,46.9,False,True,False
+1938,house,New York,NY,16,,McAlister Coleman,Socialist,,1.1,False,False,False
+1938,house,New York,NY,17,,Bruce Fairchild Barton,Republican,,55.0,True,True,False
+1938,house,New York,NY,17,,Walter H. Liebman,Democratic,,36.2,False,False,False
+1938,house,New York,NY,17,,George Backer,American Labor,,8.3,False,False,False
+1938,house,New York,NY,17,,Clinton W. Keyes,Socialist,,0.4,False,False,False
+1938,house,New York,NY,18,,Martin J. Kennedy,Democratic,,60.8,True,True,False
+1938,house,New York,NY,18,,Raymond S. Fanning,Republican,,30.5,False,False,False
+1938,house,New York,NY,18,,Martin C. Kyne,American Labor,,8.1,False,False,False
+1938,house,New York,NY,18,,Sidonia Fried Sugar,Socialist,,0.7,False,False,False
+1938,house,New York,NY,19,,Sol Bloom,Democratic,,53.3,True,True,False
+1938,house,New York,NY,19,,Robert P. Levis,Republican,,28.1,False,False,False
+1938,house,New York,NY,19,,Joseph Schlossberg,American Labor,,18.6,False,False,False
+1938,house,New York,NY,20,,Vito Marcantonio,American Labor,,59.7,True,False,False
+1938,house,New York,NY,20,,James J. Lanzetta,Democratic,,39.0,False,True,False
+1938,house,New York,NY,20,,Murray Cross,Socialist,,1.3,False,False,False
+1938,house,New York,NY,21,,Joseph A. Gavagan,Democratic,,69.5,True,True,False
+1938,house,New York,NY,21,,Lorenzo H. King,Republican,,29.6,False,False,False
+1938,house,New York,NY,21,,Frank Crosswaith,Socialist,,1.0,False,False,False
+1938,house,New York,NY,22,,Edward W. Curley,Democratic,,64.5,True,True,False
+1938,house,New York,NY,22,,Arthur D. Fisher,Republican,,23.0,False,False,False
+1938,house,New York,NY,22,,Thomas C. O'Leary,American Labor,,11.6,False,False,False
+1938,house,New York,NY,22,,Aaron Levenstein,Socialist,,0.9,False,False,False
+1938,house,New York,NY,23,,Charles A. Buckley,Democratic,,50.8,True,True,False
+1938,house,New York,NY,23,,Isidore Nagler,American Labor,,28.4,False,False,False
+1938,house,New York,NY,23,,Robert H. Brennen,Republican,,20.8,False,False,False
+1938,house,New York,NY,24,,James M. Fitzpatrick,Democratic,,48.7,True,True,False
+1938,house,New York,NY,24,,Louis Goldrich,Republican,,33.2,False,False,False
+1938,house,New York,NY,24,,Bartholomew F. Murphy,American Labor,,17.1,False,False,False
+1938,house,New York,NY,24,,Fred Harwood,Socialist,,1.0,False,False,False
+1938,house,New York,NY,25,,Ralph A. Gamble,Republican,,64.9,True,True,False
+1938,house,New York,NY,25,,Homer A. Stebbins,Democratic,,32.0,False,False,False
+1938,house,New York,NY,25,,Michael Cimbalo,American Labor,,2.8,False,False,False
+1938,house,New York,NY,25,,Leonard Bright,Socialist,,0.4,False,False,False
+1938,house,New York,NY,26,,Hamilton Fish III,Republican,,64.3,True,True,False
+1938,house,New York,NY,26,,Ben Martin,Democratic,,35.0,False,False,False
+1938,house,New York,NY,26,,Edward J. Bowen,Freedom,,0.5,False,False,False
+1938,house,New York,NY,26,,Hans Peters,Socialist,,0.3,False,False,False
+1938,house,New York,NY,27,,Lewis K. Rockefeller,Republican,,61.0,True,True,False
+1938,house,New York,NY,27,,George W. Markey,Democratic,,39.0,False,False,False
+1938,house,New York,NY,28,,William T. Byrne,Democratic,,60.4,True,True,False
+1938,house,New York,NY,28,,William B. Cornell,Republican,,37.5,False,False,False
+1938,house,New York,NY,28,,Edward J. Addy,American Labor,,1.9,False,False,False
+1938,house,New York,NY,28,,Frank A. Andrae,Socialist,,0.1,False,False,False
+1938,house,New York,NY,29,,E. Harold Cluett,Republican,,65.0,True,True,False
+1938,house,New York,NY,29,,Harry M. Brooks,Democratic,,34.7,False,False,False
+1938,house,New York,NY,29,,Coleman B. Cheney,Socialist,,0.2,False,False,False
+1938,house,New York,NY,30,,Frank Crowther,Republican,,60.1,True,True,False
+1938,house,New York,NY,30,,C. Dorothea Greene,Democratic,,39.4,False,False,False
+1938,house,New York,NY,30,,Herbert M. Poller,Socialist,,0.5,False,False,False
+1938,house,New York,NY,31,,Wallace E. Pierce,Republican,,64.1,True,False,True
+1938,house,New York,NY,31,,George C. Owens,Democratic,,25.7,False,False,True
+1938,house,New York,NY,31,,Jesse W. Williams,Townsend,,9.9,False,False,True
+1938,house,New York,NY,31,,Forrest Wallace,Socialist,,0.3,False,False,True
+1938,house,New York,NY,32,,Francis D. Culkin,Republican,,75.5,True,True,False
+1938,house,New York,NY,32,,Virginia A. Spencer,Democratic,,24.3,False,False,False
+1938,house,New York,NY,32,,Orley N. Tooley,Socialist,,0.2,False,False,False
+1938,house,New York,NY,33,,Fred J. Douglas,Republican,,61.2,True,True,False
+1938,house,New York,NY,33,,Ralph A. Peters,Democratic,,35.7,False,False,False
+1938,house,New York,NY,33,,Stanley C. Walewski,American Labor,,2.8,False,False,False
+1938,house,New York,NY,33,,Albert R. Tully,Socialist,,0.3,False,False,False
+1938,house,New York,NY,34,,Bert Lord,Republican,,65.3,True,True,False
+1938,house,New York,NY,34,,John V. Johnson,Democratic,,34.4,False,False,False
+1938,house,New York,NY,34,,Merle A. Wilson,Socialist,,0.3,False,False,False
+1938,house,New York,NY,35,,Clarence E. Hancock,Republican,,64.1,True,True,False
+1938,house,New York,NY,35,,"Caleb C. Brown, Jr.",Democratic,,35.6,False,False,False
+1938,house,New York,NY,35,,Thomas P. Shallcross,Socialist,,0.3,False,False,False
+1938,house,New York,NY,36,,John Taber,Republican,,55.2,True,True,False
+1938,house,New York,NY,36,,George F. Davie,Democratic,,23.1,False,False,False
+1938,house,New York,NY,36,,Charles P. Russell,American Labor,,21.3,False,False,False
+1938,house,New York,NY,36,,Walter O'Hagen,Socialist,,0.5,False,False,False
+1938,house,New York,NY,37,,W. Sterling Cole,Republican,,60.5,True,True,False
+1938,house,New York,NY,37,,David Moses,Democratic,,39.1,False,False,False
+1938,house,New York,NY,37,,Trevor Teele,Socialist,,0.4,False,False,False
+1938,house,New York,NY,38,,Joseph J. O'Brien,Republican,,55.8,True,False,False
+1938,house,New York,NY,38,,George Bradshaw Kelly,Democratic,,43.7,False,True,False
+1938,house,New York,NY,38,,James Oakes,Socialist,,0.5,False,False,False
+1938,house,New York,NY,39,,James W. Wadsworth Jr.,Republican,,65.8,True,True,False
+1938,house,New York,NY,39,,J. Frank Gilligan,Democratic,,28.4,False,False,False
+1938,house,New York,NY,39,,Edward J. Wagner,American Labor,,5.5,False,False,False
+1938,house,New York,NY,39,,Clair Walbridge,Socialist,,0.3,False,False,False
+1938,house,New York,NY,40,,Walter G. Andrews,Republican,,62.6,True,True,False
+1938,house,New York,NY,40,,John L. Beyer,Democratic,,34.4,False,False,False
+1938,house,New York,NY,40,,August Hein,American Labor,,2.6,False,False,False
+1938,house,New York,NY,40,,George Brickner,Socialist,,0.4,False,False,False
+1938,house,New York,NY,41,,J. Francis Harter,Republican,,50.5,True,False,False
+1938,house,New York,NY,41,,Alfred F. Beiter,Democratic,,49.1,False,True,False
+1938,house,New York,NY,41,,Alice Lebert,Socialist,,0.4,False,False,False
+1938,house,New York,NY,42,,Pius Schwert,Democratic,,45.8,True,False,True
+1938,house,New York,NY,42,,John C. Butler,Republican,,42.3,False,False,True
+1938,house,New York,NY,42,,John A. Ulinski,Independent,,11.1,False,False,True
+1938,house,New York,NY,42,,John E. Kralisz,Independent,,0.5,False,False,True
+1938,house,New York,NY,42,,Connie Wilson,Socialist,,0.3,False,False,True
+1938,house,New York,NY,43,,Daniel A. Reed,Republican,,65.3,True,True,False
+1938,house,New York,NY,43,,Samuel A. Carlson,Democratic,,34.7,False,False,False
+1938,house,New York,NY,AL,,Caroline O'Day,Democratic,,26.7,True,True,False
+1938,house,New York,NY,AL,,Matthew J. Merritt,Democratic,,26.5,True,False,False
+1938,house,New York,NY,AL,,Helen Z. M. Rodgers,Republican,,22.6,False,False,False
+1938,house,New York,NY,AL,,"Richard B. Scandrett, Jr.",Republican,,22.3,False,False,False
+1938,house,New York,NY,AL,,Israel Amter,Communist,,1.2,False,False,False
+1938,house,New York,NY,AL,,Edna Mitchell Blue,Socialist,,0.3,False,False,False
+1938,house,New York,NY,AL,,Brendan Sexton,Socialist,,0.3,False,False,False
+1938,house,New York,NY,AL,,Jeremiah D. Crowley,Industrial Government,,0.06,False,False,False
+1938,house,New York,NY,AL,,William Herlet,Industrial Government,,0.05,False,False,False
+1938,house,North Carolina,NC,1,,Lindsay C. Warren,Democratic,,100.0,True,True,False
+1938,house,North Carolina,NC,2,,John H. Kerr,Democratic,,100.0,True,True,False
+1938,house,North Carolina,NC,3,,Graham Arthur Barden,Democratic,,100.0,True,True,False
+1938,house,North Carolina,NC,4,,Harold D. Cooley,Democratic,,63.9,True,True,False
+1938,house,North Carolina,NC,4,,Willis G. Briggs,Republican,,36.1,False,False,False
+1938,house,North Carolina,NC,5,,Alonzo Dillard Folger,Democratic,,69.7,True,False,True
+1938,house,North Carolina,NC,5,,John W. Kurfees Jr.,Republican,,30.3,False,False,True
+1938,house,North Carolina,NC,6,,Carl T. Durham,Democratic,,75.2,True,False,True
+1938,house,North Carolina,NC,6,,Oscar G. Barker,Independent,,24.8,False,False,True
+1938,house,North Carolina,NC,7,,J. Bayard Clark,Democratic,,75.7,True,True,False
+1938,house,North Carolina,NC,7,,Edgar C. Geddie,Republican,,24.3,False,False,False
+1938,house,North Carolina,NC,8,,William O. Burgin,Democratic,,55.2,True,False,True
+1938,house,North Carolina,NC,8,,John R. Jones,Republican,,44.8,False,False,True
+1938,house,North Carolina,NC,9,,Robert L. Doughton,Democratic,,60.9,True,True,False
+1938,house,North Carolina,NC,9,,Monroe Adams,Republican,,39.1,False,False,False
+1938,house,North Carolina,NC,10,,Alfred L. Bulwinkle,Democratic,,56.5,True,True,False
+1938,house,North Carolina,NC,10,,Frank C. Patton,Republican,,43.5,False,False,False
+1938,house,North Carolina,NC,11,,Zebulon Weaver,Democratic,,63.8,True,True,False
+1938,house,North Carolina,NC,11,,Vonno L. Gudger,Republican,,36.2,False,False,False
+1938,house,North Dakota,ND,AL,,William Lemke,Nonpartisan League,,37.3,True,True,False
+1938,house,North Dakota,ND,AL,,Usher L. Burdick,Nonpartisan League,,36.3,True,False,False
+1938,house,North Dakota,ND,AL,,Howard I. Henry,Democratic,,13.4,False,False,False
+1938,house,North Dakota,ND,AL,,Alfred S. Dale,Democratic,,10.9,False,False,False
+1938,house,North Dakota,ND,AL,,J. B. Field,Independent,,2.0,False,False,False
+1938,house,Ohio,OH,1,,Charles H. Elston,Republican,,58.2,True,False,False
+1938,house,Ohio,OH,1,,Joseph A. Dixon,Democratic,,41.8,False,True,False
+1938,house,Ohio,OH,2,,William E. Hess,Republican,,59.0,True,False,False
+1938,house,Ohio,OH,2,,Herbert S. Bigelow,Democratic,,41.0,False,True,False
+1938,house,Ohio,OH,3,,Harry N. Routzohn,Republican,,55.8,True,False,False
+1938,house,Ohio,OH,3,,Byron B. Harlan,Democratic,,44.2,False,True,False
+1938,house,Ohio,OH,4,,Robert F. Jones,Republican,,59.8,True,False,True
+1938,house,Ohio,OH,4,,William B. Swonger,Democratic,,35.3,False,False,True
+1938,house,Ohio,OH,4,,John C. Fisher,Independent,,4.9,False,False,True
+1938,house,Ohio,OH,5,,Cliff Clevenger,Republican,,56.8,True,False,False
+1938,house,Ohio,OH,5,,Frank C. Kniffin,Democratic,,43.2,False,True,False
+1938,house,Ohio,OH,6,,James G. Polk,Democratic,,50.5,True,True,False
+1938,house,Ohio,OH,6,,Emory F. Smith,Republican,,49.5,False,False,False
+1938,house,Ohio,OH,7,,Clarence J. Brown,Republican,,57.6,True,False,False
+1938,house,Ohio,OH,7,,Arthur W. Aleshire,Democratic,,42.4,False,True,False
+1938,house,Ohio,OH,8,,Frederick C. Smith,Republican,,54.5,True,False,False
+1938,house,Ohio,OH,8,,Thomas B. Fletcher,Democratic,,45.5,False,True,False
+1938,house,Ohio,OH,9,,John F. Hunter,Democratic,,50.4,True,True,False
+1938,house,Ohio,OH,9,,Homer A. Ramey,Republican,,49.6,False,False,False
+1938,house,Ohio,OH,10,,Thomas A. Jenkins,Republican,,66.0,True,True,False
+1938,house,Ohio,OH,10,,Elsie Stanton,Democratic,,34.0,False,False,False
+1938,house,Ohio,OH,11,,Harold K. Claypool,Democratic,,52.1,True,True,False
+1938,house,Ohio,OH,11,,Tom P. White,Republican,,47.9,False,False,False
+1938,house,Ohio,OH,12,,John M. Vorys,Republican,,50.9,True,False,False
+1938,house,Ohio,OH,12,,Arthur P. Lamneck,Democratic,,49.1,False,True,False
+1938,house,Ohio,OH,13,,Dudley A. White,Republican,,69.4,True,True,False
+1938,house,Ohio,OH,13,,William L. Fiesinger,Democratic,,30.6,False,False,False
+1938,house,Ohio,OH,14,,Dow W. Harter,Democratic,,53.3,True,True,False
+1938,house,Ohio,OH,14,,Edward S. Sheck,Republican,,46.7,False,False,False
+1938,house,Ohio,OH,15,,Robert T. Secrest,Democratic,,52.3,True,True,False
+1938,house,Ohio,OH,15,,P. W. Griffiths,Republican,,47.7,False,False,False
+1938,house,Ohio,OH,16,,James Seccombe,Republican,,50.7,True,False,False
+1938,house,Ohio,OH,16,,William R. Thom,Democratic,,49.3,False,True,False
+1938,house,Ohio,OH,17,,William A. Ashbrook,Democratic,,52.6,True,True,False
+1938,house,Ohio,OH,17,,Walter B. Woodward,Republican,,47.4,False,False,False
+1938,house,Ohio,OH,18,,Earl R. Lewis,Republican,,50.3,True,False,False
+1938,house,Ohio,OH,18,,Lawrence E. Imhoff,Democratic,,49.7,False,True,False
+1938,house,Ohio,OH,19,,Michael J. Kirwan,Democratic,,52.4,True,True,False
+1938,house,Ohio,OH,19,,William P. Barnum,Republican,,47.6,False,False,False
+1938,house,Ohio,OH,20,,Martin L. Sweeney,Democratic,,70.4,True,True,False
+1938,house,Ohio,OH,20,,Thomas F. McCafferty,Republican,,29.6,False,False,False
+1938,house,Ohio,OH,21,,Robert Crosser,Democratic,,68.7,True,True,False
+1938,house,Ohio,OH,21,,J. E. Chizek,Republican,,31.3,False,False,False
+1938,house,Ohio,OH,22,,Chester C. Bolton,Republican,,55.5,True,False,False
+1938,house,Ohio,OH,22,,Anthony A. Fleger,Democratic,,44.5,False,True,False
+1938,house,Ohio,OH,AL,,George H. Bender,Republican,,27.0,True,False,False
+1938,house,Ohio,OH,AL,,L. L. Marshall,Republican,,25.2,True,False,False
+1938,house,Ohio,OH,AL,,Stephen M. Young,Democratic,,24.5,False,False,False
+1938,house,Ohio,OH,AL,,John McSweeney,Democratic,,23.3,False,False,False
+1938,house,Oklahoma,OK,1,,Wesley E. Disney,Democratic,,63.2,True,True,False
+1938,house,Oklahoma,OK,1,,A. M. Armstrong,Republican,,36.3,False,False,False
+1938,house,Oklahoma,OK,1,,Martha A. Morrison,Prohibition,,0.3,False,False,False
+1938,house,Oklahoma,OK,1,,Philip J. Dickerson,Independent,,0.2,False,False,False
+1938,house,Oklahoma,OK,2,,John Conover Nichols,Democratic,,71.3,True,True,False
+1938,house,Oklahoma,OK,2,,Bruce L. Keenan,Republican,,28.7,False,False,False
+1938,house,Oklahoma,OK,3,,Wilburn Cartwright,Democratic,,85.4,True,True,False
+1938,house,Oklahoma,OK,3,,Frank D. McSherry,Republican,,14.6,False,False,False
+1938,house,Oklahoma,OK,4,,Lyle Boren,Democratic,,71.6,True,True,False
+1938,house,Oklahoma,OK,4,,Ed Ball,Republican,,28.4,False,False,False
+1938,house,Oklahoma,OK,5,,Mike Monroney,Democratic,,71.9,True,False,True
+1938,house,Oklahoma,OK,5,,Harlan Deupree,Republican,,27.6,False,False,True
+1938,house,Oklahoma,OK,5,,Lizzie Varvil,Prohibition,,0.5,False,False,True
+1938,house,Oklahoma,OK,6,,Jed Johnson,Democratic,,69.5,True,True,False
+1938,house,Oklahoma,OK,6,,James F. Rowell,Republican,,30.1,False,False,False
+1938,house,Oklahoma,OK,6,,Margaret E. W. Austin,Prohibition,,0.4,False,False,False
+1938,house,Oklahoma,OK,7,,Sam C. Massingale,Democratic,,76.1,True,True,False
+1938,house,Oklahoma,OK,7,,A. L. Smith,Republican,,23.9,False,False,False
+1938,house,Oklahoma,OK,8,,Phil Ferguson,Democratic,,50.2,True,True,False
+1938,house,Oklahoma,OK,8,,Charles E. Knox,Republican,,49.2,False,False,False
+1938,house,Oklahoma,OK,8,,H. P. Hunt,Prohibition,,0.7,False,False,False
+1938,house,Oklahoma,OK,AL,,Will Rogers,Democratic,,68.7,True,True,False
+1938,house,Oklahoma,OK,AL,,R. R. Wilson,Republican,,30.9,False,False,False
+1938,house,Oklahoma,OK,AL,,E. W. Fickinger,Prohibition,,0.4,False,False,False
+1938,house,Oregon,OR,1,,James W. Mott,Republican,,70.7,True,True,False
+1938,house,Oregon,OR,1,,Andrew C. Burk,Democratic,,29.3,False,False,False
+1938,house,Oregon,OR,2,,Walter M. Pierce,Democratic,,57.9,True,True,False
+1938,house,Oregon,OR,2,,U.S. Ballentine,Republican,,42.1,False,False,False
+1938,house,Oregon,OR,3,,Homer D. Angell,Republican,,50.9,True,False,False
+1938,house,Oregon,OR,3,,Nan Wood Honeyman,Democratic,,49.1,False,True,False
+1938,house,Pennsylvania,PA,1,,Leon Sacks,Democratic,,53.5,True,True,False
+1938,house,Pennsylvania,PA,1,,John Alessandroni,Republican,,46.5,False,False,False
+1938,house,Pennsylvania,PA,2,,James P. McGranery,Democratic,,52.4,True,True,False
+1938,house,Pennsylvania,PA,2,,Edward W. Henry,Republican,,47.0,False,False,False
+1938,house,Pennsylvania,PA,2,,Charles W. Drummond,Other,,0.4,False,False,False
+1938,house,Pennsylvania,PA,2,,Reginald B. Naugle,Independent,,0.2,False,False,False
+1938,house,Pennsylvania,PA,3,,Michael J. Bradley,Democratic,,52.0,True,True,False
+1938,house,Pennsylvania,PA,3,,William T. Connor,Republican,,48.0,False,False,False
+1938,house,Pennsylvania,PA,4,,J. Burrwood Daly,Democratic,,53.8,True,True,False
+1938,house,Pennsylvania,PA,4,,Edward F. Roberts,Republican,,45.6,False,False,False
+1938,house,Pennsylvania,PA,4,,Frank A. Warner,Other,,0.4,False,False,False
+1938,house,Pennsylvania,PA,4,,Donato Di Iorio,States' Rights,,0.2,False,False,False
+1938,house,Pennsylvania,PA,5,,Fred C. Gartner,Republican,,52.5,True,False,False
+1938,house,Pennsylvania,PA,5,,Frank J. G. Dorsey,Democratic,,46.5,False,True,False
+1938,house,Pennsylvania,PA,5,,Edward M. Walsh,Other,,0.9,False,False,False
+1938,house,Pennsylvania,PA,5,,Anthony De Lisi,States' Rights,,0.09,False,False,False
+1938,house,Pennsylvania,PA,6,,Francis J. Myers,Democratic,,49.9,True,False,False
+1938,house,Pennsylvania,PA,6,,"J. Howard Berry, Jr.",Republican,,47.5,False,False,False
+1938,house,Pennsylvania,PA,6,,Michael J. Stack,Other,,2.6,False,True,False
+1938,house,Pennsylvania,PA,7,,George P. Darrow,Republican,,59.3,True,False,False
+1938,house,Pennsylvania,PA,7,,Ira W. Drew,Democratic,,40.2,False,True,False
+1938,house,Pennsylvania,PA,7,,John J. King,Other,,0.5,False,False,False
+1938,house,Pennsylvania,PA,8,,James Wolfenden,Republican,,67.6,True,True,False
+1938,house,Pennsylvania,PA,8,,C. Fenno Hoffman,Democratic,,32.4,False,False,False
+1938,house,Pennsylvania,PA,9,,Charles L. Gerlach,Republican,,56.7,True,False,False
+1938,house,Pennsylvania,PA,9,,Oliver W. Frey,Democratic,,43.1,False,True,False
+1938,house,Pennsylvania,PA,9,,B. H. Maybury,Prohibition,,0.2,False,False,False
+1938,house,Pennsylvania,PA,10,,J. Roland Kinzer,Republican,,64.1,True,True,False
+1938,house,Pennsylvania,PA,10,,Thomas Jefferson McClelland,Democratic,,35.7,False,False,False
+1938,house,Pennsylvania,PA,10,,Harry P. Young,Other,,0.2,False,False,False
+1938,house,Pennsylvania,PA,11,,Patrick J. Boland,Democratic,,52.5,True,True,False
+1938,house,Pennsylvania,PA,11,,William F. Hallstead,Republican,,47.5,False,False,False
+1938,house,Pennsylvania,PA,12,,J. Harold Flannery,Democratic,,51.2,True,True,False
+1938,house,Pennsylvania,PA,12,,Michael A. Yeosock,Republican,,48.8,False,False,False
+1938,house,Pennsylvania,PA,13,,Ivor D. Fenton,Republican,,53.2,True,False,False
+1938,house,Pennsylvania,PA,13,,James H. Gildea,Democratic,,46.8,False,True,False
+1938,house,Pennsylvania,PA,14,,Guy L. Moser,Democratic,,46.7,True,True,False
+1938,house,Pennsylvania,PA,14,,John C. Evans,Republican,,41.9,False,False,False
+1938,house,Pennsylvania,PA,14,,Raymond S. Hofses,Socialist,,11.4,False,False,False
+1938,house,Pennsylvania,PA,15,,Albert G. Rutherford,Republican,,61.6,True,True,False
+1938,house,Pennsylvania,PA,15,,Harry M. Turrell,Democratic,,37.9,False,False,False
+1938,house,Pennsylvania,PA,15,,Judson N. Bailey,Prohibition,,0.5,False,False,False
+1938,house,Pennsylvania,PA,16,,Robert F. Rich,Republican,,61.5,True,True,False
+1938,house,Pennsylvania,PA,16,,Paul A. Rothfuss,Democratic,,37.8,False,False,False
+1938,house,Pennsylvania,PA,16,,Emma McNaughton,Prohibition,,0.5,False,False,False
+1938,house,Pennsylvania,PA,16,,George Rogers,Other,,0.2,False,False,False
+1938,house,Pennsylvania,PA,17,,J. William Ditter,Republican,,68.5,True,True,False
+1938,house,Pennsylvania,PA,17,,Carroll L. Rutter,Democratic,,31.2,False,False,False
+1938,house,Pennsylvania,PA,17,,Frank P. Klesichte,Other,,0.3,False,False,False
+1938,house,Pennsylvania,PA,18,,Richard M. Simpson,Republican,,60.5,True,True,False
+1938,house,Pennsylvania,PA,18,,Richard L. Schroyer,Democratic,,39.5,False,False,False
+1938,house,Pennsylvania,PA,19,,John C. Kunkel,Republican,,55.0,True,False,False
+1938,house,Pennsylvania,PA,19,,Guy J. Swope,Democratic,,45.0,False,True,False
+1938,house,Pennsylvania,PA,19,,Frank Tate,Independent,,0.004,False,False,False
+1938,house,Pennsylvania,PA,19,,George I. Pieffer,Prohibition,,0.001,False,False,False
+1938,house,Pennsylvania,PA,20,,Benjamin Jarrett,Republican,,61.1,True,True,False
+1938,house,Pennsylvania,PA,20,,Earl H. Beshlin,Democratic,,37.7,False,False,False
+1938,house,Pennsylvania,PA,20,,Maude G. Reynolds,Prohibition,,1.2,False,False,False
+1938,house,Pennsylvania,PA,21,,Francis E. Walter,Democratic,,50.2,True,True,False
+1938,house,Pennsylvania,PA,21,,Alonzo L. Reinhard,Republican,,48.4,False,False,False
+1938,house,Pennsylvania,PA,21,,Everett Kent,Other,,1.4,False,False,False
+1938,house,Pennsylvania,PA,22,,Chester H. Gross,Republican,,50.3,True,False,False
+1938,house,Pennsylvania,PA,22,,Harry L. Haines,Democratic,,49.7,False,True,False
+1938,house,Pennsylvania,PA,23,,James E. Van Zandt,Republican,,57.1,True,False,False
+1938,house,Pennsylvania,PA,23,,Don Gingery,Democratic,,42.5,False,True,False
+1938,house,Pennsylvania,PA,23,,Aaron N. Work,Prohibition,,0.4,False,False,False
+1938,house,Pennsylvania,PA,24,,J. Buell Snyder,Democratic,,51.2,True,True,False
+1938,house,Pennsylvania,PA,24,,J. C. Glassburn,Republican,,48.5,False,False,False
+1938,house,Pennsylvania,PA,24,,Minnie B. Shaulis,Prohibition,,0.3,False,False,False
+1938,house,Pennsylvania,PA,25,,Charles I. Faddis,Democratic,,53.1,True,True,False
+1938,house,Pennsylvania,PA,25,,Warren S. Burchinal,Republican,,46.9,False,False,False
+1938,house,Pennsylvania,PA,26,,Louis E. Graham,Republican,,52.4,True,False,False
+1938,house,Pennsylvania,PA,26,,Charles R. Eckert,Democratic,,46.8,False,True,False
+1938,house,Pennsylvania,PA,26,,Samuel R. Maitland,Prohibition,,0.8,False,False,False
+1938,house,Pennsylvania,PA,27,,Harve Tibbott,Republican,,55.8,True,False,False
+1938,house,Pennsylvania,PA,27,,Joseph Anthony Gray,Democratic,,43.6,False,True,False
+1938,house,Pennsylvania,PA,27,,James T. Malloy,Other,,0.4,False,False,False
+1938,house,Pennsylvania,PA,27,,Nathan Asbel,Socialist,,0.3,False,False,False
+1938,house,Pennsylvania,PA,28,,Robert G. Allen,Democratic,,53.9,True,True,False
+1938,house,Pennsylvania,PA,28,,Roy C. McKenna,Republican,,45.8,False,False,False
+1938,house,Pennsylvania,PA,28,,S. W. Bierer,Prohibition,,0.4,False,False,False
+1938,house,Pennsylvania,PA,29,,Robert L. Rodgers,Republican,,53.8,True,False,False
+1938,house,Pennsylvania,PA,29,,Norbert James Fitzgerald,Democratic,,45.6,False,False,False
+1938,house,Pennsylvania,PA,29,,Ira M. Ramsey,Prohibition,,0.6,False,False,False
+1938,house,Pennsylvania,PA,30,,Robert J. Corbett,Republican,,51.2,True,False,False
+1938,house,Pennsylvania,PA,30,,Peter J. De Muth,Democratic,,48.8,False,True,False
+1938,house,Pennsylvania,PA,31,,John McDowell,Republican,,50.7,True,False,False
+1938,house,Pennsylvania,PA,31,,James L. Quinn,Democratic,,48.8,False,True,False
+1938,house,Pennsylvania,PA,31,,M. J. Dibble,Prohibition,,0.5,False,False,False
+1938,house,Pennsylvania,PA,32,,Herman P. Eberharter,Democratic,,63.3,True,True,False
+1938,house,Pennsylvania,PA,32,,Jacob E. Klason,Republican,,36.1,False,False,False
+1938,house,Pennsylvania,PA,32,,Stanley K. Kazorski,Other,,0.6,False,False,False
+1938,house,Pennsylvania,PA,33,,Joseph A. McArdle,Democratic,,51.6,True,False,True
+1938,house,Pennsylvania,PA,33,,James I. Marsh,Republican,,48.4,False,False,True
+1938,house,Pennsylvania,PA,34,,Matthew A. Dunn,Democratic,,50.0,True,True,False
+1938,house,Pennsylvania,PA,34,,Robert B. McKinley,Republican,,49.6,False,False,False
+1938,house,Pennsylvania,PA,34,,"Walter L. Bouve, Jr.",Independent,,0.4,False,False,False
+1938,house,Rhode Island,RI,1,,Charles Risk,Republican,,50.3,True,False,False
+1938,house,Rhode Island,RI,1,,Aime Forand,Democratic,,49.7,False,True,False
+1938,house,Rhode Island,RI,2,,Harry Sandager,Republican,,57.0,True,False,True
+1938,house,Rhode Island,RI,2,,Edward J. Fenelon Jr.,Democratic,,43.0,False,False,True
+1938,house,South Carolina,SC,1,7788,Thomas S. McMillan,Democratic,7649,98.2,True,True,False
+1938,house,South Carolina,SC,1,7788,B. L. Hendrix,Republican,136,1.7,False,False,False
+1938,house,South Carolina,SC,1,7788,J. E. D. Meyer,Independent,,0.04,False,False,False
+1938,house,South Carolina,SC,2,7325,Hampton P. Fulmer,Democratic,7236,98.8,True,True,False
+1938,house,South Carolina,SC,2,7325,B. L. Hendrix,Republican,,0.8,False,False,False
+1938,house,South Carolina,SC,2,7325,S. J. Leaphart,Independent,26,0.4,False,False,False
+1938,house,South Carolina,SC,3,10071,Butler B. Hare,Democratic,10028,99.6,True,False,False
+1938,house,South Carolina,SC,3,10071,O. B. Menees,Republican,43,0.4,False,False,False
+1938,house,South Carolina,SC,4,9053,Joseph R. Bryson,Democratic,8995,99.4,True,False,False
+1938,house,South Carolina,SC,4,9053,H. A. Costner,Republican,58,0.6,False,False,False
+1938,house,South Carolina,SC,5,6204,James P. Richards,Democratic,6191,99.8,True,True,False
+1938,house,South Carolina,SC,5,6204,A. B. McCraw,Republican,13,0.2,False,False,False
+1938,house,South Carolina,SC,6,5755,John L. McMillan,Democratic,5707,99.2,True,False,True
+1938,house,South Carolina,SC,6,5755,W. S. Thompson,Independent,48,0.8,False,False,True
+1938,house,South Dakota,SD,1,,Karl Mundt,Republican,,54.0,True,False,True
+1938,house,South Dakota,SD,1,,Emil Loriks,Democratic,,46.0,False,False,True
+1938,house,South Dakota,SD,2,,Francis Case,Republican,,61.4,True,True,False
+1938,house,South Dakota,SD,2,,Theodore B. Werner,Democratic,,38.6,False,False,False
+1938,house,Tennessee,TN,1,,B. Carroll Reece,Republican,,58.0,True,True,False
+1938,house,Tennessee,TN,1,,John A. Armstrong,Democratic,,26.5,False,False,False
+1938,house,Tennessee,TN,1,,James P. Kivett,Independent,,10.9,False,False,False
+1938,house,Tennessee,TN,1,,Charles W. Clark,Independent,,3.1,False,False,False
+1938,house,Tennessee,TN,1,,G. M. Smith,Independent,,1.5,False,False,False
+1938,house,Tennessee,TN,2,,J. Will Taylor,Republican,,64.1,True,True,False
+1938,house,Tennessee,TN,2,,Judd Acuff,Independent,,32.0,False,False,False
+1938,house,Tennessee,TN,2,,Calvin Rutherford,Independent,,4.0,False,False,False
+1938,house,Tennessee,TN,3,,Sam D. McReynolds,Democratic,,73.9,True,True,False
+1938,house,Tennessee,TN,3,,Joe E. Benson,Republican,,26.1,False,False,False
+1938,house,Tennessee,TN,4,,Albert Gore Sr.,Democratic,,100.0,True,False,True
+1938,house,Tennessee,TN,5,,Joseph W. Byrns Jr.,Democratic,,90.6,True,False,False
+1938,house,Tennessee,TN,5,,William I. Love,Independent,,9.4,False,False,False
+1938,house,Tennessee,TN,6,,Clarence W. Turner,Democratic,,82.2,True,True,False
+1938,house,Tennessee,TN,6,,John V. McDonough,Independent,,11.2,False,False,False
+1938,house,Tennessee,TN,6,,Maurice G. Riding,Independent,,6.6,False,False,False
+1938,house,Tennessee,TN,7,,Herron C. Pearson,Democratic,,100.0,True,True,False
+1938,house,Tennessee,TN,8,,Jere Cooper,Democratic,,95.4,True,True,False
+1938,house,Tennessee,TN,8,,David I. Nunn,Republican,,4.6,False,False,False
+1938,house,Tennessee,TN,9,,Walter Chandler,Democratic,,98.4,True,True,False
+1938,house,Tennessee,TN,9,,Edgar L. Clark,Independent,,1.6,False,False,False
+1938,house,Texas,TX,1,,Wright Patman,Democratic,,98.8,True,True,False
+1938,house,Texas,TX,1,,Joe C. Hailey,Republican,,1.2,False,False,False
+1938,house,Texas,TX,2,,Martin Dies Jr.,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,3,,Lindley Beckworth,Democratic,,100.0,True,False,False
+1938,house,Texas,TX,4,,Sam Rayburn,Democratic,,97.9,True,True,False
+1938,house,Texas,TX,4,,Ross E. Johnson,Republican,,2.1,False,False,False
+1938,house,Texas,TX,5,,Hatton W. Sumners,Democratic,,95.0,True,True,False
+1938,house,Texas,TX,5,,Heber Page,Republican,,4.7,False,False,False
+1938,house,Texas,TX,5,,H. T. Healey,Independent,,0.3,False,False,False
+1938,house,Texas,TX,6,,Luther A. Johnson,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,7,,Nat Patton,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,8,,Albert Thomas,Democratic,,98.3,True,True,False
+1938,house,Texas,TX,8,,John A. Deering,Republican,,1.7,False,False,False
+1938,house,Texas,TX,9,,Joseph J. Mansfield,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,10,,Lyndon B. Johnson,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,11,,William R. Poage,Democratic,,98.6,True,True,False
+1938,house,Texas,TX,11,,D. E. Wooley,Republican,,1.4,False,False,False
+1938,house,Texas,TX,12,,Fritz G. Lanham,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,13,,Ed Gossett,Democratic,,98.6,True,False,False
+1938,house,Texas,TX,13,,Adolph Lohman,Republican,,1.4,False,False,False
+1938,house,Texas,TX,14,,Richard M. Kleberg,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,15,,Milton H. West,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,16,,R. Ewing Thomason,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,17,,Clyde L. Garrett,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,18,,John Marvin Jones,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,19,,George H. Mahon,Democratic,,100.0,True,True,False
+1938,house,Texas,TX,20,,Paul J. Kilday,Democratic,,100.0,True,False,False
+1938,house,Texas,TX,21,,Charles L. South,Democratic,,93.0,True,True,False
+1938,house,Texas,TX,21,,Max J. Bierschwale,Republican,,7.0,False,False,False
+1938,house,Utah,UT,1,,Abe Murdock,Democratic,,59.7,True,True,False
+1938,house,Utah,UT,1,,LeRoy B. Young,Republican,,40.3,False,False,False
+1938,house,Utah,UT,2,,J. W. Robinson,Democratic,,62.3,True,True,False
+1938,house,Utah,UT,2,,Dean F. Brayton,Republican,,37.7,False,False,False
+1938,house,Vermont,VT,AL,,Charles Albert Plumley,Republican,,64.0,True,True,False
+1938,house,Vermont,VT,AL,,James Patrick Leamy,Democratic,,36.0,False,False,False
+1938,house,Virginia,VA,1,,S. Otis Bland,Democratic,,100.0,True,True,False
+1938,house,Virginia,VA,2,,Colgate Darden,Democratic,,87.7,True,False,False
+1938,house,Virginia,VA,2,,Carl P. Spaeth,Independent,,12.3,False,False,False
+1938,house,Virginia,VA,3,,Dave E. Satterfield Jr.,Democratic,,100.0,True,True,False
+1938,house,Virginia,VA,4,,Patrick H. Drewry,Democratic,,100.0,True,True,False
+1938,house,Virginia,VA,5,,Thomas G. Burch,Democratic,,100.0,True,True,False
+1938,house,Virginia,VA,6,,Clifton A. Woodrum,Democratic,,55.9,True,True,False
+1938,house,Virginia,VA,6,,Fred W. McWane,Republican,,44.1,False,False,False
+1938,house,Virginia,VA,7,,A. Willis Robertson,Democratic,,63.9,True,True,False
+1938,house,Virginia,VA,7,,Charles C. Leap,Republican,,36.1,False,False,False
+1938,house,Virginia,VA,8,,Howard W. Smith,Democratic,,100.0,True,True,False
+1938,house,Virginia,VA,9,,John W. Flannagan Jr.,Democratic,,66.7,True,True,False
+1938,house,Virginia,VA,9,,L. E. Gulliford,Republican,,33.3,False,False,False
+1938,house,Washington,WA,1,,Warren Magnuson,Democratic,,61.7,True,True,False
+1938,house,Washington,WA,1,,Matthew W. Hill,Republican,,38.3,False,False,False
+1938,house,Washington,WA,2,,Monrad Wallgren,Democratic,,61.5,True,True,False
+1938,house,Washington,WA,2,,Charles A. Sather,Republican,,38.5,False,False,False
+1938,house,Washington,WA,3,,Martin F. Smith,Democratic,,60.3,True,True,False
+1938,house,Washington,WA,3,,Walter S. Talbott,Republican,,39.7,False,False,False
+1938,house,Washington,WA,4,,Knute Hill,Democratic,,50.4,True,True,False
+1938,house,Washington,WA,4,,Frank Miller,Republican,,49.6,False,False,False
+1938,house,Washington,WA,5,,Charles H. Leavy,Democratic,,57.1,True,True,False
+1938,house,Washington,WA,5,,Norman A. Ericson,Republican,,42.0,False,False,False
+1938,house,Washington,WA,5,,John F. McKay,Ind Soc,,0.9,False,False,False
+1938,house,Washington,WA,6,,John M. Coffee,Democratic,,73.0,True,True,False
+1938,house,Washington,WA,6,,Willard V. Young,Republican,,27.0,False,False,False
+1938,house,West Virginia,WV,1,,A. C. Schiffler,Republican,,54.8,True,False,False
+1938,house,West Virginia,WV,1,,Robert L. Ramsay,Democratic,,45.2,False,True,False
+1938,house,West Virginia,WV,2,,Jennings Randolph,Democratic,,54.6,True,True,False
+1938,house,West Virginia,WV,2,,Melvin C. Snyder,Republican,,45.4,False,False,False
+1938,house,West Virginia,WV,3,,Andrew Edmiston Jr.,Democratic,,55.3,True,True,False
+1938,house,West Virginia,WV,3,,H. Roy Waugh,Republican,,44.7,False,False,False
+1938,house,West Virginia,WV,4,,George W. Johnson,Democratic,,52.9,True,True,False
+1938,house,West Virginia,WV,4,,Raymond V. Humphreys,Republican,,47.1,False,False,False
+1938,house,West Virginia,WV,5,,John Kee,Democratic,,61.3,True,True,False
+1938,house,West Virginia,WV,5,,Hartley Sanders,Republican,,38.7,False,False,False
+1938,house,West Virginia,WV,6,,Joe L. Smith,Democratic,,62.3,True,True,False
+1938,house,West Virginia,WV,6,,R. E. O'Connor,Republican,,37.7,False,False,False
+1938,house,Wisconsin,WI,1,,Stephen Bolles,Republican,,49.1,True,False,True
+1938,house,Wisconsin,WI,1,,Francis H. Wendt,Progressive,,32.0,False,False,True
+1938,house,Wisconsin,WI,1,,Calvin Stewart,Democratic,,15.8,False,False,True
+1938,house,Wisconsin,WI,1,,Harvey C. Hansen,Independent,,2.8,False,False,True
+1938,house,Wisconsin,WI,1,,Thomas O. F. Randolph,Union,,0.2,False,False,True
+1938,house,Wisconsin,WI,2,,Charles Hawks Jr.,Republican,,44.8,True,False,False
+1938,house,Wisconsin,WI,2,,Harry Sauthoff,Progressive,,43.3,False,True,False
+1938,house,Wisconsin,WI,2,,Reinhold A. Gerth,Democratic,,11.9,False,False,False
+1938,house,Wisconsin,WI,3,,Harry W. Griswold,Republican,,50.1,True,False,False
+1938,house,Wisconsin,WI,3,,Gardner R. Withrow,Progressive,,42.0,False,True,False
+1938,house,Wisconsin,WI,3,,Bart E. McGonigle,Democratic,,7.9,False,False,False
+1938,house,Wisconsin,WI,4,,John C. Schafer,Republican,,32.0,True,False,False
+1938,house,Wisconsin,WI,4,,Thad F. Wasielewski,Democratic,,31.4,False,False,False
+1938,house,Wisconsin,WI,4,,Paul Gauer,Progressive,,28.8,False,False,False
+1938,house,Wisconsin,WI,4,,Raymond J. Cannon,Independent,,7.0,False,True,False
+1938,house,Wisconsin,WI,4,,Robert Sprague,Union,,0.7,False,False,False
+1938,house,Wisconsin,WI,5,,Lewis D. Thill,Republican,,43.1,True,False,False
+1938,house,Wisconsin,WI,5,,Thomas O'Malley,Democratic,,28.6,False,True,False
+1938,house,Wisconsin,WI,5,,Alfred Benson,Progressive,,27.4,False,False,False
+1938,house,Wisconsin,WI,5,,Henry W. Otto,Union,,0.9,False,False,False
+1938,house,Wisconsin,WI,6,,Frank B. Keefe,Republican,,53.6,True,False,False
+1938,house,Wisconsin,WI,6,,Michael Reilly,Democratic,,30.1,False,True,False
+1938,house,Wisconsin,WI,6,,Adam F. Poltl,Progressive,,15.4,False,False,False
+1938,house,Wisconsin,WI,6,,Joseph Willihnganz,Union,,0.9,False,False,False
+1938,house,Wisconsin,WI,7,,Reid F. Murray,Republican,,48.9,True,False,False
+1938,house,Wisconsin,WI,7,,Gerald J. Boileau,Progressive,,38.0,False,True,False
+1938,house,Wisconsin,WI,7,,James J. Cavanaugh,Democratic,,11.4,False,False,False
+1938,house,Wisconsin,WI,7,,Herman H. Behm,Independent,,1.7,False,False,False
+1938,house,Wisconsin,WI,8,,Joshua L. Johns,Republican,,36.2,True,False,False
+1938,house,Wisconsin,WI,8,,George J. Schneider,Progressive,,31.5,False,True,False
+1938,house,Wisconsin,WI,8,,John E. Cashman,Democratic,,30.6,False,False,False
+1938,house,Wisconsin,WI,8,,Peter J. Gloudemans,Union,,1.6,False,False,False
+1938,house,Wisconsin,WI,9,,Merlin Hull,Progressive,,53.4,True,True,False
+1938,house,Wisconsin,WI,9,,Hugh M. Jones,Republican,,40.3,False,False,False
+1938,house,Wisconsin,WI,9,,William F. Crane,Democratic,,6.3,False,False,False
+1938,house,Wisconsin,WI,10,,Bernard J. Gehrmann,Progressive,,57.5,True,True,False
+1938,house,Wisconsin,WI,10,,James H. Carroll,Republican,,42.5,False,False,False
+1938,house,Wyoming,WY,AL,,Frank O. Horton,Republican,,52.9,True,False,False
+1938,house,Wyoming,WY,AL,,Paul R. Greever,Democratic,,47.1,False,True,False
+1938,house,Alaska,AK,AL,,Anthony Dimond,Democratic,,63.71,True,True,False
+1938,house,Alaska,AK,AL,,George B. Grigsby,Independent,,19.68,False,False,False
+1938,house,Alaska,AK,AL,,Al White,Republican,,16.61,False,False,False

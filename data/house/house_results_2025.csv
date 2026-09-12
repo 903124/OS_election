@@ -1,31 +1,31 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2025,house,Arizona,AZ,7,Adelita Grijalva,Democratic,68.92,True,False,True
-2025,house,Arizona,AZ,7,Daniel Butierez,Republican,29.42,False,False,True
-2025,house,Arizona,AZ,7,Eduardo Quintana,Green,1.1,False,False,True
-2025,house,Arizona,AZ,7,Richard Grayson,No Labels,0.53,False,False,True
-2025,house,Arizona,AZ,7,Jeff Beasley (write-in),Republican,0.01,False,False,True
-2025,house,Arizona,AZ,7,James Rose (write-in),Independent,0.01,False,False,True
-2025,house,Arizona,AZ,7,Trista di Genova (write-in),Independent,0.0,False,False,True
-2025,house,Arizona,AZ,7,G. Sevillr Hatch (write-in),Republican,0.0,False,False,True
-2025,house,Arizona,AZ,7,Avery Block (write-in),Republican,0.0,False,False,True
-2025,house,Arizona,AZ,7,Daniel Wood (write-in),Independent,0.0,False,False,True
-2025,house,Arizona,AZ,7,Nathaniel James Irwin Sr. (write-in),No Labels,0.0,False,False,True
-2025,house,Arizona,AZ,7,Cheval Lavers (write-in),Democratic,0.0,False,False,True
-2025,house,Florida,FL,1,Jimmy Patronis,Republican,56.86,True,False,True
-2025,house,Florida,FL,1,Gay Valimont,Democratic,42.26,False,False,True
-2025,house,Florida,FL,1,Stephen Broden,Independent,0.81,False,False,True
-2025,house,Florida,FL,1,Write-ins,Write-ins,0.07,False,False,True
-2025,house,Florida,FL,6,Randy Fine,Republican,56.68,True,False,True
-2025,house,Florida,FL,6,Josh Weil,Democratic,42.69,False,False,True
-2025,house,Florida,FL,6,Andrew Parrott,Libertarian,0.36,False,False,True
-2025,house,Florida,FL,6,Randall Terry,Independent,0.27,False,False,True
-2025,house,Florida,FL,6,Write-ins,Write-ins,0.01,False,False,True
-2025,house,Tennessee,TN,7,Matt Van Epps,Republican,53.9,True,False,True
-2025,house,Tennessee,TN,7,Aftyn Behn,Democratic,45.06,False,False,True
-2025,house,Tennessee,TN,7,Jon Thorp,Independent,0.52,False,False,True
-2025,house,Tennessee,TN,7,Terri Christie,Independent,0.34,False,False,True
-2025,house,Tennessee,TN,7,Bobby Dodge,Independent,0.11,False,False,True
-2025,house,Tennessee,TN,7,Robert Sutherby,Independent,0.07,False,False,True
-2025,house,Virginia,VA,11,James Walkinshaw,Democratic,75.14,True,False,True
-2025,house,Virginia,VA,11,Stewart Whitson,Republican,24.67,False,False,True
-2025,house,Virginia,VA,11,,,0.19,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2025,house,Arizona,AZ,7,101776,Adelita Grijalva,Democratic,70148,68.92,True,False,True
+2025,house,Arizona,AZ,7,101776,Daniel Butierez,Republican,29944,29.42,False,False,True
+2025,house,Arizona,AZ,7,101776,Eduardo Quintana,Green,1118,1.1,False,False,True
+2025,house,Arizona,AZ,7,101776,Richard Grayson,No Labels,537,0.53,False,False,True
+2025,house,Arizona,AZ,7,101776,Jeff Beasley (write-in),Republican,9,0.01,False,False,True
+2025,house,Arizona,AZ,7,101776,James Rose (write-in),Independent,8,0.01,False,False,True
+2025,house,Arizona,AZ,7,101776,Trista di Genova (write-in),Independent,3,0.0,False,False,True
+2025,house,Arizona,AZ,7,101776,G. Sevillr Hatch (write-in),Republican,3,0.0,False,False,True
+2025,house,Arizona,AZ,7,101776,Avery Block (write-in),Republican,2,0.0,False,False,True
+2025,house,Arizona,AZ,7,101776,Daniel Wood (write-in),Independent,2,0.0,False,False,True
+2025,house,Arizona,AZ,7,101776,Nathaniel James Irwin Sr. (write-in),No Labels,1,0.0,False,False,True
+2025,house,Arizona,AZ,7,101776,Cheval Lavers (write-in),Democratic,1,0.0,False,False,True
+2025,house,Florida,FL,1,171248,Jimmy Patronis,Republican,97370,56.86,True,False,True
+2025,house,Florida,FL,1,171248,Gay Valimont,Democratic,72375,42.26,False,False,True
+2025,house,Florida,FL,1,171248,Stephen Broden,Independent,1384,0.81,False,False,True
+2025,house,Florida,FL,1,171248,Write-ins,Write-ins,119,0.07,False,False,True
+2025,house,Florida,FL,6,195800,Randy Fine,Republican,110980,56.68,True,False,True
+2025,house,Florida,FL,6,195800,Josh Weil,Democratic,83580,42.69,False,False,True
+2025,house,Florida,FL,6,195800,Andrew Parrott,Libertarian,702,0.36,False,False,True
+2025,house,Florida,FL,6,195800,Randall Terry,Independent,526,0.27,False,False,True
+2025,house,Florida,FL,6,195800,Write-ins,Write-ins,12,0.01,False,False,True
+2025,house,Tennessee,TN,7,180012,Matt Van Epps,Republican,97034,53.9,True,False,True
+2025,house,Tennessee,TN,7,180012,Aftyn Behn,Democratic,81109,45.06,False,False,True
+2025,house,Tennessee,TN,7,180012,Jon Thorp,Independent,932,0.52,False,False,True
+2025,house,Tennessee,TN,7,180012,Terri Christie,Independent,610,0.34,False,False,True
+2025,house,Tennessee,TN,7,180012,Bobby Dodge,Independent,198,0.11,False,False,True
+2025,house,Tennessee,TN,7,180012,Robert Sutherby,Independent,129,0.07,False,False,True
+2025,house,Virginia,VA,11,151180,James Walkinshaw,Democratic,113596,75.14,True,False,True
+2025,house,Virginia,VA,11,151180,Stewart Whitson,Republican,37297,24.67,False,False,True
+2025,house,Virginia,VA,11,151180,,,287,0.19,False,False,True

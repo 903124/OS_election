@@ -1,4 +1,1584 @@
 year,state,state_code,office,candidate,party,percentage,winner,incumbent
+1925,New Jersey,NJ,governor,A. Harry Moore,Democratic,51.87,True,False
+1925,New Jersey,NJ,governor,Arthur Whitney,Politician,47.64,False,False
+1925,New Jersey,NJ,governor,Leo M. Harkins,Socialist,0.22,False,False
+1925,New Jersey,NJ,governor,''Scattering'',,0.27,False,False
+1925,Virginia,VA,governor,Harry F. Byrd,Democratic,74.07,True,False
+1925,Virginia,VA,governor,Samuel Harris Hoge,Republican,25.93,False,False
+1927,Kentucky,KY,governor,Flemon D. Sampson,Republican,52.09,True,False
+1927,Kentucky,KY,governor,J. C. W. Beckham,Democratic,47.91,False,False
+1927,Louisiana,LA,governor,Huey Long,Democratic,96.14,True,False
+1927,Louisiana,LA,governor,Etienne J. Caire,Republican,3.86,False,False
+1927,Mississippi,MS,governor,Theodore G. Bilbo,Democratic,,True,False
+1927,Mississippi,MS,governor,''Unopposed'',,,False,False
+1929,Virginia,VA,governor,John Garland Pollard,Democratic,62.78,True,False
+1929,Virginia,VA,governor,William Moseley Brown,Republican,36.95,False,False
+1929,Virginia,VA,governor,John J. Kafka,Socialist,0.17,False,False
+1929,Virginia,VA,governor,W. A. Rowe,Independent,0.11,False,False
+1931,Kentucky,KY,governor,Ruby Laffoon,Democratic,54.28,True,False
+1931,Kentucky,KY,governor,William B. Harrison,Republican,45.43,False,False
+1931,Kentucky,KY,governor,John J. Thobe,Socialist,0.14,False,False
+1931,Kentucky,KY,governor,Herman Horning,Socialist Labor,0.14,False,False
+1931,Louisiana,LA,governor,Oscar K. Allen,Democratic,99.95,True,False
+1931,Louisiana,LA,governor,''Scattering'',,0.05,False,False
+1931,Mississippi,MS,governor,Martin S. Conner,Democratic,,True,False
+1931,Mississippi,MS,governor,''Unopposed'',,,False,False
+1931,New Jersey,NJ,governor,A. Harry Moore,Democratic,57.82,True,False
+1931,New Jersey,NJ,governor,David Baird Jr.,Republican,39.74,False,False
+1931,New Jersey,NJ,governor,Edmund R. Halsey,Independent,1.06,False,False
+1931,New Jersey,NJ,governor,Owen M. Bruner,National Prohibition,0.64,False,False
+1931,New Jersey,NJ,governor,Herman F. Niessner,Socialist,0.41,False,False
+1931,New Jersey,NJ,governor,John J. Ballam,Communist,0.14,False,False
+1931,New Jersey,NJ,governor,John C. Butterworth,Socialist Labor,0.12,False,False
+1931,New Jersey,NJ,governor,John A. Kelly,Taxpayers,0.08,False,False
+1933,Virginia,VA,governor,George Campbell Peery,Democratic,73.74,True,False
+1933,Virginia,VA,governor,Fred W. McWane,Republican,24.24,False,False
+1933,Virginia,VA,governor,Andrew J. Dunning,Prohibition,0.67,False,False
+1933,Virginia,VA,governor,George C. White,Socialist,0.67,False,False
+1933,Virginia,VA,governor,John Moffett Robinson,Independent,0.53,False,False
+1933,Virginia,VA,governor,W. A. Rowe,Independent,0.16,False,False
+1935,Kentucky,KY,governor,Happy Chandler,Democratic,54.46,True,False
+1935,Kentucky,KY,governor,King Swope,Republican,45.14,False,False
+1935,Kentucky,KY,governor,W. E. Cissna,Prohibition,0.2,False,False
+1935,Kentucky,KY,governor,W. A. Sandefur,Socialist,0.08,False,False
+1935,Kentucky,KY,governor,Herman Horning,Socialist Labor,0.07,False,False
+1935,Kentucky,KY,governor,John J. Thobe,Co-operative Commonwealth,0.05,False,False
+1935,Louisiana,LA,governor,Richard W. Leche,Democratic,,True,False
+1935,Louisiana,LA,governor,''Unopposed'',,,False,False
+1935,Mississippi,MS,governor,Hugh L. White,Democratic,,True,False
+1935,Mississippi,MS,governor,''Unopposed'',,,False,False
+1937,New Jersey,NJ,governor,A. Harry Moore,Democratic,50.84,True,False
+1937,New Jersey,NJ,governor,Lester H. Clee,Republican,47.75,False,False
+1937,New Jersey,NJ,governor,James E. Murray,Independent Labor,0.65,False,False
+1937,New Jersey,NJ,governor,''Scattering'',,0.76,False,False
+1937,Virginia,VA,governor,James Hubert Price,Democratic,82.78,True,False
+1937,Virginia,VA,governor,J. Powell Royall,Republican,15.78,False,False
+1937,Virginia,VA,governor,Donald Burke,Communist,0.78,False,False
+1937,Virginia,VA,governor,James Arthur Edgerton,Prohibition,0.66,False,False
+1939,Kentucky,KY,governor,Keen Johnson,Democratic,56.51,True,True
+1939,Kentucky,KY,governor,King Swope,Republican,43.49,False,False
+1939,Louisiana,LA,governor,Sam H. Jones,Democratic,99.4,True,False
+1939,Louisiana,LA,governor,W. W. Tuttle,Republican,0.6,False,False
+1939,Mississippi,MS,governor,Paul B. Johnson Sr.,Democratic,,True,False
+1939,Mississippi,MS,governor,''Unopposed'',,,False,False
+1940,Arizona,AZ,governor,Sidney Preston Osborn,Democratic,65.5,True,False
+1940,Arizona,AZ,governor,Jerrie W. Lee,Republican,33.8,False,False
+1940,Arizona,AZ,governor,Charles R. Osburn,Prohibition,0.7,False,False
+1940,Arkansas,AR,governor,Homer Adkins,Democratic,91.4,True,False
+1940,Arkansas,AR,governor,H.C. Stump,Republican,8.2,False,False
+1940,Arkansas,AR,governor,Walter S. McNutt,Independent,0.4,False,False
+1940,Colorado,CO,governor,Ralph Lawrence Carr,Republican,54.4,True,True
+1940,Colorado,CO,governor,George E. Saunders,Democratic,45.0,False,False
+1940,Colorado,CO,governor,Carle Whitehead,Socialist,0.4,False,False
+1940,Colorado,CO,governor,Laurence W. Cofman,Prohibition,0.3,False,False
+1940,Connecticut,CT,governor,Robert A. Hurley,Democratic,49.5,True,False
+1940,Connecticut,CT,governor,Raymond E. Baldwin,Republican,47.8,False,True
+1940,Connecticut,CT,governor,Jasper McLevy,Socialist,2.3,False,False
+1940,Connecticut,CT,governor,Joseph Mackay,Labor,0.2,False,False
+1940,Connecticut,CT,governor,Michael A. Russo,Communist,0.2,False,False
+1940,Delaware,DE,governor,Walter W. Bacon,Republican,52.4,True,False
+1940,Delaware,DE,governor,Josiah Marvel Jr.,Democratic,45.4,False,False
+1940,Delaware,DE,governor,Ivan Culbertson,Independent,2.2,False,False
+1940,Florida,FL,governor,Primary runoff:,,,True,False
+1940,Florida,FL,governor,Spessard Holland,Democratic,56.95,True,False
+1940,Florida,FL,governor,Francis P. Whitehair,Democratic,43.05,False,False
+1940,Florida,FL,governor,General election:,,,True,False
+1940,Georgia,GA,governor,Primary election:,,,True,False
+1940,Georgia,GA,governor,Eugene Talmadge,Democratic,51.58,True,False
+1940,Georgia,GA,governor,Columbus Roberts,Democratic,35.95,False,False
+1940,Georgia,GA,governor,Hosea Abit Nix,Democratic,12.47,False,False
+1940,Georgia,GA,governor,General election:,,,True,False
+1940,Georgia,GA,governor,J. L. R. Boyd,Prohibition,0.3,False,False
+1940,Georgia,GA,governor,Joe Wallace,Independent,0.1,False,False
+1940,Idaho,ID,governor,Chase A. Clark,Democratic,50.48,True,False
+1940,Idaho,ID,governor,C. A. Bottolfsen,Republican,49.52,False,True
+1940,Illinois,IL,governor,Dwight H. Green,Republican,53.0,True,False
+1940,Illinois,IL,governor,Harry Hershey,Democratic,46.7,False,False
+1940,Illinois,IL,governor,Arthur McDowell,Socialist,0.18,False,False
+1940,Illinois,IL,governor,Clay Freeman Gaumer,Prohibition,0.16,False,False
+1940,Indiana,IN,governor,Henry F. Schricker,Democratic,49.92,True,False
+1940,Indiana,IN,governor,Glenn R. Hillis,Republican,49.69,False,False
+1940,Indiana,IN,governor,Mary Donovan Hapgood,Socialist,0.27,False,False
+1940,Indiana,IN,governor,Omer S. Whiteman,Prohibition,0.08,False,False
+1940,Indiana,IN,governor,Herman Barcus Barefield,Labor,0.04,False,False
+1940,Iowa,IA,governor,George A. Wilson,Republican,52.7,True,True
+1940,Iowa,IA,governor,John Valentine,Democratic,47.1,False,False
+1940,Iowa,IA,governor,M. M. Heptonstall,Prohibition,0.1,False,False
+1940,Iowa,IA,governor,Charles Speck,Communist,0.1,False,False
+1940,Kansas,KS,governor,Payne Ratner,Republican,49.63,True,True
+1940,Kansas,KS,governor,William H. Burke,Democratic,49.58,False,False
+1940,Kansas,KS,governor,David C. White,Prohibition,0.61,False,False
+1940,Kansas,KS,governor,Ida A. Beloof,Socialist,0.19,False,False
+1940,Maine,ME,governor,Sumner Sewall,Republican,63.8,True,False
+1940,Maine,ME,governor,Fulton J. Redman,Democratic,36.1,False,False
+1940,Maine,ME,governor,Helen Knudsen,Communist,0.1,False,False
+1940,Massachusetts,MA,governor,Leverett Saltonstall,Republican,49.74,True,True
+1940,Massachusetts,MA,governor,Paul A. Dever,Democratic,49.46,False,False
+1940,Massachusetts,MA,governor,Otis Archer Hood,Communist,0.28,False,False
+1940,Massachusetts,MA,governor,Jeffrey W. Campbell,Socialist,0.23,False,False
+1940,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.17,False,False
+1940,Massachusetts,MA,governor,E. Tallmadge Root,Prohibition,0.12,False,False
+1940,Michigan,MI,governor,Murray Van Wagoner,Democratic,53.1,True,False
+1940,Michigan,MI,governor,Luren Dickinson,Republican,46.6,False,True
+1940,Michigan,MI,governor,Seth Whitmore,Socialist,0.2,False,False
+1940,Michigan,MI,governor,Philip Raymond,Communist,0.12,False,False
+1940,Michigan,MI,governor,Ralph Naylor,Labor,0.04,False,False
+1940,Minnesota,MN,governor,Harold Stassen,Republican,52.1,True,True
+1940,Minnesota,MN,governor,Hjalmar Petersen,Farmer-labor,36.6,False,False
+1940,Minnesota,MN,governor,Edward Murphy,Democratic,11.1,False,False
+1940,Minnesota,MN,governor,John William Castle,Industrial,0.25,False,False
+1940,Missouri,MO,governor,Forrest C. Donnell,Republican,50.05,True,False
+1940,Missouri,MO,governor,Larry McDaniel,Democratic,49.85,False,False
+1940,Missouri,MO,governor,Jed A. High,Socialist,0.09,False,False
+1940,Missouri,MO,governor,William Wesley Cox,Labor,0.01,False,False
+1940,Montana,MT,governor,Sam C. Ford,Republican,50.67,True,False
+1940,Montana,MT,governor,Roy E. Ayers,Democratic,48.64,False,True
+1940,Montana,MT,governor,Arvo Fredrickson,Communist,0.7,False,False
+1940,Nebraska,NE,governor,Dwight Griswold,Republican,60.9,True,False
+1940,Nebraska,NE,governor,Terry Carpenter,Democratic,39.1,False,False
+1940,New Hampshire,NH,governor,Robert O. Blood,Republican,50.7,True,False
+1940,New Hampshire,NH,governor,F. Clyde Keefe,Democratic,49.3,False,False
+1940,New Jersey,NJ,governor,Charles Edison,Democratic,51.4,True,False
+1940,New Jersey,NJ,governor,Robert C. Hendrickson,Republican,48.0,False,False
+1940,New Jersey,NJ,governor,Marion Douglas,Socialist,0.4,False,False
+1940,New Jersey,NJ,governor,Manuel Cantor,Communist,0.1,False,False
+1940,New Jersey,NJ,governor,John C. Butterworth,Labor,0.1,False,False
+1940,New Jersey,NJ,governor,Elmo L. Bateman,Prohibition,0.03,False,False
+1940,New Mexico,NM,governor,John E. Miles,Democratic,55.6,True,True
+1940,New Mexico,NM,governor,Maurice Miera,Republican,44.4,False,False
+1940,North Carolina,NC,governor,J. Melville Broughton,Democratic,75.7,True,False
+1940,North Carolina,NC,governor,Robert H. McNeill,Republican,24.3,False,False
+1940,North Dakota,ND,governor,John Moses,Democratic,63.1,True,True
+1940,North Dakota,ND,governor,Jack A. Patterson,Republican,36.9,False,False
+1940,Ohio,OH,governor,John W. Bricker,Republican,55.6,True,True
+1940,Ohio,OH,governor,Martin L. Davey,Democratic,45.5,False,False
+1940,Rhode Island,RI,governor,J. Howard McGrath,Democratic,55.8,True,False
+1940,Rhode Island,RI,governor,William Henry Vanderbilt III,Republican,44.1,False,True
+1940,Rhode Island,RI,governor,Wilfred J. Boissy,Communist,0.1,False,False
+1940,South Dakota,SD,governor,Harlan J. Bushfield,Republican,55.1,True,True
+1940,South Dakota,SD,governor,Lewis W. Bicknell,Democratic,44.9,False,False
+1940,Tennessee,TN,governor,Prentice Cooper,Democratic,72.1,True,True
+1940,Tennessee,TN,governor,C. Arthur Bruce,Republican,27.9,False,False
+1940,Texas,TX,governor,W. Lee O'Daniel,Democratic,94.4,True,True
+1940,Texas,TX,governor,George C. Hopkins,Republican,5.6,False,False
+1940,Texas,TX,governor,Ben H. Lauderdale,Communist,0.03,False,False
+1940,Utah,UT,governor,Herbert B. Maw,Democratic,52.1,True,False
+1940,Utah,UT,governor,Don B. Colton,Republican,47.7,False,False
+1940,Utah,UT,governor,Ada Williams Quinn,Independent,0.24,False,False
+1940,Vermont,VT,governor,William Henry Wills,Republican,64.0,True,False
+1940,Vermont,VT,governor,John McGrath,Democratic,36.0,False,False
+1940,Washington,WA,governor,Arthur B. Langlie,Republican,50.24,True,False
+1940,Washington,WA,governor,Clarence Dill,Democratic,49.49,False,False
+1940,Washington,WA,governor,John Brockway,Communist,0.21,False,False
+1940,Washington,WA,governor,P. J. Ater,Labor,0.06,False,False
+1940,West Virginia,WV,governor,Matthew M. Neely,Democratic,56.4,True,False
+1940,West Virginia,WV,governor,Daniel Boone Dawson,Republican,43.6,False,False
+1940,Wisconsin,WI,governor,Julius P. Heil,Republican,40.67,True,True
+1940,Wisconsin,WI,governor,Orland Steen Loomis,Progressive,39.78,False,False
+1940,Wisconsin,WI,governor,Francis E. McGovern,Democratic,19.29,False,False
+1940,Wisconsin,WI,governor,Fred B. Blair,Communist,0.17,False,False
+1940,Wisconsin,WI,governor,Louis Fisher,Labor,0.08,False,False
+1941,Virginia,VA,governor,Colgate Darden,Democratic,80.58,True,False
+1941,Virginia,VA,governor,Benjamin Muse,Republican,17.88,False,False
+1941,Virginia,VA,governor,Alice Burke,Communist,0.9,False,False
+1941,Virginia,VA,governor,Hilliard Bernstein,Socialist,0.64,False,False
+1942,Alabama,AL,governor,Chauncey Sparks,Democratic,89.0,True,False
+1942,Alabama,AL,governor,Hugh McEniry,Republican,10.5,False,False
+1942,Alabama,AL,governor,Ordway Southard,Communist,0.5,False,False
+1942,Arizona,AZ,governor,Sidney Preston Osborn,Democratic,72.5,True,True
+1942,Arizona,AZ,governor,Jerrie W. Lee,Republican,26.9,False,False
+1942,Arizona,AZ,governor,Charles R. Osburn,Prohibition,0.6,False,False
+1942,Arkansas,AR,governor,Primary election:,,,True,False
+1942,Arkansas,AR,governor,Homer Martin Adkins,Democratic,71.8,True,True
+1942,Arkansas,AR,governor,Fred Keller,Democratic,26.3,False,False
+1942,Arkansas,AR,governor,Bill Neill,Democratic,1.0,False,False
+1942,Arkansas,AR,governor,Vernon Heath,Democratic,0.91,False,False
+1942,Arkansas,AR,governor,General election:,,,True,False
+1942,California,CA,governor,Earl Warren,Republican,57.1,True,False
+1942,California,CA,governor,Culbert Olson,Democratic,41.8,False,True
+1942,California,CA,governor,Nathan T. Porter,Independent,0.7,False,False
+1942,California,CA,governor,Fred Dyster,Prohibition,0.5,False,False
+1942,Colorado,CO,governor,John Charles Vivian,Republican,56.2,True,False
+1942,Colorado,CO,governor,Homer F. Bedford,Democratic,43.4,False,False
+1942,Colorado,CO,governor,William R. Dietrich,Communist,0.4,False,False
+1942,Connecticut,CT,governor,Raymond E. Baldwin,Republican,49.0,True,False
+1942,Connecticut,CT,governor,Robert A. Hurley,Democratic,44.4,False,True
+1942,Connecticut,CT,governor,Jasper McLevy,Socialist,6.0,False,False
+1942,Connecticut,CT,governor,Joseph C. Borden Jr.,Labor,0.7,False,False
+1942,Georgia,GA,governor,Primary election:,,,True,False
+1942,Georgia,GA,governor,Ellis Arnall,Democratic,57.65,True,False
+1942,Georgia,GA,governor,Eugene Talmadge,Democratic,42.35,False,True
+1942,Georgia,GA,governor,General election:,,,True,False
+1942,Idaho,ID,governor,C. A. Bottolfsen,Republican,50.15,True,False
+1942,Idaho,ID,governor,Chase A. Clark,Democratic,49.85,False,True
+1942,Iowa,IA,governor,Bourke B. Hickenlooper,Republican,62.8,True,False
+1942,Iowa,IA,governor,Nelson G. Kraschel,Democratic,37.0,False,False
+1942,Iowa,IA,governor,Ward Hall,Prohibition,0.2,False,False
+1942,Iowa,IA,governor,F. M. Briggs,Independent,0.1,False,False
+1942,Kansas,KS,governor,Andrew Frank Schoeppel,Republican,56.7,True,False
+1942,Kansas,KS,governor,William H. Burke,Democratic,41.8,False,False
+1942,Kansas,KS,governor,David C. White,Prohibition,1.3,False,False
+1942,Kansas,KS,governor,Ida A. Beloof,Socialist,0.3,False,False
+1942,Maine,ME,governor,Sumner Sewall,Republican,66.8,True,True
+1942,Maine,ME,governor,George W. Lane Jr.,Democratic,33.2,False,False
+1942,Maryland,MD,governor,Herbert O'Conor,Democratic,52.6,True,True
+1942,Maryland,MD,governor,Theodore McKeldin,Republican,47.5,False,False
+1942,Massachusetts,MA,governor,Leverett Saltonstall,Republican,54.1,True,True
+1942,Massachusetts,MA,governor,Roger Putnam,Democratic,45.0,False,False
+1942,Massachusetts,MA,governor,Otis Archer Hood,Communist,0.3,False,False
+1942,Massachusetts,MA,governor,Joseph S. Massidda,Socialist,0.2,False,False
+1942,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.2,False,False
+1942,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.1,False,False
+1942,Michigan,MI,governor,Harry Kelly,Republican,52.6,True,False
+1942,Michigan,MI,governor,Murray Van Wagoner,Democratic,46.7,False,True
+1942,Michigan,MI,governor,Frederic S. Goodrich,Prohibition,0.7,False,False
+1942,Minnesota,MN,governor,Harold Stassen,Republican,51.6,True,True
+1942,Minnesota,MN,governor,Hjalmar Petersen,Farmer-labor,37.8,False,False
+1942,Minnesota,MN,governor,John D. Sullivan,Democratic,9.5,False,False
+1942,Minnesota,MN,governor,Martin Mackie,Communist,0.6,False,False
+1942,Minnesota,MN,governor,Harris A. Brandborg,Government,0.5,False,False
+1942,Nebraska,NE,governor,Dwight Griswold,Republican,74.8,True,True
+1942,Nebraska,NE,governor,Charles W. Bryan,Democratic,25.2,False,False
+1942,Nevada,NV,governor,Edward P. Carville,Democratic,60.3,True,True
+1942,Nevada,NV,governor,Aaron V. Tallman,Republican,39.8,False,False
+1942,New Hampshire,NH,governor,Robert O. Blood,Republican,52.2,True,True
+1942,New Hampshire,NH,governor,William J. Neal,Democratic,47.8,False,False
+1942,New Mexico,NM,governor,John J. Dempsey,Democratic,54.6,True,False
+1942,New Mexico,NM,governor,Joseph F. Tondre,Republican,45.5,False,False
+1942,New York,NY,governor,Thomas E. Dewey,Republican,52.1,True,False
+1942,New York,NY,governor,John J. Bennett Jr.,Democratic,36.4,False,False
+1942,New York,NY,governor,Dean Alfange,Labor,9.8,False,False
+1942,New York,NY,governor,Israel Amter,Communist,1.1,False,False
+1942,New York,NY,governor,Coleman B. Cheney,Socialist,0.5,False,False
+1942,New York,NY,governor,Aaron M. Orange,Government,0.1,False,False
+1942,North Dakota,ND,governor,John Moses,Democratic,57.6,True,True
+1942,North Dakota,ND,governor,Oscar W. Hagen,Republican,42.4,False,False
+1942,Ohio,OH,governor,John W. Bricker,Republican,60.5,True,True
+1942,Ohio,OH,governor,John McSweeney,Democratic,39.5,False,False
+1942,Oklahoma,OK,governor,Robert S. Kerr,Democratic,51.9,True,False
+1942,Oklahoma,OK,governor,William Otjen,Republican,47.6,False,False
+1942,Oklahoma,OK,governor,Edward W. Fickinger,Prohibition,0.5,False,False
+1942,Oregon,OR,governor,Earl Snell,Republican,77.9,True,False
+1942,Oregon,OR,governor,Lew Wallace,Democratic,22.1,False,False
+1942,Pennsylvania,PA,governor,Edward Martin,Republican,53.7,True,False
+1942,Pennsylvania,PA,governor,F. Clair Ross,Democratic,45.1,False,False
+1942,Pennsylvania,PA,governor,Dale H. Learn,Prohibition,0.7,False,False
+1942,Pennsylvania,PA,governor,John J. Haluska,Independent,0.3,False,False
+1942,Pennsylvania,PA,governor,Joseph Pirincin,Labor,0.2,False,False
+1942,Rhode Island,RI,governor,J. Howard McGrath,Democratic,58.5,True,True
+1942,Rhode Island,RI,governor,James O. McManus,Republican,41.5,False,False
+1942,South Carolina,SC,governor,Primary election:,,,True,False
+1942,South Carolina,SC,governor,Olin D. Johnston,Democratic,51.8,True,False
+1942,South Carolina,SC,governor,Wyndham Manning,Democratic,48.2,False,False
+1942,South Carolina,SC,governor,General election:,,,True,False
+1942,South Dakota,SD,governor,Merrell Q. Sharpe,Republican,61.5,True,False
+1942,South Dakota,SD,governor,Lewis W. Bicknell,Democratic,38.5,False,False
+1942,Tennessee,TN,governor,Prentice Cooper,Democratic,70.1,True,True
+1942,Tennessee,TN,governor,C. N. Frazier,Republican,29.9,False,False
+1942,Texas,TX,governor,Coke R. Stevenson,Democratic,96.8,True,True
+1942,Texas,TX,governor,C. K. McDowell,Republican,3.2,False,False
+1942,Vermont,VT,governor,William Henry Wills,Republican,77.9,True,True
+1942,Vermont,VT,governor,Park H. Pollard,Democratic,22.1,False,False
+1942,Wisconsin,WI,governor,Orland Steen Loomis,Progressive,49.7,True,False
+1942,Wisconsin,WI,governor,Julius P. Heil,Republican,36.5,False,True
+1942,Wisconsin,WI,governor,William C. Sullivan,Democratic,12.3,False,False
+1942,Wisconsin,WI,governor,Frank P. Zeidler,Socialist,1.4,False,False
+1942,Wisconsin,WI,governor,Fred B. Blair,Independent,0.1,False,False
+1942,Wisconsin,WI,governor,Georgia Cozzini,Independent,0.1,False,False
+1942,Wyoming,WY,governor,Lester C. Hunt,Democratic,51.3,True,False
+1942,Wyoming,WY,governor,Nels H. Smith,Republican,48.7,False,True
+1943,Kentucky,KY,governor,Simeon Willis,Republican,50.49,True,False
+1943,Kentucky,KY,governor,J. Lyter Donaldson,Democratic,48.93,False,False
+1943,Kentucky,KY,governor,Andrew N. Johnson,Prohibition,0.59,False,False
+1943,Louisiana,LA,governor,Jimmie Davis,Democratic,,True,False
+1943,Louisiana,LA,governor,''Unopposed'',,,False,False
+1943,Mississippi,MS,governor,Thomas L. Bailey,Democratic,,True,False
+1943,Mississippi,MS,governor,''Unopposed'',,,False,False
+1943,New Jersey,NJ,governor,Walter Evans Edge,Republican,55.2,True,False
+1943,New Jersey,NJ,governor,Vincent J. Murphy,Democratic,44.08,False,False
+1943,New Jersey,NJ,governor,John C. Butterworth,Socialist Labor,0.4,False,False
+1943,New Jersey,NJ,governor,John Binns,National Prohibition,0.18,False,False
+1943,New Jersey,NJ,governor,Roy V. H. Wilkinson,Socialist,0.14,False,False
+1944,Arizona,AZ,governor,Sidney Preston Osborn,Democratic,77.9,True,True
+1944,Arizona,AZ,governor,Jerrie W. Lee,Republican,21.2,False,False
+1944,Arizona,AZ,governor,Charles R. Osburn,Prohibition,0.9,False,False
+1944,Arkansas,AR,governor,Benjamin T. Laney,Democratic,86.0,True,False
+1944,Arkansas,AR,governor,Harley C. Stump,Republican,14.0,False,False
+1944,Colorado,CO,governor,John Charles Vivian,Republican,52.4,True,True
+1944,Colorado,CO,governor,Roy Phelix Best,Democratic,47.6,False,False
+1944,Connecticut,CT,governor,Raymond E. Baldwin,Republican,50.5,True,True
+1944,Connecticut,CT,governor,Robert A. Hurley,Democratic,47.4,False,False
+1944,Connecticut,CT,governor,Jasper McLevy,Socialist,2.0,False,False
+1944,Connecticut,CT,governor,Joseph C. Borden Jr.,Labor,0.2,False,False
+1944,Delaware,DE,governor,Walter W. Bacon,Republican,50.5,True,True
+1944,Delaware,DE,governor,Isaac J. MacCollum,Democratic,49.2,False,False
+1944,Delaware,DE,governor,Thomas W. Jakes,Prohibition,0.3,False,False
+1944,Florida,FL,governor,Millard Caldwell,Democratic,79.0,True,False
+1944,Florida,FL,governor,Bert L. Acker,Republican,21.0,False,False
+1944,Idaho,ID,governor,Charles C. Gossett,Democratic,52.6,True,False
+1944,Idaho,ID,governor,W. H. Detwiler,Republican,47.4,False,False
+1944,Illinois,IL,governor,Dwight H. Green,Republican,50.8,True,True
+1944,Illinois,IL,governor,Thomas J. Courtney,Democratic,49.0,False,False
+1944,Illinois,IL,governor,Charles Storm,Labor,0.2,False,False
+1944,Illinois,IL,governor,Willis R. Wilson,Prohibition,0.1,False,False
+1944,Indiana,IN,governor,Ralph F. Gates,Republican,51.0,True,False
+1944,Indiana,IN,governor,Samuel D. Jackson,Democratic,48.2,False,False
+1944,Indiana,IN,governor,Waldo E. Yeater,Prohibition,0.7,False,False
+1944,Indiana,IN,governor,William Rabe,Socialist,0.1,False,False
+1944,Iowa,IA,governor,Robert D. Blue,Republican,56.0,True,False
+1944,Iowa,IA,governor,R. F. Mitchell,Democratic,43.6,False,False
+1944,Iowa,IA,governor,Glen Williamson,Prohibition,0.3,False,False
+1944,Iowa,IA,governor,Hugh Bockewitz,Socialist,0.1,False,False
+1944,Kansas,KS,governor,Andrew Frank Schoeppel,Republican,65.7,True,True
+1944,Kansas,KS,governor,Robert S. Lemon,Democratic,32.8,False,False
+1944,Kansas,KS,governor,David C. White,Prohibition,1.1,False,False
+1944,Kansas,KS,governor,W. W. Tamplin,Socialist,0.3,False,False
+1944,Maine,ME,governor,Horace Hildreth,Republican,70.3,True,False
+1944,Maine,ME,governor,Paul Julien,Democratic,29.7,False,False
+1944,Massachusetts,MA,governor,Maurice J. Tobin,Democratic,53.6,True,False
+1944,Massachusetts,MA,governor,Horace T. Cahill,Republican,46.0,False,False
+1944,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.3,False,False
+1944,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.2,False,False
+1944,Michigan,MI,governor,Harry Kelly,Republican,54.7,True,True
+1944,Michigan,MI,governor,Edward J. Fry,Democratic,44.8,False,False
+1944,Michigan,MI,governor,Seth A. Davey,Prohibition,0.3,False,False
+1944,Michigan,MI,governor,Forest Odell,Socialist,0.1,False,False
+1944,Michigan,MI,governor,Leland Marion,Independent,0.1,False,False
+1944,Michigan,MI,governor,Theos A. Grove,Labor,0.1,False,False
+1944,Minnesota,MN,governor,Edward J. Thye,Republican,61.6,True,True
+1944,Minnesota,MN,governor,Byron G. Allen,Minnesota Democratic-farmer-labor,37.8,False,False
+1944,Minnesota,MN,governor,Gerald M. York,Government,0.6,False,False
+1944,Missouri,MO,governor,Phil M. Donnelly,Democratic,50.94,True,False
+1944,Missouri,MO,governor,Jean Paul Bradshaw,Republican,48.97,False,False
+1944,Missouri,MO,governor,W. F. Rinck,Socialist,0.08,False,False
+1944,Missouri,MO,governor,Stephen Tendler,Labor,0.01,False,False
+1944,Montana,MT,governor,Sam C. Ford,Republican,56.4,True,True
+1944,Montana,MT,governor,Leif Erickson,Democratic,43.2,False,False
+1944,Montana,MT,governor,Charles R. Miller,Prohibition,0.5,False,False
+1944,Nebraska,NE,governor,Dwight Griswold,Republican,76.1,True,True
+1944,Nebraska,NE,governor,George W. Olsen,Democratic,23.9,False,False
+1944,New Hampshire,NH,governor,Charles M. Dale,Republican,53.1,True,False
+1944,New Hampshire,NH,governor,James J. Powers,Democratic,46.9,False,False
+1944,New Mexico,NM,governor,John J. Dempsey,Democratic,51.9,True,True
+1944,New Mexico,NM,governor,Carroll G. Gunderson,Republican,48.2,False,False
+1944,North Carolina,NC,governor,R. Gregg Cherry,Democratic,69.6,True,False
+1944,North Carolina,NC,governor,Frank C. Patton,Republican,30.4,False,False
+1944,North Dakota,ND,governor,Fred G. Aandahl,Republican,52.0,True,False
+1944,North Dakota,ND,governor,William T. Depuy,Democratic,28.9,False,False
+1944,North Dakota,ND,governor,Alvin C. Strutz,Independent,18.8,False,False
+1944,North Dakota,ND,governor,A. M. Wiley,Prohibition,0.3,False,False
+1944,Ohio,OH,governor,Frank Lausche,Democratic,51.8,True,False
+1944,Ohio,OH,governor,James Garfield Stewart,Republican,48.2,False,False
+1944,Rhode Island,RI,governor,J. Howard McGrath,Democratic,60.7,True,True
+1944,Rhode Island,RI,governor,Norman D. MacLeod,Republican,39.4,False,False
+1944,South Dakota,SD,governor,Merrell Q. Sharpe,Republican,65.5,True,True
+1944,South Dakota,SD,governor,Lynn Fellows,Democratic,34.5,False,False
+1944,Tennessee,TN,governor,Jim Nance McCord,Democratic,62.5,True,False
+1944,Tennessee,TN,governor,John W. Kilgo,Republican,36.0,False,False
+1944,Tennessee,TN,governor,John Randolph Neal Jr.,Independent,1.5,False,False
+1944,Texas,TX,governor,Coke R. Stevenson,Democratic,91.0,True,True
+1944,Texas,TX,governor,B. J. Peasley,Republican,9.0,False,False
+1944,Utah,UT,governor,Herbert B. Maw,Democratic,50.21,True,True
+1944,Utah,UT,governor,J. Bracken Lee,Republican,49.79,False,False
+1944,Vermont,VT,governor,Mortimer Proctor,Republican,65.9,True,False
+1944,Vermont,VT,governor,Ernest H. Bailey,Democratic,34.1,False,False
+1944,Washington,WA,governor,Monrad Wallgren,Democratic,51.5,True,False
+1944,Washington,WA,governor,Arthur B. Langlie,Republican,48.1,False,True
+1944,Washington,WA,governor,Allen Emerson,Prohibition,0.2,False,False
+1944,Washington,WA,governor,Henry E.O. Gusey,Labor,0.16,False,False
+1944,West Virginia,WV,governor,Clarence W. Meadows,Democratic,54.4,True,False
+1944,West Virginia,WV,governor,Daniel Boone Dawson,Republican,45.6,False,False
+1944,Wisconsin,WI,governor,Walter Samuel Goodland,Republican,52.8,True,True
+1944,Wisconsin,WI,governor,Daniel Hoan,Democratic,40.6,False,False
+1944,Wisconsin,WI,governor,Alexander O. Benz,Progressive,5.8,False,False
+1944,Wisconsin,WI,governor,George A. Nelson,Socialist,0.7,False,False
+1944,Wisconsin,WI,governor,Georgia Cozzini,Labor,0.09,False,False
+1945,Virginia,VA,governor,William M. Tuck,Democratic,66.58,True,False
+1945,Virginia,VA,governor,S. Floyd Landreth,Republican,31.04,False,False
+1945,Virginia,VA,governor,Howard Carwile,Independent,2.38,False,False
+1946,Alabama,AL,governor,Jim Folsom,Democratic,88.7,True,False
+1946,Alabama,AL,governor,Lyman Ward,Republican,11.3,False,False
+1946,Arizona,AZ,governor,Sidney Preston Osborn,Democratic,60.1,True,True
+1946,Arizona,AZ,governor,Bruce Brockett,Republican,39.9,False,False
+1946,Arkansas,AR,governor,Benjamin T. Laney,Democratic,84.1,True,True
+1946,Arkansas,AR,governor,W.T. Mills,Republican,15.9,False,False
+1946,California,CA,governor,Earl Warren,Republican,91.6,True,True
+1946,California,CA,governor,Henry R. Schmidt,Prohibition,7.1,False,False
+1946,California,CA,governor,Archie Brown,Communist,0.9,False,False
+1946,California,CA,governor,James Roosevelt,Democratic,0.1,False,False
+1946,California,CA,governor,Robert W. Kenny,Independent,0.06,False,False
+1946,California,CA,governor,Albert Clark,Independent,0.03,False,False
+1946,Colorado,CO,governor,William Lee Knous,Democratic,52.1,True,False
+1946,Colorado,CO,governor,Leon E. Lavington,Republican,47.9,False,False
+1946,Connecticut,CT,governor,James L. McConaughy,Republican,54.4,True,False
+1946,Connecticut,CT,governor,Charles Wilbert Snow,Democratic,40.4,False,False
+1946,Connecticut,CT,governor,Jasper McLevy,Socialist,4.8,False,False
+1946,Connecticut,CT,governor,Herman N. Simon,Labor,0.5,False,False
+1946,Georgia,GA,governor,Primary results:,,,True,False
+1946,Georgia,GA,governor,Eugene Talmadge,Democratic,42.96,False,False
+1946,Georgia,GA,governor,James V. Carmichael,Democratic,45.3,False,False
+1946,Georgia,GA,governor,Eurith D. Rivers,Democratic,10.04,False,False
+1946,Georgia,GA,governor,Hoke O'Kelley,Democratic,1.7,False,False
+1946,Georgia,GA,governor,General election:,,,True,False
+1946,Georgia,GA,governor,Herman Talmadge,Democratic,0.46,False,False
+1946,Georgia,GA,governor,D. Talmadge Bowers,Independent,0.44,False,False
+1946,Georgia,GA,governor,Ellis Arnall,Democratic,0.08,False,True
+1946,Idaho,ID,governor,C. A. Robins,Republican,56.4,True,False
+1946,Idaho,ID,governor,Arnold Williams,Democratic,43.6,False,True
+1946,Iowa,IA,governor,Robert D. Blue,Republican,57.4,True,True
+1946,Iowa,IA,governor,Frank Miles,Democratic,42.1,False,False
+1946,Iowa,IA,governor,E. P. Gabriel,Prohibition,0.5,False,False
+1946,Kansas,KS,governor,Frank Carlson,Republican,53.5,True,False
+1946,Kansas,KS,governor,Harry Hines Woodring,Democratic,44.0,False,False
+1946,Kansas,KS,governor,David C. White,Prohibition,2.2,False,False
+1946,Kansas,KS,governor,Harry Graber,Socialist,0.3,False,False
+1946,Maine,ME,governor,Horace Hildreth,Republican,61.3,True,True
+1946,Maine,ME,governor,F. Davis Clark,Democratic,38.7,False,False
+1946,Maryland,MD,governor,William Preston Lane Jr.,Democratic,54.7,True,False
+1946,Maryland,MD,governor,Theodore McKeldin,Republican,45.3,False,False
+1946,Massachusetts,MA,governor,Robert F. Bradford,Republican,54.1,True,False
+1946,Massachusetts,MA,governor,Maurice J. Tobin,Democratic,45.3,False,True
+1946,Massachusetts,MA,governor,Horace I. Hillis,Labor,0.4,False,False
+1946,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.1,False,False
+1946,Michigan,MI,governor,Kim Sigler,Republican,60.3,True,False
+1946,Michigan,MI,governor,Murray Van Wagoner,Democratic,38.7,False,False
+1946,Michigan,MI,governor,Gordon Phillips,Prohibition,0.7,False,False
+1946,Michigan,MI,governor,James Sim,Labor,0.3,False,False
+1946,Minnesota,MN,governor,Luther Youngdahl,Republican,59.0,True,False
+1946,Minnesota,MN,governor,Harold H. Barker,Minnesota Democratic-farmer-labor,39.7,False,False
+1946,Minnesota,MN,governor,Rudolph Gustafson,Government,1.3,False,False
+1946,Nebraska,NE,governor,Val Peterson,Republican,65.5,True,False
+1946,Nebraska,NE,governor,Frank Sorrell,Democratic,35.5,False,False
+1946,Nevada,NV,governor,Vail Pittman,Democratic,57.4,True,True
+1946,Nevada,NV,governor,Melvin E. Jepson,Republican,42.6,False,False
+1946,New Hampshire,NH,governor,Charles M. Dale,Republican,63.1,True,True
+1946,New Hampshire,NH,governor,F. Clyde Keefe,Democratic,36.9,False,False
+1946,New Jersey,NJ,governor,'''Alfred E. Driscoll,Republican,57.1,True,False
+1946,New Jersey,NJ,governor,Lewis G. Hansen,Democratic,41.4,False,False
+1946,New Mexico,NM,governor,Thomas J. Mabry,Democratic,52.7,True,False
+1946,New Mexico,NM,governor,Edward L. Safford,Republican,47.3,False,False
+1946,New York,NY,governor,Thomas E. Dewey,Republican,56.9,True,True
+1946,New York,NY,governor,James M. Mead,Democratic,43.1,False,False
+1946,North Dakota,ND,governor,Fred G. Aandahl,Republican,68.9,True,True
+1946,North Dakota,ND,governor,Quentin Burdick,Democratic,31.1,False,False
+1946,Ohio,OH,governor,Thomas J. Herbert,Republican,50.6,True,False
+1946,Ohio,OH,governor,Frank Lausche,Democratic,48.9,False,True
+1946,Ohio,OH,governor,Arla A. Albaugh,Labor,0.5,False,False
+1946,Oklahoma,OK,governor,Roy J. Turner,Democratic,52.5,True,False
+1946,Oklahoma,OK,governor,Olney F. Flynn,Republican,46.0,False,False
+1946,Oklahoma,OK,governor,"Mildred ""Mickey"" Harrell",Independent,1.45,False,False
+1946,Oklahoma,OK,governor,R.M. Funk,Independent,0.05,False,False
+1946,Oklahoma,OK,governor,Bruno H. Miller,Independent,0.05,False,False
+1946,Oregon,OR,governor,Earl Snell,Republican,69.1,True,True
+1946,Oregon,OR,governor,Carl C. Donaugh,Democratic,30.9,False,False
+1946,Pennsylvania,PA,governor,James H. Duff,Republican,58.5,True,False
+1946,Pennsylvania,PA,governor,John S. Rice,Democratic,40.7,False,False
+1946,Pennsylvania,PA,governor,James Killip,Prohibition,0.44,False,False
+1946,Pennsylvania,PA,governor,George S. Taylor,Labor,0.34,False,False
+1946,Rhode Island,RI,governor,John Pastore,Democratic,54.3,True,True
+1946,Rhode Island,RI,governor,John G. Murphy,Republican,45.7,False,False
+1946,South Carolina,SC,governor,Primary run-off:,,,True,False
+1946,South Carolina,SC,governor,Strom Thurmond,Democratic,56.95,True,False
+1946,South Carolina,SC,governor,James C. McLeod,Democratic,43.05,False,False
+1946,South Carolina,SC,governor,General election:,,,True,False
+1946,South Dakota,SD,governor,George T. Mickelson,Republican,67.2,True,False
+1946,South Dakota,SD,governor,Richard Haeder,Democratic,32.8,False,False
+1946,Tennessee,TN,governor,Jim Nance McCord,Democratic,65.4,True,True
+1946,Tennessee,TN,governor,W.O. Lowe,Republican,31.9,False,False
+1946,Tennessee,TN,governor,John Randolph Neal Jr.,Independent,2.7,False,False
+1946,Texas,TX,governor,Beauford H. Jester,Democratic,91.2,True,False
+1946,Texas,TX,governor,Eugene Nolte,Republican,8.8,False,False
+1946,Vermont,VT,governor,Ernest W. Gibson Jr.,Republican,80.3,True,False
+1946,Vermont,VT,governor,Berthold C. Coburn,Democratic,19.6,False,False
+1946,Wisconsin,WI,governor,Walter Samuel Goodland,Republican,59.8,True,True
+1946,Wisconsin,WI,governor,Daniel Hoan,Democratic,39.1,False,False
+1946,Wisconsin,WI,governor,Walter H. Uphoff,Socialist,0.9,False,False
+1946,Wisconsin,WI,governor,Sigmund Eisenscher,Communist,0.2,False,False
+1946,Wisconsin,WI,governor,Jerry Kenyon,Labor,0.1,False,False
+1946,Wyoming,WY,governor,Lester C. Hunt,Democratic,52.9,True,True
+1946,Wyoming,WY,governor,Earl Wright,Republican,47.1,False,False
+1947,Kentucky,KY,governor,Earle Clements,Democratic,57.24,True,False
+1947,Kentucky,KY,governor,Eldon S. Dummit,Republican,42.48,False,False
+1947,Kentucky,KY,governor,W. A. Sandefur,Socialist,0.29,False,False
+1947,Louisiana,LA,governor,Earl Long,Democratic,,True,False
+1947,Louisiana,LA,governor,''Unopposed'',,,False,False
+1947,Mississippi,MS,governor,Fielding L. Wright,Democratic,97.59,True,True
+1947,Mississippi,MS,governor,George L. Sheldon,Independent Republican,2.41,False,False
+1948,Arizona,AZ,governor,Dan Edward Garvey,Democratic,59.2,True,True
+1948,Arizona,AZ,governor,Bruce Brockett,Republican,40.1,False,False
+1948,Arizona,AZ,governor,Ernest Fohle,Prohibition,0.8,False,False
+1948,Arkansas,AR,governor,Sid McMath,Democratic,89.4,True,False
+1948,Arkansas,AR,governor,Charles R. Black,Republican,10.7,False,False
+1948,Colorado,CO,governor,William Lee Knous,Democratic,66.3,True,True
+1948,Colorado,CO,governor,David A. Hamil,Republican,33.7,False,False
+1948,Connecticut,CT,governor,Chester Bowles,Democratic,49.31,True,False
+1948,Connecticut,CT,governor,James C. Shannon,Republican,49.0,False,True
+1948,Connecticut,CT,governor,Jasper McLevy,Socialist,1.45,False,False
+1948,Connecticut,CT,governor,Joseph Mackay,Labor,0.16,False,False
+1948,Connecticut,CT,governor,Morris Chertov,Workers,0.09,False,False
+1948,Delaware,DE,governor,Elbert N. Carvel,Democratic,53.7,True,False
+1948,Delaware,DE,governor,Hyland P. George,Republican,46.3,False,False
+1948,Florida,FL,governor,Fuller Warren,Democratic,83.4,True,False
+1948,Florida,FL,governor,Bert L. Acker,Republican,16.6,False,False
+1948,Georgia,GA,governor,Herman Talmadge,Democratic,97.5,True,False
+1948,Georgia,GA,governor,Morgan Blake,Independent,2.2,False,False
+1948,Georgia,GA,governor,James Barfoot,Independent,0.18,False,False
+1948,Georgia,GA,governor,Melvin E. Thompson,Independent,0.09,False,True
+1948,Illinois,IL,governor,Adlai Stevenson II,Democratic,57.1,True,False
+1948,Illinois,IL,governor,Dwight H. Green,Republican,42.6,False,True
+1948,Illinois,IL,governor,Willis R. Wilson,Prohibition,0.24,False,False
+1948,Illinois,IL,governor,Louis Fisher,Labor,0.07,False,False
+1948,Indiana,IN,governor,Henry F. Schricker,Democratic,53.6,True,False
+1948,Indiana,IN,governor,Hobart Creighton,Republican,45.1,False,False
+1948,Indiana,IN,governor,Clinton W. Speicher,Prohibition,0.8,False,False
+1948,Indiana,IN,governor,Walter Frisbie,Progressive,0.4,False,False
+1948,Indiana,IN,governor,William Rabe,Socialist,0.1,False,False
+1948,Indiana,IN,governor,Martin Ginsberg,Labor,0.04,False,False
+1948,Iowa,IA,governor,William S. Beardsley,Republican,55.7,True,False
+1948,Iowa,IA,governor,Carroll O. Switzer,Democratic,43.7,False,False
+1948,Iowa,IA,governor,C.E. Bierderman,Progressive,0.36,False,False
+1948,Iowa,IA,governor,Marvin Galbreath,Prohibition,0.25,False,False
+1948,Iowa,IA,governor,William F. Leonard,Socialist,0.05,False,False
+1948,Kansas,KS,governor,Frank Carlson,Republican,57.0,True,True
+1948,Kansas,KS,governor,Randolph Carpenter,Democratic,40.4,False,False
+1948,Kansas,KS,governor,N.W. Nice,Prohibition,2.2,False,False
+1948,Kansas,KS,governor,W.W. Tamplin,Socialist,0.3,False,False
+1948,Maine,ME,governor,Frederick G. Payne,Republican,65.6,True,False
+1948,Maine,ME,governor,Louis Lausier,Democratic,34.4,False,False
+1948,Massachusetts,MA,governor,Paul A. Dever,Democratic,59.0,True,False
+1948,Massachusetts,MA,governor,Robert F. Bradford,Republican,40.5,False,True
+1948,Massachusetts,MA,governor,Horace I. Hillis,Labor,0.4,False,False
+1948,Massachusetts,MA,governor,Mark R. Shaw,Prohibition,0.1,False,False
+1948,Michigan,MI,governor,G. Mennen Williams,Democratic,53.4,True,False
+1948,Michigan,MI,governor,Kim Sigler,Republican,45.7,False,True
+1948,Michigan,MI,governor,Gordon Phillips,Prohibition,0.7,False,False
+1948,Michigan,MI,governor,Emanuel Seidler,Socialist,0.1,False,False
+1948,Michigan,MI,governor,Arthur Chenoweth,Labor,0.07,False,False
+1948,Michigan,MI,governor,Howard Lerner,Workers,,False,False
+1948,Minnesota,MN,governor,Luther Youngdahl,Republican,53.2,True,True
+1948,Minnesota,MN,governor,Charles Halsted,Minnesota Democratic-farmer-labor,45.1,False,False
+1948,Minnesota,MN,governor,Orville E. Olson,Prohibition,1.2,False,False
+1948,Minnesota,MN,governor,Rudolph Gustafson,Labor,0.6,False,False
+1948,Missouri,MO,governor,Forrest Smith,Democratic,57.0,True,False
+1948,Missouri,MO,governor,Murray Thompson,Republican,42.8,False,False
+1948,Missouri,MO,governor,Robert B. Logsdon,Progressive,0.18,False,False
+1948,Missouri,MO,governor,Ralph E. Gipe,Socialist,0.07,False,False
+1948,Missouri,MO,governor,Henry W. Genck,Labor,0.01,False,False
+1948,Montana,MT,governor,John W. Bonner,Democratic,55.7,True,False
+1948,Montana,MT,governor,Sam C. Ford,Republican,43.9,False,True
+1948,Montana,MT,governor,Leverne Hamilton,Socialist,0.4,False,False
+1948,Nebraska,NE,governor,Val Peterson,Republican,60.1,True,True
+1948,Nebraska,NE,governor,Frank Sorrell,Democratic,39.9,False,False
+1948,New Hampshire,NH,governor,Sherman Adams,Republican,52.2,True,False
+1948,New Hampshire,NH,governor,Herbert W. Hill,Democratic,47.3,False,False
+1948,New Hampshire,NH,governor,Irma J. Otto,Progressive,0.5,False,False
+1948,New Mexico,NM,governor,Thomas J. Mabry,Democratic,54.7,True,True
+1948,New Mexico,NM,governor,Manuel Lujan Sr.,Republican,45.3,False,False
+1948,North Carolina,NC,governor,W. Kerr Scott,Democratic,73.2,True,False
+1948,North Carolina,NC,governor,George M. Pritchard,Republican,26.4,False,False
+1948,North Carolina,NC,governor,Mary Price,Progressive,0.4,False,False
+1948,North Dakota,ND,governor,Fred G. Aandahl,Republican,61.3,True,True
+1948,North Dakota,ND,governor,Howard I. Henry,Democratic,37.5,False,False
+1948,North Dakota,ND,governor,H.A. Porter,Progressive,0.9,False,False
+1948,North Dakota,ND,governor,George Lund,Socialist,0.3,False,False
+1948,Ohio,OH,governor,Frank Lausche,Democratic,53.7,True,False
+1948,Ohio,OH,governor,Thomas J. Herbert,Republican,46.3,False,True
+1948,Oregon,OR,governor,Douglas McKay,Republican,53.2,True,False
+1948,Oregon,OR,governor,Lew Wallace,Democratic,44.5,False,False
+1948,Oregon,OR,governor,Wendell E. Barnett,Independent,2.2,False,False
+1948,Rhode Island,RI,governor,John Pastore,Democratic,61.2,True,True
+1948,Rhode Island,RI,governor,Albert P. Ruerat,Republican,38.4,False,False
+1948,Rhode Island,RI,governor,Clemens J. France,Progressive,0.4,False,False
+1948,South Dakota,SD,governor,George T. Mickelson,Republican,61.1,True,True
+1948,South Dakota,SD,governor,Harold J. Volz,Democratic,38.9,False,False
+1948,Tennessee,TN,governor,Gordon Browning,Democratic,66.9,True,False
+1948,Tennessee,TN,governor,Roy Acuff,Republican,33.1,False,False
+1948,Texas,TX,governor,Beauford H. Jester,Democratic,84.7,True,True
+1948,Texas,TX,governor,Alvin H. Lane,Republican,14.7,False,False
+1948,Texas,TX,governor,Herman Wright,Progressive,0.3,False,False
+1948,Texas,TX,governor,Gerard Overholt,Prohibition,0.3,False,False
+1948,Utah,UT,governor,J. Bracken Lee,Republican,55.0,True,False
+1948,Utah,UT,governor,Herbert B. Maw,Democratic,45.0,False,True
+1948,Vermont,VT,governor,Ernest W. Gibson Jr.,Republican,71.9,True,True
+1948,Vermont,VT,governor,Charles F. Ryan,Democratic,28.0,False,False
+1948,Washington,WA,governor,Arthur B. Langlie,Republican,50.5,True,False
+1948,Washington,WA,governor,Monrad Wallgren,Democratic,47.2,False,True
+1948,Washington,WA,governor,Russell H. Fluent,Progressive,2.2,False,False
+1948,Washington,WA,governor,Henry Killman,Labor,0.09,False,False
+1948,Washington,WA,governor,Daniel Roberts,Workers,0.02,False,False
+1948,West Virginia,WV,governor,Okey Patteson,Democratic,57.1,True,False
+1948,West Virginia,WV,governor,Herbert Stephenson Boreman,Republican,42.9,False,False
+1948,Wisconsin,WI,governor,Oscar Rennebohm,Republican,54.1,True,True
+1948,Wisconsin,WI,governor,Carl W. Thompson,Democratic,44.1,False,False
+1948,Wisconsin,WI,governor,Henry J. Berquist,Progressive,1.0,False,False
+1948,Wisconsin,WI,governor,Walter H. Uphoff,Socialist,0.7,False,False
+1948,Wisconsin,WI,governor,James E. Boulton,Workers,0.03,False,False
+1948,Wisconsin,WI,governor,Georgia Cozzini,Labor,0.03,False,False
+1949,New Jersey,NJ,governor,Alfred E. Driscoll,Republican,51.54,True,True
+1949,New Jersey,NJ,governor,Elmer H. Wene,Democratic,47.13,False,False
+1949,New Jersey,NJ,governor,James Imbrie,Progressive,0.63,False,False
+1949,New Jersey,NJ,governor,John C. Butterworth,Socialist Labor,0.38,False,False
+1949,New Jersey,NJ,governor,Edson R. Leach,Prohibition,0.32,False,False
+1949,Virginia,VA,governor,John S. Battle,Democratic,70.43,True,False
+1949,Virginia,VA,governor,Walter Johnson,Republican,27.44,False,False
+1949,Virginia,VA,governor,Clarke T. Robb,Social Democrat,2.12,False,False
+1950,Alabama,AL,governor,Gordon Persons,Democratic,91.1,True,False
+1950,Alabama,AL,governor,John S. Crowder,Republican,8.9,False,False
+1950,Arizona,AZ,governor,J. Howard Pyle,Republican,50.8,True,False
+1950,Arizona,AZ,governor,Ana Frohmiller,Democratic,49.2,False,False
+1950,Arkansas,AR,governor,Sid McMath,Democratic,84.1,True,True
+1950,Arkansas,AR,governor,Jefferson W. Speck,Republican,15.9,False,False
+1950,California,CA,governor,Earl Warren,Republican,64.9,True,True
+1950,California,CA,governor,James Roosevelt,Democratic,35.1,False,False
+1950,Colorado,CO,governor,Daniel I. J. Thornton,Republican,52.4,True,False
+1950,Colorado,CO,governor,Walter Walford Johnson,Democratic,47.2,False,True
+1950,Colorado,CO,governor,Louis K. Stephens,Labor,0.3,False,False
+1950,Connecticut,CT,governor,John Davis Lodge,Republican,49.7,True,False
+1950,Connecticut,CT,governor,Chester Bowles,Democratic,47.7,False,True
+1950,Connecticut,CT,governor,Jasper McLevy,Socialist,2.6,False,False
+1950,Georgia,GA,governor,Primary results:,,,True,False
+1950,Georgia,GA,governor,Herman Talmadge,Democratic,49.33,True,True
+1950,Georgia,GA,governor,Melvin E. Thompson,Democratic,47.88,False,False
+1950,Georgia,GA,governor,C.O. Baker,Democratic,1.7,False,False
+1950,Georgia,GA,governor,Pat Avery,Democratic,0.5,False,False
+1950,Georgia,GA,governor,Mrs. J.W. Jenkins,Democratic,0.5,False,False
+1950,Georgia,GA,governor,General election:,,,True,False
+1950,Georgia,GA,governor,Morgan Blake,Independent,1.4,False,False
+1950,Idaho,ID,governor,Len Jordan,Republican,52.6,True,False
+1950,Idaho,ID,governor,Calvin E. Wright,Democratic,47.4,False,False
+1950,Iowa,IA,governor,William S. Beardsley,Republican,59.1,True,True
+1950,Iowa,IA,governor,Lester S. Gillette,Democratic,40.5,False,False
+1950,Iowa,IA,governor,W. Raymond Picken,Prohibition,0.33,False,False
+1950,Iowa,IA,governor,Howard H. Tyler,Independent,0.07,False,False
+1950,Kansas,KS,governor,Edward F. Arn,Republican,53.8,True,False
+1950,Kansas,KS,governor,Kenneth Anderson,Democratic,44.5,False,False
+1950,Kansas,KS,governor,C. Floyd Hester,Prohibition,1.5,False,False
+1950,Kansas,KS,governor,W.W. Tamplin,Socialist,0.2,False,False
+1950,Maine,ME,governor,Frederick G. Payne,Republican,60.5,True,True
+1950,Maine,ME,governor,Earl S. Grant,Democratic,39.1,False,False
+1950,Maine,ME,governor,Leland B. Currier,Independent,0.4,False,False
+1950,Maryland,MD,governor,Theodore McKeldin,Republican,57.3,True,False
+1950,Maryland,MD,governor,William Preston Lane Jr.,Democratic,42.7,False,True
+1950,Massachusetts,MA,governor,Paul A. Dever,Democratic,56.3,True,True
+1950,Massachusetts,MA,governor,Arthur W. Coolidge,Republican,43.1,False,False
+1950,Massachusetts,MA,governor,Horace I. Hillis,Labor,0.4,False,False
+1950,Massachusetts,MA,governor,Mark R. Shaw,Prohibition,0.2,False,False
+1950,Michigan,MI,governor,G. Mennen Williams,Democratic,49.76,True,True
+1950,Michigan,MI,governor,Harry Kelly,Republican,49.7,False,False
+1950,Michigan,MI,governor,Perry Hayden,Prohibition,0.45,False,False
+1950,Michigan,MI,governor,Theos A. Grove,Labor,0.06,False,False
+1950,Michigan,MI,governor,Howard Lerner,Workers,0.03,False,False
+1950,Minnesota,MN,governor,Luther Youngdahl,Republican,60.8,True,True
+1950,Minnesota,MN,governor,Harry H. Peterson,Minnesota Democratic-farmer-labor,38.3,False,False
+1950,Minnesota,MN,governor,Vernon G. Campbell,Independent,0.97,False,False
+1950,Nebraska,NE,governor,Val Peterson,Republican,55.0,True,True
+1950,Nebraska,NE,governor,Walter R. Raecke,Democratic,45.0,False,False
+1950,Nevada,NV,governor,Charles H. Russell,Republican,57.7,True,False
+1950,Nevada,NV,governor,Vail Pittman,Democratic,42.4,False,True
+1950,New Hampshire,NH,governor,Sherman Adams,Republican,57.0,True,True
+1950,New Hampshire,NH,governor,Robert P. Bingham,Democratic,43.0,False,False
+1950,New Mexico,NM,governor,Edwin L. Mechem,Republican,53.7,True,False
+1950,New Mexico,NM,governor,John E. Miles,Democratic,46.3,False,False
+1950,New York,NY,governor,Thomas E. Dewey,Republican,53.1,True,True
+1950,New York,NY,governor,Walter A. Lynch,Democratic,42.3,False,False
+1950,New York,NY,governor,John T. McManus,Labor,4.2,False,False
+1950,New York,NY,governor,Michael Bartell,Workers,0.3,False,False
+1950,New York,NY,governor,Eric Hass,Labor,0.1,False,False
+1950,North Dakota,ND,governor,Norman Brunsdale,Republican,66.3,True,False
+1950,North Dakota,ND,governor,Clyde G. Byerly,Democratic,33.7,False,False
+1950,Ohio,OH,governor,Frank Lausche,Democratic,52.6,True,True
+1950,Ohio,OH,governor,Don H. Ebright,Republican,47.4,False,False
+1950,Oklahoma,OK,governor,Johnston Murray,Democratic,51.1,True,False
+1950,Oklahoma,OK,governor,Jo O. Ferguson,Republican,48.6,False,False
+1950,Oklahoma,OK,governor,Mildred Harrell,Independent,0.3,False,False
+1950,Oregon,OR,governor,Douglas McKay,Republican,66.1,True,True
+1950,Oregon,OR,governor,Austin F. Flegel,Democratic,34.0,False,False
+1950,Pennsylvania,PA,governor,John S. Fine,Republican,50.7,True,False
+1950,Pennsylvania,PA,governor,Richardson Dilworth,Democratic,48.3,False,False
+1950,Pennsylvania,PA,governor,Richard R. Blews,Prohibition,0.4,False,False
+1950,Pennsylvania,PA,governor,Reginald B. Naugle,Independent,0.2,False,False
+1950,Pennsylvania,PA,governor,Thomas J. Fizpatrick,Progressive,0.2,False,False
+1950,Pennsylvania,PA,governor,Robert Z. Wilson Mozer,Socialist,0.1,False,False
+1950,Pennsylvania,PA,governor,George S. Taylor,Independent,0.1,False,False
+1950,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,59.3,True,False
+1950,Rhode Island,RI,governor,Eugene J. Lachapelle,Republican,40.7,False,False
+1950,South Carolina,SC,governor,Primary run-off:,,,True,False
+1950,South Carolina,SC,governor,James F. Byrnes,Democratic,71.63,True,False
+1950,South Carolina,SC,governor,Lester L. Bates,Democratic,18.23,False,False
+1950,South Carolina,SC,governor,Thomas H. Pope,Democratic,8.55,False,False
+1950,South Carolina,SC,governor,Marcus A. Stone,Democratic,1.59,False,False
+1950,South Carolina,SC,governor,General election:,,,True,False
+1950,South Dakota,SD,governor,Sigurd Anderson,Republican,60.9,True,False
+1950,South Dakota,SD,governor,Joe Robbie,Democratic,39.1,False,False
+1950,Tennessee,TN,governor,Gordon Browning,Democratic,78.1,True,True
+1950,Tennessee,TN,governor,John Randolph Neal Jr.,Independent,21.9,False,False
+1950,Texas,TX,governor,Allan Shivers,Democratic,89.9,True,True
+1950,Texas,TX,governor,Ralph W. Currie,Republican,10.1,False,False
+1950,Vermont,VT,governor,Lee E. Emerson,Republican,74.5,True,False
+1950,Vermont,VT,governor,J. Edward Moran,Democratic,25.5,False,False
+1950,Wisconsin,WI,governor,Walter J. Kohler Jr.,Republican,53.2,True,False
+1950,Wisconsin,WI,governor,Carl W. Thompson,Democratic,46.2,False,False
+1950,Wisconsin,WI,governor,Michael Essin,Progressive,0.3,False,False
+1950,Wisconsin,WI,governor,William O. Hart,Socialist,0.3,False,False
+1950,Wyoming,WY,governor,Frank A. Barrett,Republican,56.2,True,False
+1950,Wyoming,WY,governor,John J. McIntyre,Democratic,43.9,False,False
+1951,Kentucky,KY,governor,Lawrence Wetherby,Democratic,54.6,True,True
+1951,Kentucky,KY,governor,Eugene Siler,Republican,45.4,False,False
+1951,Louisiana,LA,governor,Robert F. Kennon,Democratic,95.99,True,False
+1951,Louisiana,LA,governor,Harrison Bagwell,Republican,4.01,False,False
+1951,Mississippi,MS,governor,Hugh L. White,Democratic,,True,False
+1951,Mississippi,MS,governor,''Unopposed'',,,False,False
+1952,Arizona,AZ,governor,J. Howard Pyle,Republican,60.2,True,True
+1952,Arizona,AZ,governor,Joe C. Haldiman,Democratic,39.8,False,False
+1952,Arkansas,AR,governor,Francis Cherry,Democratic,87.4,True,False
+1952,Arkansas,AR,governor,Jefferson W. Speck,Republican,12.6,False,False
+1952,Colorado,CO,governor,Daniel I. J. Thornton,Republican,57.1,True,True
+1952,Colorado,CO,governor,John W. Metzger,Democratic,42.4,False,False
+1952,Colorado,CO,governor,Louis K. Stephens,Labor,0.5,False,False
+1952,Delaware,DE,governor,J. Caleb Boggs,Republican,52.1,True,False
+1952,Delaware,DE,governor,Elbert N. Carvel,Democratic,47.9,False,True
+1952,Florida,FL,governor,Daniel T. McCarty,Democratic,74.8,True,False
+1952,Florida,FL,governor,Harry S. Swan,Republican,25.2,False,False
+1952,Illinois,IL,governor,William Stratton,Republican,52.5,True,False
+1952,Illinois,IL,governor,Sherwood Dixon,Democratic,47.3,False,False
+1952,Illinois,IL,governor,Louis Fisher,Labor,0.2,False,False
+1952,Indiana,IN,governor,George N. Craig,Republican,55.7,True,False
+1952,Indiana,IN,governor,John A. Watkins,Democratic,43.6,False,False
+1952,Indiana,IN,governor,Lester N. Abel,Prohibition,0.65,False,False
+1952,Indiana,IN,governor,Samuel Boorda,Progressive,0.05,False,False
+1952,Indiana,IN,governor,Charles Ginsberg,Labor,0.04,False,False
+1952,Iowa,IA,governor,William S. Beardsley,Republican,51.9,True,True
+1952,Iowa,IA,governor,Herschel C. Loveless,Democratic,47.8,False,False
+1952,Iowa,IA,governor,Z. Everett Kellum,Prohibition,0.23,False,False
+1952,Iowa,IA,governor,Ernest J. Seemann,Independent,0.1,False,False
+1952,Kansas,KS,governor,Edward F. Arn,Republican,56.3,True,True
+1952,Kansas,KS,governor,Charles Rooney,Democratic,41.7,False,False
+1952,Kansas,KS,governor,David C. White,Prohibition,1.8,False,False
+1952,Kansas,KS,governor,W.W. Tamplin,Socialist,0.22,False,False
+1952,Maine,ME,governor,Burton M. Cross,Republican,51.7,True,False
+1952,Maine,ME,governor,James C. Oliver,Democratic,33.2,False,False
+1952,Maine,ME,governor,Neil S. Bishop,Independent Republican,14.4,False,False
+1952,Maine,ME,governor,Henry W. Boyker,Independent,0.66,False,False
+1952,Massachusetts,MA,governor,Christian Herter,Republican,49.91,True,False
+1952,Massachusetts,MA,governor,Paul A. Dever,Democratic,49.29,False,True
+1952,Massachusetts,MA,governor,Florence H. Luscomb,Independent,0.32,False,False
+1952,Massachusetts,MA,governor,Larence Gilfedder,Labor,0.26,False,False
+1952,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.22,False,False
+1952,Michigan,MI,governor,G. Mennen Williams,Democratic,49.96,True,True
+1952,Michigan,MI,governor,Frederick M. Alger Jr.,Republican,49.66,False,False
+1952,Michigan,MI,governor,E. Harold Munn,Prohibition,0.31,False,False
+1952,Michigan,MI,governor,Theos A. Grove,Labor,0.04,False,False
+1952,Michigan,MI,governor,Howard Lerner,Workers,0.02,False,False
+1952,Minnesota,MN,governor,C. Elmer Anderson,Republican,55.3,True,True
+1952,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,44.0,False,False
+1952,Minnesota,MN,governor,Martin Frederickson,Progressive,0.4,False,False
+1952,Minnesota,MN,governor,Eldrid H. Bauers,Labor,0.3,False,False
+1952,Missouri,MO,governor,Phil M. Donnelly,Democratic,52.6,True,False
+1952,Missouri,MO,governor,Howard Elliott,Republican,47.4,False,False
+1952,Missouri,MO,governor,Howard Edsell,Progressive,0.05,False,False
+1952,Missouri,MO,governor,Maurice R. Wheeler,Socialist,0.02,False,False
+1952,Missouri,MO,governor,Don Lohbeck,Nationalist,0.01,False,False
+1952,Missouri,MO,governor,Clara Hayes,Labor,0.01,False,False
+1952,Montana,MT,governor,J. Hugo Aronson,Republican,51.0,True,False
+1952,Montana,MT,governor,John W. Bonner,Democratic,49.0,False,True
+1952,Nebraska,NE,governor,Robert B. Crosby,Republican,61.4,True,False
+1952,Nebraska,NE,governor,Walter R. Raecke,Democratic,38.6,False,False
+1952,New Hampshire,NH,governor,Hugh Gregg,Republican,63.2,True,False
+1952,New Hampshire,NH,governor,William H. Craig,Democratic,36.9,False,False
+1952,New Mexico,NM,governor,Edwin L. Mechem,Republican,53.8,True,True
+1952,New Mexico,NM,governor,Everett Grantham,Democratic,46.2,False,False
+1952,North Carolina,NC,governor,William B. Umstead,Democratic,67.5,True,False
+1952,North Carolina,NC,governor,Herbert F. Seawell Jr.,Republican,32.5,False,False
+1952,North Dakota,ND,governor,Norman Brunsdale,Republican,78.7,True,True
+1952,North Dakota,ND,governor,Ole C. Johnson,Democratic,21.3,False,False
+1952,Ohio,OH,governor,Frank Lausche,Democratic,55.9,True,True
+1952,Ohio,OH,governor,Charles Phelps Taft II,Republican,44.1,False,False
+1952,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,52.6,True,True
+1952,Rhode Island,RI,governor,Raoul Archambault Jr.,Republican,47.4,False,False
+1952,South Dakota,SD,governor,Sigurd Anderson,Republican,70.2,True,True
+1952,South Dakota,SD,governor,Sherman A. Iverson,Democratic,29.9,False,False
+1952,Tennessee,TN,governor,Frank G. Clement,Democratic,79.4,True,False
+1952,Tennessee,TN,governor,R. Beecher Witt,Republican,20.6,False,False
+1952,Texas,TX,governor,Allan Shivers,Democratic,98.05,True,True
+1952,Utah,UT,governor,J. Bracken Lee,Republican,55.1,True,True
+1952,Utah,UT,governor,Earl J. Glade,Democratic,44.9,False,False
+1952,Vermont,VT,governor,Lee E. Emerson,Republican,52.0,True,True
+1952,Vermont,VT,governor,Robert W. Larrow,Democratic,39.8,False,False
+1952,Vermont,VT,governor,Henry D. Vail,Independent,8.3,False,False
+1952,Washington,WA,governor,Arthur B. Langlie,Republican,52.7,True,True
+1952,Washington,WA,governor,Hugh Mitchell,Democratic,47.4,False,False
+1952,West Virginia,WV,governor,William C. Marland,Democratic,51.5,True,False
+1952,West Virginia,WV,governor,Rush Holt Sr.,Republican,48.5,False,False
+1952,Wisconsin,WI,governor,Walter J. Kohler Jr.,Republican,62.5,True,True
+1952,Wisconsin,WI,governor,William Proxmire,Democratic,37.3,False,False
+1952,Wisconsin,WI,governor,Michael Essin,Independent,0.2,False,False
+1953,New Jersey,NJ,governor,Robert B. Meyner,Democratic,53.17,True,False
+1953,New Jersey,NJ,governor,Paul L. Troast,Republican,44.68,False,False
+1953,New Jersey,NJ,governor,Clendenin Ryan,Independent Voters,1.29,False,False
+1953,New Jersey,NJ,governor,Henry B. Krajewski,Veterans Bonus Now,0.71,False,False
+1953,New Jersey,NJ,governor,Albert Ronis,Socialist Labor,0.16,False,False
+1953,Virginia,VA,governor,Thomas B. Stanley,Democratic,54.83,True,False
+1953,Virginia,VA,governor,Theodore Roosevelt Dalton,Republican,44.28,False,False
+1953,Virginia,VA,governor,Howard Carwile,Independent,0.89,False,False
+1954,Alabama,AL,governor,Jim Folsom,Democratic,73.4,True,False
+1954,Alabama,AL,governor,Tom Abernathy,Republican,26.6,False,False
+1954,Arizona,AZ,governor,Ernest McFarland,Democratic,52.5,True,False
+1954,Arizona,AZ,governor,J. Howard Pyle,Republican,47.5,False,True
+1954,Arkansas,AR,governor,Orval Faubus,Democratic,62.1,True,False
+1954,Arkansas,AR,governor,Pratt Remmel,Republican,37.9,False,False
+1954,California,CA,governor,Goodwin Knight,Republican,56.8,True,True
+1954,California,CA,governor,Richard P. Graves,Democratic,43.2,False,False
+1954,Colorado,CO,governor,Edwin C. Johnson,Democratic,53.6,True,False
+1954,Colorado,CO,governor,Donald G. Brotzman,Republican,46.4,False,False
+1954,Connecticut,CT,governor,Abraham Ribicoff,Democratic,49.5,True,False
+1954,Connecticut,CT,governor,John Davis Lodge,Republican,49.16,False,True
+1954,Connecticut,CT,governor,Jasper McLevy,Socialist,1.19,False,False
+1954,Connecticut,CT,governor,Vivien Kellems,Independent Republican,0.15,False,False
+1954,Florida,FL,governor,LeRoy Collins,Democratic,80.4,True,False
+1954,Florida,FL,governor,J. Thomas Watson,Republican,19.5,False,False
+1954,Georgia,GA,governor,Primary results:,,,True,False
+1954,Georgia,GA,governor,Marvin Griffin,Democratic,36.32,True,False
+1954,Georgia,GA,governor,Melvin E. Thompson,Democratic,25.07,False,False
+1954,Georgia,GA,governor,Tom Linder,Democratic,13.5,False,False
+1954,Georgia,GA,governor,Fred Hand,Democratic,12.09,False,False
+1954,Georgia,GA,governor,Charlie Gowen,Democratic,11.42,False,False
+1954,Georgia,GA,governor,Grace Wilkey Thomas,Democratic,0.97,False,False
+1954,Georgia,GA,governor,Ben Garland,Democratic,0.44,False,False
+1954,Georgia,GA,governor,General election:,,,True,False
+1954,Idaho,ID,governor,Robert E. Smylie,Republican,54.2,True,False
+1954,Idaho,ID,governor,Clark Hamilton,Democratic,45.8,False,False
+1954,Iowa,IA,governor,Leo Hoegh,Republican,51.4,True,False
+1954,Iowa,IA,governor,Clyde E. Herring,Democratic,48.4,False,False
+1954,Iowa,IA,governor,Howard H. Tyler,Independent,0.3,False,False
+1954,Kansas,KS,governor,Fred Hall,Republican,53.0,True,False
+1954,Kansas,KS,governor,George Docking,Democratic,46.0,False,False
+1954,Kansas,KS,governor,Chester A. Roberts,Prohibition,0.9,False,False
+1954,Kansas,KS,governor,W.W. Tamplin,Socialist,0.16,False,False
+1954,Maine,ME,governor,Edmund Muskie,Democratic,54.5,True,False
+1954,Maine,ME,governor,Burton M. Cross,Republican,45.5,False,True
+1954,Maryland,MD,governor,Theodore McKeldin,Republican,54.5,True,True
+1954,Maryland,MD,governor,Curley Byrd,Democratic,45.6,False,False
+1954,Massachusetts,MA,governor,Christian Herter,Republican,51.8,True,True
+1954,Massachusetts,MA,governor,Robert F. Murphy,Democratic,47.8,False,False
+1954,Massachusetts,MA,governor,Larence Gilfedder,Labor,0.3,False,False
+1954,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.14,False,False
+1954,Michigan,MI,governor,G. Mennen Williams,Democratic,55.6,True,True
+1954,Michigan,MI,governor,Donald S. Leonard,Republican,44.1,False,False
+1954,Michigan,MI,governor,E. Harold Munn,Prohibition,0.27,False,False
+1954,Michigan,MI,governor,Theos A. Grove,Labor,0.05,False,False
+1954,Michigan,MI,governor,Frank Lovell,Workers,0.03,False,False
+1954,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,52.7,True,False
+1954,Minnesota,MN,governor,C. Elmer Anderson,Republican,46.8,False,True
+1954,Minnesota,MN,governor,Ross P. Schelin,Independent,0.5,False,False
+1954,Nebraska,NE,governor,Victor Anderson,Republican,60.3,True,False
+1954,Nebraska,NE,governor,William Ritchie,Democratic,39.7,False,False
+1954,Nevada,NV,governor,Charles H. Russell,Republican,53.1,True,True
+1954,Nevada,NV,governor,Vail Pittman,Democratic,46.9,False,False
+1954,New Hampshire,NH,governor,Lane Dwinell,Republican,55.1,True,False
+1954,New Hampshire,NH,governor,John Shaw,Democratic,44.9,False,False
+1954,New Mexico,NM,governor,John F. Simms,Democratic,57.0,True,False
+1954,New Mexico,NM,governor,Alvin Stockton,Republican,43.0,False,False
+1954,New York,NY,governor,W. Averell Harriman,Democratic,49.61,True,False
+1954,New York,NY,governor,Irving Ives,Republican,49.4,False,False
+1954,New York,NY,governor,John T. McManus,Labor,0.91,False,False
+1954,New York,NY,governor,David L. Weiss,Workers,0.05,False,False
+1954,New York,NY,governor,Nathan Karp,Independent,0.03,False,False
+1954,North Dakota,ND,governor,Norman Brunsdale,Republican,64.2,True,True
+1954,North Dakota,ND,governor,Cornelius Bymers,Democratic,35.8,False,False
+1954,Ohio,OH,governor,Frank Lausche,Democratic,54.1,True,True
+1954,Ohio,OH,governor,Jim Rhodes,Republican,45.9,False,False
+1954,Oklahoma,OK,governor,Raymond Gary,Democratic,58.7,True,False
+1954,Oklahoma,OK,governor,Reuben K. Sparks,Republican,41.3,False,False
+1954,Oregon,OR,governor,Paul L. Patterson,Republican,56.9,True,True
+1954,Oregon,OR,governor,Joseph K. Carson,Democratic,43.1,False,False
+1954,Pennsylvania,PA,governor,George M. Leader,Democratic,53.7,True,False
+1954,Pennsylvania,PA,governor,Lloyd H. Wood,Republican,46.2,False,False
+1954,Pennsylvania,PA,governor,Henry Beitscher,Progressive,0.1,False,False
+1954,Pennsylvania,PA,governor,Louis Dirle,Labor,0.1,False,False
+1954,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,57.7,True,True
+1954,Rhode Island,RI,governor,Dean J. Lewis,Republican,41.7,False,False
+1954,Rhode Island,RI,governor,Arthur E. Marley,Independent,0.6,False,False
+1954,South Carolina,SC,governor,Primary results:,,,True,False
+1954,South Carolina,SC,governor,George Bell Timmerman Jr.,Democratic,61.34,True,False
+1954,South Carolina,SC,governor,Lester L. Bates,Democratic,38.66,False,False
+1954,South Carolina,SC,governor,General election:,,,True,False
+1954,South Dakota,SD,governor,Joe Foss,Republican,56.7,True,False
+1954,South Dakota,SD,governor,Ed C. Martin,Democratic,43.3,False,False
+1954,Tennessee,TN,governor,Primary results:,,,True,False
+1954,Tennessee,TN,governor,Frank G. Clement,Democratic,68.17,True,True
+1954,Tennessee,TN,governor,Gordon W. Browning,Democratic,27.61,False,False
+1954,Tennessee,TN,governor,Raulston Schoolfield,Democratic,4.23,False,False
+1954,Tennessee,TN,governor,General election:,,,True,False
+1954,Tennessee,TN,governor,John Randolph Neal Jr.,Independent,12.2,False,False
+1954,Tennessee,TN,governor,W.E. Michel,Republican,0.5,False,False
+1954,Texas,TX,governor,Allan Shivers,Democratic,89.4,True,True
+1954,Texas,TX,governor,Tod R. Adams,Republican,10.4,False,False
+1954,Vermont,VT,governor,Joseph B. Johnson,Republican,52.3,True,False
+1954,Vermont,VT,governor,E. Frank Branon,Democratic,47.7,False,False
+1954,Wisconsin,WI,governor,Walter J. Kohler Jr.,Republican,51.5,True,True
+1954,Wisconsin,WI,governor,William Proxmire,Democratic,48.4,False,False
+1954,Wisconsin,WI,governor,Arthur Wepfer,Labor,0.2,False,False
+1954,Wyoming,WY,governor,Milward Simpson,Republican,50.5,True,False
+1954,Wyoming,WY,governor,William M. Jack,Democratic,49.5,False,False
+1956,Arizona,AZ,governor,Ernest McFarland,Democratic,59.6,True,True
+1956,Arizona,AZ,governor,Horace B. Griffen,Republican,40.5,False,False
+1956,Arkansas,AR,governor,Orval Faubus,Democratic,80.7,True,True
+1956,Arkansas,AR,governor,Roy Mitchell,Republican,19.4,False,False
+1956,Colorado,CO,governor,Stephen McNichols,Democratic,51.3,True,False
+1956,Colorado,CO,governor,Donald G. Brotzman,Republican,48.7,False,False
+1956,Delaware,DE,governor,J. Caleb Boggs,Republican,52.0,True,True
+1956,Delaware,DE,governor,Elbert N. Carvel,Democratic,48.1,False,False
+1956,Florida,FL,governor,LeRoy Collins,Democratic,73.7,True,True
+1956,Florida,FL,governor,William A. Washburne Jr.,Republican,26.3,False,False
+1956,Illinois,IL,governor,William Stratton,Republican,50.34,True,True
+1956,Illinois,IL,governor,Richard B. Austin,Democratic,49.48,False,False
+1956,Illinois,IL,governor,Edward C. Gross,Labor,0.18,False,False
+1956,Indiana,IN,governor,Harold W. Handley,Republican,55.6,True,False
+1956,Indiana,IN,governor,Ralph Tucker,Democratic,44.0,False,False
+1956,Indiana,IN,governor,J. Ralston Miller,Prohibition,0.35,False,False
+1956,Indiana,IN,governor,Merle N. Miller,Labor,0.06,False,False
+1956,Iowa,IA,governor,Herschel C. Loveless,Democratic,51.2,True,False
+1956,Iowa,IA,governor,Leo Hoegh,Republican,48.8,False,True
+1956,Kansas,KS,governor,George Docking,Democratic,55.4,True,False
+1956,Kansas,KS,governor,Warren W. Shaw,Republican,42.2,False,False
+1956,Kansas,KS,governor,Harry O. Lytle Jr.,Prohibition,2.4,False,False
+1956,Maine,ME,governor,Edmund Muskie,Democratic,59.2,True,True
+1956,Maine,ME,governor,Willis A. Trafton,Republican,40.8,False,False
+1956,Massachusetts,MA,governor,Foster Furcolo,Democratic,52.8,True,False
+1956,Massachusetts,MA,governor,Sumner G. Whittier,Republican,46.9,False,False
+1956,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.25,False,False
+1956,Massachusetts,MA,governor,Mark R. Shaw,Prohibition,0.12,False,False
+1956,Michigan,MI,governor,G. Mennen Williams,Democratic,54.7,True,True
+1956,Michigan,MI,governor,Albert Cobo,Republican,45.1,False,False
+1956,Michigan,MI,governor,Alfred T. Halsted,Prohibition,0.2,False,False
+1956,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,51.4,True,True
+1956,Minnesota,MN,governor,Ancher Nelsen,Republican,48.2,False,False
+1956,Minnesota,MN,governor,Rudolph Gustafson,Independent,0.4,False,False
+1956,Missouri,MO,governor,James T. Blair Jr.,Democratic,52.1,True,False
+1956,Missouri,MO,governor,Lon Hooker,Republican,47.9,False,False
+1956,Montana,MT,governor,J. Hugo Aronson,Republican,51.4,True,True
+1956,Montana,MT,governor,Arnold Olsen,Democratic,48.6,False,False
+1956,Nebraska,NE,governor,Victor Anderson,Republican,54.3,True,True
+1956,Nebraska,NE,governor,Frank Sorrell,Democratic,40.2,False,False
+1956,Nebraska,NE,governor,George Morris,Independent,5.6,False,False
+1956,New Hampshire,NH,governor,Lane Dwinell,Republican,54.7,True,True
+1956,New Hampshire,NH,governor,John Shaw,Democratic,45.3,False,False
+1956,New Mexico,NM,governor,Edwin L. Mechem,Republican,52.2,True,False
+1956,New Mexico,NM,governor,John F. Simms,Democratic,47.8,False,True
+1956,North Carolina,NC,governor,Luther H. Hodges,Democratic,67.0,True,True
+1956,North Carolina,NC,governor,Kyle Hayes,Republican,33.1,False,False
+1956,North Dakota,ND,governor,John E. Davis,Republican,58.5,True,False
+1956,North Dakota,ND,governor,Wallace E. Warner,North Dakota Democratic-npl,41.5,False,False
+1956,Ohio,OH,governor,C. William O'Neill,Republican,56.0,True,False
+1956,Ohio,OH,governor,Michael DiSalle,Democratic,44.0,False,False
+1956,Oregon,OR,governor,Robert D. Holmes,Democratic,50.5,True,False
+1956,Oregon,OR,governor,Elmo Smith,Republican,49.5,False,True
+1956,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,50.09,True,True
+1956,Rhode Island,RI,governor,Christopher Del Sesto,Republican,49.91,False,False
+1956,South Dakota,SD,governor,Joe Foss,Republican,54.4,True,True
+1956,South Dakota,SD,governor,Ralph Herseth,Democratic,45.6,False,False
+1956,Texas,TX,governor,Price Daniel,Democratic,78.4,True,False
+1956,Texas,TX,governor,William R. Bryant,Republican,15.2,False,False
+1956,Texas,TX,governor,W. Lee O'Daniel,Independent,6.4,False,False
+1956,Utah,UT,governor,George Dewey Clyde,Republican,38.2,True,False
+1956,Utah,UT,governor,"L.C. ""Rennie"" Romney",Democratic,33.4,False,False
+1956,Utah,UT,governor,J. Bracken Lee,Independent,28.4,False,True
+1956,Vermont,VT,governor,Joseph B. Johnson,Republican,57.5,True,True
+1956,Vermont,VT,governor,E. Frank Branon,Democratic,42.5,False,False
+1956,Washington,WA,governor,Albert Rosellini,Democratic,54.6,True,False
+1956,Washington,WA,governor,Emmett T. Anderson,Republican,45.0,False,False
+1956,Washington,WA,governor,Henry Killman,Labor,0.4,False,False
+1956,West Virginia,WV,governor,Cecil H. Underwood,Republican,53.9,True,False
+1956,West Virginia,WV,governor,Bob Mollohan,Democratic,46.1,False,False
+1956,Wisconsin,WI,governor,Vernon Wallace Thomson,Republican,51.9,True,False
+1956,Wisconsin,WI,governor,William Proxmire,Democratic,48.1,False,False
+1958,Alabama,AL,governor,John Malcolm Patterson,Democratic,88.2,True,False
+1958,Alabama,AL,governor,William Longshore,Republican,11.4,False,False
+1958,Alabama,AL,governor,William Jackson,Independent,0.3,False,False
+1958,Alaska,AK,governor,William A. Egan,Democratic,59.6,True,False
+1958,Alaska,AK,governor,John Butrovich,Republican,39.4,False,False
+1958,Alaska,AK,governor,Mike Dollinter,Independent,1.0,False,False
+1958,Arizona,AZ,governor,Paul Fannin,Republican,55.1,True,False
+1958,Arizona,AZ,governor,Robert Morrison,Democratic,44.9,False,False
+1958,Arkansas,AR,governor,Orval Faubus,Democratic,82.5,True,True
+1958,Arkansas,AR,governor,George W. Johnson,Republican,17.5,False,False
+1958,California,CA,governor,Pat Brown,Democratic,59.8,True,False
+1958,California,CA,governor,William Knowland,Republican,40.2,False,False
+1958,California,CA,governor,William Potter Gale,Independent,0.04,False,False
+1958,Colorado,CO,governor,Stephen McNichols,Democratic,58.4,True,True
+1958,Colorado,CO,governor,Palmer Burch,Republican,41.6,False,False
+1958,Connecticut,CT,governor,Abraham Ribicoff,Democratic,62.3,True,True
+1958,Connecticut,CT,governor,John Davis Lodge,Republican,37.0,False,False
+1958,Connecticut,CT,governor,Jasper McLevy,Socialist,0.7,False,False
+1958,Georgia,GA,governor,Primary results:,,,True,False
+1958,Georgia,GA,governor,Ernest Vandiver,Democratic,80.51,True,False
+1958,Georgia,GA,governor,William T. Bodenhamer,Democratic,14.16,False,False
+1958,Georgia,GA,governor,Lee Roy Abernathy,Democratic,5.34,False,False
+1958,Georgia,GA,governor,General election:,,,True,False
+1958,Idaho,ID,governor,Robert E. Smylie,Republican,51.0,True,True
+1958,Idaho,ID,governor,Alfred M. Derr,Democratic,49.0,False,False
+1958,Iowa,IA,governor,Herschel C. Loveless,Democratic,54.1,True,True
+1958,Iowa,IA,governor,William G. Murray,Republican,46.0,False,False
+1958,Kansas,KS,governor,George Docking,Democratic,56.5,True,True
+1958,Kansas,KS,governor,Clyde M. Reed Jr.,Republican,42.5,False,False
+1958,Kansas,KS,governor,Warren C. Martin,Prohibition,1.0,False,False
+1958,Maine,ME,governor,Clinton Clauson,Democratic,52.0,True,False
+1958,Maine,ME,governor,Horace Hildreth,Republican,48.0,False,False
+1958,Maryland,MD,governor,J. Millard Tawes,Democratic,63.6,True,False
+1958,Maryland,MD,governor,James Devereux,Republican,36.5,False,False
+1958,Massachusetts,MA,governor,Foster Furcolo,Democratic,56.2,True,True
+1958,Massachusetts,MA,governor,Charles Gibbons,Republican,43.1,False,False
+1958,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.41,False,False
+1958,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.3,False,False
+1958,Michigan,MI,governor,G. Mennen Williams,Democratic,53.0,True,True
+1958,Michigan,MI,governor,Paul Douglas Bagwell,Republican,46.6,False,False
+1958,Michigan,MI,governor,Ralph Muncy,Labor,0.17,False,False
+1958,Michigan,MI,governor,Rollin M. Severance,Prohibition,0.16,False,False
+1958,Michigan,MI,governor,Frank Lovell,Workers,0.04,False,False
+1958,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,56.8,True,True
+1958,Minnesota,MN,governor,George MacKinnon,Republican,42.3,False,False
+1958,Minnesota,MN,governor,Arne Anderson,Independent,0.94,False,False
+1958,Nebraska,NE,governor,Ralph G. Brooks,Democratic,50.19,True,False
+1958,Nebraska,NE,governor,Victor Anderson,Republican,49.8,False,True
+1958,Nevada,NV,governor,Grant Sawyer,Democratic,59.9,True,False
+1958,Nevada,NV,governor,Charles H. Russell,Republican,,False,True
+1958,New Hampshire,NH,governor,Wesley Powell,Republican,51.7,True,False
+1958,New Hampshire,NH,governor,Bernard L. Boutin,Democratic,48.4,False,False
+1958,New Mexico,NM,governor,John Burroughs,Democratic,50.47,True,False
+1958,New Mexico,NM,governor,Edwin L. Mechem,Republican,49.53,False,True
+1958,New York,NY,governor,Nelson Rockefeller,Republican,54.7,True,False
+1958,New York,NY,governor,W. Averell Harriman,Democratic,44.7,False,True
+1958,New York,NY,governor,John T. McManus,Independent,0.6,False,False
+1958,North Dakota,ND,governor,John E. Davis,Republican,53.1,True,True
+1958,North Dakota,ND,governor,John F. Lord,North Dakota Democratic-npl,46.9,False,False
+1958,Ohio,OH,governor,Michael DiSalle,Democratic,56.9,True,False
+1958,Ohio,OH,governor,C. William O'Neill,Republican,43.1,False,True
+1958,Oklahoma,OK,governor,J. Howard Edmondson,Democratic,74.1,True,False
+1958,Oklahoma,OK,governor,Phil Ferguson,Republican,20.0,False,False
+1958,Oklahoma,OK,governor,"D.A. ""Jelly"" Bryce",Independent,5.9,False,False
+1958,Oregon,OR,governor,Mark Hatfield,Republican,55.3,True,False
+1958,Oregon,OR,governor,Robert D. Holmes,Democratic,44.7,False,True
+1958,Pennsylvania,PA,governor,David L. Lawrence,Democratic,50.8,True,False
+1958,Pennsylvania,PA,governor,Arthur T. McGonigle,Republican,48.9,False,False
+1958,Pennsylvania,PA,governor,Herman A. Johansen,Labor,0.22,False,False
+1958,Pennsylvania,PA,governor,Eloise Fickland,Independent,0.11,False,False
+1958,Rhode Island,RI,governor,Christopher Del Sesto,Republican,50.9,True,False
+1958,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,49.1,False,True
+1958,South Carolina,SC,governor,Primary election:,,,True,False
+1958,South Carolina,SC,governor,Fritz Hollings,Democratic,41.93,True,False
+1958,South Carolina,SC,governor,Donald S. Russell,Democratic,35.02,False,False
+1958,South Carolina,SC,governor,William C. Johnston,Democratic,23.06,False,False
+1958,South Carolina,SC,governor,Primary runoff:,,,True,False
+1958,South Carolina,SC,governor,General election:,,,True,False
+1958,South Dakota,SD,governor,Ralph Herseth,Democratic,51.4,True,False
+1958,South Dakota,SD,governor,Phil Saunders,Republican,48.6,False,False
+1958,Tennessee,TN,governor,Buford Ellington,Democratic,57.5,True,False
+1958,Tennessee,TN,governor,Jim Nance McCord,Independent,31.5,False,False
+1958,Tennessee,TN,governor,Tom Wall,Republican,8.3,False,False
+1958,Tennessee,TN,governor,Scattering,Independent,2.6,False,False
+1958,Texas,TX,governor,Price Daniel,Democratic,88.1,True,True
+1958,Texas,TX,governor,Edwin S. Mayer,Republican,11.9,False,False
+1958,Vermont,VT,governor,Robert Stafford,Republican,50.3,True,False
+1958,Vermont,VT,governor,Bernard Joseph Leddy,Democratic,49.7,False,False
+1958,Wisconsin,WI,governor,Gaylord Nelson,Democratic,53.6,True,False
+1958,Wisconsin,WI,governor,Vernon Wallace Thomson,Republican,46.3,False,True
+1958,Wisconsin,WI,governor,Wayne Leverenz,Workers,0.12,False,False
+1958,Wyoming,WY,governor,John J. Hickey,Democratic,48.9,True,False
+1958,Wyoming,WY,governor,Milward Simpson,Republican,46.6,False,True
+1958,Wyoming,WY,governor,Louis W. Carlson,Independent,4.4,False,False
+1960,Arizona,AZ,governor,Paul Fannin,Republican,59.3,True,True
+1960,Arizona,AZ,governor,Lee Ackerman,Democratic,40.7,False,False
+1960,Arkansas,AR,governor,Orval Faubus,Democratic,69.2,True,True
+1960,Arkansas,AR,governor,Henry M. Britt,Republican,30.8,False,False
+1960,Delaware,DE,governor,Elbert N. Carvel,Democratic,51.7,True,False
+1960,Delaware,DE,governor,John W. Rollins,Republican,48.3,False,False
+1960,Florida,FL,governor,C. Farris Bryant,Democratic,59.9,True,False
+1960,Florida,FL,governor,George C. Petersen,Republican,40.2,False,False
+1960,Illinois,IL,governor,Otto Kerner Jr.,Democratic,55.5,True,False
+1960,Illinois,IL,governor,William Stratton,Republican,44.3,False,True
+1960,Illinois,IL,governor,Edward C. Gross,Labor,0.19,False,False
+1960,Indiana,IN,governor,Matthew E. Welsh,Democratic,50.4,True,False
+1960,Indiana,IN,governor,Crawford F. Parker,Republican,49.3,False,False
+1960,Indiana,IN,governor,J. Ralston Miller,Prohibition,0.28,False,False
+1960,Indiana,IN,governor,Herman Kronewitter,Labor,0.04,False,False
+1960,Iowa,IA,governor,Norman A. Erbe,Republican,52.1,True,False
+1960,Iowa,IA,governor,Edward Joseph McManus,Democratic,47.9,False,False
+1960,Kansas,KS,governor,John Anderson Jr.,Republican,55.5,True,False
+1960,Kansas,KS,governor,George Docking,Democratic,43.6,False,True
+1960,Kansas,KS,governor,J.J. Steele,Prohibition,1.0,False,False
+1960,Maine,ME,governor,John H. Reed,Republican,52.7,True,True
+1960,Maine,ME,governor,Frank M. Coffin,Democratic,47.3,False,False
+1960,Massachusetts,MA,governor,John Volpe,Republican,52.5,True,False
+1960,Massachusetts,MA,governor,Joseph D. Ward,Democratic,46.8,False,False
+1960,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.39,False,False
+1960,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.31,False,False
+1960,Michigan,MI,governor,John Swainson,Democratic,50.5,True,False
+1960,Michigan,MI,governor,Paul Douglas Bagwell,Republican,49.2,False,False
+1960,Michigan,MI,governor,Robert Himmel Jr.,Workers,0.1,False,False
+1960,Michigan,MI,governor,Delmar D. Gibbons,Prohibition,0.07,False,False
+1960,Michigan,MI,governor,F.J. Toohey,Independent,0.06,False,False
+1960,Michigan,MI,governor,Theos A. Grove,Labor,0.05,False,False
+1960,Michigan,MI,governor,R. Roy Pursell,Independent American,0.04,False,False
+1960,Minnesota,MN,governor,Elmer L. Andersen,Republican,50.6,True,False
+1960,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,49.1,False,True
+1960,Minnesota,MN,governor,Rudolph Gustafson,Independent,0.36,False,False
+1960,Missouri,MO,governor,John M. Dalton,Democratic,58.0,True,False
+1960,Missouri,MO,governor,Edward G. Farmer,Republican,42.0,False,False
+1960,Montana,MT,governor,Donald Grant Nutter,Republican,55.1,True,False
+1960,Montana,MT,governor,Paul Cannon,Democratic,44.9,False,False
+1960,Nebraska,NE,governor,Frank B. Morrison,Democratic,52.0,True,False
+1960,Nebraska,NE,governor,John Cooper,Republican,48.0,False,False
+1960,New Hampshire,NH,governor,Wesley Powell,Republican,55.5,True,True
+1960,New Hampshire,NH,governor,Bernard L. Boutin,Democratic,44.5,False,False
+1960,New Mexico,NM,governor,Edwin L. Mechem,Republican,50.33,True,False
+1960,New Mexico,NM,governor,John Burroughs,Democratic,49.67,False,True
+1960,North Carolina,NC,governor,Terry Sanford,Democratic,54.5,True,False
+1960,North Carolina,NC,governor,Robert L. Gavin,Republican,45.5,False,False
+1960,North Carolina,NC,governor,I. Beverly Lake,Independent,0.08,False,False
+1960,North Dakota,ND,governor,William L. Guy,North Dakota Democratic-npl,49.4,True,False
+1960,North Dakota,ND,governor,Clarence P. Dahl,Republican,44.5,False,False
+1960,North Dakota,ND,governor,Herschel Lashkowitz,Independent,6.1,False,False
+1960,Rhode Island,RI,governor,John A. Notte Jr.,Democratic,56.6,True,False
+1960,Rhode Island,RI,governor,Christopher Del Sesto,Republican,43.4,False,True
+1960,South Dakota,SD,governor,Archie M. Gubbrud,Republican,50.7,True,False
+1960,South Dakota,SD,governor,Ralph Herseth,Democratic,49.3,False,True
+1960,Texas,TX,governor,Price Daniel,Democratic,72.8,True,True
+1960,Texas,TX,governor,William Steger,Republican,27.3,False,False
+1960,Utah,UT,governor,George Dewey Clyde,Republican,52.7,True,True
+1960,Utah,UT,governor,William Arthur Barlocker,Democratic,47.3,False,False
+1960,Vermont,VT,governor,F. Ray Keyser Jr.,Republican,56.4,True,False
+1960,Vermont,VT,governor,Russell F. Niquette,Democratic,43.6,False,False
+1960,Washington,WA,governor,Albert Rosellini,Democratic,50.3,True,True
+1960,Washington,WA,governor,Lloyd J. Andrews,Republican,48.9,False,False
+1960,Washington,WA,governor,Henry Killman,Labor,0.7,False,False
+1960,Washington,WA,governor,Jack W. Wright,Workers,0.1,False,False
+1960,West Virginia,WV,governor,Wally Barron,Democratic,54.0,True,False
+1960,West Virginia,WV,governor,Harold E. Neely,Republican,46.0,False,False
+1960,Wisconsin,WI,governor,Gaylord Nelson,Democratic,51.6,True,True
+1960,Wisconsin,WI,governor,Philip G. Kuehn,Republican,48.4,False,False
+1962,Alabama,AL,governor,George Wallace,Democratic,96.3,True,False
+1962,Alabama,AL,governor,Frank P. Walls,Republican,3.7,False,False
+1962,Alaska,AK,governor,William A. Egan,Democratic,52.3,True,True
+1962,Alaska,AK,governor,Mike Stepovich,Republican,47.7,False,False
+1962,Arizona,AZ,governor,Paul Fannin,Republican,54.8,True,True
+1962,Arizona,AZ,governor,Samuel Pearson Goddard Jr.,Democratic,45.2,False,False
+1962,Arkansas,AR,governor,Orval Faubus,Democratic,73.3,True,True
+1962,Arkansas,AR,governor,Willis Ricketts,Republican,26.7,False,False
+1962,California,CA,governor,Pat Brown,Democratic,51.9,True,True
+1962,California,CA,governor,Richard Nixon,Republican,46.9,False,False
+1962,California,CA,governor,Robert L. Wyckoff,Prohibition,1.1,False,False
+1962,Colorado,CO,governor,John A. Love,Republican,56.7,True,False
+1962,Colorado,CO,governor,Stephen McNichols,Democratic,42.6,False,True
+1962,Colorado,CO,governor,Louis K. Stephens,Labor,0.4,False,False
+1962,Colorado,CO,governor,Stephen L. DeArvil,Independent,0.3,False,False
+1962,Connecticut,CT,governor,John N. Dempsey,Democratic,53.2,True,True
+1962,Connecticut,CT,governor,John deKoven Alsop,Republican,46.8,False,False
+1962,Georgia,GA,governor,Carl Sanders,Democratic,99.95,True,False
+1962,Hawaii,HI,governor,John A. Burns,Democratic,58.3,True,False
+1962,Hawaii,HI,governor,William F. Quinn,Republican,41.7,False,True
+1962,Idaho,ID,governor,Robert E. Smylie,Republican,54.6,True,True
+1962,Idaho,ID,governor,Vernon K. Smith,Democratic,45.4,False,False
+1962,Iowa,IA,governor,Harold Hughes,Democratic,52.6,True,False
+1962,Iowa,IA,governor,Norman A. Erbe,Republican,47.4,False,True
+1962,Kansas,KS,governor,John Anderson Jr.,Republican,53.4,True,True
+1962,Kansas,KS,governor,Dale E. Saffels,Democratic,45.6,False,False
+1962,Kansas,KS,governor,Vearl Bacon,Prohibition,1.0,False,False
+1962,Maine,ME,governor,John H. Reed,Republican,50.08,True,True
+1962,Maine,ME,governor,Maynard C. Dolloff,Democratic,49.92,False,False
+1962,Maryland,MD,governor,J. Millard Tawes,Democratic,55.6,True,True
+1962,Maryland,MD,governor,Frank Small,Republican,44.4,False,False
+1962,Massachusetts,MA,governor,Endicott Peabody,Democratic,49.92,True,False
+1962,Massachusetts,MA,governor,John Volpe,Republican,49.71,False,True
+1962,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.26,False,False
+1962,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.11,False,False
+1962,Michigan,MI,governor,George W. Romney,Republican,51.4,True,False
+1962,Michigan,MI,governor,John Swainson,Democratic,48.5,False,True
+1962,Michigan,MI,governor,James Sim,Labor,0.2,False,False
+1962,Minnesota,MN,governor,Karl Rolvaag,Minnesota Democratic-farmer-labor,49.714,True,False
+1962,Minnesota,MN,governor,Elmer L. Andersen,Republican,49.706,False,True
+1962,Minnesota,MN,governor,William Braatz,Independent,0.58,False,False
+1962,Nebraska,NE,governor,Frank B. Morrison,Democratic,52.2,True,True
+1962,Nebraska,NE,governor,Fred A. Seaton,Republican,47.8,False,False
+1962,Nevada,NV,governor,Grant Sawyer,Democratic,66.8,True,True
+1962,Nevada,NV,governor,Oran K. Gragson,Republican,33.2,False,False
+1962,New Hampshire,NH,governor,John W. King,Democratic,58.9,True,False
+1962,New Hampshire,NH,governor,John Pillsbury,Republican,41.1,False,False
+1962,New Mexico,NM,governor,Jack M. Campbell,Democratic,53.0,True,False
+1962,New Mexico,NM,governor,Edwin L. Mechem,Republican,47.0,False,True
+1962,New York,NY,governor,Nelson Rockefeller,Republican,53.1,True,True
+1962,New York,NY,governor,Robert Morgenthau,Democratic,44.0,False,False
+1962,New York,NY,governor,David H. Jaquith,Conservative,2.4,False,False
+1962,New York,NY,governor,Richard Garza,Workers,0.3,False,False
+1962,New York,NY,governor,Eric Hass,Labor,0.2,False,False
+1962,North Dakota,ND,governor,William L. Guy,North Dakota Democratic-npl,50.44,True,True
+1962,North Dakota,ND,governor,Mark Andrews,Republican,49.56,False,False
+1962,Ohio,OH,governor,Jim Rhodes,Republican,58.9,True,False
+1962,Ohio,OH,governor,Michael DiSalle,Democratic,41.1,False,True
+1962,Oklahoma,OK,governor,Henry Bellmon,Republican,55.3,True,False
+1962,Oklahoma,OK,governor,W.P. Atkinson,Democratic,44.4,False,False
+1962,Oklahoma,OK,governor,Richard Zavitz,Independent,0.3,False,False
+1962,Oregon,OR,governor,Mark Hatfield,Republican,54.2,True,True
+1962,Oregon,OR,governor,Robert Y. Thornton,Democratic,41.6,False,False
+1962,Oregon,OR,governor,Robert H. Wampler,Independent,4.1,False,False
+1962,Pennsylvania,PA,governor,William Scranton,Republican,55.4,True,False
+1962,Pennsylvania,PA,governor,Richardson Dilworth,Democratic,44.3,False,False
+1962,Pennsylvania,PA,governor,George Sam Taylor,Labor,0.33,False,False
+1962,Rhode Island,RI,governor,John Chafee,Republican,50.06,True,False
+1962,Rhode Island,RI,governor,John A. Notte Jr.,Democratic,49.94,False,True
+1962,South Carolina,SC,governor,Donald S. Russell,Democratic,100.0,True,False
+1962,South Dakota,SD,governor,Archie M. Gubbrud,Republican,56.1,True,True
+1962,South Dakota,SD,governor,Ralph Herseth,Democratic,43.9,False,False
+1962,Tennessee,TN,governor,Frank G. Clement,Democratic,50.9,True,False
+1962,Tennessee,TN,governor,William Anderson,Independent,32.8,False,False
+1962,Tennessee,TN,governor,Hubert David Patty,Republican,16.1,False,False
+1962,Tennessee,TN,governor,E.B. Bowles,Independent,0.2,False,False
+1962,Texas,TX,governor,John Connally,Democratic,54.0,True,False
+1962,Texas,TX,governor,Jack Cox,Republican,45.6,False,False
+1962,Texas,TX,governor,Jack Carswell,"Constitution Party (us, 1952)",0.45,False,False
+1962,Vermont,VT,governor,Philip H. Hoff,Democratic,50.54,True,False
+1962,Vermont,VT,governor,F. Ray Keyser Jr.,Republican,49.46,False,True
+1962,Wisconsin,WI,governor,John W. Reynolds Jr.,Democratic,50.37,True,False
+1962,Wisconsin,WI,governor,Philip G. Kuehn,Republican,49.43,False,False
+1962,Wisconsin,WI,governor,Adolf Wiggert,Independent,0.2,False,False
+1962,Wyoming,WY,governor,Clifford Hansen,Republican,54.5,True,False
+1962,Wyoming,WY,governor,Jack R. Gage,Democratic,45.5,False,True
+1964,Arizona,AZ,governor,Sam Goddard Jr.,Democratic,53.2,True,False
+1964,Arizona,AZ,governor,Richard Kleindienst,Republican,46.8,False,False
+1964,Arkansas,AR,governor,Orval Faubus,Democratic,57.0,True,True
+1964,Arkansas,AR,governor,Winthrop Rockefeller,Republican,43.0,False,False
+1964,Delaware,DE,governor,Charles L. Terry Jr.,Democratic,51.4,True,False
+1964,Delaware,DE,governor,David P. Buckson,Republican,48.7,False,False
+1964,Florida,FL,governor,W. Haydon Burns,Democratic,56.2,True,False
+1964,Florida,FL,governor,Charles R. Holley,Republican,41.3,False,False
+1964,Florida,FL,governor,Write-ins,,2.6,False,False
+1964,Illinois,IL,governor,Otto Kerner Jr.,Democratic,51.9,True,True
+1964,Illinois,IL,governor,Charles H. Percy,Republican,48.1,False,False
+1964,Indiana,IN,governor,Roger D. Branigin,Democratic,56.2,True,False
+1964,Indiana,IN,governor,Richard O. Ristine,Republican,43.5,False,False
+1964,Indiana,IN,governor,Chester G. Bohannon,Prohibition,0.28,False,False
+1964,Indiana,IN,governor,Gordon A. Long,Labor,0.06,False,False
+1964,Iowa,IA,governor,Harold Hughes,Democratic,68.1,True,True
+1964,Iowa,IA,governor,Evan Hultman,Republican,31.3,False,False
+1964,Iowa,IA,governor,Robert Dilley,Conservative,0.7,False,False
+1964,Kansas,KS,governor,William H. Avery,Republican,50.9,True,False
+1964,Kansas,KS,governor,Harry G. Wiles,Democratic,47.1,False,False
+1964,Kansas,KS,governor,Kenneth L. Myers,Conservative,1.4,False,False
+1964,Kansas,KS,governor,Harry E. Livermore,Prohibition,0.7,False,False
+1964,Massachusetts,MA,governor,John Volpe,Republican,50.27,True,False
+1964,Massachusetts,MA,governor,Francis Bellotti,Democratic,49.29,False,False
+1964,Massachusetts,MA,governor,Francis A. Votano,Labor,0.27,False,False
+1964,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.16,False,False
+1964,Michigan,MI,governor,George W. Romney,Republican,55.9,True,True
+1964,Michigan,MI,governor,Neil Staebler,Democratic,43.7,False,False
+1964,Michigan,MI,governor,Frank Lovell,Workers,0.18,False,False
+1964,Michigan,MI,governor,Albert B. Cleage Jr.,Independent,0.15,False,False
+1964,Michigan,MI,governor,James Horvath,Labor,0.06,False,False
+1964,Missouri,MO,governor,Warren E. Hearnes,Democratic,62.1,True,False
+1964,Missouri,MO,governor,Ethan Shepley,Republican,37.9,False,False
+1964,Montana,MT,governor,Tim Babcock,Republican,51.3,True,True
+1964,Montana,MT,governor,Roland Renne,Democratic,48.7,False,False
+1964,Nebraska,NE,governor,Frank B. Morrison,Democratic,60.0,True,True
+1964,Nebraska,NE,governor,Dwight Burney,Republican,40.0,False,False
+1964,New Hampshire,NH,governor,John W. King,Democratic,66.8,True,True
+1964,New Hampshire,NH,governor,John Pillsbury,Republican,33.2,False,False
+1964,New Mexico,NM,governor,Jack M. Campbell,Democratic,60.2,True,True
+1964,New Mexico,NM,governor,Merle H. Tucker,Republican,39.8,False,False
+1964,North Carolina,NC,governor,Dan K. Moore,Democratic,56.6,True,False
+1964,North Carolina,NC,governor,Robert L. Gavin,Republican,43.4,False,False
+1964,North Dakota,ND,governor,William L. Guy,North Dakota Democratic-npl,55.7,True,True
+1964,North Dakota,ND,governor,Donald M. Halcrow,Republican,44.3,False,False
+1964,Rhode Island,RI,governor,John Chafee,Republican,61.2,True,True
+1964,Rhode Island,RI,governor,Edward P. Gallogly,Democratic,38.9,False,False
+1964,South Dakota,SD,governor,Nils Boe,Republican,51.7,True,False
+1964,South Dakota,SD,governor,John F. Lindley,Democratic,48.3,False,False
+1964,Texas,TX,governor,John Connally,Democratic,73.8,True,True
+1964,Texas,TX,governor,Jack Crichton,Republican,26.0,False,False
+1964,Texas,TX,governor,John C. Williams,"Constitution Party (us, 1952)",0.2,False,False
+1964,Utah,UT,governor,Cal Rampton,Democratic,57.0,True,False
+1964,Utah,UT,governor,Mitchell Melich,Republican,43.0,False,False
+1964,Vermont,VT,governor,Philip H. Hoff,Democratic,65.4,True,True
+1964,Vermont,VT,governor,Ralph A. Foote,Republican,34.6,False,False
+1964,Washington,WA,governor,Daniel J. Evans,Republican,55.8,True,False
+1964,Washington,WA,governor,Albert Rosellini,Democratic,43.9,False,True
+1964,Washington,WA,governor,Henry Killman,Labor,0.4,False,False
+1964,West Virginia,WV,governor,Hulett C. Smith,Democratic,54.9,True,False
+1964,West Virginia,WV,governor,Cecil Underwood,Republican,45.1,False,False
+1964,Wisconsin,WI,governor,Warren P. Knowles,Republican,50.6,True,False
+1964,Wisconsin,WI,governor,John W. Reynolds Jr.,Democratic,49.4,False,True
+1966,Alabama,AL,governor,Lurleen Wallace,Democratic,63.4,True,False
+1966,Alabama,AL,governor,James D. Martin,Republican,31.0,False,False
+1966,Alabama,AL,governor,Carl Robinson,Independent,5.6,False,False
+1966,Alaska,AK,governor,Wally Hickel,Republican,50.0,True,False
+1966,Alaska,AK,governor,William A. Egan,Democratic,48.4,False,True
+1966,Alaska,AK,governor,John F. Grasse,Independent,1.6,False,False
+1966,Arizona,AZ,governor,Jack Williams,Republican,53.8,True,False
+1966,Arizona,AZ,governor,Sam Goddard Jr.,Democratic,46.2,False,True
+1966,Arkansas,AR,governor,Winthrop Rockefeller,Republican,54.4,True,False
+1966,Arkansas,AR,governor,James D. Johnson,Democratic,45.6,False,False
+1966,California,CA,governor,Ronald Reagan,Republican,57.6,True,False
+1966,California,CA,governor,Pat Brown,Democratic,42.3,False,True
+1966,Colorado,CO,governor,John A. Love,Republican,54.1,True,True
+1966,Colorado,CO,governor,Robert Lee Knous,Democratic,43.5,False,False
+1966,Colorado,CO,governor,Levi Martinez,Independent,2.5,False,False
+1966,Connecticut,CT,governor,John N. Dempsey,Democratic,55.7,True,True
+1966,Connecticut,CT,governor,E. Clayton Gengras,Republican,44.3,False,False
+1966,Florida,FL,governor,Claude R. Kirk Jr.,Republican,55.1,True,False
+1966,Florida,FL,governor,Robert King High,Democratic,44.9,False,False
+1966,Georgia,GA,governor,Election:,,,True,False
+1966,Georgia,GA,governor,Bo Callaway,Republican,46.53,True,False
+1966,Georgia,GA,governor,Lester Maddox,Democratic,46.22,False,False
+1966,Georgia,GA,governor,Ellis Arnall,Independent,7.08,False,False
+1966,Georgia,GA,governor,Delegate count:,,,True,False
+1966,Hawaii,HI,governor,John A. Burns,Democratic,51.1,True,True
+1966,Hawaii,HI,governor,Randolph Crossley,Republican,48.9,False,False
+1966,Idaho,ID,governor,Don Samuelson,Republican,41.4,True,False
+1966,Idaho,ID,governor,Cecil Andrus,Democratic,37.1,False,False
+1966,Idaho,ID,governor,Perry Swisher,Independent,12.2,False,False
+1966,Idaho,ID,governor,Philip Jungert,Independent,9.2,False,False
+1966,Idaho,ID,governor,Don Walker,Independent,0.1,False,False
+1966,Iowa,IA,governor,Harold Hughes,Democratic,55.3,True,True
+1966,Iowa,IA,governor,William G. Murray,Republican,44.2,False,False
+1966,Iowa,IA,governor,David B. Quiner,Independent,0.4,False,False
+1966,Iowa,IA,governor,Charles Sloca,Independent,0.1,False,False
+1966,Kansas,KS,governor,Robert Docking,Democratic,54.8,True,False
+1966,Kansas,KS,governor,William H. Avery,Republican,43.9,False,True
+1966,Kansas,KS,governor,Rolland Ernest Fisher,Prohibition,0.7,False,False
+1966,Kansas,KS,governor,Carson Crawford,Conservative,0.6,False,False
+1966,Maine,ME,governor,Kenneth M. Curtis,Democratic,53.1,True,False
+1966,Maine,ME,governor,John H. Reed,Republican,46.9,False,True
+1966,Maryland,MD,governor,Spiro Agnew,Republican,49.5,True,False
+1966,Maryland,MD,governor,George P. Mahoney,Democratic,40.6,False,False
+1966,Maryland,MD,governor,Hyman A. Pressman,Independent,9.9,False,False
+1966,Massachusetts,MA,governor,John A. Volpe,Republican,62.5,True,True
+1966,Massachusetts,MA,governor,Edward J. McCormack Jr.,Democratic,36.9,False,False
+1966,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.3,False,False
+1966,Massachusetts,MA,governor,John C. Hedges,Prohibition,0.2,False,False
+1966,Michigan,MI,governor,George W. Romney,Republican,60.5,True,True
+1966,Michigan,MI,governor,Zolton Ferency,Democratic,39.1,False,False
+1966,Michigan,MI,governor,James Horvath,Labor,0.3,False,False
+1966,Minnesota,MN,governor,Harold LeVander,Republican,52.6,True,False
+1966,Minnesota,MN,governor,Karl Rolvaag,Democratic,46.9,False,True
+1966,Minnesota,MN,governor,Kenneth Sachs,Independent,0.5,False,False
+1966,Nebraska,NE,governor,Norbert Tiemann,Republican,61.5,True,False
+1966,Nebraska,NE,governor,Philip Sorensen,Democratic,38.4,False,False
+1966,Nevada,NV,governor,Paul Laxalt,Republican,52.1,True,False
+1966,Nevada,NV,governor,Grant Sawyer,Democratic,47.8,False,True
+1966,New Hampshire,NH,governor,John W. King,Democratic,53.9,True,True
+1966,New Hampshire,NH,governor,Hugh Gregg,Republican,45.9,False,False
+1966,New Mexico,NM,governor,David Cargo,Republican,51.7,True,False
+1966,New Mexico,NM,governor,Thomas E. Lusk,Democratic,48.2,False,False
+1966,New York,NY,governor,Nelson Rockefeller,Republican,44.6,True,True
+1966,New York,NY,governor,Frank D. O'Connor,Democratic,38.1,False,False
+1966,New York,NY,governor,Paul Adams,Conservative,8.5,False,False
+1966,New York,NY,governor,Franklin D. Roosevelt Jr.,Liberal,8.4,False,False
+1966,New York,NY,governor,Milton Herder,Labor,0.2,False,False
+1966,New York,NY,governor,Judith White,Independent,0.2,False,False
+1966,Ohio,OH,governor,Jim Rhodes,Republican,62.2,True,True
+1966,Ohio,OH,governor,Frazier Reams Jr.,Democratic,37.8,False,False
+1966,Oklahoma,OK,governor,Dewey F. Bartlett,Republican,55.7,True,False
+1966,Oklahoma,OK,governor,Preston J. Moore,Democratic,43.8,False,False
+1966,Oklahoma,OK,governor,Harry E. Ingram,Independent,0.6,False,False
+1966,Oregon,OR,governor,Tom McCall,Republican,55.3,True,False
+1966,Oregon,OR,governor,Robert W. Straub,Democratic,44.7,False,False
+1966,Pennsylvania,PA,governor,Raymond P. Shafer,Republican,52.1,True,False
+1966,Pennsylvania,PA,governor,Milton Shapp,Democratic,46.2,False,False
+1966,Pennsylvania,PA,governor,Edward S. Swartz,Independent,1.4,False,False
+1966,Pennsylvania,PA,governor,George S. Taylor,Independent,0.4,False,False
+1966,Rhode Island,RI,governor,John Chafee,Republican,63.3,True,True
+1966,Rhode Island,RI,governor,Horace E. Hobbs,Democratic,36.7,False,False
+1966,South Carolina,SC,governor,Robert Evander McNair,Democratic,58.2,True,True
+1966,South Carolina,SC,governor,Joseph O. Rogers Jr.,Republican,41.9,False,False
+1966,South Dakota,SD,governor,Nils Boe,Republican,57.7,True,True
+1966,South Dakota,SD,governor,Robert Chamberlin,Democratic,42.3,False,False
+1966,Tennessee,TN,governor,Buford Ellington,Democratic,81.2,True,False
+1966,Tennessee,TN,governor,H.L. Crowder,Independent,9.8,False,False
+1966,Tennessee,TN,governor,Charlie Moffett,Independent,7.7,False,False
+1966,Tennessee,TN,governor,Charles Gordon Vick,Independent,1.3,False,False
+1966,Texas,TX,governor,John Connally,Democratic,72.8,True,True
+1966,Texas,TX,governor,Thomas Everton Kennedy,Republican,25.8,False,False
+1966,Texas,TX,governor,Tommye Gillespie,Independent,0.7,False,False
+1966,Texas,TX,governor,Brad Logan,Conservative,0.7,False,False
+1966,Vermont,VT,governor,Philip H. Hoff,Democratic,57.7,True,True
+1966,Vermont,VT,governor,Richard A. Snelling,Republican,42.3,False,False
+1966,Wisconsin,WI,governor,Warren P. Knowles,Republican,53.5,True,True
+1966,Wisconsin,WI,governor,Patrick Lucey,Democratic,46.1,False,False
+1966,Wisconsin,WI,governor,Adolf Wiggert,Independent,0.4,False,False
+1966,Wyoming,WY,governor,Stanley K. Hathaway,Republican,54.3,True,False
+1966,Wyoming,WY,governor,Ernest Wilkerson,Democratic,45.7,False,False
+1968,Arizona,AZ,governor,Jack Williams,Republican,57.8,True,True
+1968,Arizona,AZ,governor,Sam Goddard Jr.,Democratic,42.2,False,False
+1968,Arkansas,AR,governor,Winthrop Rockefeller,Republican,52.4,True,True
+1968,Arkansas,AR,governor,Marion H. Crank,Democratic,47.6,False,False
+1968,Delaware,DE,governor,Russell W. Peterson,Republican,50.51,True,False
+1968,Delaware,DE,governor,Charles L. Terry Jr.,Democratic,49.49,False,True
+1968,Illinois,IL,governor,Richard B. Ogilvie,Republican,51.2,True,False
+1968,Illinois,IL,governor,Samuel H. Shapiro,Democratic,48.4,False,True
+1968,Illinois,IL,governor,Edward C. Gross,Labor,0.4,False,False
+1968,Indiana,IN,governor,Edgar Whitcomb,Republican,52.7,True,False
+1968,Indiana,IN,governor,Robert L. Rock,Democratic,47.1,False,False
+1968,Indiana,IN,governor,Melvin E. Hawk,Prohibition,0.15,False,False
+1968,Iowa,IA,governor,Robert D. Ray,Republican,54.1,True,False
+1968,Iowa,IA,governor,Paul Franzenburg,Democratic,45.9,False,False
+1968,Iowa,IA,governor,Harry Miller,Prohibition,0.08,False,False
+1968,Kansas,KS,governor,Robert Docking,Democratic,51.9,True,True
+1968,Kansas,KS,governor,Rick Harman,Republican,47.6,False,False
+1968,Kansas,KS,governor,Marshall Uncapher,Prohibition,0.5,False,False
+1968,Missouri,MO,governor,Warren E. Hearnes,Democratic,60.8,True,True
+1968,Missouri,MO,governor,Lawrence K. Roos,Republican,39.2,False,False
+1968,Montana,MT,governor,Forrest H. Anderson,Democratic,54.1,True,False
+1968,Montana,MT,governor,Tim Babcock,Republican,41.9,False,True
+1968,Montana,MT,governor,Wayne Montgomery,Independent,4.0,False,False
+1968,New Hampshire,NH,governor,Walter R. Peterson Jr.,Republican,52.5,True,False
+1968,New Hampshire,NH,governor,Emile R. Bussiere,Democratic,47.4,False,False
+1968,New Mexico,NM,governor,David Cargo,Republican,50.21,True,True
+1968,New Mexico,NM,governor,Fabian Chavez Jr.,Democratic,49.29,False,False
+1968,New Mexico,NM,governor,Jose Maestes,Independent,0.48,False,False
+1968,North Carolina,NC,governor,Robert W. Scott,Democratic,52.7,True,False
+1968,North Carolina,NC,governor,Jim Gardner,Republican,47.3,False,False
+1968,North Dakota,ND,governor,William L. Guy,North Dakota Democratic-npl,54.8,True,True
+1968,North Dakota,ND,governor,Robert P. McCarney,Republican,43.7,False,False
+1968,North Dakota,ND,governor,Leo Landsberger,Independent,1.5,False,False
+1968,Rhode Island,RI,governor,Frank Licht,Democratic,51.0,True,False
+1968,Rhode Island,RI,governor,John Chafee,Republican,49.0,False,True
+1968,South Dakota,SD,governor,Frank Farrar,Republican,57.7,True,False
+1968,South Dakota,SD,governor,Robert Chamberlin,Democratic,42.4,False,False
+1968,Texas,TX,governor,Preston Smith,Democratic,57.0,True,False
+1968,Texas,TX,governor,Paul Eggers,Republican,43.0,False,False
+1968,Utah,UT,governor,Cal Rampton,Democratic,68.7,True,True
+1968,Utah,UT,governor,Carl W. Buehner,Republican,31.3,False,False
+1968,Vermont,VT,governor,Deane C. Davis,Republican,55.5,True,False
+1968,Vermont,VT,governor,John J. Daley,Democratic,44.5,False,False
+1968,Washington,WA,governor,Daniel J. Evans,Republican,54.7,True,True
+1968,Washington,WA,governor,John J. O'Connell,Democratic,44.3,False,False
+1968,Washington,WA,governor,Ken Chriswell,Conservative,0.9,False,False
+1968,Washington,WA,governor,Henry Killman,Labor,,False,False
+1968,West Virginia,WV,governor,Arch A. Moore Jr.,Republican,50.9,True,False
+1968,West Virginia,WV,governor,James Marshall Sprouse,Democratic,49.1,False,False
+1968,Wisconsin,WI,governor,Warren P. Knowles,Republican,52.9,True,True
+1968,Wisconsin,WI,governor,Bronson La Follette,Democratic,46.8,False,False
+1968,Wisconsin,WI,governor,Adolf Wiggert,Labor,0.2,False,False
+1968,Wisconsin,WI,governor,Robert Wilkinson,Workers,0.1,False,False
+1970,Alabama,AL,governor,George Wallace,Democratic,74.5,True,False
+1970,Alabama,AL,governor,John L. Cashin,Democratic,14.7,False,False
+1970,Alabama,AL,governor,A.C. Shelton,Independent,8.9,False,False
+1970,Alabama,AL,governor,Jerome B. Couch,Prohibition,1.1,False,False
+1970,Alabama,AL,governor,Menter G. Walker,Independent,0.4,False,False
+1970,Alabama,AL,governor,John Watts,Independent,0.4,False,False
+1970,Alaska,AK,governor,William A. Egan,Democratic,52.4,True,False
+1970,Alaska,AK,governor,Keith Miller,Republican,46.1,False,True
+1970,Alaska,AK,governor,Ralph M. Anderson,Independent,1.5,False,False
+1970,Arizona,AZ,governor,Jack Williams,Republican,50.9,True,True
+1970,Arizona,AZ,governor,Raúl Héctor Castro,Democratic,49.1,False,False
+1970,Arkansas,AR,governor,Dale Bumpers,Democratic,61.7,True,False
+1970,Arkansas,AR,governor,Winthrop Rockefeller,Republican,32.4,False,True
+1970,Arkansas,AR,governor,Walter L. Carruth,American,5.9,False,False
+1970,California,CA,governor,Ronald Reagan,Republican,52.8,True,True
+1970,California,CA,governor,Jesse M. Unruh,Democratic,45.1,False,False
+1970,California,CA,governor,Ricardo Romo,Independent,1.0,False,False
+1970,California,CA,governor,William K. Shearer,Independent,1.0,False,False
+1970,Colorado,CO,governor,John A. Love,Republican,52.5,True,True
+1970,Colorado,CO,governor,Mark Anthony Hogan,Democratic,45.2,False,False
+1970,Colorado,CO,governor,Albert Gurule,Unida,1.8,False,False
+1970,Colorado,CO,governor,Walter R. Plankinton,Independent,0.3,False,False
+1970,Colorado,CO,governor,James Lauderdale,Workers,0.2,False,False
+1970,Connecticut,CT,governor,Thomas Meskill,Republican,53.8,True,False
+1970,Connecticut,CT,governor,Emilio Daddario,Democratic,46.2,False,False
+1970,Florida,FL,governor,Reubin Askew,Democratic,56.9,True,False
+1970,Florida,FL,governor,Claude R. Kirk Jr.,Republican,43.1,False,True
+1970,Georgia,GA,governor,Jimmy Carter,Democratic,59.3,True,False
+1970,Georgia,GA,governor,Hal Suit,Republican,40.6,False,False
+1970,Hawaii,HI,governor,John A. Burns,Democratic,57.7,True,True
+1970,Hawaii,HI,governor,Samuel Pailthorpe King,Republican,42.4,False,False
+1970,Idaho,ID,governor,Cecil Andrus,Democratic,52.2,True,False
+1970,Idaho,ID,governor,Don Samuelson,Republican,47.8,False,True
+1970,Iowa,IA,governor,Robert D. Ray,Republican,51.0,True,True
+1970,Iowa,IA,governor,Robert D. Fulton,Democratic,46.6,False,False
+1970,Iowa,IA,governor,Robert Dilley,Independent,2.4,False,False
+1970,Kansas,KS,governor,Robert Docking,Democratic,54.3,True,True
+1970,Kansas,KS,governor,Kent Frizzell,Republican,44.7,False,False
+1970,Kansas,KS,governor,P. Everett Sperry,Conservative,0.6,False,False
+1970,Kansas,KS,governor,Marshall Uncapher,Prohibition,0.4,False,False
+1970,Maine,ME,governor,Kenneth M. Curtis,Democratic,50.14,True,True
+1970,Maine,ME,governor,James S. Erwin,Republican,49.86,False,False
+1970,Maryland,MD,governor,Marvin Mandel,Democratic,65.7,True,True
+1970,Maryland,MD,governor,Charles Stanley Blair,Republican,32.4,False,False
+1970,Maryland,MD,governor,Robert Woods Merkle Jr.,American,2.0,False,False
+1970,Massachusetts,MA,governor,Francis Sargent,Republican,56.7,True,True
+1970,Massachusetts,MA,governor,Kevin White,Democratic,42.8,False,False
+1970,Massachusetts,MA,governor,Henning A. Blomen,Labor,0.4,False,False
+1970,Massachusetts,MA,governor,John C. Hedges,Prohibition,0.2,False,False
+1970,Michigan,MI,governor,William Milliken,Republican,50.4,True,True
+1970,Michigan,MI,governor,Sander Levin,Democratic,48.7,False,False
+1970,Michigan,MI,governor,James L. McCormick,Independent,0.7,False,False
+1970,Michigan,MI,governor,George Bouse,Workers,0.1,False,False
+1970,Michigan,MI,governor,James Horvath,Labor,0.1,False,False
+1970,Minnesota,MN,governor,Wendell R. Anderson,Minnesota Democratic-farmer-labor,54.0,True,False
+1970,Minnesota,MN,governor,Douglas M. Head,Republican,45.5,False,False
+1970,Minnesota,MN,governor,Karl H. Heck,Independent,0.4,False,False
+1970,Minnesota,MN,governor,Jack O. Kirkham,Independent,0.1,False,False
+1970,Nebraska,NE,governor,J. James Exon,Democratic,53.8,True,False
+1970,Nebraska,NE,governor,Norbert Tiemann,Republican,43.8,False,True
+1970,Nebraska,NE,governor,Albert C. Walsh,American,2.4,False,False
+1970,Nevada,NV,governor,Mike O'Callaghan,Democratic,48.1,True,False
+1970,Nevada,NV,governor,Edward Fike,Republican,43.8,False,False
+1970,Nevada,NV,governor,Charles E. Springer,Independent,4.4,False,False
+1970,Nevada,NV,governor,Daniel M. Hansen,American,3.7,False,False
+1970,New Hampshire,NH,governor,Walter R. Peterson Jr.,Republican,46.0,True,True
+1970,New Hampshire,NH,governor,Roger J. Crowley,Democratic,44.1,False,False
+1970,New Hampshire,NH,governor,Meldrim Thomson Jr.,American,9.9,False,False
+1970,New Mexico,NM,governor,Bruce King,Democratic,51.3,True,False
+1970,New Mexico,NM,governor,Pete Domenici,Republican,46.4,False,False
+1970,New Mexico,NM,governor,John A. Salazar,Independent,1.6,False,False
+1970,New Mexico,NM,governor,Wilfredo Sedillo,Independent,0.8,False,False
+1970,New York,NY,governor,Nelson Rockefeller,Republican,52.4,True,True
+1970,New York,NY,governor,Arthur Goldberg,Democratic,40.3,False,False
+1970,New York,NY,governor,Paul Adams,Conservative,7.0,False,False
+1970,New York,NY,governor,Rasheed Storey,Communist,0.1,False,False
+1970,New York,NY,governor,Clifton DeBerry,Workers,0.1,False,False
+1970,New York,NY,governor,Stephen Emery,Labor,0.1,False,False
+1970,Ohio,OH,governor,John J. Gilligan,Democratic,54.2,True,False
+1970,Ohio,OH,governor,Roger Cloud,Republican,43.4,False,False
+1970,Oklahoma,OK,governor,David Hall,Democratic,48.42,True,False
+1970,Oklahoma,OK,governor,Dewey F. Bartlett,Republican,48.11,False,True
+1970,Oklahoma,OK,governor,Reuel Little,American,3.48,False,False
+1970,Oregon,OR,governor,Tom McCall,Republican,55.6,True,True
+1970,Oregon,OR,governor,Robert W. Straub,Democratic,44.2,False,False
+1970,Oregon,OR,governor,Doug McCall,Independent,0.2,False,False
+1970,Pennsylvania,PA,governor,Milton Shapp,Democratic,55.2,True,False
+1970,Pennsylvania,PA,governor,Raymond J. Broderick,Republican,41.7,False,False
+1970,Pennsylvania,PA,governor,Andrew J. Watson,Independent,2.3,False,False
+1970,Pennsylvania,PA,governor,Francis McGeever,Independent,0.6,False,False
+1970,Pennsylvania,PA,governor,George S. Taylor,Independent,0.1,False,False
+1970,Pennsylvania,PA,governor,Clarissa Cain,Independent,0.1,False,False
+1970,Pennsylvania,PA,governor,Pearl Cherlov,Workers,0.1,False,False
+1970,Rhode Island,RI,governor,Frank Licht,Democratic,50.07,True,True
+1970,Rhode Island,RI,governor,Herbert F. DeSimone,Republican,49.53,False,False
+1970,Rhode Island,RI,governor,John E. Powers,Workers,0.4,False,False
+1970,South Carolina,SC,governor,John C. West,Democratic,51.7,True,False
+1970,South Carolina,SC,governor,Albert Watson,Republican,45.6,False,False
+1970,South Carolina,SC,governor,A.W. Bethea,Independent,2.0,False,False
+1970,South Carolina,SC,governor,Thomas D. Broadwater,Independent,0.7,False,False
+1970,South Dakota,SD,governor,Richard F. Kneip,Democratic,54.9,True,False
+1970,South Dakota,SD,governor,Frank Farrar,Republican,45.2,False,True
+1970,Tennessee,TN,governor,Winfield Dunn,Republican,52.0,True,False
+1970,Tennessee,TN,governor,John Jay Hooker,Democratic,46.0,False,False
+1970,Tennessee,TN,governor,Douglas L. Heinsohn,American,2.1,False,False
+1970,Texas,TX,governor,Preston Smith,Democratic,53.4,True,True
+1970,Texas,TX,governor,Paul Eggers,Republican,46.6,False,False
+1970,Vermont,VT,governor,Deane C. Davis,Republican,57.0,True,True
+1970,Vermont,VT,governor,Leo O'Brien Jr.,Democratic,43.0,False,False
+1970,Wisconsin,WI,governor,Patrick Lucey,Democratic,54.2,True,False
+1970,Wisconsin,WI,governor,Jack B. Olson,Republican,44.9,False,False
+1970,Wisconsin,WI,governor,Leo James McDonald,American,0.7,False,False
+1970,Wisconsin,WI,governor,Georgia Cozzini,Independent,0.1,False,False
+1970,Wisconsin,WI,governor,Samuel K. Hunt,Independent,0.1,False,False
+1970,Wisconsin,WI,governor,Myrtle Kastner,Independent,0.1,False,False
+1970,Wyoming,WY,governor,Stanley K. Hathaway,Republican,62.8,True,True
+1970,Wyoming,WY,governor,John J. Rooney,Democratic,37.2,False,False
+1970,Guam,GU,governor,Carlos Camacho,Republican,55.8,True,False
+1970,Guam,GU,governor,Ricardo Bordallo,Democratic,44.2,False,False
+1970,U.S. Virgin Islands,VI,governor,Melvin H. Evans,Republican,52.5,True,False
+1970,U.S. Virgin Islands,VI,governor,Cyril King,Independent,47.5,False,False
 2000,Delaware,DE,governor,Ruth Ann Minner,Democratic,59.2,True,False
 2000,Delaware,DE,governor,John M. Burris,Republican,39.7,False,False
 2000,Delaware,DE,governor,Floyd E. McDowell,Independent,1.0,False,False

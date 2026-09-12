@@ -1,0 +1,9 @@
+year,state,state_code,office,election,row_type,candidate,party,votes,percentage,winner,incumbent
+1993,New Jersey,NJ,governor,Democratic primary results,Winning,James Florio,Democratic,200420,100.0,True,True
+1993,New Jersey,NJ,governor,Democratic primary results,Total,,,200420,100.0,False,False
+1993,New Jersey,NJ,governor,Republican Party primary results,Winning,Christine Todd Whitman,Republican,159765,39.96,True,False
+1993,New Jersey,NJ,governor,Republican Party primary results,Candidate,W. Cary Edwards,Republican,131578,32.91,False,False
+1993,New Jersey,NJ,governor,Republican Party primary results,Candidate,James Wallwork,Republican,96034,24.02,False,False
+1993,New Jersey,NJ,governor,Republican Party primary results,Candidate,Charles P. Hoffman (withdrawn),Republican,6695,1.67,False,False
+1993,New Jersey,NJ,governor,Republican Party primary results,Candidate,J. Patrick Gilligan,Republican,5753,1.44,False,False
+1993,New Jersey,NJ,governor,Republican Party primary results,Total,,,399825,100.0,False,False

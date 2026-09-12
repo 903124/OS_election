@@ -1,1160 +1,1160 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-1976,house,Alabama,AL,1,Jack Edwards,Republican,62.5,True,True,False
-1976,house,Alabama,AL,1,Bill Davenport,Democratic,37.5,False,False,False
-1976,house,Alabama,AL,2,William Louis Dickinson,Republican,57.6,True,True,False
-1976,house,Alabama,AL,2,J. Carole Keahey,Democratic,42.4,False,False,False
-1976,house,Alabama,AL,3,Bill Nichols,Democratic,99.0,True,True,False
-1976,house,Alabama,AL,3,Ogburn Gardner,Unknown,1.0,False,False,False
-1976,house,Alabama,AL,4,Tom Bevill,Democratic,80.4,True,True,False
-1976,house,Alabama,AL,4,Leonard Wilson,Republican,19.6,False,False,False
-1976,house,Alabama,AL,5,Ronnie Flippo,Democratic,100.0,True,False,True
-1976,house,Alabama,AL,6,John Hall Buchanan Jr.,Republican,56.7,True,True,False
-1976,house,Alabama,AL,6,Mel Bailey,Democratic,42.7,False,False,False
-1976,house,Alabama,AL,6,Billy E. Dorsey,Unknown,0.6,False,False,False
-1976,house,Alabama,AL,7,Walter Flowers,Democratic,100.0,True,True,False
-1976,house,Alaska,AK,AL,Don Young,Republican,71.0,True,True,False
-1976,house,Alaska,AK,AL,Eben Hopson,Democratic,29.0,False,False,False
-1976,house,Arizona,AZ,1,John Jacob Rhodes,Republican,57.3,True,True,False
-1976,house,Arizona,AZ,1,Pat Fullinwider,Democratic,40.7,False,False,False
-1976,house,Arizona,AZ,1,Sumner Duncan Dodge,Unknown,1.4,False,False,False
-1976,house,Arizona,AZ,1,Harry Braun,Independent,0.6,False,False,False
-1976,house,Arizona,AZ,2,Mo Udall,Democratic,58.2,True,True,False
-1976,house,Arizona,AZ,2,Laird Guttersen,Republican,39.4,False,False,False
-1976,house,Arizona,AZ,2,Michael Emerling,Unknown,2.4,False,False,False
-1976,house,Arizona,AZ,3,Bob Stump,Democratic,47.5,True,False,True
-1976,house,Arizona,AZ,3,Fred Koory Jr.,Republican,42.3,False,False,True
-1976,house,Arizona,AZ,3,Bill McCune,Independent,10.2,False,False,True
-1976,house,Arizona,AZ,4,Eldon Rudd,Republican,48.6,True,False,True
-1976,house,Arizona,AZ,4,Tony Mason,Democratic,48.2,False,False,True
-1976,house,Arizona,AZ,4,Pat Harper,Unknown,3.1,False,False,True
-1976,house,Arkansas,AR,1,William Vollie Alexander Jr.,Democratic,68.9,True,True,False
-1976,house,Arkansas,AR,1,Harlan Holleman,Republican,31.1,False,False,False
-1976,house,Arkansas,AR,2,Jim Guy Tucker,Democratic,86.4,True,False,True
-1976,house,Arkansas,AR,2,James J. Kelly,Republican,13.6,False,False,True
-1976,house,Arkansas,AR,2,Joe McNew,Unknown,0.005,False,False,True
-1976,house,Arkansas,AR,3,John Paul Hammerschmidt,Republican,100.0,True,True,False
-1976,house,Arkansas,AR,4,Ray Thornton,Democratic,100.0,True,True,False
-1976,house,California,CA,1,Harold T. Johnson,Democratic,73.9,True,True,False
-1976,house,California,CA,1,James E. Taylor,Republican,26.1,False,False,False
-1976,house,California,CA,2,Donald H. Clausen,Republican,56.0,True,True,False
-1976,house,California,CA,2,Oscar Klee,Democratic,41.0,False,False,False
-1976,house,California,CA,2,"Robert B. ""Bob"" Allred",Peace and Freedom,3.0,False,False,False
-1976,house,California,CA,3,John E. Moss,Democratic,72.9,True,True,False
-1976,house,California,CA,3,George R. Marsh Jr.,Republican,27.1,False,False,False
-1976,house,California,CA,4,Robert L. Leggett,Democratic,50.2,True,True,False
-1976,house,California,CA,4,Albert Dehr,Republican,49.8,False,False,False
-1976,house,California,CA,5,John L. Burton,Democratic,61.8,True,True,False
-1976,house,California,CA,5,Branwell Fanning,Republican,38.2,False,False,False
-1976,house,California,CA,6,Phillip Burton,Democratic,66.1,True,True,False
-1976,house,California,CA,6,Tom Spinosa,Republican,27.0,False,False,False
-1976,house,California,CA,6,Emily L. Siegel,Peace and Freedom,5.0,False,False,False
-1976,house,California,CA,6,"Raymond O. ""Ray"" Heaps",American Independent,1.9,False,False,False
-1976,house,California,CA,7,George Miller,Democratic,74.7,True,True,False
-1976,house,California,CA,7,Robert L. Vickers,Republican,23.3,False,False,False
-1976,house,California,CA,7,Melvin E. Stanley,American Independent,2.0,False,False,False
-1976,house,California,CA,8,Ron Dellums,Democratic,62.1,True,True,False
-1976,house,California,CA,8,Philip Stiles Breck Jr.,Republican,34.7,False,False,False
-1976,house,California,CA,8,Robert J. Evans,Peace and Freedom,3.2,False,False,False
-1976,house,California,CA,9,Pete Stark,Democratic,70.8,True,True,False
-1976,house,California,CA,9,James K. Mills,Republican,27.1,False,False,False
-1976,house,California,CA,9,Albert L. Sargis,Peace and Freedom,2.1,False,False,False
-1976,house,California,CA,10,Don Edwards,Democratic,72.0,True,True,False
-1976,house,California,CA,10,Herb Smith,Republican,24.5,False,False,False
-1976,house,California,CA,10,Edmon V. Kaiser,American Independent,3.5,False,False,False
-1976,house,California,CA,11,Leo Ryan,Democratic,61.1,True,True,False
-1976,house,California,CA,11,Bob Jones,Republican,35.4,False,False,False
-1976,house,California,CA,11,Nicholas W. Kudrovzeff,American Independent,3.5,False,False,False
-1976,house,California,CA,12,Pete McCloskey,Republican,66.2,True,True,False
-1976,house,California,CA,12,David Harris,Democratic,31.3,False,False,False
-1976,house,California,CA,12,"Joseph David ""Joss"" Cooney",American Independent,2.5,False,False,False
-1976,house,California,CA,13,Norman Mineta,Democratic,66.8,True,True,False
-1976,house,California,CA,13,Ernie Konnyu,Republican,31.2,False,False,False
-1976,house,California,CA,13,William Pollock Herrell,American Independent,2.1,False,False,False
-1976,house,California,CA,14,John J. McFall,Democratic,72.5,True,True,False
-1976,house,California,CA,14,Roger A. Blain,Republican,27.5,False,False,False
-1976,house,California,CA,15,B. F. Sisk,Democratic,72.2,True,True,False
-1976,house,California,CA,15,Carol O. Harner,Republican,27.8,False,False,False
-1976,house,California,CA,16,Leon Panetta,Democratic,53.4,True,False,False
-1976,house,California,CA,16,Burt L. Talcott,Republican,46.6,False,True,False
-1976,house,California,CA,17,John Hans Krebs,Democratic,65.7,True,True,False
-1976,house,California,CA,17,Henry J. Andreas,Republican,34.3,False,False,False
-1976,house,California,CA,18,William M. Ketchum,Republican,64.2,True,True,False
-1976,house,California,CA,18,Dean Close,Democratic,35.8,False,False,False
-1976,house,California,CA,19,Robert J. Lagomarsino,Republican,64.4,True,True,False
-1976,house,California,CA,19,Dan Sisson,Democratic,35.6,False,False,False
-1976,house,California,CA,20,Barry Goldwater Jr.,Republican,67.2,True,True,False
-1976,house,California,CA,20,Patti Lear Corman,Democratic,32.8,False,False,False
-1976,house,California,CA,21,James C. Corman,Democratic,66.5,True,True,False
-1976,house,California,CA,21,"Erwin ""Ed"" Hogan",Republican,28.8,False,False,False
-1976,house,California,CA,21,Bill Hill,Peace and Freedom,4.7,False,False,False
-1976,house,California,CA,22,Carlos Moorhead,Republican,62.6,True,True,False
-1976,house,California,CA,22,Robert L. Salley,Democratic,37.4,False,False,False
-1976,house,California,CA,23,Anthony Beilenson,Democratic,60.2,True,False,True
-1976,house,California,CA,23,Thomas F. Bartman,Republican,39.8,False,False,True
-1976,house,California,CA,24,Henry Waxman,Democratic,67.8,True,True,False
-1976,house,California,CA,24,David Irving Simmons,Republican,32.2,False,False,False
-1976,house,California,CA,25,Edward R. Roybal,Democratic,71.9,True,True,False
-1976,house,California,CA,25,Jim Madrid,Republican,22.0,False,False,False
-1976,house,California,CA,25,Marilyn Seals,Peace and Freedom,6.1,False,False,False
-1976,house,California,CA,26,John H. Rousselot,Republican,65.6,True,True,False
-1976,house,California,CA,26,Bruce Latta,Democratic,34.4,False,False,False
-1976,house,California,CA,27,Bob Dornan,Republican,54.7,True,False,True
-1976,house,California,CA,27,Gary Familian,Democratic,45.3,False,False,True
-1976,house,California,CA,28,Yvonne Brathwaite Burke,Democratic,80.2,True,True,False
-1976,house,California,CA,28,Edward S. Skinner,Republican,19.8,False,False,False
-1976,house,California,CA,29,Augustus Hawkins,Democratic,85.4,True,True,False
-1976,house,California,CA,29,Michael D. Germonprez,Republican,11.2,False,False,False
-1976,house,California,CA,29,Sheila Leburg,Independent,3.3,False,False,False
-1976,house,California,CA,30,George E. Danielson,Democratic,74.4,True,True,False
-1976,house,California,CA,30,Harry Couch,Republican,25.6,False,False,False
-1976,house,California,CA,31,Charles H. Wilson,Democratic,100.0,True,True,False
-1976,house,California,CA,32,Glenn M. Anderson,Democratic,72.2,True,True,False
-1976,house,California,CA,32,Clifford O. Young,Republican,27.8,False,False,False
-1976,house,California,CA,33,Del M. Clawson,Republican,55.1,True,True,False
-1976,house,California,CA,33,Ted Snyder,Democratic,44.9,False,False,False
-1976,house,California,CA,34,Mark W. Hannaford,Democratic,50.7,True,True,False
-1976,house,California,CA,34,Dan Lungren,Republican,49.3,False,False,False
-1976,house,California,CA,35,James F. Lloyd,Democratic,53.3,True,True,False
-1976,house,California,CA,35,Louis Brutocao,Republican,46.7,False,False,False
-1976,house,California,CA,36,George Brown Jr.,Democratic,61.6,True,True,True
-1976,house,California,CA,36,Grant Carner,Republican,33.5,False,False,True
-1976,house,California,CA,36,William Emery Pasley,American Independent,5.0,False,False,True
-1976,house,California,CA,37,Shirley Neil Pettis,Republican,71.1,True,True,False
-1976,house,California,CA,37,Douglas C. Nilson Jr.,Democratic,26.1,False,False,False
-1976,house,California,CA,37,Bernard Wahl,American Independent,2.8,False,False,False
-1976,house,California,CA,38,Jerry M. Patterson,Democratic,63.6,True,True,False
-1976,house,California,CA,38,"James ""Jim"" Combs",Republican,36.4,False,False,False
-1976,house,California,CA,39,Charles E. Wiggins,Republican,58.6,True,True,False
-1976,house,California,CA,39,"William E. ""Bill"" Farris",Democratic,41.4,False,False,False
-1976,house,California,CA,40,Robert Badham,Republican,59.3,True,False,False
-1976,house,California,CA,40,Vivian Hall,Democratic,40.7,False,False,False
-1976,house,California,CA,41,Bob Wilson,Republican,57.7,True,True,False
-1976,house,California,CA,41,King Golden Jr.,Democratic,42.3,False,False,False
-1976,house,California,CA,42,Lionel Van Deerlin,Democratic,76.0,True,True,False
-1976,house,California,CA,42,Wes Marden,Republican,24.0,False,False,False
-1976,house,California,CA,43,Clair Burgener,Republican,65.0,True,True,False
-1976,house,California,CA,43,Pat Kelly,Democratic,35.0,False,False,False
-1976,house,Colorado,CO,1,Pat Schroeder,Democratic,53.2,True,True,False
-1976,house,Colorado,CO,1,Don Friedman,Republican,46.2,False,False,False
-1976,house,Colorado,CO,1,Priscilla Schenk,Unknown,0.4,False,False,False
-1976,house,Colorado,CO,1,Lann Meyers,Labor,0.3,False,False,False
-1976,house,Colorado,CO,2,Tim Wirth,Democratic,50.5,True,True,False
-1976,house,Colorado,CO,2,Ed Scott,Republican,49.5,False,False,False
-1976,house,Colorado,CO,3,Frank Evans,Democratic,51.0,True,True,False
-1976,house,Colorado,CO,3,Melvin H. Takaki,Republican,47.0,False,False,False
-1976,house,Colorado,CO,3,Alfredo Archer,Unknown,1.4,False,False,False
-1976,house,Colorado,CO,3,Henry John Olshaw,Unknown,0.7,False,False,False
-1976,house,Colorado,CO,4,James Paul Johnson,Republican,54.0,True,True,False
-1976,house,Colorado,CO,4,Daniel M. Ogden Jr.,Democratic,34.8,False,False,False
-1976,house,Colorado,CO,4,Dick Davis,Independent,9.2,False,False,False
-1976,house,Colorado,CO,4,Henry Thiel Jr.,Independent,1.9,False,False,False
-1976,house,Colorado,CO,5,William L. Armstrong,Republican,66.4,True,True,False
-1976,house,Colorado,CO,5,Dorothy Hores,Democratic,33.6,False,False,False
-1976,house,Connecticut,CT,1,William R. Cotter,Democratic,57.1,True,True,False
-1976,house,Connecticut,CT,1,Lucien P. Di Fazio Jr.,Republican,41.8,False,False,False
-1976,house,Connecticut,CT,1,Charlie A. Burke,Unknown,0.6,False,False,False
-1976,house,Connecticut,CT,1,Donna C. McDonough,Labor,0.5,False,False,False
-1976,house,Connecticut,CT,2,Chris Dodd,Democratic,65.1,True,True,False
-1976,house,Connecticut,CT,2,Richard M. Jackson,Republican,34.1,False,False,False
-1976,house,Connecticut,CT,2,Anthony Discepolo,Independent,0.8,False,False,False
-1976,house,Connecticut,CT,3,Robert Giaimo,Democratic,54.4,True,True,False
-1976,house,Connecticut,CT,3,John G. Pucciano,Republican,43.7,False,False,False
-1976,house,Connecticut,CT,3,Joelle R. Fishman,Unknown,1.3,False,False,False
-1976,house,Connecticut,CT,3,Robert G. Cossette,Unknown,0.6,False,False,False
-1976,house,Connecticut,CT,4,Stewart McKinney,Republican,61.0,True,True,False
-1976,house,Connecticut,CT,4,Geoffrey G. Peterson,Democratic,37.1,False,False,False
-1976,house,Connecticut,CT,4,Richard H. G. Cunningham,Unknown,1.6,False,False,False
-1976,house,Connecticut,CT,4,Zoltan Toth Solymossy,Conservative,0.3,False,False,False
-1976,house,Connecticut,CT,5,Ronald A. Sarasin,Republican,66.5,True,True,False
-1976,house,Connecticut,CT,5,Michael J. Adanti,Democratic,32.7,False,False,False
-1976,house,Connecticut,CT,5,William Kozak Jr.,Unknown,0.7,False,False,False
-1976,house,Connecticut,CT,6,Toby Moffett,Democratic,56.6,True,True,False
-1976,house,Connecticut,CT,6,Thomas F. Upson,Republican,43.0,False,False,False
-1976,house,Connecticut,CT,6,Louis J. Marietta,Independent,0.4,False,False,False
-1976,house,Delaware,DE,AL,Thomas B. Evans Jr.,Republican,51.4,True,False,True
-1976,house,Delaware,DE,AL,Samuel L. Shipley,Democratic,47.6,False,False,True
-1976,house,Delaware,DE,AL,Robert G. LoPresti,Unknown,0.4,False,False,True
-1976,house,Delaware,DE,AL,Raymond R. Green,Unknown,0.3,False,False,True
-1976,house,Delaware,DE,AL,Joseph B. Hollon Sr.,Unknown,0.2,False,False,True
-1976,house,Delaware,DE,AL,Philip Valenti,Labor,0.07,False,False,True
-1976,house,Florida,FL,1,Bob Sikes,Democratic,100.0,True,True,True
-1976,house,Florida,FL,2,Don Fuqua,Democratic,100.0,True,True,False
-1976,house,Florida,FL,3,Charles E. Bennett,Democratic,100.0,True,True,False
-1976,house,Florida,FL,4,Bill Chappell,Democratic,100.0,True,True,False
-1976,house,Florida,FL,5,Richard Kelly,Republican,59.0,True,True,False
-1976,house,Florida,FL,5,JoAnn Saunders,Democratic,41.0,False,False,False
-1976,house,Florida,FL,6,Bill Young,Republican,65.2,True,True,False
-1976,house,Florida,FL,6,Gabriel Cazares,Democratic,34.8,False,False,False
-1976,house,Florida,FL,6,Wally Staff,Unknown,0.01,False,False,False
-1976,house,Florida,FL,7,Sam Gibbons,Democratic,65.7,True,True,False
-1976,house,Florida,FL,7,Dusty Owens,Republican,34.3,False,False,False
-1976,house,Florida,FL,8,Andy Ireland,Democratic,58.0,True,False,True
-1976,house,Florida,FL,8,Bob Johnson,Republican,42.0,False,False,True
-1976,house,Florida,FL,9,Louis Frey Jr.,Republican,78.1,True,True,False
-1976,house,Florida,FL,9,Joseph A. Rosier,Democratic,21.9,False,False,False
-1976,house,Florida,FL,10,Skip Bafalis,Republican,66.3,True,True,False
-1976,house,Florida,FL,10,Bill Sikes,Democratic,33.7,False,False,False
-1976,house,Florida,FL,11,Paul Rogers,Democratic,91.1,True,True,False
-1976,house,Florida,FL,11,Clyde Adams,Unknown,8.9,False,False,False
-1976,house,Florida,FL,12,J. Herbert Burke,Republican,53.9,True,True,False
-1976,house,Florida,FL,12,Charles Friedman,Democratic,46.1,False,False,False
-1976,house,Florida,FL,12,Bob Davis,Unknown,0.03,False,False,False
-1976,house,Florida,FL,13,William Lehman,Democratic,78.3,True,True,False
-1976,house,Florida,FL,13,Lee Arnold Spiegelman,Republican,21.7,False,False,False
-1976,house,Florida,FL,14,Claude Pepper,Democratic,72.9,True,True,False
-1976,house,Florida,FL,14,Evelio S. Estrella,Republican,27.1,False,False,False
-1976,house,Florida,FL,15,Dante Fascell,Democratic,70.4,True,True,False
-1976,house,Florida,FL,15,Paul R. Cobb,Republican,29.6,False,False,False
-1976,house,Georgia,GA,1,"Ronald ""Bo"" Ginn",Democratic,100.0,True,True,False
-1976,house,Georgia,GA,2,Dawson Mathis,Democratic,100.0,True,True,False
-1976,house,Georgia,GA,3,Jack Brinkley,Democratic,88.7,True,True,False
-1976,house,Georgia,GA,3,Steven Dugan,Republican,11.3,False,False,False
-1976,house,Georgia,GA,4,Elliott H. Levitas,Democratic,68.3,True,True,False
-1976,house,Georgia,GA,4,George T. Warren II,Republican,31.7,False,False,False
-1976,house,Georgia,GA,5,Andrew Young,Democratic,66.7,True,True,False
-1976,house,Georgia,GA,5,Edward W. Gadrix,Republican,33.3,False,False,False
-1976,house,Georgia,GA,6,John Flynt,Democratic,51.7,True,True,False
-1976,house,Georgia,GA,6,Newt Gingrich,Republican,48.3,False,False,False
-1976,house,Georgia,GA,7,Larry McDonald,Democratic,55.1,True,True,False
-1976,house,Georgia,GA,7,Quincy Collins,Republican,44.9,False,False,False
-1976,house,Georgia,GA,8,Billy Lee Evans,Democratic,69.6,True,False,True
-1976,house,Georgia,GA,8,Billy Adams,Republican,30.4,False,False,True
-1976,house,Georgia,GA,9,Ed Jenkins,Democratic,79.1,True,False,True
-1976,house,Georgia,GA,9,Louise Wofford,Republican,20.9,False,False,True
-1976,house,Georgia,GA,10,Doug Barnard Jr.,Democratic,100.0,True,False,True
-1976,house,Hawaii,HI,1,Cecil Heftel,Democratic,43.6,True,False,True
-1976,house,Hawaii,HI,1,Frederick Rohlfing,Republican,39.1,False,False,True
-1976,house,Hawaii,HI,1,Kathy Joyce Hoshijo,Independent,17.3,False,False,True
-1976,house,Hawaii,HI,2,Daniel Akaka,Democratic,79.5,True,False,True
-1976,house,Hawaii,HI,2,Hank Inouye,Republican,15.3,False,False,True
-1976,house,Hawaii,HI,2,Bill Penaroza,Independent,2.2,False,False,True
-1976,house,Hawaii,HI,2,Dexter L. Cate,Unknown,1.5,False,False,True
-1976,house,Hawaii,HI,2,Don Smith,Unknown,1.4,False,False,True
-1976,house,Idaho,ID,1,Steve Symms,Republican,54.6,True,True,False
-1976,house,Idaho,ID,1,Ken Pursley,Democratic,45.4,False,False,False
-1976,house,Idaho,ID,2,George V. Hansen,Republican,50.6,True,True,True
-1976,house,Idaho,ID,2,Stan Kress,Democratic,49.4,False,False,True
-1976,house,Illinois,IL,1,Ralph Metcalfe,Democratic,92.3,True,True,False
-1976,house,Illinois,IL,1,A. A. Rayner Jr.,Republican,7.4,False,False,False
-1976,house,Illinois,IL,1,Debra Simonsen,Unknown,0.2,False,False,False
-1976,house,Illinois,IL,1,Andrew C. Pulley,Unknown,0.1,False,False,False
-1976,house,Illinois,IL,2,Morgan F. Murphy,Democratic,84.7,True,True,False
-1976,house,Illinois,IL,2,Spencer Leak,Republican,15.3,False,False,False
-1976,house,Illinois,IL,3,Marty Russo,Democratic,58.9,True,True,False
-1976,house,Illinois,IL,3,Ronald Buikema,Republican,40.5,False,False,False
-1976,house,Illinois,IL,3,Frank Collin,Unknown,0.7,False,False,False
-1976,house,Illinois,IL,4,Ed Derwinski,Republican,65.8,True,True,False
-1976,house,Illinois,IL,4,Ronald A. Rodger,Democratic,34.2,False,False,False
-1976,house,Illinois,IL,5,John G. Fary,Democratic,76.9,True,True,False
-1976,house,Illinois,IL,5,Vincent Krok,Republican,23.1,False,False,False
-1976,house,Illinois,IL,6,Henry Hyde,Republican,60.6,True,True,False
-1976,house,Illinois,IL,6,Marilyn D. Clancy,Democratic,39.4,False,False,False
-1976,house,Illinois,IL,7,Cardiss Collins,Democratic,84.8,True,True,False
-1976,house,Illinois,IL,7,Newell Ward,Republican,15.2,False,False,False
-1976,house,Illinois,IL,8,Dan Rostenkowski,Democratic,80.5,True,True,False
-1976,house,Illinois,IL,8,John F. Urbaszewski,Republican,19.5,False,False,False
-1976,house,Illinois,IL,9,Sidney R. Yates,Democratic,72.2,True,True,True
-1976,house,Illinois,IL,9,Thomas J. Wajerski,Republican,27.8,False,False,True
-1976,house,Illinois,IL,10,Abner Mikva,Democratic,50.0,True,True,False
-1976,house,Illinois,IL,10,Samuel H. Young,Republican,50.0,False,False,False
-1976,house,Illinois,IL,11,Frank Annunzio,Democratic,67.4,True,True,False
-1976,house,Illinois,IL,11,Daniel C. Reber,Republican,32.6,False,False,False
-1976,house,Illinois,IL,12,Phil Crane,Republican,72.8,True,True,False
-1976,house,Illinois,IL,12,Edwin L. Frank,Democratic,27.2,False,False,False
-1976,house,Illinois,IL,13,Robert McClory,Republican,66.8,True,True,False
-1976,house,Illinois,IL,13,James J. Cummings,Democratic,30.3,False,False,False
-1976,house,Illinois,IL,13,Donald G. DesLauriers,Independent,2.9,False,False,False
-1976,house,Illinois,IL,14,John N. Erlenborn,Republican,74.4,True,True,False
-1976,house,Illinois,IL,14,Marie Agnes Fese,Democratic,25.6,False,False,False
-1976,house,Illinois,IL,15,Tom Corcoran,Republican,53.9,True,False,False
-1976,house,Illinois,IL,15,Tim Lee Hall,Democratic,46.1,False,True,False
-1976,house,Illinois,IL,16,John B. Anderson,Republican,67.9,True,True,False
-1976,house,Illinois,IL,16,Stephen Eytalis,Democratic,32.1,False,False,False
-1976,house,Illinois,IL,17,George M. O'Brien,Republican,58.2,True,True,False
-1976,house,Illinois,IL,17,Merlin Karlock,Democratic,41.8,False,False,False
-1976,house,Illinois,IL,18,Robert H. Michel,Republican,57.7,True,True,False
-1976,house,Illinois,IL,18,Matthew Ryan,Democratic,42.3,False,False,False
-1976,house,Illinois,IL,19,Tom Railsback,Republican,68.5,True,True,False
-1976,house,Illinois,IL,19,John Craver,Democratic,31.5,False,False,False
-1976,house,Illinois,IL,20,Paul Findley,Republican,63.6,True,True,False
-1976,house,Illinois,IL,20,Peter F. Mack,Democratic,36.4,False,False,False
-1976,house,Illinois,IL,21,Ed Madigan,Republican,74.5,True,True,False
-1976,house,Illinois,IL,21,Anna Wall Scott,Democratic,25.5,False,False,False
-1976,house,Illinois,IL,22,George E. Shipley,Democratic,61.4,True,True,False
-1976,house,Illinois,IL,22,Ralph Y. McGinnis,Republican,38.6,False,False,False
-1976,house,Illinois,IL,23,Melvin Price,Democratic,78.6,True,True,False
-1976,house,Illinois,IL,23,Sam P. Drenovac,Republican,21.4,False,False,False
-1976,house,Illinois,IL,24,Paul Simon,Democratic,67.4,True,True,False
-1976,house,Illinois,IL,24,Peter G. Prineas,Republican,32.6,False,False,False
-1976,house,Indiana,IN,1,Adam Benjamin Jr.,Democratic,71.3,True,False,False
-1976,house,Indiana,IN,1,Robert J. Billings,Republican,28.7,False,False,False
-1976,house,Indiana,IN,2,Floyd Fithian,Democratic,54.7,True,True,False
-1976,house,Indiana,IN,2,William W. Erwin,Republican,44.5,False,False,False
-1976,house,Indiana,IN,2,James Hensley Logan,Unknown,0.8,False,False,False
-1976,house,Indiana,IN,3,John Brademas,Democratic,56.9,True,True,False
-1976,house,Indiana,IN,3,Thomas L. Thorson,Republican,43.1,False,False,False
-1976,house,Indiana,IN,4,Dan Quayle,Republican,54.4,True,False,False
-1976,house,Indiana,IN,4,J. Edward Roush,Democratic,44.6,False,True,False
-1976,house,Indiana,IN,4,Gail E. Gran,Unknown,1.0,False,False,False
-1976,house,Indiana,IN,5,Elwood Hillis,Republican,61.7,True,True,False
-1976,house,Indiana,IN,5,William C. Stout,Democratic,38.3,False,False,False
-1976,house,Indiana,IN,6,David W. Evans,Democratic,54.9,True,True,False
-1976,house,Indiana,IN,6,David G. Crane,Republican,45.1,False,False,False
-1976,house,Indiana,IN,7,John T. Myers,Republican,62.7,True,True,False
-1976,house,Indiana,IN,7,John E. Tipton,Democratic,37.3,False,False,False
-1976,house,Indiana,IN,8,David L. Cornwell,Democratic,50.5,True,False,True
-1976,house,Indiana,IN,8,Belden Bell,Republican,49.5,False,False,True
-1976,house,Indiana,IN,9,Lee H. Hamilton,Democratic,100.0,True,True,False
-1976,house,Indiana,IN,10,Philip Sharp,Democratic,59.8,True,True,False
-1976,house,Indiana,IN,10,Bill Frazier,Republican,40.2,False,False,False
-1976,house,Indiana,IN,11,Andrew Jacobs Jr.,Democratic,60.4,True,True,False
-1976,house,Indiana,IN,11,Lawrence L. Buell,Republican,39.0,False,False,False
-1976,house,Indiana,IN,11,John A. Einemann,Unknown,0.6,False,False,False
-1976,house,Iowa,IA,1,Jim Leach,Republican,51.9,True,False,False
-1976,house,Iowa,IA,1,Edward Mezvinsky,Democratic,47.8,False,True,False
-1976,house,Iowa,IA,1,Larry D. Smith,Unknown,0.2,False,False,False
-1976,house,Iowa,IA,2,Mike Blouin,Democratic,50.3,True,True,False
-1976,house,Iowa,IA,2,Tom Riley,Republican,49.1,False,False,False
-1976,house,Iowa,IA,2,James D. Roberson,Independent,0.4,False,False,False
-1976,house,Iowa,IA,2,Lorin E. Oxley,Unknown,0.2,False,False,False
-1976,house,Iowa,IA,3,Chuck Grassley,Republican,56.5,True,True,False
-1976,house,Iowa,IA,3,Stephen J. Rapp,Democratic,43.5,False,False,False
-1976,house,Iowa,IA,4,Neal Edward Smith,Democratic,69.1,True,True,False
-1976,house,Iowa,IA,4,Charles E. Minor,Republican,30.9,False,False,False
-1976,house,Iowa,IA,5,Tom Harkin,Democratic,64.9,True,True,False
-1976,house,Iowa,IA,5,Kenneth R. Fulk,Republican,34.1,False,False,False
-1976,house,Iowa,IA,5,Verlyn LeRoy Hayes,Unknown,1.0,False,False,False
-1976,house,Iowa,IA,6,Berkley Bedell,Democratic,67.4,True,True,False
-1976,house,Iowa,IA,6,Joanne D. Soper,Republican,31.5,False,False,False
-1976,house,Iowa,IA,6,William David Mincer,Unknown,1.1,False,False,False
-1976,house,Kansas,KS,1,Keith Sebelius,Republican,73.1,True,True,False
-1976,house,Kansas,KS,1,Randy Yowell,Democratic,26.9,False,False,False
-1976,house,Kansas,KS,2,Martha Keys,Democratic,50.7,True,True,False
-1976,house,Kansas,KS,2,Ross Freeman,Republican,47.4,False,False,False
-1976,house,Kansas,KS,2,"Charles V. ""Chuck"" Ijams",Unknown,1.1,False,False,False
-1976,house,Kansas,KS,2,David Scoggin,Unknown,0.8,False,False,False
-1976,house,Kansas,KS,3,Larry Winn,Republican,68.7,True,True,False
-1976,house,Kansas,KS,3,Philip S. Rhoads,Democratic,29.0,False,False,False
-1976,house,Kansas,KS,3,William W. Hyatt,Unknown,2.3,False,False,False
-1976,house,Kansas,KS,4,Dan Glickman,Democratic,50.3,True,False,False
-1976,house,Kansas,KS,4,Garner E. Shriver,Republican,48.5,False,True,False
-1976,house,Kansas,KS,4,Robert A. Cowdrey,Unknown,1.3,False,False,False
-1976,house,Kansas,KS,5,Joe Skubitz,Republican,60.7,True,True,False
-1976,house,Kansas,KS,5,Virgil Leon Olson,Democratic,36.2,False,False,False
-1976,house,Kansas,KS,5,Glen L. Rutherford,Unknown,3.2,False,False,False
-1976,house,Kentucky,KY,1,Carroll Hubbard,Democratic,82.0,True,True,False
-1976,house,Kentucky,KY,1,Bob Bersky,Republican,18.0,False,False,False
-1976,house,Kentucky,KY,2,William Natcher,Democratic,60.4,True,True,False
-1976,house,Kentucky,KY,2,Walter A. Baker,Republican,39.6,False,False,False
-1976,house,Kentucky,KY,3,Romano Mazzoli,Democratic,57.2,True,True,False
-1976,house,Kentucky,KY,3,Denzil J. Ramsey,Republican,41.2,False,False,False
-1976,house,Kentucky,KY,3,William P. Chambers,Unknown,1.6,False,False,False
-1976,house,Kentucky,KY,4,Gene Snyder,Republican,55.9,True,True,False
-1976,house,Kentucky,KY,4,Edward J. Winterberg,Democratic,44.1,False,False,False
-1976,house,Kentucky,KY,5,Tim Lee Carter,Republican,66.6,True,True,False
-1976,house,Kentucky,KY,5,Charles C. Smith,Democratic,32.7,False,False,False
-1976,house,Kentucky,KY,5,Albert G. J. Cullum,Unknown,0.7,False,False,False
-1976,house,Kentucky,KY,6,John B. Breckinridge,Democratic,94.0,True,True,False
-1976,house,Kentucky,KY,6,Anthony A. McCord,Republican,6.0,False,False,False
-1976,house,Kentucky,KY,7,Carl D. Perkins,Democratic,71.3,True,True,False
-1976,house,Kentucky,KY,7,Granville Thomas,Republican,28.7,False,False,False
-1976,house,Louisiana,LA,1,Richard Alvin Tonry,Democratic,47.2,True,False,True
-1976,house,Louisiana,LA,1,Bob Livingston,Republican,43.4,False,False,True
-1976,house,Louisiana,LA,1,John R. Rarick,Independent,9.4,False,False,True
-1976,house,Louisiana,LA,2,Lindy Boggs,Democratic,92.6,True,True,False
-1976,house,Louisiana,LA,2,"Jules W. ""Ted"" Hillery",Independent,7.4,False,False,False
-1976,house,Louisiana,LA,3,Dave Treen,Republican,73.3,True,True,False
-1976,house,Louisiana,LA,3,"David H. ""Pro"" Scheuermann Jr.",Democratic,26.7,False,False,False
-1976,house,Louisiana,LA,4,Joe Waggonner,Democratic,100.0,True,True,False
-1976,house,Louisiana,LA,5,Jerry Huckaby,Democratic,52.5,True,False,False
-1976,house,Louisiana,LA,5,Frank Spooner,Republican,47.5,False,False,False
-1976,house,Louisiana,LA,6,Henson Moore,Republican,65.2,True,True,False
-1976,house,Louisiana,LA,6,J. D. De Blieux,Democratic,34.8,False,False,False
-1976,house,Louisiana,LA,7,John Breaux,Democratic,83.3,True,True,False
-1976,house,Louisiana,LA,7,"Charles F. ""Chuck"" Huff",Republican,16.7,False,False,False
-1976,house,Louisiana,LA,8,Gillis William Long,Democratic,94.2,True,True,False
-1976,house,Louisiana,LA,8,Kent Courtney,Independent,5.8,False,False,False
-1976,house,Maine,ME,1,David F. Emery,Republican,57.4,True,True,False
-1976,house,Maine,ME,1,Frederick D. Barton,Democratic,42.6,False,False,False
-1976,house,Maine,ME,2,William Cohen,Republican,77.1,True,True,False
-1976,house,Maine,ME,2,Leighton Cooney,Democratic,19.7,False,False,False
-1976,house,Maine,ME,2,Jacqueline Francis Kaye,Independent,3.2,False,False,False
-1976,house,Maryland,MD,1,Robert Bauman,Republican,54.1,True,True,False
-1976,house,Maryland,MD,1,Roy Dyson,Democratic,45.9,False,False,False
-1976,house,Maryland,MD,2,Clarence Long,Democratic,70.9,True,True,False
-1976,house,Maryland,MD,2,John M. Seney,Republican,18.0,False,False,False
-1976,house,Maryland,MD,2,Ronald A. Meroney,Independent,11.1,False,False,False
-1976,house,Maryland,MD,3,Barbara Mikulski,Democratic,74.6,True,False,True
-1976,house,Maryland,MD,3,Samuel A. Culotta,Republican,25.4,False,False,True
-1976,house,Maryland,MD,4,Marjorie Holt,Republican,57.7,True,True,False
-1976,house,Maryland,MD,4,Werner Fornos,Democratic,42.3,False,False,False
-1976,house,Maryland,MD,5,Gladys Spellman,Democratic,57.7,True,True,False
-1976,house,Maryland,MD,5,John B. Burcham Jr.,Republican,42.3,False,False,False
-1976,house,Maryland,MD,6,Goodloe Byron,Democratic,70.8,True,True,False
-1976,house,Maryland,MD,6,Arthur T. Bond,Republican,29.2,False,False,False
-1976,house,Maryland,MD,7,Parren Mitchell,Democratic,94.4,True,True,False
-1976,house,Maryland,MD,7,William Salisbury,Independent,5.6,False,False,False
-1976,house,Maryland,MD,8,Newton Steers,Republican,46.8,True,False,True
-1976,house,Maryland,MD,8,Lanny Davis,Democratic,42.2,False,False,True
-1976,house,Maryland,MD,8,Robin Ficker,Independent,11.0,False,False,True
-1976,house,Massachusetts,MA,1,Silvio O. Conte,Republican,63.8,True,True,False
-1976,house,Massachusetts,MA,1,Edward A. McColgan,Democratic,36.2,False,False,False
-1976,house,Massachusetts,MA,2,Edward Boland,Democratic,72.4,True,True,False
-1976,house,Massachusetts,MA,2,Thomas P. Swank,Republican,22.4,False,False,False
-1976,house,Massachusetts,MA,2,John D. McCarthy,Labor,5.3,False,False,False
-1976,house,Massachusetts,MA,3,Joseph D. Early,Democratic,100.0,True,True,False
-1976,house,Massachusetts,MA,4,Robert Drinan,Democratic,52.1,True,True,False
-1976,house,Massachusetts,MA,4,Arthur D. Mason,Republican,47.9,False,False,False
-1976,house,Massachusetts,MA,5,Paul Tsongas,Democratic,67.3,True,True,False
-1976,house,Massachusetts,MA,5,Roger P. Durkin,Republican,32.7,False,False,False
-1976,house,Massachusetts,MA,6,Michael J. Harrington,Democratic,54.8,True,True,False
-1976,house,Massachusetts,MA,6,William E. Bronson,Republican,41.3,False,False,False
-1976,house,Massachusetts,MA,6,Lillian Cundari McGowan,Independent,3.9,False,False,False
-1976,house,Massachusetts,MA,7,Ed Markey,Democratic,76.9,True,False,True
-1976,house,Massachusetts,MA,7,Richard W. Daly,Republican,17.6,False,False,True
-1976,house,Massachusetts,MA,7,James J. Murphy,Independent,3.3,False,False,True
-1976,house,Massachusetts,MA,7,Harry G. Chickles,Independent,2.3,False,False,True
-1976,house,Massachusetts,MA,8,Tip O'Neill,Democratic,74.4,True,True,False
-1976,house,Massachusetts,MA,8,William A. Barnstead,Republican,18.7,False,False,False
-1976,house,Massachusetts,MA,8,Florenzo Di Donato,Independent,4.6,False,False,False
-1976,house,Massachusetts,MA,8,Leo F. Kahian,Unknown,2.2,False,False,False
-1976,house,Massachusetts,MA,9,Joe Moakley,Democratic,69.6,True,True,False
-1976,house,Massachusetts,MA,9,Robert G. Cunningham,Republican,23.1,False,False,False
-1976,house,Massachusetts,MA,9,Joseph M. O'Loughlin,Independent,5.3,False,False,False
-1976,house,Massachusetts,MA,9,"James ""Mac"" Warren",Unknown,2.0,False,False,False
-1976,house,Massachusetts,MA,10,Margaret Heckler,Republican,100.0,True,True,False
-1976,house,Massachusetts,MA,11,James A. Burke,Democratic,69.0,True,True,False
-1976,house,Massachusetts,MA,11,Danielle De Benedictis,Independent,31.0,False,False,False
-1976,house,Massachusetts,MA,12,Gerry Studds,Democratic,100.0,True,True,False
-1976,house,Michigan,MI,1,John Conyers Jr.,Democratic,92.4,True,True,False
-1976,house,Michigan,MI,1,Issac Hood,Republican,6.5,False,False,False
-1976,house,Michigan,MI,1,Hector M. McGregor,American Independent,0.5,False,False,False
-1976,house,Michigan,MI,1,B. R. Washington,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,1,Thomas W. Jones,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,1,Carolyn Nelson,Labor,0.2,False,False,False
-1976,house,Michigan,MI,2,Carl Pursell,Republican,49.8,True,False,True
-1976,house,Michigan,MI,2,Edward C. Pierce,Democratic,49.6,False,False,True
-1976,house,Michigan,MI,2,Philip S. Carroll,Unknown,0.3,False,False,True
-1976,house,Michigan,MI,2,Lawrence McKenna,Unknown,0.2,False,False,True
-1976,house,Michigan,MI,2,Ronald G. Ziegler,Labor,0.1,False,False,True
-1976,house,Michigan,MI,3,Garry E. Brown,Republican,50.6,True,True,False
-1976,house,Michigan,MI,3,Howard Wolpe,Democratic,48.6,False,False,False
-1976,house,Michigan,MI,3,Timothy W. Walter,American Independent,0.6,False,False,False
-1976,house,Michigan,MI,3,Charles H. Todd,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,3,Leda J. Stevens,Labor,0.06,False,False,False
-1976,house,Michigan,MI,4,David Stockman,Republican,60.0,True,False,True
-1976,house,Michigan,MI,4,Richard E. Daugherty,Democratic,38.8,False,False,True
-1976,house,Michigan,MI,4,Karl Friske,American Independent,1.0,False,False,True
-1976,house,Michigan,MI,4,Russell Severance,Unknown,0.2,False,False,True
-1976,house,Michigan,MI,4,David M. Hilty,Labor,0.07,False,False,True
-1976,house,Michigan,MI,5,Harold S. Sawyer,Republican,53.3,True,False,False
-1976,house,Michigan,MI,5,Richard F. Vander Veen,Democratic,46.2,False,True,False
-1976,house,Michigan,MI,5,Joe Berman,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,5,Gary D. Powell,Labor,0.2,False,False,False
-1976,house,Michigan,MI,6,Milton Robert Carr,Democratic,52.7,True,True,False
-1976,house,Michigan,MI,6,Clifford W. Taylor,Republican,46.5,False,False,False
-1976,house,Michigan,MI,6,James F. McClure,Unknown,0.7,False,False,False
-1976,house,Michigan,MI,6,Andrew Rotstein,Labor,0.09,False,False,False
-1976,house,Michigan,MI,7,Dale E. Kildee,Democratic,70.0,True,False,True
-1976,house,Michigan,MI,7,Robin Widgery,Republican,28.3,False,False,True
-1976,house,Michigan,MI,7,Jimmy L. Sabin,American Independent,0.8,False,False,True
-1976,house,Michigan,MI,7,Max Dean,Labor,0.5,False,False,True
-1976,house,Michigan,MI,7,Benjamin G. Hoffman,Unknown,0.4,False,False,True
-1976,house,Michigan,MI,8,J. Bob Traxler,Democratic,59.0,True,True,False
-1976,house,Michigan,MI,8,E. Brady Denton,Republican,40.4,False,False,False
-1976,house,Michigan,MI,8,Charles G. Johns,American Independent,0.5,False,False,False
-1976,house,Michigan,MI,8,David W. Thill,Labor,0.1,False,False,False
-1976,house,Michigan,MI,9,Guy Vander Jagt,Republican,70.0,True,True,False
-1976,house,Michigan,MI,9,Stephen E. Fawley,Democratic,29.4,False,False,False
-1976,house,Michigan,MI,9,DeLoyd G. Hesselink,American Independent,0.5,False,False,False
-1976,house,Michigan,MI,9,Joy Powell,Labor,0.1,False,False,False
-1976,house,Michigan,MI,9,William G. Friesser,Unknown,0.06,False,False,False
-1976,house,Michigan,MI,10,Elford Albin Cederberg,Republican,56.5,True,True,False
-1976,house,Michigan,MI,10,Donald J. Albosta,Democratic,42.8,False,False,False
-1976,house,Michigan,MI,10,Lawrence Dean,American Independent,0.6,False,False,False
-1976,house,Michigan,MI,10,Joseph D. D'Urso,Labor,0.1,False,False,False
-1976,house,Michigan,MI,11,Philip Ruppe,Republican,54.8,True,True,False
-1976,house,Michigan,MI,11,Francis D. Brouillette,Democratic,44.8,False,False,False
-1976,house,Michigan,MI,11,Elizabeth D. Pape,American Independent,0.2,False,False,False
-1976,house,Michigan,MI,11,Edward W. Aho,Unknown,0.1,False,False,False
-1976,house,Michigan,MI,11,John C. Hoffman,Labor,0.07,False,False,False
-1976,house,Michigan,MI,12,David Bonior,Democratic,52.4,True,False,True
-1976,house,Michigan,MI,12,David M. Serotkin,Republican,47.2,False,False,True
-1976,house,Michigan,MI,12,Gregory J. Clark,Unknown,0.2,False,False,True
-1976,house,Michigan,MI,12,Marielle Hammett Kronberg,Labor,0.2,False,False,True
-1976,house,Michigan,MI,13,Charles Diggs,Democratic,89.0,True,True,False
-1976,house,Michigan,MI,13,Richard A. Golden,Republican,9.6,False,False,False
-1976,house,Michigan,MI,13,Raymond Houle,American Independent,0.5,False,False,False
-1976,house,Michigan,MI,13,John Hawkins,Unknown,0.4,False,False,False
-1976,house,Michigan,MI,13,Melvin Brown,Labor,0.3,False,False,False
-1976,house,Michigan,MI,13,Harold L. DeWaters,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,14,Lucien Nedzi,Democratic,66.5,True,True,False
-1976,house,Michigan,MI,14,John Edward Getz,Republican,32.8,False,False,False
-1976,house,Michigan,MI,14,Maurice Geary,Unknown,0.3,False,False,False
-1976,house,Michigan,MI,14,Marshall F. Moser,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,14,Martha Hilty,Labor,0.1,False,False,False
-1976,house,Michigan,MI,14,Mark Severs,Unknown,0.1,False,False,False
-1976,house,Michigan,MI,15,William D. Ford,Democratic,74.0,True,True,False
-1976,house,Michigan,MI,15,James D. Walaskay,Republican,24.7,False,False,False
-1976,house,Michigan,MI,15,Aldi C. Fuhrmann,American Independent,0.5,False,False,False
-1976,house,Michigan,MI,15,Kathryn M. Augustin,Unknown,0.5,False,False,False
-1976,house,Michigan,MI,15,John Sarkisian,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,15,Allen Douglas,Labor,0.1,False,False,False
-1976,house,Michigan,MI,16,John D. Dingell Jr.,Democratic,75.9,True,True,False
-1976,house,Michigan,MI,16,William E. Rostron,Republican,22.7,False,False,False
-1976,house,Michigan,MI,16,Buck Miller Slayter,American Independent,0.6,False,False,False
-1976,house,Michigan,MI,16,Samuel S. Hancock,Unknown,0.3,False,False,False
-1976,house,Michigan,MI,16,Susann L. Dalto,Labor,0.3,False,False,False
-1976,house,Michigan,MI,16,Donald A. Bechler,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,17,William M. Brodhead,Democratic,64.2,True,True,False
-1976,house,Michigan,MI,17,James W. Burdick,Republican,34.4,False,False,False
-1976,house,Michigan,MI,17,Arve Bakken,American Independent,0.8,False,False,False
-1976,house,Michigan,MI,17,Christy L. Wallace,Unknown,0.3,False,False,False
-1976,house,Michigan,MI,17,C. M. Novess III,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,17,Scott Elliott,Labor,0.1,False,False,False
-1976,house,Michigan,MI,18,James J. Blanchard,Democratic,66.1,True,True,False
-1976,house,Michigan,MI,18,John E. Olsen,Republican,32.8,False,False,False
-1976,house,Michigan,MI,18,David Wengel Drexler,American Independent,0.6,False,False,False
-1976,house,Michigan,MI,18,Frank G. Rising,Unknown,0.2,False,False,False
-1976,house,Michigan,MI,18,K. Martin Keller,Labor,0.2,False,False,False
-1976,house,Michigan,MI,18,James C. Horvath,Unknown,0.1,False,False,False
-1976,house,Michigan,MI,19,William Broomfield,Republican,66.7,True,True,False
-1976,house,Michigan,MI,19,Dorthea Becker,Democratic,32.6,False,False,False
-1976,house,Michigan,MI,19,John Omar Muotka,American Independent,0.4,False,False,False
-1976,house,Michigan,MI,19,Therese S. Barbone,Unknown,0.3,False,False,False
-1976,house,Michigan,MI,19,Thomas Simpson,Labor,0.1,False,False,False
-1976,house,Minnesota,MN,1,Al Quie,Republican,68.2,True,True,False
-1976,house,Minnesota,MN,1,"Robert C. ""Bob"" Olson Jr.",DFL,30.5,False,False,False
-1976,house,Minnesota,MN,1,Lloyd Duwe,Unknown,1.3,False,False,False
-1976,house,Minnesota,MN,2,Tom Hagedorn,Republican,60.3,True,True,False
-1976,house,Minnesota,MN,2,Gloria Griffin,DFL,39.7,False,False,False
-1976,house,Minnesota,MN,3,Bill Frenzel,Republican,66.1,True,True,False
-1976,house,Minnesota,MN,3,Jerome W. Coughlin,DFL,32.0,False,False,False
-1976,house,Minnesota,MN,3,Clifford C. Mathias,Unknown,2.0,False,False,False
-1976,house,Minnesota,MN,4,Bruce Vento,DFL,66.4,True,False,True
-1976,house,Minnesota,MN,4,Andrew Engebretson,Republican,29.8,False,False,True
-1976,house,Minnesota,MN,4,Alan W. Uhl,Independent,1.5,False,False,True
-1976,house,Minnesota,MN,4,Thomas F. Piotrowski,Unknown,1.4,False,False,True
-1976,house,Minnesota,MN,4,Ralph Schwartz,Unknown,0.9,False,False,True
-1976,house,Minnesota,MN,5,Donald M. Fraser,DFL,70.7,True,True,False
-1976,house,Minnesota,MN,5,Richard M. Erdall,Republican,26.0,False,False,False
-1976,house,Minnesota,MN,5,Jack O. Kirkham,Unknown,1.6,False,False,False
-1976,house,Minnesota,MN,5,Chris Frank,Unknown,0.9,False,False,False
-1976,house,Minnesota,MN,5,Franklin T. Haws,Unknown,0.5,False,False,False
-1976,house,Minnesota,MN,5,Jean T. Brust,Unknown,0.3,False,False,False
-1976,house,Minnesota,MN,6,Rick Nolan,DFL,59.8,True,True,False
-1976,house,Minnesota,MN,6,"James ""Jim"" Anderson",Republican,40.2,False,False,False
-1976,house,Minnesota,MN,7,Bob Bergland,DFL,72.3,True,True,False
-1976,house,Minnesota,MN,7,Bob Leiseth,Republican,26.3,False,False,False
-1976,house,Minnesota,MN,7,Stanley A. Carlson,Unknown,1.3,False,False,False
-1976,house,Minnesota,MN,8,Jim Oberstar,DFL,100.0,True,True,False
-1976,house,Mississippi,MS,1,Jamie Whitten,Democratic,100.0,True,True,False
-1976,house,Mississippi,MS,2,David R. Bowen,Democratic,63.0,True,True,False
-1976,house,Mississippi,MS,2,Roland Byrd,Republican,35.7,False,False,False
-1976,house,Mississippi,MS,2,H. B. Wells,Unknown,1.2,False,False,False
-1976,house,Mississippi,MS,3,Sonny Montgomery,Democratic,93.9,True,True,False
-1976,house,Mississippi,MS,3,Dorothy Colby Cleveland,Republican,6.1,False,False,False
-1976,house,Mississippi,MS,4,Thad Cochran,Republican,76.0,True,True,False
-1976,house,Mississippi,MS,4,Sterling P. Davis,Democratic,21.6,False,False,False
-1976,house,Mississippi,MS,4,B. L. Norman,Unknown,1.4,False,False,False
-1976,house,Mississippi,MS,4,Luther G. Latham,Independent,0.9,False,False,False
-1976,house,Mississippi,MS,5,Trent Lott,Republican,68.2,True,True,False
-1976,house,Mississippi,MS,5,Gerald Blessey,Democratic,31.8,False,False,False
-1976,house,Missouri,MO,1,Bill Clay,Democratic,65.6,True,True,False
-1976,house,Missouri,MO,1,Robert L. Witherspoon,Republican,34.4,False,False,False
-1976,house,Missouri,MO,2,Robert A. Young,Democratic,51.1,True,False,True
-1976,house,Missouri,MO,2,Robert O. Snyder,Republican,48.9,False,False,True
-1976,house,Missouri,MO,3,Dick Gephardt,Democratic,63.7,True,False,True
-1976,house,Missouri,MO,3,Joseph L. Badaracco,Republican,36.3,False,False,True
-1976,house,Missouri,MO,4,Ike Skelton,Democratic,55.9,True,False,True
-1976,house,Missouri,MO,4,Richard A. King,Republican,44.1,False,False,True
-1976,house,Missouri,MO,5,Richard Bolling,Democratic,68.0,True,True,False
-1976,house,Missouri,MO,5,Joanne M. Collins,Republican,28.1,False,False,False
-1976,house,Missouri,MO,5,"William F. ""Bill"" Moore",Independent,3.9,False,False,False
-1976,house,Missouri,MO,6,Tom Coleman,Republican,58.5,True,False,True
-1976,house,Missouri,MO,6,Morgan Maxfield,Democratic,40.5,False,False,True
-1976,house,Missouri,MO,6,Raymond W. Thompson,Independent,0.9,False,False,True
-1976,house,Missouri,MO,7,Gene Taylor,Republican,62.0,True,True,False
-1976,house,Missouri,MO,7,Dolan G. Hawkins,Democratic,38.0,False,False,False
-1976,house,Missouri,MO,8,Richard Howard Ichord Jr.,Democratic,67.3,True,True,False
-1976,house,Missouri,MO,8,Charles R. Leick,Republican,30.6,False,False,False
-1976,house,Missouri,MO,8,Stuart M. Leiderman,Independent,2.1,False,False,False
-1976,house,Missouri,MO,9,Harold Volkmer,Democratic,55.9,True,False,True
-1976,house,Missouri,MO,9,Joe Frappier,Republican,44.1,False,False,True
-1976,house,Missouri,MO,10,Bill Burlison,Democratic,72.1,True,True,False
-1976,house,Missouri,MO,10,Joe Carron,Republican,27.9,False,False,False
-1976,house,Montana,MT,1,Max Baucus,Democratic,66.4,True,True,False
-1976,house,Montana,MT,1,"W. D. ""Bill"" Diehl",Republican,33.6,False,False,False
-1976,house,Montana,MT,2,Ron Marlenee,Republican,55.0,True,False,True
-1976,house,Montana,MT,2,Thomas E. Towe,Democratic,45.0,False,False,True
-1976,house,Nebraska,NE,1,Charles Thone,Republican,73.2,True,True,False
-1976,house,Nebraska,NE,1,Pauline F. Anderson,Democratic,26.8,False,False,False
-1976,house,Nebraska,NE,2,John Joseph Cavanaugh III,Democratic,54.6,True,False,True
-1976,house,Nebraska,NE,2,Lee Terry,Republican,45.4,False,False,True
-1976,house,Nebraska,NE,3,Virginia D. Smith,Republican,72.9,True,True,False
-1976,house,Nebraska,NE,3,James Thomas Hansen,Democratic,24.7,False,False,False
-1976,house,Nebraska,NE,3,William W. Steen,Unknown,2.4,False,False,False
-1976,house,Nevada,NV,AL,James David Santini,Democratic,77.1,True,True,False
-1976,house,Nevada,NV,AL,Walden Charles Earhart,Republican,12.1,False,False,False
-1976,house,Nevada,NV,AL,Janine M. Hansen,Independent,6.0,False,False,False
-1976,house,Nevada,NV,AL,James Burns,Unknown,1.4,False,False,False
-1976,house,New Hampshire,NH,1,Norman D'Amours,Democratic,68.1,True,True,False
-1976,house,New Hampshire,NH,1,John Adams,Republican,30.4,False,False,False
-1976,house,New Hampshire,NH,1,John H. O'Brien,Unknown,1.5,False,False,False
-1976,house,New Hampshire,NH,2,James Colgate Cleveland,Republican,60.5,True,True,False
-1976,house,New Hampshire,NH,2,J. Joseph Grandmaison,Democratic,39.5,False,False,False
-1976,house,New Jersey,NJ,1,James Florio,Democratic,70.1,True,True,False
-1976,house,New Jersey,NJ,1,Joseph I. McCullough Jr.,Republican,28.9,False,False,False
-1976,house,New Jersey,NJ,1,Vernon A. Smith,Unknown,0.4,False,False,False
-1976,house,New Jersey,NJ,1,Thomas C. Sloan,Independent,0.4,False,False,False
-1976,house,New Jersey,NJ,1,Robert Bowen,Labor,0.2,False,False,False
-1976,house,New Jersey,NJ,2,William J. Hughes,Democratic,61.7,True,True,False
-1976,house,New Jersey,NJ,2,James R. Hurley,Republican,38.3,False,False,False
-1976,house,New Jersey,NJ,3,James J. Howard,Democratic,62.1,True,True,False
-1976,house,New Jersey,NJ,3,Ralph A. Siciliano,Republican,37.1,False,False,False
-1976,house,New Jersey,NJ,3,Walter M. Swirsky,Unknown,0.8,False,False,False
-1976,house,New Jersey,NJ,4,Frank Thompson,Democratic,66.3,True,True,False
-1976,house,New Jersey,NJ,4,Joseph S. Indyk,Republican,32.1,False,False,False
-1976,house,New Jersey,NJ,4,John Valjean Mahalchik,Independent,0.8,False,False,False
-1976,house,New Jersey,NJ,4,Jack Moyers,Unknown,0.6,False,False,False
-1976,house,New Jersey,NJ,4,Elliot Greenspan,Labor,0.2,False,False,False
-1976,house,New Jersey,NJ,5,Millicent Fenwick,Republican,66.9,True,True,False
-1976,house,New Jersey,NJ,5,Frank R. Nero,Democratic,31.3,False,False,False
-1976,house,New Jersey,NJ,5,Jane T. Rehmke,Unknown,0.8,False,False,False
-1976,house,New Jersey,NJ,5,John Giammarco,Unknown,0.7,False,False,False
-1976,house,New Jersey,NJ,5,Joseph R. Viola Jr.,Independent,0.2,False,False,False
-1976,house,New Jersey,NJ,6,Edwin B. Forsythe,Republican,58.8,True,True,False
-1976,house,New Jersey,NJ,6,Catherine A. Costa,Democratic,39.7,False,False,False
-1976,house,New Jersey,NJ,6,Richard D. Amber,Unknown,0.5,False,False,False
-1976,house,New Jersey,NJ,6,Samuel E. Brown,Unknown,0.5,False,False,False
-1976,house,New Jersey,NJ,6,Joseph J. Byrne,Independent,0.4,False,False,False
-1976,house,New Jersey,NJ,6,Marc David Silverstein,Independent,0.1,False,False,False
-1976,house,New Jersey,NJ,7,Andrew Maguire,Democratic,56.5,True,True,False
-1976,house,New Jersey,NJ,7,James J. Sheehan,Republican,43.5,False,False,False
-1976,house,New Jersey,NJ,8,Robert A. Roe,Democratic,70.6,True,True,False
-1976,house,New Jersey,NJ,8,Bessie Doty,Republican,29.0,False,False,False
-1976,house,New Jersey,NJ,8,Gilbert G. Doll,Unknown,0.4,False,False,False
-1976,house,New Jersey,NJ,9,Harold C. Hollenbeck,Republican,53.1,True,False,False
-1976,house,New Jersey,NJ,9,Henry Helstoski,Democratic,44.3,False,True,False
-1976,house,New Jersey,NJ,9,Herbert H. Shaw,Independent,0.9,False,False,False
-1976,house,New Jersey,NJ,9,Frank J. Primich,Unknown,0.9,False,False,False
-1976,house,New Jersey,NJ,9,James J. Terlizzi,Independent,0.8,False,False,False
-1976,house,New Jersey,NJ,10,Peter W. Rodino,Democratic,82.6,True,True,False
-1976,house,New Jersey,NJ,10,Tony Grandison,Republican,16.0,False,False,False
-1976,house,New Jersey,NJ,10,Kathleen A. McAdam,Unknown,0.8,False,False,False
-1976,house,New Jersey,NJ,10,Lawrence Stewart,Unknown,0.3,False,False,False
-1976,house,New Jersey,NJ,10,Charles Mack,Labor,0.2,False,False,False
-1976,house,New Jersey,NJ,11,Joseph Minish,Democratic,67.6,True,True,False
-1976,house,New Jersey,NJ,11,Charles A. Poekel Jr.,Republican,31.1,False,False,False
-1976,house,New Jersey,NJ,11,Warren T. Kupchik,Unknown,0.9,False,False,False
-1976,house,New Jersey,NJ,11,Joseph A. Rogers,Independent,0.3,False,False,False
-1976,house,New Jersey,NJ,12,Matthew John Rinaldo,Republican,73.1,True,True,False
-1976,house,New Jersey,NJ,12,Richard A. Buggelli,Democratic,26.3,False,False,False
-1976,house,New Jersey,NJ,12,Paul M. Geyer,Unknown,0.3,False,False,False
-1976,house,New Jersey,NJ,12,Vincent Miskell,Labor,0.3,False,False,False
-1976,house,New Jersey,NJ,13,Helen Meyner,Democratic,50.4,True,True,False
-1976,house,New Jersey,NJ,13,William E. Schluter,Republican,47.9,False,False,False
-1976,house,New Jersey,NJ,13,F. Edward De Mott,Independent,1.0,False,False,False
-1976,house,New Jersey,NJ,13,Joseph Mayer,Independent,0.7,False,False,False
-1976,house,New Jersey,NJ,14,Joseph A. LeFante,Democratic,49.9,True,False,True
-1976,house,New Jersey,NJ,14,Anthony Louis Campenni,Republican,45.2,False,False,True
-1976,house,New Jersey,NJ,14,Kenneth C. McCarthy,Independent,2.7,False,False,True
-1976,house,New Jersey,NJ,14,David L. Jones Jr.,Independent,1.3,False,False,True
-1976,house,New Jersey,NJ,14,Stuart Bronn,Labor,0.3,False,False,True
-1976,house,New Jersey,NJ,14,Robert Ryley,Unknown,0.3,False,False,True
-1976,house,New Jersey,NJ,14,Edward W. Bergonzi,Unknown,0.3,False,False,True
-1976,house,New Jersey,NJ,15,Edward J. Patten,Democratic,59.0,True,True,False
-1976,house,New Jersey,NJ,15,Charles W. Wiley,Republican,30.3,False,False,False
-1976,house,New Jersey,NJ,15,Dennis F. Adams,Independent,8.1,False,False,False
-1976,house,New Jersey,NJ,15,Michael Klein,Unknown,2.2,False,False,False
-1976,house,New Jersey,NJ,15,Bruce E. Todd,Labor,0.4,False,False,False
-1976,house,New Mexico,NM,1,Manuel Lujan Jr.,Republican,72.1,True,True,False
-1976,house,New Mexico,NM,1,Raymond Garcia,Democratic,27.4,False,False,False
-1976,house,New Mexico,NM,1,Martin Molloy,Unknown,0.5,False,False,False
-1976,house,New Mexico,NM,2,Harold L. Runnels,Democratic,70.3,True,True,False
-1976,house,New Mexico,NM,2,Donald W. Trubey,Republican,29.7,False,False,False
-1976,house,New York,NY,1,Otis G. Pike,Democratic,65.3,True,True,False
-1976,house,New York,NY,1,Salvatore Nicosia,Republican,29.7,False,False,False
-1976,house,New York,NY,1,Seth Morgan,Unknown,4.9,False,False,False
-1976,house,New York,NY,2,Thomas J. Downey,Democratic,57.1,True,True,False
-1976,house,New York,NY,2,Peter F. Cohalan,Republican,42.4,False,False,False
-1976,house,New York,NY,2,Rochelle Davidson,Unknown,0.6,False,False,False
-1976,house,New York,NY,3,Jerome Ambro,Democratic,52.0,True,True,False
-1976,house,New York,NY,3,Howard T. Hogan Jr.,Republican,46.8,False,False,False
-1976,house,New York,NY,3,Hy York,Unknown,1.3,False,False,False
-1976,house,New York,NY,4,Norman F. Lent,Republican,55.8,True,True,False
-1976,house,New York,NY,4,Gerald P. Halpern,Democratic,44.2,False,False,False
-1976,house,New York,NY,5,John W. Wydler,Republican,55.7,True,True,False
-1976,house,New York,NY,5,Allard K. Lowenstein,Democratic,44.3,False,False,False
-1976,house,New York,NY,6,Lester L. Wolff,Democratic,61.8,True,True,False
-1976,house,New York,NY,6,Vincent R. Balletta Jr.,Republican,33.3,False,False,False
-1976,house,New York,NY,6,Nelson J. Gammans,Unknown,4.9,False,False,False
-1976,house,New York,NY,7,Joseph P. Addabbo,Democratic,94.7,True,True,False
-1976,house,New York,NY,7,William H. Whitman,Unknown,4.7,False,False,False
-1976,house,New York,NY,7,Keith E. Jones,Unknown,0.7,False,False,False
-1976,house,New York,NY,8,Benjamin Stanley Rosenthal,Democratic,77.8,True,True,False
-1976,house,New York,NY,8,Albert Lemishow,Republican,21.9,False,False,False
-1976,house,New York,NY,8,Harry Brown,Unknown,0.3,False,False,False
-1976,house,New York,NY,9,James J. Delaney,Democratic,95.1,True,True,False
-1976,house,New York,NY,9,Alan M. Kluger,Unknown,4.9,False,False,False
-1976,house,New York,NY,10,Mario Biaggi,Democratic,91.6,True,True,False
-1976,house,New York,NY,10,Joanne S. Fuchs,Unknown,5.1,False,False,False
-1976,house,New York,NY,10,John P. Hagan,Unknown,3.3,False,False,False
-1976,house,New York,NY,11,James H. Scheuer,Democratic,74.1,True,True,False
-1976,house,New York,NY,11,Arthur Cuccia,Republican,16.8,False,False,False
-1976,house,New York,NY,11,Bryan F. Levinson,Unknown,5.5,False,False,False
-1976,house,New York,NY,11,Joseph Rothenberg,Unknown,3.6,False,False,False
-1976,house,New York,NY,12,Shirley Chisholm,Democratic,87.0,True,True,False
-1976,house,New York,NY,12,Horace L. Morancie,Republican,10.8,False,False,False
-1976,house,New York,NY,12,Martin S. Shepherd Jr.,Unknown,2.2,False,False,False
-1976,house,New York,NY,13,Stephen J. Solarz,Democratic,83.7,True,True,False
-1976,house,New York,NY,13,Jack N. Dobosh,Republican,16.3,False,False,False
-1976,house,New York,NY,14,Fred Richmond,Democratic,85.0,True,True,False
-1976,house,New York,NY,14,Frank X. Gargiulo,Republican,13.7,False,False,False
-1976,house,New York,NY,14,Patricia Wright,Unknown,1.0,False,False,False
-1976,house,New York,NY,14,Adele Flateau,Unknown,0.3,False,False,False
-1976,house,New York,NY,15,Leo C. Zeferetti,Democratic,63.2,True,True,False
-1976,house,New York,NY,15,Ronald J. D'Angelo,Republican,30.7,False,False,False
-1976,house,New York,NY,15,Arthur J. Paone,Unknown,6.0,False,False,False
-1976,house,New York,NY,16,Elizabeth Holtzman,Democratic,82.9,True,True,False
-1976,house,New York,NY,16,Gladys Pemberton,Republican,17.1,False,False,False
-1976,house,New York,NY,17,John M. Murphy,Democratic,65.6,True,True,False
-1976,house,New York,NY,17,Kenneth J. Grossberger,Republican,20.4,False,False,False
-1976,house,New York,NY,17,John M. Peters,Unknown,7.7,False,False,False
-1976,house,New York,NY,17,Ned Schneier,Unknown,6.4,False,False,False
-1976,house,New York,NY,18,Ed Koch,Democratic,75.7,True,True,False
-1976,house,New York,NY,18,Sonia Landau,Republican,20.1,False,False,False
-1976,house,New York,NY,18,James W. McConnell,Unknown,4.3,False,False,False
-1976,house,New York,NY,19,Charles B. Rangel,Democratic,97.0,True,True,False
-1976,house,New York,NY,19,Benton Cole,Unknown,2.3,False,False,False
-1976,house,New York,NY,19,Helen Halyard,Unknown,0.7,False,False,False
-1976,house,New York,NY,20,Theodore S. Weiss,Democratic,83.2,True,False,True
-1976,house,New York,NY,20,Denise T. Weiseman,Republican,12.8,False,False,True
-1976,house,New York,NY,20,Herman Dinsmore,Unknown,3.0,False,False,True
-1976,house,New York,NY,20,Diane Steinberg,Unknown,1.0,False,False,True
-1976,house,New York,NY,21,Herman Badillo,Democratic,98.6,True,True,False
-1976,house,New York,NY,21,Lawrence W. Lindsley,Unknown,1.4,False,False,False
-1976,house,New York,NY,22,Jonathan Brewster Bingham,Democratic,86.4,True,True,False
-1976,house,New York,NY,22,Paul Slotkin,Republican,10.4,False,False,False
-1976,house,New York,NY,22,Patrick J. Bonner,Unknown,3.2,False,False,False
-1976,house,New York,NY,23,Bruce F. Caputo,Republican,53.6,True,False,True
-1976,house,New York,NY,23,J. Edward Meyer,Democratic,46.4,False,False,True
-1976,house,New York,NY,24,Richard Ottinger,Democratic,54.5,True,True,True
-1976,house,New York,NY,24,David V. Hicks,Republican,44.3,False,False,True
-1976,house,New York,NY,24,Edmund D. Assante,Unknown,1.2,False,False,True
-1976,house,New York,NY,25,Hamilton Fish IV,Republican,70.5,True,True,False
-1976,house,New York,NY,25,Minna Post Peyser,Democratic,29.5,False,False,False
-1976,house,New York,NY,26,Benjamin A. Gilman,Republican,65.3,True,True,False
-1976,house,New York,NY,26,John R. Maloney,Democratic,32.9,False,False,False
-1976,house,New York,NY,26,Eugene R. Victor,Unknown,1.9,False,False,False
-1976,house,New York,NY,27,Matthew F. McHugh,Democratic,66.6,True,True,False
-1976,house,New York,NY,27,William H. Harter,Republican,33.4,False,False,False
-1976,house,New York,NY,28,Samuel S. Stratton,Democratic,79.0,True,True,False
-1976,house,New York,NY,28,Mary A. Bradt,Republican,20.5,False,False,False
-1976,house,New York,NY,28,Christopher Lewis,Labor,0.5,False,False,False
-1976,house,New York,NY,29,Edward W. Pattison,Democratic,47.0,True,True,False
-1976,house,New York,NY,29,Joseph A. Martino,Republican,45.0,False,False,False
-1976,house,New York,NY,29,James E. De Young,Unknown,7.2,False,False,False
-1976,house,New York,NY,29,Patricia O. Brooks,Independent,0.6,False,False,False
-1976,house,New York,NY,29,Rocco A. Ferran,Independent,0.2,False,False,False
-1976,house,New York,NY,30,Robert C. McEwen,Republican,55.7,True,True,False
-1976,house,New York,NY,30,Norma A. Bartle,Democratic,44.3,False,False,False
-1976,house,New York,NY,31,Donald J. Mitchell,Republican,66.5,True,True,False
-1976,house,New York,NY,31,Anita Maxwell,Democratic,33.5,False,False,False
-1976,house,New York,NY,32,James M. Hanley,Democratic,54.8,True,True,False
-1976,house,New York,NY,32,George C. Wortley,Republican,44.1,False,False,False
-1976,house,New York,NY,32,Earl W. Colvin,Unknown,1.1,False,False,False
-1976,house,New York,NY,33,William F. Walsh,Republican,68.5,True,True,False
-1976,house,New York,NY,33,Charles R. Welch,Democratic,26.7,False,False,False
-1976,house,New York,NY,33,William C. Elkins,Unknown,3.3,False,False,False
-1976,house,New York,NY,33,Lillian E. Reiner,Unknown,1.5,False,False,False
-1976,house,New York,NY,34,Frank Horton,Republican,65.9,True,True,False
-1976,house,New York,NY,34,William C. Larsen,Democratic,30.3,False,False,False
-1976,house,New York,NY,34,Thomas D. Cook,Unknown,3.8,False,False,False
-1976,house,New York,NY,35,Barber Conable,Republican,64.3,True,True,False
-1976,house,New York,NY,35,Michael Macaluso Jr.,Democratic,35.7,False,False,False
-1976,house,New York,NY,36,John J. LaFalce,Democratic,66.6,True,True,False
-1976,house,New York,NY,36,Ralph J. Argen,Republican,33.4,False,False,False
-1976,house,New York,NY,37,Henry J. Nowak,Democratic,78.2,True,True,False
-1976,house,New York,NY,37,Calvin Kimbrough,Republican,18.5,False,False,False
-1976,house,New York,NY,37,Stephen Grimm,Unknown,3.3,False,False,False
-1976,house,New York,NY,38,Jack Kemp,Republican,78.2,True,True,False
-1976,house,New York,NY,38,Peter J. Geraci,Democratic,21.8,False,False,False
-1976,house,New York,NY,39,Stan Lundine,Democratic,61.8,True,True,False
-1976,house,New York,NY,39,Richard A. Snowden,Republican,38.2,False,False,False
-1976,house,North Carolina,NC,1,Walter B. Jones Sr.,Democratic,75.9,True,True,False
-1976,house,North Carolina,NC,1,Joseph M. Ward,Republican,22.5,False,False,False
-1976,house,North Carolina,NC,1,Michael M. Parker,Unknown,1.6,False,False,False
-1976,house,North Carolina,NC,2,Lawrence H. Fountain,Democratic,100.0,True,True,False
-1976,house,North Carolina,NC,3,Charles Orville Whitley,Democratic,68.7,True,False,True
-1976,house,North Carolina,NC,3,Willard J. Blanchard,Republican,31.3,False,False,True
-1976,house,North Carolina,NC,4,Ike Franklin Andrews,Democratic,60.6,True,True,False
-1976,house,North Carolina,NC,4,Johnnie L. Gallemore Jr.,Republican,39.4,False,False,False
-1976,house,North Carolina,NC,5,Stephen L. Neal,Democratic,54.2,True,True,False
-1976,house,North Carolina,NC,5,Wilmer Mizell,Republican,45.6,False,False,False
-1976,house,North Carolina,NC,5,Geoffrey M. Hooks,Labor,0.1,False,False,False
-1976,house,North Carolina,NC,6,L. Richardson Preyer,Democratic,96.3,True,True,False
-1976,house,North Carolina,NC,6,Carl Wagle,Unknown,2.0,False,False,False
-1976,house,North Carolina,NC,6,Marion Porter,Labor,1.7,False,False,False
-1976,house,North Carolina,NC,7,Charlie Rose,Democratic,81.3,True,True,False
-1976,house,North Carolina,NC,7,Mike Vaughan,Republican,18.7,False,False,False
-1976,house,North Carolina,NC,8,Bill Hefner,Democratic,65.7,True,True,False
-1976,house,North Carolina,NC,8,Carl Eagle,Republican,32.5,False,False,False
-1976,house,North Carolina,NC,8,Bradford V. Ligon,Unknown,1.4,False,False,False
-1976,house,North Carolina,NC,8,Franklin H. Bell,Labor,0.4,False,False,False
-1976,house,North Carolina,NC,9,James G. Martin,Republican,53.5,True,True,False
-1976,house,North Carolina,NC,9,Arthur Goodman Jr.,Democratic,46.1,False,False,False
-1976,house,North Carolina,NC,9,Harley Schlanger,Labor,0.4,False,False,False
-1976,house,North Carolina,NC,10,Jim Broyhill,Republican,59.8,True,True,False
-1976,house,North Carolina,NC,10,John J. Hunt,Democratic,40.2,False,False,False
-1976,house,North Carolina,NC,11,V. Lamar Gudger,Democratic,50.9,True,False,True
-1976,house,North Carolina,NC,11,Bruce Briggs,Republican,48.1,False,False,True
-1976,house,North Carolina,NC,11,Roy Underwood,Unknown,1.0,False,False,True
-1976,house,North Dakota,ND,AL,Mark Andrews,Republican,62.5,True,True,False
-1976,house,North Dakota,ND,AL,Lloyd Omdahl,Democratic,36.0,False,False,False
-1976,house,North Dakota,ND,AL,Russell Kleppe,Unknown,1.6,False,False,False
-1976,house,Ohio,OH,1,Bill Gradison,Republican,64.8,True,True,False
-1976,house,Ohio,OH,1,William F. Bowen,Democratic,33.6,False,False,False
-1976,house,Ohio,OH,1,Christopher L. Martison,Independent,1.6,False,False,False
-1976,house,Ohio,OH,2,Tom Luken,Democratic,51.4,True,False,False
-1976,house,Ohio,OH,2,Donald D. Clancy,Republican,48.6,False,True,False
-1976,house,Ohio,OH,3,Charles W. Whalen Jr.,Republican,69.4,True,True,False
-1976,house,Ohio,OH,3,Leonard E. Stubbs Jr.,Democratic,23.3,False,False,False
-1976,house,Ohio,OH,3,Wilmer Mark Hurst,Independent,4.0,False,False,False
-1976,house,Ohio,OH,3,John R. Austin,Independent,3.4,False,False,False
-1976,house,Ohio,OH,4,Tennyson Guyer,Republican,70.1,True,True,False
-1976,house,Ohio,OH,4,Clinton G. Dorsey,Democratic,29.9,False,False,False
-1976,house,Ohio,OH,5,Del Latta,Republican,67.4,True,True,False
-1976,house,Ohio,OH,5,Bruce Edwards,Democratic,32.6,False,False,False
-1976,house,Ohio,OH,6,Bill Harsha,Republican,61.5,True,True,False
-1976,house,Ohio,OH,6,Ted Strickland,Democratic,38.5,False,False,False
-1976,house,Ohio,OH,7,Bud Brown,Republican,64.9,True,True,False
-1976,house,Ohio,OH,7,Dorothy Franke,Democratic,35.1,False,False,False
-1976,house,Ohio,OH,8,Tom Kindness,Republican,68.7,True,True,False
-1976,house,Ohio,OH,8,John W. Griffin,Democratic,28.8,False,False,False
-1976,house,Ohio,OH,8,Joseph F. Payton,Independent,2.6,False,False,False
-1976,house,Ohio,OH,9,Thomas L. Ashley,Democratic,54.2,True,True,False
-1976,house,Ohio,OH,9,Carty Finkbeiner,Republican,44.0,False,False,False
-1976,house,Ohio,OH,9,Edward Silvio Emery,Independent,0.9,False,False,False
-1976,house,Ohio,OH,9,Lynn Galonsky,Independent,0.9,False,False,False
-1976,house,Ohio,OH,10,Clarence E. Miller,Republican,68.8,True,True,False
-1976,house,Ohio,OH,10,James A. Plummer,Democratic,31.2,False,False,False
-1976,house,Ohio,OH,11,J. William Stanton,Republican,71.7,True,True,False
-1976,house,Ohio,OH,11,Thomas R. West Jr.,Democratic,28.3,False,False,False
-1976,house,Ohio,OH,12,Samuel L. Devine,Republican,46.5,True,True,False
-1976,house,Ohio,OH,12,Fran Ryan,Democratic,45.7,False,False,False
-1976,house,Ohio,OH,12,William R. Moss,Independent,7.9,False,False,False
-1976,house,Ohio,OH,13,Donald J. Pease,Democratic,66.0,True,False,True
-1976,house,Ohio,OH,13,Woodrow W. Mathna,Republican,30.4,False,False,True
-1976,house,Ohio,OH,13,Patricia A. Cortez,Independent,3.5,False,False,True
-1976,house,Ohio,OH,14,John F. Seiberling,Democratic,74.1,True,True,False
-1976,house,Ohio,OH,14,James E. Houston,Republican,24.3,False,False,False
-1976,house,Ohio,OH,14,Steven P. Meyer,Independent,1.6,False,False,False
-1976,house,Ohio,OH,15,Chalmers Wylie,Republican,65.5,True,True,False
-1976,house,Ohio,OH,15,Manley L. McGee,Republican,34.5,False,False,False
-1976,house,Ohio,OH,16,Ralph Regula,Republican,66.8,True,True,False
-1976,house,Ohio,OH,16,John G. Freedom,Democratic,32.0,False,False,False
-1976,house,Ohio,OH,16,Harold B. Festerly,Unknown,1.1,False,False,False
-1976,house,Ohio,OH,16,Mark F. Vanvoorhis,Unknown,0.04,False,False,False
-1976,house,Ohio,OH,17,John M. Ashbrook,Republican,56.8,True,True,False
-1976,house,Ohio,OH,17,John C. McDonald,Democratic,43.2,False,False,False
-1976,house,Ohio,OH,18,Douglas Applegate,Democratic,62.9,True,False,True
-1976,house,Ohio,OH,18,Ralph R. McCoy,Republican,24.6,False,False,True
-1976,house,Ohio,OH,18,William Crabbe,Independent,11.6,False,False,True
-1976,house,Ohio,OH,18,John Dwight Bashline,Independent,0.9,False,False,True
-1976,house,Ohio,OH,19,Charles J. Carney,Democratic,50.2,True,True,False
-1976,house,Ohio,OH,19,Jack C. Hunter,Republican,47.9,False,False,False
-1976,house,Ohio,OH,19,Kenneth Zurbrugg,Independent,1.3,False,False,False
-1976,house,Ohio,OH,19,Karl T. Untch,Independent,0.6,False,False,False
-1976,house,Ohio,OH,20,Mary Rose Oakar,Democratic,81.0,True,False,True
-1976,house,Ohio,OH,20,Raymond J. Grabow,Independent,16.9,False,False,True
-1976,house,Ohio,OH,20,Theodore Held III,Independent,2.2,False,False,True
-1976,house,Ohio,OH,21,Louis Stokes,Democratic,83.8,True,True,False
-1976,house,Ohio,OH,21,Barbara Sparks,Republican,11.3,False,False,False
-1976,house,Ohio,OH,21,Anthony R. Curry,Independent,4.8,False,False,False
-1976,house,Ohio,OH,22,Charles Vanik,Democratic,72.7,True,True,False
-1976,house,Ohio,OH,22,Harry A. Hanna,Republican,24.2,False,False,False
-1976,house,Ohio,OH,22,Thomas W. Lippitt,Unknown,3.1,False,False,False
-1976,house,Ohio,OH,23,Ronald M. Mottl,Democratic,73.2,True,True,False
-1976,house,Ohio,OH,23,Michael T. Scanlon,Republican,26.8,False,False,False
-1976,house,Oklahoma,OK,1,James R. Jones,Democratic,54.0,True,True,False
-1976,house,Oklahoma,OK,1,Jim Inhofe,Republican,45.1,False,False,False
-1976,house,Oklahoma,OK,1,W. D. Mackintosh,Independent,0.9,False,False,False
-1976,house,Oklahoma,OK,2,Ted Risenhoover,Democratic,54.0,True,True,False
-1976,house,Oklahoma,OK,2,Bud Stewart,Republican,46.0,False,False,False
-1976,house,Oklahoma,OK,3,Wes Watkins,Democratic,82.0,True,False,True
-1976,house,Oklahoma,OK,3,Gerald Beasley Jr.,Republican,17.2,False,False,True
-1976,house,Oklahoma,OK,3,Jack C. Finley,Independent,0.8,False,False,True
-1976,house,Oklahoma,OK,4,Tom Steed,Democratic,74.9,True,True,False
-1976,house,Oklahoma,OK,4,M. C. Stanley,Republican,22.0,False,False,False
-1976,house,Oklahoma,OK,4,Paul E. Trent,Independent,3.1,False,False,False
-1976,house,Oklahoma,OK,5,Mickey Edwards,Republican,49.9,True,False,True
-1976,house,Oklahoma,OK,5,Tom Dunlap,Democratic,47.4,False,False,True
-1976,house,Oklahoma,OK,5,Max Wolfley,Independent,0.9,False,False,True
-1976,house,Oklahoma,OK,5,Donald F. Parker,Independent,0.9,False,False,True
-1976,house,Oklahoma,OK,5,Jim Smith,Independent,0.6,False,False,True
-1976,house,Oklahoma,OK,5,Robert O. Buchanan,Independent,0.5,False,False,True
-1976,house,Oklahoma,OK,6,Glenn English,Democratic,71.1,True,True,False
-1976,house,Oklahoma,OK,6,Carol McCurley,Republican,28.9,False,False,False
-1976,house,Oregon,OR,1,Les AuCoin,Democratic,58.7,True,True,False
-1976,house,Oregon,OR,1,Phil Bladine,Republican,41.3,False,False,False
-1976,house,Oregon,OR,2,Al Ullman,Democratic,72.0,True,True,False
-1976,house,Oregon,OR,2,Thomas H. Mercer,Republican,28.0,False,False,False
-1976,house,Oregon,OR,3,Robert B. Duncan,Democratic,84.0,True,True,True
-1976,house,Oregon,OR,3,Martin Simon,Independent,16.0,False,False,True
-1976,house,Oregon,OR,4,Jim Weaver,Democratic,50.0,True,True,False
-1976,house,Oregon,OR,4,Jerry Lausmann,Republican,35.1,False,False,False
-1976,house,Oregon,OR,4,Jim Howard,Independent,9.0,False,False,False
-1976,house,Oregon,OR,4,Theodora Nathan,Independent,5.8,False,False,False
-1976,house,Pennsylvania,PA,1,Michael Myers,Democratic,73.5,True,False,True
-1976,house,Pennsylvania,PA,1,Samuel N. Fanelli,Republican,25.2,False,False,True
-1976,house,Pennsylvania,PA,1,Clare Fraenzl,Unknown,0.8,False,False,True
-1976,house,Pennsylvania,PA,1,Henry D. Moss,Labor,0.4,False,False,True
-1976,house,Pennsylvania,PA,2,Robert N. C. Nix Sr.,Democratic,73.5,True,True,False
-1976,house,Pennsylvania,PA,2,Jesse W. Woods Jr.,Republican,25.4,False,False,False
-1976,house,Pennsylvania,PA,2,Tony Austin,Unknown,0.7,False,False,False
-1976,house,Pennsylvania,PA,2,Willie Thomas,Independent Conservative,0.2,False,False,False
-1976,house,Pennsylvania,PA,2,Dennis Grant,Unknown,0.1,False,False,False
-1976,house,Pennsylvania,PA,3,Raymond Lederer,Democratic,73.2,True,False,True
-1976,house,Pennsylvania,PA,3,Terence J. Schade,Republican,26.3,False,False,True
-1976,house,Pennsylvania,PA,3,Steven S. Douglas,Labor,0.5,False,False,True
-1976,house,Pennsylvania,PA,4,Joshua Eilberg,Democratic,67.5,True,True,False
-1976,house,Pennsylvania,PA,4,James E. Mugford,Republican,32.5,False,False,False
-1976,house,Pennsylvania,PA,5,Richard T. Schulze,Republican,59.5,True,True,False
-1976,house,Pennsylvania,PA,5,Anthony Campolo,Democratic,40.5,False,False,False
-1976,house,Pennsylvania,PA,6,Gus Yatron,Democratic,73.8,True,True,False
-1976,house,Pennsylvania,PA,6,Stephen Postupack,Republican,25.5,False,False,False
-1976,house,Pennsylvania,PA,6,Garland M. Fisher,Unknown,0.7,False,False,False
-1976,house,Pennsylvania,PA,7,Robert W. Edgar,Democratic,54.1,True,True,False
-1976,house,Pennsylvania,PA,7,John M. Kenney,Republican,45.9,False,False,False
-1976,house,Pennsylvania,PA,7,Samuel Cinger,Labor,0.06,False,False,False
-1976,house,Pennsylvania,PA,8,Peter H. Kostmayer,Democratic,49.5,True,False,True
-1976,house,Pennsylvania,PA,8,John S. Renninger,Republican,48.8,False,False,True
-1976,house,Pennsylvania,PA,8,Robert B. Graham,Unknown,1.7,False,False,True
-1976,house,Pennsylvania,PA,9,Bud Shuster,Republican,100.0,True,True,False
-1976,house,Pennsylvania,PA,10,Joseph M. McDade,Republican,62.6,True,True,False
-1976,house,Pennsylvania,PA,10,Edward Mitchell,Democratic,37.4,False,False,False
-1976,house,Pennsylvania,PA,11,Dan Flood,Democratic,70.8,True,True,False
-1976,house,Pennsylvania,PA,11,Howard G. Williams,Republican,29.2,False,False,False
-1976,house,Pennsylvania,PA,12,John Murtha,Democratic,67.7,True,True,False
-1976,house,Pennsylvania,PA,12,Theodore L. Humes,Republican,32.3,False,False,False
-1976,house,Pennsylvania,PA,13,Lawrence Coughlin,Republican,63.4,True,True,False
-1976,house,Pennsylvania,PA,13,Gertrude Strick,Democratic,36.6,False,False,False
-1976,house,Pennsylvania,PA,14,William S. Moorhead,Democratic,71.7,True,True,False
-1976,house,Pennsylvania,PA,14,John F. Bradley,Republican,27.1,False,False,False
-1976,house,Pennsylvania,PA,14,Carla M. Hoag,Unknown,0.9,False,False,False
-1976,house,Pennsylvania,PA,14,Scott Brody,Labor,0.3,False,False,False
-1976,house,Pennsylvania,PA,15,Fred B. Rooney,Democratic,65.2,True,True,False
-1976,house,Pennsylvania,PA,15,Alice B. Sivulich,Republican,34.5,False,False,False
-1976,house,Pennsylvania,PA,15,Mary Jane Coates,Labor,0.3,False,False,False
-1976,house,Pennsylvania,PA,16,Robert Smith Walker,Republican,62.3,True,False,True
-1976,house,Pennsylvania,PA,16,Michael J. Minney,Democratic,37.0,False,False,True
-1976,house,Pennsylvania,PA,16,Richard A. Haas,Unknown,0.5,False,False,True
-1976,house,Pennsylvania,PA,16,Martin P. Ross,Labor,0.2,False,False,True
-1976,house,Pennsylvania,PA,17,Allen E. Ertel,Democratic,50.7,True,False,True
-1976,house,Pennsylvania,PA,17,H. J. Hepford,Republican,48.5,False,False,True
-1976,house,Pennsylvania,PA,17,Vernon M. Dublin,Unknown,0.8,False,False,True
-1976,house,Pennsylvania,PA,18,Doug Walgren,Democratic,59.5,True,False,True
-1976,house,Pennsylvania,PA,18,Robert J. Casey,Republican,40.5,False,False,True
-1976,house,Pennsylvania,PA,19,William F. Goodling,Republican,70.6,True,True,False
-1976,house,Pennsylvania,PA,19,Richard P. Noll,Democratic,29.4,False,False,False
-1976,house,Pennsylvania,PA,20,Joseph M. Gaydos,Democratic,75.0,True,True,False
-1976,house,Pennsylvania,PA,20,John P. Kostelac,Republican,24.7,False,False,False
-1976,house,Pennsylvania,PA,20,Joseph A. Billington,Labor,0.4,False,False,False
-1976,house,Pennsylvania,PA,21,John Herman Dent,Democratic,59.4,True,True,False
-1976,house,Pennsylvania,PA,21,Robert H. Miller,Republican,40.6,False,False,False
-1976,house,Pennsylvania,PA,22,Austin Murphy,Democratic,55.3,True,False,True
-1976,house,Pennsylvania,PA,22,Roger R. Fischer,Republican,43.9,False,False,True
-1976,house,Pennsylvania,PA,22,Arthur E. Wilson,Unknown,0.8,False,False,True
-1976,house,Pennsylvania,PA,23,Joseph S. Ammerman,Democratic,56.5,True,False,False
-1976,house,Pennsylvania,PA,23,Albert W. Johnson,Republican,43.5,False,True,False
-1976,house,Pennsylvania,PA,24,Marc L. Marks,Republican,55.4,True,False,False
-1976,house,Pennsylvania,PA,24,Joseph P. Vigorito,Democratic,43.8,False,True,False
-1976,house,Pennsylvania,PA,24,Robert Hereford,Unknown,0.8,False,False,False
-1976,house,Pennsylvania,PA,25,Gary A. Myers,Republican,56.8,True,True,False
-1976,house,Pennsylvania,PA,25,Eugene V. Atkinson,Democratic,43.2,False,False,False
-1976,house,Rhode Island,RI,1,Fernand St. Germain,Democratic,62.4,True,True,False
-1976,house,Rhode Island,RI,1,John J. Slocum Jr.,Republican,36.4,False,False,False
-1976,house,Rhode Island,RI,1,Ann M. Morrissey,Independent,1.2,False,False,False
-1976,house,Rhode Island,RI,2,Edward Beard,Democratic,76.5,True,True,False
-1976,house,Rhode Island,RI,2,Thomas V. Iannitti,Republican,22.5,False,False,False
-1976,house,Rhode Island,RI,2,Pasquale F. Pacia,Independent,1.0,False,False,False
-1976,house,South Carolina,SC,1,Mendel Jackson Davis,Democratic,68.9,True,True,False
-1976,house,South Carolina,SC,1,Lonnie Rowell,Republican,31.1,False,False,False
-1976,house,South Carolina,SC,2,Floyd Spence,Republican,57.5,True,True,False
-1976,house,South Carolina,SC,2,Clyde Burns Livingston,Democratic,41.8,False,False,False
-1976,house,South Carolina,SC,2,John O'Neal,Independent,0.7,False,False,False
-1976,house,South Carolina,SC,3,Butler Derrick,Democratic,100.0,True,True,False
-1976,house,South Carolina,SC,4,James Mann,Democratic,73.6,True,True,False
-1976,house,South Carolina,SC,4,Robert L. Watkins,Republican,26.4,False,False,False
-1976,house,South Carolina,SC,5,Kenneth Lamar Holland,Democratic,51.4,True,True,False
-1976,house,South Carolina,SC,5,Bobby Richardson,Republican,48.3,False,False,False
-1976,house,South Carolina,SC,5,Harold Hough,Independent,0.2,False,False,False
-1976,house,South Carolina,SC,6,John Jenrette,Democratic,55.5,True,True,False
-1976,house,South Carolina,SC,6,Edward Lunn Young,Republican,44.0,False,False,False
-1976,house,South Carolina,SC,6,Clarence C. Dillingham,Independent,0.5,False,False,False
-1976,house,South Dakota,SD,1,Larry Pressler,Republican,79.8,True,True,False
-1976,house,South Dakota,SD,1,James V. Guffey,Democratic,19.4,False,False,False
-1976,house,South Dakota,SD,1,Donald Stevens,Independent,0.8,False,False,False
-1976,house,South Dakota,SD,2,James Abdnor,Republican,69.9,True,True,False
-1976,house,South Dakota,SD,2,Grace Mickelson,Democratic,30.1,False,False,False
-1976,house,Tennessee,TN,1,Jimmy Quillen,Republican,58.0,True,True,False
-1976,house,Tennessee,TN,1,Lloyd Blevins,Democratic,41.2,False,False,False
-1976,house,Tennessee,TN,1,Robert Joseph Bobic,Independent,0.6,False,False,False
-1976,house,Tennessee,TN,1,Mary S. Joyner,Independent,0.3,False,False,False
-1976,house,Tennessee,TN,2,John Duncan Sr.,Republican,62.8,True,True,False
-1976,house,Tennessee,TN,2,Mike Rowland,Democratic,37.2,False,False,False
-1976,house,Tennessee,TN,3,Marilyn Lloyd,Democratic,67.5,True,True,False
-1976,house,Tennessee,TN,3,LaMar Baker,Republican,31.1,False,False,False
-1976,house,Tennessee,TN,3,Tom Dover,Unknown,1.3,False,False,False
-1976,house,Tennessee,TN,3,Wendell H. Hill Jr.,Unknown,0.1,False,False,False
-1976,house,Tennessee,TN,4,Al Gore,Democratic,94.0,True,False,True
-1976,house,Tennessee,TN,4,William H. McGlamery,Independent,6.0,False,False,True
-1976,house,Tennessee,TN,5,Clifford Allen,Democratic,92.4,True,True,False
-1976,house,Tennessee,TN,5,Roger Bissell,Independent,7.6,False,False,False
-1976,house,Tennessee,TN,6,Robin Beard,Republican,64.4,True,True,False
-1976,house,Tennessee,TN,6,Ross Bass,Democratic,35.6,False,False,False
-1976,house,Tennessee,TN,7,Ed Jones,Democratic,100.0,True,True,False
-1976,house,Tennessee,TN,8,Harold Ford Sr.,Democratic,60.7,True,True,False
-1976,house,Tennessee,TN,8,Andy Allissandratos,Republican,38.5,False,False,False
-1976,house,Tennessee,TN,8,Mark F. Flanagan,Independent,0.9,False,False,False
-1976,house,Texas,TX,1,Sam B. Hall Jr.,Democratic,83.7,True,True,False
-1976,house,Texas,TX,1,James Hogan,Republican,16.3,False,False,False
-1976,house,Texas,TX,2,Charles Wilson,Democratic,95.0,True,True,False
-1976,house,Texas,TX,2,James William Doyle III,Unknown,5.0,False,False,False
-1976,house,Texas,TX,3,James M. Collins,Republican,74.0,True,True,False
-1976,house,Texas,TX,3,Les Shackelford Jr.,Democratic,26.0,False,False,False
-1976,house,Texas,TX,4,Ray Roberts,Democratic,62.7,True,True,False
-1976,house,Texas,TX,4,Frank S. Glenn,Republican,37.3,False,False,False
-1976,house,Texas,TX,5,Jim Mattox,Democratic,54.0,True,False,True
-1976,house,Texas,TX,5,Nancy Judy,Republican,44.6,False,False,True
-1976,house,Texas,TX,5,Sam McDonnell,Unknown,1.5,False,False,True
-1976,house,Texas,TX,6,Olin E. Teague,Democratic,65.9,True,True,False
-1976,house,Texas,TX,6,Wes Mowery,Republican,33.4,False,False,False
-1976,house,Texas,TX,6,Harley L. Pinon,Unknown,0.7,False,False,False
-1976,house,Texas,TX,7,Bill Archer,Republican,100.0,True,True,False
-1976,house,Texas,TX,8,Robert C. Eckhardt,Democratic,60.7,True,True,False
-1976,house,Texas,TX,8,Nick Gearhart,Republican,39.2,False,False,False
-1976,house,Texas,TX,8,Gene Lantz,Unknown,0.1,False,False,False
-1976,house,Texas,TX,9,Jack Brooks,Democratic,100.0,True,True,False
-1976,house,Texas,TX,10,J. J. Pickle,Democratic,76.8,True,True,False
-1976,house,Texas,TX,10,Paul McClure,Republican,23.2,False,False,False
-1976,house,Texas,TX,11,William R. Poage,Democratic,57.4,True,True,False
-1976,house,Texas,TX,11,Jack Burgess,Republican,42.6,False,False,False
-1976,house,Texas,TX,12,Jim Wright,Democratic,75.8,True,True,False
-1976,house,Texas,TX,12,W. R. Durham,Republican,23.8,False,False,False
-1976,house,Texas,TX,12,Larry Kutchinski,Unknown,0.4,False,False,False
-1976,house,Texas,TX,13,Jack Hightower,Democratic,59.3,True,True,False
-1976,house,Texas,TX,13,Robert Price,Republican,40.4,False,False,False
-1976,house,Texas,TX,13,William K. Hathcock,Unknown,0.3,False,False,False
-1976,house,Texas,TX,14,John Andrew Young,Democratic,61.4,True,True,False
-1976,house,Texas,TX,14,L. Dean Holford,Republican,38.6,False,False,False
-1976,house,Texas,TX,15,Kika de la Garza,Democratic,74.4,True,True,False
-1976,house,Texas,TX,15,Robert Lendol McDonald,Republican,25.6,False,False,False
-1976,house,Texas,TX,16,Richard Crawford White,Democratic,57.8,True,True,False
-1976,house,Texas,TX,16,Vic Shackelford,Republican,42.2,False,False,False
-1976,house,Texas,TX,17,Omar Burleson,Democratic,100.0,True,True,False
-1976,house,Texas,TX,18,Barbara Jordan,Democratic,85.5,True,True,False
-1976,house,Texas,TX,18,Sam H. Wright,Republican,14.0,False,False,False
-1976,house,Texas,TX,18,Sylvia Zapata,Unknown,0.5,False,False,False
-1976,house,Texas,TX,19,George H. Mahon,Democratic,54.6,True,True,False
-1976,house,Texas,TX,19,Jim Reese,Republican,45.4,False,False,False
-1976,house,Texas,TX,20,Henry B. González,Democratic,100.0,True,True,False
-1976,house,Texas,TX,21,Bob Krueger,Democratic,71.0,True,True,False
-1976,house,Texas,TX,21,Bobby A. Locke,Republican,26.7,False,False,False
-1976,house,Texas,TX,21,Ramon E. Carrillo,Unknown,1.2,False,False,False
-1976,house,Texas,TX,21,Ed Gallion,Unknown,1.0,False,False,False
-1976,house,Texas,TX,22,Robert Gammage,Democratic,50.1,True,False,False
-1976,house,Texas,TX,22,Ron Paul,Republican,49.9,False,True,False
-1976,house,Texas,TX,23,Abraham Kazen,Democratic,100.0,True,True,False
-1976,house,Texas,TX,24,Dale Milford,Democratic,63.4,True,True,False
-1976,house,Texas,TX,24,Leo Berman,Republican,36.1,False,False,False
-1976,house,Texas,TX,24,Earl W. Armstrong,Unknown,0.5,False,False,False
-1976,house,Utah,UT,1,K. Gunn McKay,Democratic,58.2,True,True,False
-1976,house,Utah,UT,1,Joe H. Ferguson,Republican,39.8,False,False,False
-1976,house,Utah,UT,1,Harry B. Gerlach,Unknown,2.0,False,False,False
-1976,house,Utah,UT,2,David Daniel Marriott,Republican,52.4,True,False,False
-1976,house,Utah,UT,2,Allan Howe,Democratic,40.1,False,True,False
-1976,house,Utah,UT,2,Daryl J. McCarty,Unknown,7.4,False,False,False
-1976,house,Vermont,VT,AL,Jim Jeffords,Republican,67.3,True,True,False
-1976,house,Vermont,VT,AL,John A. Burgess,Democratic,32.7,False,False,False
-1976,house,Virginia,VA,1,Paul Trible,Republican,48.6,True,False,True
-1976,house,Virginia,VA,1,Robert E. Quinn,Democratic,47.5,False,False,True
-1976,house,Virginia,VA,1,Mary B. McClaine,Independent,4.0,False,False,True
-1976,house,Virginia,VA,2,G. William Whitehurst,Republican,65.7,True,True,False
-1976,house,Virginia,VA,2,Robert E. Washington,Democratic,34.3,False,False,False
-1976,house,Virginia,VA,3,David E. Satterfield III,Democratic,88.1,True,True,False
-1976,house,Virginia,VA,3,Alan Robert Ogden,Independent,11.9,False,False,False
-1976,house,Virginia,VA,4,Robert Daniel,Republican,53.0,True,True,False
-1976,house,Virginia,VA,4,"J. W. ""Billy"" O'Brien",Democratic,47.0,False,False,False
-1976,house,Virginia,VA,5,Dan Daniel,Democratic,100.0,True,True,False
-1976,house,Virginia,VA,6,M. Caldwell Butler,Republican,62.2,True,True,False
-1976,house,Virginia,VA,6,Warren D. Saunders,Independent,37.8,False,False,False
-1976,house,Virginia,VA,7,J. Kenneth Robinson,Republican,81.8,True,True,False
-1976,house,Virginia,VA,7,James B. Hutt Jr.,Independent,18.2,False,False,False
-1976,house,Virginia,VA,8,Herbert Harris,Democratic,51.6,True,True,False
-1976,house,Virginia,VA,8,James R. Tate,Republican,42.6,False,False,False
-1976,house,Virginia,VA,8,Michael D. Cannon,Independent,5.8,False,False,False
-1976,house,Virginia,VA,9,William C. Wampler,Republican,57.3,True,True,False
-1976,house,Virginia,VA,9,Charles J. Horne,Democratic,42.7,False,False,False
-1976,house,Virginia,VA,10,Joseph L. Fisher,Democratic,54.7,True,True,False
-1976,house,Virginia,VA,10,Vincent F. Callahan Jr.,Republican,38.9,False,False,False
-1976,house,Virginia,VA,10,E. Stanley Rittenhouse,Independent,6.4,False,False,False
-1976,house,Washington,WA,1,Joel Pritchard,Republican,71.9,True,True,False
-1976,house,Washington,WA,1,Dave Wood,Democratic,25.8,False,False,False
-1976,house,Washington,WA,1,Alan M. Gottlieb,Unknown,1.9,False,False,False
-1976,house,Washington,WA,1,Patrick Ruckert,Labor,0.4,False,False,False
-1976,house,Washington,WA,2,Lloyd Meeds,Democratic,49.3,True,True,False
-1976,house,Washington,WA,2,John Nance Garner,Republican,49.0,False,False,False
-1976,house,Washington,WA,2,Tom Bly,Unknown,0.9,False,False,False
-1976,house,Washington,WA,2,Carol Ruckert,Labor,0.8,False,False,False
-1976,house,Washington,WA,3,Don Bonker,Democratic,70.8,True,True,False
-1976,house,Washington,WA,3,Chuck Elhart,Republican,28.0,False,False,False
-1976,house,Washington,WA,3,David Kilber,Labor,1.1,False,False,False
-1976,house,Washington,WA,4,Mike McCormack,Democratic,57.8,True,True,False
-1976,house,Washington,WA,4,Dick Granger,Republican,41.0,False,False,False
-1976,house,Washington,WA,4,Jeff W. Busby,Unknown,0.8,False,False,False
-1976,house,Washington,WA,4,Ted Andromidas,Labor,0.5,False,False,False
-1976,house,Washington,WA,5,Tom Foley,Democratic,58.0,True,True,False
-1976,house,Washington,WA,5,Duane Alton,Republican,40.6,False,False,False
-1976,house,Washington,WA,5,D. E. Bear Sandahl,Unknown,0.9,False,False,False
-1976,house,Washington,WA,5,Ira Liebowitz,Labor,0.5,False,False,False
-1976,house,Washington,WA,6,Norm Dicks,Democratic,73.5,True,False,True
-1976,house,Washington,WA,6,Robert M. Reynolds,Republican,25.3,False,False,True
-1976,house,Washington,WA,6,Michael Duane,Labor,1.2,False,False,True
-1976,house,Washington,WA,7,Brock Adams,Democratic,73.0,True,True,False
-1976,house,Washington,WA,7,Raymond Pritchard,Republican,25.4,False,False,False
-1976,house,Washington,WA,7,Gene Goosman,Unknown,0.9,False,False,False
-1976,house,Washington,WA,7,Marianna Wertz,Labor,0.7,False,False,False
-1976,house,West Virginia,WV,1,Bob Mollohan,Democratic,58.0,True,True,True
-1976,house,West Virginia,WV,1,John F. McCuskey,Republican,42.0,False,False,True
-1976,house,West Virginia,WV,2,Harley Orrin Staggers,Democratic,73.6,True,True,False
-1976,house,West Virginia,WV,2,Jim Sloan,Republican,26.4,False,False,False
-1976,house,West Virginia,WV,3,John M. Slack Jr.,Democratic,100.0,True,True,False
-1976,house,West Virginia,WV,4,Nick Rahall,Democratic,45.6,True,False,True
-1976,house,West Virginia,WV,4,Ken Hechler,Unknown,36.6,False,True,True
-1976,house,West Virginia,WV,4,Steve Goodman,Republican,17.8,False,False,True
-1976,house,Wisconsin,WI,1,Les Aspin,Democratic,64.9,True,True,False
-1976,house,Wisconsin,WI,1,William W. Petrie,Republican,34.0,False,False,False
-1976,house,Wisconsin,WI,1,Eugene R. Zimmerman,Unknown,1.1,False,False,False
-1976,house,Wisconsin,WI,2,Robert Kastenmeier,Democratic,65.6,True,True,False
-1976,house,Wisconsin,WI,2,Elizabeth T. Miller,Republican,34.4,False,False,False
-1976,house,Wisconsin,WI,3,Alvin Baldus,Democratic,58.1,True,True,False
-1976,house,Wisconsin,WI,3,Adolf L. Gundersen,Republican,41.9,False,False,False
-1976,house,Wisconsin,WI,4,Clement J. Zablocki,Democratic,100.0,True,True,False
-1976,house,Wisconsin,WI,5,Henry S. Reuss,Democratic,77.8,True,True,False
-1976,house,Wisconsin,WI,5,Robert L. Hicks,Republican,21.0,False,False,False
-1976,house,Wisconsin,WI,5,R. Julian Chapman,Independent,0.9,False,False,False
-1976,house,Wisconsin,WI,5,John E. Sokoly,Independent,0.3,False,False,False
-1976,house,Wisconsin,WI,6,William A. Steiger,Republican,63.4,True,True,False
-1976,house,Wisconsin,WI,6,Joseph C. Smith,Democratic,36.6,False,False,False
-1976,house,Wisconsin,WI,7,Dave Obey,Democratic,73.3,True,True,False
-1976,house,Wisconsin,WI,7,Frank A. Savino,Republican,26.1,False,False,False
-1976,house,Wisconsin,WI,7,George Olishkewych,Unknown,0.7,False,False,False
-1976,house,Wisconsin,WI,8,Robert John Cornell,Democratic,50.9,True,True,False
-1976,house,Wisconsin,WI,8,Harold Vernon Froehlich,Republican,46.9,False,False,False
-1976,house,Wisconsin,WI,8,Donald D. Hoeft,Unknown,2.2,False,False,False
-1976,house,Wisconsin,WI,9,Bob Kasten,Republican,65.9,True,True,False
-1976,house,Wisconsin,WI,9,Lynn M. McDonald,Democratic,34.1,False,False,False
-1976,house,Wyoming,WY,AL,Teno Roncalio,Democratic,56.4,True,True,True
-1976,house,Wyoming,WY,AL,Larry Hart,Republican,43.6,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+1976,house,Alabama,AL,1,,Jack Edwards,Republican,,62.5,True,True,False
+1976,house,Alabama,AL,1,,Bill Davenport,Democratic,,37.5,False,False,False
+1976,house,Alabama,AL,2,,William Louis Dickinson,Republican,,57.6,True,True,False
+1976,house,Alabama,AL,2,,J. Carole Keahey,Democratic,,42.4,False,False,False
+1976,house,Alabama,AL,3,,Bill Nichols,Democratic,,99.0,True,True,False
+1976,house,Alabama,AL,3,,Ogburn Gardner,Unknown,,1.0,False,False,False
+1976,house,Alabama,AL,4,,Tom Bevill,Democratic,,80.4,True,True,False
+1976,house,Alabama,AL,4,,Leonard Wilson,Republican,,19.6,False,False,False
+1976,house,Alabama,AL,5,,Ronnie Flippo,Democratic,,100.0,True,False,True
+1976,house,Alabama,AL,6,,John Hall Buchanan Jr.,Republican,,56.7,True,True,False
+1976,house,Alabama,AL,6,,Mel Bailey,Democratic,,42.7,False,False,False
+1976,house,Alabama,AL,6,,Billy E. Dorsey,Unknown,,0.6,False,False,False
+1976,house,Alabama,AL,7,,Walter Flowers,Democratic,,100.0,True,True,False
+1976,house,Alaska,AK,AL,118208,Don Young,Republican,,71.0,True,True,False
+1976,house,Alaska,AK,AL,118208,Eben Hopson,Democratic,34194,29.0,False,False,False
+1976,house,Arizona,AZ,1,,John Jacob Rhodes,Republican,,57.3,True,True,False
+1976,house,Arizona,AZ,1,,Pat Fullinwider,Democratic,,40.7,False,False,False
+1976,house,Arizona,AZ,1,,Sumner Duncan Dodge,Unknown,,1.4,False,False,False
+1976,house,Arizona,AZ,1,,Harry Braun,Independent,,0.6,False,False,False
+1976,house,Arizona,AZ,2,,Mo Udall,Democratic,,58.2,True,True,False
+1976,house,Arizona,AZ,2,,Laird Guttersen,Republican,,39.4,False,False,False
+1976,house,Arizona,AZ,2,,Michael Emerling,Unknown,,2.4,False,False,False
+1976,house,Arizona,AZ,3,,Bob Stump,Democratic,,47.5,True,False,True
+1976,house,Arizona,AZ,3,,Fred Koory Jr.,Republican,,42.3,False,False,True
+1976,house,Arizona,AZ,3,,Bill McCune,Independent,,10.2,False,False,True
+1976,house,Arizona,AZ,4,,Eldon Rudd,Republican,,48.6,True,False,True
+1976,house,Arizona,AZ,4,,Tony Mason,Democratic,,48.2,False,False,True
+1976,house,Arizona,AZ,4,,Pat Harper,Unknown,,3.1,False,False,True
+1976,house,Arkansas,AR,1,,William Vollie Alexander Jr.,Democratic,,68.9,True,True,False
+1976,house,Arkansas,AR,1,,Harlan Holleman,Republican,,31.1,False,False,False
+1976,house,Arkansas,AR,2,,Jim Guy Tucker,Democratic,,86.4,True,False,True
+1976,house,Arkansas,AR,2,,James J. Kelly,Republican,,13.6,False,False,True
+1976,house,Arkansas,AR,2,,Joe McNew,Unknown,,0.005,False,False,True
+1976,house,Arkansas,AR,3,,John Paul Hammerschmidt,Republican,,100.0,True,True,False
+1976,house,Arkansas,AR,4,,Ray Thornton,Democratic,,100.0,True,True,False
+1976,house,California,CA,1,217016,Harold T. Johnson,Democratic,160477,73.9,True,True,False
+1976,house,California,CA,1,217016,James E. Taylor,Republican,56539,26.1,False,False,False
+1976,house,California,CA,2,216563,Donald H. Clausen,Republican,,56.0,True,True,False
+1976,house,California,CA,2,216563,Oscar Klee,Democratic,,41.0,False,False,False
+1976,house,California,CA,2,216563,"Robert B. ""Bob"" Allred",Peace and Freedom,6444,3.0,False,False,False
+1976,house,California,CA,3,191854,John E. Moss,Democratic,139779,72.9,True,True,False
+1976,house,California,CA,3,191854,George R. Marsh Jr.,Republican,52075,27.1,False,False,False
+1976,house,California,CA,4,151037,Robert L. Leggett,Democratic,75844,50.2,True,True,False
+1976,house,California,CA,4,151037,Albert Dehr,Republican,,49.8,False,False,False
+1976,house,California,CA,5,167754,John L. Burton,Democratic,103746,61.8,True,True,False
+1976,house,California,CA,5,167754,Branwell Fanning,Republican,64008,38.2,False,False,False
+1976,house,California,CA,6,130916,Phillip Burton,Democratic,86493,66.1,True,True,False
+1976,house,California,CA,6,130916,Tom Spinosa,Republican,35359,27.0,False,False,False
+1976,house,California,CA,6,130916,Emily L. Siegel,Peace and Freedom,6570,5.0,False,False,False
+1976,house,California,CA,6,130916,"Raymond O. ""Ray"" Heaps",American Independent,2494,1.9,False,False,False
+1976,house,California,CA,7,196816,George Miller,Democratic,147064,74.7,True,True,False
+1976,house,California,CA,7,196816,Robert L. Vickers,Republican,45863,23.3,False,False,False
+1976,house,California,CA,7,196816,Melvin E. Stanley,American Independent,3889,2.0,False,False,False
+1976,house,California,CA,8,196954,Ron Dellums,Democratic,122342,62.1,True,True,False
+1976,house,California,CA,8,196954,Philip Stiles Breck Jr.,Republican,68374,34.7,False,False,False
+1976,house,California,CA,8,196954,Robert J. Evans,Peace and Freedom,6238,3.2,False,False,False
+1976,house,California,CA,9,164391,Pete Stark,Democratic,116398,70.8,True,True,False
+1976,house,California,CA,9,164391,James K. Mills,Republican,44607,27.1,False,False,False
+1976,house,California,CA,9,164391,Albert L. Sargis,Peace and Freedom,3386,2.1,False,False,False
+1976,house,California,CA,10,155443,Don Edwards,Democratic,111992,72.0,True,True,False
+1976,house,California,CA,10,155443,Herb Smith,Republican,38088,24.5,False,False,False
+1976,house,California,CA,10,155443,Edmon V. Kaiser,American Independent,5363,3.5,False,False,False
+1976,house,California,CA,11,176194,Leo Ryan,Democratic,107618,61.1,True,True,False
+1976,house,California,CA,11,176194,Bob Jones,Republican,62435,35.4,False,False,False
+1976,house,California,CA,11,176194,Nicholas W. Kudrovzeff,American Independent,,3.5,False,False,False
+1976,house,California,CA,12,196857,Pete McCloskey,Republican,130332,66.2,True,True,False
+1976,house,California,CA,12,196857,David Harris,Democratic,,31.3,False,False,False
+1976,house,California,CA,12,196857,"Joseph David ""Joss"" Cooney",American Independent,4999,2.5,False,False,False
+1976,house,California,CA,13,202611,Norman Mineta,Democratic,135291,66.8,True,True,False
+1976,house,California,CA,13,202611,Ernie Konnyu,Republican,63130,31.2,False,False,False
+1976,house,California,CA,13,202611,William Pollock Herrell,American Independent,4190,2.1,False,False,False
+1976,house,California,CA,14,169959,John J. McFall,Democratic,123285,72.5,True,True,False
+1976,house,California,CA,14,169959,Roger A. Blain,Republican,,27.5,False,False,False
+1976,house,California,CA,15,128435,B. F. Sisk,Democratic,,72.2,True,True,False
+1976,house,California,CA,15,128435,Carol O. Harner,Republican,,27.8,False,False,False
+1976,house,California,CA,16,195705,Leon Panetta,Democratic,104545,53.4,True,False,False
+1976,house,California,CA,16,195705,Burt L. Talcott,Republican,91160,46.6,False,True,False
+1976,house,California,CA,17,158168,John Hans Krebs,Democratic,103898,65.7,True,True,False
+1976,house,California,CA,17,158168,Henry J. Andreas,Republican,54270,34.3,False,False,False
+1976,house,California,CA,18,158341,William M. Ketchum,Republican,101658,64.2,True,True,False
+1976,house,California,CA,18,158341,Dean Close,Democratic,56683,35.8,False,False,False
+1976,house,California,CA,19,192923,Robert J. Lagomarsino,Republican,124201,64.4,True,True,False
+1976,house,California,CA,19,192923,Dan Sisson,Democratic,68722,35.6,False,False,False
+1976,house,California,CA,20,217351,Barry Goldwater Jr.,Republican,146158,67.2,True,True,False
+1976,house,California,CA,20,217351,Patti Lear Corman,Democratic,,32.8,False,False,False
+1976,house,California,CA,21,153109,James C. Corman,Democratic,101837,66.5,True,True,False
+1976,house,California,CA,21,153109,"Erwin ""Ed"" Hogan",Republican,44094,28.8,False,False,False
+1976,house,California,CA,21,153109,Bill Hill,Peace and Freedom,7178,4.7,False,False,False
+1976,house,California,CA,22,183312,Carlos Moorhead,Republican,,62.6,True,True,False
+1976,house,California,CA,22,183312,Robert L. Salley,Democratic,,37.4,False,False,False
+1976,house,California,CA,23,217053,Anthony Beilenson,Democratic,,60.2,True,False,True
+1976,house,California,CA,23,217053,Thomas F. Bartman,Republican,86434,39.8,False,False,True
+1976,house,California,CA,24,159774,Henry Waxman,Democratic,108296,67.8,True,True,False
+1976,house,California,CA,24,159774,David Irving Simmons,Republican,,32.2,False,False,False
+1976,house,California,CA,25,80625,Edward R. Roybal,Democratic,57966,71.9,True,True,False
+1976,house,California,CA,25,80625,Jim Madrid,Republican,,22.0,False,False,False
+1976,house,California,CA,25,80625,Marilyn Seals,Peace and Freedom,4922,6.1,False,False,False
+1976,house,California,CA,26,171712,John H. Rousselot,Republican,112619,65.6,True,True,False
+1976,house,California,CA,26,171712,Bruce Latta,Democratic,,34.4,False,False,False
+1976,house,California,CA,27,209611,Bob Dornan,Republican,114623,54.7,True,False,True
+1976,house,California,CA,27,209611,Gary Familian,Democratic,94988,45.3,False,False,True
+1976,house,California,CA,28,142915,Yvonne Brathwaite Burke,Democratic,,80.2,True,True,False
+1976,house,California,CA,28,142915,Edward S. Skinner,Republican,28303,19.8,False,False,False
+1976,house,California,CA,29,96602,Augustus Hawkins,Democratic,,85.4,True,True,False
+1976,house,California,CA,29,96602,Michael D. Germonprez,Republican,10852,11.2,False,False,False
+1976,house,California,CA,29,96602,Sheila Leburg,Independent,3235,3.3,False,False,False
+1976,house,California,CA,30,111270,George E. Danielson,Democratic,82767,74.4,True,True,False
+1976,house,California,CA,30,111270,Harry Couch,Republican,28503,25.6,False,False,False
+1976,house,California,CA,31,83155,Charles H. Wilson,Democratic,83155,100.0,True,True,False
+1976,house,California,CA,32,127428,Glenn M. Anderson,Democratic,92034,72.2,True,True,False
+1976,house,California,CA,32,127428,Clifford O. Young,Republican,35394,27.8,False,False,False
+1976,house,California,CA,33,173205,Del M. Clawson,Republican,95398,55.1,True,True,False
+1976,house,California,CA,33,173205,Ted Snyder,Democratic,77807,44.9,False,False,False
+1976,house,California,CA,34,199135,Mark W. Hannaford,Democratic,100988,50.7,True,True,False
+1976,house,California,CA,34,199135,Dan Lungren,Republican,98147,49.3,False,False,False
+1976,house,California,CA,35,164237,James F. Lloyd,Democratic,,53.3,True,True,False
+1976,house,California,CA,35,164237,Louis Brutocao,Republican,76765,46.7,False,False,False
+1976,house,California,CA,36,147556,George Brown Jr.,Democratic,90830,61.6,True,True,True
+1976,house,California,CA,36,147556,Grant Carner,Republican,49368,33.5,False,False,True
+1976,house,California,CA,36,147556,William Emery Pasley,American Independent,,5.0,False,False,True
+1976,house,California,CA,37,188007,Shirley Neil Pettis,Republican,133634,71.1,True,True,False
+1976,house,California,CA,37,188007,Douglas C. Nilson Jr.,Democratic,49021,26.1,False,False,False
+1976,house,California,CA,37,188007,Bernard Wahl,American Independent,5352,2.8,False,False,False
+1976,house,California,CA,38,162409,Jerry M. Patterson,Democratic,103317,63.6,True,True,False
+1976,house,California,CA,38,162409,"James ""Jim"" Combs",Republican,59092,36.4,False,False,False
+1976,house,California,CA,39,209402,Charles E. Wiggins,Republican,122657,58.6,True,True,False
+1976,house,California,CA,39,209402,"William E. ""Bill"" Farris",Democratic,86745,41.4,False,False,False
+1976,house,California,CA,40,250644,Robert Badham,Republican,148512,59.3,True,False,False
+1976,house,California,CA,40,250644,Vivian Hall,Democratic,102132,40.7,False,False,False
+1976,house,California,CA,41,223374,Bob Wilson,Republican,128784,57.7,True,True,False
+1976,house,California,CA,41,223374,King Golden Jr.,Democratic,94590,42.3,False,False,False
+1976,house,California,CA,42,135627,Lionel Van Deerlin,Democratic,103062,76.0,True,True,False
+1976,house,California,CA,42,135627,Wes Marden,Republican,32565,24.0,False,False,False
+1976,house,California,CA,43,267051,Clair Burgener,Republican,173576,65.0,True,True,False
+1976,house,California,CA,43,267051,Pat Kelly,Democratic,93475,35.0,False,False,False
+1976,house,Colorado,CO,1,,Pat Schroeder,Democratic,,53.2,True,True,False
+1976,house,Colorado,CO,1,,Don Friedman,Republican,,46.2,False,False,False
+1976,house,Colorado,CO,1,,Priscilla Schenk,Unknown,,0.4,False,False,False
+1976,house,Colorado,CO,1,,Lann Meyers,Labor,,0.3,False,False,False
+1976,house,Colorado,CO,2,,Tim Wirth,Democratic,,50.5,True,True,False
+1976,house,Colorado,CO,2,,Ed Scott,Republican,,49.5,False,False,False
+1976,house,Colorado,CO,3,,Frank Evans,Democratic,,51.0,True,True,False
+1976,house,Colorado,CO,3,,Melvin H. Takaki,Republican,,47.0,False,False,False
+1976,house,Colorado,CO,3,,Alfredo Archer,Unknown,,1.4,False,False,False
+1976,house,Colorado,CO,3,,Henry John Olshaw,Unknown,,0.7,False,False,False
+1976,house,Colorado,CO,4,,James Paul Johnson,Republican,,54.0,True,True,False
+1976,house,Colorado,CO,4,,Daniel M. Ogden Jr.,Democratic,,34.8,False,False,False
+1976,house,Colorado,CO,4,,Dick Davis,Independent,,9.2,False,False,False
+1976,house,Colorado,CO,4,,Henry Thiel Jr.,Independent,,1.9,False,False,False
+1976,house,Colorado,CO,5,,William L. Armstrong,Republican,,66.4,True,True,False
+1976,house,Colorado,CO,5,,Dorothy Hores,Democratic,,33.6,False,False,False
+1976,house,Connecticut,CT,1,,William R. Cotter,Democratic,,57.1,True,True,False
+1976,house,Connecticut,CT,1,,Lucien P. Di Fazio Jr.,Republican,,41.8,False,False,False
+1976,house,Connecticut,CT,1,,Charlie A. Burke,Unknown,,0.6,False,False,False
+1976,house,Connecticut,CT,1,,Donna C. McDonough,Labor,,0.5,False,False,False
+1976,house,Connecticut,CT,2,,Chris Dodd,Democratic,,65.1,True,True,False
+1976,house,Connecticut,CT,2,,Richard M. Jackson,Republican,,34.1,False,False,False
+1976,house,Connecticut,CT,2,,Anthony Discepolo,Independent,,0.8,False,False,False
+1976,house,Connecticut,CT,3,,Robert Giaimo,Democratic,,54.4,True,True,False
+1976,house,Connecticut,CT,3,,John G. Pucciano,Republican,,43.7,False,False,False
+1976,house,Connecticut,CT,3,,Joelle R. Fishman,Unknown,,1.3,False,False,False
+1976,house,Connecticut,CT,3,,Robert G. Cossette,Unknown,,0.6,False,False,False
+1976,house,Connecticut,CT,4,,Stewart McKinney,Republican,,61.0,True,True,False
+1976,house,Connecticut,CT,4,,Geoffrey G. Peterson,Democratic,,37.1,False,False,False
+1976,house,Connecticut,CT,4,,Richard H. G. Cunningham,Unknown,,1.6,False,False,False
+1976,house,Connecticut,CT,4,,Zoltan Toth Solymossy,Conservative,,0.3,False,False,False
+1976,house,Connecticut,CT,5,,Ronald A. Sarasin,Republican,,66.5,True,True,False
+1976,house,Connecticut,CT,5,,Michael J. Adanti,Democratic,,32.7,False,False,False
+1976,house,Connecticut,CT,5,,William Kozak Jr.,Unknown,,0.7,False,False,False
+1976,house,Connecticut,CT,6,,Toby Moffett,Democratic,,56.6,True,True,False
+1976,house,Connecticut,CT,6,,Thomas F. Upson,Republican,,43.0,False,False,False
+1976,house,Connecticut,CT,6,,Louis J. Marietta,Independent,,0.4,False,False,False
+1976,house,Delaware,DE,AL,215085,Thomas B. Evans Jr.,Republican,110636,51.4,True,False,True
+1976,house,Delaware,DE,AL,215085,Samuel L. Shipley,Democratic,102411,47.6,False,False,True
+1976,house,Delaware,DE,AL,215085,Robert G. LoPresti,Unknown,840,0.4,False,False,True
+1976,house,Delaware,DE,AL,215085,Raymond R. Green,Unknown,693,0.3,False,False,True
+1976,house,Delaware,DE,AL,215085,Joseph B. Hollon Sr.,Unknown,347,0.2,False,False,True
+1976,house,Delaware,DE,AL,215085,Philip Valenti,Labor,150,0.07,False,False,True
+1976,house,Florida,FL,1,,Bob Sikes,Democratic,,100.0,True,True,True
+1976,house,Florida,FL,2,,Don Fuqua,Democratic,,100.0,True,True,False
+1976,house,Florida,FL,3,,Charles E. Bennett,Democratic,,100.0,True,True,False
+1976,house,Florida,FL,4,,Bill Chappell,Democratic,,100.0,True,True,False
+1976,house,Florida,FL,5,,Richard Kelly,Republican,,59.0,True,True,False
+1976,house,Florida,FL,5,,JoAnn Saunders,Democratic,,41.0,False,False,False
+1976,house,Florida,FL,6,,Bill Young,Republican,,65.2,True,True,False
+1976,house,Florida,FL,6,,Gabriel Cazares,Democratic,,34.8,False,False,False
+1976,house,Florida,FL,6,,Wally Staff,Unknown,,0.01,False,False,False
+1976,house,Florida,FL,7,,Sam Gibbons,Democratic,,65.7,True,True,False
+1976,house,Florida,FL,7,,Dusty Owens,Republican,,34.3,False,False,False
+1976,house,Florida,FL,8,,Andy Ireland,Democratic,,58.0,True,False,True
+1976,house,Florida,FL,8,,Bob Johnson,Republican,,42.0,False,False,True
+1976,house,Florida,FL,9,,Louis Frey Jr.,Republican,,78.1,True,True,False
+1976,house,Florida,FL,9,,Joseph A. Rosier,Democratic,,21.9,False,False,False
+1976,house,Florida,FL,10,,Skip Bafalis,Republican,,66.3,True,True,False
+1976,house,Florida,FL,10,,Bill Sikes,Democratic,,33.7,False,False,False
+1976,house,Florida,FL,11,,Paul Rogers,Democratic,,91.1,True,True,False
+1976,house,Florida,FL,11,,Clyde Adams,Unknown,,8.9,False,False,False
+1976,house,Florida,FL,12,,J. Herbert Burke,Republican,,53.9,True,True,False
+1976,house,Florida,FL,12,,Charles Friedman,Democratic,,46.1,False,False,False
+1976,house,Florida,FL,12,,Bob Davis,Unknown,,0.03,False,False,False
+1976,house,Florida,FL,13,,William Lehman,Democratic,,78.3,True,True,False
+1976,house,Florida,FL,13,,Lee Arnold Spiegelman,Republican,,21.7,False,False,False
+1976,house,Florida,FL,14,,Claude Pepper,Democratic,,72.9,True,True,False
+1976,house,Florida,FL,14,,Evelio S. Estrella,Republican,,27.1,False,False,False
+1976,house,Florida,FL,15,,Dante Fascell,Democratic,,70.4,True,True,False
+1976,house,Florida,FL,15,,Paul R. Cobb,Republican,,29.6,False,False,False
+1976,house,Georgia,GA,1,,"Ronald ""Bo"" Ginn",Democratic,,100.0,True,True,False
+1976,house,Georgia,GA,2,,Dawson Mathis,Democratic,,100.0,True,True,False
+1976,house,Georgia,GA,3,,Jack Brinkley,Democratic,,88.7,True,True,False
+1976,house,Georgia,GA,3,,Steven Dugan,Republican,,11.3,False,False,False
+1976,house,Georgia,GA,4,,Elliott H. Levitas,Democratic,,68.3,True,True,False
+1976,house,Georgia,GA,4,,George T. Warren II,Republican,,31.7,False,False,False
+1976,house,Georgia,GA,5,,Andrew Young,Democratic,,66.7,True,True,False
+1976,house,Georgia,GA,5,,Edward W. Gadrix,Republican,,33.3,False,False,False
+1976,house,Georgia,GA,6,,John Flynt,Democratic,,51.7,True,True,False
+1976,house,Georgia,GA,6,,Newt Gingrich,Republican,,48.3,False,False,False
+1976,house,Georgia,GA,7,,Larry McDonald,Democratic,,55.1,True,True,False
+1976,house,Georgia,GA,7,,Quincy Collins,Republican,,44.9,False,False,False
+1976,house,Georgia,GA,8,,Billy Lee Evans,Democratic,,69.6,True,False,True
+1976,house,Georgia,GA,8,,Billy Adams,Republican,,30.4,False,False,True
+1976,house,Georgia,GA,9,,Ed Jenkins,Democratic,,79.1,True,False,True
+1976,house,Georgia,GA,9,,Louise Wofford,Republican,,20.9,False,False,True
+1976,house,Georgia,GA,10,,Doug Barnard Jr.,Democratic,,100.0,True,False,True
+1976,house,Hawaii,HI,1,,Cecil Heftel,Democratic,,43.6,True,False,True
+1976,house,Hawaii,HI,1,,Frederick Rohlfing,Republican,,39.1,False,False,True
+1976,house,Hawaii,HI,1,,Kathy Joyce Hoshijo,Independent,,17.3,False,False,True
+1976,house,Hawaii,HI,2,,Daniel Akaka,Democratic,,79.5,True,False,True
+1976,house,Hawaii,HI,2,,Hank Inouye,Republican,,15.3,False,False,True
+1976,house,Hawaii,HI,2,,Bill Penaroza,Independent,,2.2,False,False,True
+1976,house,Hawaii,HI,2,,Dexter L. Cate,Unknown,,1.5,False,False,True
+1976,house,Hawaii,HI,2,,Don Smith,Unknown,,1.4,False,False,True
+1976,house,Idaho,ID,1,,Steve Symms,Republican,,54.6,True,True,False
+1976,house,Idaho,ID,1,,Ken Pursley,Democratic,,45.4,False,False,False
+1976,house,Idaho,ID,2,,George V. Hansen,Republican,,50.6,True,True,True
+1976,house,Idaho,ID,2,,Stan Kress,Democratic,,49.4,False,False,True
+1976,house,Illinois,IL,1,,Ralph Metcalfe,Democratic,,92.3,True,True,False
+1976,house,Illinois,IL,1,,A. A. Rayner Jr.,Republican,,7.4,False,False,False
+1976,house,Illinois,IL,1,,Debra Simonsen,Unknown,,0.2,False,False,False
+1976,house,Illinois,IL,1,,Andrew C. Pulley,Unknown,,0.1,False,False,False
+1976,house,Illinois,IL,2,,Morgan F. Murphy,Democratic,,84.7,True,True,False
+1976,house,Illinois,IL,2,,Spencer Leak,Republican,,15.3,False,False,False
+1976,house,Illinois,IL,3,,Marty Russo,Democratic,,58.9,True,True,False
+1976,house,Illinois,IL,3,,Ronald Buikema,Republican,,40.5,False,False,False
+1976,house,Illinois,IL,3,,Frank Collin,Unknown,,0.7,False,False,False
+1976,house,Illinois,IL,4,,Ed Derwinski,Republican,,65.8,True,True,False
+1976,house,Illinois,IL,4,,Ronald A. Rodger,Democratic,,34.2,False,False,False
+1976,house,Illinois,IL,5,,John G. Fary,Democratic,,76.9,True,True,False
+1976,house,Illinois,IL,5,,Vincent Krok,Republican,,23.1,False,False,False
+1976,house,Illinois,IL,6,,Henry Hyde,Republican,,60.6,True,True,False
+1976,house,Illinois,IL,6,,Marilyn D. Clancy,Democratic,,39.4,False,False,False
+1976,house,Illinois,IL,7,,Cardiss Collins,Democratic,,84.8,True,True,False
+1976,house,Illinois,IL,7,,Newell Ward,Republican,,15.2,False,False,False
+1976,house,Illinois,IL,8,,Dan Rostenkowski,Democratic,,80.5,True,True,False
+1976,house,Illinois,IL,8,,John F. Urbaszewski,Republican,,19.5,False,False,False
+1976,house,Illinois,IL,9,,Sidney R. Yates,Democratic,,72.2,True,True,True
+1976,house,Illinois,IL,9,,Thomas J. Wajerski,Republican,,27.8,False,False,True
+1976,house,Illinois,IL,10,,Abner Mikva,Democratic,,50.0,True,True,False
+1976,house,Illinois,IL,10,,Samuel H. Young,Republican,,50.0,False,False,False
+1976,house,Illinois,IL,11,,Frank Annunzio,Democratic,,67.4,True,True,False
+1976,house,Illinois,IL,11,,Daniel C. Reber,Republican,,32.6,False,False,False
+1976,house,Illinois,IL,12,,Phil Crane,Republican,,72.8,True,True,False
+1976,house,Illinois,IL,12,,Edwin L. Frank,Democratic,,27.2,False,False,False
+1976,house,Illinois,IL,13,,Robert McClory,Republican,,66.8,True,True,False
+1976,house,Illinois,IL,13,,James J. Cummings,Democratic,,30.3,False,False,False
+1976,house,Illinois,IL,13,,Donald G. DesLauriers,Independent,,2.9,False,False,False
+1976,house,Illinois,IL,14,,John N. Erlenborn,Republican,,74.4,True,True,False
+1976,house,Illinois,IL,14,,Marie Agnes Fese,Democratic,,25.6,False,False,False
+1976,house,Illinois,IL,15,,Tom Corcoran,Republican,,53.9,True,False,False
+1976,house,Illinois,IL,15,,Tim Lee Hall,Democratic,,46.1,False,True,False
+1976,house,Illinois,IL,16,,John B. Anderson,Republican,,67.9,True,True,False
+1976,house,Illinois,IL,16,,Stephen Eytalis,Democratic,,32.1,False,False,False
+1976,house,Illinois,IL,17,,George M. O'Brien,Republican,,58.2,True,True,False
+1976,house,Illinois,IL,17,,Merlin Karlock,Democratic,,41.8,False,False,False
+1976,house,Illinois,IL,18,,Robert H. Michel,Republican,,57.7,True,True,False
+1976,house,Illinois,IL,18,,Matthew Ryan,Democratic,,42.3,False,False,False
+1976,house,Illinois,IL,19,,Tom Railsback,Republican,,68.5,True,True,False
+1976,house,Illinois,IL,19,,John Craver,Democratic,,31.5,False,False,False
+1976,house,Illinois,IL,20,,Paul Findley,Republican,,63.6,True,True,False
+1976,house,Illinois,IL,20,,Peter F. Mack,Democratic,,36.4,False,False,False
+1976,house,Illinois,IL,21,,Ed Madigan,Republican,,74.5,True,True,False
+1976,house,Illinois,IL,21,,Anna Wall Scott,Democratic,,25.5,False,False,False
+1976,house,Illinois,IL,22,,George E. Shipley,Democratic,,61.4,True,True,False
+1976,house,Illinois,IL,22,,Ralph Y. McGinnis,Republican,,38.6,False,False,False
+1976,house,Illinois,IL,23,,Melvin Price,Democratic,,78.6,True,True,False
+1976,house,Illinois,IL,23,,Sam P. Drenovac,Republican,,21.4,False,False,False
+1976,house,Illinois,IL,24,,Paul Simon,Democratic,,67.4,True,True,False
+1976,house,Illinois,IL,24,,Peter G. Prineas,Republican,,32.6,False,False,False
+1976,house,Indiana,IN,1,,Adam Benjamin Jr.,Democratic,,71.3,True,False,False
+1976,house,Indiana,IN,1,,Robert J. Billings,Republican,,28.7,False,False,False
+1976,house,Indiana,IN,2,,Floyd Fithian,Democratic,,54.7,True,True,False
+1976,house,Indiana,IN,2,,William W. Erwin,Republican,,44.5,False,False,False
+1976,house,Indiana,IN,2,,James Hensley Logan,Unknown,,0.8,False,False,False
+1976,house,Indiana,IN,3,,John Brademas,Democratic,,56.9,True,True,False
+1976,house,Indiana,IN,3,,Thomas L. Thorson,Republican,,43.1,False,False,False
+1976,house,Indiana,IN,4,,Dan Quayle,Republican,,54.4,True,False,False
+1976,house,Indiana,IN,4,,J. Edward Roush,Democratic,,44.6,False,True,False
+1976,house,Indiana,IN,4,,Gail E. Gran,Unknown,,1.0,False,False,False
+1976,house,Indiana,IN,5,,Elwood Hillis,Republican,,61.7,True,True,False
+1976,house,Indiana,IN,5,,William C. Stout,Democratic,,38.3,False,False,False
+1976,house,Indiana,IN,6,,David W. Evans,Democratic,,54.9,True,True,False
+1976,house,Indiana,IN,6,,David G. Crane,Republican,,45.1,False,False,False
+1976,house,Indiana,IN,7,,John T. Myers,Republican,,62.7,True,True,False
+1976,house,Indiana,IN,7,,John E. Tipton,Democratic,,37.3,False,False,False
+1976,house,Indiana,IN,8,,David L. Cornwell,Democratic,,50.5,True,False,True
+1976,house,Indiana,IN,8,,Belden Bell,Republican,,49.5,False,False,True
+1976,house,Indiana,IN,9,,Lee H. Hamilton,Democratic,,100.0,True,True,False
+1976,house,Indiana,IN,10,,Philip Sharp,Democratic,,59.8,True,True,False
+1976,house,Indiana,IN,10,,Bill Frazier,Republican,,40.2,False,False,False
+1976,house,Indiana,IN,11,,Andrew Jacobs Jr.,Democratic,,60.4,True,True,False
+1976,house,Indiana,IN,11,,Lawrence L. Buell,Republican,,39.0,False,False,False
+1976,house,Indiana,IN,11,,John A. Einemann,Unknown,,0.6,False,False,False
+1976,house,Iowa,IA,1,,Jim Leach,Republican,,51.9,True,False,False
+1976,house,Iowa,IA,1,,Edward Mezvinsky,Democratic,,47.8,False,True,False
+1976,house,Iowa,IA,1,,Larry D. Smith,Unknown,,0.2,False,False,False
+1976,house,Iowa,IA,2,,Mike Blouin,Democratic,,50.3,True,True,False
+1976,house,Iowa,IA,2,,Tom Riley,Republican,,49.1,False,False,False
+1976,house,Iowa,IA,2,,James D. Roberson,Independent,,0.4,False,False,False
+1976,house,Iowa,IA,2,,Lorin E. Oxley,Unknown,,0.2,False,False,False
+1976,house,Iowa,IA,3,,Chuck Grassley,Republican,,56.5,True,True,False
+1976,house,Iowa,IA,3,,Stephen J. Rapp,Democratic,,43.5,False,False,False
+1976,house,Iowa,IA,4,,Neal Edward Smith,Democratic,,69.1,True,True,False
+1976,house,Iowa,IA,4,,Charles E. Minor,Republican,,30.9,False,False,False
+1976,house,Iowa,IA,5,,Tom Harkin,Democratic,,64.9,True,True,False
+1976,house,Iowa,IA,5,,Kenneth R. Fulk,Republican,,34.1,False,False,False
+1976,house,Iowa,IA,5,,Verlyn LeRoy Hayes,Unknown,,1.0,False,False,False
+1976,house,Iowa,IA,6,,Berkley Bedell,Democratic,,67.4,True,True,False
+1976,house,Iowa,IA,6,,Joanne D. Soper,Republican,,31.5,False,False,False
+1976,house,Iowa,IA,6,,William David Mincer,Unknown,,1.1,False,False,False
+1976,house,Kansas,KS,1,,Keith Sebelius,Republican,,73.1,True,True,False
+1976,house,Kansas,KS,1,,Randy Yowell,Democratic,,26.9,False,False,False
+1976,house,Kansas,KS,2,,Martha Keys,Democratic,,50.7,True,True,False
+1976,house,Kansas,KS,2,,Ross Freeman,Republican,,47.4,False,False,False
+1976,house,Kansas,KS,2,,"Charles V. ""Chuck"" Ijams",Unknown,,1.1,False,False,False
+1976,house,Kansas,KS,2,,David Scoggin,Unknown,,0.8,False,False,False
+1976,house,Kansas,KS,3,,Larry Winn,Republican,,68.7,True,True,False
+1976,house,Kansas,KS,3,,Philip S. Rhoads,Democratic,,29.0,False,False,False
+1976,house,Kansas,KS,3,,William W. Hyatt,Unknown,,2.3,False,False,False
+1976,house,Kansas,KS,4,,Dan Glickman,Democratic,,50.3,True,False,False
+1976,house,Kansas,KS,4,,Garner E. Shriver,Republican,,48.5,False,True,False
+1976,house,Kansas,KS,4,,Robert A. Cowdrey,Unknown,,1.3,False,False,False
+1976,house,Kansas,KS,5,,Joe Skubitz,Republican,,60.7,True,True,False
+1976,house,Kansas,KS,5,,Virgil Leon Olson,Democratic,,36.2,False,False,False
+1976,house,Kansas,KS,5,,Glen L. Rutherford,Unknown,,3.2,False,False,False
+1976,house,Kentucky,KY,1,,Carroll Hubbard,Democratic,,82.0,True,True,False
+1976,house,Kentucky,KY,1,,Bob Bersky,Republican,,18.0,False,False,False
+1976,house,Kentucky,KY,2,,William Natcher,Democratic,,60.4,True,True,False
+1976,house,Kentucky,KY,2,,Walter A. Baker,Republican,,39.6,False,False,False
+1976,house,Kentucky,KY,3,,Romano Mazzoli,Democratic,,57.2,True,True,False
+1976,house,Kentucky,KY,3,,Denzil J. Ramsey,Republican,,41.2,False,False,False
+1976,house,Kentucky,KY,3,,William P. Chambers,Unknown,,1.6,False,False,False
+1976,house,Kentucky,KY,4,,Gene Snyder,Republican,,55.9,True,True,False
+1976,house,Kentucky,KY,4,,Edward J. Winterberg,Democratic,,44.1,False,False,False
+1976,house,Kentucky,KY,5,,Tim Lee Carter,Republican,,66.6,True,True,False
+1976,house,Kentucky,KY,5,,Charles C. Smith,Democratic,,32.7,False,False,False
+1976,house,Kentucky,KY,5,,Albert G. J. Cullum,Unknown,,0.7,False,False,False
+1976,house,Kentucky,KY,6,,John B. Breckinridge,Democratic,,94.0,True,True,False
+1976,house,Kentucky,KY,6,,Anthony A. McCord,Republican,,6.0,False,False,False
+1976,house,Kentucky,KY,7,,Carl D. Perkins,Democratic,,71.3,True,True,False
+1976,house,Kentucky,KY,7,,Granville Thomas,Republican,,28.7,False,False,False
+1976,house,Louisiana,LA,1,,Richard Alvin Tonry,Democratic,,47.2,True,False,True
+1976,house,Louisiana,LA,1,,Bob Livingston,Republican,,43.4,False,False,True
+1976,house,Louisiana,LA,1,,John R. Rarick,Independent,,9.4,False,False,True
+1976,house,Louisiana,LA,2,,Lindy Boggs,Democratic,,92.6,True,True,False
+1976,house,Louisiana,LA,2,,"Jules W. ""Ted"" Hillery",Independent,,7.4,False,False,False
+1976,house,Louisiana,LA,3,,Dave Treen,Republican,,73.3,True,True,False
+1976,house,Louisiana,LA,3,,"David H. ""Pro"" Scheuermann Jr.",Democratic,,26.7,False,False,False
+1976,house,Louisiana,LA,4,,Joe Waggonner,Democratic,,100.0,True,True,False
+1976,house,Louisiana,LA,5,,Jerry Huckaby,Democratic,,52.5,True,False,False
+1976,house,Louisiana,LA,5,,Frank Spooner,Republican,,47.5,False,False,False
+1976,house,Louisiana,LA,6,,Henson Moore,Republican,,65.2,True,True,False
+1976,house,Louisiana,LA,6,,J. D. De Blieux,Democratic,,34.8,False,False,False
+1976,house,Louisiana,LA,7,,John Breaux,Democratic,,83.3,True,True,False
+1976,house,Louisiana,LA,7,,"Charles F. ""Chuck"" Huff",Republican,,16.7,False,False,False
+1976,house,Louisiana,LA,8,,Gillis William Long,Democratic,,94.2,True,True,False
+1976,house,Louisiana,LA,8,,Kent Courtney,Independent,,5.8,False,False,False
+1976,house,Maine,ME,1,,David F. Emery,Republican,,57.4,True,True,False
+1976,house,Maine,ME,1,,Frederick D. Barton,Democratic,,42.6,False,False,False
+1976,house,Maine,ME,2,,William Cohen,Republican,,77.1,True,True,False
+1976,house,Maine,ME,2,,Leighton Cooney,Democratic,,19.7,False,False,False
+1976,house,Maine,ME,2,,Jacqueline Francis Kaye,Independent,,3.2,False,False,False
+1976,house,Maryland,MD,1,,Robert Bauman,Republican,,54.1,True,True,False
+1976,house,Maryland,MD,1,,Roy Dyson,Democratic,,45.9,False,False,False
+1976,house,Maryland,MD,2,,Clarence Long,Democratic,,70.9,True,True,False
+1976,house,Maryland,MD,2,,John M. Seney,Republican,,18.0,False,False,False
+1976,house,Maryland,MD,2,,Ronald A. Meroney,Independent,,11.1,False,False,False
+1976,house,Maryland,MD,3,,Barbara Mikulski,Democratic,,74.6,True,False,True
+1976,house,Maryland,MD,3,,Samuel A. Culotta,Republican,,25.4,False,False,True
+1976,house,Maryland,MD,4,,Marjorie Holt,Republican,,57.7,True,True,False
+1976,house,Maryland,MD,4,,Werner Fornos,Democratic,,42.3,False,False,False
+1976,house,Maryland,MD,5,,Gladys Spellman,Democratic,,57.7,True,True,False
+1976,house,Maryland,MD,5,,John B. Burcham Jr.,Republican,,42.3,False,False,False
+1976,house,Maryland,MD,6,,Goodloe Byron,Democratic,,70.8,True,True,False
+1976,house,Maryland,MD,6,,Arthur T. Bond,Republican,,29.2,False,False,False
+1976,house,Maryland,MD,7,,Parren Mitchell,Democratic,,94.4,True,True,False
+1976,house,Maryland,MD,7,,William Salisbury,Independent,,5.6,False,False,False
+1976,house,Maryland,MD,8,,Newton Steers,Republican,,46.8,True,False,True
+1976,house,Maryland,MD,8,,Lanny Davis,Democratic,,42.2,False,False,True
+1976,house,Maryland,MD,8,,Robin Ficker,Independent,,11.0,False,False,True
+1976,house,Massachusetts,MA,1,,Silvio O. Conte,Republican,,63.8,True,True,False
+1976,house,Massachusetts,MA,1,,Edward A. McColgan,Democratic,,36.2,False,False,False
+1976,house,Massachusetts,MA,2,,Edward Boland,Democratic,,72.4,True,True,False
+1976,house,Massachusetts,MA,2,,Thomas P. Swank,Republican,,22.4,False,False,False
+1976,house,Massachusetts,MA,2,,John D. McCarthy,Labor,,5.3,False,False,False
+1976,house,Massachusetts,MA,3,,Joseph D. Early,Democratic,,100.0,True,True,False
+1976,house,Massachusetts,MA,4,,Robert Drinan,Democratic,,52.1,True,True,False
+1976,house,Massachusetts,MA,4,,Arthur D. Mason,Republican,,47.9,False,False,False
+1976,house,Massachusetts,MA,5,,Paul Tsongas,Democratic,,67.3,True,True,False
+1976,house,Massachusetts,MA,5,,Roger P. Durkin,Republican,,32.7,False,False,False
+1976,house,Massachusetts,MA,6,,Michael J. Harrington,Democratic,,54.8,True,True,False
+1976,house,Massachusetts,MA,6,,William E. Bronson,Republican,,41.3,False,False,False
+1976,house,Massachusetts,MA,6,,Lillian Cundari McGowan,Independent,,3.9,False,False,False
+1976,house,Massachusetts,MA,7,,Ed Markey,Democratic,,76.9,True,False,True
+1976,house,Massachusetts,MA,7,,Richard W. Daly,Republican,,17.6,False,False,True
+1976,house,Massachusetts,MA,7,,James J. Murphy,Independent,,3.3,False,False,True
+1976,house,Massachusetts,MA,7,,Harry G. Chickles,Independent,,2.3,False,False,True
+1976,house,Massachusetts,MA,8,,Tip O'Neill,Democratic,,74.4,True,True,False
+1976,house,Massachusetts,MA,8,,William A. Barnstead,Republican,,18.7,False,False,False
+1976,house,Massachusetts,MA,8,,Florenzo Di Donato,Independent,,4.6,False,False,False
+1976,house,Massachusetts,MA,8,,Leo F. Kahian,Unknown,,2.2,False,False,False
+1976,house,Massachusetts,MA,9,,Joe Moakley,Democratic,,69.6,True,True,False
+1976,house,Massachusetts,MA,9,,Robert G. Cunningham,Republican,,23.1,False,False,False
+1976,house,Massachusetts,MA,9,,Joseph M. O'Loughlin,Independent,,5.3,False,False,False
+1976,house,Massachusetts,MA,9,,"James ""Mac"" Warren",Unknown,,2.0,False,False,False
+1976,house,Massachusetts,MA,10,,Margaret Heckler,Republican,,100.0,True,True,False
+1976,house,Massachusetts,MA,11,,James A. Burke,Democratic,,69.0,True,True,False
+1976,house,Massachusetts,MA,11,,Danielle De Benedictis,Independent,,31.0,False,False,False
+1976,house,Massachusetts,MA,12,,Gerry Studds,Democratic,,100.0,True,True,False
+1976,house,Michigan,MI,1,,John Conyers Jr.,Democratic,,92.4,True,True,False
+1976,house,Michigan,MI,1,,Issac Hood,Republican,,6.5,False,False,False
+1976,house,Michigan,MI,1,,Hector M. McGregor,American Independent,,0.5,False,False,False
+1976,house,Michigan,MI,1,,B. R. Washington,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,1,,Thomas W. Jones,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,1,,Carolyn Nelson,Labor,,0.2,False,False,False
+1976,house,Michigan,MI,2,,Carl Pursell,Republican,,49.8,True,False,True
+1976,house,Michigan,MI,2,,Edward C. Pierce,Democratic,,49.6,False,False,True
+1976,house,Michigan,MI,2,,Philip S. Carroll,Unknown,,0.3,False,False,True
+1976,house,Michigan,MI,2,,Lawrence McKenna,Unknown,,0.2,False,False,True
+1976,house,Michigan,MI,2,,Ronald G. Ziegler,Labor,,0.1,False,False,True
+1976,house,Michigan,MI,3,,Garry E. Brown,Republican,,50.6,True,True,False
+1976,house,Michigan,MI,3,,Howard Wolpe,Democratic,,48.6,False,False,False
+1976,house,Michigan,MI,3,,Timothy W. Walter,American Independent,,0.6,False,False,False
+1976,house,Michigan,MI,3,,Charles H. Todd,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,3,,Leda J. Stevens,Labor,,0.06,False,False,False
+1976,house,Michigan,MI,4,,David Stockman,Republican,,60.0,True,False,True
+1976,house,Michigan,MI,4,,Richard E. Daugherty,Democratic,,38.8,False,False,True
+1976,house,Michigan,MI,4,,Karl Friske,American Independent,,1.0,False,False,True
+1976,house,Michigan,MI,4,,Russell Severance,Unknown,,0.2,False,False,True
+1976,house,Michigan,MI,4,,David M. Hilty,Labor,,0.07,False,False,True
+1976,house,Michigan,MI,5,,Harold S. Sawyer,Republican,,53.3,True,False,False
+1976,house,Michigan,MI,5,,Richard F. Vander Veen,Democratic,,46.2,False,True,False
+1976,house,Michigan,MI,5,,Joe Berman,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,5,,Gary D. Powell,Labor,,0.2,False,False,False
+1976,house,Michigan,MI,6,,Milton Robert Carr,Democratic,,52.7,True,True,False
+1976,house,Michigan,MI,6,,Clifford W. Taylor,Republican,,46.5,False,False,False
+1976,house,Michigan,MI,6,,James F. McClure,Unknown,,0.7,False,False,False
+1976,house,Michigan,MI,6,,Andrew Rotstein,Labor,,0.09,False,False,False
+1976,house,Michigan,MI,7,,Dale E. Kildee,Democratic,,70.0,True,False,True
+1976,house,Michigan,MI,7,,Robin Widgery,Republican,,28.3,False,False,True
+1976,house,Michigan,MI,7,,Jimmy L. Sabin,American Independent,,0.8,False,False,True
+1976,house,Michigan,MI,7,,Max Dean,Labor,,0.5,False,False,True
+1976,house,Michigan,MI,7,,Benjamin G. Hoffman,Unknown,,0.4,False,False,True
+1976,house,Michigan,MI,8,,J. Bob Traxler,Democratic,,59.0,True,True,False
+1976,house,Michigan,MI,8,,E. Brady Denton,Republican,,40.4,False,False,False
+1976,house,Michigan,MI,8,,Charles G. Johns,American Independent,,0.5,False,False,False
+1976,house,Michigan,MI,8,,David W. Thill,Labor,,0.1,False,False,False
+1976,house,Michigan,MI,9,,Guy Vander Jagt,Republican,,70.0,True,True,False
+1976,house,Michigan,MI,9,,Stephen E. Fawley,Democratic,,29.4,False,False,False
+1976,house,Michigan,MI,9,,DeLoyd G. Hesselink,American Independent,,0.5,False,False,False
+1976,house,Michigan,MI,9,,Joy Powell,Labor,,0.1,False,False,False
+1976,house,Michigan,MI,9,,William G. Friesser,Unknown,,0.06,False,False,False
+1976,house,Michigan,MI,10,,Elford Albin Cederberg,Republican,,56.5,True,True,False
+1976,house,Michigan,MI,10,,Donald J. Albosta,Democratic,,42.8,False,False,False
+1976,house,Michigan,MI,10,,Lawrence Dean,American Independent,,0.6,False,False,False
+1976,house,Michigan,MI,10,,Joseph D. D'Urso,Labor,,0.1,False,False,False
+1976,house,Michigan,MI,11,,Philip Ruppe,Republican,,54.8,True,True,False
+1976,house,Michigan,MI,11,,Francis D. Brouillette,Democratic,,44.8,False,False,False
+1976,house,Michigan,MI,11,,Elizabeth D. Pape,American Independent,,0.2,False,False,False
+1976,house,Michigan,MI,11,,Edward W. Aho,Unknown,,0.1,False,False,False
+1976,house,Michigan,MI,11,,John C. Hoffman,Labor,,0.07,False,False,False
+1976,house,Michigan,MI,12,,David Bonior,Democratic,,52.4,True,False,True
+1976,house,Michigan,MI,12,,David M. Serotkin,Republican,,47.2,False,False,True
+1976,house,Michigan,MI,12,,Gregory J. Clark,Unknown,,0.2,False,False,True
+1976,house,Michigan,MI,12,,Marielle Hammett Kronberg,Labor,,0.2,False,False,True
+1976,house,Michigan,MI,13,,Charles Diggs,Democratic,,89.0,True,True,False
+1976,house,Michigan,MI,13,,Richard A. Golden,Republican,,9.6,False,False,False
+1976,house,Michigan,MI,13,,Raymond Houle,American Independent,,0.5,False,False,False
+1976,house,Michigan,MI,13,,John Hawkins,Unknown,,0.4,False,False,False
+1976,house,Michigan,MI,13,,Melvin Brown,Labor,,0.3,False,False,False
+1976,house,Michigan,MI,13,,Harold L. DeWaters,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,14,,Lucien Nedzi,Democratic,,66.5,True,True,False
+1976,house,Michigan,MI,14,,John Edward Getz,Republican,,32.8,False,False,False
+1976,house,Michigan,MI,14,,Maurice Geary,Unknown,,0.3,False,False,False
+1976,house,Michigan,MI,14,,Marshall F. Moser,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,14,,Martha Hilty,Labor,,0.1,False,False,False
+1976,house,Michigan,MI,14,,Mark Severs,Unknown,,0.1,False,False,False
+1976,house,Michigan,MI,15,,William D. Ford,Democratic,,74.0,True,True,False
+1976,house,Michigan,MI,15,,James D. Walaskay,Republican,,24.7,False,False,False
+1976,house,Michigan,MI,15,,Aldi C. Fuhrmann,American Independent,,0.5,False,False,False
+1976,house,Michigan,MI,15,,Kathryn M. Augustin,Unknown,,0.5,False,False,False
+1976,house,Michigan,MI,15,,John Sarkisian,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,15,,Allen Douglas,Labor,,0.1,False,False,False
+1976,house,Michigan,MI,16,,John D. Dingell Jr.,Democratic,,75.9,True,True,False
+1976,house,Michigan,MI,16,,William E. Rostron,Republican,,22.7,False,False,False
+1976,house,Michigan,MI,16,,Buck Miller Slayter,American Independent,,0.6,False,False,False
+1976,house,Michigan,MI,16,,Samuel S. Hancock,Unknown,,0.3,False,False,False
+1976,house,Michigan,MI,16,,Susann L. Dalto,Labor,,0.3,False,False,False
+1976,house,Michigan,MI,16,,Donald A. Bechler,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,17,,William M. Brodhead,Democratic,,64.2,True,True,False
+1976,house,Michigan,MI,17,,James W. Burdick,Republican,,34.4,False,False,False
+1976,house,Michigan,MI,17,,Arve Bakken,American Independent,,0.8,False,False,False
+1976,house,Michigan,MI,17,,Christy L. Wallace,Unknown,,0.3,False,False,False
+1976,house,Michigan,MI,17,,C. M. Novess III,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,17,,Scott Elliott,Labor,,0.1,False,False,False
+1976,house,Michigan,MI,18,,James J. Blanchard,Democratic,,66.1,True,True,False
+1976,house,Michigan,MI,18,,John E. Olsen,Republican,,32.8,False,False,False
+1976,house,Michigan,MI,18,,David Wengel Drexler,American Independent,,0.6,False,False,False
+1976,house,Michigan,MI,18,,Frank G. Rising,Unknown,,0.2,False,False,False
+1976,house,Michigan,MI,18,,K. Martin Keller,Labor,,0.2,False,False,False
+1976,house,Michigan,MI,18,,James C. Horvath,Unknown,,0.1,False,False,False
+1976,house,Michigan,MI,19,,William Broomfield,Republican,,66.7,True,True,False
+1976,house,Michigan,MI,19,,Dorthea Becker,Democratic,,32.6,False,False,False
+1976,house,Michigan,MI,19,,John Omar Muotka,American Independent,,0.4,False,False,False
+1976,house,Michigan,MI,19,,Therese S. Barbone,Unknown,,0.3,False,False,False
+1976,house,Michigan,MI,19,,Thomas Simpson,Labor,,0.1,False,False,False
+1976,house,Minnesota,MN,1,,Al Quie,Republican,,68.2,True,True,False
+1976,house,Minnesota,MN,1,,"Robert C. ""Bob"" Olson Jr.",DFL,,30.5,False,False,False
+1976,house,Minnesota,MN,1,,Lloyd Duwe,Unknown,,1.3,False,False,False
+1976,house,Minnesota,MN,2,,Tom Hagedorn,Republican,,60.3,True,True,False
+1976,house,Minnesota,MN,2,,Gloria Griffin,DFL,,39.7,False,False,False
+1976,house,Minnesota,MN,3,,Bill Frenzel,Republican,,66.1,True,True,False
+1976,house,Minnesota,MN,3,,Jerome W. Coughlin,DFL,,32.0,False,False,False
+1976,house,Minnesota,MN,3,,Clifford C. Mathias,Unknown,,2.0,False,False,False
+1976,house,Minnesota,MN,4,,Bruce Vento,DFL,,66.4,True,False,True
+1976,house,Minnesota,MN,4,,Andrew Engebretson,Republican,,29.8,False,False,True
+1976,house,Minnesota,MN,4,,Alan W. Uhl,Independent,,1.5,False,False,True
+1976,house,Minnesota,MN,4,,Thomas F. Piotrowski,Unknown,,1.4,False,False,True
+1976,house,Minnesota,MN,4,,Ralph Schwartz,Unknown,,0.9,False,False,True
+1976,house,Minnesota,MN,5,,Donald M. Fraser,DFL,,70.7,True,True,False
+1976,house,Minnesota,MN,5,,Richard M. Erdall,Republican,,26.0,False,False,False
+1976,house,Minnesota,MN,5,,Jack O. Kirkham,Unknown,,1.6,False,False,False
+1976,house,Minnesota,MN,5,,Chris Frank,Unknown,,0.9,False,False,False
+1976,house,Minnesota,MN,5,,Franklin T. Haws,Unknown,,0.5,False,False,False
+1976,house,Minnesota,MN,5,,Jean T. Brust,Unknown,,0.3,False,False,False
+1976,house,Minnesota,MN,6,,Rick Nolan,DFL,,59.8,True,True,False
+1976,house,Minnesota,MN,6,,"James ""Jim"" Anderson",Republican,,40.2,False,False,False
+1976,house,Minnesota,MN,7,,Bob Bergland,DFL,,72.3,True,True,False
+1976,house,Minnesota,MN,7,,Bob Leiseth,Republican,,26.3,False,False,False
+1976,house,Minnesota,MN,7,,Stanley A. Carlson,Unknown,,1.3,False,False,False
+1976,house,Minnesota,MN,8,,Jim Oberstar,DFL,,100.0,True,True,False
+1976,house,Mississippi,MS,1,,Jamie Whitten,Democratic,,100.0,True,True,False
+1976,house,Mississippi,MS,2,,David R. Bowen,Democratic,,63.0,True,True,False
+1976,house,Mississippi,MS,2,,Roland Byrd,Republican,,35.7,False,False,False
+1976,house,Mississippi,MS,2,,H. B. Wells,Unknown,,1.2,False,False,False
+1976,house,Mississippi,MS,3,,Sonny Montgomery,Democratic,,93.9,True,True,False
+1976,house,Mississippi,MS,3,,Dorothy Colby Cleveland,Republican,,6.1,False,False,False
+1976,house,Mississippi,MS,4,,Thad Cochran,Republican,,76.0,True,True,False
+1976,house,Mississippi,MS,4,,Sterling P. Davis,Democratic,,21.6,False,False,False
+1976,house,Mississippi,MS,4,,B. L. Norman,Unknown,,1.4,False,False,False
+1976,house,Mississippi,MS,4,,Luther G. Latham,Independent,,0.9,False,False,False
+1976,house,Mississippi,MS,5,,Trent Lott,Republican,,68.2,True,True,False
+1976,house,Mississippi,MS,5,,Gerald Blessey,Democratic,,31.8,False,False,False
+1976,house,Missouri,MO,1,,Bill Clay,Democratic,,65.6,True,True,False
+1976,house,Missouri,MO,1,,Robert L. Witherspoon,Republican,,34.4,False,False,False
+1976,house,Missouri,MO,2,,Robert A. Young,Democratic,,51.1,True,False,True
+1976,house,Missouri,MO,2,,Robert O. Snyder,Republican,,48.9,False,False,True
+1976,house,Missouri,MO,3,,Dick Gephardt,Democratic,,63.7,True,False,True
+1976,house,Missouri,MO,3,,Joseph L. Badaracco,Republican,,36.3,False,False,True
+1976,house,Missouri,MO,4,,Ike Skelton,Democratic,,55.9,True,False,True
+1976,house,Missouri,MO,4,,Richard A. King,Republican,,44.1,False,False,True
+1976,house,Missouri,MO,5,,Richard Bolling,Democratic,,68.0,True,True,False
+1976,house,Missouri,MO,5,,Joanne M. Collins,Republican,,28.1,False,False,False
+1976,house,Missouri,MO,5,,"William F. ""Bill"" Moore",Independent,,3.9,False,False,False
+1976,house,Missouri,MO,6,,Tom Coleman,Republican,,58.5,True,False,True
+1976,house,Missouri,MO,6,,Morgan Maxfield,Democratic,,40.5,False,False,True
+1976,house,Missouri,MO,6,,Raymond W. Thompson,Independent,,0.9,False,False,True
+1976,house,Missouri,MO,7,,Gene Taylor,Republican,,62.0,True,True,False
+1976,house,Missouri,MO,7,,Dolan G. Hawkins,Democratic,,38.0,False,False,False
+1976,house,Missouri,MO,8,,Richard Howard Ichord Jr.,Democratic,,67.3,True,True,False
+1976,house,Missouri,MO,8,,Charles R. Leick,Republican,,30.6,False,False,False
+1976,house,Missouri,MO,8,,Stuart M. Leiderman,Independent,,2.1,False,False,False
+1976,house,Missouri,MO,9,,Harold Volkmer,Democratic,,55.9,True,False,True
+1976,house,Missouri,MO,9,,Joe Frappier,Republican,,44.1,False,False,True
+1976,house,Missouri,MO,10,,Bill Burlison,Democratic,,72.1,True,True,False
+1976,house,Missouri,MO,10,,Joe Carron,Republican,,27.9,False,False,False
+1976,house,Montana,MT,1,,Max Baucus,Democratic,,66.4,True,True,False
+1976,house,Montana,MT,1,,"W. D. ""Bill"" Diehl",Republican,,33.6,False,False,False
+1976,house,Montana,MT,2,,Ron Marlenee,Republican,,55.0,True,False,True
+1976,house,Montana,MT,2,,Thomas E. Towe,Democratic,,45.0,False,False,True
+1976,house,Nebraska,NE,1,,Charles Thone,Republican,,73.2,True,True,False
+1976,house,Nebraska,NE,1,,Pauline F. Anderson,Democratic,,26.8,False,False,False
+1976,house,Nebraska,NE,2,,John Joseph Cavanaugh III,Democratic,,54.6,True,False,True
+1976,house,Nebraska,NE,2,,Lee Terry,Republican,,45.4,False,False,True
+1976,house,Nebraska,NE,3,,Virginia D. Smith,Republican,,72.9,True,True,False
+1976,house,Nebraska,NE,3,,James Thomas Hansen,Democratic,,24.7,False,False,False
+1976,house,Nebraska,NE,3,,William W. Steen,Unknown,,2.4,False,False,False
+1976,house,Nevada,NV,AL,167966,James David Santini,Democratic,153996,77.1,True,True,False
+1976,house,Nevada,NV,AL,167966,Walden Charles Earhart,Republican,24124,12.1,False,False,False
+1976,house,Nevada,NV,AL,167966,Janine M. Hansen,Independent,12038,6.0,False,False,False
+1976,house,Nevada,NV,AL,167966,James Burns,Unknown,,1.4,False,False,False
+1976,house,New Hampshire,NH,1,,Norman D'Amours,Democratic,,68.1,True,True,False
+1976,house,New Hampshire,NH,1,,John Adams,Republican,,30.4,False,False,False
+1976,house,New Hampshire,NH,1,,John H. O'Brien,Unknown,,1.5,False,False,False
+1976,house,New Hampshire,NH,2,,James Colgate Cleveland,Republican,,60.5,True,True,False
+1976,house,New Hampshire,NH,2,,J. Joseph Grandmaison,Democratic,,39.5,False,False,False
+1976,house,New Jersey,NJ,1,194898,James Florio,Democratic,136624,70.1,True,True,False
+1976,house,New Jersey,NJ,1,194898,Joseph I. McCullough Jr.,Republican,56363,28.9,False,False,False
+1976,house,New Jersey,NJ,1,194898,Vernon A. Smith,Unknown,800,0.4,False,False,False
+1976,house,New Jersey,NJ,1,194898,Thomas C. Sloan,Independent,784,0.4,False,False,False
+1976,house,New Jersey,NJ,1,194898,Robert Bowen,Labor,671,0.2,False,False,False
+1976,house,New Jersey,NJ,2,229668,William J. Hughes,Democratic,141753,61.7,True,True,False
+1976,house,New Jersey,NJ,2,229668,James R. Hurley,Republican,87915,38.3,False,False,False
+1976,house,New Jersey,NJ,3,204739,James J. Howard,Democratic,127164,62.1,True,True,False
+1976,house,New Jersey,NJ,3,204739,Ralph A. Siciliano,Republican,75934,37.1,False,False,False
+1976,house,New Jersey,NJ,3,204739,Walter M. Swirsky,Unknown,1641,0.8,False,False,False
+1976,house,New Jersey,NJ,4,170868,Frank Thompson,Democratic,113281,66.3,True,True,False
+1976,house,New Jersey,NJ,4,170868,Joseph S. Indyk,Republican,54789,32.1,False,False,False
+1976,house,New Jersey,NJ,4,170868,John Valjean Mahalchik,Independent,,0.8,False,False,False
+1976,house,New Jersey,NJ,4,170868,Jack Moyers,Unknown,946,0.6,False,False,False
+1976,house,New Jersey,NJ,4,170868,Elliot Greenspan,Labor,421,0.2,False,False,False
+1976,house,New Jersey,NJ,5,206106,Millicent Fenwick,Republican,137803,66.9,True,True,False
+1976,house,New Jersey,NJ,5,206106,Frank R. Nero,Democratic,64598,31.3,False,False,False
+1976,house,New Jersey,NJ,5,206106,Jane T. Rehmke,Unknown,1723,0.8,False,False,False
+1976,house,New Jersey,NJ,5,206106,John Giammarco,Unknown,1483,0.7,False,False,False
+1976,house,New Jersey,NJ,5,206106,Joseph R. Viola Jr.,Independent,499,0.2,False,False,False
+1976,house,New Jersey,NJ,6,214304,Edwin B. Forsythe,Republican,125920,58.8,True,True,False
+1976,house,New Jersey,NJ,6,214304,Catherine A. Costa,Democratic,85053,39.7,False,False,False
+1976,house,New Jersey,NJ,6,214304,Richard D. Amber,Unknown,1154,0.5,False,False,False
+1976,house,New Jersey,NJ,6,214304,Samuel E. Brown,Unknown,1016,0.5,False,False,False
+1976,house,New Jersey,NJ,6,214304,Joseph J. Byrne,Independent,933,0.4,False,False,False
+1976,house,New Jersey,NJ,6,214304,Marc David Silverstein,Independent,228,0.1,False,False,False
+1976,house,New Jersey,NJ,7,213150,Andrew Maguire,Democratic,120526,56.5,True,True,False
+1976,house,New Jersey,NJ,7,213150,James J. Sheehan,Republican,92624,43.5,False,False,False
+1976,house,New Jersey,NJ,8,154196,Robert A. Roe,Democratic,108841,70.6,True,True,False
+1976,house,New Jersey,NJ,8,154196,Bessie Doty,Republican,44775,29.0,False,False,False
+1976,house,New Jersey,NJ,8,154196,Gilbert G. Doll,Unknown,580,0.4,False,False,False
+1976,house,New Jersey,NJ,9,202344,Harold C. Hollenbeck,Republican,107454,53.1,True,False,False
+1976,house,New Jersey,NJ,9,202344,Henry Helstoski,Democratic,89723,44.3,False,True,False
+1976,house,New Jersey,NJ,9,202344,Herbert H. Shaw,Independent,1814,0.9,False,False,False
+1976,house,New Jersey,NJ,9,202344,Frank J. Primich,Unknown,1759,0.9,False,False,False
+1976,house,New Jersey,NJ,9,202344,James J. Terlizzi,Independent,,0.8,False,False,False
+1976,house,New Jersey,NJ,10,106775,Peter W. Rodino,Democratic,88245,82.6,True,True,False
+1976,house,New Jersey,NJ,10,106775,Tony Grandison,Republican,17129,16.0,False,False,False
+1976,house,New Jersey,NJ,10,106775,Kathleen A. McAdam,Unknown,862,0.8,False,False,False
+1976,house,New Jersey,NJ,10,106775,Lawrence Stewart,Unknown,330,0.3,False,False,False
+1976,house,New Jersey,NJ,10,106775,Charles Mack,Labor,209,0.2,False,False,False
+1976,house,New Jersey,NJ,11,190808,Joseph Minish,Democratic,129026,67.6,True,True,False
+1976,house,New Jersey,NJ,11,190808,Charles A. Poekel Jr.,Republican,59397,31.1,False,False,False
+1976,house,New Jersey,NJ,11,190808,Warren T. Kupchik,Unknown,1749,0.9,False,False,False
+1976,house,New Jersey,NJ,11,190808,Joseph A. Rogers,Independent,636,0.3,False,False,False
+1976,house,New Jersey,NJ,12,187282,Matthew John Rinaldo,Republican,,73.1,True,True,False
+1976,house,New Jersey,NJ,12,187282,Richard A. Buggelli,Democratic,49189,26.3,False,False,False
+1976,house,New Jersey,NJ,12,187282,Paul M. Geyer,Unknown,642,0.3,False,False,False
+1976,house,New Jersey,NJ,12,187282,Vincent Miskell,Labor,478,0.3,False,False,False
+1976,house,New Jersey,NJ,13,209051,Helen Meyner,Democratic,,50.4,True,True,False
+1976,house,New Jersey,NJ,13,209051,William E. Schluter,Republican,100050,47.9,False,False,False
+1976,house,New Jersey,NJ,13,209051,F. Edward De Mott,Independent,2160,1.0,False,False,False
+1976,house,New Jersey,NJ,13,209051,Joseph Mayer,Independent,1550,0.7,False,False,False
+1976,house,New Jersey,NJ,14,146768,Joseph A. LeFante,Democratic,73174,49.9,True,False,True
+1976,house,New Jersey,NJ,14,146768,Anthony Louis Campenni,Republican,66319,45.2,False,False,True
+1976,house,New Jersey,NJ,14,146768,Kenneth C. McCarthy,Independent,3979,2.7,False,False,True
+1976,house,New Jersey,NJ,14,146768,David L. Jones Jr.,Independent,1969,1.3,False,False,True
+1976,house,New Jersey,NJ,14,146768,Stuart Bronn,Labor,452,0.3,False,False,True
+1976,house,New Jersey,NJ,14,146768,Robert Ryley,Unknown,446,0.3,False,False,True
+1976,house,New Jersey,NJ,14,146768,Edward W. Bergonzi,Unknown,429,0.3,False,False,True
+1976,house,New Jersey,NJ,15,179836,Edward J. Patten,Democratic,106170,59.0,True,True,False
+1976,house,New Jersey,NJ,15,179836,Charles W. Wiley,Republican,54487,30.3,False,False,False
+1976,house,New Jersey,NJ,15,179836,Dennis F. Adams,Independent,,8.1,False,False,False
+1976,house,New Jersey,NJ,15,179836,Michael Klein,Unknown,,2.2,False,False,False
+1976,house,New Jersey,NJ,15,179836,Bruce E. Todd,Labor,720,0.4,False,False,False
+1976,house,New Mexico,NM,1,225546,Manuel Lujan Jr.,Republican,162587,72.1,True,True,False
+1976,house,New Mexico,NM,1,225546,Raymond Garcia,Democratic,61800,27.4,False,False,False
+1976,house,New Mexico,NM,1,225546,Martin Molloy,Unknown,1159,0.5,False,False,False
+1976,house,New Mexico,NM,2,175694,Harold L. Runnels,Democratic,123563,70.3,True,True,False
+1976,house,New Mexico,NM,2,175694,Donald W. Trubey,Republican,52131,29.7,False,False,False
+1976,house,New York,NY,1,,Otis G. Pike,Democratic,,65.3,True,True,False
+1976,house,New York,NY,1,,Salvatore Nicosia,Republican,,29.7,False,False,False
+1976,house,New York,NY,1,,Seth Morgan,Unknown,,4.9,False,False,False
+1976,house,New York,NY,2,,Thomas J. Downey,Democratic,,57.1,True,True,False
+1976,house,New York,NY,2,,Peter F. Cohalan,Republican,,42.4,False,False,False
+1976,house,New York,NY,2,,Rochelle Davidson,Unknown,,0.6,False,False,False
+1976,house,New York,NY,3,,Jerome Ambro,Democratic,,52.0,True,True,False
+1976,house,New York,NY,3,,Howard T. Hogan Jr.,Republican,,46.8,False,False,False
+1976,house,New York,NY,3,,Hy York,Unknown,,1.3,False,False,False
+1976,house,New York,NY,4,,Norman F. Lent,Republican,,55.8,True,True,False
+1976,house,New York,NY,4,,Gerald P. Halpern,Democratic,,44.2,False,False,False
+1976,house,New York,NY,5,,John W. Wydler,Republican,,55.7,True,True,False
+1976,house,New York,NY,5,,Allard K. Lowenstein,Democratic,,44.3,False,False,False
+1976,house,New York,NY,6,,Lester L. Wolff,Democratic,,61.8,True,True,False
+1976,house,New York,NY,6,,Vincent R. Balletta Jr.,Republican,,33.3,False,False,False
+1976,house,New York,NY,6,,Nelson J. Gammans,Unknown,,4.9,False,False,False
+1976,house,New York,NY,7,,Joseph P. Addabbo,Democratic,,94.7,True,True,False
+1976,house,New York,NY,7,,William H. Whitman,Unknown,,4.7,False,False,False
+1976,house,New York,NY,7,,Keith E. Jones,Unknown,,0.7,False,False,False
+1976,house,New York,NY,8,,Benjamin Stanley Rosenthal,Democratic,,77.8,True,True,False
+1976,house,New York,NY,8,,Albert Lemishow,Republican,,21.9,False,False,False
+1976,house,New York,NY,8,,Harry Brown,Unknown,,0.3,False,False,False
+1976,house,New York,NY,9,,James J. Delaney,Democratic,,95.1,True,True,False
+1976,house,New York,NY,9,,Alan M. Kluger,Unknown,,4.9,False,False,False
+1976,house,New York,NY,10,,Mario Biaggi,Democratic,,91.6,True,True,False
+1976,house,New York,NY,10,,Joanne S. Fuchs,Unknown,,5.1,False,False,False
+1976,house,New York,NY,10,,John P. Hagan,Unknown,,3.3,False,False,False
+1976,house,New York,NY,11,,James H. Scheuer,Democratic,,74.1,True,True,False
+1976,house,New York,NY,11,,Arthur Cuccia,Republican,,16.8,False,False,False
+1976,house,New York,NY,11,,Bryan F. Levinson,Unknown,,5.5,False,False,False
+1976,house,New York,NY,11,,Joseph Rothenberg,Unknown,,3.6,False,False,False
+1976,house,New York,NY,12,,Shirley Chisholm,Democratic,,87.0,True,True,False
+1976,house,New York,NY,12,,Horace L. Morancie,Republican,,10.8,False,False,False
+1976,house,New York,NY,12,,Martin S. Shepherd Jr.,Unknown,,2.2,False,False,False
+1976,house,New York,NY,13,,Stephen J. Solarz,Democratic,,83.7,True,True,False
+1976,house,New York,NY,13,,Jack N. Dobosh,Republican,,16.3,False,False,False
+1976,house,New York,NY,14,,Fred Richmond,Democratic,,85.0,True,True,False
+1976,house,New York,NY,14,,Frank X. Gargiulo,Republican,,13.7,False,False,False
+1976,house,New York,NY,14,,Patricia Wright,Unknown,,1.0,False,False,False
+1976,house,New York,NY,14,,Adele Flateau,Unknown,,0.3,False,False,False
+1976,house,New York,NY,15,,Leo C. Zeferetti,Democratic,,63.2,True,True,False
+1976,house,New York,NY,15,,Ronald J. D'Angelo,Republican,,30.7,False,False,False
+1976,house,New York,NY,15,,Arthur J. Paone,Unknown,,6.0,False,False,False
+1976,house,New York,NY,16,,Elizabeth Holtzman,Democratic,,82.9,True,True,False
+1976,house,New York,NY,16,,Gladys Pemberton,Republican,,17.1,False,False,False
+1976,house,New York,NY,17,,John M. Murphy,Democratic,,65.6,True,True,False
+1976,house,New York,NY,17,,Kenneth J. Grossberger,Republican,,20.4,False,False,False
+1976,house,New York,NY,17,,John M. Peters,Unknown,,7.7,False,False,False
+1976,house,New York,NY,17,,Ned Schneier,Unknown,,6.4,False,False,False
+1976,house,New York,NY,18,,Ed Koch,Democratic,,75.7,True,True,False
+1976,house,New York,NY,18,,Sonia Landau,Republican,,20.1,False,False,False
+1976,house,New York,NY,18,,James W. McConnell,Unknown,,4.3,False,False,False
+1976,house,New York,NY,19,,Charles B. Rangel,Democratic,,97.0,True,True,False
+1976,house,New York,NY,19,,Benton Cole,Unknown,,2.3,False,False,False
+1976,house,New York,NY,19,,Helen Halyard,Unknown,,0.7,False,False,False
+1976,house,New York,NY,20,,Theodore S. Weiss,Democratic,,83.2,True,False,True
+1976,house,New York,NY,20,,Denise T. Weiseman,Republican,,12.8,False,False,True
+1976,house,New York,NY,20,,Herman Dinsmore,Unknown,,3.0,False,False,True
+1976,house,New York,NY,20,,Diane Steinberg,Unknown,,1.0,False,False,True
+1976,house,New York,NY,21,,Herman Badillo,Democratic,,98.6,True,True,False
+1976,house,New York,NY,21,,Lawrence W. Lindsley,Unknown,,1.4,False,False,False
+1976,house,New York,NY,22,,Jonathan Brewster Bingham,Democratic,,86.4,True,True,False
+1976,house,New York,NY,22,,Paul Slotkin,Republican,,10.4,False,False,False
+1976,house,New York,NY,22,,Patrick J. Bonner,Unknown,,3.2,False,False,False
+1976,house,New York,NY,23,,Bruce F. Caputo,Republican,,53.6,True,False,True
+1976,house,New York,NY,23,,J. Edward Meyer,Democratic,,46.4,False,False,True
+1976,house,New York,NY,24,,Richard Ottinger,Democratic,,54.5,True,True,True
+1976,house,New York,NY,24,,David V. Hicks,Republican,,44.3,False,False,True
+1976,house,New York,NY,24,,Edmund D. Assante,Unknown,,1.2,False,False,True
+1976,house,New York,NY,25,,Hamilton Fish IV,Republican,,70.5,True,True,False
+1976,house,New York,NY,25,,Minna Post Peyser,Democratic,,29.5,False,False,False
+1976,house,New York,NY,26,,Benjamin A. Gilman,Republican,,65.3,True,True,False
+1976,house,New York,NY,26,,John R. Maloney,Democratic,,32.9,False,False,False
+1976,house,New York,NY,26,,Eugene R. Victor,Unknown,,1.9,False,False,False
+1976,house,New York,NY,27,,Matthew F. McHugh,Democratic,,66.6,True,True,False
+1976,house,New York,NY,27,,William H. Harter,Republican,,33.4,False,False,False
+1976,house,New York,NY,28,,Samuel S. Stratton,Democratic,,79.0,True,True,False
+1976,house,New York,NY,28,,Mary A. Bradt,Republican,,20.5,False,False,False
+1976,house,New York,NY,28,,Christopher Lewis,Labor,,0.5,False,False,False
+1976,house,New York,NY,29,,Edward W. Pattison,Democratic,,47.0,True,True,False
+1976,house,New York,NY,29,,Joseph A. Martino,Republican,,45.0,False,False,False
+1976,house,New York,NY,29,,James E. De Young,Unknown,,7.2,False,False,False
+1976,house,New York,NY,29,,Patricia O. Brooks,Independent,,0.6,False,False,False
+1976,house,New York,NY,29,,Rocco A. Ferran,Independent,,0.2,False,False,False
+1976,house,New York,NY,30,,Robert C. McEwen,Republican,,55.7,True,True,False
+1976,house,New York,NY,30,,Norma A. Bartle,Democratic,,44.3,False,False,False
+1976,house,New York,NY,31,,Donald J. Mitchell,Republican,,66.5,True,True,False
+1976,house,New York,NY,31,,Anita Maxwell,Democratic,,33.5,False,False,False
+1976,house,New York,NY,32,,James M. Hanley,Democratic,,54.8,True,True,False
+1976,house,New York,NY,32,,George C. Wortley,Republican,,44.1,False,False,False
+1976,house,New York,NY,32,,Earl W. Colvin,Unknown,,1.1,False,False,False
+1976,house,New York,NY,33,,William F. Walsh,Republican,,68.5,True,True,False
+1976,house,New York,NY,33,,Charles R. Welch,Democratic,,26.7,False,False,False
+1976,house,New York,NY,33,,William C. Elkins,Unknown,,3.3,False,False,False
+1976,house,New York,NY,33,,Lillian E. Reiner,Unknown,,1.5,False,False,False
+1976,house,New York,NY,34,,Frank Horton,Republican,,65.9,True,True,False
+1976,house,New York,NY,34,,William C. Larsen,Democratic,,30.3,False,False,False
+1976,house,New York,NY,34,,Thomas D. Cook,Unknown,,3.8,False,False,False
+1976,house,New York,NY,35,,Barber Conable,Republican,,64.3,True,True,False
+1976,house,New York,NY,35,,Michael Macaluso Jr.,Democratic,,35.7,False,False,False
+1976,house,New York,NY,36,,John J. LaFalce,Democratic,,66.6,True,True,False
+1976,house,New York,NY,36,,Ralph J. Argen,Republican,,33.4,False,False,False
+1976,house,New York,NY,37,,Henry J. Nowak,Democratic,,78.2,True,True,False
+1976,house,New York,NY,37,,Calvin Kimbrough,Republican,,18.5,False,False,False
+1976,house,New York,NY,37,,Stephen Grimm,Unknown,,3.3,False,False,False
+1976,house,New York,NY,38,,Jack Kemp,Republican,,78.2,True,True,False
+1976,house,New York,NY,38,,Peter J. Geraci,Democratic,,21.8,False,False,False
+1976,house,New York,NY,39,,Stan Lundine,Democratic,,61.8,True,True,False
+1976,house,New York,NY,39,,Richard A. Snowden,Republican,,38.2,False,False,False
+1976,house,North Carolina,NC,1,,Walter B. Jones Sr.,Democratic,,75.9,True,True,False
+1976,house,North Carolina,NC,1,,Joseph M. Ward,Republican,,22.5,False,False,False
+1976,house,North Carolina,NC,1,,Michael M. Parker,Unknown,,1.6,False,False,False
+1976,house,North Carolina,NC,2,,Lawrence H. Fountain,Democratic,,100.0,True,True,False
+1976,house,North Carolina,NC,3,,Charles Orville Whitley,Democratic,,68.7,True,False,True
+1976,house,North Carolina,NC,3,,Willard J. Blanchard,Republican,,31.3,False,False,True
+1976,house,North Carolina,NC,4,,Ike Franklin Andrews,Democratic,,60.6,True,True,False
+1976,house,North Carolina,NC,4,,Johnnie L. Gallemore Jr.,Republican,,39.4,False,False,False
+1976,house,North Carolina,NC,5,,Stephen L. Neal,Democratic,,54.2,True,True,False
+1976,house,North Carolina,NC,5,,Wilmer Mizell,Republican,,45.6,False,False,False
+1976,house,North Carolina,NC,5,,Geoffrey M. Hooks,Labor,,0.1,False,False,False
+1976,house,North Carolina,NC,6,,L. Richardson Preyer,Democratic,,96.3,True,True,False
+1976,house,North Carolina,NC,6,,Carl Wagle,Unknown,,2.0,False,False,False
+1976,house,North Carolina,NC,6,,Marion Porter,Labor,,1.7,False,False,False
+1976,house,North Carolina,NC,7,,Charlie Rose,Democratic,,81.3,True,True,False
+1976,house,North Carolina,NC,7,,Mike Vaughan,Republican,,18.7,False,False,False
+1976,house,North Carolina,NC,8,,Bill Hefner,Democratic,,65.7,True,True,False
+1976,house,North Carolina,NC,8,,Carl Eagle,Republican,,32.5,False,False,False
+1976,house,North Carolina,NC,8,,Bradford V. Ligon,Unknown,,1.4,False,False,False
+1976,house,North Carolina,NC,8,,Franklin H. Bell,Labor,,0.4,False,False,False
+1976,house,North Carolina,NC,9,,James G. Martin,Republican,,53.5,True,True,False
+1976,house,North Carolina,NC,9,,Arthur Goodman Jr.,Democratic,,46.1,False,False,False
+1976,house,North Carolina,NC,9,,Harley Schlanger,Labor,,0.4,False,False,False
+1976,house,North Carolina,NC,10,,Jim Broyhill,Republican,,59.8,True,True,False
+1976,house,North Carolina,NC,10,,John J. Hunt,Democratic,,40.2,False,False,False
+1976,house,North Carolina,NC,11,,V. Lamar Gudger,Democratic,,50.9,True,False,True
+1976,house,North Carolina,NC,11,,Bruce Briggs,Republican,,48.1,False,False,True
+1976,house,North Carolina,NC,11,,Roy Underwood,Unknown,,1.0,False,False,True
+1976,house,North Dakota,ND,AL,,Mark Andrews,Republican,,62.5,True,True,False
+1976,house,North Dakota,ND,AL,,Lloyd Omdahl,Democratic,,36.0,False,False,False
+1976,house,North Dakota,ND,AL,,Russell Kleppe,Unknown,,1.6,False,False,False
+1976,house,Ohio,OH,1,,Bill Gradison,Republican,,64.8,True,True,False
+1976,house,Ohio,OH,1,,William F. Bowen,Democratic,,33.6,False,False,False
+1976,house,Ohio,OH,1,,Christopher L. Martison,Independent,,1.6,False,False,False
+1976,house,Ohio,OH,2,,Tom Luken,Democratic,,51.4,True,False,False
+1976,house,Ohio,OH,2,,Donald D. Clancy,Republican,,48.6,False,True,False
+1976,house,Ohio,OH,3,,Charles W. Whalen Jr.,Republican,,69.4,True,True,False
+1976,house,Ohio,OH,3,,Leonard E. Stubbs Jr.,Democratic,,23.3,False,False,False
+1976,house,Ohio,OH,3,,Wilmer Mark Hurst,Independent,,4.0,False,False,False
+1976,house,Ohio,OH,3,,John R. Austin,Independent,,3.4,False,False,False
+1976,house,Ohio,OH,4,,Tennyson Guyer,Republican,,70.1,True,True,False
+1976,house,Ohio,OH,4,,Clinton G. Dorsey,Democratic,,29.9,False,False,False
+1976,house,Ohio,OH,5,,Del Latta,Republican,,67.4,True,True,False
+1976,house,Ohio,OH,5,,Bruce Edwards,Democratic,,32.6,False,False,False
+1976,house,Ohio,OH,6,,Bill Harsha,Republican,,61.5,True,True,False
+1976,house,Ohio,OH,6,,Ted Strickland,Democratic,,38.5,False,False,False
+1976,house,Ohio,OH,7,,Bud Brown,Republican,,64.9,True,True,False
+1976,house,Ohio,OH,7,,Dorothy Franke,Democratic,,35.1,False,False,False
+1976,house,Ohio,OH,8,,Tom Kindness,Republican,,68.7,True,True,False
+1976,house,Ohio,OH,8,,John W. Griffin,Democratic,,28.8,False,False,False
+1976,house,Ohio,OH,8,,Joseph F. Payton,Independent,,2.6,False,False,False
+1976,house,Ohio,OH,9,,Thomas L. Ashley,Democratic,,54.2,True,True,False
+1976,house,Ohio,OH,9,,Carty Finkbeiner,Republican,,44.0,False,False,False
+1976,house,Ohio,OH,9,,Edward Silvio Emery,Independent,,0.9,False,False,False
+1976,house,Ohio,OH,9,,Lynn Galonsky,Independent,,0.9,False,False,False
+1976,house,Ohio,OH,10,,Clarence E. Miller,Republican,,68.8,True,True,False
+1976,house,Ohio,OH,10,,James A. Plummer,Democratic,,31.2,False,False,False
+1976,house,Ohio,OH,11,,J. William Stanton,Republican,,71.7,True,True,False
+1976,house,Ohio,OH,11,,Thomas R. West Jr.,Democratic,,28.3,False,False,False
+1976,house,Ohio,OH,12,,Samuel L. Devine,Republican,,46.5,True,True,False
+1976,house,Ohio,OH,12,,Fran Ryan,Democratic,,45.7,False,False,False
+1976,house,Ohio,OH,12,,William R. Moss,Independent,,7.9,False,False,False
+1976,house,Ohio,OH,13,,Donald J. Pease,Democratic,,66.0,True,False,True
+1976,house,Ohio,OH,13,,Woodrow W. Mathna,Republican,,30.4,False,False,True
+1976,house,Ohio,OH,13,,Patricia A. Cortez,Independent,,3.5,False,False,True
+1976,house,Ohio,OH,14,,John F. Seiberling,Democratic,,74.1,True,True,False
+1976,house,Ohio,OH,14,,James E. Houston,Republican,,24.3,False,False,False
+1976,house,Ohio,OH,14,,Steven P. Meyer,Independent,,1.6,False,False,False
+1976,house,Ohio,OH,15,,Chalmers Wylie,Republican,,65.5,True,True,False
+1976,house,Ohio,OH,15,,Manley L. McGee,Republican,,34.5,False,False,False
+1976,house,Ohio,OH,16,,Ralph Regula,Republican,,66.8,True,True,False
+1976,house,Ohio,OH,16,,John G. Freedom,Democratic,,32.0,False,False,False
+1976,house,Ohio,OH,16,,Harold B. Festerly,Unknown,,1.1,False,False,False
+1976,house,Ohio,OH,16,,Mark F. Vanvoorhis,Unknown,,0.04,False,False,False
+1976,house,Ohio,OH,17,,John M. Ashbrook,Republican,,56.8,True,True,False
+1976,house,Ohio,OH,17,,John C. McDonald,Democratic,,43.2,False,False,False
+1976,house,Ohio,OH,18,,Douglas Applegate,Democratic,,62.9,True,False,True
+1976,house,Ohio,OH,18,,Ralph R. McCoy,Republican,,24.6,False,False,True
+1976,house,Ohio,OH,18,,William Crabbe,Independent,,11.6,False,False,True
+1976,house,Ohio,OH,18,,John Dwight Bashline,Independent,,0.9,False,False,True
+1976,house,Ohio,OH,19,,Charles J. Carney,Democratic,,50.2,True,True,False
+1976,house,Ohio,OH,19,,Jack C. Hunter,Republican,,47.9,False,False,False
+1976,house,Ohio,OH,19,,Kenneth Zurbrugg,Independent,,1.3,False,False,False
+1976,house,Ohio,OH,19,,Karl T. Untch,Independent,,0.6,False,False,False
+1976,house,Ohio,OH,20,,Mary Rose Oakar,Democratic,,81.0,True,False,True
+1976,house,Ohio,OH,20,,Raymond J. Grabow,Independent,,16.9,False,False,True
+1976,house,Ohio,OH,20,,Theodore Held III,Independent,,2.2,False,False,True
+1976,house,Ohio,OH,21,,Louis Stokes,Democratic,,83.8,True,True,False
+1976,house,Ohio,OH,21,,Barbara Sparks,Republican,,11.3,False,False,False
+1976,house,Ohio,OH,21,,Anthony R. Curry,Independent,,4.8,False,False,False
+1976,house,Ohio,OH,22,,Charles Vanik,Democratic,,72.7,True,True,False
+1976,house,Ohio,OH,22,,Harry A. Hanna,Republican,,24.2,False,False,False
+1976,house,Ohio,OH,22,,Thomas W. Lippitt,Unknown,,3.1,False,False,False
+1976,house,Ohio,OH,23,,Ronald M. Mottl,Democratic,,73.2,True,True,False
+1976,house,Ohio,OH,23,,Michael T. Scanlon,Republican,,26.8,False,False,False
+1976,house,Oklahoma,OK,1,,James R. Jones,Democratic,,54.0,True,True,False
+1976,house,Oklahoma,OK,1,,Jim Inhofe,Republican,,45.1,False,False,False
+1976,house,Oklahoma,OK,1,,W. D. Mackintosh,Independent,,0.9,False,False,False
+1976,house,Oklahoma,OK,2,,Ted Risenhoover,Democratic,,54.0,True,True,False
+1976,house,Oklahoma,OK,2,,Bud Stewart,Republican,,46.0,False,False,False
+1976,house,Oklahoma,OK,3,,Wes Watkins,Democratic,,82.0,True,False,True
+1976,house,Oklahoma,OK,3,,Gerald Beasley Jr.,Republican,,17.2,False,False,True
+1976,house,Oklahoma,OK,3,,Jack C. Finley,Independent,,0.8,False,False,True
+1976,house,Oklahoma,OK,4,,Tom Steed,Democratic,,74.9,True,True,False
+1976,house,Oklahoma,OK,4,,M. C. Stanley,Republican,,22.0,False,False,False
+1976,house,Oklahoma,OK,4,,Paul E. Trent,Independent,,3.1,False,False,False
+1976,house,Oklahoma,OK,5,,Mickey Edwards,Republican,,49.9,True,False,True
+1976,house,Oklahoma,OK,5,,Tom Dunlap,Democratic,,47.4,False,False,True
+1976,house,Oklahoma,OK,5,,Max Wolfley,Independent,,0.9,False,False,True
+1976,house,Oklahoma,OK,5,,Donald F. Parker,Independent,,0.9,False,False,True
+1976,house,Oklahoma,OK,5,,Jim Smith,Independent,,0.6,False,False,True
+1976,house,Oklahoma,OK,5,,Robert O. Buchanan,Independent,,0.5,False,False,True
+1976,house,Oklahoma,OK,6,,Glenn English,Democratic,,71.1,True,True,False
+1976,house,Oklahoma,OK,6,,Carol McCurley,Republican,,28.9,False,False,False
+1976,house,Oregon,OR,1,,Les AuCoin,Democratic,,58.7,True,True,False
+1976,house,Oregon,OR,1,,Phil Bladine,Republican,,41.3,False,False,False
+1976,house,Oregon,OR,2,,Al Ullman,Democratic,,72.0,True,True,False
+1976,house,Oregon,OR,2,,Thomas H. Mercer,Republican,,28.0,False,False,False
+1976,house,Oregon,OR,3,,Robert B. Duncan,Democratic,,84.0,True,True,True
+1976,house,Oregon,OR,3,,Martin Simon,Independent,,16.0,False,False,True
+1976,house,Oregon,OR,4,,Jim Weaver,Democratic,,50.0,True,True,False
+1976,house,Oregon,OR,4,,Jerry Lausmann,Republican,,35.1,False,False,False
+1976,house,Oregon,OR,4,,Jim Howard,Independent,,9.0,False,False,False
+1976,house,Oregon,OR,4,,Theodora Nathan,Independent,,5.8,False,False,False
+1976,house,Pennsylvania,PA,1,,Michael Myers,Democratic,,73.5,True,False,True
+1976,house,Pennsylvania,PA,1,,Samuel N. Fanelli,Republican,,25.2,False,False,True
+1976,house,Pennsylvania,PA,1,,Clare Fraenzl,Unknown,,0.8,False,False,True
+1976,house,Pennsylvania,PA,1,,Henry D. Moss,Labor,,0.4,False,False,True
+1976,house,Pennsylvania,PA,2,,Robert N. C. Nix Sr.,Democratic,,73.5,True,True,False
+1976,house,Pennsylvania,PA,2,,Jesse W. Woods Jr.,Republican,,25.4,False,False,False
+1976,house,Pennsylvania,PA,2,,Tony Austin,Unknown,,0.7,False,False,False
+1976,house,Pennsylvania,PA,2,,Willie Thomas,Independent Conservative,,0.2,False,False,False
+1976,house,Pennsylvania,PA,2,,Dennis Grant,Unknown,,0.1,False,False,False
+1976,house,Pennsylvania,PA,3,,Raymond Lederer,Democratic,,73.2,True,False,True
+1976,house,Pennsylvania,PA,3,,Terence J. Schade,Republican,,26.3,False,False,True
+1976,house,Pennsylvania,PA,3,,Steven S. Douglas,Labor,,0.5,False,False,True
+1976,house,Pennsylvania,PA,4,,Joshua Eilberg,Democratic,,67.5,True,True,False
+1976,house,Pennsylvania,PA,4,,James E. Mugford,Republican,,32.5,False,False,False
+1976,house,Pennsylvania,PA,5,,Richard T. Schulze,Republican,,59.5,True,True,False
+1976,house,Pennsylvania,PA,5,,Anthony Campolo,Democratic,,40.5,False,False,False
+1976,house,Pennsylvania,PA,6,,Gus Yatron,Democratic,,73.8,True,True,False
+1976,house,Pennsylvania,PA,6,,Stephen Postupack,Republican,,25.5,False,False,False
+1976,house,Pennsylvania,PA,6,,Garland M. Fisher,Unknown,,0.7,False,False,False
+1976,house,Pennsylvania,PA,7,,Robert W. Edgar,Democratic,,54.1,True,True,False
+1976,house,Pennsylvania,PA,7,,John M. Kenney,Republican,,45.9,False,False,False
+1976,house,Pennsylvania,PA,7,,Samuel Cinger,Labor,,0.06,False,False,False
+1976,house,Pennsylvania,PA,8,,Peter H. Kostmayer,Democratic,,49.5,True,False,True
+1976,house,Pennsylvania,PA,8,,John S. Renninger,Republican,,48.8,False,False,True
+1976,house,Pennsylvania,PA,8,,Robert B. Graham,Unknown,,1.7,False,False,True
+1976,house,Pennsylvania,PA,9,,Bud Shuster,Republican,,100.0,True,True,False
+1976,house,Pennsylvania,PA,10,,Joseph M. McDade,Republican,,62.6,True,True,False
+1976,house,Pennsylvania,PA,10,,Edward Mitchell,Democratic,,37.4,False,False,False
+1976,house,Pennsylvania,PA,11,,Dan Flood,Democratic,,70.8,True,True,False
+1976,house,Pennsylvania,PA,11,,Howard G. Williams,Republican,,29.2,False,False,False
+1976,house,Pennsylvania,PA,12,,John Murtha,Democratic,,67.7,True,True,False
+1976,house,Pennsylvania,PA,12,,Theodore L. Humes,Republican,,32.3,False,False,False
+1976,house,Pennsylvania,PA,13,,Lawrence Coughlin,Republican,,63.4,True,True,False
+1976,house,Pennsylvania,PA,13,,Gertrude Strick,Democratic,,36.6,False,False,False
+1976,house,Pennsylvania,PA,14,,William S. Moorhead,Democratic,,71.7,True,True,False
+1976,house,Pennsylvania,PA,14,,John F. Bradley,Republican,,27.1,False,False,False
+1976,house,Pennsylvania,PA,14,,Carla M. Hoag,Unknown,,0.9,False,False,False
+1976,house,Pennsylvania,PA,14,,Scott Brody,Labor,,0.3,False,False,False
+1976,house,Pennsylvania,PA,15,,Fred B. Rooney,Democratic,,65.2,True,True,False
+1976,house,Pennsylvania,PA,15,,Alice B. Sivulich,Republican,,34.5,False,False,False
+1976,house,Pennsylvania,PA,15,,Mary Jane Coates,Labor,,0.3,False,False,False
+1976,house,Pennsylvania,PA,16,,Robert Smith Walker,Republican,,62.3,True,False,True
+1976,house,Pennsylvania,PA,16,,Michael J. Minney,Democratic,,37.0,False,False,True
+1976,house,Pennsylvania,PA,16,,Richard A. Haas,Unknown,,0.5,False,False,True
+1976,house,Pennsylvania,PA,16,,Martin P. Ross,Labor,,0.2,False,False,True
+1976,house,Pennsylvania,PA,17,,Allen E. Ertel,Democratic,,50.7,True,False,True
+1976,house,Pennsylvania,PA,17,,H. J. Hepford,Republican,,48.5,False,False,True
+1976,house,Pennsylvania,PA,17,,Vernon M. Dublin,Unknown,,0.8,False,False,True
+1976,house,Pennsylvania,PA,18,,Doug Walgren,Democratic,,59.5,True,False,True
+1976,house,Pennsylvania,PA,18,,Robert J. Casey,Republican,,40.5,False,False,True
+1976,house,Pennsylvania,PA,19,,William F. Goodling,Republican,,70.6,True,True,False
+1976,house,Pennsylvania,PA,19,,Richard P. Noll,Democratic,,29.4,False,False,False
+1976,house,Pennsylvania,PA,20,,Joseph M. Gaydos,Democratic,,75.0,True,True,False
+1976,house,Pennsylvania,PA,20,,John P. Kostelac,Republican,,24.7,False,False,False
+1976,house,Pennsylvania,PA,20,,Joseph A. Billington,Labor,,0.4,False,False,False
+1976,house,Pennsylvania,PA,21,,John Herman Dent,Democratic,,59.4,True,True,False
+1976,house,Pennsylvania,PA,21,,Robert H. Miller,Republican,,40.6,False,False,False
+1976,house,Pennsylvania,PA,22,,Austin Murphy,Democratic,,55.3,True,False,True
+1976,house,Pennsylvania,PA,22,,Roger R. Fischer,Republican,,43.9,False,False,True
+1976,house,Pennsylvania,PA,22,,Arthur E. Wilson,Unknown,,0.8,False,False,True
+1976,house,Pennsylvania,PA,23,,Joseph S. Ammerman,Democratic,,56.5,True,False,False
+1976,house,Pennsylvania,PA,23,,Albert W. Johnson,Republican,,43.5,False,True,False
+1976,house,Pennsylvania,PA,24,,Marc L. Marks,Republican,,55.4,True,False,False
+1976,house,Pennsylvania,PA,24,,Joseph P. Vigorito,Democratic,,43.8,False,True,False
+1976,house,Pennsylvania,PA,24,,Robert Hereford,Unknown,,0.8,False,False,False
+1976,house,Pennsylvania,PA,25,,Gary A. Myers,Republican,,56.8,True,True,False
+1976,house,Pennsylvania,PA,25,,Eugene V. Atkinson,Democratic,,43.2,False,False,False
+1976,house,Rhode Island,RI,1,,Fernand St. Germain,Democratic,,62.4,True,True,False
+1976,house,Rhode Island,RI,1,,John J. Slocum Jr.,Republican,,36.4,False,False,False
+1976,house,Rhode Island,RI,1,,Ann M. Morrissey,Independent,,1.2,False,False,False
+1976,house,Rhode Island,RI,2,,Edward Beard,Democratic,,76.5,True,True,False
+1976,house,Rhode Island,RI,2,,Thomas V. Iannitti,Republican,,22.5,False,False,False
+1976,house,Rhode Island,RI,2,,Pasquale F. Pacia,Independent,,1.0,False,False,False
+1976,house,South Carolina,SC,1,130489,Mendel Jackson Davis,Democratic,,68.9,True,True,False
+1976,house,South Carolina,SC,1,130489,Lonnie Rowell,Republican,40598,31.1,False,False,False
+1976,house,South Carolina,SC,2,144978,Floyd Spence,Republican,83426,57.5,True,True,False
+1976,house,South Carolina,SC,2,144978,Clyde Burns Livingston,Democratic,,41.8,False,False,False
+1976,house,South Carolina,SC,2,144978,John O'Neal,Independent,950,0.7,False,False,False
+1976,house,South Carolina,SC,3,117740,Butler Derrick,Democratic,117740,100.0,True,True,False
+1976,house,South Carolina,SC,4,124860,James Mann,Democratic,,73.6,True,True,False
+1976,house,South Carolina,SC,4,124860,Robert L. Watkins,Republican,,26.4,False,False,False
+1976,house,South Carolina,SC,5,128437,Kenneth Lamar Holland,Democratic,,51.4,True,True,False
+1976,house,South Carolina,SC,5,128437,Bobby Richardson,Republican,62066,48.3,False,False,False
+1976,house,South Carolina,SC,5,128437,Harold Hough,Independent,298,0.2,False,False,False
+1976,house,South Carolina,SC,6,136892,John Jenrette,Democratic,75916,55.5,True,True,False
+1976,house,South Carolina,SC,6,136892,Edward Lunn Young,Republican,60288,44.0,False,False,False
+1976,house,South Carolina,SC,6,136892,Clarence C. Dillingham,Independent,,0.5,False,False,False
+1976,house,South Dakota,SD,1,,Larry Pressler,Republican,,79.8,True,True,False
+1976,house,South Dakota,SD,1,,James V. Guffey,Democratic,,19.4,False,False,False
+1976,house,South Dakota,SD,1,,Donald Stevens,Independent,,0.8,False,False,False
+1976,house,South Dakota,SD,2,,James Abdnor,Republican,,69.9,True,True,False
+1976,house,South Dakota,SD,2,,Grace Mickelson,Democratic,,30.1,False,False,False
+1976,house,Tennessee,TN,1,,Jimmy Quillen,Republican,,58.0,True,True,False
+1976,house,Tennessee,TN,1,,Lloyd Blevins,Democratic,,41.2,False,False,False
+1976,house,Tennessee,TN,1,,Robert Joseph Bobic,Independent,,0.6,False,False,False
+1976,house,Tennessee,TN,1,,Mary S. Joyner,Independent,,0.3,False,False,False
+1976,house,Tennessee,TN,2,,John Duncan Sr.,Republican,,62.8,True,True,False
+1976,house,Tennessee,TN,2,,Mike Rowland,Democratic,,37.2,False,False,False
+1976,house,Tennessee,TN,3,,Marilyn Lloyd,Democratic,,67.5,True,True,False
+1976,house,Tennessee,TN,3,,LaMar Baker,Republican,,31.1,False,False,False
+1976,house,Tennessee,TN,3,,Tom Dover,Unknown,,1.3,False,False,False
+1976,house,Tennessee,TN,3,,Wendell H. Hill Jr.,Unknown,,0.1,False,False,False
+1976,house,Tennessee,TN,4,,Al Gore,Democratic,,94.0,True,False,True
+1976,house,Tennessee,TN,4,,William H. McGlamery,Independent,,6.0,False,False,True
+1976,house,Tennessee,TN,5,,Clifford Allen,Democratic,,92.4,True,True,False
+1976,house,Tennessee,TN,5,,Roger Bissell,Independent,,7.6,False,False,False
+1976,house,Tennessee,TN,6,,Robin Beard,Republican,,64.4,True,True,False
+1976,house,Tennessee,TN,6,,Ross Bass,Democratic,,35.6,False,False,False
+1976,house,Tennessee,TN,7,,Ed Jones,Democratic,,100.0,True,True,False
+1976,house,Tennessee,TN,8,,Harold Ford Sr.,Democratic,,60.7,True,True,False
+1976,house,Tennessee,TN,8,,Andy Allissandratos,Republican,,38.5,False,False,False
+1976,house,Tennessee,TN,8,,Mark F. Flanagan,Independent,,0.9,False,False,False
+1976,house,Texas,TX,1,161718,Sam B. Hall Jr.,Democratic,,83.7,True,True,False
+1976,house,Texas,TX,1,161718,James Hogan,Republican,26334,16.3,False,False,False
+1976,house,Texas,TX,2,140902,Charles Wilson,Democratic,,95.0,True,True,False
+1976,house,Texas,TX,2,140902,James William Doyle III,Unknown,,5.0,False,False,False
+1976,house,Texas,TX,3,231413,James M. Collins,Republican,171343,74.0,True,True,False
+1976,house,Texas,TX,3,231413,Les Shackelford Jr.,Democratic,,26.0,False,False,False
+1976,house,Texas,TX,4,168035,Ray Roberts,Democratic,105394,62.7,True,True,False
+1976,house,Texas,TX,4,168035,Frank S. Glenn,Republican,,37.3,False,False,False
+1976,house,Texas,TX,5,125768,Jim Mattox,Democratic,67871,54.0,True,False,True
+1976,house,Texas,TX,5,125768,Nancy Judy,Republican,56056,44.6,False,False,True
+1976,house,Texas,TX,5,125768,Sam McDonnell,Unknown,1841,1.5,False,False,True
+1976,house,Texas,TX,6,180534,Olin E. Teague,Democratic,119025,65.9,True,True,False
+1976,house,Texas,TX,6,180534,Wes Mowery,Republican,60316,33.4,False,False,False
+1976,house,Texas,TX,6,180534,Harley L. Pinon,Unknown,,0.7,False,False,False
+1976,house,Texas,TX,7,193127,Bill Archer,Republican,193127,100.0,True,True,False
+1976,house,Texas,TX,8,139163,Robert C. Eckhardt,Democratic,,60.7,True,True,False
+1976,house,Texas,TX,8,139163,Nick Gearhart,Republican,54566,39.2,False,False,False
+1976,house,Texas,TX,8,139163,Gene Lantz,Unknown,193,0.1,False,False,False
+1976,house,Texas,TX,9,112945,Jack Brooks,Democratic,112945,100.0,True,True,False
+1976,house,Texas,TX,10,209165,J. J. Pickle,Democratic,160683,76.8,True,True,False
+1976,house,Texas,TX,10,209165,Paul McClure,Republican,48482,23.2,False,False,False
+1976,house,Texas,TX,11,160515,William R. Poage,Democratic,92142,57.4,True,True,False
+1976,house,Texas,TX,11,160515,Jack Burgess,Republican,68373,42.6,False,False,False
+1976,house,Texas,TX,12,134259,Jim Wright,Democratic,101814,75.8,True,True,False
+1976,house,Texas,TX,12,134259,W. R. Durham,Republican,31941,23.8,False,False,False
+1976,house,Texas,TX,12,134259,Larry Kutchinski,Unknown,504,0.4,False,False,False
+1976,house,Texas,TX,13,171673,Jack Hightower,Democratic,101798,59.3,True,True,False
+1976,house,Texas,TX,13,171673,Robert Price,Republican,,40.4,False,False,False
+1976,house,Texas,TX,13,171673,William K. Hathcock,Unknown,,0.3,False,False,False
+1976,house,Texas,TX,14,152377,John Andrew Young,Democratic,93589,61.4,True,True,False
+1976,house,Texas,TX,14,152377,L. Dean Holford,Republican,58788,38.6,False,False,False
+1976,house,Texas,TX,15,138283,Kika de la Garza,Democratic,102837,74.4,True,True,False
+1976,house,Texas,TX,15,138283,Robert Lendol McDonald,Republican,,25.6,False,False,False
+1976,house,Texas,TX,16,124375,Richard Crawford White,Democratic,71876,57.8,True,True,False
+1976,house,Texas,TX,16,124375,Vic Shackelford,Republican,52499,42.2,False,False,False
+1976,house,Texas,TX,17,127613,Omar Burleson,Democratic,127613,100.0,True,True,False
+1976,house,Texas,TX,18,109876,Barbara Jordan,Democratic,93953,85.5,True,True,False
+1976,house,Texas,TX,18,109876,Sam H. Wright,Republican,,14.0,False,False,False
+1976,house,Texas,TX,18,109876,Sylvia Zapata,Unknown,542,0.5,False,False,False
+1976,house,Texas,TX,19,160899,George H. Mahon,Democratic,87908,54.6,True,True,False
+1976,house,Texas,TX,19,160899,Jim Reese,Republican,72991,45.4,False,False,False
+1976,house,Texas,TX,20,90173,Henry B. González,Democratic,,100.0,True,True,False
+1976,house,Texas,TX,21,210300,Bob Krueger,Democratic,149395,71.0,True,True,False
+1976,house,Texas,TX,21,210300,Bobby A. Locke,Republican,,26.7,False,False,False
+1976,house,Texas,TX,21,210300,Ramon E. Carrillo,Unknown,,1.2,False,False,False
+1976,house,Texas,TX,21,210300,Ed Gallion,Unknown,2179,1.0,False,False,False
+1976,house,Texas,TX,22,192802,Robert Gammage,Democratic,96535,50.1,True,False,False
+1976,house,Texas,TX,22,192802,Ron Paul,Republican,96267,49.9,False,True,False
+1976,house,Texas,TX,23,96481,Abraham Kazen,Democratic,96481,100.0,True,True,False
+1976,house,Texas,TX,24,130522,Dale Milford,Democratic,82743,63.4,True,True,False
+1976,house,Texas,TX,24,130522,Leo Berman,Republican,47075,36.1,False,False,False
+1976,house,Texas,TX,24,130522,Earl W. Armstrong,Unknown,,0.5,False,False,False
+1976,house,Utah,UT,1,,K. Gunn McKay,Democratic,,58.2,True,True,False
+1976,house,Utah,UT,1,,Joe H. Ferguson,Republican,,39.8,False,False,False
+1976,house,Utah,UT,1,,Harry B. Gerlach,Unknown,,2.0,False,False,False
+1976,house,Utah,UT,2,,David Daniel Marriott,Republican,,52.4,True,False,False
+1976,house,Utah,UT,2,,Allan Howe,Democratic,,40.1,False,True,False
+1976,house,Utah,UT,2,,Daryl J. McCarty,Unknown,,7.4,False,False,False
+1976,house,Vermont,VT,AL,,Jim Jeffords,Republican,,67.3,True,True,False
+1976,house,Vermont,VT,AL,,John A. Burgess,Democratic,,32.7,False,False,False
+1976,house,Virginia,VA,1,,Paul Trible,Republican,,48.6,True,False,True
+1976,house,Virginia,VA,1,,Robert E. Quinn,Democratic,,47.5,False,False,True
+1976,house,Virginia,VA,1,,Mary B. McClaine,Independent,,4.0,False,False,True
+1976,house,Virginia,VA,2,,G. William Whitehurst,Republican,,65.7,True,True,False
+1976,house,Virginia,VA,2,,Robert E. Washington,Democratic,,34.3,False,False,False
+1976,house,Virginia,VA,3,,David E. Satterfield III,Democratic,,88.1,True,True,False
+1976,house,Virginia,VA,3,,Alan Robert Ogden,Independent,,11.9,False,False,False
+1976,house,Virginia,VA,4,,Robert Daniel,Republican,,53.0,True,True,False
+1976,house,Virginia,VA,4,,"J. W. ""Billy"" O'Brien",Democratic,,47.0,False,False,False
+1976,house,Virginia,VA,5,,Dan Daniel,Democratic,,100.0,True,True,False
+1976,house,Virginia,VA,6,,M. Caldwell Butler,Republican,,62.2,True,True,False
+1976,house,Virginia,VA,6,,Warren D. Saunders,Independent,,37.8,False,False,False
+1976,house,Virginia,VA,7,,J. Kenneth Robinson,Republican,,81.8,True,True,False
+1976,house,Virginia,VA,7,,James B. Hutt Jr.,Independent,,18.2,False,False,False
+1976,house,Virginia,VA,8,,Herbert Harris,Democratic,,51.6,True,True,False
+1976,house,Virginia,VA,8,,James R. Tate,Republican,,42.6,False,False,False
+1976,house,Virginia,VA,8,,Michael D. Cannon,Independent,,5.8,False,False,False
+1976,house,Virginia,VA,9,,William C. Wampler,Republican,,57.3,True,True,False
+1976,house,Virginia,VA,9,,Charles J. Horne,Democratic,,42.7,False,False,False
+1976,house,Virginia,VA,10,,Joseph L. Fisher,Democratic,,54.7,True,True,False
+1976,house,Virginia,VA,10,,Vincent F. Callahan Jr.,Republican,,38.9,False,False,False
+1976,house,Virginia,VA,10,,E. Stanley Rittenhouse,Independent,,6.4,False,False,False
+1976,house,Washington,WA,1,,Joel Pritchard,Republican,,71.9,True,True,False
+1976,house,Washington,WA,1,,Dave Wood,Democratic,,25.8,False,False,False
+1976,house,Washington,WA,1,,Alan M. Gottlieb,Unknown,,1.9,False,False,False
+1976,house,Washington,WA,1,,Patrick Ruckert,Labor,,0.4,False,False,False
+1976,house,Washington,WA,2,,Lloyd Meeds,Democratic,,49.3,True,True,False
+1976,house,Washington,WA,2,,John Nance Garner,Republican,,49.0,False,False,False
+1976,house,Washington,WA,2,,Tom Bly,Unknown,,0.9,False,False,False
+1976,house,Washington,WA,2,,Carol Ruckert,Labor,,0.8,False,False,False
+1976,house,Washington,WA,3,,Don Bonker,Democratic,,70.8,True,True,False
+1976,house,Washington,WA,3,,Chuck Elhart,Republican,,28.0,False,False,False
+1976,house,Washington,WA,3,,David Kilber,Labor,,1.1,False,False,False
+1976,house,Washington,WA,4,,Mike McCormack,Democratic,,57.8,True,True,False
+1976,house,Washington,WA,4,,Dick Granger,Republican,,41.0,False,False,False
+1976,house,Washington,WA,4,,Jeff W. Busby,Unknown,,0.8,False,False,False
+1976,house,Washington,WA,4,,Ted Andromidas,Labor,,0.5,False,False,False
+1976,house,Washington,WA,5,,Tom Foley,Democratic,,58.0,True,True,False
+1976,house,Washington,WA,5,,Duane Alton,Republican,,40.6,False,False,False
+1976,house,Washington,WA,5,,D. E. Bear Sandahl,Unknown,,0.9,False,False,False
+1976,house,Washington,WA,5,,Ira Liebowitz,Labor,,0.5,False,False,False
+1976,house,Washington,WA,6,,Norm Dicks,Democratic,,73.5,True,False,True
+1976,house,Washington,WA,6,,Robert M. Reynolds,Republican,,25.3,False,False,True
+1976,house,Washington,WA,6,,Michael Duane,Labor,,1.2,False,False,True
+1976,house,Washington,WA,7,,Brock Adams,Democratic,,73.0,True,True,False
+1976,house,Washington,WA,7,,Raymond Pritchard,Republican,,25.4,False,False,False
+1976,house,Washington,WA,7,,Gene Goosman,Unknown,,0.9,False,False,False
+1976,house,Washington,WA,7,,Marianna Wertz,Labor,,0.7,False,False,False
+1976,house,West Virginia,WV,1,,Bob Mollohan,Democratic,,58.0,True,True,True
+1976,house,West Virginia,WV,1,,John F. McCuskey,Republican,,42.0,False,False,True
+1976,house,West Virginia,WV,2,,Harley Orrin Staggers,Democratic,,73.6,True,True,False
+1976,house,West Virginia,WV,2,,Jim Sloan,Republican,,26.4,False,False,False
+1976,house,West Virginia,WV,3,,John M. Slack Jr.,Democratic,,100.0,True,True,False
+1976,house,West Virginia,WV,4,,Nick Rahall,Democratic,,45.6,True,False,True
+1976,house,West Virginia,WV,4,,Ken Hechler,Unknown,,36.6,False,True,True
+1976,house,West Virginia,WV,4,,Steve Goodman,Republican,,17.8,False,False,True
+1976,house,Wisconsin,WI,1,,Les Aspin,Democratic,,64.9,True,True,False
+1976,house,Wisconsin,WI,1,,William W. Petrie,Republican,,34.0,False,False,False
+1976,house,Wisconsin,WI,1,,Eugene R. Zimmerman,Unknown,,1.1,False,False,False
+1976,house,Wisconsin,WI,2,,Robert Kastenmeier,Democratic,,65.6,True,True,False
+1976,house,Wisconsin,WI,2,,Elizabeth T. Miller,Republican,,34.4,False,False,False
+1976,house,Wisconsin,WI,3,,Alvin Baldus,Democratic,,58.1,True,True,False
+1976,house,Wisconsin,WI,3,,Adolf L. Gundersen,Republican,,41.9,False,False,False
+1976,house,Wisconsin,WI,4,,Clement J. Zablocki,Democratic,,100.0,True,True,False
+1976,house,Wisconsin,WI,5,,Henry S. Reuss,Democratic,,77.8,True,True,False
+1976,house,Wisconsin,WI,5,,Robert L. Hicks,Republican,,21.0,False,False,False
+1976,house,Wisconsin,WI,5,,R. Julian Chapman,Independent,,0.9,False,False,False
+1976,house,Wisconsin,WI,5,,John E. Sokoly,Independent,,0.3,False,False,False
+1976,house,Wisconsin,WI,6,,William A. Steiger,Republican,,63.4,True,True,False
+1976,house,Wisconsin,WI,6,,Joseph C. Smith,Democratic,,36.6,False,False,False
+1976,house,Wisconsin,WI,7,,Dave Obey,Democratic,,73.3,True,True,False
+1976,house,Wisconsin,WI,7,,Frank A. Savino,Republican,,26.1,False,False,False
+1976,house,Wisconsin,WI,7,,George Olishkewych,Unknown,,0.7,False,False,False
+1976,house,Wisconsin,WI,8,,Robert John Cornell,Democratic,,50.9,True,True,False
+1976,house,Wisconsin,WI,8,,Harold Vernon Froehlich,Republican,,46.9,False,False,False
+1976,house,Wisconsin,WI,8,,Donald D. Hoeft,Unknown,,2.2,False,False,False
+1976,house,Wisconsin,WI,9,,Bob Kasten,Republican,,65.9,True,True,False
+1976,house,Wisconsin,WI,9,,Lynn M. McDonald,Democratic,,34.1,False,False,False
+1976,house,Wyoming,WY,AL,151868,Teno Roncalio,Democratic,85721,56.4,True,True,True
+1976,house,Wyoming,WY,AL,151868,Larry Hart,Republican,66147,43.6,False,False,True

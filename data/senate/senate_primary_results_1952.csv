@@ -36,7 +36,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1952,Minnesota,Democratic primary election results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,John A. McDonough,"64,094",27.56%
 1952,Minnesota,Democratic primary election results,Primary,Candidate,False,Minnesota Democratic–Farmer–Labor Party,F. H. Shoemaker,"42,029",18.07%
 1952,Minnesota,Democratic primary election results,Primary,Total,False,,,"232,549",100.00%
-1952,Minnesota,Republican primary election results,Primary,Winning,False,Republican Party of Minnesota,Edward J. Thye,"321,659",84.84%
+1952,Minnesota,Republican primary election results,Primary,Winning,True,Republican Party of Minnesota,Edward J. Thye,"321,659",84.84%
 1952,Minnesota,Republican primary election results,Primary,Candidate,False,Republican Party of Minnesota,Edward C. Slettedahl,"23,427",6.18%
 1952,Minnesota,Republican primary election results,Primary,Candidate,False,Republican Party of Minnesota,John M. Arneson,"13,653",3.60%
 1952,Minnesota,Republican primary election results,Primary,Candidate,False,Republican Party of Minnesota,Arthur D. Russell,"11,221",2.96%
@@ -95,7 +95,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1952,Rhode Island,Democratic primary results,Primary,Winning,True,Democratic Party (United States),John Pastore,unopposed,
 1952,Rhode Island,Republican primary results,Primary,Winning,False,Republican Party (United States),Bayard Ewing,unopposed,
 1952,Tennessee,1952 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Albert Gore Sr.,"334,957",56.54%
-1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Kenneth McKellar,"245,054",41.36%
+1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,True,Democratic Party (United States),Kenneth McKellar,"245,054",41.36%
 1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),John Randolph Neal Jr.,"7,181",1.21%
 1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Herman H. Ross,"4,950",0.84%
 1952,Tennessee,1952 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),James Patrick Sutton (write-in),293,0.05%

@@ -1,7 +1,7 @@
-year,level,state,state_code,district,candidate,party,percentage,winner,incumbent,open_seat
-2019,house,North Carolina,NC,9,Dan Bishop,Republican,50.69,True,False,True
-2019,house,North Carolina,NC,9,Dan McCready,Democratic,48.7,False,False,True
-2019,house,North Carolina,NC,9,Jeff Scott,Libertarian,0.41,False,False,True
-2019,house,North Carolina,NC,9,Allen Smith,Green,0.2,False,False,True
-2019,house,Pennsylvania,PA,12,Fred Keller,Republican,68.08,True,False,True
-2019,house,Pennsylvania,PA,12,Marc Friedenberg,Democratic,31.92,False,False,True
+year,level,state,state_code,district,total_votes,candidate,party,votes,percentage,winner,incumbent,open_seat
+2019,house,North Carolina,NC,9,190506,Dan Bishop,Republican,96573,50.69,True,False,True
+2019,house,North Carolina,NC,9,190506,Dan McCready,Democratic,92785,48.7,False,False,True
+2019,house,North Carolina,NC,9,190506,Jeff Scott,Libertarian,773,0.41,False,False,True
+2019,house,North Carolina,NC,9,190506,Allen Smith,Green,375,0.2,False,False,True
+2019,house,Pennsylvania,PA,12,132195,Fred Keller,Republican,90000,68.08,True,False,True
+2019,house,Pennsylvania,PA,12,132195,Marc Friedenberg,Democratic,42195,31.92,False,False,True

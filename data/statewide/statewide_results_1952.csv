@@ -1,0 +1,85 @@
+year,state,state_code,office,candidate,party,percentage,winner,incumbent
+1952,Arizona,AZ,governor,J. Howard Pyle,Republican,60.2,True,True
+1952,Arizona,AZ,governor,Joe C. Haldiman,Democratic,39.8,False,False
+1952,Arkansas,AR,governor,Francis Cherry,Democratic,87.4,True,False
+1952,Arkansas,AR,governor,Jefferson W. Speck,Republican,12.6,False,False
+1952,Colorado,CO,governor,Daniel I. J. Thornton,Republican,57.1,True,True
+1952,Colorado,CO,governor,John W. Metzger,Democratic,42.4,False,False
+1952,Colorado,CO,governor,Louis K. Stephens,Labor,0.5,False,False
+1952,Delaware,DE,governor,J. Caleb Boggs,Republican,52.1,True,False
+1952,Delaware,DE,governor,Elbert N. Carvel,Democratic,47.9,False,True
+1952,Florida,FL,governor,Daniel T. McCarty,Democratic,74.8,True,False
+1952,Florida,FL,governor,Harry S. Swan,Republican,25.2,False,False
+1952,Illinois,IL,governor,William Stratton,Republican,52.5,True,False
+1952,Illinois,IL,governor,Sherwood Dixon,Democratic,47.3,False,False
+1952,Illinois,IL,governor,Louis Fisher,Labor,0.2,False,False
+1952,Indiana,IN,governor,George N. Craig,Republican,55.7,True,False
+1952,Indiana,IN,governor,John A. Watkins,Democratic,43.6,False,False
+1952,Indiana,IN,governor,Lester N. Abel,Prohibition,0.65,False,False
+1952,Indiana,IN,governor,Samuel Boorda,Progressive,0.05,False,False
+1952,Indiana,IN,governor,Charles Ginsberg,Labor,0.04,False,False
+1952,Iowa,IA,governor,William S. Beardsley,Republican,51.9,True,True
+1952,Iowa,IA,governor,Herschel C. Loveless,Democratic,47.8,False,False
+1952,Iowa,IA,governor,Z. Everett Kellum,Prohibition,0.23,False,False
+1952,Iowa,IA,governor,Ernest J. Seemann,Independent,0.1,False,False
+1952,Kansas,KS,governor,Edward F. Arn,Republican,56.3,True,True
+1952,Kansas,KS,governor,Charles Rooney,Democratic,41.7,False,False
+1952,Kansas,KS,governor,David C. White,Prohibition,1.8,False,False
+1952,Kansas,KS,governor,W.W. Tamplin,Socialist,0.22,False,False
+1952,Maine,ME,governor,Burton M. Cross,Republican,51.7,True,False
+1952,Maine,ME,governor,James C. Oliver,Democratic,33.2,False,False
+1952,Maine,ME,governor,Neil S. Bishop,Independent Republican,14.4,False,False
+1952,Maine,ME,governor,Henry W. Boyker,Independent,0.66,False,False
+1952,Massachusetts,MA,governor,Christian Herter,Republican,49.91,True,False
+1952,Massachusetts,MA,governor,Paul A. Dever,Democratic,49.29,False,True
+1952,Massachusetts,MA,governor,Florence H. Luscomb,Independent,0.32,False,False
+1952,Massachusetts,MA,governor,Larence Gilfedder,Labor,0.26,False,False
+1952,Massachusetts,MA,governor,Guy S. Williams,Prohibition,0.22,False,False
+1952,Michigan,MI,governor,G. Mennen Williams,Democratic,49.96,True,True
+1952,Michigan,MI,governor,Frederick M. Alger Jr.,Republican,49.66,False,False
+1952,Michigan,MI,governor,E. Harold Munn,Prohibition,0.31,False,False
+1952,Michigan,MI,governor,Theos A. Grove,Labor,0.04,False,False
+1952,Michigan,MI,governor,Howard Lerner,Workers,0.02,False,False
+1952,Minnesota,MN,governor,C. Elmer Anderson,Republican,55.3,True,True
+1952,Minnesota,MN,governor,Orville Freeman,Minnesota Democratic-farmer-labor,44.0,False,False
+1952,Minnesota,MN,governor,Martin Frederickson,Progressive,0.4,False,False
+1952,Minnesota,MN,governor,Eldrid H. Bauers,Labor,0.3,False,False
+1952,Missouri,MO,governor,Phil M. Donnelly,Democratic,52.6,True,False
+1952,Missouri,MO,governor,Howard Elliott,Republican,47.4,False,False
+1952,Missouri,MO,governor,Howard Edsell,Progressive,0.05,False,False
+1952,Missouri,MO,governor,Maurice R. Wheeler,Socialist,0.02,False,False
+1952,Missouri,MO,governor,Don Lohbeck,Nationalist,0.01,False,False
+1952,Missouri,MO,governor,Clara Hayes,Labor,0.01,False,False
+1952,Montana,MT,governor,J. Hugo Aronson,Republican,51.0,True,False
+1952,Montana,MT,governor,John W. Bonner,Democratic,49.0,False,True
+1952,Nebraska,NE,governor,Robert B. Crosby,Republican,61.4,True,False
+1952,Nebraska,NE,governor,Walter R. Raecke,Democratic,38.6,False,False
+1952,New Hampshire,NH,governor,Hugh Gregg,Republican,63.2,True,False
+1952,New Hampshire,NH,governor,William H. Craig,Democratic,36.9,False,False
+1952,New Mexico,NM,governor,Edwin L. Mechem,Republican,53.8,True,True
+1952,New Mexico,NM,governor,Everett Grantham,Democratic,46.2,False,False
+1952,North Carolina,NC,governor,William B. Umstead,Democratic,67.5,True,False
+1952,North Carolina,NC,governor,Herbert F. Seawell Jr.,Republican,32.5,False,False
+1952,North Dakota,ND,governor,Norman Brunsdale,Republican,78.7,True,True
+1952,North Dakota,ND,governor,Ole C. Johnson,Democratic,21.3,False,False
+1952,Ohio,OH,governor,Frank Lausche,Democratic,55.9,True,True
+1952,Ohio,OH,governor,Charles Phelps Taft II,Republican,44.1,False,False
+1952,Rhode Island,RI,governor,Dennis J. Roberts,Democratic,52.6,True,True
+1952,Rhode Island,RI,governor,Raoul Archambault Jr.,Republican,47.4,False,False
+1952,South Dakota,SD,governor,Sigurd Anderson,Republican,70.2,True,True
+1952,South Dakota,SD,governor,Sherman A. Iverson,Democratic,29.9,False,False
+1952,Tennessee,TN,governor,Frank G. Clement,Democratic,79.4,True,False
+1952,Tennessee,TN,governor,R. Beecher Witt,Republican,20.6,False,False
+1952,Texas,TX,governor,Allan Shivers,Democratic,98.05,True,True
+1952,Utah,UT,governor,J. Bracken Lee,Republican,55.1,True,True
+1952,Utah,UT,governor,Earl J. Glade,Democratic,44.9,False,False
+1952,Vermont,VT,governor,Lee E. Emerson,Republican,52.0,True,True
+1952,Vermont,VT,governor,Robert W. Larrow,Democratic,39.8,False,False
+1952,Vermont,VT,governor,Henry D. Vail,Independent,8.3,False,False
+1952,Washington,WA,governor,Arthur B. Langlie,Republican,52.7,True,True
+1952,Washington,WA,governor,Hugh Mitchell,Democratic,47.4,False,False
+1952,West Virginia,WV,governor,William C. Marland,Democratic,51.5,True,False
+1952,West Virginia,WV,governor,Rush Holt Sr.,Republican,48.5,False,False
+1952,Wisconsin,WI,governor,Walter J. Kohler Jr.,Republican,62.5,True,True
+1952,Wisconsin,WI,governor,William Proxmire,Democratic,37.3,False,False
+1952,Wisconsin,WI,governor,Michael Essin,Independent,0.2,False,False

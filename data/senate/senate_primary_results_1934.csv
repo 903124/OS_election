@@ -18,7 +18,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Florida,1934 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),James F. Sikes,"14,558",6.81%
 1934,Florida,1934 Democratic U.S. Senate primary,Primary,Candidate,False,Democratic Party (United States),Hortense K. Wells,"8,167",3.82%
 1934,Florida,1934 Democratic U.S. Senate primary,Primary,Total,False,,,"213,897",100.00%
-1934,Maine,1934 Republican U.S. Senate primary,Primary,Winning,False,Republican Party (United States),Frederick Hale,"61,141",76.70%
+1934,Maine,1934 Republican U.S. Senate primary,Primary,Winning,True,Republican Party (United States),Frederick Hale,"61,141",76.70%
 1934,Maine,1934 Republican U.S. Senate primary,Primary,Candidate,False,Republican Party (United States),Louis A. Jack,"18,578",23.30%
 1934,Maine,1934 Republican U.S. Senate primary,Primary,Total,False,,,"79,719",100.00%
 1934,Maine,1934 Democratic U.S. Senate primary,Primary,Winning,False,Democratic Party (United States),F. Harold Dubord,"15,743",54.03%
@@ -72,7 +72,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Montana,Republican Primary results,Primary,Total,False,,,"51,361",100.00
 1934,Montana (special),Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),James E. Murray,"19,640",24.89%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),James F. O'Connor,"18,194",23.05%
-1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John E. Erickson,"17,440",22.10%
+1934,Montana (special),Democratic Party primary results,Primary,Candidate,True,Democratic Party (United States),John E. Erickson,"17,440",22.10%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),Louis P. Donovan,"10,212",12.94%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John A. Lovelace,"8,649",10.96%
 1934,Montana (special),Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),W. W. Hamilton,"4,788",6.07%
@@ -96,7 +96,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1934,Ohio,1934 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),Charles F. West,"168,120",28.05%
 1934,Ohio,1934 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),George White,"167,939",28.02%
 1934,Ohio,1934 Democratic Senate primary,Primary,Total,False,,,"599,457",100.00%
-1934,Tennessee,1934 Democratic Senate primary,Primary,Winning,False,Democratic Party (United States),Kenneth McKellar,"212,226",83.99%
+1934,Tennessee,1934 Democratic Senate primary,Primary,Winning,True,Democratic Party (United States),Kenneth McKellar,"212,226",83.99%
 1934,Tennessee,1934 Democratic Senate primary,Primary,Candidate,False,Democratic Party (United States),John Randolph Neal Jr.,"40,463",16.01%
 1934,Tennessee,1934 Democratic Senate primary,Primary,Total,False,,,"252,689",100.00%
 1934,Tennessee (special),Democratic Party primary results,Primary,Winning,True,Democratic Party (United States),Nathan L. Bachman,"166,293",57.85%

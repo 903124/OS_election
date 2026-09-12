@@ -110,7 +110,7 @@ Year,State,Election,Election_Type,Row_Type,Incumbent,party,candidate,votes,perce
 1948,South Dakota,Republican primary,Primary,Candidate,False,Republican Party (United States),Otto B. Lindstad,"12,022",15.49%
 1948,South Dakota,Republican primary,Primary,Total,False,,,"77,617",100.00%
 1948,Tennessee,Democratic Party primary results,Primary,Winning,False,Democratic Party (United States),C. Estes Kefauver,"171,791",42.24%
-1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),A. Tom Stewart,"129,873",31.94%
+1948,Tennessee,Democratic Party primary results,Primary,Candidate,True,Democratic Party (United States),A. Tom Stewart,"129,873",31.94%
 1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John Mitchell,"96,192",23.65%
 1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),George W. Hardin,"5,415",1.33%
 1948,Tennessee,Democratic Party primary results,Primary,Candidate,False,Democratic Party (United States),John R. Neal,"1,876",0.46%
